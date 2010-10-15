@@ -1,7 +1,7 @@
 <?php
 	$lang = array(
 	'description' => array(
-		'length' => '',
+		'length' => 'The yar description yadda yadda argh',
 		'required' => '',
 	),
 	'name' => array(
