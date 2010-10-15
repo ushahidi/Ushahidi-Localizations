@@ -2,7 +2,7 @@
 	$lang = array(
 	'date' => 'Date arrrr!!!!!!!',
 	'feed_name' => array(
-		'length' => '',
+		'length' => 'Hopefully final test.',
 		'required' => '',
 	),
 	'feed_url' => array(
