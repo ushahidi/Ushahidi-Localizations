@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'error' => '',
+	'error' => 'Test Database %s YARRR!',
 	'table_not_found' => '',
 	);
 ?>
