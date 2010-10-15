@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'date' => 'Date arrrr',
+	'date' => 'Date arrrr!!',
 	'feed_name' => array(
 		'length' => '',
 		'required' => '',
