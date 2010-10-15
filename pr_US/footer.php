@@ -1,5 +1,5 @@
 <?php
 	$lang = array(
-	'cURL_not_installed' => 'gfdsagfda',
+	'cURL_not_installed' => 'gfdsagfda fdsafdsa fds af',
 	);
 ?>
