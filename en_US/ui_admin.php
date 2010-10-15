@@ -46,7 +46,7 @@
 	'demo' => 'Demo',
 	'description' => 'Description',
 	'download_reports' => 'Download Reports',
-	'edited_by' => 'Edited By At',
+	'edited_by' => 'Edited By',
 	'edit_action' => 'Edit',
 	'edit_log' => 'Edit Log',
 	'email' => 'Email',
