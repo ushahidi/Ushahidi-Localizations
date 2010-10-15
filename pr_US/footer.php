@@ -1,5 +1,5 @@
 <?php
 	$lang = array(
-	'cURL_not_installed' => 'ddfdsfgfdgfdsgfdsagas',
+	'cURL_not_installed' => 'php5-curl is not installed on this system *SQUAK*!',
 	);
 ?>
