@@ -2,7 +2,6 @@
 	$lang = array(
 	'feedback_actions' => 'Actions',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'أدخل الرمز السري',
 		'valid' => 'أدخل رمز سري صحيح',
 	),
