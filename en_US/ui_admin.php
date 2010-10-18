@@ -149,7 +149,6 @@
 	'required' => 'Required',
 	'reset' => 'Reset',
 	'results' => 'Results',
-	'save' => '',
 	'save_settings' => 'Save Settings',
 	'search' => 'Search',
 	'searching_for' => 'searching for',

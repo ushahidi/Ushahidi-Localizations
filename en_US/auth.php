@@ -17,7 +17,6 @@
 		'login error' => 'Please check that you entered the correct password.',
 		'matches' => 'Please enter the same password in the two password fields.',
 		'required' => 'The password field is required.',
-		'standard_text' => '',
 	),
 	'password_confirm' => array(
 		'matches' => 'The password confirmation field must match the password field.',
