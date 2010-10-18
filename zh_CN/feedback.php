@@ -2,7 +2,6 @@
 	$lang = array(
 	'feedback_actions' => '操作',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => '请输入验证码',
 		'valid' => '验证码输入不正确',
 	),
