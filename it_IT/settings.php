@@ -114,7 +114,6 @@
 		'laconica_configuration' => 'Credenziali Laconica',
 		'laconica_site' => 'Sito Laconica ',
 		'language' => 'Lingua del Sito',
-		'message' => '',
 		'name' => 'Nome Sito',
 		'share_site_stats' => 'Condividi le statistiche del Sito in API',
 		'tagline' => 'Tagline Sito',

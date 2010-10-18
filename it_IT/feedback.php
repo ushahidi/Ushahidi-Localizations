@@ -2,7 +2,6 @@
 	$lang = array(
 	'feedback_actions' => 'Azioni',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'Ti invitiamo a inserire il Codice di Sicurezza.',
 		'valid' => 'Ti invitiamo a inserire un codice di sicurezza valido',
 	),

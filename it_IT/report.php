@@ -1,15 +1,5 @@
 <?php
 	$lang = array(
-	'comments_add' => '',
-	'comments_additional_reports' => '',
-	'comments_credibility' => '',
-	'comments_form_comment' => '',
-	'comments_form_email' => '',
-	'comments_form_error' => '',
-	'comments_form_leave_comment' => '',
-	'comments_form_name' => '',
-	'comments_form_security_code' => '',
-	'comments_form_submit_comment' => '',
 	'custom_field' => array(
 		'values' => 'Inserisci un valore valido per uno degli item del tuo custom form',
 	),
@@ -26,7 +16,6 @@
 		'date_mmddyyyy' => 'Il campo data DA contiene una data valida?',
 		'range' => 'Inserisci una data DA valida. Non pu',
 	),
-	'geocode_not_found' => '',
 	'incident_active' => array(
 		'between' => 'Inserisci un valore valido per Approva Questa Segnalazione',
 		'required' => 'Inserisci un valore valido per Approva Questa Segnalazione',
@@ -114,24 +103,5 @@
 		'date_mmddyyyy' => 'Il campo data A contiene una data valida?',
 		'range' => 'Inserisci una data A valida. Non pu',
 		'range_greater' => 'La data DA non pu',
-	),
-	'view_alt_incident' => '',
-	'view_alt_nearby_incident' => '',
-	'view_category' => '',
-	'view_credibility' => '',
-	'view_date' => '',
-	'view_images' => '',
-	'view_incident' => '',
-	'view_incident_reports' => '',
-	'view_incident_reports_date' => '',
-	'view_incident_reports_location' => '',
-	'view_incident_reports_title' => '',
-	'view_incident_report_description' => '',
-	'view_location' => '',
-	'view_nearby_incident' => '',
-	'view_time' => '',
-	'view_unverified' => '',
-	'view_verified' => '',
-	'view_videos' => '',
-	);
+	));
 ?>

@@ -17,7 +17,6 @@
 		'login error' => 'Per favore controlla che la password inserita sia corretta.',
 		'matches' => 'Per favore inserisci la stessa password nei due campi password.',
 		'required' => 'Il campo password ',
-		'standard_text' => '',
 	),
 	'password_confirm' => array(
 		'matches' => 'Il campo password di conferma deve essere uguale al campo password.',
@@ -28,8 +27,6 @@
 		'required' => 'Il campo email ',
 	),
 	'roles' => array(
-		'alpha_numeric' => '',
-		'length' => '',
 		'required' => 'Devi definire almeno un ruolo.',
 		'values' => 'Seleziona il ruolo ADMIN or USER.',
 	),
