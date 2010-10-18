@@ -11,7 +11,6 @@
 	'default_language_description' => 'Cada instancia de Ushahidi posee algunos idiomas. Ud también puede <a href="http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages" target="_blank">agreagar otros</a>',
 	'disable' => 'Deshabilitar',
 	'enable' => 'Habilitar',
-	'error' => '',
 	'error' => array(
 		'connection' => '<strong>Oops!</strong>, We could not make a connection to
 		    the database server with the credentials given. Please make sure they are correct.',

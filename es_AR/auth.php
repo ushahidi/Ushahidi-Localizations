@@ -17,7 +17,6 @@
 		'login error' => 'Por favor revise que ha ingresado la clave correcta.',
 		'matches' => 'Por favor ingrese la misma clave en ambos campos.',
 		'required' => 'El campo clave es obligatorio.',
-		'standard_text' => '',
 	),
 	'password_confirm' => array(
 		'matches' => 'El campo confirmación de la clave debe ser igual al campo clave..',
@@ -28,8 +27,6 @@
 		'required' => 'El campo email es obligatorio.',
 	),
 	'roles' => array(
-		'alpha_numeric' => '',
-		'length' => '',
 		'required' => 'Usted debe definir al menos un rol.',
 		'values' => 'Usted debe seleccionar el rol ADMIN o USUARIO.',
 	),

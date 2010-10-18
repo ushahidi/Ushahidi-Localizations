@@ -2,9 +2,7 @@
 	$lang = array(
 	'feedback_actions' => 'Acciones',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'some message.',
-		'valid' => '',
 	),
 	'feedback_date' => 'Fecha',
 	'feedback_details' => 'Detalles',
