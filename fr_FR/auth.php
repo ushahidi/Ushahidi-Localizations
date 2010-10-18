@@ -6,7 +6,6 @@
 		'length' => 'L\'adresse email doit comporter entre 4 et 64 caractères.',
 		'required' => 'Veuillez indiquer une adresse email.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'Le nom complet doit comporter entre 3 et 100 caractères.',
 		'required' => 'Veuillez indiquer le nom complet.',
@@ -41,7 +40,6 @@
 		'length' => 'Le nom d\'utilisateur doit comporter entre 2 et 16 caractères.',
 		'login error' => 'Veuillez vérifier que le nom d\'utilisateur est correct.',
 		'required' => 'Veuillez indiquer un nom d\'utilisateur.',
-		'standard_text' => '',
 		'superadmin' => '',
 	));
 ?>

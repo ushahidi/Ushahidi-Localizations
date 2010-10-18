@@ -4,7 +4,6 @@
 		'email' => 'Adresse email invalide.',
 		'email_check' => 'Cette adress email a déjà été enregistrée pour les alertes sur ce lieu',
 		'length' => '',
-		'one_required' => '',
 		'required' => 'Une adresse email est requise si la case est cochée.',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => '',
 	'email_ok_head' => '',
 	'error' => '',
-	'error_body' => '',
 	'mobile_alert_request_created' => '',
 	'mobile_code' => '',
 	'mobile_error_head' => '',

@@ -175,8 +175,6 @@
 	'items' => '',
 	'item_details' => '',
 	'item_title' => '',
-	'j_guides' => '',
-	'j_newsletter' => '',
 	'key' => '',
 	'kml_kmz_file' => '',
 	'kml_kmz_upload' => '',
