@@ -4,7 +4,6 @@
 	'feedback_captcha' => array(
 		'default' => 'Введите правильный защитный код',
 		'required' => 'Введите защитный код',
-		'valid' => '',
 	),
 	'feedback_date' => 'Дата',
 	'feedback_details' => 'Детали отзывов',
