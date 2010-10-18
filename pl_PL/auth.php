@@ -12,7 +12,6 @@
 		'standard_text' => 'Pole nazwy użytkownika zawiera niedozwolone znaki.',
 	),
 	'password' => array(
-		'alpha_numeric' => '',
 		'length' => 'Pole hasła musi mieć co najmniej 5 i nie więcej niż 16 znaków.',
 		'login error' => 'Sprawdź, czy wprowadziłeś właściwe hasło.',
 		'matches' => 'Wprowadź to samo hasło w obydwu polach hasła.',
@@ -28,14 +27,11 @@
 		'required' => 'Pole adresu emailowego musi być wypełnione.',
 	),
 	'roles' => array(
-		'alpha_numeric' => '',
-		'length' => '',
 		'required' => 'Musisz zdefiniować co najmniej jedną funkcję.',
 		'values' => 'Musisz wybrać funkcję albo ADMINISTRATORA, albo UŻYTKOWNIKA.',
 	),
 	'username' => array(
 		'admin' => 'Funkcja administratora/użytkownika nie może być zmodyfikowana.',
-		'alpha' => '',
 		'exists' => 'Przepraszamy, ta nazwa użytkownika jest już używana.',
 		'length' => 'Pole nazwy użytkownika musi mieć co najmniej 2 i nie więcej niż 16 znaków.',
 		'login error' => 'Sprawdź, czy wprowadziłeś właściwą nazwę użytkownika.',
