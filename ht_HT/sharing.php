@@ -6,8 +6,8 @@
 	'last_access' => '',
 	'sent_info' => '',
 	'sharing_color' => array(
-		'length' => '',
-		'required' => '',
+		'length' => 'The color field must be 6 characters long.',
+		'required' => 'The color field is required.',
 	),
 	'sharing_email' => array(
 		'email' => '',
@@ -27,10 +27,10 @@
 	),
 	'sharing_url' => array(
 		'edit' => '',
-		'exists' => '',
+		'exists' => 'The site url already exists',
 		'length' => '',
-		'required' => '',
-		'url' => '',
+		'required' => 'The site url is required.',
+		'url' => 'The site url field does not appear to contain a valid URL?',
 		'valid' => '',
 	));
 ?>

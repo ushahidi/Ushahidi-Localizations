@@ -1,20 +1,20 @@
 <?php
 	$lang = array(
 	'allow_comments' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'The allow comments field does not appear to contain a valid value?',
+		'required' => 'The allow comments field is required.',
 	),
 	'allow_feed' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'The include feed field does not appear to contain a valid value?',
+		'required' => 'The include feed field is required.',
 	),
 	'allow_reports' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'The allow reports field does not appear to contain a valid value?',
+		'required' => 'The allow reports field is required.',
 	),
 	'allow_stat_sharing' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'The stat sharing field does not appear to contain a valid value?',
+		'required' => 'The stat sharing field is required.',
 	),
 	'api_akismet' => array(
 		'alpha_numeric' => '',
@@ -27,16 +27,16 @@
 		'title' => '',
 	),
 	'clickatell_api' => array(
-		'length' => '',
-		'required' => '',
+		'length' => 'The Clickatell API number field must be no more 20 characters long.',
+		'required' => 'The Clickatell API number field is required.',
 	),
 	'clickatell_password' => array(
-		'length' => '',
-		'required' => '',
+		'length' => 'The Clickatell Password field must be at least 5 and no more 50 characters long.',
+		'required' => 'The Clickatell Password field is required.',
 	),
 	'clickatell_username' => array(
-		'length' => '',
-		'required' => '',
+		'length' => 'The Clickatell Username field must be no more 50 characters long.',
+		'required' => 'The Clickatell Username field is required.',
 	),
 	'configure_map' => '',
 	'default_location' => '',
@@ -69,15 +69,15 @@
 		'required' => '',
 	),
 	'google_analytics' => array(
-		'length' => '',
+		'length' => 'The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX.',
 	),
 	'items_per_page' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'The items per page (Frontend) field does not appear to contain a valid value?',
+		'required' => 'The items per page (Frontend) field is required.',
 	),
 	'items_per_page_admin' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'The items per page (Admin) field does not appear to contain a valid value?',
+		'required' => 'The items per page (Admin) field is required.',
 	),
 	'map' => array(
 		'default_location' => '',
@@ -123,16 +123,16 @@
 		'twitter_hashtags' => '',
 	),
 	'site_email' => array(
-		'email' => '',
-		'length' => '',
+		'email' => 'The site email field does not appear to contain a valid email address?',
+		'length' => 'The site email field must be at least 4 and no more 100 characters long.',
 	),
 	'site_name' => array(
-		'length' => '',
-		'required' => '',
+		'length' => 'The site name field must be at least 3 and no more 50 characters long.',
+		'required' => 'The site name field is required.',
 	),
 	'site_tagline' => array(
-		'length' => '',
-		'required' => '',
+		'length' => 'The tagline field must be at least 3 and no more 100 characters long.',
+		'required' => 'The tagline field is required.',
 	),
 	'sms' => array(
 		'clickatell_api' => '',
@@ -155,15 +155,15 @@
 		'title' => '',
 	),
 	'sms_no1' => array(
-		'length' => '',
-		'numeric' => '',
+		'length' => 'The phone 1 field does not appear to contain a valid value?',
+		'numeric' => 'The phone 1 field should contain numbers only.',
 	),
 	'sms_no2' => array(
-		'length' => '',
-		'numeric' => '',
+		'length' => 'The phone 2 field is too long',
+		'numeric' => 'The phone 2 field should contain numbers only.',
 	),
 	'sms_no3' => array(
-		'length' => '',
-		'numeric' => '',
+		'length' => 'The phone 3 field is too long',
+		'numeric' => 'The phone 3 field should contain numbers only.',
 	));
 ?>

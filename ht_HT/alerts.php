@@ -1,26 +1,25 @@
 <?php
 	$lang = array(
 	'alert_email' => array(
-		'email' => '',
-		'email_check' => '',
-		'length' => '',
-		'one_required' => '',
-		'required' => '',
+		'email' => 'The Email field does not appear to contain a valid email address?',
+		'email_check' => 'That Email address has already been registered to receive alerts for that location',
+		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
+		'required' => 'The Email field is required if the checkbox is checked.',
 	),
 	'alert_lat' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'You have not selected a valid location on the map.',
+		'required' => 'You have not selected a valid location on the map.',
 	),
 	'alert_lon' => array(
-		'between' => '',
-		'required' => '',
+		'between' => 'You have not selected a valid location on the map.',
+		'required' => 'You have not selected a valid location on the map.',
 	),
 	'alert_mobile' => array(
-		'length' => '',
-		'mobile_check' => '',
-		'numeric' => '',
-		'one_required' => '',
-		'required' => '',
+		'length' => 'The Mobile Phone field does not seem to contain the right amount of digits.',
+		'mobile_check' => 'That Mobile Phone Number has already been registered to receive alerts for that location',
+		'numeric' => 'The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code.',
+		'one_required' => 'You must enter either your Mobile Phone Number or your Email Address.',
+		'required' => 'The Mobile Phone field is required if the checkbox is checked.',
 	),
 	'alert_radius' => array(
 		'in_array' => '',
@@ -36,7 +35,6 @@
 	'email_error_head' => '',
 	'email_ok_head' => '',
 	'error' => '',
-	'error_body' => '',
 	'mobile_alert_request_created' => '',
 	'mobile_code' => '',
 	'mobile_error_head' => '',
