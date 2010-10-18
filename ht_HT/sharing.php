@@ -1,36 +1,12 @@
 <?php
 	$lang = array(
-	'contact' => '',
-	'date' => '',
-	'date_added' => '',
-	'last_access' => '',
-	'sent_info' => '',
 	'sharing_color' => array(
 		'length' => 'The color field must be 6 characters long.',
 		'required' => 'The color field is required.',
 	),
-	'sharing_email' => array(
-		'email' => '',
-		'required' => '',
-	),
-	'sharing_key' => '',
-	'sharing_limits' => array(
-		'between' => '',
-		'required' => '',
-	),
-	'sharing_name' => array(
-		'length' => '',
-		'required' => '',
-	),
-	'sharing_type' => array(
-		'between' => '',
-	),
 	'sharing_url' => array(
-		'edit' => '',
 		'exists' => 'The site url already exists',
-		'length' => '',
 		'required' => 'The site url is required.',
 		'url' => 'The site url field does not appear to contain a valid URL?',
-		'valid' => '',
 	));
 ?>
