@@ -14,10 +14,8 @@
 	'password' => array(
 		'alpha_numeric' => 'パスワードは英数字のみです。',
 		'length' => 'パスワードは5文字以上、16文字以下です。',
-		'login error' => '',
 		'matches' => '再度同じパスワードを入力してください。',
 		'required' => 'パスワードは入力必須です。',
-		'standard_text' => '',
 	),
 	'password_confirm' => array(
 		'matches' => 'パスワード確認は、パスワードと同じ物を入力してください。',
@@ -38,7 +36,6 @@
 		'alpha' => 'ユーザー名は文字のみです。',
 		'exists' => 'ユーザー名はすでに使われています。',
 		'length' => 'ユーザー名は最低2文字、最高16文字までです。',
-		'login error' => '',
 		'required' => 'ユーザー名は入力必須です。',
 		'superadmin' => '特権管理者ルールは変更する事が出来ません。',
 	));
