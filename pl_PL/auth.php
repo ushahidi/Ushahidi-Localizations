@@ -6,7 +6,6 @@
 		'length' => 'Adres emailowy musi mieć co najmniej  4 i nie więcej niż 64 znaki.',
 		'required' => 'Pole adresu emailowego musi być wypełnione.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'Pełna nazwa pola musi mieć co najmniej 3 i nie więcej niż 100 znaków.',
 		'required' => 'Wymagane jest wypełnienie pełnej nazwa pola.',
@@ -41,7 +40,6 @@
 		'length' => 'Pole nazwy użytkownika musi mieć co najmniej 2 i nie więcej niż 16 znaków.',
 		'login error' => 'Sprawdź, czy wprowadziłeś właściwą nazwę użytkownika.',
 		'required' => 'Pole nazwy użytkownika musi być wypełnione.',
-		'standard_text' => 'Pole nazwy użytkowniak zawiera niedozwolone znaki.',
 		'superadmin' => 'Funkcja superadministratora nie może być zmodyfikowana.',
 	));
 ?>

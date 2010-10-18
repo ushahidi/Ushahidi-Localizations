@@ -175,8 +175,6 @@
 	'items' => 'elementy',
 	'item_details' => 'Szczegóły elementu',
 	'item_title' => 'Tytuł elementu',
-	'j_guides' => '',
-	'j_newsletter' => '',
 	'key' => 'Klucz',
 	'kml_kmz_file' => '',
 	'kml_kmz_upload' => '',
