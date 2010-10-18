@@ -2,9 +2,7 @@
 	$lang = array(
 	'feedback_actions' => 'Действия',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'Введите защитный код',
-		'valid' => '',
 	),
 	'feedback_date' => 'Дата',
 	'feedback_details' => 'Детали отзывов',
