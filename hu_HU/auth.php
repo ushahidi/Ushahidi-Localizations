@@ -6,7 +6,6 @@
 		'length' => 'Az e-mail mező legalább 4 és legfeljebb 64 karakter hosszú lehet.',
 		'required' => 'Az e-mail mezőt kötelező kitölteni.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'A teljes név mezőben legalább 3 és legfeljebb 100 karakter szerepelhet.',
 		'required' => 'A teljes név mező kitöltése kötelező.',
@@ -41,7 +40,6 @@
 		'length' => 'A felhasználónév legalább 2, maximum 16 karakter hosszú lehet.',
 		'login error' => '',
 		'required' => 'A felhasználónév mező kitöltése kötelező',
-		'standard_text' => '',
 		'superadmin' => 'A szuper admin felhasználótípus módosítása nem lehetséges.',
 	));
 ?>

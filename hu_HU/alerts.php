@@ -4,7 +4,6 @@
 		'email' => 'Érvénytelen e-mail cím szerepel az e-mail mezőben?',
 		'email_check' => 'Ez a cím már regisztrálva lett ennek a helyszínnek az értesítőire',
 		'length' => '\'Az e-mail mező legalább 4 és legfeljebb 64 karakter hosszú lehet.',
-		'one_required' => '',
 		'required' => 'Az e-mail mezőt kötelező kitölteni, ha jelölőnégyzetben ki lett pipálva.',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => 'Az e-mail értesítések kérése NINCS elmentve!',
 	'email_ok_head' => 'Az e-mail értesítések kérése elmentve!',
 	'error' => 'A rendszer nem volt képes feldolgozni a megerősítési kérést!',
-	'error_body' => '',
 	'mobile_alert_request_created' => 'A mobil értesítések kérése létrejött, visszaigazoló üzenetet küldtünk a  ',
 	'mobile_code' => 'Kérjük, adja meg a visszaigazoló SMS-kódot, ami a mobiltelefonjára érkezett: ',
 	'mobile_error_head' => 'A mobil értesítések kérése NINCS elmentve!',
