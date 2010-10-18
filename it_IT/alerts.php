@@ -4,7 +4,6 @@
 		'email' => 'Il campo Email non contiene un indirizzo email valido',
 		'email_check' => 'Indirizzo Email già registrato per ricevere alert su questo luogo.',
 		'length' => 'Il campo Email deve contenere un numero di caratteri compreso  tra 4 e 64.',
-		'one_required' => '',
 		'required' => 'Il campo Email è richiesto se la checkbox è selezionata.',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => 'La tua richiesta di Email Alert Request non è stata salvata!',
 	'email_ok_head' => 'La tua richiesta di Email Alert Request è stata salvata!',
 	'error' => 'Il sistema non ha potuto elaborare la tua richiesta di conferma!',
-	'error_body' => '',
 	'mobile_alert_request_created' => 'La tua richiesta di Mobile Alert è stata creata e un messaggio di verifica è stato mandato a',
 	'mobile_code' => 'Inserisci qui di seguito il codice SMS di conferma che hai ricevuto sul tuo cellulare: ',
 	'mobile_error_head' => 'La tua richiesta di Mobile Alert NON è stato salvato!',

@@ -6,7 +6,6 @@
 		'length' => 'Il campo email deve essere lungo almeno 3 caratteri e non più di 64.',
 		'required' => 'Il campo email ',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'Il campo nome deve essere lungo almeno 3 caratteri e non pi',
 		'required' => 'Il campo nome ',
@@ -41,7 +40,6 @@
 		'length' => 'Il campo username deve essere lungo almeno 2 caratteri e non pi',
 		'login error' => 'Per favore controlla che lo username inserito sia corretto.',
 		'required' => 'Il campo username ',
-		'standard_text' => '',
 		'superadmin' => 'Il ruolo super admin non pu',
 	));
 ?>

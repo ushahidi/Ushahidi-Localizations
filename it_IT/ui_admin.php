@@ -150,6 +150,7 @@
 	'reset' => 'resetta',
 	'results' => 'risultati',
 	'save' => '',
+	'save_settings' => 'Rimuovi tutti i Ban',
 	'search' => 'cerca',
 	'searching_for' => 'sto cercando:',
 	'select_field_type' => '--- scegli un tipo di campo ---',
