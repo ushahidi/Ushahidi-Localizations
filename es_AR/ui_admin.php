@@ -150,6 +150,7 @@
 	'reset' => '',
 	'results' => 'Resultados',
 	'save' => '',
+	'save_settings' => '',
 	'search' => 'Buscar',
 	'searching_for' => 'buscando',
 	'select_field_type' => '--- Escoja un tipo de campo ---',

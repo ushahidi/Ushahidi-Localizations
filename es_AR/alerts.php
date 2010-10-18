@@ -4,7 +4,6 @@
 		'email' => 'El campo Email parece no tener una direcciÃ³n de correo electrÃ³nica valida?',
 		'email_check' => 'Ese correo electrÃ³nico ya esta registrado para recibir alertas para esa ubicaciÃ³n',
 		'length' => 'El campo Email debe tener entre 4 y 64 caracteres.',
-		'one_required' => '',
 		'required' => 'El campo Email es obligatorio si el checkbox esta marcado.',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => 'Su pedido de Alerta por Correo ElectrÃ³nico NO ha sido guardado!',
 	'email_ok_head' => 'Su pedido de Alerta por Correo ElectrÃ³nico ha sido guardado!',
 	'error' => '',
-	'error_body' => 'El sistema no pudo procesar su pedido de confirmaciÃ³n!',
 	'mobile_alert_request_created' => 'Su pedido de Alerta MÃ³vil ha sido creada y el mensaje de verificaciÃ³n ya fue enviado a ',
 	'mobile_code' => 'Por favor ingrese a continuaciÃ³n el cÃ³digo de confirmaciÃ³n SMS que recibiÃ³ en su telÃ©fono: ',
 	'mobile_error_head' => 'Su Pedido de Alerta MÃ³vil NO ha sido guardada!',

@@ -6,7 +6,6 @@
 		'length' => 'El campo email debe tener por lo menos 4 y no mas de 64 caracteres.',
 		'required' => 'El campo email es obligatorio.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'El campo nombre completo debe tener por lo menos 3 y no mas de 100 caracteres.',
 		'required' => 'El campo nombre completo es obligatorio.',
@@ -41,7 +40,6 @@
 		'length' => 'El campo nombre de usuario debe tener por lo menos 2 y no mas de 16 caracteres.',
 		'login error' => 'Por favor revise que ingreso el nombre de usuario correcto.',
 		'required' => 'El campo nombre de usuario es obligatorio.',
-		'standard_text' => '',
 		'superadmin' => 'El rol del usuario super-administrador no puede ser modificado.',
 	));
 ?>

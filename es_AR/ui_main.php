@@ -175,8 +175,6 @@
 	'items' => 'items',
 	'item_details' => 'detalles del ítem',
 	'item_title' => 'Título',
-	'j_guides' => '',
-	'j_newsletter' => '',
 	'key' => 'Llave',
 	'kml_kmz_file' => 'Archivo KMZ/KML',
 	'kml_kmz_upload' => 'Subir archivo KMZ/KML',
