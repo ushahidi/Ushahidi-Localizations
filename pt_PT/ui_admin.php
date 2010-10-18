@@ -150,6 +150,7 @@
 	'reset' => '',
 	'results' => 'Results',
 	'save' => '',
+	'save_settings' => 'UNBAN ALL',
 	'search' => 'Search',
 	'searching_for' => 'searching for',
 	'select_field_type' => '--- Select A Field Type ---',

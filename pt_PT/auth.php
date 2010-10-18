@@ -6,7 +6,6 @@
 		'length' => 'O campo email deve ter entre 4 a 64 caracteres.',
 		'required' => 'O Campo email é de preenchimento obrigatório.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'O Campo nome completo deve ser preenchido com 3 a 100 caracteres.',
 		'required' => 'O Campo nome completo é de preenchimento obrigatório.',
@@ -41,7 +40,6 @@
 		'length' => 'O Campo nome de utilizador deve ser preenchido com 3 a 16 caracteres',
 		'login error' => 'Por favor certifique que inseriu o nome de utilizador correcto.',
 		'required' => 'O Campo nome de utilizador é de preenchimento obrigatório.',
-		'standard_text' => '',
 		'superadmin' => '',
 	));
 ?>

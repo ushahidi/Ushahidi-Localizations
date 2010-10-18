@@ -175,8 +175,6 @@
 	'items' => 'campos',
 	'item_details' => 'detalhes do campo',
 	'item_title' => 'Título do campo',
-	'j_guides' => '',
-	'j_newsletter' => '',
 	'key' => 'Key',
 	'kml_kmz_file' => 'KMZ/KML File',
 	'kml_kmz_upload' => 'Upload KMZ/KML File',
