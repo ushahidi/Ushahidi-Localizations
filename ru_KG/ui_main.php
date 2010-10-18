@@ -175,8 +175,6 @@
 	'items' => 'элементы',
 	'item_details' => 'Детали элемента',
 	'item_title' => 'Заголовок элемента',
-	'j_guides' => '',
-	'j_newsletter' => '',
 	'key' => 'Ключ',
 	'kml_kmz_file' => 'KMZ/KML Файл',
 	'kml_kmz_upload' => 'Загрузить KMZ/KML файл',
