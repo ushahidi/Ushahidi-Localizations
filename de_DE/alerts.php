@@ -4,7 +4,6 @@
 		'email' => 'Ist die angegebene eMail-Adresse korrekt?',
 		'email_check' => 'Diese eMail-Adresse ist bereits für Benachrichtigungen für diesen Ort registriert.',
 		'length' => 'Die eMail-Adresse darf nicht weniger als 4 und mehr als 64 Zeichen lang sein.',
-		'one_required' => 'eMail-Adresse erforderlich',
 		'required' => 'Das eMail-Feld ist erforderlich, wenn das K&auml;stchen angehakt wurde.',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => '',
 	'email_ok_head' => '',
 	'error' => '',
-	'error_body' => '',
 	'mobile_alert_request_created' => '',
 	'mobile_code' => '',
 	'mobile_error_head' => '',
