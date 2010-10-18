@@ -150,6 +150,7 @@
 	'reset' => 'إعادة تعيين',
 	'results' => 'النتائج',
 	'save' => 'حفظ',
+	'save_settings' => 'إرفع الحظر عن الكل',
 	'search' => 'بحث',
 	'searching_for' => 'البحث عن',
 	'select_field_type' => '--- إختر نوع الحقل ---',
