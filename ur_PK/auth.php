@@ -6,7 +6,6 @@
 		'length' => '',
 		'required' => '',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => '',
 		'required' => '',
@@ -41,7 +40,6 @@
 		'length' => '',
 		'login error' => '',
 		'required' => '',
-		'standard_text' => '',
 		'superadmin' => '',
 	));
 ?>
