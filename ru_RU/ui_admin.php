@@ -150,6 +150,7 @@
 	'reset' => '',
 	'results' => 'Результаты',
 	'save' => '',
+	'save_settings' => 'Разблокировать всех',
 	'search' => 'Поиск',
 	'searching_for' => 'Поиск',
 	'select_field_type' => '--- Выберите Тип поля ---',
