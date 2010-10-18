@@ -4,7 +4,6 @@
 		'email' => 'Uvedl/a jste správně emailovou adresu?',
 		'email_check' => 'Tato emailová adresa už je zaregistrována k odběru novinek z této oblasti na mapě',
 		'length' => 'Emailová adresa může obsahovat od 4 do 64 znaků.',
-		'one_required' => '',
 		'required' => 'Zadejte emailovou adresu.',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => ' Vaše žádost o zasílání novinek z mapy nebyla uložena!',
 	'email_ok_head' => 'Vaše žádost o zasílání novinek z mapy byla uložena!',
 	'error' => 'Systém nebyl schopen zpracovat Vaši žádost o potvrzení odběru zpráv!',
-	'error_body' => '',
 	'mobile_alert_request_created' => 'Your Mobile Alert request has been created and verification message has been sent to ',
 	'mobile_code' => 'Please enter the SMS confirmation code you received on your mobile phone below: ',
 	'mobile_error_head' => 'Your Mobile Alert Request Has NOT Been Saved!',

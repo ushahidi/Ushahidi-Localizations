@@ -175,8 +175,6 @@
 	'items' => 'položky',
 	'item_details' => 'detaily položky',
 	'item_title' => 'Název položky',
-	'j_guides' => 'Před vyplněním formuláře si, prosím, přečtěte pravidla pro přispívání na praguewatch.cz',
-	'j_newsletter' => '2) Zasílání novinek o dalších akcích občanského sdružení PragueWatch',
 	'key' => 'klíč',
 	'kml_kmz_file' => 'soubor KMZ/KML',
 	'kml_kmz_upload' => 'Nahrát soubor KMZ/KML',
