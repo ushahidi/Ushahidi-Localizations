@@ -14,10 +14,8 @@
 	'password' => array(
 		'alpha_numeric' => 'A jelszóban csak betűk és számok lehetnek.',
 		'length' => 'A jelszó minimum 5  és maximum 16 karakter hosszú lehet.',
-		'login error' => '',
 		'matches' => 'Kérem, ugyanazt a jelszót adja meg mindkét mezőben.',
 		'required' => 'A jelszó mezőt kötelező kitölteni.',
-		'standard_text' => '',
 	),
 	'password_confirm' => array(
 		'matches' => 'A jelszó megerősítésének egyeznie kell a megadott jelszóval.',
@@ -38,7 +36,6 @@
 		'alpha' => 'A felhasználónévben csak betűk szerepelhetnek.',
 		'exists' => 'Ez a felhasználónév már foglalt.',
 		'length' => 'A felhasználónév legalább 2, maximum 16 karakter hosszú lehet.',
-		'login error' => '',
 		'required' => 'A felhasználónév mező kitöltése kötelező',
 		'superadmin' => 'A szuper admin felhasználótípus módosítása nem lehetséges.',
 	));

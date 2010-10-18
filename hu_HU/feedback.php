@@ -2,7 +2,6 @@
 	$lang = array(
 	'feedback_actions' => 'Műveletek',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'Kérem, adja meg a biztonsági kódot.',
 		'valid' => 'Kérem, adjon meg egy érvényes biztonsági kódot.',
 	),
