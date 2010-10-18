@@ -6,7 +6,6 @@
 		'length' => 'The email field must be at least 4 and no more 64 characters long.',
 		'required' => 'The email field is required.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'The full name field must be at least 3 and no more 100 characters long.',
 		'required' => 'The full name field is required.',
@@ -41,7 +40,6 @@
 		'length' => 'The username field must be at least 2 and no more 16 characters long.',
 		'login error' => 'Please check that you entered the correct username.',
 		'required' => 'The username field is required.',
-		'standard_text' => '',
 		'superadmin' => 'The super admin role cannot be modified.',
 	));
 ?>
