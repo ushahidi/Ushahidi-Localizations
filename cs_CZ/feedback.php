@@ -2,7 +2,6 @@
 	$lang = array(
 	'feedback_actions' => 'Actions',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'Opište, prosím, bezpečnostní kód.',
 		'valid' => 'Opište platný bezpečnostní kód.',
 	),
