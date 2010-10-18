@@ -6,7 +6,6 @@
 		'length' => '邮件地址长度须在4至64个字符之间',
 		'required' => '邮件是必填项',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => '全名的长度须在3至100个字符之间',
 		'required' => '全名是必填项',
@@ -41,7 +40,6 @@
 		'length' => '用户名长度须在2至16个字符之间',
 		'login error' => '你输入的用户名不正确',
 		'required' => '用户名是必填项',
-		'standard_text' => '',
 		'superadmin' => '超级管理员帐户不能被修改',
 	));
 ?>
