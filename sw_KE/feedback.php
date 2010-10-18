@@ -2,7 +2,6 @@
 	$lang = array(
 	'feedback_actions' => 'Vitendo',
 	'feedback_captcha' => array(
-		'default' => '',
 		'required' => 'Tafadhali andika ishara ya ulinzi.',
 		'valid' => 'Tafadhali andika ishara ya ulinzi iliyo sahihi',
 	),

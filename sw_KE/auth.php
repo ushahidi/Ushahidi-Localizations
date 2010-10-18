@@ -12,12 +12,10 @@
 		'standard_text' => 'Jina la mtumizi limeandikwa kwa herufi zisizokubalika.',
 	),
 	'password' => array(
-		'alpha_numeric' => '',
 		'length' => 'Nywila lazima iwe baina ya herufi 5 na 16.',
 		'login error' => 'Tafadhali hakikisha umeandika nywila sahihi.',
 		'matches' => 'Tafadhali andika nywila zilofanana kwenye sehemu ya nywila na kuthibitisha nywila.',
 		'required' => 'Nywila inahitajika.',
-		'standard_text' => '',
 	),
 	'password_confirm' => array(
 		'matches' => 'Sehemu ya kuthibitisha nywila lazima iwe sawa na sehemu ya nywila.',
@@ -28,14 +26,11 @@
 		'required' => 'Anwani ya barua pepe inahitajika.',
 	),
 	'roles' => array(
-		'alpha_numeric' => '',
-		'length' => '',
 		'required' => 'Lazima ufasili jukumu lako.',
 		'values' => 'Lazima uchague jukumu la MENEJA au MTUMIZI.',
 	),
 	'username' => array(
 		'admin' => 'Jukumu la meneja haliwezi kubadilishwa.',
-		'alpha' => '',
 		'exists' => 'Pole, Jina la mtumizi lilishasajilishwa.',
 		'length' => 'Jina la mtumizi lazma liwe na baina ya herufi 2 na 16.',
 		'login error' => 'Tafadhali hakikisha umeandika jina la mtumizi kisahihi.',
