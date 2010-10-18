@@ -4,7 +4,6 @@
 		'email' => 'This is a test',
 		'email_check' => 'Harrr!',
 		'length' => '',
-		'one_required' => '',
 		'required' => '',
 	),
 	'alert_lat' => array(
@@ -36,7 +35,6 @@
 	'email_error_head' => '',
 	'email_ok_head' => '',
 	'error' => '',
-	'error_body' => '',
 	'mobile_alert_request_created' => '',
 	'mobile_code' => '',
 	'mobile_error_head' => '',

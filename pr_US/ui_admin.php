@@ -150,6 +150,7 @@
 	'reset' => '',
 	'results' => '',
 	'save' => '',
+	'save_settings' => '',
 	'search' => '',
 	'searching_for' => '',
 	'select_field_type' => '',
