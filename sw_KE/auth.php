@@ -6,7 +6,6 @@
 		'length' => 'Anwani ya barua pepe lazima iwe baina ya herufi 4 na 64.',
 		'required' => 'Anwani ya barua pepe inahitajika.',
 	),
-	'forgot_password' => '',
 	'name' => array(
 		'length' => 'Jina kwa ukamili lazima iwe baina ya herufi 3 na 100.',
 		'required' => 'Jina kwa ukamili linahitajika.',
@@ -41,7 +40,6 @@
 		'length' => 'Jina la mtumizi lazma liwe na baina ya herufi 2 na 16.',
 		'login error' => 'Tafadhali hakikisha umeandika jina la mtumizi kisahihi.',
 		'required' => 'Jina la mtumizi linahitajika.',
-		'standard_text' => '',
 		'superadmin' => 'Jukumu la meneja haliwezi kubadilishwa.',
 	));
 ?>

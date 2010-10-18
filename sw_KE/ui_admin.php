@@ -150,6 +150,7 @@
 	'reset' => '',
 	'results' => 'Matokeo',
 	'save' => '',
+	'save_settings' => '',
 	'search' => 'Tafuta',
 	'searching_for' => 'inatafuta',
 	'select_field_type' => '--- Chagua aina ya uga ---',

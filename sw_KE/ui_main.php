@@ -175,8 +175,6 @@
 	'items' => 'vipengele',
 	'item_details' => 'Maarifa ya vipengele',
 	'item_title' => 'Jina la kipengele',
-	'j_guides' => '',
-	'j_newsletter' => '',
 	'key' => 'Key',
 	'kml_kmz_file' => 'Faili ya KMZ/KML',
 	'kml_kmz_upload' => 'Pakia Faili ya KMZ/KML',
