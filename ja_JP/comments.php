@@ -1,4 +1,19 @@
 <?php
 	$lang = array(
-	);
+	'captcha' => array(
+		'default' => '有効なセキュリティコードを入力してください。',
+		'required' => 'セキュリティコードを入力してください。',
+	),
+	'comment_author' => array(
+		'length' => '名前は最低3文字以上入力してください。',
+		'required' => '名前は入力必須です。',
+	),
+	'comment_description' => array(
+		'required' => 'コメントは入力必須です。',
+	),
+	'comment_email' => array(
+		'email' => '正しいメールアドレス形式ではありません。',
+		'length' => 'メールアドレスは最低4文字、最高64文字の長さでなければいけません。',
+		'required' => 'チェックボックスにチェックが入っている場合はメールアドレスが必須です。',
+	));
 ?>
