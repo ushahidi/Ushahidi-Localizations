@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'feedback_actions' => 'Actions',
+	'feedback_actions' => 'Akce',
 	'feedback_captcha' => array(
 		'required' => 'Opište, prosím, bezpečnostní kód.',
 		'valid' => 'Opište platný bezpečnostní kód.',
@@ -11,8 +11,8 @@
 		'required' => 'Please enter some information for the reply.',
 	),
 	'feedback_title' => array(
-		'length' => 'The title field must be at least 3 and no more 100 characters long.',
-		'required' => 'A title is required.',
+		'length' => 'Název musí mít od 3 do 100 znaků. ',
+		'required' => 'Je třeba dodat název.',
 	),
 	'person_email' => array(
 		'email' => 'Zadal/a jste správně emailovou adresu?',
