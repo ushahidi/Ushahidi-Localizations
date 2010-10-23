@@ -13,5 +13,10 @@
 	'settings_default_category_colors' => 'Egy színkód kiválasztása az összes kategóriára a site-on',
 	'settings_display_contact' => 'A kapcsolati fül be és kikapcsolása a főoldalon.',
 	'settings_server_username' => 'Ez az emailcím fogadja a jelentéseket.',
+	'settings_site_email' => 'emailcím, amire email jelentéseket és a kapcsolati adatlap üzeneteit fogadod',
+	'settings_site_message' => 'Ez a szöveg fog a térkép fölött megjelenni a honlapon. Hasznos a látogatók számára fontos információk közléséhez.Ha törölni akarod a dobozt -csak töröld ki ezt az üzenetet.',
+	'settings_site_name' => 'Ez az a név, ami a főoldal tetején látszik.',
+	'settings_site_tagline' => 'Néhány mondatban mondd el, miről szól ez az oldal..',
+	'settings_twitter_configuration' => 'Itt állítsd be a twitter hash-tagjét.',
 	);
 ?>

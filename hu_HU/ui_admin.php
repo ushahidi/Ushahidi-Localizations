@@ -102,6 +102,7 @@
 	'messages_twitter' => 'Twitter üzenetek',
 	'message_sent' => 'Az üzeneted elküldve!',
 	'mhi' => 'MHI',
+	'minutes' => 'Auto elfogadás',
 	'missing_parameter' => 'Hiányzó paraméter',
 	'moderator' => 'Moderátor',
 	'modified' => 'módosítva',
