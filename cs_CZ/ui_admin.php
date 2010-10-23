@@ -110,6 +110,7 @@
 	'messages_twitter' => 'Vzkazy z twitteru',
 	'message_sent' => 'Zpráva byla odeslána!',
 	'mhi' => 'MHI',
+	'minutes' => 'schválené automaticky',
 	'missing_parameter' => 'Chybí parametr',
 	'moderator' => 'Moderátor',
 	'modified' => 'pozměněné',
