@@ -1,9 +1,9 @@
 <?php
 	$lang = array(
 	'config' => 'konfiguracios fajl',
-	'controller' => 'controller',
+	'controller' => 'vezérlő',
 	'driver' => 'meghajtó',
-	'driver_implements' => 'A %s meghajtónak a %s könyvtárhoz a %s interfészt kell telepítenie',
+	'driver_implements' => 'A %s meghajtónak a %s könyvtárhoz a %s interfészt kell implementálnia',
 	'driver_not_found' => 'A %s meghajtó a %s könyvtárhoz nem található.',
 	'errors_disabled' => 'Látogasson el a <a href="%s">főoldalra</a> vagy <a href="%s">próbálja újra</a>.',
 	'error_file_line' => '<tt>%s <strong>[%s]:</strong></tt>',
@@ -14,6 +14,7 @@
 	'invalid_property' => 'A %s property fájl nem található a %s osztályban.',
 	'library' => 'könyvtár',
 	'log_dir_unwritable' => 'A log könyvtár nem írható: %s\'',
+	'model' => 'modell',
 	'no_controller' => 'Az \'Ushahidi nem tudott controllert meghatározni a kérés feldolgozásához: %s',
 	'no_default_route' => 'Kérem, adjon meg egy alapértelmezett elérési utat a következőn: config/routes.php',
 	'page_not_found' => 'A kért oldal, %s, nem található.',

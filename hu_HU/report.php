@@ -1,5 +1,8 @@
 <?php
 	$lang = array(
+	'custom_field' => array(
+		'values' => 'Kérem, adja meg a kiválasztott elemek valós mennyiségét.',
+	),
 	'data_include' => array(
 		'between' => 'Kérem, válasszon valós elemet, amelyet le kíván tölteni.',
 		'numeric' => 'Kérem, válasszon valós elemet, amelyet le kíván tölteni.',
