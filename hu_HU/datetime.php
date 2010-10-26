@@ -20,6 +20,7 @@
 	),
 	'thursday' => array(
 		'abbv' => 'Csüt',
+		'full' => 'Csütörtök',
 	),
 	'tuesday' => array(
 		'abbv' => 'Kedd',

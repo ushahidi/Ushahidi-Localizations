@@ -3,7 +3,7 @@
 	'alert_email' => array(
 		'email' => 'Érvénytelen e-mail cím szerepel az e-mail mezőben?',
 		'email_check' => 'Ez a cím már regisztrálva lett ennek a helyszínnek az értesítőire',
-		'length' => '\'Az e-mail mező legalább 4 és legfeljebb 64 karakter hosszú lehet.',
+		'length' => 'Az e-mail mező legalább 4 és legfeljebb 64 karakter hosszú lehet.',
 		'required' => 'Az e-mail mezőt kötelező kitölteni, ha jelölőnégyzetben ki lett pipálva.',
 	),
 	'alert_lat' => array(

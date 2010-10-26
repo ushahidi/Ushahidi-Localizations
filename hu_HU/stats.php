@@ -13,6 +13,8 @@
 	'reports_categories' => 'Riport kategóriák',
 	'reports_statistics' => 'Riport statisztikák',
 	'reports_status' => 'Riportok státusza',
+	'stats_not_setup' => 'Statisztika nincs beállítva',
+	'time_range_1' => '1 Hónap',
 	'time_range_2' => '3 Hónap',
 	'time_range_3' => '6 Hónap',
 	'time_range_all' => 'Mind',
