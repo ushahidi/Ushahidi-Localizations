@@ -259,6 +259,8 @@
 	'via' => '来自',
 	'video' => '视频',
 	'view' => '显示',
+	'views' => 'Views',
+        'view_more' => 'View more...',
 	'view_all' => '更多',
 	'view_items' => '查看新闻条目',
 	'view_report' => '查看报道',

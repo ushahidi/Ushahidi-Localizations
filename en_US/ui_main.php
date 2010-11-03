@@ -463,6 +463,7 @@
 	'video' => 'Video',
 	'view' => 'View',
 	'views' => 'Views',
+        'view_more' => 'View more...',
 	'view_all' => 'View All',
 	'view_all_feeds' => 'View all feeds',
 	'view_all_reports' => 'View all reports',
