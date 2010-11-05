@@ -11,6 +11,5 @@
 		'url' => 'Please enter a valid URL. Eg. http://www.ushahidi.com',
 	),
 	'source' => 'SOURCE',
-	'title' => 'TITLE',
 	);
 ?>
