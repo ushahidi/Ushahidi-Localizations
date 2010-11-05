@@ -123,6 +123,7 @@
 	'notification' => 'Notification',
 	'not_case_sensitive' => 'This is not case sensitive.',
 	'not_found' => 'Not Found',
+	'no_data' => 'No data. There are no results to show.',
 	'no_error' => 'No Error',
 	'no_result_display_msg' => 'No Results To Display!',
 	'of' => 'of',
