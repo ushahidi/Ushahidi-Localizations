@@ -62,6 +62,7 @@
 	'close' => 'Close',
 	'clusters' => 'clusters',
 	'color' => 'Color',
+	'comment' => 'Comment',
 	'comments' => 'Comments',
 	'comment_details' => 'Comment Details',
 	'comment_rating' => 'Comment Rating',
