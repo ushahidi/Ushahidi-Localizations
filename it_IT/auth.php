@@ -1,7 +1,7 @@
 <?php
 	$lang = array(
 	'email' => array(
-		'email' => 'Il campo email non contiene un indirizzo email valido',
+		'email' => 'Il campo email non contiene un indirizzo email valido.',
 		'exists' => 'Siamo spiacenti, esiste uno user account con questo indirizzo email.',
 		'length' => 'Il campo email deve essere lungo almeno 3 caratteri e non più di 64.',
 		'required' => 'Il campo email è richiesto.',
@@ -22,7 +22,7 @@
 		'matches' => 'Il campo password di conferma deve essere uguale al campo password.',
 	),
 	'resetemail' => array(
-		'email' => 'Il campo email non contiene un indirizzo email valido',
+		'email' => 'Il campo email non contiene un indirizzo email valido.',
 		'invalid' => 'Spiacenti, non abbiamo il tuo indirizzo email.',
 		'required' => 'Il campo email è richiesto.',
 	),
@@ -39,6 +39,6 @@
 		'length' => 'Il campo username deve essere lungo almeno 2 caratteri e non più di 30.',
 		'login error' => 'Per favore controlla che lo username inserito sia corretto.',
 		'required' => 'Il campo username è richiesto.',
-		'superadmin' => 'Il ruolo super admin non pu',
+		'superadmin' => 'Il ruolo super admin non può essere modificato.',
 	));
 ?>

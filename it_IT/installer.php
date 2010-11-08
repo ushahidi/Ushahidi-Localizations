@@ -41,7 +41,7 @@
 	'map' => 'Map',
 	'map_provider' => 'Map Provider',
 	'map_provider_description' => 'Ushahidi può utilizzare indifferentemente uno di questi quattro mapping providers: Google, Bing, Yahoo o Open Street Map.  Scegli quello che ha contiene maggiori dettagli per la tua area territoriale',
-	'other_steps' => 'Ulteriori steps...',
+	'other_steps' => 'Ulteriori step...',
 	'password' => 'Password',
 	'password_description' => 'La password del tuo database',
 	'previous' => 'Precedente',
