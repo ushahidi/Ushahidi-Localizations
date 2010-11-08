@@ -1,25 +1,25 @@
 <?php
 	$lang = array(
 	'category_color' => array(
-		'length' => 'The color field must be 6 characters long.',
+		'length' => 'Das Farbfeld darf nur 6 Zeichen lang sein.',
 		'required' => 'Die Angabe der Farbe ist notwendig.',
 	),
 	'category_description' => array(
-		'required' => 'Das Feld mit der Beschreibung muss ausgefuellt werden.',
+		'required' => 'Das Feld mit der Beschreibung muss ausgefüllt werden.',
 	),
 	'category_image' => array(
-		'size' => 'Please ensure that image uploads sizes are limited to 50KB.',
-		'type' => 'The image field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
-		'valid' => 'The image field does not appear to contain a valid file',
+		'size' => 'Beachten Sie bitte, dass die Größe für hochgeladene Bilder auf 50 KB beschränkt ist.',
+		'type' => 'Das Bild scheint ein ungültiges Format zu haben. Die akzeptierten Formate sind: .JPG, .PNG und .GIF.',
+		'valid' => 'Das Bilderfeld enthält eine ungültige Datei.',
 	),
 	'category_title' => array(
-		'length' => 'The title field must be at least 3 and no more 80 characters long.',
+		'length' => 'Das Titelfeld muss mindestens 3 und darf höchstens 80 Zeichen lang sein.',
 		'required' => 'Das Titelfeld ist notwendig.',
 	),
 	'parent_id' => array(
-		'exists' => 'The parent category does not exist.',
-		'numeric' => 'The parent category field must be numeric.',
-		'required' => 'The parent category field is required.',
-		'same' => 'The category and the parent category cannot be the same.',
+		'exists' => 'Die übergeordnete Kategorie existiert nicht.',
+		'numeric' => 'Das Feld für die übergeordnete Kategorie darf nur Zahlen enthalten.',
+		'required' => 'Die übergeordnete Kategorie ist erforderlich.',
+		'same' => 'Die Kategorie und die übergeordnete Kategorie können nicht gleich sein.',
 	));
 ?>

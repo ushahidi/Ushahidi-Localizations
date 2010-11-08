@@ -1,9 +1,9 @@
 <?php
 	$lang = array(
 	'email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'exists' => 'Sorry, a user account already exists for this email address.',
-		'length' => 'The email field must be at least 4 and no more 64 characters long.',
+		'email' => 'Das Email-Feld enthält eine ungültige Mailadresse.',
+		'exists' => 'Sorry, diese Emailadresse ist bereits einem Account zugeordnet.',
+		'length' => 'Die Email-Adresse muss zwischen 4 und 64 Zeichen lang sein.',
 		'login error' => 'Please check that you entered the correct email address.',
 		'required' => 'The email field is required.',
 	),
@@ -19,6 +19,7 @@
 		'login error' => 'Please check that you entered the correct password.',
 		'matches' => 'Please enter the same password in the two password fields.',
 		'required' => 'The password field is required.',
+		'standard_text' => 'Passwort ',
 	),
 	'password_confirm' => array(
 		'matches' => 'The password confirmation field must match the password field.',
@@ -26,9 +27,11 @@
 	'resetemail' => array(
 		'email' => 'The email field does not appear to contain a valid email address?',
 		'invalid' => 'Sorry, we don\'t have your email address',
-		'required' => 'The email field is required.',
+		'required' => 'Die Email-Adresse ist notwendig.',
 	),
 	'roles' => array(
+		'alpha_numeric' => 'Ungültiges Rollen-Format',
+		'length' => 'Die Feldlänge von ROLLE muss zwischen 5 und 30 Zeichen lang sein.',
 		'required' => 'You must define at least one role.',
 		'values' => 'You must select either ADMIN or USER role.',
 	),

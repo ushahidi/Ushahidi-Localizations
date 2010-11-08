@@ -1,7 +1,9 @@
 <?php
 	$lang = array(
+	'comments_add' => 'Kommentar hinzugefügt.',
+	'comments_credibility' => 'Glaubwürdigkeit des Kommentars',
 	'custom_field' => array(
-		'values' => 'Please enter a valid value for one of your custom form items',
+		'values' => 'Bitte geben Sie einen gültigen Wert ein für Ihre benutzerspezifischen Formulareinträge.',
 	),
 	'data_include' => array(
 		'between' => 'Please select a valid item to include in the download',
@@ -16,39 +18,40 @@
 		'date_mmddyyyy' => 'The FROM date field does not appear to contain a valid date?',
 		'range' => 'Please enter a valid FROM date. It cannot be greater than today.',
 	),
+	'geocode_not_found' => 'Geocode nicht gefunden',
 	'incident_active' => array(
 		'between' => 'Please enter a valid value for Approve This Report',
 		'required' => 'Please enter a valid value for Approve This Report',
 	),
 	'incident_ampm' => array(
-		'validvalues' => 'The am/pm field does not appear to contain a valid value?',
+		'validvalues' => 'Das am/pm Feld scheint ungültig zu sein.',
 	),
 	'incident_category' => array(
-		'numeric' => 'The category field does not appear to contain a valid category?',
-		'required' => 'The category field is required.',
+		'numeric' => 'Das Kategorie-Feld scheint keinen gültigen Wert zu beinhalten?',
+		'required' => 'Das Kategorie-Feld ist ein Pflichtfeld.',
 	),
 	'incident_date' => array(
-		'date_ddmmyyyy' => 'The date field does not appear to contain a valid date?',
-		'date_mmddyyyy' => 'The date field does not appear to contain a valid date?',
-		'required' => 'The date field is required.',
+		'date_ddmmyyyy' => 'Das Datums-Feld scheint keinen gültigen Wert zu beinhalten?',
+		'date_mmddyyyy' => 'Das Datums-Feld scheint keinen gültigen Wert zu beinhalten?',
+		'required' => 'Das Datums-Feld ist ein Pflichtfeld.',
 	),
 	'incident_description' => array(
-		'required' => 'The description field is required.',
+		'required' => 'Das Beschreibungs-Feld ist notwendig.',
 	),
 	'incident_hour' => array(
-		'between' => 'The hour field does not appear to contain a valid hour?',
-		'required' => 'The hour field is required.',
+		'between' => 'Das Stunden-Feld scheint keinen gültigen Wert zu beinhalten?',
+		'required' => 'Das Stunden-Feld ist ein Pflichtfeld.',
 	),
 	'incident_information' => array(
-		'alpha' => 'Please enter a valid value for Information Probability',
-		'length' => 'Please enter a valid value for Information Probability',
+		'alpha' => 'Bitte geben Sie einen gültigen Wert ein für Information Probability',
+		'length' => 'Bitte geben Sie einen gültigen Wert ein für Information Probability',
 	),
 	'incident_minute' => array(
-		'between' => 'The minute field does not appear to contain a valid value?',
-		'required' => 'The minute field is required.',
+		'between' => 'Das Minuten-Feld scheint keinen gültigen Wert zu beinhalten?',
+		'required' => 'Das Minuten-Feld ist ein Pflichtfeld.',
 	),
 	'incident_news' => array(
-		'url' => 'The news source links field does not appear to contain a valid URL?',
+		'url' => 'Das Ndew-Quellen-Feld scheint keinen gültigen Wert(URL) zu beinhalten?',
 	),
 	'incident_photo' => array(
 		'size' => 'Foto-Uploads sind in der Groesse begrenzt auf 2MB.',
@@ -56,16 +59,16 @@
 		'valid' => 'Die hochzuladene Datei scheint fehlerhaft zu sein.',
 	),
 	'incident_source' => array(
-		'alpha' => 'Please enter a valid value for Source Reliability',
-		'length' => 'Please enter a valid value for Source Reliability',
+		'alpha' => 'Bitte geben Sie einen gültigen Wert ein für Source Reliability',
+		'length' => 'Bitte geben Sie einen gültigen Wert ein für Source Reliability',
 	),
 	'incident_title' => array(
-		'length' => 'The title field must be at least 3 and no more 200 characters long.',
-		'required' => 'The title field is required.',
+		'length' => 'Das Titelfeld muss zwischen 3 und 200 Zeichen lang sein.',
+		'required' => 'Das Titel-Feld ist notwendig.',
 	),
 	'incident_verified' => array(
-		'between' => 'Please enter a valid value for Verify This Report',
-		'required' => 'Please enter a valid value for Verify This Report',
+		'between' => 'Bitte geben Sie einen gültigen Wert ein für Verify This Report',
+		'required' => 'Bitte geben Sie einen gültigen Wert ein für Verify This Report',
 	),
 	'incident_video' => array(
 		'url' => 'The video links field does not appear to contain a valid URL?',
@@ -91,17 +94,17 @@
 	),
 	'person_email' => array(
 		'email' => 'The email field does not appear to contain a valid email address?',
-		'length' => 'The email field must be at least 4 and no more 64 characters long.',
+		'length' => 'Das Feld muss eine Länge zwischen 4 und 64 Zeichen haben.',
 	),
 	'person_first' => array(
-		'length' => 'The first name field must be at least 3 and no more 100 characters long.',
+		'length' => 'Das Feld muss eine Länge zwischen 3 und 100 Zeichen haben.',
 	),
 	'person_last' => array(
-		'length' => 'The last name field must be at least 3 and no more 100 characters long.',
+		'length' => 'Das Feld muss eine Länge zwischen 3 und 100 Zeichen haben.',
 	),
 	'to_date' => array(
-		'date_mmddyyyy' => 'The TO date field does not appear to contain a valid date?',
-		'range' => 'Please enter a valid TO date. It cannot be greater than today.',
-		'range_greater' => 'Your FROM date cannot be greater than your TO date.',
+		'date_mmddyyyy' => 'Das BIS Datum scheint keinen gültigen Wert zu enthalten?',
+		'range' => 'Bitte gebn SIe in gültiges BIS-Datum ein. Es kann nicht größer sien als HEUTE.',
+		'range_greater' => 'Ihr VON Datum kann nicht größer sein als das BIS Datum.',
 	));
 ?>

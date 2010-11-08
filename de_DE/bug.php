@@ -1,23 +1,23 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Bitte geben Sie einen gueltigen Sicherhietscode ein.',
+		'default' => 'Bitte geben Sie einen gültigen Sicherheitscode ein.',
 		'required' => 'Bitte geben Sie den Sicherheitscode ein.',
 	),
 	'email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address?',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => 'Das eMailfeld scheint keine gültige eMailadresse zu enthalten.',
+		'length' => 'Das eMailfeld muss mindestens 4 und höchstens 64 Zeichen lang sein.',
+		'required' => 'Da eMailfeld ist erforderlich, wenn das Kästchen angehakt wurde.',
 	),
 	'error' => array(
 		'required' => 'Das Fehlerfeld ist notwendig.',
 	),
 	'subject' => array(
-		'length' => 'The subject field must be at least 3 characters long.',
+		'length' => 'Das Betreffeld muss mindestens 3 Zeichen lang sein.',
 		'required' => 'Das Betreff-Feld ist notwendig.',
 	),
 	'yourname' => array(
-		'length' => 'The name field must be at least 3 characters long.',
+		'length' => 'Das NamensFeld muss mindestens 3 Zeichen lang sein.',
 		'required' => 'Das Namensfeld ist notwendig.',
 	));
 ?>
