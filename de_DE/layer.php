@@ -1,20 +1,23 @@
 <?php
 	$lang = array(
 	'layer_color' => array(
-		'length' => 'Angabe der Farbe im Hex-Code.',
-		'required' => 'Die Farbeinstellung ist notwendig.',
+		'length' => 'Angabe der Farbe im Hex-Code (6 Zeichen).',
+		'required' => 'Die Farbeinstellung muss angegeben werden.',
 	),
 	'layer_file' => array(
-		'type' => 'The file field does not appear to contain a valid file. The only accepted formats are .KMZ, .KML.',
-		'valid' => 'The file field does not appear to contain a valid file',
+		'type' => 'Das Dateifeld enthält eine ungültige Datei. Erlaubte Formate sind .KMZ, .KML.',
+		'valid' => 'Das Dateifeld enthält eine ungültige Datei.',
 	),
 	'layer_name' => array(
-		'length' => 'The name field must be at least 3 and no more 80 characters long.',
-		'required' => 'The name Feld ist notwendig.',
+		'length' => 'Das Namensfeld muss mindestens 3 und darf höchstens 80 Zeichen lang sein.
+',
+		'required' => 'Das Namensfeld muss ausgefüllt sein.',
 	),
 	'layer_url' => array(
-		'atleast' => 'Either a KML Url or File is required',
-		'both' => 'You can\'t have both a KML file and a url',
-		'url' => 'Please enter a valid URL. Eg. http://www.ushahidi.com/layerl.kml',
+		'atleast' => 'Entweder muss eine URL oder eine KML-Datei angegeben werden.
+',
+		'both' => 'Beides geht nicht: Entweder Datei oder URL.
+',
+		'url' => 'Bitte gib eine gültige URL an, bspw. http://www.ushahidi.com/layerl.kml.',
 	));
 ?>
