@@ -47,6 +47,8 @@
 		'required' => 'The Clickatell Username field is required.',
 	),
 	'configure_map' => 'Configure Map',
+	'copyright_entity' => 'Copyright Entity',
+	'copyright_restrictions' => 'Copyright Restrictions',
 	'default_location' => 'Default Location',
 	'default_map_all' => array(
 		'alpha_numeric' => 'The color feed field does not appear to contain a valid value?',
