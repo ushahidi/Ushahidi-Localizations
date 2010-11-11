@@ -11,7 +11,7 @@
 	'upgrade_db_text_2' => 'to the newest database version',
 	'upgrade_db_text_3' => 'Click on the "Upgrade" button and just chilax as I perform the magic.',
 	'upgrade_db_text_4' => 'Oh, also if you want me to backup your database, just tick the check button below and I will do that for you in a breeze.',
-	'upgrade_db_text_5' => 'Backup database?(<strong style="color:#FF0000;"> Highly recommended. </strong>)',
+	'upgrade_db_text_5' => 'Backup database before upgrade? (<strong style="color:#FF0000;">Highly recommended.</strong>)',
 	'upgrade_db_title' => 'Ushahidi database upgrade',
 	'upgrade_failed' => 'Upgrade failed at some point',
 	'upgrade_manual' => 'Manual Upgrade',
