@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'allow_comments' => array(
-		'between' => 'A kommentek engedélyezése mezőben érvénytelen értéket adott meg.',
-		'required' => 'A kommentek engedélyezése mezőt kötelező kitölteni.',
+		'between' => 'A megjegyzések engedélyezése mezőben érvénytelen értéket adott meg.',
+		'required' => 'A megjegyzések engedélyezése mezőt kötelező kitölteni.',
 	),
 	'allow_feed' => array(
 		'between' => 'A tartalom mezőben érvénytelen értéket adott meg.',
@@ -14,7 +14,7 @@
 	),
 	'allow_stat_sharing' => array(
 		'between' => 'A statisztika megosztása mezőben érvénytelen értéket adott meg.',
-		'required' => 'A statisztika megosztása mező kitültése kötelező.',
+		'required' => 'A statisztika megosztása mező kitöltése kötelező.',
 	),
 	'api_akismet' => array(
 		'alpha_numeric' => 'Az Akismet mezőben érvénytelen értéket adott meg.',
@@ -95,23 +95,23 @@
 		'name' => 'Térkép szolgáltató',
 	),
 	'map_settings' => 'Térkép beállításai',
-	'select_default_location' => 'Válasszd ki az országot',
+	'select_default_location' => 'Válassz ki az országot',
 	'set_location' => 'Klikelj és húzd térképet hogy a pontos helyszínt beállítsad',
 	'site' => array(
 		'allow_clustering' => 'Klaszter jelentések a térképen',
-		'allow_comments' => 'Felhasználók megjegyzésének engedélyezése a jelentésekhez',
+		'allow_comments' => 'Felhasználók megjegyzésének engedélyezése a felajánlásokhoz',
 		'allow_feed' => 'Legyen RSS hírcsatorna a website-on',
-		'allow_reports' => 'Felhasználók számára jelentések beküldésének engedélyezése',
+		'allow_reports' => 'Felhasználók számára felajánlások beküldésének engedélyezése',
 		'api_akismet' => 'Akismet kulcs',
 		'cache_pages' => 'Oldal cache',
 		'cache_pages_lifetime' => 'Oldal cache élettartama',
 		'default_category_colors' => 'Alapszín az összes kategóriára',
 		'display_contact_page' => 'A kapcsolati oldal megjelenítése',
 		'display_howtohelp_page' => 'a "Segítség" oldal megjelenítése',
-		'email_alerts' => 'Riasztások email címe',
-		'email_notice' => '<span>hogy a jelentéseket emailben megkaphasd,kérlek állítsd be a postafiókodat.</span>',
-		'email_site' => 'Az oldal email címe',
-		'google_analytics' => 'Google Analiticy',
+		'email_alerts' => 'Értesítések email címe',
+		'email_notice' => '<span>hogy emailben értesítést kaphass a történtekről,kérlek állítsd be a postafiókodat.</span>',
+		'email_site' => 'Az oldal kapcsolattartójának email címe',
+		'google_analytics' => 'Google Analitics',
 		'google_analytics_example' => 'Web Property ID - Formato: UA-XXXXX-XX',
 		'items_per_page' => 'Elemek per oldal - Front end',
 		'items_per_page_admin' => 'Elemek per oldal - Admin',

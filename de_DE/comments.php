@@ -1,19 +1,19 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Please enter a valid security code',
-		'required' => 'Please enter the security code',
+		'default' => 'Bitte geben Sie einen gültigen Sicherheitscode ein.',
+		'required' => 'Bitte geben Sie einen gültigen Sicherheitscode ein.',
 	),
 	'comment_author' => array(
-		'length' => 'The name field must be at least 3 characters long.',
-		'required' => 'The name field is required.',
+		'length' => 'Das Namensfeld muss min 3 Zeichen lang sein.',
+		'required' => 'Das Namensfeld ist notwendig',
 	),
 	'comment_description' => array(
-		'required' => 'The comments field is required.',
+		'required' => 'Das Kommentarfels ist notwendig',
 	),
 	'comment_email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address?',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => 'Das eMail-Feld scheint eine ungültige Adresse zu enthalten?',
+		'length' => 'Die eMail-Adresse muss zwischen 4 und 64 Zeichen lang sein.',
+		'required' => 'Das Emailfeld ist notwendig wenn die Box angekreuzt ist',
 	));
 ?>

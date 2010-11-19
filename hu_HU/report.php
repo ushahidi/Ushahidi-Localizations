@@ -8,20 +8,20 @@
 		'numeric' => 'Kérem, válasszon valós elemet, amelyet le kíván tölteni.',
 	),
 	'data_point' => array(
-		'between' => 'Kérem, válasszon érvényes jelentéstípust, amelyet le kíván tölteni.',
-		'numeric' => 'Kérem, válasszon érvényes jelentéstípust, amelyet le kíván tölteni.',
-		'required' => 'Kérem, válasszon érvényes jelentéstípust, amelyet le kíván tölteni.',
+		'between' => 'Kérem, válasszon érvényes felajánlás típus, amelyet le kíván tölteni.',
+		'numeric' => 'Kérem, válasszon érvényes felajánlás típus, amelyet le kíván tölteni.',
+		'required' => 'Kérem, válasszon érvényes felajánlás típus, amelyet le kíván tölteni.',
 	),
 	'from_date' => array(
 		'date_mmddyyyy' => 'A "FROM" dátummező nem tartalmaz érvényes adatot.',
 		'range' => 'Kérem, adjon meg érvényes "FROM" dátumot. Nem lehet több a mai dátumnál.',
 	),
 	'incident_active' => array(
-		'between' => 'Kérem, adjon meg valós értéket a jelentés jóváhagyásához.',
-		'required' => 'Kérem, adjon meg valós értéket a jelentés jóváhagyásához.',
+		'between' => 'Kérem, adjon meg valós értéket a felajánlás jóváhagyásához.',
+		'required' => 'Kérem, adjon meg valós értéket a felajánlás jóváhagyásához.',
 	),
 	'incident_ampm' => array(
-		'validvalues' => 'Az am/pm mező nem tartalmaz érvényes értéket.',
+		'validvalues' => 'Az de/du mező nem tartalmaz érvényes értéket.',
 	),
 	'incident_category' => array(
 		'numeric' => 'A kategóriamező nem tartalmaz érvényes kategóriát.',
@@ -40,8 +40,8 @@
 		'required' => 'Az óramező kitöltése kötelező.',
 	),
 	'incident_information' => array(
-		'alpha' => 'Kérem, adjon meg valós értéket az Információ Valószínűséghez.',
-		'length' => 'Kérem, adjon meg valós értéket az Információ Valószínűséghez.',
+		'alpha' => 'Kérem, adjon meg valós értéket az információ valószínűséghez.',
+		'length' => 'Kérem, adjon meg valós értéket az információ valószínűséghez.',
 	),
 	'incident_minute' => array(
 		'between' => 'A percmező nem tartalmaz valós értéket.',
@@ -56,16 +56,16 @@
 		'valid' => 'A Képfeltöltés mező nem tartalmaz valós fájlt.',
 	),
 	'incident_source' => array(
-		'alpha' => 'Kérem, adjon meg valós értéket a Forrás Megbízhatósághoz.',
-		'length' => 'Kérem, adjon meg valós értéket a Forrás Megbízhatósághoz.',
+		'alpha' => 'Kérem, adjon meg valós értéket a forrás megbízhatósághoz.',
+		'length' => 'Kérem, adjon meg valós értéket a forrás megbízhatósághoz.',
 	),
 	'incident_title' => array(
 		'length' => 'A címmező legalább 3 legfeljebb 200 karaktert tartalmazhat.',
 		'required' => 'A címmező kitöltése kötelező.',
 	),
 	'incident_verified' => array(
-		'between' => 'Kérem, adjon meg valós értéket a Jelentés Megerősítéséhez.',
-		'required' => 'Kérem, adjon meg valós értéket a Jelentés Megerősítéséhez.',
+		'between' => 'Kérem, adjon meg valós értéket a felajánlás megerősítéséhez.',
+		'required' => 'Kérem, adjon meg valós értéket a felajánlás megerősítéséhez.',
 	),
 	'incident_video' => array(
 		'url' => 'A videolink mező nem tartalmaz érvényes URL-t.',
@@ -76,9 +76,9 @@
 	),
 	'locale' => array(
 		'alpha_dash' => 'A helyzet mező helytelen értéket tartalmaz.',
-		'exists' => 'Erről a jelentésről már készült fordítás erre a nyelvre.',
+		'exists' => 'Erről a felajánlásról már készült fordítás erre a nyelvre.',
 		'length' => 'A helyzet mező helytelen értéket tartalmaz.',
-		'locale' => 'Az Eredeti Jelentésnek és a Fordításnak ugyanaz a helyzete. (nyelve)',
+		'locale' => 'Az eredeti felajánlásna és a fordításnak ugyanaz a helyzete. (nyelve)',
 		'required' => 'A helyzet meghatározása kötelező.',
 	),
 	'location_name' => array(
@@ -101,7 +101,7 @@
 	),
 	'to_date' => array(
 		'date_mmddyyyy' => 'A "TO" dátummező nem tartalmaz érvényes dátumot.',
-		'range' => 'Kérem, adjon meg érvényes "TO" dátumot. Ez a mai dátumnál nem lehet nagyobb.',
+		'range' => 'Kérem, adjon meg érvényes "TO" dátumot. Ez a mai dátumot nem haladhatja meg.',
 		'range_greater' => 'A "FROM"-ban megadott dátum nem haladhatja meg a "TO"-ban megadott dátumot.',
 	));
 ?>
