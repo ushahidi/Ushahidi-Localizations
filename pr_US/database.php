@@ -1,5 +1,5 @@
 <?php
 	$lang = array(
-	'error' => 'Test Database %s YARRR!',
+	'error' => 'YARR! Thar be a problem with the database: %s',
 	);
 ?>
