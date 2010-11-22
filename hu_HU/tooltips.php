@@ -2,7 +2,7 @@
 	$lang = array(
 	'profile_email' => 'Az email címed',
 	'profile_name' => 'A teljes neved',
-	'profile_notify' => 'Ha az IGEN-t választod, akkor emailben kapsz értesítőt, amikor új jelentés vagy megjegyzés kerül beküldésre a websiteodra',
+	'profile_notify' => 'Ha az IGEN-t választod, akkor emailben kapsz értesítőt, amikor új felajánlás vagy megjegyzés kerül beküldésre a joszolgalat.hu-ra',
 	'profile_password' => 'A jelszavad. Hagyd üresen, ha meg szeretnéd tartani a jelenlegit.',
 	'profile_username' => 'A felhasználói nevedet nem tudod megváltoztatni.',
 	'settings_alert_email' => 'Ezt az email címet fogjuk használni, hogy értesítéseket küldjünk',
