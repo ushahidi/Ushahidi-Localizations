@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'am' => 'AM',
+	'am' => 'vormittag',
 	'friday' => array(
 		'abbv' => 'FR',
 		'full' => 'Freitag',
@@ -9,7 +9,7 @@
 		'abbv' => 'MO',
 		'full' => 'Montag',
 	),
-	'pm' => 'PM',
+	'pm' => 'nachmittag',
 	'saturday' => array(
 		'abbv' => 'SA',
 		'full' => 'Samstag',

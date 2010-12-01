@@ -7,7 +7,7 @@
 	'email' => array(
 		'email' => 'Das eMailfeld scheint keine gültige eMailadresse zu enthalten.',
 		'length' => 'Das eMailfeld muss mindestens 4 und höchstens 64 Zeichen lang sein.',
-		'required' => 'Da eMailfeld ist erforderlich, wenn das Kästchen angehakt wurde.',
+		'required' => 'Das eMailfeld ist erforderlich, wenn das Kästchen angehakt wurde.',
 	),
 	'error' => array(
 		'required' => 'Das Fehlerfeld ist notwendig.',
@@ -17,7 +17,7 @@
 		'required' => 'Das Betreff-Feld ist notwendig.',
 	),
 	'yourname' => array(
-		'length' => 'Das NamensFeld muss mindestens 3 Zeichen lang sein.',
+		'length' => 'Das Namensfeld muss mindestens 3 Zeichen lang sein.',
 		'required' => 'Das Namensfeld ist notwendig.',
 	));
 ?>

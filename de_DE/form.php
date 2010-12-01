@@ -1,43 +1,40 @@
 <?php
 	$lang = array(
 	'field_default' => array(
-		'length' => 'The Field Name must be at least 3 and no more 
-				200 characters long.',
+		'length' => 'Der Feldname muss zwischen 3 und 200 Zeichen lang sein.',
 	),
 	'field_height' => array(
-		'between' => 'Please enter a value 0 to 50 for the Field Height',
+		'between' => 'Bitte wähle einen Wert zwischen 0 und 50 für die Feldhöhe.',
 	),
 	'field_isdate' => array(
-		'between' => 'You have entered an invalid value for Date Field',
-		'required' => 'Please select Yes or No for the Date Field',
+		'between' => 'Du hast einen ungültigen Wert für das Datumsfeld eingegeben.',
+		'required' => 'Bitte gib an, ob das Datumsfeld erforderlich ist oder nicht.',
 	),
 	'field_name' => array(
-		'length' => 'The Field Name must be at least 3 and no more 
-				100 characters long.',
-		'required' => 'Please enter Field Name.',
+		'length' => 'Der Feldname muss zwischen 3 und 100 Zeichen lang sein.',
+		'required' => 'Bitte gib den Feldnamen ein.',
 	),
 	'field_required' => array(
-		'between' => 'You have entered an invalid value for Field Required',
-		'required' => 'Please select Yes or No for Field Required',
+		'between' => 'Du hast einen ungültigen Wert für das Feld PFLICHT eingegeben.',
+		'required' => 'Wähle ob das Feld ein Pflichtfeld ist oder nicht.',
 	),
 	'field_type' => array(
-		'numeric' => 'Please select a valid Field Type.',
-		'required' => 'Please select a Field Type.',
+		'numeric' => 'Bitte wähle einen gültigen Feldtypus.',
+		'required' => 'Wähle einen Feldtypus aus.',
 	),
 	'field_width' => array(
-		'between' => 'Please enter a value 0 to 300 for the Field Width',
+		'between' => 'Bitte wähle einen Wert zwischen 0 und 300 für die Feldbreite.',
 	),
 	'form_description' => array(
-		'required' => 'Please enter form\'s Description.',
+		'required' => 'Bitte gib eine Beschreibung der Form ein.',
 	),
 	'form_id' => array(
-		'default' => 'The default form cannot be deleted.',
-		'numeric' => 'Please select which form to add this field to.',
-		'required' => 'Please select which form to add this field to.',
+		'default' => 'Die Standardform kann nicht gelöscht werden.',
+		'numeric' => 'Bitte wähle aus zu welcher Form das Feld hinzugefügt werden soll.',
+		'required' => 'Bitte wähle aus zu welcher Form das Feld hinzugefügt werden soll.',
 	),
 	'form_title' => array(
-		'length' => 'The form name field must be at least 3 and no more 
-				100 characters long.',
-		'required' => 'Please enter the name of the form.',
+		'length' => 'Das Formfeld muss zwischen 3 und 100 Zeichen lang sein.',
+		'required' => 'Bitte gib den Namen der Form ein.',
 	));
 ?>

@@ -5,9 +5,9 @@
 		'required' => 'Bitte geben Sie den Sicherheitscode ein.',
 	),
 	'email' => array(
-		'email' => 'Das Email-Feld schient keine gültige Mailadresse zu enthalten.',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => 'Das eMail-Feld scheint keine gültige Mailadresse zu enthalten.',
+		'length' => 'Das eMail-Feld muss zwischen 4 und 64 Zeichen lang sein.',
+		'required' => 'Das eMail-Feld ist erforderlich, wenn die Box angehakt wurde. ',
 	),
 	'message' => array(
 		'required' => 'Das Kommentarfeld ist notwendig.',

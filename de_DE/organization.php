@@ -10,7 +10,7 @@
 	'organization_name' => array(
 		'length' => 'Das Feld für die Organisation muss mindestens 3 und darf höchstens 70 Zeichen enthalten.',
 		'required' => 'Das Feld für die Organisation ist erforderlich.',
-		'standard_text' => 'Das Benutzernamenfeld enthält unerlaubte Zeichen.',
+		'standard_text' => 'Das Feld BENUTZERNAME enthält unerlaubte Zeichen.',
 	),
 	'organization_phone1' => array(
 		'length' => 'Das Feld mit der Telefonnummer muss min. 3 und darf max. 50 Zeichen lang sein.',
@@ -19,7 +19,7 @@
 		'length' => 'Das Feld mit der Telefonnummer muss min. 3 und darf max. 50 Zeichen lang sein.',
 	),
 	'organization_website' => array(
-		'required' => 'Bitte geben Sie die Webseite der Organisation an.',
+		'required' => 'Bitte geben Sie die Website der Organisation an.',
 		'url' => 'Bitte geben Sie einen gültige URL ein. Z.B. http://www.ushahidi.com',
 	));
 ?>
