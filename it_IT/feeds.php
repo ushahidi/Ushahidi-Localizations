@@ -2,8 +2,8 @@
 	$lang = array(
 	'date' => 'DATA',
 	'feed_name' => array(
-		'length' => 'Il nome del feed deve essere lungo almeno 3 e non pi',
-		'required' => 'Inserite il nome de feed.',
+		'length' => 'Il nome del feed deve essere lungo almeno 3 e non più di 70 caratteri.',
+		'required' => 'Inserite il nome del feed.',
 	),
 	'feed_url' => array(
 		'required' => 'Inserite la URL del feed.',

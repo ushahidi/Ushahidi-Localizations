@@ -17,8 +17,8 @@
 		'range' => 'Inserisci una data DA valida. Non può essere successiva a oggi.',
 	),
 	'incident_active' => array(
-		'between' => 'Inserisci un valore valido per Approva Questa Segnalazione',
-		'required' => 'Inserisci un valore valido per Approva Questa Segnalazione',
+		'between' => 'Inserisci un valore valido per Approva questa segnalazione',
+		'required' => 'Inserisci un valore valido per Approva questa segnalazione',
 	),
 	'incident_ampm' => array(
 		'validvalues' => 'Il campo am/pm contiene un valore valido?',

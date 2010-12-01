@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'access_denied_credentials' => 'Accesso negato. O le credenziali che hai inserito non sono corrette oppure ti è stato revocato l\'accesso.',
+	'access_denied_credentials' => 'Accesso negato. Le credenziali che hai inserito non sono corrette oppure ti è stato revocato l\'accesso.',
 	'access_denied_others' => 'Accesso negato. La richiesta era corretta ma è stata bloccata per dei limiti di accesso (ad esempio il tempo). Riprova più tardi.',
 	'actions' => 'Azioni',
 	'added' => 'aggiunto',
