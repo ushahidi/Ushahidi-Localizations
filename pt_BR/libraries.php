@@ -1,0 +1,20 @@
+<?php
+	$lang = array(
+	'akismet_cannot_connect' => 'Não foi possível conectar com o servidor akismet',
+	'akismet_cannot_retrieve' => 'Não foi possível retornar uma resposta do Akismet',
+	'askimet_invalid_apikey' => 'A chave API Akismet não é válida.',
+	'clickatell_fopen_error' => 'Erro durante a execução do método de envio!<br>Verifique se o PHP tem suporte OpenSSL e verifique que a versão de PHP é mais atual que 5.2',
+	'clickatell_message_too_long' => 'Sua mensagem de unicode é muito longa (Tamanho atual=',
+	'clickatell_no_destination_address' => 'Especifique um endereço de destino (PARA)!',
+	'clickatell_no_sender_address' => 'Especifique um endereço fonte (DE)!',
+	'clickatell_unicode_message_too_long' => 'Sua mensagem de unicode é muito longa (Tamanho atual=',
+	'clickatell_unsupported_method' => 'Método de envio não suportado',
+	'upgrade_directory_not_deleted' => 'Não foi possível apagar o diretório <code>%s</coded>',
+	'upgrade_extracting_error' => 'Erro durante a extração: <code>%s</code>',
+	'upgrade_failed' => 'Houve falha no download do último ushahidi. Código de status do HTTP',
+	'upgrade_file_not_copied' => 'Não foi possível copiar o arquivo <code>%s</coded>',
+	'upgrade_file_not_deleted' => 'Não foi possível apagar o arquivo <code>%s</coded>',
+	'upgrade_title' => 'Script de atualização do Ushahidi',
+	'upgrade_zip_error' => 'Não foi possível concluir o download do arquivo zipado do ushahidi <code>%s</code>',
+	);
+?>

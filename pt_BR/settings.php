@@ -1,0 +1,162 @@
+<?php
+	$lang = array(
+	'allow_comments' => array(
+		'between' => 'O campo de permisso de relatos parece no conter informaes vlidas.',
+		'required' => ' necessrio preencher o campo de permisso de relatos.',
+	),
+	'allow_feed' => array(
+		'between' => 'O campo de incluso de feed parece no conter informaes vlidas.',
+		'required' => ' necessrio preencher o campo de incluso de feed.',
+	),
+	'allow_reports' => array(
+		'between' => 'O campo de permisso de relatos parece no conter informaes vlidas.',
+		'required' => ' necessrio preencher o campo de permisso de relatos.',
+	),
+	'allow_stat_sharing' => array(
+		'between' => 'O campo de compartilhamento de estatsticas parece no conter informaes vlidas.',
+		'required' => ' necessrio preencher o campo de compartilhamento de estatsticas.',
+	),
+	'api_akismet' => array(
+		'alpha_numeric' => 'O campo Akismet parece no conter informaes vlidas.',
+		'length' => 'O campo Akismet parece no conter informaes vlidas.',
+	),
+	'clickatell_api' => array(
+		'length' => 'O nome nmero da API Clickatell no pode ter mais de 20 caracteres.',
+		'required' => ' necessrio fornecer um nmero de API Clickatell.',
+	),
+	'clickatell_password' => array(
+		'length' => 'A senha do Clickatell deve ter pelo menos 5 e no mximo 50 caracteres.',
+		'required' => ' necessrio fornecer uma senha no Clickatell.',
+	),
+	'clickatell_username' => array(
+		'length' => 'O nome de usurio Clickatell no pode ter mais de 50 caracteres.',
+		'required' => ' necessrio fornecer um nome de usurio no Clickatell.',
+	),
+	'configure_map' => 'Configurar mapa',
+	'default_location' => 'Localizao padr&#139;&atilde;o',
+	'default_map_all' => array(
+		'alpha_numeric' => 'O campo cor parece no conter informaes vlidas.',
+		'length' => 'O campo cor no pode ter mais que seis 6 caracteres.',
+		'required' => ' necessrio preencher o campo cor.',
+	),
+	'default_map_view' => 'Visualizao padro do mapa',
+	'default_zoom_level' => 'Nvel padro de zoom',
+	'download_city_list' => 'Buscar cidades no Geonames',
+	'email_host' => array(
+		'length' => 'A porta do servidor de email  muito longa.',
+		'numeric' => 'A porta do servidor s pode conter nmeros.',
+	),
+	'email_password' => array(
+		'length' => 'A senha do servidor do email deve ter pelo menos 5 e no mximo 50 caracteres.',
+		'required' => ' necessrio fornecer a senha do email do servidor.',
+	),
+	'email_port' => array(
+		'length' => 'A porta do servidor de email  muito longa.',
+		'numeric' => 'A porta do servidor s pode conter nmeros.',
+	),
+	'email_servertype' => array(
+		'length' => 'A porta do servidor de email  muito longa.',
+		'required' => ' necessrio fornecer um tipo de servidor de email.',
+	),
+	'email_username' => array(
+		'length' => 'O nome de usurio do servidor de email no pode ter mais de 50 caracteres.',
+		'required' => ' necessrio fornecer o email do servidor.',
+	),
+	'google_analytics' => array(
+		'length' => 'O campo Google Analytics deve conter um Web Property ID vlido no formato UA-XXXXX-XX.',
+	),
+	'items_per_page' => array(
+		'between' => 'O campo de itens por pgina (Frontend) parece no conter informaes vlidas.',
+		'required' => ' necessrio preencher o campo de itens por pgina (Frontend).',
+	),
+	'items_per_page_admin' => array(
+		'between' => 'O campo de itens por pgina (Admin) parece no conter informaes vlidas.',
+		'required' => ' necessrio preencher o campo de itens por pgina (Admin).',
+	),
+	'map' => array(
+		'default_location' => 'Configurar um provedor de mapas  um processo simples. Escolha um provedor, obtenha uma chave API do site do provedor e fornea-o.',
+		'zoom' => 'Nvel de zoom',
+	),
+	'map_provider' => array(
+		'choose' => 'Escolha um provedor de mapa',
+		'enter_api' => 'Digite a nova chave API',
+		'get_api' => 'Consiga uma chave API',
+		'info' => 'Configurar o provedor de mapa  um processo simples. Escolha um provedor, obtenha uma chave API do provedor do site, e digite a chave API.',
+		'name' => 'Provedor de mapa',
+	),
+	'map_settings' => 'Configurao do mapa',
+	'multiple_countries' => 'Essa verso do Ushahidi ser usada em vrios pases?',
+	'select_default_location' => 'Escolha um pas padr&atilde;&#139;o',
+	'set_location' => 'Clique e arraste para o mapa para definir a localizao exata.',
+	'site' => array(
+		'allow_clustering' => 'Mostrar relatos em um mapa',
+		'allow_comments' => 'Permitir que usuários enviem comentários nos relatos',
+		'allow_feed' => 'Incluir feed de notícias de RSS no site',
+		'allow_reports' => 'Permitir que usuários enviem relatos?',
+		'api_akismet' => 'Chave do Akismet',
+		'default_category_colors' => 'Cor padrão para todas as categorias',
+		'display_contact_page' => 'Exibir página de contato?',
+		'display_howtohelp_page' => 'Exibir a página Como ajudar?',
+		'email_alerts' => 'Alertas por email',
+		'email_notice' => '<span>Para receber alertas por email, configure sua conta de email.</span>',
+		'email_site' => 'E-mail do site',
+		'google_analytics' => 'Google Analytics',
+		'google_analytics_example' => 'Web Property ID - Formato: UA-XXXXX-XX',
+		'items_per_page' => 'Itens por página - Capa',
+		'items_per_page_admin' => 'Itens por página - Admin',
+		'kismet_notice' => 'Previna spam nos comentrios usando <a href="http://akismet.com/" target="_blank">Akismet</a> do Automattic. <BR />Voc receber uma chave API ao registrar-se com o seu <a href="http://en.wordpress.com/api-keys/" target="_blank">nome de usurio no WordPress.com</a>.',
+		'laconica_configuration' => 'Credenciais no Laconica',
+		'laconica_site' => 'Site do Laconica ',
+		'language' => 'Idioma do site',
+		'name' => 'Nome do site',
+		'share_site_stats' => 'Compartilhe estatsticas com API',
+		'tagline' => 'Slogan do site',
+		'title' => 'Configurações do site',
+		'twitter_configuration' => 'Credenciais no Twitter',
+		'twitter_hashtags' => 'Hashtags, separadas por vírgulas ',
+	),
+	'site_email' => array(
+		'email' => 'O campo do email parece no conter um endereo de email vlido.',
+		'length' => 'O campo de email do site deve ter pelo menos 4 e no mximo 100 caracteres.',
+	),
+	'site_name' => array(
+		'length' => 'O campo nome do site deve ter pelo menos 3 e no mximo 50 caracteres.',
+		'required' => ' necessrio fornecer o nome do site.',
+	),
+	'site_tagline' => array(
+		'length' => 'O campo nome de slogan deve ter pelo menos 3 e no mximo 100 caracteres.',
+		'required' => ' necessrio preencher o campo de slogan.',
+	),
+	'sms' => array(
+		'clickatell_api' => 'Nmero da API Clickatell',
+		'clickatell_check_balance' => 'Verifique o saldo disponpivel no Clickatell',
+		'clickatell_load_balance' => 'Creditar',
+		'clickatell_password' => 'Senha no Clickatell',
+		'clickatell_text_1' => 'Inscreva-se no servio Clickatells <a href="https://www.clickatell.com/central/user/client/step1.php?prod_id=2" target="_blank">clicando aqui</a>.',
+		'clickatell_text_2' => 'Fornea os seus dados de acesso no Clickatell abaixo',
+		'clickatell_username' => 'Nome de usurio no Clickatell',
+		'flsms_description' => 'FrontlineSMS  um software gratuito de cdigo livre que transforma um laptop e um telefone celular em um hub de uma central de comunicaes. Depois de instalado, o programa permite que usurios enviem e recebam mensagem de texto para grupos de pessoas por meio do celular. Clique na caixa cinza para solicitar o download do FrontlineSMS.com.',
+		'flsms_download' => 'Baixe e instale o Frontline SMS no seu computador',
+		'flsms_instructions' => 'As mensagens recebidas por meio do hub do FrontlineSMS podem ser sincronizadas com o Ushahidi. Instrues detalhadas sobre como fazer essa sincronizao podem ser encontradas <strong><a href="http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi" target="_blank">aqui</a></strong>. Ser necessrio ter em mos a chave e o link abaixo para sincronizar com o FrontlineSMS.',
+		'flsms_key' => 'Sua chave de sincronizao do Ushahidi',
+		'flsms_link' => 'Insira o LINK do FrontlineSMS HTTP',
+		'flsms_synchronize' => 'Sincronize com o Ushahidi',
+		'flsms_text_1' => 'Fornea o nmero de telefone conectado ao Frontline SMS no campo abaixo.',
+		'flsms_text_2' => 'Fornea o nmero sem nenhum + ou traos baixos no campo abaixo.',
+		'option_1' => '1» opo: Use Frontline SMS',
+		'option_2' => '2» opo: Use a Global SMS Gateway',
+		'title' => 'Opes de configurao de SMS',
+	),
+	'sms_no1' => array(
+		'length' => 'O 1¼ campo do nmero de telefone parece no conter informaes vlidas.',
+		'numeric' => 'O 1¼ campo do nmero de telefone deve conter apenas nmeros.',
+	),
+	'sms_no2' => array(
+		'length' => 'O 2¼ campo do nmero de telefone  muito longo.',
+		'numeric' => 'O 2¼ campo do nmero de telefone deve conter apenas nmeros.',
+	),
+	'sms_no3' => array(
+		'length' => 'O 3¼ campo do nmero de telefone  muito longo.',
+		'numeric' => 'O 3¼ campo do nmero de telefone deve conter apenas nmeros.',
+	));
+?>
