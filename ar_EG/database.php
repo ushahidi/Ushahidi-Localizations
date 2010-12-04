@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'error' => 'Database error: %s',
-	'table_not_found' => 'جدول "%s" لم يمكن إيجاده فى قاعدة البيانات. Please make sure you are using the latest version of the database for this version of Ushahidi',
+	'error' => 'خطأ في قاعدة البيانات',
+	'table_not_found' => 'لم يمكن إيجاد الجدول فى قاعدة البيانات. برجاء التأكد من استخدام أحدث إصداره من قاعدة البيانات لهذه الإصداره من يوشاهيدي',
 	);
 ?>
