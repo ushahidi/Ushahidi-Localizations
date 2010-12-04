@@ -16,9 +16,9 @@
 	),
 	'person_email' => array(
 		'email' => 'Pole adresu emailowego prawdopodobnie nie zawiera ważnego adresu emailowego',
-		'required' => 'Wprowadź twój adres emailowy',
+		'required' => 'Podaj swój adres email',
 	),
 	'person_name' => array(
-		'required' => 'Wprowadź twoją pełną nazwę.',
+		'required' => 'Podaj imię i nazwisko.',
 	));
 ?>

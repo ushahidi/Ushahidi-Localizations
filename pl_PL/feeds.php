@@ -1,5 +1,6 @@
 <?php
 	$lang = array(
+	'date' => 'Data',
 	'feed_name' => array(
 		'length' => 'Pole nazwy zasilania musi zawierać co najmniej 3 i nie więcej niż 
 			70 znaków.',
@@ -8,5 +9,8 @@
 	'feed_url' => array(
 		'required' => 'Wprowadź URL zasilania.',
 		'url' => 'Wprowadź ważny URL. Np. http://www.ushahidi.com',
-	));
+	),
+	'source' => 'Źródło',
+	'title' => 'Tytuł',
+	);
 ?>
