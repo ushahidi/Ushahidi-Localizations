@@ -1,4 +1,50 @@
 <?php
 	$lang = array(
+	'alert_email' => array(
+		'email' => 'Emailkaad galisay sax ma aha.',
+		'email_check' => 'Emailkaad galisay horay ayuu u diiwaangashanaa suu u helo farriimo ku saabsan goobtaas.',
+		'length' => 'Emailkaagu waa inuu ka kooban yahay ugu yaraan afar xarfood, ugu badnaana 64 xarfood.',
+		'one_required' => 'Soomaali',
+		'required' => 'Email waa lagama maarmaan haddii sanduukhu uu saxan yahay.',
+	),
+	'alert_lat' => array(
+		'between' => 'Ma aadan ka dooran khariirada goob sax ah.',
+		'required' => 'Ma aadan ka dooran khariirada goob jirta.',
+	),
+	'alert_lon' => array(
+		'between' => 'Ma aadan ka dooran khariirada goob jirta.',
+		'required' => 'Ma aadan ka dooran khariirada goob jirta.',
+	),
+	'alert_mobile' => array(
+		'length' => 'Tirada nambarrada telefoonka aad galisay sax ma aha.',
+		'mobile_check' => 'Telefoon nambarka aad galisay horay ayuu u diiwaangashanaa suu u helo farriimo ku saabsan goobtaas.',
+		'numeric' => 'Ma jiro telefoonka aad galisay. Fadlan gali telefoon nambar sax ah, adigoo ku bilaabaya furaha wadanka.',
+		'one_required' => 'Waa inaad galisaa telefoon nambarkaaga ama Emailkaaga.',
+		'required' => 'Telefoon nambar waa lagama maarmaan hadii sanduukhu saxan yahay.',
+	),
+	'alert_radius' => array(
+		'in_array' => 'Dhexroor uma aadan hagaajin khariirada.',
+		'required' => 'Dhexroor uma aadan hagaajin khariirada.',
+	),
+	'code_already_verified' => 'Furahan horay ayaa loo xaqiijiyay!',
+	'code_not_found' => 'furaha xaqiijinta wali lama helin! Fadlan hubi in URL-ku sax yahay.',
+	'code_verified' => 'Furahaaga waa la xaqiijiyay. Waxaad hadda heli doontaa fariimaha islamarka ay dhacaan.',
+	'confirm_request' => 'Si aad u xaqiijiso dalabkaaga farriimaha, fadlan booqo',
+	'create_more_alerts' => 'Dib ugu noqo bogga farriimaha si aad u samayso farrimo kaloo badan.',
+	'email_alert_request_created' => 'Dalabka farriimaha ee Emailkaaga waa la sameeyay, waxaana farrin xaqiijin ah lagu soo diray',
+	'email_code' => 'Fadlan geli furaha xaqiijinta emailka ee aad hoos ku heshay.',
+	'email_error_head' => 'Dalabka farrimaha Emailkaaga lama keydin!',
+	'email_ok_head' => 'Dalabka farriimaha Emailkaaga waa la keydiyay!',
+	'error' => 'Mashiinku wuu awoodi waayay inuu soo saaro dalabkaaga xajiinta!',
+	'mobile_alert_request_created' => 'Dalabkaaga farrimaha mobile-ka waa la sameeyay, waxaana farriin xaqiijin ah lagu diray',
+	'mobile_code' => 'Fadlan hoose geli furaha lagugu soo diray mobile-kaaga:',
+	'mobile_error_head' => 'Dalabka farrimaha Mobile-kaaga lama keydin!',
+	'mobile_ok_head' => 'Dalabka farrimaha Mobile-kaaga lama keydin!',
+	'settings_error' => 'Qaabkaad wax u samaysay si sax ah uma soo saari karo farrimaha',
+	'unsubscribe' => 'Waxaad heshay Emailkaan, maxaayeelay adigaa ayaa codsaday inaad hesho farriimo joogta ah. Haddii aadan doonayn inaad hesho farrimaha, booqo',
+	'unsubscribed' => 'Dib dambe uma heli doontid farriimo laga bilaabo',
+	'unsubscribe_failed' => 'Waan awoodi waynay inaan kaa xirno farrimaheena. Fadlan hubi in URL-ku saxan yahay.',
+	'verification_email_subject' => 'Xaqiijinta farriimaha',
+	'verify_code' => 'Ma heli kartid farrimo ku saabsan goobtaan adigoon xaqiijin dalabkaaga.',
 	);
 ?>
