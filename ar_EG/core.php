@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
-	'config' => 'config file',
+	'config' => 'ملف التكوين',
 	'controller' => 'المتحكم',
-	'driver' => 'driver',
+	'driver' => 'السائق',
 	'driver_implements' => 'The %s driver for the %s library must implement the %s interface',
 	'driver_not_found' => 'The %s driver for the %s library could not be found',
 	'errors_disabled' => 'يمكنك الذهاب إلى <a href="%s">home page</a> or <a href="%s">try again</a>.',

@@ -1,5 +1,6 @@
 <?php
 	$lang = array(
+	'comments_form_error' => '!خطأ',
 	'custom_field' => array(
 		'values' => 'الرجاء إدخال قيمة صالحة لأحد بنود النموذج المخصص الخاص بك',
 	),

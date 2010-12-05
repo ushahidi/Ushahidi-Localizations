@@ -1,13 +1,13 @@
 <?php
 	$lang = array(
-	'akismet_cannot_connect' => 'لم يمكن الاتصال بخادم Akismet',
-	'akismet_cannot_retrieve' => 'لم يمكن الحصول على استجابة من Akismet',
+	'akismet_cannot_connect' => 'Akismet لم يمكن الاتصال بخادم',
+	'akismet_cannot_retrieve' => 'Akismet لم يمكن الحصول على استجابة من ',
 	'askimet_invalid_apikey' => 'Your Akismet API key is not valid',
 	'clickatell_fopen_error' => 'Error while executing fopen sending method!<br>Please check does PHP have OpenSSL support and check does PHP version is greater than 5.2',
-	'clickatell_message_too_long' => 'رسالة الكود الموحد طويلة للغاية! (الطول الحالى=',
+	'clickatell_message_too_long' => '=رسالة الكود الموحد طويلة للغاية! (الطول الحالى',
 	'clickatell_no_destination_address' => 'حدد عنوان الجهة المقصودة (TO)!',
 	'clickatell_no_sender_address' => 'حدد عنوان جهة المصدر (FROM)!',
-	'clickatell_unicode_message_too_long' => 'رسالة الكود الموحد طويلة للغاية! (الطول الحالى=',
+	'clickatell_unicode_message_too_long' => '=رسالة الكود الموحد طويلة للغاية! (الطول الحالى',
 	'clickatell_unsupported_method' => 'طريقة إرسال غير صحيحة',
 	'upgrade_directory_not_deleted' => 'Directory <code>%s</coded> could not be deleted',
 	'upgrade_extracting_error' => 'Error while extracting: <code>%s</code>',
