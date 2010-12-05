@@ -37,5 +37,6 @@
 		'exists' => 'waan ka xunnahay, ciwaankaan horay ayaa loo qaatay',
 		'length' => 'ciwaanku ugu yaraan waa inuu ka koobnaadaa 2 xaraf ugu badnaanna 16 xuruuf.',
 		'required' => 'ciwaan ayaa loo baahan yahay.',
+		'superadmin' => 'Waxba lagama badeli karo.',
 	));
 ?>
