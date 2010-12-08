@@ -3,7 +3,7 @@
 	'base_path' => 'Base Path',
 	'database' => 'Database',
 	'database_host' => 'Database Host',
-	'database_host_description' => 'Se stai usando Ushahidi sul tuo computer, questo sarà considerato "vps-ushahidi-mysql.crowdmap.com". Se stai usando Ushahidi con un web server, puoi avere le informazioni sull\'host dal tuo web hosting provider',
+	'database_host_description' => 'Se stai usando Ushahidi sul tuo computer, questo sarà considerato "localhost". Se stai usando Ushahidi con un web server, puoi avere le informazioni sull\'host dal tuo web hosting provider',
 	'database_name' => 'Database Name',
 	'database_name_description' => 'Il nome del database per Ushahidi',
 	'db_information_link' => 'Per ulteriori informazioni leggete <a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">questo articolo</a> nel wiki che tratta del databases con maggior dettaglio',
