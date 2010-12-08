@@ -3,7 +3,7 @@
 	'base_path' => 'Base Path',
 	'database' => 'Datenbank',
 	'database_host' => 'Datenbank Host',
-	'database_host_description' => 'Wenn Du Ushahidi auf Deinem Computer installiert hast, ist es höchstwahrscheinlich "vps-ushahidi-mysql.crowdmap.com". Wenn Du Ushahidi auf einem entfernten Webserver laufen lässt, kannst Du Deinen Hosting-Anbieter nach den entsprechenden Informatione fragen',
+	'database_host_description' => 'Wenn Du Ushahidi auf Deinem Computer installiert hast, ist es höchstwahrscheinlich "localhost". Wenn Du Ushahidi auf einem entfernten Webserver laufen lässt, kannst Du Deinen Hosting-Anbieter nach den entsprechenden Informatione fragen',
 	'database_name' => 'Datenbankname',
 	'database_name_description' => 'Der Name der Datenbank in der Du Ushahidi installieren möchtest',
 	'db_information_link' => 'Für mehr Informationen zu Datenbanken siehe <a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">diesen Beitrag</a> im Ushahidi-Wiki.',
