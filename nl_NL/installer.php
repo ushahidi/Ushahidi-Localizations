@@ -3,7 +3,7 @@
 	'base_path' => 'Systeempad',
 	'database' => 'Database',
 	'database_host' => 'Database server',
-	'database_host_description' => 'Wanneer je Ushahidi uitvoert op je eigen computer, dan is dit waarschijnlijk "vps-ushahidi-mysql.crowdmap.com". Wanneer je Ushahidi uitvoert op een web server, controleer dan de server naam en informatie van de provider',
+	'database_host_description' => 'Wanneer je Ushahidi uitvoert op je eigen computer, dan is dit waarschijnlijk "localhost". Wanneer je Ushahidi uitvoert op een web server, controleer dan de server naam en informatie van de provider',
 	'database_name' => 'Databasenaam',
 	'database_name_description' => 'De naam van de database waarin de gegevens van Ushahidi worden opgeslagen',
 	'default_language' => 'Standaard taal (Landinstelling)',
