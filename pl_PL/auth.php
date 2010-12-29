@@ -1,7 +1,7 @@
 <?php
 	$lang = array(
 	'email' => array(
-		'email' => 'Pole adresu emailowego prawdopodobnie nie zawiera ważnego adresu emailowego',
+		'email' => 'Pole adresu email nie zawiera ważnego adresu emailowego',
 		'exists' => 'Przepraszamy, dla tego adresu emailowego już istnieje konto  użytkownika.',
 		'length' => 'Adres emailowy musi mieć co najmniej  4 i nie więcej niż 64 znaki.',
 		'required' => 'Pole adresu emailowego musi być wypełnione.',
@@ -12,6 +12,7 @@
 		'standard_text' => 'Pole nazwy użytkownika zawiera niedozwolone znaki.',
 	),
 	'password' => array(
+		'alpha_numeric' => 'Hasło musi składać się z cyfr i/lub liter.',
 		'length' => 'Pole hasła musi mieć co najmniej 5 i nie więcej niż 16 znaków.',
 		'login error' => 'Sprawdź, czy wprowadziłeś właściwe hasło.',
 		'matches' => 'Wprowadź to samo hasło w obydwu polach hasła.',
@@ -27,15 +28,18 @@
 		'required' => 'Pole adresu emailowego musi być wypełnione.',
 	),
 	'roles' => array(
+		'alpha_numeric' => 'Niewłaściwe pole formatu.',
+		'length' => 'Pole Roli musi składać się z minimum 5 znaków i maksymalnie z 30.',
 		'required' => 'Musisz zdefiniować co najmniej jedną funkcję.',
 		'values' => 'Musisz wybrać funkcję albo ADMINISTRATORA, albo UŻYTKOWNIKA.',
 	),
 	'username' => array(
 		'admin' => 'Funkcja administratora/użytkownika nie może być zmodyfikowana.',
+		'alpha' => 'Nazwa użytkownika musi składać się tylko z liter.',
 		'exists' => 'Przepraszamy, ta nazwa użytkownika jest już używana.',
 		'length' => 'Pole nazwy użytkownika musi mieć co najmniej 2 i nie więcej niż 16 znaków.',
 		'login error' => 'Sprawdź, czy wprowadziłeś właściwą nazwę użytkownika.',
 		'required' => 'Pole nazwy użytkownika musi być wypełnione.',
-		'superadmin' => 'Funkcja superadministratora nie może być zmodyfikowana.',
+		'superadmin' => 'Rola superadministratora nie może być zmodyfikowana.',
 	));
 ?>

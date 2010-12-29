@@ -14,7 +14,7 @@
 	),
 	'layer_url' => array(
 		'atleast' => 'Wymagane jest podanie albo pliku albo KML URL',
-		'both' => 'Nie możesz podać obu (pliku albo KML URL) - albo jedno albo drugie.',
-		'url' => 'Proszę podaj prawidłowy URL, np. http://www.ushahidi.com/layerl.kml',
+		'both' => 'Nie możesz dodać obu (pliku KML albo adresu URL) - wybierz jedno',
+		'url' => 'Podaj prawidłowy URL, np. http://www.ushahidi.com/layerl.kml',
 	));
 ?>

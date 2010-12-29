@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Podaj proszę prawidłowy kod bezpieczeństwa.',
-		'required' => 'Podaj proszę prawidłowy kod bezpieczeństwa.',
+		'default' => 'Podaj prawidłowy kod bezpieczeństwa.',
+		'required' => 'Podaj prawidłowy kod bezpieczeństwa.',
 	),
 	'email' => array(
 		'email' => 'To chyba nie jest prawidłowy adres email?',

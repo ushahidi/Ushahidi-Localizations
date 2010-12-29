@@ -6,8 +6,8 @@
 	),
 	'contact_email' => array(
 		'email' => 'Pole adresu emailowego prawdopodobnie nie zawiera poprawnego adresu mailowego',
-		'length' => 'Pole adresu emailowego musi zawierać co najmniej 4 i nie więcej niż 64 znaki.',
-		'required' => 'Pole adresu emailowego musi być wypełnione, jeśeli zaznaczone zostało pole wyboru.',
+		'length' => 'Pole adresu email musi zawierać co najmniej 4 i nie więcej niż 64 znaki.',
+		'required' => 'Pole adresu email musi być wypełnione, jeśeli zaznaczone zostało pole wyboru.',
 	),
 	'contact_message' => array(
 		'required' => 'Pole wiadomości musi być wypećnione.',

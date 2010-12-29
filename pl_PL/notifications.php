@@ -11,8 +11,8 @@
 		'subject' => 'Nowa wiadomość email',
 	),
 	'admin_new_report' => array(
-		'message' => 'Do systemu został dodany nowy alert.',
-		'subject' => 'Nowy Alert',
+		'message' => 'Do systemu został dodany nowy raport.',
+		'subject' => 'Nowy Raport',
 	),
 	'admin_new_sms' => array(
 		'message' => 'Do systemu została dodana nowa wiadomość tekstowa SMS.',

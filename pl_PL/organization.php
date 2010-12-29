@@ -19,7 +19,7 @@
 		'length' => 'Drugi telefon do organizacji musi zawierać min. 3 znaki (maksymalnie 50).',
 	),
 	'organization_website' => array(
-		'required' => 'Proszę podać adres www strony organizacji.',
+		'required' => 'Proszę podać adres strony organizacji.',
 		'url' => 'Podaj proszę prawidłowy adres URL, np. http://www.ushahidi.com',
 	));
 ?>

@@ -1,10 +1,11 @@
 <?php
 	$lang = array(
 	'alert_email' => array(
-		'email' => 'Pole adresu emailowego prawdopodobnie nie zawiera ważnego adresu emailowego',
-		'email_check' => 'Pole adresu emailowego zostało już zarejestrowane jako otrzymujące alarmy dla tej lokalizacji.',
-		'length' => 'Pole adresu emailowego musi zawierać co najmniej 4 i nie więcej niż 64 znaki.',
-		'required' => 'Pole adresu emailowego musi być wypełnione, jeśli zaznaczono pole wyboru.',
+		'email' => 'Pole adresu email nie zawiera ważnego adresu',
+		'email_check' => 'Podany adres email otrzymuje już powiadomienia z tej lokalizacji.',
+		'length' => 'Adres email musi zawierać co najmniej 4 i nie więcej niż 64 znaki.',
+		'one_required' => ' Adres email jest wymagany',
+		'required' => 'Pole adresu email musi być wypełnione, jeśli zaznaczono pole wyboru.',
 	),
 	'alert_lat' => array(
 		'between' => 'Poprawna lokalizacja nie została wybrana na mapie.',
@@ -30,7 +31,7 @@
 	'code_verified' => ' Weryfikacja przebiegła pomyślnie, będziesz na bieżąco informowany o alertach.',
 	'confirm_request' => 'Aby potwierdzić notyfikację o alertach na Twój adres email, kliknij na poniższy link (bądź skopiuj go i wklej w okno adresu przeglądarki): ',
 	'create_more_alerts' => 'Powróć do strony z alertami, aby utworzyć kolejne notyfikacje.',
-	'email_alert_request_created' => 'Notyfikacja o alertach drogą poczty elektronicznej na Twój adres email została utworzona a wiadomość wraz z kodem weryfikacyjnym została wysłana na adres ',
+	'email_alert_request_created' => 'Notyfikacja o alertach na Twój adres email została utworzona a wiadomość wraz z kodem weryfikacyjnym została wysłana do:',
 	'email_code' => 'Proszę wprowadź poniżej kod weryfikujący, który otrzymałeś drogą poczty elektronicznej: ',
 	'email_error_head' => 'Notyfikacja o alertach na Twój adres email NIE została zachowana!',
 	'email_ok_head' => 'Notyfikacja o alertach na Twój adres email została zachowana!',

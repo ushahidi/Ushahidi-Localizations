@@ -23,5 +23,28 @@
 	'multiple_countries' => 'Does this Ushahidi Instance Span Multiple Countries',
 	'site' => array(
 		'share_site_stats' => 'Share Site Statistics in API',
+		'title' => 'Ustawienia Strony',
+		'twitter_configuration' => 'Wyszukiwane frazy na Twitterze',
+		'twitter_hashtags' => 'Hashtagi - odseparuj przecinkami',
+	),
+	'site_name' => array(
+		'required' => 'Nazwa strony jest wymagana',
+	),
+	'sms' => array(
+		'clickatell_api' => 'Numer API Clickatell',
+		'clickatell_check_balance' => 'Sprawdź balans na koncie Clickatell',
+		'clickatell_load_balance' => 'Załaduj balans kredytowy',
+		'clickatell_password' => 'Hasło Clickatell',
+		'clickatell_username' => 'Nazwa użytkownika Clickatell',
+		'flsms_download' => 'Pobierz Frontline SMS i zainstaluj na swoim komputerze',
+		'flsms_key' => 'Klucz synchronizacji Ushahidi',
+		'flsms_synchronize' => 'Synchronizuj z Ushahidi',
+	),
+	'sms_no2' => array(
+		'length' => 'Pole Telefon #2 jest za długie',
+		'numeric' => 'Pole Telefon #2 powinno zawierać tylko cyfry',
+	),
+	'sms_no3' => array(
+		'length' => 'Pole Telefon #3 jest za długie',
 	));
 ?>

@@ -3,6 +3,14 @@
 	'custom_field' => array(
 		'values' => 'Proszę wypełnij wszystkie wymagane pola.',
 	),
+	'data_include' => array(
+		'numeric' => 'Wybierz właściwe elementy do pobrania',
+	),
+	'data_point' => array(
+		'between' => 'Podaj właściwy typ raportu do pobrania',
+		'numeric' => 'Podaj właściwy typ raportu do pobrania',
+		'required' => 'Podaj właściwy typ raportu do pobrania',
+	),
 	'from_date' => array(
 		'date_mmddyyyy' => 'Pole DATA OD zawiera nieprawidłowe dane.',
 		'range' => 'Pole DATA OD zawiera nieprawidłowe dane (nie może być większe od dzisiejszej daty).',
@@ -28,11 +36,11 @@
 	),
 	'incident_hour' => array(
 		'between' => 'Format albo zakres godzinowy jest nieprawidłowy.',
-		'required' => 'Godzina alertu jest wymagana.',
+		'required' => 'Podaj godzinę!',
 	),
 	'incident_information' => array(
 		'alpha' => 'Proszę podaj właście dane przy prawdopodobieństwu alertu.',
-		'length' => 'Proszę podaj właście dane przy prawdopodobieństwu alertu.',
+		'length' => 'Określ stopień Prawdopodobieństwa Informacji',
 	),
 	'incident_minute' => array(
 		'between' => 'Format albo zakres pola minutowego jest nieprawidłowy.',

@@ -18,8 +18,8 @@
 	),
 	'parent_id' => array(
 		'exists' => 'Podana parent category nie istnieje.',
-		'numeric' => 'Pole parent category musi być numeryczne.',
-		'required' => 'Pole parent category musi być wypełnione.',
-		'same' => 'Pola category i parent category nie mogą być jednakowe.',
+		'numeric' => 'Pole kategoria nadrzędna musi być numeryczne.',
+		'required' => 'Pole kategoria nadrzędna musi być wypełnione.',
+		'same' => 'Pola kategoria i nadrzędna kategoria nie mogą być jednakowe.',
 	));
 ?>

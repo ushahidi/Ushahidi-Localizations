@@ -12,8 +12,8 @@
 		'required' => 'Pole komentarza musi być wypełnione.',
 	),
 	'comment_email' => array(
-		'email' => 'Pole adresu emailowego prawdopodobnie nie zawiera ważnego adresu emailowego',
-		'length' => 'Pole adresu emailowego musi zawierać co najmniej 4 i nie więcej niż 64 znaki.',
-		'required' => 'Pole adresu emailowego musi być wypełnione, jeżeli zaznaczono pole wyboru.',
+		'email' => 'Pole adresu email prawdopodobnie nie zawiera ważnego adresu emailowego',
+		'length' => 'Pole adresu email musi zawierać co najmniej 4 i nie więcej niż 64 znaki.',
+		'required' => 'Pole adresu email musi być wypełnione, jeżeli zaznaczono pole wyboru.',
 	));
 ?>
