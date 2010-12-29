@@ -4,7 +4,7 @@
 	'akismet_cannot_retrieve' => 'Die Antwort von Akismet wurde nicht empfangen.',
 	'api_library_not_found' => 'Die API Bibliothek <strong>%s</strong> für die <strong>%s</strong> Klasse wurde nicht gefunden. Bitte kontrolliere Deine API task routing Tabelle.',
 	'askimet_invalid_apikey' => 'Dein Akismet API Schlüssel ist nicht gültig.',
-	'clickatell_fopen_error' => 'Fehler beim Ausführen der fopen Sendemethode!<br>Kontroliere ob PHP OpenSSL unterstützt und kontrolliere ob die PHP Version größer ist als 5.2',
+	'clickatell_fopen_error' => 'Fehler beim Ausführen der fopen Sendemethode!<br>Kontroliere ob PHP OpenSSL unterstützt und ob die PHP Version größer ist als 5.2',
 	'clickatell_message_too_long' => 'Deine unicode Nachricht ist zu lang! (Aktuelle Länge=',
 	'clickatell_no_destination_address' => 'Bitte spezifiziere die Zieladresse (NACH)!',
 	'clickatell_no_sender_address' => 'Bitte spezifiziere die Quelladresse (VON)!',

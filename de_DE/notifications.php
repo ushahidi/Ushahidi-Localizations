@@ -11,8 +11,8 @@
 		'subject' => 'Neue eMail.',
 	),
 	'admin_new_report' => array(
-		'message' => 'Eine neue Meldung wurde auf Deiner Website eingereicht.',
-		'subject' => 'Neue Meldung',
+		'message' => 'Ein neuer Bericht wurde auf Deiner Website eingereicht.',
+		'subject' => 'Neuer Bericht',
 	),
 	'admin_new_sms' => array(
 		'message' => 'Eine neue Textnachricht wurde an Deine Website geschickt.',

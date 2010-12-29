@@ -19,7 +19,7 @@
 		'length' => 'Das Feld mit der Telefonnummer muss min. 3 und darf max. 50 Zeichen lang sein.',
 	),
 	'organization_website' => array(
-		'required' => 'Bitte geben Sie die Website der Organisation an.',
-		'url' => 'Bitte geben Sie einen gültige URL ein. Z.B. http://www.ushahidi.com',
+		'required' => 'Bitte gib die Website der Organisation an.',
+		'url' => 'Bitte gib eine gültige URL ein. Z.B. http://www.ushahidi.com',
 	));
 ?>

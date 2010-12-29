@@ -5,8 +5,8 @@
 		'required' => 'Das Feld \'Breitengrad\' ist notwendig. Klicken Sie auf die Karte um eine Position auszuwählen.',
 	),
 	'level_id' => array(
-		'numeric' => 'Das Reporter Level scheint ungültig zu sein.',
-		'required' => 'Das Reporter Level scheint ungültig zu sein.',
+		'numeric' => 'Das Reporterlevel scheint ungültig zu sein.',
+		'required' => 'Das Reporterlevel scheint ungültig zu sein.',
 	),
 	'location_name' => array(
 		'length' => 'Das Feld \'Name\' des Ortes muss zwischen 3 und 200 Zeichen lang sein.',
