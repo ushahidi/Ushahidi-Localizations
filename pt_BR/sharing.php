@@ -7,6 +7,10 @@
 		'length' => 'O campo cor deve ter 6 caracteres.',
 		'required' => 'É necessário escolher uma cor.',
 	),
+	'sharing_name' => array(
+		'length' => 'O compartilhamento parece não ter um nome válido.',
+		'required' => 'É preciso ter um nome para o compartilhamento.',
+	),
 	'sharing_url' => array(
 		'exists' => 'A URL do site já existe.',
 		'length' => 'A URL do site parece não ser válida.',

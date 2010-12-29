@@ -1,5 +1,6 @@
 <?php
 	$lang = array(
+	'comments_form_error' => 'erro!',
 	'custom_field' => array(
 		'values' => 'Digite dados válidos para um dos items de seu formulário personalizado.',
 	),
