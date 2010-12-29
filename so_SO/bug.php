@@ -1,23 +1,23 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Fadlan geli security code jira.',
+		'default' => 'Fadlan geli security code sax ah.',
 		'required' => 'Fadlan geli security code-ka.',
 	),
 	'email' => array(
-		'email' => 'Emailkaad galisay sax ma aha.',
-		'length' => 'Emailkaagu waa inuu ka kooban yahay ugu yaraan afar xarfood, ugu badnaana 64 xarfood.',
-		'required' => 'Email ayaa loo baahan yahay haddii sanduukhu saxan yahay.',
+		'email' => 'Emailkaad gelisay sax ma aha.',
+		'length' => 'Email-kaagu waa inuu ka kooban yahay ugu yaraan afar xaraf, ugu badnaana 64 xaraf.',
+		'required' => 'Email ayaa loo baahan yahay haddii sanduuqu saxan yahay.',
 	),
 	'error' => array(
-		'required' => 'goobta khaladka ayaa loo baahan yahay.',
+		'required' => 'Goobta khaladka ayaa loo baahan yahay.',
 	),
 	'subject' => array(
-		'length' => 'Halka loogu talagalay in lagu qoro mawduuca waa inaysan ka yaraan saddex xuruuf.',
-		'required' => 'Mawduuc ayaa loo baahan yahay.',
+		'length' => 'Halka loogu talagalay in lagu qoro mawduuca (Subject) waa inaysan ka yaraan saddex xaraf.',
+		'required' => 'Mawduuc (Subject) ayaa loo baahan yahay.',
 	),
 	'yourname' => array(
-		'length' => 'Magaca waa inuusan ka yaraan saddex xuruuf.',
+		'length' => 'Magaca waa inuusan ka yaraan saddex xaraf.',
 		'required' => 'Magac ayaa loo baahan yahay.',
 	));
 ?>

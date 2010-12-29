@@ -1,6 +1,6 @@
 <?php
 	$lang = array(
-	'am' => 'a.m. (Waqtiga u dhexeeya saqda dhexe ilaa duhurkii 12:00 AM)',
+	'am' => 'a.m. (Waqtiga u dhexeeya saqda dhexe ilaa 12:00 duhurnimo.)',
 	'friday' => array(
 		'abbv' => 'Jimce',
 		'full' => 'Jimce',

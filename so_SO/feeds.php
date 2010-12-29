@@ -2,11 +2,11 @@
 	$lang = array(
 	'date' => 'Taariikhda',
 	'feed_name' => array(
-		'length' => 'Magaca Feed-ku waa inuu ka kooban yahay ugu yaraan 3 xuruuf, ugu badnaana 70 xuruuf.',
-		'required' => 'Fadlan geli magaca Feed-ka.',
+		'length' => 'Magaca xogta Feed-ku waa inuu ka kooban yahay ugu yaraan 3 xaraf, ugu badnaana 70 xaraf.',
+		'required' => 'Fadlan geli magaca xogta Feed-ka.',
 	),
 	'feed_url' => array(
-		'required' => 'Fadlan geli URL-ka Feed-ka.',
+		'required' => 'Fadlan geli URL-ka xogta Feed-ka.',
 		'url' => 'Fadlan geli URL jira. Tusaale ahaan: http://www.ushahidi.com',
 	),
 	'source' => 'Asalka',

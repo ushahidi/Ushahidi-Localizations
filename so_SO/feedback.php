@@ -1,9 +1,10 @@
 <?php
 	$lang = array(
-	'feedback_actions' => 'Fulinta hawlaha.',
+	'feedback_actions' => 'Ficillada',
 	'feedback_captcha' => array(
+		'default' => 'so_SO:',
 		'required' => 'Fadlan geli security code-ka.',
-		'valid' => 'Fadlan geli security code jira.',
+		'valid' => 'Fadlan geli security code sax ah.',
 	),
 	'feedback_date' => 'Taariikhda',
 	'feedback_details' => 'Faahfaahinta natiijada',
@@ -11,7 +12,7 @@
 		'required' => 'Fadlan geli jawaab ku saabsan natiijada.',
 	),
 	'feedback_title' => array(
-		'length' => 'Cinwaanka jawaabta natiijadu waa inuusan ka yarayn 3 xuruuf, uusanna ka badnayn 100 xuruuf.',
+		'length' => 'Cinwaanka jawaabta natiijadu waa inuusan ka yarayn 3 xaraf,ugu badnaana 100 xaraf.',
 		'required' => 'Cinwaan ayaa loo baahan yahay.',
 	),
 	'person_email' => array(

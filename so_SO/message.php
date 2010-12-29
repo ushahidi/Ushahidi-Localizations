@@ -1,22 +1,22 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'fadlan geli furi-ammaan sax ah',
-		'required' => 'fadlan geli fure-ammaanka',
+		'default' => 'Fadlan geli security code sax ah.',
+		'required' => 'Fadlan geli security code-ka',
 	),
 	'email' => array(
-		'email' => 'kuma jiro email sax ah',
-		'length' => 'emailku waa inuu ka koobnaadaa ugu yaraan 4 xaraf ugu badnaanna 64 xuruuf',
-		'required' => 'email ayaa loo baahan yahay hadduu sanduukhu saxan yahay',
+		'email' => 'Email-kaad gelisay sax ma aha.',
+		'length' => 'Emailku waa inuu ka koobnaadaa ugu yaraan 4 xaraf ugu badnaanna 64 xaraf.',
+		'required' => 'Email ayaa loo baahan yahay hadduu sanduuqu saxan yahay.',
 	),
 	'message' => array(
 		'required' => 'faallooyin ayaa loo baahan yahay',
 	),
 	'name' => array(
-		'length' => 'magacu waa inuu ahaadaa ugu badnaan 3 xaraf',
-		'required' => 'magac ayaa loo baahan yahay',
+		'length' => 'Magacu waa inuu ka koobnaadaa ugu yaraan 3 xaraf.',
+		'required' => 'Magac ayaa loo baahan yahay',
 	),
 	'phone' => array(
-		'length' => 'telefoonku ma ahan mid sax ah',
+		'length' => 'Telefoonku ma ahan mid sax ah.',
 	));
 ?>
