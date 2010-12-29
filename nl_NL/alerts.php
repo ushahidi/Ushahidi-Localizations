@@ -4,6 +4,7 @@
 		'email' => 'Het e-mail adres wordt niet geaccepteerd, controleer het e-mail adres',
 		'email_check' => 'Het e-mail adres is al geconfigureerd om notificaties te ontvangen voor deze locatie',
 		'length' => 'Het e-mail adres dient uit tenminste 4 en maximaal 64 tekens te bestaan',
+		'one_required' => ' ',
 		'required' => 'Je hebt aangegeven e-mail te willen ontvangen, geef een geldig e-mail adres op',
 	),
 	'alert_lat' => array(
