@@ -4,7 +4,7 @@
 		'email' => 'Emailkaad gelisay sax ma aha.',
 		'exists' => 'Waan ka xunnahay, Emailkan horay ayaa account loogu sameeyay.',
 		'length' => 'Emailkaagu waa inuu ka kooban yahay ugu yaraan afar xaraf, ugu badnaana 64 xaraf.',
-		'required' => 'Email waa lagama maarmaan',
+		'required' => 'Email waa lagama maarmaan.',
 	),
 	'name' => array(
 		'length' => 'Magaca oo dhamaystiran waa inuu ka kooban yahay ugu yaraan saddex xaraf, ugu badnaana 100 xaraf.',
