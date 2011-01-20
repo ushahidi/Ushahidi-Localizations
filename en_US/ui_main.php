@@ -27,7 +27,7 @@
 	'alerts_get' => 'Get Alerts',
 	'alerts_mobile_phone' => 'Mobile phone:',
 	'alerts_place_spot' => 'Or, place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers.',
-	'alerts_place_spot2' => 'If you can\\'t find your location, please click on the map to pinpoint the correct location.',
+	'alerts_place_spot2' => 'If you can\'t find your location, please click on the map to pinpoint the correct location.',
 	'alerts_rss' => 'RSS Feeds (copy the url below)',
 	'alerts_select_city' => 'Select a city',
 	'alerts_step1_select_city' => '<strong>Step 1:</strong> Select your city or location:',
@@ -230,6 +230,7 @@
 	'modify_date' => 'Modify Date',
 	'month' => 'month',
 	'more' => 'More',
+	'more_information' => 'More Information',
 	'multi_country_instance' => 'Does this Ushahidi Deployment Span Multiple Countries',
 	'name' => 'Name',
 	'nearby_report' => 'Nearby Report',
@@ -247,6 +248,7 @@
 	'not_approved_singular' => 'Not Approved',
 	'not_spam' => 'not spam',
 	'not_specified' => 'Not Specified',
+	'no_reports' => 'There are no reports',
 	'no_results' => 'There are no results',
 	'official_news' => 'Official &amp; mainstream news',
 	'option' => 'Option',
@@ -496,5 +498,7 @@
 	'weight' => 'Weight',
 	'yes' => 'Yes',
 	'yesterday' => 'Yesterday',
+	'zoom_in' => 'Zoom In',
+	'zoom_out' => 'Zoom Out',
 	);
 ?>
