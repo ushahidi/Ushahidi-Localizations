@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'allow_comments' => array(
-		'between' => 'The allow comments field does not appear to contain a valid value?',
-		'required' => 'The allow comments field is required.',
+		'between' => 'Il campo autorizza commenti non sembra contenere un valore valido?',
+		'required' => 'Il campo autorizza commenti è richiesto.',
 	),
 	'allow_feed' => array(
 		'between' => 'The include feed field does not appear to contain a valid value?',
@@ -15,6 +15,9 @@
 	'allow_stat_sharing' => array(
 		'between' => 'The stat sharing field does not appear to contain a valid value?',
 		'required' => 'The stat sharing field is required.',
+	),
+	'api' => array(
+		'default_record_limit' => 'Default no. of records to be fetched per API request',
 	),
 	'api_akismet' => array(
 		'alpha_numeric' => 'The Akismet field does not appear to contain a valid value?',
@@ -100,6 +103,9 @@
 		'allow_feed' => 'Includere RSS News Feed sul Website',
 		'allow_reports' => 'Consenti agli utenti di inviare Segnalazioni',
 		'api_akismet' => 'Akismet Key',
+		'cache_pages' => 'Pagine Cache',
+		'cache_pages_lifetime' => 'Durata temporale delle Pagine Cache',
+		'copyright_statement' => 'Copyright del sito',
 		'default_category_colors' => 'Colore di default per tutte le categorie',
 		'display_contact_page' => 'Mostra la Pagina Contatti',
 		'display_howtohelp_page' => 'Mostra la pagina "Come aiutare"',
