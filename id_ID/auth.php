@@ -17,7 +17,16 @@
 		'matches' => 'Mohon masukkan password yang sama ke isian password kedua',
 		'required' => 'Isian password harus diisi',
 	),
+	'password_confirm' => array(
+		'matches' => 'password yang anda masukkan pada isian konfirmasi password harus sama dengan yg anda masukkan pada isian password',
+	),
+	'resetemail' => array(
+		'email' => 'format alamat e-mail yang anda masukkan, salah ?',
+		'invalid' => 'Maaf, alamat e-mail anda tidak terdaftar',
+		'required' => 'Isian alamat e-mail harus diisi',
+	),
 	'roles' => array(
+		'alpha_numeric' => 'Format peran tidak valid',
 		'length' => 'Panjang isian peran harus minimal 5 dan tidak lebih dari 30 karakter.',
 		'required' => 'Anda harus tetapkan minimal satu peran',
 		'values' => 'Anda harus memilih peran admin ATAU pengguna',
