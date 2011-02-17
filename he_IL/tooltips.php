@@ -1,0 +1,28 @@
+<?php
+	$lang = array(
+	'profile_email' => 'כתובת הדוא"ל שלך',
+	'profile_name' => 'שמך המלא',
+	'profile_notify' => 'בחירת "כן" תאפשר קבלת התראות בדוא"ל כאשר דווחים או תגובות נרשמים לאתר',
+	'profile_password' => 'הסיסמה שלך. אם ברצונך לשמור על סיסמתך הנוכחית, יש להשאיר את השדה ריק',
+	'profile_username' => 'לא ניתן לשנות את שם המשתמש',
+	'settings_alert_email' => 'כתובת דוא"ל זו תשמש לשליחת התראות דוא"ל.',
+	'settings_allow_clustering' => 'מאפשר הכללת מספר דווחים דומים תחת נקודה אחת על המפה',
+	'settings_allow_comments' => 'אפשר למשתמשים להגיב לדיווחים באתר הראשי.',
+	'settings_allow_feed' => 'מאפשר הזרמת RSS באתר הראשי',
+	'settings_allow_reports' => 'אפשר למשתמשים לשלוח מידע דרך האתר',
+	'settings_api_default_record_limit' => 'מספר הרשומות לאחזור בכל קריאת API כברירת מחדל',
+	'settings_api_max_record_limit' => 'מספר הרשומות המקסימלי לאחזור בכל קריאת API',
+	'settings_api_max_requests_per_ip' => 'מספר קריאות API מקסימלי לכתובת IP',
+	'settings_cache_pages' => 'הפעלה או ביטול של שמירת דפים בזכרון מטמון (Caching). אפשרות זו מקצרת את זמני התגובה וכך מאיצה את הצגת הדפים. מומלץ לשימוש באתרים בהם נפח פעילות גבוה. ** חשוב לזכור שהדיווחים יוצגו למשתמש על בסיס לוח הזמנים שמוגדר מטה (Cache Lifetime)',
+	'settings_cache_pages_lifetime' => 'הגדרת משך הזמן לשמירת זכרון המטמון',
+	'settings_configure_map' => 'הגדרת מפה לכסוי מיקום ספציפי',
+	'settings_default_category_colors' => 'הגדרת קוד צבע לכלל הקטגוריות באתר',
+	'settings_default_location' => 'האתר פועל במדינה זו',
+	'settings_display_howtohelp' => 'הפעלה או ביטול לשונית "כיצד לעזור" באתר הראשי.',
+	'settings_display_items_per_page' => 'מספר הדיווחים המוצג בכל עמוד באתר הראשי.',
+	'settings_display_items_per_page_admin' => 'מספר הדיווחים המוצג בכל עמוד בממשק הניהול של האתר.',
+	'settings_flsms_download' => 'המוקד להודעות נכנסות',
+	'settings_flsms_synchronize' => 'סנכרון ההודעות שבמוקד עם פלטפורמת אושאהידי',
+	'settings_flsms_text_1' => 'מספרי הטלפון דרכם מתקבלות הודעות טקסט',
+	);
+?>
