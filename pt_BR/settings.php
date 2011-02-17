@@ -34,6 +34,7 @@
 		'required' => 'É necessário preencher o campo vida útil do cache.',
 	),
 	'cleanurl' => array(
+		'clean_url_disabled' => 'O servidor parece não estar configurado para lidar com URLs amigáveis. É preciso alterar essa configuração no servidor antes de habilitar URLs amigáveis. Veja mais informações sobre URLs amigáveis no <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">fórum</a>',
 		'clean_url_enabled' => 'Essa opção torna o Ushahidi acessível via "URLs amigáveis", sem "index.php" na URL.',
 		'enable_clean_url' => 'Permitir URLs amigáveis',
 		'title' => 'URLs amigáveis',
@@ -131,6 +132,7 @@
 		'language' => 'Idioma do site',
 		'message' => 'Mensagem do site',
 		'name' => 'Nome do site',
+		'private_deployment' => 'Plataforma privada',
 		'share_site_stats' => 'Compartilhe estatísticas com API',
 		'tagline' => 'Slogan do site',
 		'title' => 'Configurações do site',

@@ -14,7 +14,7 @@
 	'error_summary' => 'Veja abaixo um resumo dos erros encontrados',
 	'files_location_text' => 'O local no servidor onde os arquivos do Ushahidi foram guardados. <strong>Esse dado foi automaticamente identificado, certifique-se de que está correto.</strong> Se o campo estiver vazio, não se preocupe: isso significa que o ushahidi está instalado no diretório principal',
 	'finished' => 'Encerrado',
-	'general' => 'General',
+	'general' => 'Geral',
 	'google_key' => 'Chave API <span>Google</span>',
 	'google_key_description' => 'Qualquer pessoa pode obter uma chave api. <a id="api-link" href="http://code.google.com/apis/maps/signup.html" target="_blank">Obtenha a sua agora</a>.',
 	'go_back' => 'Voltar',
