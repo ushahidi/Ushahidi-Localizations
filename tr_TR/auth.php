@@ -3,11 +3,11 @@
 	'email' => array(
 		'email' => 'Bu e-posta alanı geçerli bir adres içermiyor.',
 		'exists' => 'Üzgünüz, bu e-posta adresi için zaten bir hesap var.',
-		'length' => 'E-posta adresi en az 4 ve en fazla 64 karakter uzunluğunda olmalı.',
+		'length' => 'E-posta adresi en az 4, en fazla 64 karakter uzunluğunda olmalıdır.',
 		'required' => 'E-posta alanı boş bırakılamaz.',
 	),
 	'name' => array(
-		'length' => 'İsim en az 3 ve en fazla 100 karakter uzunluğuna olmalı.',
+		'length' => 'İsim en az 3, en fazla 100 karakter uzunluğuna olmalıdır.',
 		'required' => 'İsim alanı boş bırakılamaz.',
 		'standard_text' => 'Kullanıcı ismi geçersiz karakterler içeriyor.',
 	),
