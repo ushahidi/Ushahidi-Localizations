@@ -2,7 +2,7 @@
 	$lang = array(
 	'allow_comments' => array(
 		'between' => 'Полето за позволение на коментарите не съдържа валидна стойност.',
-		'required' => 'Полето за позволение на коментарите е задължитлено.',
+		'required' => 'Полето за позволение на коментарите е задължително.',
 	),
 	'allow_feed' => array(
 		'between' => 'Полето за включване на абонамент не съдържа валидна стойност.',
@@ -17,9 +17,9 @@
 		'required' => 'Полето за споделяне на статистика е задължително.',
 	),
 	'api' => array(
-		'default_record_limit' => 'Default no. of records to be fetched per API request',
-		'maximum_record_limit' => 'Maximum no. of records to be fetched per API request',
-		'maximum_requests_per_ip_address' => 'Maximum no. of API requests per IP address',
+		'default_record_limit' => 'Брой на записите, които да се вземат при едно API запитване',
+		'maximum_record_limit' => 'Максимален брой на записите, които да се вземат при едно API запитване',
+		'maximum_requests_per_ip_address' => 'Максимален брой на API запитвания към един IP адрес',
 	),
 	'api_akismet' => array(
 		'alpha_numeric' => 'Полето Akismet е задължително.',
@@ -34,7 +34,7 @@
 		'required' => 'Полето за продължителността на кеша е задължително',
 	),
 	'cleanurl' => array(
-		'clean_url_disabled' => 'Изглежда сървъра ви не е конфигуриран да работи с изчистени адреси. ще трабва да промените настройките на сървъра си преди да включите изчистените адреси. Вижте как във <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">форума</a>',
+		'clean_url_disabled' => 'Изглежда сървъра ви не е конфигуриран да работи с изчистени адреси. ще трябва да промените настройките на сървъра си преди да включите изчистените адреси. Вижте как във <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">форума</a>',
 		'clean_url_enabled' => 'Тази опция ще позволи Ushahidi да бъде достъпен през изчистени адреси. Това означава без "index.php" в адреса.',
 		'enable_clean_url' => 'Включи изчистени адреси',
 		'title' => 'Изчистени адреси',
@@ -48,18 +48,18 @@
 		'required' => 'Полето с паролата на Clickatell е задължително.',
 	),
 	'clickatell_username' => array(
-		'length' => 'Полето с потребителското име на Clickatell трабва да е максимално 50 символа.',
+		'length' => 'Полето с потребителското име на Clickatell трябва да е максимално 50 символа.',
 		'required' => 'Полето с потребителското име на Clickatell е задължително.',
 	),
 	'configure_map' => 'Настройки на картата',
-	'default_location' => 'Местположение по подразбиране',
+	'default_location' => 'Местоположение по подразбиране',
 	'default_map_all' => array(
 		'alpha_numeric' => 'Полето за цвят не съдържа валидна стойност.',
 		'length' => 'Полето за цвят трябва да е не повече от 6 символа.',
 		'required' => 'Полето за цвят е задължително.',
 	),
 	'default_map_view' => 'Изглед на картата по подразбиране',
-	'default_zoom_level' => 'Ниво на увеличние по подразбиране',
+	'default_zoom_level' => 'Ниво на увеличение по подразбиране',
 	'download_city_list' => 'Вземи имената на градовете от картата',
 	'email_host' => array(
 		'length' => 'Порта на mail сървъра е твърде дълъг',
@@ -125,14 +125,14 @@
 		'google_analytics' => 'Google Analytics',
 		'google_analytics_example' => 'Web Property ID - формат: UA-XXXXX-XX',
 		'items_per_page' => 'Записи на страница - сайт',
-		'items_per_page_admin' => 'Записи на страница - администация',
+		'items_per_page_admin' => 'Записи на страница - администрация',
 		'kismet_notice' => 'Предотвратете спам с коментари с <a href="http://akismet.com/" target="_blank">Akismet</a> на Automattic. <BR />Може да получите безплатен API ключ като се регистрирате <a href="http://en.wordpress.com/api-keys/" target="_blank">WordPress.com потребителски акаунт</a>',
 		'laconica_configuration' => 'Laconica достъп',
 		'laconica_site' => 'Laconica сайт ',
 		'language' => 'Език на сайта',
 		'message' => 'Съобщение на сайта',
 		'name' => 'Име на сайта',
-		'share_site_stats' => 'Позволи статистиката (дуржи се на сървъра на Ushahidi)',
+		'share_site_stats' => 'Позволи статистиката (държи се на сървъра на Ushahidi)',
 		'tagline' => 'Бележка на сайта',
 		'title' => 'Настройки на сайта',
 		'twitter_configuration' => 'Twitter думи за търсене',
@@ -165,7 +165,7 @@
 		'flsms_link' => 'FrontlineSMS HTTP Post линк',
 		'flsms_synchronize' => 'Синхронизация с Ushahidi',
 		'flsms_text_1' => 'Въведете телефонен номер или номера, които да се свържат към Frontline SMS в полето/полетата тук',
-		'flsms_text_2' => 'Въведете номер(а) без + или тирета в полетатата',
+		'flsms_text_2' => 'Въведете номер(а) без + или тирета в полетата',
 		'option_1' => 'Option 1: Използвайте Frontline SMS',
 		'option_2' => 'Option 2: Използвайте Global SMS Gateway',
 		'title' => 'Настройки на SMS',
