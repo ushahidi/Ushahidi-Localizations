@@ -17,6 +17,6 @@
 	'upgrade_file_not_copied' => 'Файла <code>%s</coded> не може да се копира',
 	'upgrade_file_not_deleted' => 'Файла <code>%s</coded> не може да се изтрие',
 	'upgrade_title' => 'Ushahidi скрипт за подновяване',
-	'upgrade_zip_error' => 'Сваления zip на ushahidi <code>%s</code>, не може да бъде записан',
+	'upgrade_zip_error' => 'Сваления zip на Ushahidi <code>%s</code>, не може да бъде записан',
 	);
 ?>
