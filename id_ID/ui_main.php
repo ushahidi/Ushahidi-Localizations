@@ -1,4 +1,32 @@
 <?php
 	$lang = array(
+	'about' => 'Tentang',
+	'access' => 'Akses',
+	'access_limits' => 'Limit Akses',
+	'account_name' => 'Nama Akun',
+	'actions' => 'Tindakan',
+	'action_confirm' => 'Tindakan ini tidak akan bisa dibatalkan, yakin mau diteruskan ?',
+	'activate' => 'Aktifkan',
+	'active' => 'Aktif',
+	'add' => 'Tambahkan',
+	'added_by' => 'Ditambahkan oleh',
+	'additional_reports' => 'Laporan tambahan',
+	'add_edit' => 'Tambah/Sunting',
+	'add_field' => 'Tambahkan sebuah isian',
+	'add_language' => 'Tambahkan bahasa',
+	'add_new' => 'Tambahkan yang baru',
+	'add_new_category' => 'Tambahkan kategori baru',
+	'add_translation' => 'Tambahkan terjemahan',
+	'admin' => 'Administrasi',
+	'alerts' => 'Mendapatkan pemberitahuan',
+	'alerts_alert_me' => 'Beritahukan bila ada laporan yang masuk, atau tentang :',
+	'alerts_btn_send' => 'Rekam pemberitahuan saya',
+	'alerts_email' => 'Alamat surel :',
+	'alerts_enter_email' => 'masukkan alamat surel 
+',
+	'alerts_enter_mobile' => 'masukkan nomor telpon genggam beserta kode negaranya',
+	'alerts_get' => 'Dapatkan pemberitahuan',
+	'alerts_mobile_phone' => 'Telpon genggam :',
+	'alerts_place_spot' => 'Atau, tandai pada peta dibawah ini, dan kami akan beritahukan bila ada laporan yang masuk dalam radius 20 Kilometer darinya.',
 	);
 ?>

@@ -81,8 +81,20 @@
 		'length' => 'The Mail Server Username field must be no more 50 characters long.',
 		'required' => 'The Mail Server Username field is required.',
 	),
+	'facebook' => array(
+		'title' => 'Facebook Setup Options',
+		'description' => 'To get the information below you will need to create a new facebook application at',
+		'app_id' => 'Facebook App ID',
+		'app_secret' => 'Facebook App Secret'
+	),
 	'google_analytics' => array(
 		'length' => 'The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX.',
+	),
+	'https' => array(
+	   'enable_https' => 'Enable HTTPS',
+	   'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
+	   'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
+	   'title' => 'HTTPS'
 	),
 	'items_per_page' => array(
 		'between' => 'The items per page (Frontend) field does not appear to contain a valid value?',
@@ -113,8 +125,10 @@
 		'allow_feed' => 'Include RSS News Feed on Website',
 		'allow_reports' => 'Allow Users To Submit Reports',
 		'api_akismet' => 'Akismet Key',
+		'blocks_per_row' => 'Blocks Per Row',
 		'cache_pages' => 'Cache Pages',
 		'cache_pages_lifetime' => 'Cache Pages Lifetime',
+		'checkins' => 'Checkins',
 		'copyright_statement' => 'Site Copyright Statement',
 		'default_category_colors' => 'Default Color For All Categories',
 		'display_contact_page' => 'Display Contact Page',
@@ -135,6 +149,7 @@
 		'private_deployment' => 'Private Deployment',
 		'share_site_stats' => 'Enable Statistics (Stored on Ushahidi\'s server)',
 		'tagline' => 'Site Tagline',
+		'timezone' => 'Timezone',
 		'title' => 'Site Settings',
 		'twitter_configuration' => 'Twitter Search Terms',
 		'twitter_hashtags' => 'Hashtags - Separate with commas ',

@@ -3,21 +3,22 @@
 	'feedback_actions' => 'Действия',
 	'feedback_captcha' => array(
 		'required' => 'Введите защитный код',
+		'valid' => 'Пожалуйста, введите правильный защитный код',
 	),
 	'feedback_date' => 'Дата',
-	'feedback_details' => 'Детали отзывов',
+	'feedback_details' => 'Дополнительно',
 	'feedback_message' => array(
-		'required' => 'Введите сообщение отзыва',
+		'required' => 'Введите сообщение',
 	),
 	'feedback_title' => array(
-		'length' => 'Длина названия не может быть менее 3х и более 100 символов',
-		'required' => 'Введите название',
+		'length' => 'Длина темы не может быть менее 3-х и более 100 символов',
+		'required' => 'Введите тему',
 	),
 	'person_email' => array(
-		'email' => 'Ваш Email адрес введен не правильно, введите правильно.',
-		'required' => 'Введите адрес Email, или уберите галочку.',
+		'email' => 'Неверный email.',
+		'required' => 'Введите email или уберите галочку',
 	),
 	'person_name' => array(
-		'required' => 'Введите полное имя',
+		'required' => 'Введите ваше полное имя.',
 	));
 ?>

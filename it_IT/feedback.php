@@ -12,7 +12,7 @@
 	),
 	'feedback_title' => array(
 		'length' => 'il campo Titolo deve essere lungo almeno 3 caratteri e non più di 100.',
-		'required' => 'Il Titolo è rischiesto.',
+		'required' => 'Un Titolo è rischiesto.',
 	),
 	'person_email' => array(
 		'email' => 'Il campo email non contiene un indirizzo email valido?',

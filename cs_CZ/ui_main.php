@@ -186,6 +186,7 @@
 	'layer_has_been' => 'Vrstva byla',
 	'layer_name' => 'Název vrstvy',
 	'layer_url' => 'Adresa URL vrstvy',
+	'leave_a_comment' => 'Přidejte komentář',
 	'level' => 'Úroveň',
 	'level_has_been' => 'Tato úroveň byla',
 	'level_name' => 'Název úrovně',

@@ -27,7 +27,7 @@
 	),
 	'code_already_verified' => '这个验证码已经使用过了',
 	'code_not_found' => '验证码没找到！请确认你输入的URL是否正确',
-	'code_verified' => ' 验证通过，当有事件发生时你会收到消息',
+	'code_verified' => '验证通过，当有事件发生时你会收到消息',
 	'confirm_request' => '验证你的警报发送请求，请点击 ',
 	'create_more_alerts' => '返回灾害警报页面创建更多',
 	'email_alert_request_created' => '你的邮件灾害警报请求已创建，验证码将发送到 ',

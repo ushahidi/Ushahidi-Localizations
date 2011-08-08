@@ -6,8 +6,8 @@
 	'last_access' => 'Último acceso',
 	'sent_info' => 'Esta información será enviada con esta solicitud',
 	'sharing_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
+		'length' => 'El campo color debe tener 6 caracteres de largo.',
+		'required' => 'El campo color es obligatorio.',
 	),
 	'sharing_email' => array(
 		'email' => 'The email field does not appear to contain a valid email address?',
@@ -24,7 +24,8 @@
 	'sharing_url' => array(
 		'edit' => 'You can\'t edit the URL of remote site. This share can be deleted and a new share request made.',
 		'exists' => 'The site url already exists',
-		'required' => 'The site url is required.',
+		'length' => 'La URL del sitio no es válida.',
+		'required' => 'La URL del sitio es obligatoria.',
 		'url' => 'The site url field does not appear to contain a valid URL?',
 		'valid' => 'The site url does not appear to be a valid Ushahidi deployment, or is not Sharing enabled.',
 	));

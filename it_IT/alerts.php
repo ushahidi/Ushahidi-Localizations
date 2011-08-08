@@ -4,6 +4,7 @@
 		'email' => 'Il campo Email non contiene un indirizzo email valido',
 		'email_check' => 'Indirizzo Email già registrato per ricevere alert su questo luogo.',
 		'length' => 'Il campo Email deve contenere un numero di caratteri compreso  tra 4 e 64.',
+		'one_required' => 'Dato obbligatorio',
 		'required' => 'Il campo Email è richiesto se la checkbox è selezionata.',
 	),
 	'alert_lat' => array(

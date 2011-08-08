@@ -7,7 +7,7 @@
 	'database_name' => 'Database Name',
 	'database_name_description' => 'Il nome del database per Ushahidi',
 	'db_information_link' => 'Per ulteriori informazioni leggete <a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">questo articolo</a> nel wiki che tratta del databases con maggior dettaglio',
-	'default_language' => 'Default Language (Locale)',
+	'default_language' => 'Langua di Default (Locale)',
 	'default_language_description' => 'Ogni deployment di Ushahidi contiene un set traduzioni in altre lingue. Puoi anche <a href="http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages" target="_blank">aggiungere la tua</a>',
 	'disable' => 'Disabilita',
 	'enable' => 'Abilita',

@@ -33,6 +33,7 @@
 		'in_array' => 'O campo cache parece não conter dados válidos.',
 		'required' => 'É necessário preencher o campo vida útil do cache.',
 	),
+	'checkins' => 'Checkins',
 	'cleanurl' => array(
 		'clean_url_disabled' => 'O servidor parece não estar configurado para lidar com URLs amigáveis. É preciso alterar essa configuração no servidor antes de habilitar URLs amigáveis. Veja mais informações sobre URLs amigáveis no <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">fórum</a>',
 		'clean_url_enabled' => 'Essa opção torna o Ushahidi acessível via "URLs amigáveis", sem "index.php" na URL.',
@@ -182,5 +183,13 @@
 	'sms_no3' => array(
 		'length' => 'O 3º campo do número de telefone é muito longo.',
 		'numeric' => 'O 3º campo do número de telefone deve conter apenas números.',
-	));
+	),
+	'ssl' => array(
+		'enable_ssl' => 'Ativar SSL',
+		'ssl_disabled' => 'Só é possível acessar o Ushahidi por meio do protocolo padrão: "http"',
+		'ssl_enabled' => 'Essa opção habilita acesso ao Ushahidi via SSL, ou seja, por URL "https"',
+		'title' => 'Suporte SSL',
+	),
+	'timezone' => 'Fuso horário',
+	);
 ?>

@@ -2,6 +2,7 @@
 	$lang = array(
 	'feedback_actions' => 'アクション',
 	'feedback_captcha' => array(
+		'default' => ' ',
 		'required' => 'セキュリティコードを入力してください。',
 		'valid' => '有効なセキュリティコードを入力してください。',
 	),

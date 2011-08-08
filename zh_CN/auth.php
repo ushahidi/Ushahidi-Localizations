@@ -12,6 +12,7 @@
 		'standard_text' => '用户名包含不合法字符',
 	),
 	'password' => array(
+		'alpha_numeric' => '密码只能包含数字和字母',
 		'length' => '密码长度须在5至16个字符之间',
 		'login error' => '你输入的密码不正确',
 		'matches' => '你输入的两次密码不一致',
@@ -26,11 +27,14 @@
 		'required' => '邮件是必填项',
 	),
 	'roles' => array(
+		'alpha_numeric' => '无效的角色格式',
+		'length' => '角色名不得少于5个字符，不得多于30个字符',
 		'required' => '至少要定义一个角色',
 		'values' => '必须选择 ADMIN 或 USER 角色.',
 	),
 	'username' => array(
 		'admin' => '管理员帐户不能被修改',
+		'alpha' => '用户名只能包括字母',
 		'exists' => '对不起，这个用户名已被使用',
 		'length' => '用户名长度须在2至16个字符之间',
 		'login error' => '你输入的用户名不正确',

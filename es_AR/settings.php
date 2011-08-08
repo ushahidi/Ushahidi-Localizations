@@ -1,44 +1,71 @@
 <?php
 	$lang = array(
 	'allow_comments' => array(
-		'between' => 'El campo comentarios permitidos parece no contener un valor vÃ¡lido?',
+		'between' => 'El campo comentarios permitidos no contiene un valor válido.',
 		'required' => 'El campo comentarios permitidos es obligatorio.',
 	),
 	'allow_feed' => array(
-		'between' => 'El campo feed incluido parece no contener un valor vÃ¡lido?',
-		'required' => 'El campo feed incluido es obligatorio.',
+		'between' => 'El campo incluir feed no contiene un valor válido?',
+		'required' => 'El campo incluir feed es obligatorio.',
 	),
 	'allow_reports' => array(
-		'between' => 'El campo informes permitidos parece no contener un valor vÃ¡lido?',
+		'between' => 'El campo informes permitidos no contiene un valor válido.',
 		'required' => 'El campo informes permitidos es obligatorio.',
 	),
+	'api_akismet' => array(
+		'alpha_numeric' => 'El campo Akismet no contiene un valor válido.',
+		'length' => 'El campo Akismet no contiene un valor válido.',
+	),
+	'cleanurl' => array(
+		'clean_url_disabled' => 'Parece que su servidor no está configurado para soportar URLs limpias. Es necesario que cambie la configuración de su servidor antes de que pueda habilitar las URLs limpias. Vea más información sobre cómo habilitar URLs limpias en este <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">mensaje</a> (en inglés)',
+		'clean_url_enabled' => 'Esta opción permite que se pueda acceder a Ushahidi via URLs "limpias", es decir sin "index.php" en la URL.',
+		'enable_clean_url' => 'Habilitar URLs limpias.',
+		'title' => 'URLs limpias.',
+	),
 	'clickatell_api' => array(
-		'length' => 'El campo nÃºmero Clickatell API debe no tener mÃ¡s de 20 caracteres de largo.',
-		'required' => 'El campo nÃºmero Clickatell API es obligatorio.',
+		'length' => 'El campo número de API Clickatell debe tener a lo más 20 caracteres de largo.',
+		'required' => 'El campo número de API Clickatell es obligatorio.',
 	),
 	'clickatell_password' => array(
-		'length' => 'El campo Clave de Clickatell debe tener al menos 5 y no mÃ¡s de 50 caracteres de largo.',
-		'required' => 'El campo Clave de Clickatell es obligatorio.',
+		'length' => 'El campo clave de Clickatell debe tener al menos 5 y no más de 50 caracteres de largo.',
+		'required' => 'El campo clave de Clickatell es obligatorio.',
 	),
 	'clickatell_username' => array(
-		'length' => 'El campo Nombre de Usuario Clickatell debe no tener mÃ¡s de 50 caracteres de largo.',
-		'required' => 'El campo Nombre de Usuario Clickatell es obligatorio.',
+		'length' => 'El campo nombre de usuario Clickatell debe tener a lo más 50 caracteres de largo.',
+		'required' => 'El campo nombre de usuario Clickatell es obligatorio.',
 	),
 	'configure_map' => 'Configure el Mapa',
 	'default_location' => 'Ubicación Predeterminada',
+	'default_map_all' => array(
+		'alpha_numeric' => 'El campo color del feed no contiene un valor válido.',
+		'length' => 'El campo color debe tener a lo más 6 caracteres.',
+		'required' => 'El campo color es obligatorio.',
+	),
 	'default_map_view' => 'Vista predeterminada',
 	'default_zoom_level' => 'Nivel de detalle predeterminado',
 	'download_city_list' => 'Descargar lista de ciudades',
+	'email_host' => array(
+		'length' => 'El puerto del servidor de correo es demasiado largo',
+		'numeric' => 'El puerto del servidor de correo debe ser un número.',
+	),
+	'email_password' => array(
+		'length' => 'La contraseña del servidor de correo debe tener al menos 5 y no más de 50 caracteres de largo.',
+		'required' => 'La contraseña del servidor de correo es obligatoria.',
+	),
+	'email_port' => array(
+		'length' => 'El puerto del servidor de correo es demasiado largo',
+		'numeric' => 'El puerto del servidor de correo debe ser un número.',
+	),
 	'google_analytics' => array(
 		'length' => 'El campo Google Analytics debe contener un ID Web Property vÃ¡lido en el formato UA-XXXXX-XX.',
 	),
 	'items_per_page' => array(
-		'between' => 'El campo items por pÃ¡gina (Frontend) parece no contener un valor vÃ¡lido?',
-		'required' => 'El campo items por pÃ¡gina (Frontend) es obligatorio.',
+		'between' => 'El campo items por página (Frontend) parece no contiene un valor válido.',
+		'required' => 'El campo items por página (Frontend) es obligatorio.',
 	),
 	'items_per_page_admin' => array(
-		'between' => 'El campo items por pÃ¡gina (Admin)parece no contener un valor vÃ¡lido?',
-		'required' => 'El campo items por pÃ¡gina (Admin) es obligatorio.',
+		'between' => 'El campo items por página (Admin) no contiene un valor válido.',
+		'required' => 'El campo items por página (Admin) es obligatorio.',
 	),
 	'map' => array(
 		'default_location' => 'Ingrese la información de configuración del proveedor de servicios de mapeo',
@@ -52,21 +79,21 @@
 		'name' => 'Proveedor de Mapas',
 	),
 	'map_settings' => 'Configuración del Mapa',
-	'multiple_countries' => 'Este sistema se utiliza en múltiples países?',
+	'multiple_countries' => '¿Este sistema se utiliza en múltiples países?',
 	'select_default_location' => 'Por favor escoja el país predeterminado',
 	'set_location' => 'Seleccione la ubicación exacta en el mapa',
 	'site' => array(
 		'allow_clustering' => 'Agrupar los eventos en el mapa',
-		'allow_comments' => 'Cualquiera puede agregar informacion a los eventos',
+		'allow_comments' => 'Cualquiera puede agregar información a los eventos',
 		'allow_feed' => 'Incluir noticias?',
-		'allow_reports' => 'Cualquiera puede enviar eventos?',
+		'allow_reports' => 'Permitir a los usuarios a enviar reportes',
 		'api_akismet' => 'Llave API de Akismet',
-		'default_category_colors' => 'Colores predeterminados para las categorias',
+		'default_category_colors' => 'Colores predeterminados para las categorías',
 		'display_contact_page' => 'Mostrar página de contactos',
-		'display_howtohelp_page' => 'Mostra página "Cómo Ayudar"',
-		'email_alerts' => 'Dirección de email para las alertas',
-		'email_notice' => '<span>Para recibir reportes por email, por favor configure su cuenta de email.</span>',
-		'email_site' => 'Dirección de email del sistema',
+		'display_howtohelp_page' => 'Muestra página "Cómo Ayudar"',
+		'email_alerts' => 'Dirección de correo electrónico para las alertas',
+		'email_notice' => '<span>Para recibir reportes por correo electrónico, por favor configure su cuenta de correo electrónico.</span>',
+		'email_site' => 'Dirección de correo electrónico del sistema',
 		'google_analytics' => 'Servicio de estadísticas de Google (Google Analytics)',
 		'google_analytics_example' => 'Web Property ID - Formato: UA-XXXXX-XX',
 		'items_per_page' => 'Items por Página - Página Inicial',
@@ -115,15 +142,23 @@
 		'title' => 'Opciones de Configuración SMS',
 	),
 	'sms_no1' => array(
-		'length' => 'El campo telÃ©fono 1 parece no contener un valor vÃ¡lido?',
-		'numeric' => 'El campo telÃ©fono 1 debe contener sÃ³lo nÃºmeros.',
+		'length' => 'El campo teléfono 1 no es válido.',
+		'numeric' => 'El campo teléfono 1 debe contener sólo números.',
 	),
 	'sms_no2' => array(
-		'length' => 'El campo telÃ©fono 2 es demasiado largo',
-		'numeric' => 'El campo telÃ©fono 2 debe sÃ³lo contener nÃºmeros.',
+		'length' => 'El campo teléfono 2 es demasiado largo',
+		'numeric' => 'El campo teléfono 2 debe contener sólo números.',
 	),
 	'sms_no3' => array(
-		'length' => 'El campo telÃ©fono 3 es demasiado largo',
-		'numeric' => 'El campo telÃ©fono 3 debe sÃ³lo contener nÃºmeros.',
-	));
+		'length' => 'El campo teléfono 3 es demasiado largo',
+		'numeric' => 'El campo teléfono 3 debe contener sólo números.',
+	),
+	'ssl' => array(
+		'enable_ssl' => 'Habilitar SSL',
+		'ssl_disabled' => 'Ushahidi solo puede ser accedido usando el protocolo por defecto; "http"',
+		'ssl_enabled' => 'Permite que Ushahidi pueda ser accedido por SSL, es decir con "https" en la URL',
+		'title' => 'Soporte SSL',
+	),
+	'timezone' => 'Zona horaria',
+	);
 ?>

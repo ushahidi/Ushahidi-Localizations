@@ -42,6 +42,7 @@
 		'length' => 'Der Benutzername muss zwischen 2 und 16 Zeichen lang sein.',
 		'login error' => 'Please check that you entered the correct username.',
 		'required' => 'Der Benutzname ist ein Pflichtfeld.',
+		'standard_text' => 'Benutzername',
 		'superadmin' => 'Die Super-Admin-Rolle kann nicht verändert werden.',
 	));
 ?>

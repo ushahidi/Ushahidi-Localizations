@@ -2,22 +2,23 @@
 	$lang = array(
 	'feedback_actions' => 'Acciones',
 	'feedback_captcha' => array(
-		'required' => 'some message.',
+		'required' => 'Por favor ingrese el código de seguridad.',
+		'valid' => 'Por favor ingrese un código de seguridad válido.',
 	),
 	'feedback_date' => 'Fecha',
 	'feedback_details' => 'Detalles',
 	'feedback_message' => array(
-		'required' => 'Please enter some information for the reply.',
+		'required' => 'Por favor ingrese alguna información para la respuesta.',
 	),
 	'feedback_title' => array(
-		'length' => 'The title field must be at least 3 and no more 100 characters long.',
-		'required' => 'A title is required.',
+		'length' => 'El campo título debe tener al menos 3 y no más de 100 caracteres de largo.',
+		'required' => 'El título es requerido.',
 	),
 	'person_email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'required' => 'Please enter your email address',
+		'email' => 'El campo correo electrónico no contiene una dirección de correo electrónico válida.',
+		'required' => 'Por favor ingrese su dirección de correo electrónico',
 	),
 	'person_name' => array(
-		'required' => 'Please enter your full name.',
+		'required' => 'Por favor ingrese su nombre completo.',
 	));
 ?>

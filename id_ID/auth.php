@@ -16,6 +16,7 @@
 		'length' => 'Panjang isian password harus minimal 5 dan tidak lebih dari 16 karakter.',
 		'matches' => 'Mohon masukkan password yang sama ke isian password kedua',
 		'required' => 'Isian password harus diisi',
+		'standard_text' => 'Teks standar',
 	),
 	'password_confirm' => array(
 		'matches' => 'password yang anda masukkan pada isian konfirmasi password harus sama dengan yg anda masukkan pada isian password',

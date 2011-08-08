@@ -13,7 +13,7 @@
 	'invalid_method' => 'Ongeldige methode %s aangeroepen door %s',
 	'invalid_property' => 'De %s eigenschap bestaat niet in de %s klasse.',
 	'library' => 'library',
-	'log_dir_unwritable' => 'Logbestanden kunnenniet worden geschreven naar map: %s',
+	'log_dir_unwritable' => 'Logbestanden kunnen niet worden geschreven naar map: %s',
 	'model' => 'model',
 	'no_controller' => 'Er kan geen controller worden bepaald op verzoek %s te verwerken',
 	'no_default_route' => 'Stel een standaard route in in config/routes.php',
@@ -24,7 +24,5 @@
 	'stats_footer' => 'Geladen in {execution_time} seconden, gebruikmakend van {memory_usage} RAM geheugen. Systeemversie v%s.',
 	'there_can_be_only_one' => 'Er kan maar een instantie van het systeem actief zijn per paginaverzoek',
 	'uncaught_exception' => 'Ongecontroleerde fout %s: %s in bestand %s op regel %s',
-	'view' => 'view',
-	'view_set_filename' => 'De view bestandsnaam moet worden gezet voordat de render wordt aangeroepen',
 	);
 ?>

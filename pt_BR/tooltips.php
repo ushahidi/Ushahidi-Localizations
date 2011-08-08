@@ -15,6 +15,7 @@
 	'settings_api_max_requests_per_ip' => 'Quantidade máxima de dados a serem solicitados da API por endereço de IP.',
 	'settings_cache_pages' => 'Habilitar ou desabilitar page caching. Isto faz com que as páginas sejam carregadas rapidamente pois reduz o tempo de resposta. Recomendamos usar caching em sites de grande tráfico. **Lembre-se que os relatos serão preenchidos na plataforma baseado no calendário que você definiu (tempo de vida do Cache).',
 	'settings_cache_pages_lifetime' => 'Marcar o tempo de vida do cache.',
+	'settings_checkins' => 'Esta configuração permite o uso de checkins em seu ushahidi. Trata-se de um tipo de relato simplificado, que não passa por moderação antes da publicação e requer que o seu site seja configurado de uma determinada maneira. Ao habilitar esse recurso, certifique-se de sua configuração de fuso horário está em UTC e seu tema suporta checkins. Apenas temas com checkin estarão habilitados na página de configurações de addons/temas.',
 	'settings_configure_map' => 'Marcar mapa para cobrir uma região específica ',
 	'settings_default_category_colors' => 'Marcar um código de cor para todas as categorias do site',
 	'settings_default_location' => 'Esse é o país onde o site está sendo usado',
