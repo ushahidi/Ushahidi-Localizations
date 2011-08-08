@@ -7,13 +7,13 @@
 	'email' => array(
 		'email' => 'E-posta adresinizi girdiğiniz alanda geçerli bir adres gözükmüyor?',
 		'length' => 'E-posta adresi en az 4, en fazla 64 karakterden oluşmalıdır.',
-		'required' => 'Eğer kutucuk işaretlendiyse e-posta adresi girmeniz gerekmektedir.',
+		'required' => 'Kullanım koşullarını kabul ettiyseniz mutlaka sisteme bir e-posta adresi girmeniz gereklidir.',
 	),
 	'error' => array(
 		'required' => 'Hata bölümü boş bırakılamaz',
 	),
 	'subject' => array(
-		'length' => 'Başlık en az 3 karakterden oluşmalıdır.',
+		'length' => 'Başlık kısmı en az 3 karakterden oluşmalıdır.',
 		'required' => 'Başlık kısmı boş bırakılamaz.',
 	),
 	'yourname' => array(
