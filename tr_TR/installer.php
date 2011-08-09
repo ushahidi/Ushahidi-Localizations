@@ -52,29 +52,29 @@
                 'site_email' => 'Sitenizin E-posta Adresi',
                 'site_email_alerts' => 'Sitenizin Uyarılar için Oluşturulan E-posta Adresi',
                 'site_email_alerts_description' => 'Ziyaretçileriniz Uyarı havuzuna abone olduklarında, uyarıları bu e-posta adresinden alacaklar. Tavsiyemiz, bu e-posta adresi ile sitenin genel e-posta adresinin aynı olmamasıdır',
-                'site_email_description' => 'Site wide email communication will be funneled through this address',
+                'site_email_description' => 'Site hakkında gönderilen e-postalar (uyarılar değil) bu e-posta adı altında gönderilecektir',
                 'site_name' => 'Site Adı',
                 'site_name_description' => 'Sitenizin adı',
                 'site_tagline' => 'Site Etiketleri',
-                'site_tagline_description' => '',
+                'site_tagline_description' => 'Sitenizin arama motorları tarafından bulunmasını sağlar',
                           'summary' => array(
-                             'text_1' => 'The files and folders listed below need to be writable by your webserver',
-                             'text_2' => '<p>Here are instructions for changing file permissions:</p>
+                             'text_1' => 'Düzgün bir kurulum için aşağıda listelenen dosyaların yazılması lazım',
+                             'text_2' => '<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>
 <ul>
 <li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>
 <li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>
 </ul>',
-'text_3' => 'Before you get started, you will need to make sure the following files and folders are writable by your webserver. This involves changing file permissions',
-'text_4' => 'For the installation process, please have the following bits of information on hand',
+'text_3' => 'Yükleme işlemine başlamadan önce belirtilen dosyaların yazılabilir olduğundan emin olmalısınız. Bu konu dosya izinleriyle alakalıdır.',
+'text_4' => 'Yükleme kısmı için lütfen belirtilen bilgileri elinizde bulundurun',
 ),
-'table_prefix' => 'Table Prefix',
-'table_prefix_description' => 'Normally you would not change the table prefix. However, If you want to run multiple Ushahidi installations from a single database you can do that by changing the prefix here',
-'title' => 'Title',
-'to_login' => 'To login, go to',
-'upload_data' => 'Upload report data',
-'username' => 'Username',
-'username_description' => 'Your database username',
-'use_credentials' => 'and use the following credentials',
-'view_site' => 'View your website',
+'table_prefix' => 'Tablo Öneki',
+'table_prefix_description' => 'Normalde tablo önekini kurulum sırasında değiştirmezsiniz. Fakat tek bir veritabanına birden fazla Ushahidi kurmak istiyorsanız gerekli değişiklikleri bu kısımdan yapabilirsiniz',
+'title' => 'Başlık',
+'to_login' => 'Giriş yapmak için,',
+'upload_data' => 'Rapor bilgisi yükle',
+'username' => 'Kullanıcı Adı',
+'username_description' => 'Veritabanı kullanıcı adınız',
+'use_credentials' => 've belirtilen bilgileri kullanın',
+'view_site' => 'Siteyi görüntüle',
 );
 ?>
