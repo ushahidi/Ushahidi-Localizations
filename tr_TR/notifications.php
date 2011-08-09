@@ -15,7 +15,17 @@
 		'subject' => 'Yeni Rapor',
 	),
 	'admin_new_sms' => array(
-		'message' => 'İnternet sitenize bir kısa mesaj gönderildi.',
+		'message' => 'İnternet sitenize yeni bir kısa mesaj gönderildi.',
 		'subject' => 'Yeni Kısa Mesaj',
-	));
+	),
+
+        'member_new_alert' => array(
+                 'message' => 'Yeni bir Uyarı Aldınız',
+                 'subject' => 'Yeni Uyarı!'
+        ),
+        'member_new_message' => array(
+                  'message' => 'Özel Mesajınız Var!',
+                  'subject' => 'Yeni Özel Mesaj',
+                  'footer' => 'Cevaplamak İçin: '
+));
 ?>
