@@ -200,7 +200,7 @@
 	'version' => 'Версия',
 	'version_available' => 'готов к обновлению.',
 	'view_site' => 'Посмотреть сайт',
-	'welcome' => 'Добро пожаловать,',
+	'welcome' => 'Добро пожаловать ',
 	'wiki' => 'Wiki',
 	'yes' => 'Да',
 	'your_search_for' => 'Ваш поиск для',

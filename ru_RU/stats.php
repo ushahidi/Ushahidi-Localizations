@@ -15,7 +15,7 @@
 	'legend' => 'История',
 	'pageviews' => 'Просмотр страниц',
 	'pageviews_description' => 'Количество страниц которые посмотрели посетители',
-	'reports' => 'Отчёты',
+	'reports' => 'Точки',
 	'reports_categories' => 'Категории отчётов',
 	'reports_statistics' => 'Статистика отчётов',
 	'reports_status' => 'Статус отчётов',
