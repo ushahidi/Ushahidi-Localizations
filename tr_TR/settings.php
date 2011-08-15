@@ -1,87 +1,87 @@
 <?php
             $lang = array(
             'allow_comments' => array(
-            'between' => 'The allow comments field does not appear to contain a valid value?',
-            'required' => 'The allow comments field is required.',
+            'between' => 'İzin verilen yorumlar kısmında geçerli bir değer görünmüyor?',
+            'required' => 'İzin verilen yorumlar kısmı boş bırakılamaz.',
             ),
 
             'allow_feed' => array(
-            'between' => 'The include feed field does not appear to contain a valid value?',
-            'required' => 'The include feed field is required.',
+            'between' => 'Besleme alanında geçerli bir değer görünmüyor?',
+            'required' => 'Besleme alanı boş bırakılamaz.',
             ),
 
             'allow_reports' => array(
-            'between' => 'The allow reports field does not appear to contain a valid value?',
-            'required' => 'The allow reports field is required.',
+            'between' => 'İzin verilen raporlar kısmında geçerli bir değer görünmüyor?',
+            'required' => 'İzin verilen raporlar kısmı boş bırakılamaz.',
             ),
 
             'allow_stat_sharing' => array(
-            'between' => 'The stat sharing field does not appear to contain a valid value?',
-            'required' => 'The stat sharing field is required.',
+            'between' => 'İstatistik paylaşım kısmında geçerli bir değer görünmüyor?',
+            'required' => 'İstatistik paylaşım kısmı boş bırakılamaz.',
             ),
 
             'api' => array(
-            'default_record_limit' => 'Default no. of records to be fetched per API request',
-            'maximum_record_limit' => 'Maximum no. of records to be fetched per API request',
-            'maximum_requests_per_ip_address' => 'Maximum no. of API requests per IP address',
+            'default_record_limit' => 'API isteği doğrultusunda varsayılan kayıtların sayısı',
+            'maximum_record_limit' => 'API isteği doğrultusunda kayıtların maksimum sayısı',
+            'maximum_requests_per_ip_address' => 'IP adresi başına API isteği doğrultusunda kayıtların maksimum sayısı',
             ),
 
             'api_akismet' => array(
-            'alpha_numeric' => 'The Akismet field does not appear to contain a valid value?',
-            'length' => 'The Akismet field does not appear to contain a valid value?',
+            'alpha_numeric' => 'Akismet kısmında geçerli bir değer görünmüyor?,
+            'length' => 'Akismet kısmında geçerli bir değer görünmüyor?,
             ),
 
             'cache_pages' => array(
-            'between' => 'The cache pages field is required.',
-            'required' => 'The cache pages field does not appear to contain a valid value?',
+            'between' => 'Önbellek sayfası boş bırakılamaz.',
+            'required' => 'Önbellek sayfasında geçerli bir değer görünmüyor?,
             ),
 
             'cache_pages_lifetime' => array(
-            'in_array' => 'The cache pages lifetime field does not appear to contain a valid value?',
-            'required' => 'The cache pages lifetime field is required.',
+            'in_array' => 'Önbellek ömrü kısmında geçerli bir değer görünmüyor?',
+            'required' => 'Önbellek ömrü kısmı boş bırakılamaz.',
             ),
 
             'cleanurl' => array(
-            'clean_url_disabled' => 'It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at this forum <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">post</a>',
-            'clean_url_enabled' => 'This option makes Ushahidi to be accessed via "clean" URLs. Without "index.php" in the URL.',
-            'enable_clean_url' => 'Enable Clean URLs',
-            'title' => 'Clean URLs',
+            'clean_url_disabled' => 'Görünüşe göre sunucu kısa bağlantıyla görülebilecek şekilde ayarlanmamış. Kısa bağlantıları aktif etmeden önce sunucunuzu ayarlamanız gerekiyor. Daha fazla bilgi ve kısa bağlantıları aktif etmek için <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">tıkla (İngilizce)</a>',
+            'clean_url_enabled' => 'Bu ayar Ushahidi'nin kısa bağlantıyla erişilmesine izin verir. (Bağlantıda "index.php" olmadan.)',
+            'enable_clean_url' => 'Kısa Bağlantıları Aktif Et',
+            'title' => 'Kısa Bağlantı',
             ),
 
             'clickatell_api' => array(
-            'length' => 'The Clickatell API number field must be no more 20 characters long.',
-            'required' => 'The Clickatell API number field is required.',
+            'length' => 'Clickatell API Numara kısmı 20 karakterden uzun olmamalıdır.',
+            'required' => 'The Clickatell API Numara kısmı boş bırakılamaz.',
             ),
 
             'clickatell_password' => array(
-            'length' => 'The Clickatell Password field must be at least 5 and no more 50 characters long.',
-            'required' => 'The Clickatell Password field is required.',
+            'length' => 'Clickatell Şifre kısmı en az 5, en fazla 50 karakter uzunluğunda olmalıdır.',
+            'required' => 'Clickatell Şifre kısmı boş bırakılamaz.',
             ),
 
             'clickatell_username' => array(
-            'length' => 'The Clickatell Username field must be no more 50 characters long.',
-            'required' => 'The Clickatell Username field is required.',
+            'length' => 'Clickatell Kullanıcı Adı kısmı 50 karakterden uzun olmamalıdır.',
+            'required' => 'Clickatell Kullanıcı Adı kısmı boş bırakılamaz.',
             ),
 
-            'configure_map' => 'Configure Map',
-            'default_location' => 'Default Location',
+            'configure_map' => 'Haritayı Ayarla',
+            'default_location' => 'Varsayılan Konum',
             'default_map_all' => array(
-            'alpha_numeric' => 'The color feed field does not appear to contain a valid value?',
-            'length' => 'The color field must be no more 6 characters long.',
-            'required' => 'The color field is required.',
+            'alpha_numeric' => 'Renk besleme kısmında geçerli bir değer görünmüyor?,
+            'length' => 'Renk besleme kısmı en fazla 6 karakter uzunluğunda olmalıdır.',
+            'required' => 'Renk besleme kısmı boş bırakılamaz.',
             ),
 
-            'default_map_view' => 'Default Map View',
-            'default_zoom_level' => 'Default Zoom Level',
-            'download_city_list' => 'Retrieve Cities From Geonames',
+            'default_map_view' => 'Varsayılan Harita Görünümü',
+            'default_zoom_level' => 'Varsayılan Yakınlaştırma Seviyesi',
+            'download_city_list' => 'Geonames'ten Şehirleri Al',
             'email_host' => array(
-            'length' => 'The Mail server port field is too long',
-            'numeric' => 'The Mail server port field should contain numbers only.',
+            'length' => 'E-posta sunucusu port kısmı çok uzun',
+            'numeric' => 'E-posta sunucusu port kısmı sadece rakamlardan oluşmalıdır.',
             ),
 
             'email_password' => array(
-            'length' => 'The Mail Server Password field must be at least 5 and no more 50 characters long.',
-            'required' => 'The Mail Server Password field is required.',
+            'length' => 'E-posta Sunucu Şifresi en az 5, en fazla 60 karakter uzunluğunda olmalıdır.',
+            'required' => 'E-posta Sunucu Şifresi boş bırakılamaz.',
             ),
 
             'email_port' => array(
