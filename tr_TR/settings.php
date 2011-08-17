@@ -27,13 +27,13 @@
             ),
 
             'api_akismet' => array(
-            'alpha_numeric' => 'Akismet kısmında geçerli bir değer görünmüyor?,
-            'length' => 'Akismet kısmında geçerli bir değer görünmüyor?,
+            'alpha_numeric' => 'Akismet kısmında geçerli bir değer görünmüyor?',
+            'length' => 'Akismet kısmında geçerli bir değer görünmüyor?',
             ),
 
             'cache_pages' => array(
             'between' => 'Önbellek sayfası boş bırakılamaz.',
-            'required' => 'Önbellek sayfasında geçerli bir değer görünmüyor?,
+            'required' => 'Önbellek sayfasında geçerli bir değer görünmüyor?',
             ),
 
             'cache_pages_lifetime' => array(
@@ -43,7 +43,7 @@
 
             'cleanurl' => array(
             'clean_url_disabled' => 'Görünüşe göre sunucu kısa bağlantıyla görülebilecek şekilde ayarlanmamış. Kısa bağlantıları aktif etmeden önce sunucunuzu ayarlamanız gerekiyor. Daha fazla bilgi ve kısa bağlantıları aktif etmek için <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">tıkla (İngilizce)</a>',
-            'clean_url_enabled' => 'Bu ayar Ushahidi'nin kısa bağlantıyla erişilmesine izin verir. (Bağlantıda "index.php" olmadan.)',
+            'clean_url_enabled' => 'Bu ayar Ushahidinin kısa bağlantıyla erişilmesine izin verir. (Bağlantıda "index.php" olmadan.)',
             'enable_clean_url' => 'Kısa Bağlantıları Aktif Et',
             'title' => 'Kısa Bağlantı',
             ),
@@ -66,14 +66,14 @@
             'configure_map' => 'Haritayı Ayarla',
             'default_location' => 'Varsayılan Konum',
             'default_map_all' => array(
-            'alpha_numeric' => 'Renk besleme kısmında geçerli bir değer görünmüyor?,
+            'alpha_numeric' => 'Renk besleme kısmında geçerli bir değer görünmüyor?',
             'length' => 'Renk besleme kısmı en fazla 6 karakter uzunluğunda olmalıdır.',
             'required' => 'Renk besleme kısmı boş bırakılamaz.',
             ),
 
             'default_map_view' => 'Varsayılan Harita Görünümü',
             'default_zoom_level' => 'Varsayılan Yakınlaştırma Seviyesi',
-            'download_city_list' => 'Geonames'ten Şehirleri Al',
+            'download_city_list' => 'Geonamesten Şehirleri Al',
             'email_host' => array(
             'length' => 'E-posta sunucusu port kısmı çok uzun',
             'numeric' => 'E-posta sunucusu port kısmı sadece rakamlardan oluşmalıdır.',
@@ -85,56 +85,56 @@
             ),
 
             'email_port' => array(
-            'length' => 'The Mail server port field is too long',
-            'numeric' => 'The Mail server port field should contain numbers only.',
+            'length' => 'E-posta sunucusunun port kısmı çok uzun',
+            'numeric' => 'E-posta sunucusunun port kısmı sadece rakamlardan oluşmalıdır.',
             ),
 
             'email_servertype' => array(
-            'length' => 'The Mail server port field is too long',
-            'required' => 'The Mail Server Type field is required.',
+            'length' => 'E-posta sunucusunun port kısmı çok uzun',
+            'required' => 'E-posta Sunucu Tipi kısmı boş bırakılamaz.',
             ),
 
             'email_username' => array(
-            'length' => 'The Mail Server Username field must be no more 50 characters long.',
-            'required' => 'The Mail Server Username field is required.',
+            'length' => 'E-posta Sunucu Kullanıcı Adı 50 karakterden daha uzun olamaz.',
+            'required' => 'E-posta Sunucu Kullanıcı Adı kısmı boş bırakılamaz.',
             ),
 
             'facebook' => array(
-            'title' => 'Facebook Setup Options',
-            'description' => 'To get the information below you will need to create a new facebook application at',
-            'app_id' => 'Facebook App ID',
-            'app_secret' => 'Facebook App Secret'
+            'title' => 'Facebook Kurulum Ayarları',
+            'description' => 'Aşağıdaki bilgileri almak için (link here) adlı adresten yeni bir facebook uygulaması yaratmanız gerekir',
+            'app_id' => 'Facebook Uygulama Kimliği',
+            'app_secret' => 'Facebook Uygulama Gizliliği'
             ),
 
             'google_analytics' => array(
-            'length' => 'The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX.',
+            'length' => 'Google Analytics kısmı geçerli bir bölge kimliği içermesi gerekir. (UA-XXXXX-XX şeklinde) ',
             ),
 
             'https' => array(
-            'enable_https' => 'Enable HTTPS',
-            'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
-            'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
+            'enable_https' => 'HTTPSyi Aktif Et',
+            'https_disabled' => 'Bu ayar Ushahidiye güvenli olmayan bir şekilde erişilmesini sağlar; bağlantının başında "https://" <strong>olmadan</strong>.',
+            'https_enabled' => 'Bu ayar Ushahidiye güvenli bir şekilde erişilmesini sağlar; bağlantının başında <strong>https</strong> olur.',
             'title' => 'HTTPS'
             ),
 
             'items_per_page' => array(
-            'between' => 'The items per page (Frontend) field does not appear to contain a valid value?',
-            'required' => 'The items per page (Frontend) field is required.',
+            'between' => 'Sayfa başına haber sayısı (Görülebilir) kısmında geçerli bir değer görünmüyor?',
+            'required' => 'Sayfa başına haber sayısı (Görülebilir) kısmı boş bırakılamaz.',
             ),
 
             'items_per_page_admin' => array(
-            'between' => 'The items per page (Admin) field does not appear to contain a valid value?',
-            'required' => 'The items per page (Admin) field is required.',
+            'between' => 'Sayfa başına haber sayısı (Admin) kısmında geçerli bir değer görünmüyor?',
+            'required' => 'Sayfa başına haber sayısı (Admin) kısmı boş bırakılamaz.',
             ),
 
             'map' => array(
-            'default_location' => 'Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider\'s site, and enter the API key',
-            'zoom' => 'Zoom Level',
+            'default_location' => 'Harita sağlayıcı seçmek ve düzenlemek kolay bir iştir. Sağlayıcıyı seçin, sağlayıcının kendi sitesinden API anahtarını alın ve API anahtarını girin',
+            'zoom' => 'Yakınlaştırma Seviyesi',
             ),
 
             'map_provider' => array(
-            'choose' => 'Select a Map Provider',
-            'enter_api' => 'Enter the new API Key',
+            'choose' => 'Harita Sağlayıcı seç',
+            'enter_api' => 'Yeni API Anahtarını Girin',
             'get_api' => 'Get an API Key',
             'info' => 'Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider\'s site, and enter the API key',
             'name' => 'Map provider',
