@@ -49,7 +49,7 @@
 	),
 	'clickatell_username' => array(
 		'length' => 'Довжина імені користувача Clickatell не повинна перевищувати 50 символів.',
-		'required' => 'Введіть ім\\'я користувача Clickatell.',
+		'required' => 'Введіть ім\'я користувача Clickatell.',
 	),
 	'configure_map' => 'Налаштувати карту',
 	'default_location' => 'Місцезнаходження за замовчуванням',
@@ -79,7 +79,7 @@
 	),
 	'email_username' => array(
 		'length' => 'Довжина імені користувача сервера пошти не повинна перевищувати 50 символів.',
-		'required' => 'Введіть ім\\'я користувача сервера пошти.',
+		'required' => 'Введіть ім\'я користувача сервера пошти.',
 	),
 	'google_analytics' => array(
 		'length' => 'Поле Google Analytics повинне містити діючий Web Property ID у форматі UA-XXXXX-XX.',
@@ -104,7 +104,7 @@
 		'name' => 'Провайдер карти',
 	),
 	'map_settings' => 'Властивості карти',
-	'multiple_countries' => 'Чи об\\'єднує Ushahidi декілька країн',
+	'multiple_countries' => 'Чи об\'єднує Ushahidi декілька країн',
 	'select_default_location' => 'Виберіть країну за замовчанням',
 	'set_location' => 'Клікніть на карту щоб вказати точне місцезнаходження',
 	'site' => array(
@@ -159,8 +159,8 @@
 		'clickatell_text_1' => 'Підключіться до послуги Clickatell в <a href="https://www.clickatell.com/central/user/client/step1.php?prod_id=2" target="_blank">clicking here</a>',
 		'clickatell_text_2' => 'Введіть Вашу інформацію Clickatell внизу',
 		'clickatell_username' => 'Введіть ваш Clickatell логін',
-		'flsms_description' => 'FrontlineSMS - вільна програма з відкритим вихідним кодом, яка перетворює ноутбук та мобільний телефон у центральний вузол зв\\'язку. Після установки, програма дозволяє користувачам відправляти і отримувати текстові повідомлення з великими групами людей за допомогою мобільних телефонів. Клацніть на кнопку, щоб завантажити FrontlineSMS.com',
-		'flsms_download' => 'Завантажте Frontline SMS та встановіть на Ваш комп\\'ютер',
+		'flsms_description' => 'FrontlineSMS - вільна програма з відкритим вихідним кодом, яка перетворює ноутбук та мобільний телефон у центральний вузол зв\'язку. Після установки, програма дозволяє користувачам відправляти і отримувати текстові повідомлення з великими групами людей за допомогою мобільних телефонів. Клацніть на кнопку, щоб завантажити FrontlineSMS.com',
+		'flsms_download' => 'Завантажте Frontline SMS та встановіть на Ваш комп\'ютер',
 		'flsms_instructions' => 'Повідомлення, отримані у FrontlineSMS можуть бути синхронізовані з Ushahidi. Інформацію про те, як синхронізувати з Ushahidi, можна знайти в <strong><a href="http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi" target="_blank">here</a></strong>. Вы повинні отримати ключ за посиланням щоб синхронізувати з FrontlineSMS',
 		'flsms_key' => 'Це ключ синхронізації Ushahidi',
 		'flsms_link' => 'FrontlineSMS HTTP Post посилання',

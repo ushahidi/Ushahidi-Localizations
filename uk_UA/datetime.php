@@ -2,7 +2,7 @@
 	$lang = array(
 	'friday' => array(
 		'abbv' => 'Пт',
-		'full' => 'П\\'ятниця',
+		'full' => 'П\'ятниця',
 	),
 	'monday' => array(
 		'abbv' => 'Пн',
