@@ -1,17 +1,17 @@
 <?php
 	$lang = array(
 	'actions' => array(
-		'add_to_category' => 'Позволяет добавлять дополнительные категории к точке. Если вы  отметете здесь Категорию1 для точки которая уже находится в Категории2, то точка будет привязана к обеим категориям.',
-		'category' => 'Здесь вы можете задать условие активации триггеров только при использовании определенных категорий. Например, если здесь вы выбрали Категорию1 и Категорию2, а точка привязанна к Категория2 и Категория3, она успешно пройдет заданое условие.',
+		'add_to_category' => 'Позволяет добавлять дополнительные категории к точке. Если вы  отметете Категория1 для точки которая уже находится в Категория2, то точка будет привязана к обеим категориям.',
+		'category' => 'Вы можете задать условие активации триггеров при использовании определенных категорий. Например, если вы выбрали условие Категория1 и Категория2, а Точка привязана к Категория2 и Категория3, то она выполнит заданное условие.',
 		'email_body' => 'Тело письма, которое будет отправлено.',
-		'email_subject' => 'Зголовок письма, которое будет отправлено.',
+		'email_subject' => 'Заголовок письма, которое будет отправлено.',
 		'keywords' => 'Если вы хотите запускать триггеры по ключевым словам, введите их здесь через запятую.',
 		'location' => 'Вы можете выбрать "где угодно" или указать местоположение. Если вы выбрали местоположение, вы можете указать периметр, где происходит действие. Например, если вы хотите активировать триггер, когда кто-либо укажет точку в Смоленской области, вам необходимо выделить данную область одним или несколькими прямоугольниками.',
 		'on_specific_count' => 'This qualifier will activate the trigger on the N-th count either for the entire collective user base or for each individual user.',
 		'response' => 'Если все критерии выше были пройдены, триггер запустит действие - от одобрения Точки до электронного письма пользователю. Выберите необходимые дополнительные опции.',
-		'send_to' => 'If you select "Triggering User", the email will be sent to the user who performed the action. If you select the radio button next to the input box, you will be able to enter a custom email address. This is useful if you are setting up triggers to notify people when certain parts of the map are seeing reports, check ins or some other activity.',
-		'trigger' => 'The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one.',
-		'user' => 'The user can be anyone or a specific user. If you would only like specific users to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as "anyone" since most triggers are set up for all users interacting with the system',
+		'send_to' => 'Выбрав "Triggering User" электрописьмо будет отослано пользователю выполнившему действие. При использовании радио-кнопки после поля ввода вы сможете ввести любой другой e-mail, это полезно когда вы устанавливаете триггеры для уведомления пользователей о произошедших изменениях.',
+		'trigger' => 'Триггер является основным элементом для настройки "Действий по условию".  Вы можете выбрать какое-либо действие, когда кто-нибудь поставит новую Точку, зарегистрируется и т. д.',
+		'user' => 'Пользователем может быть кто угодно или выбранный пользователь.',
 		'verify' => 'Отметить Точку как проверенную или нет.'
 	),
 	'default_value' => 'Отделите каждое значение запятой. Например: Значение 1, Значение 2 и т. д.',
