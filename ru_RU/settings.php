@@ -17,7 +17,7 @@
 		'required' => 'Введите поле об отправке статистики.',
 	),
 	'api' => array(
-		'default_record_limit' => 'Default no. of records to be fetched per API request',
+		'default_record_limit' => 'Количество записей по умолчанию отдаваемых по API-запросу',
 		'maximum_record_limit' => 'Maximum no. of records to be fetched per API request',
 		'maximum_requests_per_ip_address' => 'Maximum no. of API requests per IP address',
 	),
