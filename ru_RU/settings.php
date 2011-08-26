@@ -16,9 +16,26 @@
 		'between' => 'Поле об отправке статистики заполнен неверно',
 		'required' => 'Введите поле об отправке статистики.',
 	),
+	'api' => array(
+		'default_record_limit' => 'Default no. of records to be fetched per API request',
+		'maximum_record_limit' => 'Maximum no. of records to be fetched per API request',
+		'maximum_requests_per_ip_address' => 'Maximum no. of API requests per IP address',
+	),
 	'api_akismet' => array(
-		'alpha_numeric' => 'Поле Akismet введен неверно',
-		'length' => 'Поле Akismet введен неверно',
+		'alpha_numeric' => 'Поле Akismet заполено неверно',
+		'length' => 'Поле Akismet заполено неверно',
+	),
+	'banner_image' => array(
+		'default' => 'Something went wrong with your banner image upload.',
+		'size' => 'The size of your banner exceeds the size limit for this upload.'
+	),
+	'cache_pages' => array(
+		'between' => 'The cache pages field is required.',
+		'required' => 'The cache pages field does not appear to contain a valid value?',
+	),
+	'cache_pages_lifetime' => array(
+		'in_array' => 'The cache pages lifetime field does not appear to contain a valid value?',
+		'required' => 'The cache pages lifetime field is required.',
 	),
 	'cleanurl' => array(
 		'clean_url_disabled' => 'Ваш сервер не настроен для чистых URL. Настройте Ваш сервер до того как включить данную услугу. Для более подробной информацмм зайдите <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">post</a>',
