@@ -25,7 +25,6 @@
 		'alpha_numeric' => 'Akismetフィールドには正しい値が入ってないようです。',
 		'length' => 'Akismetフィールドには正しい値が入ってないようです。',
 	),
-	'api_default_record_limit' => ' ',
 	'cache_pages' => array(
 		'between' => 'キャッシュページは入力必須です。',
 		'required' => 'キャッシュページフィールドには正しい値が入ってないようです。',
@@ -34,7 +33,6 @@
 		'in_array' => 'キャッシュページの有効期間フィールドには正しい値が入っていないようです。',
 		'required' => 'キャッシュページ有効期間は入力必須です。',
 	),
-	'checkins' => 'チェックイン',
 	'cleanurl' => array(
 		'clean_url_disabled' => 'あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">このフォームの投稿</a>の詳細を確認してください。
 ',
@@ -120,6 +118,7 @@
 		'api_akismet' => 'Akismetキー',
 		'cache_pages' => 'キャッシュページ',
 		'cache_pages_lifetime' => 'キャッシュページの有効期間',
+		'checkins' => 'チェックイン',
 		'copyright_statement' => 'サイトのコピーライト状況',
 		'default_category_colors' => 'すべてのカテゴリーのディフォルトの色',
 		'display_contact_page' => 'コンタクトページを表示する',
@@ -140,6 +139,7 @@
 		'private_deployment' => 'プライベートサイト',
 		'share_site_stats' => '統計を有効にする（Ushahidiサーバに蓄積されます）',
 		'tagline' => 'サイトのタグライン',
+		'timezone' => 'タイムゾーン',
 		'title' => 'サイト設定',
 		'twitter_configuration' => 'ツイッター検索期間',
 		'twitter_hashtags' => 'ハッシュタグ - カンマ区切りにしてください',
@@ -189,15 +189,5 @@
 		'length' => '電話番号フィールド3の値は長過ぎます。',
 		'numeric' => '電話番号フィールド3は番号のみ入力可です。',
 	),
-	'sms_provider' => array(
-		'length' => ' ',
-	),
-	'ssl' => array(
-		'enable_ssl' => 'SSLを有効にする',
-		'ssl_disabled' => 'Ushahidiはディフォルトで受け付けるプロトコルは httpです。',
-		'ssl_enabled' => 'UshahidiをSSL経由でアクセス出来るようになります。例：URLに"https"がつきます',
-		'title' => 'SSLサポート',
-	),
-	'timezone' => 'タイムゾーン',
 	);
 ?>
