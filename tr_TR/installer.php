@@ -61,8 +61,8 @@
                              'text_1' => 'Düzgün bir kurulum için aşağıda listelenen dosyaların yazılması lazım',
                              'text_2' => '<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>',
  <ul>
-     <li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>
-     <li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>
+     <li><a> href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>
+     <li><a> href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>
 </ul>',
 'text_3' => 'Yükleme işlemine başlamadan önce belirtilen dosyaların yazılabilir olduğundan emin olmalısınız. Bu konu dosya izinleriyle alakalıdır.',
 'text_4' => 'Yükleme kısmı için lütfen belirtilen bilgileri elinizde bulundurun',
