@@ -485,7 +485,7 @@
 	'system' => 'Система',
 	'tcp_port' => 'TCP-порт',
 	'themes' => 'Темы',
-	'theme_default' => 'Тема Ushahidi по-умолчанию',
+	'theme_default' => 'Стандартная тема Ushahidi',
 	'theme_settings' => 'Настройки темы',
 	'this' => 'Это',
 	'this_day' => 'Сегодня',
