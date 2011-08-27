@@ -6,7 +6,7 @@
          'database_host_description' => 'Eğer Ushahidiyi kendi bilgisayarınızda çalıştırıyorsanız, muhtemelen bu bölümün ismi "localhost" olacaktır. Eğer Ushahidiyi başka bir web sunucusunda çalıştırıyorsanız, sunucu sağlayıcınızdan bu bilgiyi almanız gerekmektedir.',
          'database_name' => 'Veritabanı İsmi',
          'database_name_description' => 'Ushahidiyi çalıştıracağınız veritabanının ismi',
-         'db_information_link' => 'Veritabanı hakkında daha fazla bilgi almak için lütfen <a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">bu konuyu</a> inceleyin. (Bu konu İngilizce'dir.)',
+         'db_information_link' => 'Veritabanı hakkında daha fazla bilgi almak için lütfen <a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">bu konuyu</a> inceleyin. (Bu konu İngilizcedir.)',
          'default_language' => 'Varsayılan Dil (Lokal)',
          'default_language_description' => 'Ushahidi bir çok dil ile birlikte gelir. İsterseniz sizde kendi dilinizi <a href="http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages" target="_blank">ekleyebilirsiniz</a>',
          'disable' => 'Deaktif',
