@@ -5,11 +5,11 @@
 		'required' => 'Lütfen güvenlik kodunu girin',
 	),
 	'comment_author' => array(
-		'length' => 'İsim en az 3 karakterden oluşmalıdır.',
+		'length' => 'İsim kısmı en az 3 karakterden oluşmalıdır.',
 		'required' => 'İsim kısmı boş bırakılamaz.',
 	),
 	'comment_description' => array(
-		'required' => 'Yorum kısmı boş bırakılamaz.',
+		'required' => 'Yorumlar kısmı boş bırakılamaz.',
 	),
 	'comment_email' => array(
 		'email' => 'E-posta adresi geçerli değil.',

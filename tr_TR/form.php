@@ -1,29 +1,30 @@
 <?php
 	$lang = array(
 	'field_default' => array(
-		'length' => 'Alan adı en az 3, en fazla 200 karakter uzunluğunda olmalıdır.',
+                'default' => 'Sağladığınız varsayılan değer bu alan için geçerli değil.',
+		'length' => 'Alan Adı en az 3, en fazla 200 karakter uzunluğunda olmalıdır.',
 	),
 	'field_height' => array(
-		'between' => 'Alan Yüksekliği kısmına lütfen 0 ile 50 arasında bir rakam girin',
+		'between' => 'Lütfen Alan Yüksekliği kısmına 0 ile 50 arasında bir rakam girin',
 	),
 	'field_isdate' => array(
-		'between' => 'Geçersiz bir tarih girdiniz.',
-		'required' => 'Tarih Alanı için lütfen Evet ya da Hayır\'ı seçin',
+		'between' => 'Geçersiz bir tarih girdiniz',
+		'required' => 'Lütfen Tarih Alanı için Evet ya da Hayırı seçin',
 	),
 	'field_name' => array(
-		'length' => 'Alan ismi en az 3, en fazla 100 karakter uzunluğunda olmalıdır.',
-		'required' => 'Lütfen alan ismini girin.',
+		'length' => 'Alan Adı en az 3, en fazla 100 karakter uzunluğunda olmalıdır.',
+		'required' => 'Lütfen Alan Adı girin.',
 	),
 	'field_required' => array(
-		'between' => 'Gerekli alan için yanlış bir değer girdiniz.',
-		'required' => 'Gerekli Alan için lütfen Evet ya da Hayır\'ı seçin',
+		'between' => 'Gerekli Alan için yanlış bir değer girdiniz.',
+		'required' => 'Gerekli Alan için lütfen Evet ya da Hayırı seçin',
 	),
 	'field_type' => array(
 		'numeric' => 'Lütfen geçerli bir Alan Türü seçin.',
 		'required' => 'Lütfen bir Alan Türü seçin.',
 	),
 	'field_width' => array(
-		'between' => 'Alan Genişliği kısmına lütfen 0 ile 300 arasında bir rakam girin',
+		'between' => 'Lütfen Alan Genişliği kısmına 0 ile 300 arasında bir rakam girin',
 	),
 	'form_description' => array(
 		'required' => 'Lütfen form açıklaması girin.',
