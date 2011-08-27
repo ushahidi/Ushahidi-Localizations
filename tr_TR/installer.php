@@ -3,9 +3,9 @@
          'base_path' => 'Ana Yol',
          'database' => 'Veritabanı',
          'database_host' => 'Veritabanı Sunucusu',
-         'database_host_description' => 'Eğer Ushahidi'yi kendi bilgisayarınızda çalıştırıyorsanız, muhtemelen bu bölümün ismi "localhost" olacaktır. Eğer Ushahidi'yi başka bir web sunucusunda çalıştırıyorsanız, sunucu sağlayıcınızdan bu bilgiyi almanız gerekmektedir.',
+         'database_host_description' => 'Eğer Ushahidiyi kendi bilgisayarınızda çalıştırıyorsanız, muhtemelen bu bölümün ismi "localhost" olacaktır. Eğer Ushahidiyi başka bir web sunucusunda çalıştırıyorsanız, sunucu sağlayıcınızdan bu bilgiyi almanız gerekmektedir.',
          'database_name' => 'Veritabanı İsmi',
-         'database_name_description' => 'Ushahidi'yi çalıştıracağınız veritabanının ismi',
+         'database_name_description' => 'Ushahidiyi çalıştıracağınız veritabanının ismi',
          'db_information_link' => 'Veritabanı hakkında daha fazla bilgi almak için lütfen <a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">bu konuyu</a> inceleyin. (Bu konu İngilizce'dir.)',
          'default_language' => 'Varsayılan Dil (Lokal)',
          'default_language_description' => 'Ushahidi bir çok dil ile birlikte gelir. İsterseniz sizde kendi dilinizi <a href="http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages" target="_blank">ekleyebilirsiniz</a>',
@@ -46,7 +46,7 @@
                 'password_description' => 'Veritabanınızın Şifresi',
                 'previous' => 'Geri',
                 'restart_apache' => 'Lütfen Apache sunucusunu baştan başlatın',
-                'select_mail_server_ssl' => 'SSL'i Aktif veya Deaktif et',
+                'select_mail_server_ssl' => 'SSLi Aktif veya Deaktif et',
                 'select_mail_server_ssl_description' => 'Bazı posta sunucuları bağlantı gönderirken <abbr title="Secure Sockets Layer">SSL</abbr> sistemini kullanmanıza izin verir.SSL kullanmak güvenliğiniz açısından tavsiye edilir',
                 'setup_sms' => 'SMS sunucusunu oluşturun',
                 'site_email' => 'Sitenizin E-posta Adresi',
@@ -59,11 +59,11 @@
                 'site_tagline_description' => 'Sitenizin arama motorları tarafından bulunmasını sağlar',
                           'summary' => array(
                              'text_1' => 'Düzgün bir kurulum için aşağıda listelenen dosyaların yazılması lazım',
-                             'text_2' => '<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>
-<ul>
-<li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>
-<li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>
-</ul>',
+                             'text_2' => '<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>',
+'<ul>'
+'<li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>'
+'<li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>'
+'</ul>',
 'text_3' => 'Yükleme işlemine başlamadan önce belirtilen dosyaların yazılabilir olduğundan emin olmalısınız. Bu konu dosya izinleriyle alakalıdır.',
 'text_4' => 'Yükleme kısmı için lütfen belirtilen bilgileri elinizde bulundurun',
 ),
