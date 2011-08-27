@@ -18,7 +18,7 @@
 	'no_controller' => 'Ushahidi kontrol eden dosyayı belirleyemiyor: %s ',
 	'no_default_route' => 'Lütfen varsayılan dosya yolunu "config/routes.php" olarak ayarlayın. ',
         'page_not_found' => 'İstenen sayfa (%s) bulunamadı.',
-        'report_bug' => '<a href="%s" id="show_bugs">Bu Sorunu Ushahidi'ye Bildirin</a>',
+        'report_bug' => '<a href="%s" id="show_bugs">Bu Sorunu Ushahidiye Bildirin</a>',
         'resource_not_found' => 'İstenen (%s) bulunamadı',
         'stack_trace' => 'Yığın Takibi',
         'stats_footer' => '{execution_time} saniyede, {memory_usage} hafıza kullanarak yüklendi. Ushahidi Tarafından Oluşturuldu v%s.',
