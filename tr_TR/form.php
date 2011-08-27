@@ -9,7 +9,7 @@
 	),
 	'field_isdate' => array(
 		'between' => 'Geçersiz bir tarih girdiniz',
-		'required' => 'Lütfen Tarih Alanı için Evet ya da Hayır'ı seçin',
+		'required' => 'Lütfen Tarih Alanı için Evet ya da Hayırı seçin',
 	),
 	'field_name' => array(
 		'length' => 'Alan Adı en az 3, en fazla 100 karakter uzunluğunda olmalıdır.',
@@ -17,7 +17,7 @@
 	),
 	'field_required' => array(
 		'between' => 'Gerekli Alan için yanlış bir değer girdiniz.',
-		'required' => 'Gerekli Alan için lütfen Evet ya da Hayır'ı seçin',
+		'required' => 'Gerekli Alan için lütfen Evet ya da Hayırı seçin',
 	),
 	'field_type' => array(
 		'numeric' => 'Lütfen geçerli bir Alan Türü seçin.',
