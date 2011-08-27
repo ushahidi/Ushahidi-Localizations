@@ -13,8 +13,8 @@
 		'required' => 'İsim kısmı boş bırakılamaz.',
 	),
 	'layer_url' => array(
-		'atleast' => 'Bir KML URL'si ya da Dosya'sı gereklidir',
-		'both' => 'Aynı anda hem bir KML dosyasına ve bir KML url'sine sahip olamazsınız',
+		'atleast' => 'Bir KML URLsi ya da Dosyası gereklidir',
+		'both' => 'Aynı anda hem bir KML dosyasına ve bir KML urlsine sahip olamazsınız',
 		'url' => 'Lütfen geçerli bir adres giriniz. Örn. http://www.ushahidi.com/layerl.kml',
 	));
 ?>
