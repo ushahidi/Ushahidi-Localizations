@@ -1,10 +1,10 @@
 <?php
 $lang = array(
               'akismet_cannot_connect' => 'Akismet sunucusuna bağlanılamadı',
-              'akismet_cannot_retrieve' => 'Akismet'ten gelen yanıta cevap verilemedi',
+              'akismet_cannot_retrieve' => 'Akismetten gelen yanıta cevap verilemedi',
               'api_library_not_found' => 'API kütüphanesi: <strong>%s</strong> için <strong>%s</strong> sınıfı bulunamadı. Lütfen API görev yolunuzu kontrol edin.',
               'askimet_invalid_apikey' => 'Akismet API anahtarı geçerli değil',
-              'clickatell_fopen_error' => 'Hata! Fopen komutu ile gönderme metodu çalışmadı! <br> Lütfen PHP sunucusunun OpenSSL desteği olduğuna ve PHP versiyonunun 5.2'den yüksek olduğuna emin olun',
+              'clickatell_fopen_error' => 'Hata! Fopen komutu ile gönderme metodu çalışmadı! <br> Lütfen PHP sunucusunun OpenSSL desteği olduğuna ve PHP versiyonunun 5.2den yüksek olduğuna emin olun',
               'clickatell_message_too_long' => 'Unicode mesajınız çok uzun! (Uzunluk=',
               'clickatell_no_destination_address' => 'Lütfen gidilecek adresi belirtin (KİME)!',
               'clickatell_no_sender_address' => 'Lütfen kaynak adresi belirtin (KİMDEN)!',
@@ -13,7 +13,7 @@ $lang = array(
               'invalid_api_library' => 'API kütüphanesi (%s) geçerli değil. Bütün API kütüphaneleri %s arasınıfı olmalıdır',
               'upgrade_directory_not_deleted' => 'Dosya <code>%s</coded> silinemedi',
               'upgrade_extracting_error' => 'Çıkartılırken hata: <code>%s</code>',
-              'upgrade_failed' => 'Ushahidi'nin en son sürümü indirilirken hata oluştu. HTTP durum kodu',
+              'upgrade_failed' => 'Ushahidinin en son sürümü indirilirken hata oluştu. HTTP durum kodu',
               'upgrade_file_not_copied' => 'Dosya <code>%s</coded> kopyalanamadı',
               'upgrade_file_not_deleted' => 'Dosya <code>%s</coded> silinemedi',
               'upgrade_title' => 'Ushahidi güncelleme yazılımı',
