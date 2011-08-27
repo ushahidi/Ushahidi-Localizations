@@ -18,7 +18,7 @@
 		'range' => 'Lütfen geçerli bir KİMDEN tarihi girin. Bu tarih, bugünden daha ileri bir tarih olamaz.',
 	),
 	'incident_active' => array(
-		'between' => 'Bu Raporu Onayla'mak için lütfen geçerli bir değer girin',
+		'between' => 'Bu Raporu Onaylamak için lütfen geçerli bir değer girin',
 		'required' => 'Karşıdan yükleme yapmak için lütfen geçerli türde bir rapor seçin',
 	),
 	'incident_ampm' => array(
@@ -52,7 +52,7 @@
 		'url' => 'Haber kaynağı linkleri alanında geçerli bir URL görünmüyor?',
 	),
 	'incident_photo' => array(
-		'size' => 'Yükleyeceğiniz fotoğraf büyüklüğünün 2MB'ı geçmediğinden lütfen emin olun.',
+		'size' => 'Yükleyeceğiniz fotoğraf büyüklüğünün 2MBı geçmediğinden lütfen emin olun.',
 		'type' => 'Yükleme yapılacak fotoğraf alanında geçerli bir fotoğraf görünmüyor. Sadece .JPG, .PNG ve .GIF formatları geçerlidir.',
 		'valid' => 'Yükleme yapılacak fotoğraf kısmı geçerli bir dosya içermiyor',
 	),
@@ -65,8 +65,8 @@
 		'required' => 'Başlık kısmı boş bırakılamaz.',
 	),
 	'incident_verified' => array(
-		'between' => 'Bu Raporu Doğrula'mak için lütfen geçerli bir değer giriniz',
-		'required' => 'Bu Raporu Doğrula'mak için lütfen geçerli bir değer giriniz',
+		'between' => 'Bu Raporu Doğrulamak için lütfen geçerli bir değer giriniz',
+		'required' => 'Bu Raporu Doğrulamak için lütfen geçerli bir değer giriniz',
 	),
 	'incident_video' => array(
 		'url' => 'Video linkleri alanında geçerli bir URL görünmüyor?',
