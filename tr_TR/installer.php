@@ -59,7 +59,7 @@
                 'site_tagline_description' => 'Sitenizin arama motorları tarafından bulunmasını sağlar',
                           'summary' => array(
                              'text_1' => 'Düzgün bir kurulum için aşağıda listelenen dosyaların yazılması lazım',
-                             'text_2' => '<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>',
+                             'text_2' => '<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>,
  <ul>
      <li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>
      <li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>
