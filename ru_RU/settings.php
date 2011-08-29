@@ -16,15 +16,32 @@
 		'between' => 'Поле об отправке статистики заполнен неверно',
 		'required' => 'Введите поле об отправке статистики.',
 	),
+	'api' => array(
+		'default_record_limit' => 'Количество записей по умолчанию отдаваемых по API-запросу',
+		'maximum_record_limit' => 'Максимальное количество записей отдаваемых по API-запросу',
+		'maximum_requests_per_ip_address' => 'Максимальное количество API-запросов с одного IP',
+	),
 	'api_akismet' => array(
-		'alpha_numeric' => 'Поле Akismet введен неверно',
-		'length' => 'Поле Akismet введен неверно',
+		'alpha_numeric' => 'Поле Akismet заполено неверно',
+		'length' => 'Поле Akismet заполено неверно',
+	),
+	'banner_image' => array(
+		'default' => 'Не удолось загрузить баннер.',
+		'size' => 'Уменьшете размер баннера.'
+	),
+	'cache_pages' => array(
+		'between' => 'The cache pages field is required.',
+		'required' => 'The cache pages field does not appear to contain a valid value?',
+	),
+	'cache_pages_lifetime' => array(
+		'in_array' => 'Поле время жизни кеша заполенно неверно.',
+		'required' => 'Укажите время жизни кеша.',
 	),
 	'cleanurl' => array(
-		'clean_url_disabled' => 'Ваш сервер не настроен для чистых URL. Настройте Ваш сервер до того как включить данную услугу. Для более подробной информацмм зайдите <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">post</a>',
-		'clean_url_enabled' => 'Это позволит Ushahidi заходить на "чистые" сайты без вхождения на "index.php".',
-		'enable_clean_url' => 'Позволить чистые URL',
-		'title' => 'Чистые URLs',
+		'clean_url_disabled' => 'Сервер не настроен для "красивой" адресной строки. <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">Более подробная информация</a>',
+		'clean_url_enabled' => 'Эта опция позволит заходить на Ushahidi без "index.php" в адресной строке.',
+		'enable_clean_url' => 'Включить "Красивый" URL',
+		'title' => '"Красивая" адресная строка',
 	),
 	'clickatell_api' => array(
 		'length' => 'Длина номера Clickatell API не должна превышать 20 символов',
@@ -68,9 +85,21 @@
 		'length' => 'Длина имени пользователя сервера почты не должна превышать 50 символов.',
 		'required' => 'Введите имя пользователя сервера почты',
 	),
-	'google_analytics' => array(
-		'length' => 'Поле Google Analytics должна содержать действующий Web Property ID в формате UA-XXXXX-XX.',
+	'facebook' => array(
+		'title' => 'Facebook настройки',
+		'description' => 'To get the information below you will need to create a new facebook application at',
+		'app_id' => 'Facebook App ID',
+		'app_secret' => 'Facebook App Secret'
 	),
+	'google_analytics' => array(
+		'length' => 'Поле Google Analytics должно содержать действующий Web Property ID в формате UA-XXXXX-XX.',
+	),
+	'https' => array(
+	   'enable_https' => 'Включить HTTPS',
+	   'https_disabled' => 'Эта опция включит доступ к Ushahidi в обычном режиме <strong>без https</strong> в префиксе URL',
+	   'https_enabled' => 'Эта опция включит доступ к Ushahidi в зашифрованном режиме с <strong>https</strong> в префиксе URL',
+	   'title' => 'HTTPS'
+	),	
 	'items_per_page' => array(
 		'between' => 'Поле количества на страницу  (Главный) заполнен в неправильном формате',
 		'required' => 'Количество отчётов на страницу для (Главный).',
@@ -80,18 +109,18 @@
 		'required' => 'Количество отчётов на страницу для (Admin)',
 	),
 	'map' => array(
-		'default_location' => 'Картографический материал загружается напрямую. Выберите провайдера, получите API ключ и введите его.',
+		'default_location' => 'Картографический материал загружается напрямую. Выберите провайдера, получите API-ключ и введите его.',
 		'zoom' => 'Масштаб',
 	),
 	'map_provider' => array(
 		'choose' => 'Выберите провайдера карты',
 		'enter_api' => 'Введите полученный API-ключ',
 		'get_api' => 'Получите API-ключ',
-		'info' => 'Выбор провайдера карты происходит напрямую с провайдером. Выберите провайдера, получите API ключ, введите ключ на сайте',
+		'info' => 'Выбор провайдера карты происходит напрямую с провайдером. Выберите провайдера, получите API-ключ, введите ключ на сайте',
 		'name' => 'Провайдер карты',
 	),
 	'map_settings' => 'Настройка карты',
-	'multiple_countries' => 'Данная карта будет использоваться больше чем в 1 государстве?',
+	'multiple_countries' => 'Данная карта будет использоваться больше чем в одном государстве?',
 	'select_default_location' => 'Выберете страну',
 	'set_location' => 'Кликните на карте чтобы уточнить местоположение',
 	'site' => array(
@@ -105,7 +134,7 @@
 		'cache_pages_lifetime' => 'Время жизни кэша',
 		'checkins' => 'Проверка',
 		'copyright_statement' => 'Авторское право',
-		'default_category_colors' => 'Цвет по умолчанию для всей категорий',
+		'default_category_colors' => 'Цвет по умолчанию для всех категорий',
 		'display_contact_page' => 'Показывать страницу контактов',
 		'display_howtohelp_page' => 'Показывать страницу "Как помочь"',
 		'email_alerts' => 'E-mail для оповещений',
