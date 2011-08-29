@@ -12,7 +12,7 @@
 		'required' => 'Mesaj kısmı boş bırakılamaz.',
 	),
 	'contact_subject' => array(
-		'length' => 'Başlık en az 3 karakterden oluşmalıdır.',
+		'length' => 'Başlık kısmı en az 3 karakterden oluşmalıdır.',
 		'required' => 'Başlık kısmı boş bırakılamaz.',
 	));
 ?>

@@ -7,7 +7,7 @@
 	),
 	'feed_url' => array(
 		'required' => 'Lütfen beslemenin URL\'sini girin.',
-		'url' => 'Lütfen geçerli bir URL adresini giriniz. Örneğin: http://www.ushahidi.com',
+		'url' => 'Lütfen geçerli bir URL adresini girin. Örn. http://www.ushahidi.com',
 	),
 	'source' => 'KAYNAK',
 	'title' => 'Başlık',
