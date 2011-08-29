@@ -16,9 +16,9 @@
 	),
 	'person_email' => array(
 		'email' => 'Girdiğiniz e-posta adresi geçerli değil.',
-		'required' => 'Lütfen e-posta adresinizi giriniz.',
+		'required' => 'Lütfen e-posta adresinizi girin.',
 	),
 	'person_name' => array(
-		'required' => 'Lütfen isminizi giriniz.',
+		'required' => 'Lütfen isminizi girin.',
 	));
 ?>
