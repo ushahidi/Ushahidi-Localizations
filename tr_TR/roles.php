@@ -9,7 +9,7 @@
 		'length' => 'İsim kısmı en az 2, en fazla 30 karaterden oluşmalıdır.',
 		'nomodify' => 'SüperAdmin Ünvanı Değiştirilemez.',
 		'required' => 'İsim kısmı boş bırakılamaz.',
-
+	),
        'access_level' => array(
                         'numeric' => 'Erişim seviyesi kısmı 0 ila 100 arası bir numara olmalıdır.',
                         'required' => 'Erişim seviyesi kısmı 0 ila 100 arası bir numara olmalıdır.',
