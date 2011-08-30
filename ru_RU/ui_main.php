@@ -51,7 +51,7 @@
 	'archived' => 'Архивный',
 	'at' => 'в',
 	'author' => 'Автор',
-	'auto_checkin' => 'Автоматическая регистрация'
+	'auto_checkin' => 'Автоматическая регистрация',
 	'avg_reports_per_day' => 'Среднее точек/день',
 	'awaiting_approval' => 'Ожидание подтверждения',
 	'awaiting_verification' => 'Ожидание проверки',
