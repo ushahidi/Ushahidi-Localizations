@@ -135,7 +135,7 @@
 		'checkins' => 'Проверка',
 		'copyright_statement' => 'Авторское право',
 		'default_category_colors' => 'Цвет по умолчанию для всех категорий',
-		'display_contact_page' => 'Показывать страницу контактов',
+		'display_contact_page' => 'Показывать ссылку ОБРАТНАЯ СВЯЗЬ',
 		'display_howtohelp_page' => 'Показывать страницу "Как помочь"',
 		'email_alerts' => 'E-mail для оповещений',
 		'email_notice' => '<span> Чтобы получить отчёты по почте, пожалуйста настройте параметры вашего e-mail.</span>',
