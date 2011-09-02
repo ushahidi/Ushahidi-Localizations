@@ -258,7 +258,7 @@
 	'manage_your_account' => 'Настройка своего аккаунта',
 	'message' => 'Сообщение',
 	'messages' => 'Сообщения',
-	'message_details' => 'Подробности сообщения',
+	'message_details' => 'Сообщения',
 	'message_non_numeric_source'=>"Сообщение от нечислового источника:",	
 	'mobile' => 'Мобильный',
 	'modify' => 'Изменить',
