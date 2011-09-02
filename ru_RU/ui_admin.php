@@ -165,7 +165,7 @@
 	'messages_twitter' => 'Твиты',
 	'message_sent' => 'Ваше сообщение отправлено!',
 	'mhi' => 'MHI',
-	'minutes' => 'Минуты',
+	'minutes' => 'минут',
 	'missing_parameter' => 'Отсутствует параметр',
 	'moderator' => 'Модератор',
 	'modified' => 'Изменено',
