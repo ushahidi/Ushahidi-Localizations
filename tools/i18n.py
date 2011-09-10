@@ -81,7 +81,6 @@ class Ushahidi18nParser:
         if os.path.exists(pfile): os.remove(pfile)
         f = open(pfile, 'w')
         for msgid in list:
-            f.write('#Key:\n')
             msg = msgid.replace('"','\\"')
             f.write('msgid "%s"\n'%msg)
             f.write('msgstr ""\n\n')
