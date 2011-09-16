@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'latitude' => array(
-		'between' => 'The latitude field does not appear to contain a valid latitude?',
-		'required' => 'The latitude field is required. Please click on the map to pinpoint a location.',
+		'between' => '緯度欄位資料顯示為無效',
+		'required' => '緯度欄位為必填，請在地圖上點選一個位置.',
 	),
 	'level_id' => array(
 		'numeric' => 'The Reporter Level field does not appear to contain a valid Level?',
@@ -13,8 +13,8 @@
 		'required' => '地點名稱欄位為必填.',
 	),
 	'longitude' => array(
-		'between' => 'The longitude field does not appear to contain a valid longitude?',
-		'required' => 'The longitude field is required. Please click on the map to pinpoint a location.',
+		'between' => '經度欄位資料顯示為無效',
+		'required' => '經度欄位為必填，請在地圖上點選一個位置.',
 	),
 	'reporter_id' => array(
 		'numeric' => 'Invalid Reporter',
