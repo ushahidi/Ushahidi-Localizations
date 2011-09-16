@@ -1,23 +1,23 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Please enter a valid security code',
-		'required' => 'Please enter the security code',
+		'default' => '請輸入有效的安全碼',
+		'required' => '請輸入安全碼',
 	),
 	'email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address?',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => '電子信箱欄位顯示未填入有效的資料',
+		'length' => '電子信箱欄位需填入4~46個字元',
+		'required' => '如果已勾選，則電子信箱為必填',
 	),
 	'error' => array(
-		'required' => 'The error field is required.',
+		'required' => '錯誤欄位為必填',
 	),
 	'subject' => array(
-		'length' => 'The subject field must be at least 3 characters long.',
-		'required' => 'The subject field is required.',
+		'length' => '主題欄位需至少三個字元',
+		'required' => '主題欄位為必填',
 	),
 	'yourname' => array(
-		'length' => 'The name field must be at least 3 characters long.',
-		'required' => 'The name field is required.',
+		'length' => '姓名欄位至少需三個字元',
+		'required' => '姓名欄位為必填.',
 	));
 ?>
