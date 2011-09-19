@@ -378,7 +378,7 @@
 	'report_option_1' => 'メッセージを送る',
 	'report_option_2' => 'メッセージを送る',
 	'report_option_3' => 'ハッシュタグをつけてツイートする',
-	'report_option_4' => 'このフォームを入力する事で',
+	'report_option_4' => 'こちらのフォームで入力する方法',
 	'report_saved' => 'レポートは保存されました',
 	'report_title' => 'レポートタイトル',
 	'request_information' => '更なる情報を求める',
