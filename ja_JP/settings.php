@@ -61,7 +61,7 @@
 	),
 	'default_map_view' => 'ディフォルトの地図の見え方',
 	'default_zoom_level' => 'ディフォルトのズームのレベル',
-	'download_city_list' => 'ジオ名からの市町村の収集',
+	'download_city_list' => 'GeoNamesからの市町村の収集',
 	'email_host' => array(
 		'length' => 'メールサーバーのポート入力が長過ぎます。',
 		'numeric' => 'メールサーバーのポートには数字のみ入力可能です。',
@@ -105,22 +105,22 @@
 		'name' => '地図提供者',
 	),
 	'map_settings' => '地図設定',
-	'multiple_countries' => 'このUshahidiは、複数の国をまたがっていますか
+	'multiple_countries' => 'このUshahidiは、複数の国にまたがっていますか
 ',
-	'select_default_location' => 'ディフォルトの国を選択してください。',
+	'select_default_location' => 'デフォルトの国を選択してください。',
 	'set_location' => '地図をクリック＆ドラッグして、正しい位置を選択してください。
 ',
 	'site' => array(
-		'allow_clustering' => '地図のレポートをひとまとめにする',
-		'allow_comments' => 'レポートにコメントを投稿する事を許可する',
+		'allow_clustering' => '地図上のレポートをひとまとめにする',
+		'allow_comments' => 'レポートへのコメント投稿を許可',
 		'allow_feed' => 'ウェブサイトのRSSニュースフィードを含める',
-		'allow_reports' => 'レポートを投稿する事を許可する',
+		'allow_reports' => 'レポート投稿を許可',
 		'api_akismet' => 'Akismetキー',
 		'cache_pages' => 'キャッシュページ',
 		'cache_pages_lifetime' => 'キャッシュページの有効期間',
 		'checkins' => 'チェックイン',
-		'copyright_statement' => 'サイトのコピーライト状況',
-		'default_category_colors' => 'すべてのカテゴリーのディフォルトの色',
+		'copyright_statement' => 'サイトの利用ライセンス',
+		'default_category_colors' => 'すべてのカテゴリーのデフォルトの色',
 		'display_contact_page' => 'コンタクトページを表示する',
 		'display_howtohelp_page' => '"手助けする"ページを表示する',
 		'email_alerts' => 'メールアドレスに通告する',
@@ -141,7 +141,7 @@
 		'tagline' => 'サイトのタグライン',
 		'timezone' => 'タイムゾーン',
 		'title' => 'サイト設定',
-		'twitter_configuration' => 'ツイッター検索期間',
+		'twitter_configuration' => 'ツイッター収集タグ',
 		'twitter_hashtags' => 'ハッシュタグ - カンマ区切りにしてください',
 	),
 	'site_email' => array(
