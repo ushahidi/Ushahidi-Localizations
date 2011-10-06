@@ -56,7 +56,7 @@
 	'count' => 'Итог',
 	'country_not_found' => 'Страна не найдена',
 	'created_edited' => 'создана/отредактирована',
-	'create_report' => 'Создать точку',
+	'create_report' => 'Создать Точку',
 	'critical_upgrade' => 'Критически важное обновление',
 	'csv' => 'CSV',
 	'currently_active' => 'Сейчас активно',
