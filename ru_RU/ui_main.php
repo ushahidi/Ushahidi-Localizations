@@ -170,7 +170,7 @@
 	'form_title' => 'Название формы',
 	'from' => 'От',
 	'full_name' => 'Полное имя',
-	'geolocation_available' => 'GeoLocation доступен',
+	'geolocation_available' => 'GeoLocation',
 	'geometry_color' => 'Цвет',
 	'geometry_comments' => 'Комментарии',
 	'geometry_label' => 'Метка',
