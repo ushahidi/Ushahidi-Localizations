@@ -21,8 +21,7 @@
 	'are_you_sure_you_want_to' => '本当に処理をしますか',
 	'are_you_sure_you_want_to_delete_this_item' => 'このアイテムを本当に削除しますか',
 	'are_you_sure_you_want_to_delete_this_photo' => 'この写真を本当に削除しますか',
-	'are_you_sure_you_want_to_switch_forms' => '本当にフォームを変更しますか
-',
+	'are_you_sure_you_want_to_switch_forms' => '本当にフォームを変更しますか',
 	'author' => '投稿者',
 	'author_email' => '投稿者メールアドレス',
 	'back' => '戻る',
@@ -117,8 +116,7 @@
 	'match_no_documents' => 'どのドキュメントにもマッチしませんでした。',
 	'message' => 'メッセージ',
 	'messages' => 'メッセージ',
-	'messages_laconica' => 'Laconicaに投稿
-',
+	'messages_laconica' => 'Laconicaに投稿',
 	'messages_twitter' => 'ツイッターに投稿',
 	'message_sent' => 'メッセージは投稿されました。',
 	'mhi' => 'MHI',
