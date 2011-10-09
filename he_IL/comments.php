@@ -12,6 +12,7 @@
 		'required' => 'שדה ההערה הוא שדה נדרש.',
 	),
 	'comment_email' => array(
+		'email' => 'The Email field does not appear to contain a valid email address?',	
 		'length' => 'על הדואר האלקטרוני להיות באורך 4 עד 64 תווים.',
 		'required' => 'שדה הדואר האלקטרוני הוא שדה נדרש אם תיבת הסימון מסומנת.',
 	));

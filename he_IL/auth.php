@@ -14,6 +14,7 @@
 	'password' => array(
 		'alpha_numeric' => 'על הסיסמה להכיל ספרות ואותיות בלבד.',
 		'length' => 'הסיסמה חייבת להכיל לפחות 5 תווים ולא יותר מ-16 תווים.',
+		'login error' => 'Please check that you entered the correct password.',
 		'matches' => 'אנא הקלד את אותה הסיסמה לכל אחד משני שדות הסיסמה.',
 		'required' => 'חובה להזין סיסמה.',
 	),
@@ -36,6 +37,7 @@
 		'alpha' => 'על שם המשתמש להכיל אותיות בלבד.',
 		'exists' => 'שם המשתמש שבחרת כבר קיים במערכת.',
 		'length' => 'שם המשתמש חייב להכיל לפחות 2 תווים ולא יותר מ-16 תווים.',
+		'login error' => 'Please check that you entered the correct username.',
 		'required' => 'שם המשתמש הינו שדה חובה.',
 		'superadmin' => 'לא ניתן לשנות את תפקיד מפעיל-על',
 	));
