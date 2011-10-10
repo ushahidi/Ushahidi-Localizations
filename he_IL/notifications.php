@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
-	'admin_footer' => 'This message was sent from your website',
+	'admin_footer' => 'הודעה זו נשלחה מהאתר שלך.',
 	'admin_login_url' => 'Administrator Login',
 	'admin_new_comment' => array(
-		'message' => 'A new comment has been submitted to your website in response to:',
-		'subject' => 'New Comment',
+		'message' => 'תגובה חדשה נשלחה לאתר שלך, בתגובה ל:',
+		'subject' => 'תגובה חדשה',
 	),
 	'admin_new_email' => array(
-		'message' => 'A new email message has been submitted to your website.',
-		'subject' => 'New Email Message',
+		'message' => 'הודעת דואר חדשה נשלחה לאתר שלך.',
+		'subject' => 'הודעת דואר חדשה',
 	),
 	'admin_new_report' => array(
 		'message' => 'A new report has been submitted to your website.',

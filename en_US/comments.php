@@ -1,19 +1,19 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Please enter a valid security code',
-		'required' => 'Please enter the security code',
+		'default' => 'אנא הזן קוד אבטחה תקין.',
+		'required' => 'הזן בבקשה את קוד האבטחה המוצג.',
 	),
 	'comment_author' => array(
-		'length' => 'The name field must be at least 3 characters long.',
-		'required' => 'The name field is required.',
+		'length' => 'שדה השם חייב להיות באורך של 3 תווים לפחות..',
+		'required' => 'לא הזנת שם.',
 	),
 	'comment_description' => array(
-		'required' => 'The comments field is required.',
+		'required' => 'לא הזנת תגובה.',
 	),
 	'comment_email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address?',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => 'כתובת הדוא"ל שהזנת אינה תקינה.',
+		'length' => 'כתובת הדוא"ל צריכה להיות באורך של 4 עד 64 תווים.',
+		'required' => 'אם תיבת הבחירה מסומנת, עליך להזין כתובת דוא"ל.',
 	));
 ?>
