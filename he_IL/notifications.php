@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
-	'admin_footer' => 'äåãòä æå ğùìçä îäàúø ùìê.',
+	'admin_footer' => '×”×•×“×¢×” ×–×• × ×©×œ×—×” ××”××ª×¨ ×©×œ×š.',
 	'admin_login_url' => 'Administrator Login',
 	'admin_new_comment' => array(
-		'message' => 'úâåáä çãùä ğùìçä ìàúø ùìê, áúâåáä ì:',
-		'subject' => 'úâåáä çãùä',
+		'message' => '×ª×’×•×‘×” ×—×“×©×” × ×©×œ×—×” ×œ××ª×¨ ×©×œ×š, ×‘×ª×’×•×‘×” ×œ:',
+		'subject' => '×ª×’×•×‘×” ×—×“×©×”',
 	),
 	'admin_new_email' => array(
-		'message' => 'äåãòú ãåàø çãùä ğùìçä ìàúø ùìê.',
-		'subject' => 'äåãòú ãåàø çãùä',
+		'message' => '×”×•×“×¢×ª ×“×•××¨ ×—×“×©×” × ×©×œ×—×” ×œ××ª×¨ ×©×œ×š.',
+		'subject' => '×”×•×“×¢×ª ×“×•××¨ ×—×“×©×”',
 	),
 	'admin_new_report' => array(
 		'message' => 'A new report has been submitted to your website.',
