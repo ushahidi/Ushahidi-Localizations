@@ -18,9 +18,11 @@
 	'upgrade_status' => 'מצב השדרוג של אושהידי',
 	'upgrade_text_1' => 'ההוראות בהמשך מפרטות כיצד לשדרג ידנית את ההפצה של אושהידי',
 	'upgrade_text_2' => '<strong>שלב 1:</strong> הורד את הגירסא העדכנית ביותר של אושהידי מ<a href="http://download.ushahidi.com/">http://download.ushahidi.com</a>',
+	'upgrade_text_3' => '<strong>Step 2:</strong> Depending on the operating system running the web server, use your preferred tool/mode (i.e: telnet, ftp, ssh) to login to the webserver and replace the contents of all the folders with the newest from the recent build. <strong>All EXCEPT:</strong>',
 	'upgrade_text_4' => '<strong>שלב 4:</strong> לחץ על הכפתור <strong>"המשך"</strong> לשדרוג הטבלאות הנחוצות.',
 	'upgrade_text_5' => 'לשדרוג אוטומטי יש ללחוץ על הכפתור',
 	'upgrade_title_text_1' => 'בשימוש כעת - אושהידי גירסה',
+	'upgrade_title_text_2' => 'running on',
 	'upgrading' => 'משדרג',
 	);
 ?>
