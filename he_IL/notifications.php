@@ -1,30 +1,30 @@
 <?php
 	$lang = array(
-	'admin_footer' => '×”×•×“×¢×” ×–×• × ×©×œ×—×” ×ž×”××ª×¨ ×©×œ×š.',
+	'admin_footer' => 'äåãòä æå ðùìçä îäàúø ùìê.',
 	'admin_login_url' => 'Administrator Login',
 	'admin_new_comment' => array(
-		'message' => '×ª×’×•×‘×” ×—×“×©×” × ×©×œ×—×” ×œ××ª×¨ ×©×œ×š, ×‘×ª×’×•×‘×” ×œ:',
-		'subject' => '×ª×’×•×‘×” ×—×“×©×”',
+		'message' => 'úâåáä çãùä ðùìçä ìàúø ùìê, áúâåáä ì:',
+		'subject' => 'úâåáä çãùä',
 	),
 	'admin_new_email' => array(
-		'message' => '×”×•×“×¢×ª ×“×•××¨ ×—×“×©×” × ×©×œ×—×” ×œ××ª×¨ ×©×œ×š.',
-		'subject' => '×”×•×“×¢×ª ×“×•××¨ ×—×“×©×”',
+		'message' => 'äåãòú ãåàø çãùä ðùìçä ìàúø ùìê.',
+		'subject' => 'äåãòú ãåàø çãùä',
 	),
 	'admin_new_report' => array(
-		'message' => 'A new report has been submitted to your website.',
-		'subject' => 'New Report',
+		'message' => 'ãéååç çãù ðùìç ìàúø ùìê.',
+		'subject' => 'ãéååç çãù',
 	),
 	'admin_new_sms' => array(
-		'message' => 'A new text message has been submitted to your website.',
-		'subject' => 'New Text Message',
+		'message' => 'äåãòú è÷ñè çãùä ðùìçä ìàúø ùìê.',
+		'subject' => 'äåãòú è÷ñè çãùä',
 	),
 	'member_new_alert' => array(
-		'message' => 'You Have Received a New Alert',
-		'subject' => 'New Alert!'
+		'message' => '÷éáìú äúøàä çãùä',
+		'subject' => 'äúøàä çãùä!'
 	),
 	'member_new_message' => array(
-		'message' => 'You Have Received a Private Message',
-		'subject' => 'New Private Message',
+		'message' => '÷éáìú îñø ôøèé',
+		'subject' => 'îñø ôøèé çãù',
 		'footer' => 'To Reply Please Go To: '
 	));
 ?>

@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'layer_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
+		'length' => 'על שדה הצבע להיות באורך של 6 תווים בדיוק.',
+		'required' => 'יש להזין שדה צבע, בן 6 תווים.',
 	),
 	'layer_file' => array(
 		'type' => 'The file field does not appear to contain a valid file. The only accepted formats are .KMZ, .KML.',

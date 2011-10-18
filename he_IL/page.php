@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
 	'page_title' => array(
-		'required' => 'Please enter a Page Title',
-		'length' => 'Page Title must be at least 3 and no more than 150 characters long.'
+		'required' => 'הזן בבקשה כותרת לדף',
+		'length' => 'על כותרת הדף להיות באורך של בין 3 ל-150 תווים.'
 	),
 	'page_tab' => array(
 		'required' => 'Please enter a Page Tab Name'
 	),
 	'page_description' => array(
-		'required' => 'Please enter a Page Description'
+		'required' => 'הזן בבקשה תיאור לדף'
 	)
 	);
 
