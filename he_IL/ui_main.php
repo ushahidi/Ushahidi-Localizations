@@ -183,7 +183,7 @@
 	'hide' => 'הסתר',
 	'hide_this_message' => 'הסתר הודעה זו',
 	'home' => 'ראשי',
-	'how_to_report' => 'כיצד לדווח',
+	'how_to_report' => 'דרכים לדווח',
 	'https' => 'HTTPS',
 	'id' => 'ID',
 	'image' => 'Image',
