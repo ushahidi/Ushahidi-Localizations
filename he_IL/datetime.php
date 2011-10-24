@@ -31,51 +31,51 @@
 		'full' => 'רביעי',
 	),
 	'january' => array(
-		'abbv' => 'Jan',
-		'full' => 'January',
+		'abbv' => 'ינו',
+		'full' => 'ינואר',
 	),
 	'february' => array(
-		'abbv' => 'Feb',
-		'full' => 'February',
+		'abbv' => 'פבר',
+		'full' => 'פברואר',
 	),
 	'march' => array(
-		'abbv' => 'Mar',
-		'full' => 'March',
+		'abbv' => 'מרץ',
+		'full' => 'מרץ',
 	),
 	'april' => array(
-		'abbv' => 'Apr',
-		'full' => 'April',
+		'abbv' => 'אפר',
+		'full' => 'אפריל',
 	),
 	'may' => array(
-		'abbv' => 'May',
-		'full' => 'May',
+		'abbv' => 'מאי',
+		'full' => 'מאי',
 	),
 	'june' => array(
-		'abbv' => 'Jun',
-		'full' => 'June',
+		'abbv' => 'יונ',
+		'full' => 'יוני',
 	),
 	'july' => array(
-		'abbv' => 'Jul',
-		'full' => 'July',
+		'abbv' => 'יול',
+		'full' => 'יולי',
 	),
 	'august' => array(
-		'abbv' => 'Aug',
-		'full' => 'August',
+		'abbv' => 'אוג',
+		'full' => 'אוגוסט',
 	),
 	'september' => array(
-		'abbv' => 'Sep',
-		'full' => 'September',
+		'abbv' => 'ספט',
+		'full' => 'ספטמבר',
 	),
 	'october' => array(
-		'abbv' => 'Oct',
-		'full' => 'October',
+		'abbv' => 'אוק',
+		'full' => 'אוקטובר',
 	),
 	'november' => array(
-		'abbv' => 'Nov',
-		'full' => 'November',
+		'abbv' => 'נוב',
+		'full' => 'נובמבר',
 	),
 	'december' => array(
-		'abbv' => 'Dec',
-		'full' => 'December',
+		'abbv' => 'דצמ',
+		'full' => 'דצמבר',
 	));
 ?>

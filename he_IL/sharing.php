@@ -1,20 +1,20 @@
 <?php
 	$lang = array(
-	'date' => 'Ingress date',
-	'date_added' => 'Date Added',
-	'last_access' => 'Last Access',
+	'date' => 'Ingress תאריך',
+	'date_added' => 'תאריך הוספה',
+	'last_access' => 'גישה אחרונה',
 	'sharing_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
+		'length' => 'שדה הצבע צריך להיות באורך של 6 תווים בדיוק.',
+		'required' => 'יש להזין שדה צבע בן 6 תווים.',
 	),
 	'sharing_name' => array(
-		'length' => 'The Sharing name does not appear to be valid?',
-		'required' => 'A Sharing name is required.',
+		'length' => 'האם שם השיתוף שהזנת תקין?',
+		'required' => 'חובה להזין שם שיתוף.',
 	),
 	'sharing_url' => array(
-		'exists' => 'The site url already exists',
-		'length' => 'The site url does not appear to be valid?',
-		'required' => 'The site url is required.',
-		'url' => 'The site url field does not appear to contain a valid URL?',
+		'exists' => 'קיימת כבר כתובת אתר כזו',
+		'length' => 'כתובת האתר שהזנת נראית לא תקינה?',
+		'required' => 'יש להזין כתובת אתר (URL).',
+		'url' => 'האם כתובת האתר שהזנת תקינה?',
 	));
 ?>
