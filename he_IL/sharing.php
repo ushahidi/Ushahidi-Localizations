@@ -1,20 +1,20 @@
 <?php
 	$lang = array(
 	'date' => 'Ingress date',
-	'date_added' => 'úàøéê äåñôä',
-	'last_access' => 'âéùä àçøåðä',
+	'date_added' => '×ª××¨×™×š ×”×•×¡×¤×”',
+	'last_access' => '×’×™×©×” ××—×¨×•× ×”',
 	'sharing_color' => array(
-		'length' => 'ùãä äöáò öøéê ìäéåú áàåøê ùì 6 úååéí áãéå÷.',
-		'required' => 'éù ìäæéï ùãä öáò áï 6 úååéí.',
+		'length' => '×©×“×” ×”×¦×‘×¢ ×¦×¨×™×š ×œ×”×™×•×ª ×‘××•×¨×š ×©×œ 6 ×ª×•×•×™× ×‘×“×™×•×§.',
+		'required' => '×™×© ×œ×”×–×™×Ÿ ×©×“×” ×¦×‘×¢ ×‘×Ÿ 6 ×ª×•×•×™×.',
 	),
 	'sharing_name' => array(
 		'length' => 'The Sharing name does not appear to be valid?',
 		'required' => 'A Sharing name is required.',
 	),
 	'sharing_url' => array(
-		'exists' => '÷ééîú ëáø ëúåáú àúø ëæå',
-		'length' => 'ëúåáú äàúø ùäæðú ðøàéú ìà ú÷éðä?',
-		'required' => 'éù ìäæéï ëúåáú àúø (URL).',
+		'exists' => '×§×™×™×ž×ª ×›×‘×¨ ×›×ª×•×‘×ª ××ª×¨ ×›×–×•',
+		'length' => '×›×ª×•×‘×ª ×”××ª×¨ ×©×”×–× ×ª × ×¨××™×ª ×œ× ×ª×§×™× ×”?',
+		'required' => '×™×© ×œ×”×–×™×Ÿ ×›×ª×•×‘×ª ××ª×¨ (URL).',
 		'url' => 'The site url field does not appear to contain a valid URL?',
 	));
 ?>

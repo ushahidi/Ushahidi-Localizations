@@ -2,80 +2,80 @@
 	$lang = array(
 	'am' => 'am',
 	'friday' => array(
-		'abbv' => 'å\'',
-		'full' => 'ùéùé',
+		'abbv' => '×•\'',
+		'full' => '×©×™×©×™',
 	),
 	'monday' => array(
-		'abbv' => 'á\'',
-		'full' => 'ùðé',
+		'abbv' => '×‘\'',
+		'full' => '×©× ×™',
 	),
 	'pm' => 'pm',
 	'saturday' => array(
-		'abbv' => 'ù\'',
-		'full' => 'ùáú',
+		'abbv' => '×©\'',
+		'full' => '×©×‘×ª',
 	),
 	'sunday' => array(
-		'abbv' => 'à\'',
-		'full' => 'øàùåï',
+		'abbv' => '×\'',
+		'full' => '×¨××©×•×Ÿ',
 	),
 	'thursday' => array(
-		'abbv' => 'ä\'',
-		'full' => 'çîéùé',
+		'abbv' => '×”\'',
+		'full' => '×—×ž×™×©×™',
 	),
 	'tuesday' => array(
-		'abbv' => 'â\'',
-		'full' => 'ùìéùé',
+		'abbv' => '×’\'',
+		'full' => '×©×œ×™×©×™',
 	),
 	'wednesday' => array(
-		'abbv' => 'ã\'',
-		'full' => 'øáéòé',
+		'abbv' => '×“\'',
+		'full' => '×¨×‘×™×¢×™',
 	),
 	'january' => array(
-		'abbv' => 'éðå',
-		'full' => 'éðåàø',
+		'abbv' => '×™× ×•',
+		'full' => '×™× ×•××¨',
 	),
 	'february' => array(
-		'abbv' => 'ôáø',
-		'full' => 'ôáøåàø',
+		'abbv' => '×¤×‘×¨',
+		'full' => '×¤×‘×¨×•××¨',
 	),
 	'march' => array(
-		'abbv' => 'îøõ',
-		'full' => 'îøõ',
+		'abbv' => '×ž×¨×¥',
+		'full' => '×ž×¨×¥',
 	),
 	'april' => array(
-		'abbv' => 'àôø',
-		'full' => 'àôøéì',
+		'abbv' => '××¤×¨',
+		'full' => '××¤×¨×™×œ',
 	),
 	'may' => array(
-		'abbv' => 'îàé',
-		'full' => 'îàé',
+		'abbv' => '×ž××™',
+		'full' => '×ž××™',
 	),
 	'june' => array(
-		'abbv' => 'éåð',
-		'full' => 'éåðé',
+		'abbv' => '×™×•× ',
+		'full' => '×™×•× ×™',
 	),
 	'july' => array(
-		'abbv' => 'éåì',
-		'full' => 'éåìé',
+		'abbv' => '×™×•×œ',
+		'full' => '×™×•×œ×™',
 	),
 	'august' => array(
-		'abbv' => 'àåâ',
-		'full' => 'àåâåñè',
+		'abbv' => '××•×’',
+		'full' => '××•×’×•×¡×˜',
 	),
 	'september' => array(
-		'abbv' => 'ñôè',
-		'full' => 'ñôèîáø',
+		'abbv' => '×¡×¤×˜',
+		'full' => '×¡×¤×˜×ž×‘×¨',
 	),
 	'october' => array(
-		'abbv' => 'àå÷',
-		'full' => 'àå÷èåáø',
+		'abbv' => '××•×§',
+		'full' => '××•×§×˜×•×‘×¨',
 	),
 	'november' => array(
-		'abbv' => 'ðåá',
-		'full' => 'ðåáîáø',
+		'abbv' => '× ×•×‘',
+		'full' => '× ×•×‘×ž×‘×¨',
 	),
 	'december' => array(
-		'abbv' => 'ãöî',
-		'full' => 'ãöîáø',
+		'abbv' => '×“×¦×ž',
+		'full' => '×“×¦×ž×‘×¨',
 	));
 ?>

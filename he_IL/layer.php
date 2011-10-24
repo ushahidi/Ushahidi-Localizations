@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
 	'layer_color' => array(
-		'length' => 'òì ùãä äöáò ìäéåú áàåøê ùì 6 úååéí áãéå÷.',
-		'required' => 'éù ìäæéï ùãä öáò, áï 6 úååéí.',
+		'length' => '×¢×œ ×©×“×” ×”×¦×‘×¢ ×œ×”×™×•×ª ×‘××•×¨×š ×©×œ 6 ×ª×•×•×™× ×‘×“×™×•×§.',
+		'required' => '×™×© ×œ×”×–×™×Ÿ ×©×“×” ×¦×‘×¢, ×‘×Ÿ 6 ×ª×•×•×™×.',
 	),
 	'layer_file' => array(
 		'type' => 'The file field does not appear to contain a valid file. The only accepted formats are .KMZ, .KML.',

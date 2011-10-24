@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
 	'page_title' => array(
-		'required' => 'δζο ααχωδ λεϊψϊ μγσ',
-		'length' => 'ςμ λεϊψϊ δγσ μδιεϊ αΰεψκ ωμ αιο 3 μ-150 ϊεειν.'
+		'required' => 'Χ”Χ–Χ Χ‘Χ‘Χ§Χ©Χ” Χ›Χ•ΧªΧ¨Χª ΧΧ“Χ£',
+		'length' => 'ΧΆΧ Χ›Χ•ΧªΧ¨Χª Χ”Χ“Χ£ ΧΧ”Χ™Χ•Χª Χ‘ΧΧ•Χ¨Χ Χ©Χ Χ‘Χ™Χ 3 Χ-150 ΧªΧ•Χ•Χ™Χ.'
 	),
 	'page_tab' => array(
 		'required' => 'Please enter a Page Tab Name'
 	),
 	'page_description' => array(
-		'required' => 'δζο ααχωδ ϊιΰεψ μγσ'
+		'required' => 'Χ”Χ–Χ Χ‘Χ‘Χ§Χ©Χ” ΧªΧ™ΧΧ•Χ¨ ΧΧ“Χ£'
 	)
 	);
 
