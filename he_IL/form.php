@@ -1,41 +1,41 @@
 <?php
 	$lang = array(
 	'field_default' => array(
-		'default' => 'The default value you have provided for the field is invalid.',
-		'length' => 'The Field Name must be at least 3 and no more than 200 characters long.'
+		'default' => 'ערך ברירת המחדל שסיפקת עבור שדה זה אינו תקין.',
+		'length' => 'על שדה השם להיות באורך של בין3 ל- 200 תווים בדיוק.'
 	),
 	'field_height' => array(
-		'between' => 'Please enter a value 0 to 50 for the Field Height',
+		'between' => 'אנא הכנס ערך בין 0 ל- 50 עבור גובה השדה',
 	),
 	'field_isdate' => array(
-		'between' => 'You have entered an invalid value for Date Field',
-		'required' => 'Please select Yes or No for the Date Field',
+		'between' => 'הזנת ערך שגוי עבור שדה התאריך',
+		'required' => 'אנא בחר כן או לא עבור שדה התאריך',
 	),
 	'field_name' => array(
-		'length' => 'The Field Name must be at least 3 and no more than 100 characters long.',
-		'required' => 'Please enter Field Name.',
+		'length' => 'שם השדה צריך להיות באורך של 3 עד 100 תווים בדיוק.',
+		'required' => 'אנא הכנס שם שדה.',
 	),
 	'field_required' => array(
-		'between' => 'You have entered an invalid value for Field Required',
-		'required' => 'Please select Yes or No for Field Required',
+		'between' => 'הזנת ערך שגוי עבור השדה הדרוש',
+		'required' => 'אנא בחר כן או לא עבור השדה הדרוש',
 	),
 	'field_type' => array(
-		'numeric' => 'Please select a valid Field Type.',
-		'required' => 'Please select a Field Type.',
+		'numeric' => 'אנא בחר סוג שדה באופן תקין.',
+		'required' => 'אנא בחר סוג שדה.',
 	),
 	'field_width' => array(
-		'between' => 'Please enter a value 0 to 300 for the Field Width',
+		'between' => 'אנא הזן ערך בין 0 ל - 300 תווים בדיוק עבור רוחב השדה',
 	),
 	'form_description' => array(
-		'required' => 'Please enter form\'s Description.',
+		'required' => 'אנא כתוב תיאור לטופס.',
 	),
 	'form_id' => array(
-		'default' => 'The default form cannot be deleted.',
-		'numeric' => 'Please select which form to add this field to.',
-		'required' => 'Please select which form to add this field to.',
+		'default' => 'לא ניתן למחוק את טופס ברירת המחדל.',
+		'numeric' => 'אנא בחר איזה טופס להוסיף לשדה.',
+		'required' => 'אנא בחר איזה טופס להוסיף לשדה.',
 	),
 	'form_title' => array(
-		'length' => 'The form name field must be at least 3 and no more than 100 characters long.',
-		'required' => 'Please enter the name of the form.',
+		'length' => 'על שדה השם של הטופס להיות באורך של בין 3 ל- 100 תווים בדיוק.',
+		'required' => 'אנא מלא שם עבור הטופס.',
 	));
 ?>
