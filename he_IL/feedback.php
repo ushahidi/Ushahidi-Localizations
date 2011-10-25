@@ -1,24 +1,24 @@
 <?php
 	$lang = array(
-	'feedback_actions' => 'Actions',
+	'feedback_actions' => 'פעולות',
 	'feedback_captcha' => array(
-		'required' => 'Please enter the Security Code.',
-		'valid' => 'Please enter a valid security code',
+		'required' => 'אנא מלא את קוד הבטחון.',
+		'valid' => 'אנא מלא קוד בטחון תקין',
 	),
-	'feedback_date' => 'Date',
-	'feedback_details' => 'Feedback Details',
+	'feedback_date' => 'תאריך',
+	'feedback_details' => 'פרטי משוב',
 	'feedback_message' => array(
-		'required' => 'Please enter some information for the reply.',
+		'required' => 'אנא מלא מספר פרטים לצורך מענה.',
 	),
 	'feedback_title' => array(
-		'length' => 'The title field must be at least 3 and no more 100 characters long.',
-		'required' => 'A title is required.',
+		'length' => 'על שדה הכותרת לכלוול בין 3 ל- 100 תווים בדיוק.',
+		'required' => 'הכרחי שתכתוב כותרת.',
 	),
 	'person_email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'required' => 'Please enter your email address',
+		'email' => 'האם הדואר האלקטרוני שמילאת תקין?',
+		'required' => 'אנא מלא את כתובת הדואר האלקטרוני שלך',
 	),
 	'person_name' => array(
-		'required' => 'Please enter your full name.',
+		'required' => 'אנא מלא את שמך המלא.',
 	));
 ?>

@@ -1,16 +1,15 @@
 <?php
 	$lang = array(
-	'date' => 'DATE',
+	'date' => 'תאריך',
 	'feed_name' => array(
-		'length' => 'The feed name field must be at least 3 and no more 
-			70 characters long.',
-		'required' => 'Please enter the name of the feed.',
+		'length' => 'על שם הרסס (RSS) להיות בין 3 ל-70 תווים בדיוק.',
+		'required' => 'אנא מלא את שם הפיד (RSS).',
 	),
 	'feed_url' => array(
-		'required' => 'Please enter feed\'s URL.',
-		'url' => 'Please enter a valid URL. Eg. http://www.ushahidi.com',
+		'required' => 'אנא הזן את כתובת (ה-URL) של הפיד (RSS)',
+		'url' => 'אנא הזן כתובת תקנית ומלאה, לדוגמא: http://www.ushahidi.com',
 	),
-	'source' => 'SOURCE',
-	'title' => 'Title',
+	'source' => 'מקור הפיד',
+	'title' => 'כותרת',
 	);
 ?>
