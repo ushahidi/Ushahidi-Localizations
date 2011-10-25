@@ -2,7 +2,7 @@
 	$lang = array(
 	'comments_form_error' => 'שגיאה!',
 	'custom_field' => array(
-		'values' => 'Please enter a valid value for one of your custom form items',
+		'values' => 'אנא הכנס ערך תקין עבור אחד מפרטי הטופס המותאמים אישית',
 	),
 	'data_include' => array(
 		'between' => 'Please select a valid item to include in the download',
