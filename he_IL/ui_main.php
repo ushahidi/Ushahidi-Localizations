@@ -28,7 +28,7 @@
 	'alerts_get' => 'קבל התראות',
 	'alerts_mobile_phone' => 'טלפון נייד:',
 	'alerts_place_spot' => 'לחילופין, ניתן לבחור מיקום במפה ולקבל התראות על דיווחים שהוגשו בטווח 20 קילומטרים.',
-	'alerts_place_spot2' => 'אם אין מיקומך אינו מופיע, ניתן לסמן את המיקום הנכון על גבי המפה.',
+	'alerts_place_spot2' => 'אם מיקומך אינו מופיע, ניתן לסמן את המיקום הנכון על גבי המפה.',
 	'alerts_rss' => 'RSS Feeds (copy the url below)',
 	'alerts_select_city' => 'בחירת עיר',
 	'alerts_step1_select_city' => '<strong>שלב 1:</strong> בחירת עיר או אזור: ',
