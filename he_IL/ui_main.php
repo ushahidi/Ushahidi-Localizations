@@ -70,7 +70,7 @@
 	'choose' => 'בחירת ',
 	'choose_data_points' => 'בחר נקודות מידע להורדה',
 	'choose_field_type' => 'בחירת סוג שדה',
-	'cleanurl' => 'כתובות אתר (URL) ידידותיות',
+	'cleanurl' => 'קישורים נקיים',
 	'clear' => 'נקה',
 	'clear_map' => 'איפוס מפה',
 	'close' => 'סגירה',

@@ -217,7 +217,7 @@
 	'private_sent' => 'הודעה פרטית נשלחה',
 	'private_subject' => 'נושא',
 	'private_to' => 'אל',
-	'public_listing' => 'רשימה פומבית',
+	'public_listing' => 'רישום פומבי',
 	'qualifiers' => 'וודאנים (Qualifiers)',
 	'read' => 'קרא',
 	'relevance' => 'רלוונטיות',
