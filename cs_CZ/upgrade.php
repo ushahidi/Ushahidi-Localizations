@@ -1,5 +1,8 @@
 <?php
-	$lang = array(
+  $lang = array (
+	'upgrade' => array(
+	  'between' => 'Invalid input data. It can either be 0 for No and 1 for Yes.',
+	),
 	'upgrade_automatic' => 'Automatická aktualizace',
 	'upgrade_available' => 'Dostupné aktualizace',
 	'upgrade_continue_btn_text' => 'Pokračovat',
@@ -21,5 +24,4 @@
 	'upgrade_title_text_1' => 'Používáte Ushahidi verze v',
 	'upgrade_title_text_2' => 'běžící na',
 	'upgrading' => 'Aktualizuji',
-	);
-?>
+);
