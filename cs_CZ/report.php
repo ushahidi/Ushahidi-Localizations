@@ -33,7 +33,7 @@
 		'required' => 'The date field is required.',
 	),
 	'incident_description' => array(
-		'required' => 'Chybí popis kauzy.',
+		'required' => 'Chybí popis události.',
 	),
 	'incident_hour' => array(
 		'between' => 'The hour field does not appear to contain a valid hour?',
@@ -48,7 +48,7 @@
 		'required' => 'The minute field is required.',
 	),
 	'incident_news' => array(
-		'url' => 'Odkaz není ve správném formátu - např. http://www.praguewatch.cz',
+		'url' => 'Odkaz není ve správném formátu?',
 	),
 	'incident_photo' => array(
 		'size' => 'Prosím, zkontrolujte, že soubory s fotografiemi nemají více než 2MB.',
@@ -61,14 +61,14 @@
 	),
 	'incident_title' => array(
 		'length' => 'Název má mít minimálně 3 a maximálně 100 znaků.',
-		'required' => 'Chybí název kauzy.',
+		'required' => 'Chybí název události.',
 	),
 	'incident_verified' => array(
 		'between' => 'Please enter a valid value for Verify This Report',
 		'required' => 'Please enter a valid value for Verify This Report',
 	),
 	'incident_video' => array(
-		'url' => 'Odkaz není ve správném formátu - např. http://www.praguewatch.cz',
+		'url' => 'Odkaz není ve správném formátu?',
 	),
 	'latitude' => array(
 		'between' => 'Je zempisná šířka ve správném formátu?',
