@@ -83,8 +83,8 @@
 	'select_default_location' => 'Por favor escoja el país predeterminado',
 	'set_location' => 'Seleccione la ubicación exacta en el mapa',
 	'site' => array(
-		'allow_clustering' => 'Agrupar los eventos en el mapa',
-		'allow_comments' => 'Cualquiera puede agregar información a los eventos',
+		'allow_clustering' => 'Agrupar los reportes en el mapa',
+		'allow_comments' => 'Cualquiera puede agregar información a los reportes',
 		'allow_feed' => 'Incluir noticias?',
 		'allow_reports' => 'Permitir a los usuarios a enviar reportes',
 		'api_akismet' => 'Llave API de Akismet',

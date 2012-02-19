@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+  $lang = array (
 	'approved' => 'Schválené',
 	'categories' => 'Kategorie',
 	'category_impact' => 'Vliv kategorie',
@@ -15,12 +15,12 @@
 	'legend' => 'Legenda',
 	'pageviews' => 'Počet shlédnutých stránek',
 	'pageviews_description' => 'Celkový počet shlédnutých stránek',
+	'report_punchcard' => 'Přehled zpráv (punchcard)',
+	'report_stats' => 'Statistika zpráv',
 	'reports' => 'Zprávy',
 	'reports_categories' => 'Kategorie zpráv',
 	'reports_statistics' => 'Statistiky zpráv',
 	'reports_status' => 'Status zpráv',
-	'report_punchcard' => 'Přehled zpráv (punchcard)',
-	'report_stats' => 'Statistika zpráv',
 	'stats_not_setup' => 'Statistika není nastavena',
 	'time_range_1' => '1 měsíc',
 	'time_range_2' => '3 měsíce',
@@ -34,5 +34,4 @@
 	'visitor_summary' => 'Shrnutí návštěv',
 	'visits' => 'Počet návštěv',
 	'visits_description' => 'Návštěva se chápe jako unikátní návštěva na webu po uplynutí 30 minut po posledním prohlížení webu tímto návštěvníkem.',
-	);
-?>
+);

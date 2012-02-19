@@ -17,6 +17,7 @@
 	'pageviews_description' => 'El número total de páginas que los visitantes han mirado en este sitio',
 	'reports' => 'Reportes',
 	'reports_categories' => 'Categorías de Reportes',
+	'report_punchcard' => 'Incidencia Hora/Día',
 	'reports_statistics' => 'Estadísticas de Reportes',
 	'reports_status' => 'Estado de los Reportes',
 	'report_stats' => 'Estadísticas de Reportes',
