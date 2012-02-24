@@ -39,7 +39,7 @@
 	),
 	'cleanurl' => array(
 		'clean_url_disabled' => 'עושה רושם שהשרת שלך איננו מוגדר באופן שמאפשר לו להגיש קישורים נקיים.  יהיה עליך להגדיר את השרת שלך על מנת לאפשר אופציה זו.  עקוב אחר <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">ההוראות בקישור המצורף </a>על מנת לתקן את הבעיה.',
-		'clean_url_enabled' => 'האופציה הזו מפעילה קישורים "נקיים" בהושאידי. כלומר ללא "index.php" בכתובת האתר.',
+		'clean_url_enabled' => 'האופציה הזו מפעילה קישורים "נקיים" באושהידי. כלומר ללא "index.php" בכתובת האתר.',
 		'enable_clean_url' => 'אפשר קישורים נקיים',
 		'title' => 'קישורים נקיים',
 	),
@@ -96,8 +96,8 @@
 	),
 	'https' => array(
 	   'enable_https' => 'הפעל HTTPS',
-	   'https_disabled' => 'האופציה הזו מאפשרת לגשת להושאידי באופן לא מאובטח; כלומר <strong>ללא</strong> "https://" בקידומת לכתובת האתר',
-	   'https_enabled' => 'האופציה הזו מאפשרת לגשת להושאידי באופן מאובטח; כלומר עם <strong>"https://"</strong> בקידומת לכתובת האתר',
+	   'https_disabled' => 'האופציה הזו מאפשרת לגשת לאושהידי באופן לא מאובטח; כלומר <strong>ללא</strong> "https://" בקידומת לכתובת האתר',
+	   'https_enabled' => 'האופציה הזו מאפשרת לגשת לאושהידי באופן מאובטח; כלומר עם <strong>"https://"</strong> בקידומת לכתובת האתר',
 	   'title' => 'HTTPS'
 	),
 	'items_per_page' => array(
@@ -120,7 +120,7 @@
 		'name' => 'ספק המפות',
 	),
 	'map_settings' => 'הגדרות המפה',
-	'multiple_countries' => 'האם התקנת ההושאידי מתייחסת למספר ארצות',
+	'multiple_countries' => 'האם התקנת האושהידי מתייחסת למספר ארצות',
 	'select_default_location' => 'בחר ארץ ברירת מחדל',
 	'set_location' => 'הקלק וגרור את המפה כדי לבחור את מיקומך המדוייק',
 	'site' => array(
@@ -154,7 +154,7 @@
 		'name' => 'שם האתר',
 		'private_deployment' => 'פריסת אתר פרטית',
 		'submit_report_message' => 'הודעת שליחת דיווח',
-		'share_site_stats' => 'הפעל סטטיסטיקות (מאוכסנות בשרת של הושאידי)',
+		'share_site_stats' => 'הפעל סטטיסטיקות (מאוכסנות בשרת של אושהידי)',
 		'tagline' => 'כותרת משנה לאתר',
 		'timezone' => 'איזור זמן',
 		'title' => 'הגדרות האתר',
@@ -183,10 +183,10 @@
 		'clickatell_username' => 'שם המשתמש שלך ב Clickatell',
 		'flsms_description' => 'FrontlineSMS היא תוכנת קוד פתוח אשר הופכת מחשב נייד וטלפון נייד לרכזת תקשורת. התוכנה מאפשרת למשתמשים לשלוח ולקבל הודעות טקסט בין מספר גדול של אנשים דרך טלפונים ניידים. לחץ על הקופסא האפורה בשביל לבקש הורדה מ FrontlineSMS.com',
 		'flsms_download' => 'הורד, והתקן על מחשבך, את Frontline SMS',
-		'flsms_instructions' => 'ניתן לסנכרן הודעות אשר מתקבלות ברכזת FrontlineSMS עם הושאידי. הוראות מפורטות על כיצד לסנכרן מופיעות <strong><a href="http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi" target="_blank">כאן</a></strong>. תידרש למפתח ולקישור למטה על מנת להגדיר את הסינכרון עם FrontlineSMS',
-		'flsms_key' => 'מפתח (key) הסנכרון שלך עם הושאידי',
+		'flsms_instructions' => 'ניתן לסנכרן הודעות אשר מתקבלות ברכזת FrontlineSMS עם אושהידי. הוראות מפורטות על כיצד לסנכרן מופיעות <strong><a href="http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi" target="_blank">כאן</a></strong>. תידרש למפתח ולקישור למטה על מנת להגדיר את הסינכרון עם FrontlineSMS',
+		'flsms_key' => 'מפתח (key) הסנכרון שלך עם אושהידי',
 		'flsms_link' => 'FrontlineSMS HTTP Post LINK',
-		'flsms_synchronize' => 'סנכרן עם הושאידי',
+		'flsms_synchronize' => 'סנכרן עם אושהידי',
 		'flsms_text_1' => 'הכנס מספר(י) טלפון אשר מחוברים עם Frontline SMS בשדה(ות) למטה',
 		'flsms_text_2' => 'הכנס את המספר ללא אף סימני פלוסים או מקפים (+/-)',
 		'option_1' => 'אופציה 1: השתמש ב Frontline SMS',
