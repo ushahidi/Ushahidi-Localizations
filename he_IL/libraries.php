@@ -13,10 +13,10 @@
 	'invalid_api_library' => 'ספריית ה- API %s איננה תקפה. כל ספריות ה- API צריכות להיות תת מחלקות (subclasses) של %s',
 	'upgrade_directory_not_deleted' => 'לא הצלחתי למחוק את התיקייה <code>%s</coded>',
 	'upgrade_extracting_error' => 'שגיאה התרחשה בזמן החילוץ מכיווץ של: <code>%s</code>',
-	'upgrade_failed' => 'ההורדה של הגירסה הכי עדכנית של הושאידי כשלה. HTTP status code',
+	'upgrade_failed' => 'ההורדה של הגירסה הכי עדכנית של אושהידי כשלה. HTTP status code',
 	'upgrade_file_not_copied' => 'לא הצלחתי להעתיק את הקובץ <code>%s</coded>',
 	'upgrade_file_not_deleted' => 'לא הצלחתי למחוק את הקובץ <code>%s</coded>',
-	'upgrade_title' => 'סקריפט עידכון להושאידי',
-	'upgrade_zip_error' => 'קובץ הזיפ של הושאידי, <code>%s</code>, חסום לכתיבה',
+	'upgrade_title' => 'סקריפט עידכון לאושהידי',
+	'upgrade_zip_error' => 'קובץ הזיפ של אושהידי, <code>%s</code>, חסום לכתיבה',
 	);
 ?>
