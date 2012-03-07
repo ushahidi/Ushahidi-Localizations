@@ -1,16 +1,16 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Bitte geben Sie einen gültigen Sicherheitskode ein.',
-		'required' => 'Bitte geben Sie den Sicherheitskode ein.',
+		'default' => 'Bitte geben Sie einen gültigen Sicherheitscode ein.',
+		'required' => 'Bitte geben Sie den Sicherheitscode ein.',
 	),
 	'contact_email' => array(
-		'email' => 'Die eMail-Adresse scheint ungültig zu sein.',
-		'length' => 'Das eMailfeld muss min 4 und max 64 Zeichen lang sein.',
-		'required' => 'Das eMailfeld ist notwendig wenn angekreuzt.',
+		'email' => 'Die E-Mail-Adresse scheint ungültig zu sein.',
+		'length' => 'Die E-Mail-Adresse muss mindestens 4 und maximal 64 Zeichen lang sein.',
+		'required' => 'Bitte geben Sie eine gültige E-Mail-Adresse ein.',
 	),
 	'contact_message' => array(
-		'required' => 'Das Feld NACHRICHT muss ausgefüllt sein.',
+		'required' => 'Das Feld NACHRICHT muss ausgefüllt werden.',
 	),
 	'contact_name' => array(
 		'length' => 'Das Feld NAME muss mindestens 3 Zeichen lang sein.',
