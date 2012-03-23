@@ -1,6 +1,9 @@
 <?php
 	$lang = array(
 	'comments_form_error' => 'error!',
+	'country_name' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'custom_field' => array(
 		'values' => 'Please enter a valid value for one of your custom form items',
 	),
@@ -25,8 +28,8 @@
 		'validvalues' => 'The am/pm field does not appear to contain a valid value?',
 	),
 	'incident_category' => array(
-		'numeric' => 'The category field does not appear to contain a valid category?',
-		'required' => 'The category field is required.',
+		'numeric' => 'The "Categories" field does not appear to contain a valid category?',
+		'required' => 'The "Categories" field is required.',
 	),
 	'incident_date' => array(
 		'date_ddmmyyyy' => 'The date field does not appear to contain a valid date?',
@@ -34,7 +37,7 @@
 		'required' => 'The date field is required.',
 	),
 	'incident_description' => array(
-		'required' => 'The description field is required.',
+		'required' => 'The "Description" field is required.',
 	),
 	'incident_hour' => array(
 		'between' => 'The hour field does not appear to contain a valid hour?',
@@ -61,8 +64,8 @@
 		'length' => 'Please enter a valid value for Source Reliability',
 	),
 	'incident_title' => array(
-		'length' => 'The title field must be at least 3 and no more 200 characters long.',
-		'required' => 'The title field is required.',
+		'length' => 'The "Report Title" field must be at least 3 and no more 200 characters long.',
+		'required' => 'The "Report Title" field is required.',
 	),
 	'incident_verified' => array(
 		'between' => 'Please enter a valid value for Verify This Report',
@@ -83,8 +86,8 @@
 		'required' => 'The locale is required.',
 	),
 	'location_name' => array(
-		'length' => 'The location name field must be at least 3 and no more 200 characters long.',
-		'required' => 'The location name field is required.',
+		'length' => 'The "Refine Location Name" field must be at least 3 and no more 200 characters long.',
+		'required' => 'The "Refine Location Name" field is required.',
 	),
 	'longitude' => array(
 		'between' => 'The longitude field does not appear to contain a valid longitude?',
