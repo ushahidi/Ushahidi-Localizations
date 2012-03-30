@@ -151,7 +151,7 @@
 	'help' => 'Hilfe',
 	'hide' => 'verstecken',
 	'hide_this_message' => 'verberge diese Nachricht',
-	'home' => 'Startseite,
+	'home' => 'Startseite',
 	'how_to_report' => 'Meldewege',
 	'id' => 'ID',
 	'image' => 'Bild',
