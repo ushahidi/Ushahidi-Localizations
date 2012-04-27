@@ -156,6 +156,7 @@
 	'field_unused' => 'Неиспользованные поля',
 	'file' => 'Файл',
 	'filters' => 'Показать',
+	'filter_reports_by' => 'Фильтр сообщений',
 	'filter_reports_contain' => 'Показывать сообщения, которые содержат',
 	'find' => 'Найти',
 	'find_location' => 'Найти место',
