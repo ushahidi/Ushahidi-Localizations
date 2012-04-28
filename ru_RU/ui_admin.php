@@ -67,7 +67,7 @@
 	'date_time' => 'Дата и время',
 	'days_of_the_week' => 'Дни недели',
 	'db_out_of_sync' => 'БД не синхронизирована',
-	'deleted' => 'удалена',
+	'deleted' => 'удалены',
 	'delete_action' => 'Удалить',
 	'delete_all' => 'Удалить всё',
 	'delete_badge' => 'Удалить награду',
