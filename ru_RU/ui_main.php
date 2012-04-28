@@ -382,7 +382,7 @@
 	'reports_first' => 'Имя',
 	'reports_last' => 'Фамилия',
 	'reports_location_name' => 'Точное местоположение',
-	'reports_news' => 'Ссылку на новость',
+	'reports_news' => 'Ссылка на новость',
 	'reports_optional' => 'Отправитель (опционально)',
 	'reports_photos' => 'Загрузить фото',
 	'reports_return' => 'Вернуться на страницу сообщений',
