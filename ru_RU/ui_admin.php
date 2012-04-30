@@ -281,7 +281,7 @@
 	'users' => 'Пользователи',
 	'ushahidi' => 'Ушахиди',
 	'verified_unverified' => 'статус "Проверено" изменён',
-	'verify_unverify' => 'Проверить/Проверена',
+	'verify_unverify' => 'Проверено/Не проверено',
 	'version' => 'Версия',
 	'version_available' => 'готов к обновлению.',
 	'view_private' => 'Личные сообщения',
