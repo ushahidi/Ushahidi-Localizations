@@ -208,7 +208,7 @@
 	'password_reset_message_line_4' => 'Как вы просили пароль был сброшен. Новый пароль',
 	'password_reset_subject' => 'Пароль Ушахиди сброшен',
 	'phone' => 'Телефон',
-	'please_select' => 'Пожалуйста, выберете',	
+	'please_select' => 'Пожалуйста, выберите',	
 	'pm' => 'ПП',
 	'post_method_not_used' => 'Информация не была отправлена POST методом',
 	'preview' => 'Предпросмотр',
