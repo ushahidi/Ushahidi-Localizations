@@ -250,7 +250,7 @@
 	'login_select_openid' => 'Выберите провайдера вашей учетной записи',
 	'login_signin_userpass' => 'Войти введя логин и пароль',
 	'login_signin_openid' => 'Войти через OpenID',
-	'login_signup_click' => 'Зарегистрируйтесь',
+	'login_signup_click' => 'Зарегистрироваться',
 	'login_signup_confirmation_message' => 'Подтвердите свой e-mail адрес: %s',
 	'login_signup_confirmation_subject' => 'Подтверждение регистрации',
 	'login_signup_text' => 'Если у вас нет учётной записи из доступных выше',
