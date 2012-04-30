@@ -253,7 +253,7 @@
 	'login_signup_click' => 'Зарегистрироваться',
 	'login_signup_confirmation_message' => 'Подтвердите свой e-mail адрес: %s',
 	'login_signup_confirmation_subject' => 'Подтверждение регистрации',
-	'login_signup_text' => 'Если у вас нет учётной записи из доступных выше',
+	'login_signup_text' => 'Зарегистрируйтесь, чтобы использовать все возможности сайта.',
 	'longitude' => 'Долгота',
 	'map' => 'Карта',
 	'mark_read' => 'Пометить как прочитанное',
