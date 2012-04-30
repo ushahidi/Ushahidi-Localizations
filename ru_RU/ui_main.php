@@ -254,6 +254,8 @@
 	'login_signup_confirmation_message' => 'Подтвердите свой e-mail адрес: %s',
 	'login_signup_confirmation_subject' => 'Подтверждение регистрации',
 	'login_signup_text' => 'Зарегистрируйтесь, чтобы использовать все возможности сайта.',
+	'login_userpass' => 'E-mail и пароль',
+	'login_with' => 'Войти, используя',
 	'longitude' => 'Долгота',
 	'map' => 'Карта',
 	'mark_read' => 'Пометить как прочитанное',
