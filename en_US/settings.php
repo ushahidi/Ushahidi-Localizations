@@ -158,6 +158,7 @@
 		'laconica_site' => 'Laconica Site ',
 		'language' => 'Site Language',
 		'manually_approve_users' => 'Manually Approve Users',
+		'map_point_reports' => 'Reports are points',
 		'message' => 'Site Message',
 		'name' => 'Site Name',
 		'private_deployment' => 'Private Deployment',

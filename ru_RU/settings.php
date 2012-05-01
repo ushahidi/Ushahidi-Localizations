@@ -149,6 +149,7 @@
 		'laconica_site' => 'Laconica сайт ',
 		'language' => 'Язык сайта',
 		'message' => 'Важное сообщение',
+		'map_point_reports' => 'Точечная геометрия для сообщений',
 		'name' => 'Название сайта',
 		'private_deployment' => 'Закрытый доступ',
 		'share_site_stats' => 'Отправлять статистику в API',
