@@ -386,7 +386,7 @@
 	'reports_find_location' => 'Найти место рядом с вами',
 	'reports_first' => 'Имя',
 	'reports_last' => 'Фамилия',
-	'reports_location_name' => 'Точное местоположение',
+	'reports_location_name' => 'Уточните местоположение',
 	'reports_news' => 'Ссылка на новость',
 	'reports_optional' => 'Отправитель (опционально)',
 	'reports_photos' => 'Загрузить фото',
