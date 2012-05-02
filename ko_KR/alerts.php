@@ -6,6 +6,9 @@
 		'length' => '이메일은 최소 4~64자가 입력되어야 합니다.',
 		'required' => '체크박스 체크 시  이메일 입력은 필수입니다.',
 	),
+	'alert_country' => array(
+		'single_country' => '이 배치는 한 국가에만 해당됩니다. 알림 위치가 국가 내부인지 확인해주세요. This deployment spans within one country only. Please make sure the alert location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'alert_lat' => array(
 		'between' => '지도에서 유효한 위치를 선택하지 않았습니다.',
 		'required' => '지도에서 유효한 위치를 선택하지 않았습니다.',
@@ -25,6 +28,7 @@
 		'in_array' => '지도에서 유효한 반경을 설정하지 않았습니다.',
 		'required' => '지도에서 유효한 반경을 설정하지 않았습니다..',
 	),
+	'alerts_subscribed' => '다음 카테고리에서 이메일 알림 신청이 되어있습니다.',
 	'code_already_verified' => '이 코드는 이전에 확인되었습니다.',
 	'code_not_found' => '이 코드를 찾지 못했습니다. 정확한 URL 주소를 다시 한 번 확인바랍니다.',
 	'code_verified' => ' 코드가 확인되었습니다. 이제 설정한 지역에서 업데이트가 있을 경우 알림 메시지를 받게 됩니다.',
