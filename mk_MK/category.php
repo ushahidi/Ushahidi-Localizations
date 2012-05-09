@@ -5,7 +5,7 @@
 		'required' => 'The color field is required.',
 	),
 	'category_description' => array(
-		'required' => 'The description field is required.',
+		'required' => 'Описот е задолжителен.',
 	),
 	'category_image' => array(
 		'size' => 'Please ensure that image uploads sizes are limited to 50KB.',
@@ -13,8 +13,8 @@
 		'valid' => 'The image field does not appear to contain a valid file',
 	),
 	'category_title' => array(
-		'length' => 'The title field must be at least 3 and no more 80 characters long.',
-		'required' => 'The title field is required.',
+		'length' => 'Насловот мора да биде најмалку 3 а најмногу 80 карактери долг.',
+		'required' => 'Насловот е задолжителен.',
 	),
 	'parent_id' => array(
 		'already_parent' => 'You cannot subcategorize a category with subcategories.',
