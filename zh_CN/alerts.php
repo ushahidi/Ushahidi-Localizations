@@ -6,6 +6,9 @@
 		'length' => '邮件地址长度须在4至64个字符之间',
 		'required' => '打钩将邮件地址设为必填项',
 	),
+	'alert_country' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'alert_lat' => array(
 		'between' => '你需要在地图上选择一个位置',
 		'required' => '你需要在地图上选择一个位置',
@@ -25,6 +28,10 @@
 		'in_array' => '你需要在地图上选择一个半径',
 		'required' => '你需要在地图上选择一个半径',
 	),
+  'alert_recipient' => array(
+    'required' => 'You have not set a recipient for alerts.'
+  ),
+	'alerts_subscribed' => 'You have subscribed for alerts with the following categories',
 	'code_already_verified' => '这个验证码已经使用过了',
 	'code_not_found' => '验证码没找到！请确认你输入的URL是否正确',
 	'code_verified' => '验证通过，当有事件发生时你会收到消息',

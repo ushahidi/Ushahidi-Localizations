@@ -17,9 +17,13 @@
 		'required' => '标题是必填项',
 	),
 	'parent_id' => array(
+		'already_parent' => 'You cannot subcategorize a category with subcategories.',
 		'exists' => '父栏目不存在',
 		'numeric' => '父栏目必须是数字',
+		'parent_trusted' => 'The parent category cannot be a special category',
 		'required' => '父栏目是必填项',
 		'same' => '不能与父栏目相同',
+		'special' => 'Special categories cannot be subcategorised.',
+		
 	));
 ?>

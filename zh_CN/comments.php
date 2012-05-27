@@ -3,6 +3,7 @@
 	'captcha' => array(
 		'default' => '验证码输入不正确',
 		'required' => '请输入验证码',
+		'valid' => 'You entered the wrong security code.',
 	),
 	'comment_author' => array(
 		'length' => '姓名长度须不少于3个字母',
