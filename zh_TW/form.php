@@ -2,7 +2,7 @@
 	$lang = array(
 	'field_default' => array(
 		'default' => '之前所提供的欄位預設值為無效資料.',
-		'length' => '欄位名稱不得超過200個字元',
+		'length' => '欄位名稱 at least 3 and 不得超過200個字元',
 	),
 	'field_height' => array(
 		'between' => '請輸入欄位高度值，需介於0～50',

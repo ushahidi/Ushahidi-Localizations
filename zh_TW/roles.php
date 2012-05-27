@@ -9,5 +9,9 @@
 		'length' => '使用者名稱欄位長度需為2～30之間.',
 		'nomodify' => '最高管理者角色不得更動.',
 		'required' => '使用者名稱欄位為必填.',
-	));
+	'access_level' => array(
+		'numeric' => 'Access Level field must be a number between 0 - 100.',
+		'required' => 'Access Level field must be a number between 0 - 100.',
+	)
+	);
 ?>

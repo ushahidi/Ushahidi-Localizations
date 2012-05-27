@@ -16,6 +16,10 @@
 		'between' => 'The stat sharing field does not appear to contain a valid value?',
 		'required' => 'The stat sharing field is required.',
 	),
+	'allow_stat_sharing' => array(
+		'between' => 'The stat sharing field does not appear to contain a valid value.',
+		'required' => 'The stat sharing field is required.',
+	),
 	'api' => array(
 		'default_record_limit' => 'Default no. of records to be fetched per API request',
 		'maximum_record_limit' => 'Maximum no. of records to be fetched per API request',
@@ -24,6 +28,10 @@
 	'api_akismet' => array(
 		'alpha_numeric' => 'The Akismet field does not appear to contain a valid value?',
 		'length' => 'The Akismet field does not appear to contain a valid value?',
+	),
+	'banner_image' => array(
+		'default' => 'Something went wrong with your banner image upload.',
+		'size' => 'The size of your banner exceeds the size limit for this upload.'
 	),
 	'cache_pages' => array(
 		'between' => 'The cache pages field is required.',
@@ -81,8 +89,20 @@
 		'length' => 'The Mail Server Username field must be no more 50 characters long.',
 		'required' => 'The Mail Server Username field is required.',
 	),
+	'facebook' => array(
+		'title' => 'Facebook Setup Options',
+		'description' => 'To get the information below you will need to create a new Facebook application at',
+		'app_id' => 'Facebook App ID',
+		'app_secret' => 'Facebook App Secret'
+	),
 	'google_analytics' => array(
 		'length' => 'The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX.',
+	),
+	'https' => array(
+	   'enable_https' => 'Enable HTTPS',
+	   'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
+	   'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
+	   'title' => 'HTTPS'
 	),
 	'items_per_page' => array(
 		'between' => 'The items per page (Frontend) field does not appear to contain a valid value?',
@@ -111,12 +131,19 @@
 		'allow_clustering' => 'Cluster Reports on Map',
 		'allow_comments' => 'Allow Users to Submit Comments to Reports',
 		'allow_feed' => 'Include RSS News Feed on Website',
+		'allow_alerts' => 'Allow Users To Subscribe For Alerts',
 		'allow_reports' => 'Allow Users To Submit Reports',
 		'api_akismet' => 'Akismet Key',
+		'banner' => 'Site Banner',
+		'blocks_per_row' => 'Blocks Per Row',
 		'cache_pages' => 'Cache Pages',
 		'cache_pages_lifetime' => 'Cache Pages Lifetime',
+		'checkins' => 'Enable Checkins',
 		'copyright_statement' => 'Site Copyright Statement',
 		'default_category_colors' => 'Default Color For All Categories',
+		'default_category_icons' => 'Default Icon For All Categories',
+		'delete_banner_image' => 'Delete Banner Image',
+		'delete_default_map_all_icon' => 'Delete Default Icon',
 		'display_contact_page' => 'Display Contact Page',
 		'display_howtohelp_page' => 'Display "How to Help" Page',
 		'email_alerts' => 'Alerts Email Address',
@@ -130,11 +157,15 @@
 		'laconica_configuration' => 'Laconica Credentials',
 		'laconica_site' => 'Laconica Site ',
 		'language' => 'Site Language',
+		'manually_approve_users' => 'Manually Approve Users',
 		'message' => 'Site Message',
 		'name' => 'Site Name',
 		'private_deployment' => 'Private Deployment',
+		'require_email_confirmation' => 'Require User Email Confirmation',
+		'submit_report_message' => 'Submit Report Message',
 		'share_site_stats' => 'Enable Statistics (Stored on Ushahidi\'s server)',
 		'tagline' => 'Site Tagline',
+		'timezone' => 'Timezone',
 		'title' => 'Site Settings',
 		'twitter_configuration' => 'Twitter Search Terms',
 		'twitter_hashtags' => 'Hashtags - Separate with commas ',

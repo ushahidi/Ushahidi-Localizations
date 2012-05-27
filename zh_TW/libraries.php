@@ -18,5 +18,6 @@
 	'upgrade_file_not_deleted' => 'File <code>%s</coded> could not be deleted',
 	'upgrade_title' => 'Ushahidi upgrade script',
 	'upgrade_zip_error' => 'The downloaded ushahidi zip file <code>%s</code>, could not be written',
+	'riverid_variable_not_available' => '%s is not available in the RiverID class.',
 	);
 ?>
