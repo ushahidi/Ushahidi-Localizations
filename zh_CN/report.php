@@ -1,12 +1,25 @@
 <?php
 	$lang = array(
 	'comments_form_error' => '错误！',
+	'country_name' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'custom_field' => array(
 		'values' => '请为您的一项客户表单项填入有效值',
 	),
 	'data_include' => array(
 		'between' => '请选择一个有效的项目下载',
 		'numeric' => '请选择一个有效的项目下载',
+	),
+	'data_active' => array(
+		'between' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+	),
+	'data_verified' => array(
+		'between' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
 	),
 	'data_point' => array(
 		'between' => '一个选择有效的报告类型进行下载',
@@ -63,6 +76,7 @@
 	'incident_title' => array(
 		'length' => '标题的长度须在3到200个字符之间',
 		'required' => '标题栏为必填项',
+		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?'
 	),
 	'incident_verified' => array(
 		'between' => '请为“验证此报告”输入一个有效值',

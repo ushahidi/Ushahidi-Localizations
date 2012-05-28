@@ -8,6 +8,10 @@
 		'between' => '包括反馈栏格式错误',
 		'required' => '包括反馈为必选项',
 	),
+	'allow_alerts' => array(
+		'between' => 'The allow alerts field does not appear to contain a valid value.',
+		'required' => 'The allow alerts field is required.',
+	),
 	'allow_reports' => array(
 		'between' => '允许报告栏格式错误',
 		'required' => '允许报告为必选项',
@@ -25,6 +29,10 @@
 		'alpha_numeric' => 'Akismet栏格式错误',
 		'length' => 'Akismet栏格式错误',
 	),
+	'banner_image' => array(
+		'default' => 'Something went wrong with your banner image upload.',
+		'size' => 'The size of your banner exceeds the size limit for this upload.'
+	),
 	'cache_pages' => array(
 		'between' => '缓存网页为必选项',
 		'required' => '缓存网页格式错误',
@@ -33,8 +41,9 @@
 		'in_array' => '缓存网页时间格式错误',
 		'required' => '缓存网页时间为必填项',
 	),
-	'checkins' => '登入',
 	'cleanurl' => array(
+		'clean_url_disabled' => 'It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">this forum post</a>',
+		'clean_url_enabled' => 'This option makes Ushahidi to be accessed via "clean" URLs (without "index.php" in the URL).',
 		'enable_clean_url' => '允许清除链接',
 		'title' => '清除链接',
 	),
@@ -80,8 +89,20 @@
 		'length' => '邮件服务器用户名不得长于50个字符',
 		'required' => '邮件服务器用户名为必填项',
 	),
+	'facebook' => array(
+		'title' => 'Facebook Setup Options',
+		'description' => 'To get the information below you will need to create a new Facebook application at',
+		'app_id' => 'Facebook App ID',
+		'app_secret' => 'Facebook App Secret'
+	),
 	'google_analytics' => array(
 		'length' => 'Google Analytics中必须包含有效的网站内容ID，格式为UA-XXXXX-XX',
+	),
+	'https' => array(
+	   'enable_https' => 'Enable HTTPS',
+	   'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
+	   'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
+	   'title' => 'HTTPS'
 	),
 	'items_per_page' => array(
 		'between' => '每页项目数（前端）格式错误',
@@ -110,13 +131,21 @@
 		'allow_clustering' => '在地图上生成群报告',
 		'allow_comments' => '允许所有用户对报告进行评论',
 		'allow_feed' => '包括网站上的RSS新闻源',
+		'allow_alerts' => 'Allow Users To Subscribe For Alerts',
 		'allow_reports' => '允许用户提交报告',
 		'api_akismet' => 'Akismet密匙',
+		'banner' => 'Site Banner',
+		'blocks_per_row' => 'Blocks Per Row',
 		'cache_pages' => '缓存页',
 		'cache_pages_lifetime' => '缓存页保存时间',
+		'checkins' => 'Enable Checkins',
 		'copyright_statement' => '网站版权描述',
 		'default_category_colors' => '为所有分类采用默认颜色',
+		'default_category_icons' => 'Default Icon For All Categories',
+		'delete_banner_image' => 'Delete Banner Image',
+		'delete_default_map_all_icon' => 'Delete Default Icon',
 		'display_contact_page' => '显示联系页面',
+		'display_howtohelp_page' => 'Display "How to Help" Page',
 		'email_alerts' => '提醒邮件地址',
 		'email_notice' => '<span>如果想通过电子邮件接收报告，请在此设置您的电子邮件账号。</span>',
 		'email_site' => '网站电子邮件地址',
@@ -124,14 +153,19 @@
 		'google_analytics_example' => '网页内容ID - 格式：UA-XXXXX-XX',
 		'items_per_page' => '每页项目数量（前端）',
 		'items_per_page_admin' => '每页项目数量（管理员）',
+		'kismet_notice' => 'Prevent comment spam using <a href="http://akismet.com/" target="_blank">Akismet</a> from Automattic. <BR />You can get a free API key by registering for a <a href="http://en.wordpress.com/api-keys/" target="_blank">WordPress.com user account</a>',
 		'laconica_configuration' => 'Laconica证书',
 		'laconica_site' => 'Laconica网站',
 		'language' => '网站语言',
+		'manually_approve_users' => 'Manually Approve Users',
 		'message' => '网站信息',
 		'name' => '网站名称',
 		'private_deployment' => '隐私设置',
+		'require_email_confirmation' => 'Require User Email Confirmation',
+		'submit_report_message' => 'Submit Report Message',
 		'share_site_stats' => '允许数据存储在Ushahidi的服务器',
 		'tagline' => '网站标签',
+		'timezone' => 'Timezone',
 		'title' => '网站设置',
 		'twitter_configuration' => '推特搜索关键词',
 		'twitter_hashtags' => '标签，以逗号分隔',
@@ -158,6 +192,7 @@
 		'clickatell_username' => '您的Clickatell用户名',
 		'flsms_description' => 'Frontline SMS是一款免费开源软件，可以将笔记本或移动电话变成中央通讯枢纽。安装该软件之后，便可以通过手机向大量用户发送短信。点击灰色按钮开始从FrontlineSMS.com下载软件。',
 		'flsms_download' => '下载Frontline SMS并在您的计算机上安装',
+		'flsms_instructions' => 'Messages received into a FrontlineSMS hub can be synched with Ushahidi. Detailed instructions on how to sync can be found <strong><a href="http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi" target="_blank">here</a></strong>. You will require the key and link below to set up the sync with FrontlineSMS',
 		'flsms_key' => '您的Ushahidi同部密匙',
 		'flsms_link' => 'Frontline SMS HTTP Post LINK',
 		'flsms_synchronize' => '与Ushahidi同步',
@@ -178,11 +213,5 @@
 	'sms_no3' => array(
 		'length' => '电话号码3过长',
 		'numeric' => '电话号码3只能包括数字',
-	),
-	'ssl' => array(
-		'enable_ssl' => '允许SSL',
-		'title' => 'SSL支持',
-	),
-	'timezone' => '时区',
-	);
+	));
 ?>
