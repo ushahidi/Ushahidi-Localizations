@@ -17,9 +17,13 @@
 		'required' => '標題欄位為必填.',
 	),
 	'parent_id' => array(
+		'already_parent' => 'You cannot subcategorize a category with subcategories.',
 		'exists' => '上一層目錄並不存在.',
 		'numeric' => '上一層目錄需為數字.',
+		'parent_trusted' => 'The parent category cannot be a special category',
 		'required' => '上一層欄位為必填.',
 		'same' => '目錄與上一層目錄名稱不得相同.',
+		'special' => 'Special categories cannot be subcategorised.',
+		
 	));
 ?>

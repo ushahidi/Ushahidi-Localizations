@@ -1,12 +1,25 @@
 <?php
 	$lang = array(
 	'comments_form_error' => 'error!',
+	'country_name' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'custom_field' => array(
 		'values' => 'Please enter a valid value for one of your custom form items',
 	),
 	'data_include' => array(
 		'between' => 'Please select a valid item to include in the download',
 		'numeric' => 'Please select a valid item to include in the download',
+	),
+	'data_active' => array(
+		'between' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+	),
+	'data_verified' => array(
+		'between' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
 	),
 	'data_point' => array(
 		'between' => 'Please select a valid type of report to download',
@@ -63,6 +76,7 @@
 	'incident_title' => array(
 		'length' => 'The title field must be at least 3 and no more 200 characters long.',
 		'required' => 'The title field is required.',
+		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?'
 	),
 	'incident_verified' => array(
 		'between' => 'Please enter a valid value for Verify This Report',
