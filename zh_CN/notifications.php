@@ -19,12 +19,12 @@
 		'subject' => '新的文本消息',
 	),
 	'member_new_alert' => array(
-		'message' => 'You Have Received a New Alert',
-		'subject' => 'New Alert!'
+		'message' => '您收到了一个提醒。',
+		'subject' => '新的提醒!'
 	),
 	'member_new_message' => array(
-		'message' => 'You Have Received a Private Message',
-		'subject' => 'New Private Message',
-		'footer' => 'To Reply Please Go To: '
+		'message' => '您收到了一个私信。',
+		'subject' => '新的私信!',
+		'footer' => '回复请转到：'
 	));
 ?>
