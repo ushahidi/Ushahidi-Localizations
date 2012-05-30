@@ -2,7 +2,7 @@
 	$lang = array(
 	'comments_form_error' => '错误！',
 	'country_name' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+		'single_country' => '您报告的位置跨越了本网站部署的国家范围。请确保报告的位置是在'.ORM::factory('country', Kohana::config('settings.default_country'))->country.'地区范围内.'
 	),
 	'custom_field' => array(
 		'values' => '请为您的一项客户表单项填入有效值',
@@ -12,14 +12,14 @@
 		'numeric' => '请选择一个有效的项目下载',
 	),
 	'data_active' => array(
-		'between' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
-		'numeric' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
-		'required' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'between' => '请选择"等待核准"或"已核准"这两种状态的报告。',
+		'numeric' => '请至少选择一个"等待核准"或"已核准"这两种状态的报告。',
+		'required' => '请选择一个"等待核准"或"已核准"这两种状态的报告。',
 	),
 	'data_verified' => array(
-		'between' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
-		'numeric' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
-		'required' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'between' => '请选择"等待验证"或"已验证”这两种状态的报告。',
+		'numeric' => '请至少选择一个"等待验证"或"已验证”这两种状态的报告。',
+		'required' => '请选择一个"等待验证"或"已验证”这两种状态的报告。',
 	),
 	'data_point' => array(
 		'between' => '一个选择有效的报告类型进行下载',
@@ -76,7 +76,7 @@
 	'incident_title' => array(
 		'length' => '标题的长度须在3到200个字符之间',
 		'required' => '标题栏为必填项',
-		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?'
+		'csrf' => '可能的CSRF(跨站请求伪造)攻击。你真的要创建/编辑一份报告？'
 	),
 	'incident_verified' => array(
 		'between' => '请为“验证此报告”输入一个有效值',
