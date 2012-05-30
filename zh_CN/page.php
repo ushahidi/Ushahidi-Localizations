@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
 	'page_title' => array(
-		'required' => 'Please enter a Page Title.',
-		'length' => 'Page Title must be at least 3 and no more than 150 characters long.'
+		'required' => '请输入自定义页面的标题。',
+		'length' => '页面标题需要不小于3个，但不超过150个的字符。'
 	),
 	'page_tab' => array(
-		'required' => 'Please enter a Page Tab Name.'
+		'required' => '请输入页面的链接标签的名称。'
 	),
 	'page_description' => array(
-		'required' => 'Please enter a Page Description.'
+		'required' => '请输入自定义页面的内容。'
 	)
 	);
 
