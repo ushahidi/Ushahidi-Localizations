@@ -11,8 +11,8 @@
 		'required' => '姓名为必填项',
 	),
 	'access_level' => array(
-		'numeric' => 'Access Level field must be a number between 0 - 100.',
-		'required' => 'Access Level field must be a number between 0 - 100.',
+		'numeric' => '访问级别必须是0到100之间的数字.',
+		'required' => '访问级别必须输入0到100之间的数字.',
 	)
 	);
 ?>
