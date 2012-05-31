@@ -31,51 +31,51 @@
 		'full' => '星期三',
 	),
 	'january' => array(
-		'abbv' => 'Jan',
-		'full' => 'January',
+		'abbv' => '一月',
+		'full' => '元月',
 	),
 	'february' => array(
-		'abbv' => 'Feb',
-		'full' => 'February',
+		'abbv' => '二月',
+		'full' => '二月',
 	),
 	'march' => array(
-		'abbv' => 'Mar',
-		'full' => 'March',
+		'abbv' => '三月',
+		'full' => '三月',
 	),
 	'april' => array(
-		'abbv' => 'Apr',
-		'full' => 'April',
+		'abbv' => '四月',
+		'full' => '四月',
 	),
 	'may' => array(
-		'abbv' => 'May',
-		'full' => 'May',
+		'abbv' => '五月',
+		'full' => '五月',
 	),
 	'june' => array(
-		'abbv' => 'Jun',
-		'full' => 'June',
+		'abbv' => '六月',
+		'full' => '六月',
 	),
 	'july' => array(
-		'abbv' => 'Jul',
-		'full' => 'July',
+		'abbv' => '七月',
+		'full' => '七月',
 	),
 	'august' => array(
-		'abbv' => 'Aug',
-		'full' => 'August',
+		'abbv' => '八月',
+		'full' => '八月',
 	),
 	'september' => array(
-		'abbv' => 'Sep',
-		'full' => 'September',
+		'abbv' => '九月',
+		'full' => '九月',
 	),
 	'october' => array(
-		'abbv' => 'Oct',
-		'full' => 'October',
+		'abbv' => '十月',
+		'full' => '十月',
 	),
 	'november' => array(
-		'abbv' => 'Nov',
-		'full' => 'November',
+		'abbv' => '十一月',
+		'full' => '十一月',
 	),
 	'december' => array(
-		'abbv' => 'Dec',
-		'full' => 'December',
+		'abbv' => '十二月',
+		'full' => '十二月',
 	));
 ?>
