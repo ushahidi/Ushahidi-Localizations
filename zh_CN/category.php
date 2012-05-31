@@ -5,7 +5,7 @@
 		'required' => '颜色是必填项',
 	),
 	'category_description' => array(
-		'required' => '栏目描述是必填项',
+		'required' => '栏目的描述是必填项',
 	),
 	'category_image' => array(
 		'size' => '图片文件大小不能超过50K',
@@ -17,13 +17,13 @@
 		'required' => '标题是必填项',
 	),
 	'parent_id' => array(
-		'already_parent' => 'You cannot subcategorize a category with subcategories.',
+		'already_parent' => '栏目已在父栏目中存在。',
 		'exists' => '父栏目不存在',
 		'numeric' => '父栏目必须是数字',
-		'parent_trusted' => 'The parent category cannot be a special category',
+		'parent_trusted' => '父栏目不能是一个特殊的栏目。',
 		'required' => '父栏目是必填项',
 		'same' => '不能与父栏目相同',
-		'special' => 'Special categories cannot be subcategorised.',
+		'special' => '特殊栏目不能创建子栏目。',
 		
 	));
 ?>
