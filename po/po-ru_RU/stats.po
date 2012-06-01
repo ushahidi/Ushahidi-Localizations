@@ -1,0 +1,171 @@
+#. extracted from en_US/stats.php, ru_RU/stats.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "Подтверждено"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "Категории"
+
+#: $lang->'category_impact'
+msgid "Category Impact"
+msgstr "Категории"
+
+#: $lang->'category_impact_description'
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
+msgstr ""
+"Данный график позволяет линейно просматривать сообщения по категориям в "
+"заданном промежутке времени. Прокрутите слева направо, чтобы увидеть "
+"сравнительный обзор между разными категориями. Подведите указатель мыши для "
+"просмотра деталей"
+
+#: $lang->'choose_date_range'
+msgid "Choose a date range."
+msgstr "Выберите интервал даты"
+
+#: $lang->'countries'
+msgid "Countries"
+msgstr "Страны"
+
+#: $lang->'country'
+msgid "Country"
+msgstr "Страна"
+
+#: $lang->'country_breakdown'
+msgid "Country Breakdown"
+msgstr "Разбивка по странам"
+
+#: $lang->'description'
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
+msgstr ""
+"Раздел статистики. Описание будет добавлено скоро, пока посмотрите по "
+"ссылкам ниже"
+
+#: $lang->'error'
+msgid "Error"
+msgstr "Ошибка"
+
+#: $lang->'glossary'
+msgid "Glossary"
+msgstr "Термины"
+
+#: $lang->'hit_summary'
+msgid "Hit Summary"
+msgstr "Статистика щелчков"
+
+#: $lang->'legend'
+msgid "Legend"
+msgstr "История"
+
+#: $lang->'pageviews'
+msgid "Pageviews"
+msgstr "Просмотр страниц"
+
+#: $lang->'pageviews_description'
+msgid "The total number of pages that visitors have viewed on your site"
+msgstr "Количество страниц, просмотренных посетителями"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Сообщения"
+
+#: $lang->'reports_categories'
+msgid "Reports Categories"
+msgstr "Категории сообщений"
+
+#: $lang->'reports_statistics'
+msgid "Reports Statistics"
+msgstr "Статистика сообщений"
+
+#: $lang->'reports_status'
+msgid "Reports Status"
+msgstr "Статус сообщений"
+
+#: $lang->'report_punchcard'
+msgid "Report Punchcard"
+msgstr "Временной анализ"
+
+#: $lang->'report_stats'
+msgid "Report Stats"
+msgstr "Статистика по сообщениям"
+
+#: $lang->'stats_not_setup'
+msgid "Stats Not Set Up"
+msgstr "Статистика не настроена"
+
+#: $lang->'time_range_1'
+msgid "1 Month"
+msgstr "1 месяц"
+
+#: $lang->'time_range_2'
+msgid "3 Months"
+msgstr "3 месяца"
+
+#: $lang->'time_range_3'
+msgid "6 Months"
+msgstr "6 месяцев"
+
+#: $lang->'time_range_all'
+msgid "All"
+msgstr "Все"
+
+#: $lang->'unapproved'
+msgid "Unapproved"
+msgstr "Неподтвержденных"
+
+#: $lang->'unique_visitors'
+msgid "Unique Visitors"
+msgstr "Уникальные посетители"
+
+#: $lang->'unique_visitors_description'
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
+msgstr ""
+"Количество посетителей сайта, которые зашли впервые. Уникальные посетители "
+"определены с помощью cookies. Если у посетителя не включены cookies, то они "
+"будут посчитаны по IP адресу, браузеру, плагинам, ОС и т. д."
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "Непроверено"
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "Проверено"
+
+#: $lang->'visitor_summary'
+msgid "Visitor Summary"
+msgstr "Посетителей всего"
+
+#: $lang->'visits'
+msgid "Visits"
+msgstr "Посещения"
+
+#: $lang->'visits_description'
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
+msgstr ""
+"Посещение &mdash; количество уникальных посетителей, которые вернулись на "
+"сайт после 30 минут после последнего визита"

@@ -1,0 +1,2526 @@
+#. extracted from en_US/ui_main.php, id_ID/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "Tentang"
+
+#: $lang->'access'
+msgid "Access"
+msgstr "Akses"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "Limit Akses"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "Nama Akun"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "Tindakan"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "Tindakan ini tidak akan bisa dibatalkan, yakin mau diteruskan ?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr "Aktifkan"
+
+#: $lang->'active'
+msgid "Active"
+msgstr "Aktif"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "Tambahkan"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "Ditambahkan oleh"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr ""
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "Laporan tambahan"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "Tambah/Sunting"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "Tambahkan sebuah isian"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "Tambahkan bahasa"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "Tambahkan yang baru"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "Tambahkan kategori baru"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "Tambahkan terjemahan"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "Administrasi"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "Mendapatkan pemberitahuan"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "Beritahukan bila ada laporan yang masuk, atau tentang :"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "Rekam pemberitahuan saya"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "Alamat surel :"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "masukkan alamat surel \r\n"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "masukkan nomor telpon genggam beserta kode negaranya"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "Dapatkan pemberitahuan"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "Telpon genggam :"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr ""
+"Atau, tandai pada peta dibawah ini, dan kami akan beritahukan bila ada "
+"laporan yang masuk dalam radius 20 Kilometer darinya."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"Jika tidak menemukan lokasi anda, klik pada peta untuk menentukan lokasi "
+"yang benar."
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "Umpan RSS (salin alamat di bawah ini)"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "Pilih kota"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>Langkah 1:</strong> Pilih kota atau lokasi anda:"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>Langkah 2:</strong> Kirim pemberitahuan ke:"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr "<strong>langkah 3 (Optional):</strong> Pilih Kategori"
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr "Setujui Permintaan Pemberitahuan Anda Sebelumnya"
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr "Pemberitahuan Anda Telah Disimpan!"
+
+#: $lang->'all'
+msgid "All"
+msgstr "Semuanya"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "Diijinkan"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr "Seluruh Waktu"
+
+#: $lang->'and'
+msgid "and"
+msgstr "dan"
+
+#: $lang->'api'
+msgid "API"
+msgstr "API"
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "Menyetujui"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "Disetujui"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "Laporan yang Disetujui"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "Menyetujui Laporan Ini"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "Kira-kira"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr "Arsip"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "Diarsipkan"
+
+#: $lang->'at'
+msgid "at"
+msgstr "pada"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "Penulis"
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr "Daftarkan Otomatis"
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr "Rerata Laporan per-Hari"
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "Menunggu Persetujuan"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "Menunggu Pembuktian"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr "Lambang"
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr "Lencana"
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr "Gambar Lambang"
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr "Atau anda dapat mengunggah gambar lambang disini"
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr "Kumpulan Lambang"
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr "Pilih Lambang"
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "Blog"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr "Jelajahi Profil"
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "Batal"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "Kategori-kategori"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "Kategori"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "Filter Kategori"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "kategori telah "
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "Nama Kategori"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr "Ganti Jeda Tanggal"
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr "Ganti Password"
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr "Ganti Gambar Saya"
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "Pilih sebuah"
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "Pilih poin data yang akan diunduh"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr "Atau pilih jeda tanggal anda"
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "Choose field type"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr "Clean URLs"
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr "Bersihkan"
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr "Bersihkan Peta"
+
+#: $lang->'close'
+msgid "Close"
+msgstr "Tutup"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "clusters"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "Warna"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr "Komentar"
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "Komentar-komentar"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "Detail Komentar"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "Pengaturan Anda Telah Disimpan!"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "Sesuaikan"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr "Surel anda telah dikonfirmasi, silahkan masuk."
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "Kontak Kami"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr "Kode Keamanan"
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr "Surel Anda"
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr "Pesan"
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr "Pesan anda telah dikirim!"
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr "Nama Anda"
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr "Nomor Telefon Anda"
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr "Judul Pesan"
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "Copyright ©"
+
+#: $lang->'create'
+msgid "Create"
+msgstr "Buat"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "Buat/Ubah"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "Buat baru"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr "Buat password baru"
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "Buat Laporan"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "Kepercayaan"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr "Password saat ini"
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr "Custom Fields"
+
+#: $lang->'data'
+msgid "Information"
+msgstr "Information"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "Tanggal"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(mm/dd/yyyy)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Tanggal & Waktu"
+
+#: $lang->'day'
+msgid "day"
+msgstr "Hari"
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr "Menonaktifkan"
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "Jakarta, Indonesia"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "Hapus"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "Telah dihapus"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "terhapus"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "Delete Disabled"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr "Delete Last"
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "Delete this Report"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr "Delete Selected"
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "Hapus Spam"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Demo"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "Deskripsi"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "Details"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "Direct Report"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "Disabled"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "Unapprove"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Unduh Laporan"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "Ubah"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "Ubah Formulir"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "Ubah Laporan"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "Surel"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "Alamat surel"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "Pengaturan server surel"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "Host Mail Server"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "Password Mail Server"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "Port Mail Server"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "Mail Server SSL support"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "Mail Server Type"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "Mail Server Username"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr "so your settings have to be associated with this email address"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "Some servers require a complete email address"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "Email account password"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "Examples: pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "Enable or disable SSL connections"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr "---KOSONG---"
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "ke"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "Galat!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "Contoh"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "Indonesia"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr "External Apps"
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr "External Video Link"
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "Feed"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "Provide Feedback"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "Feeds"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "The feed has been"
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "Feed Items"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "Feed Name"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "Feed URL"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "Unused field"
+
+#: $lang->'file'
+msgid "File"
+msgstr "Berkas"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr "Your file is over the maximum allowed filesize."
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "Filters"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr "Filter Reports"
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr "Filter Reports By"
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr "Filter reports that contain"
+
+#: $lang->'find'
+msgid "Find"
+msgstr "Temukan"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "Temukan Lokasi"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "Nama depan"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr "Force Run Scheduler"
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "Lupa Password?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "Formulir"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "Formulir"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "Deskripsi Formulir"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "Ubah Formulir Ini"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "Formulir Telah"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "Judul Formulir"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Dari"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "GeoLocation Tersedia"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr "Warna"
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr "Komentar"
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr "Label"
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr "Stroke Width"
+
+#: $lang->'go'
+msgid "Go"
+msgstr "Lanjut"
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "Tagar"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "Telah"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "Cara Membantu"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "sembunyi"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "Sembunyikan Pesan Ini"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "Beranda"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "Cara Melapor"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: $lang->'id'
+msgid "ID"
+msgstr "ID"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr "Used to identify you on the site to other users."
+
+#: $lang->'image'
+msgid "Image"
+msgstr "Gambar"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "Gambar-gambar"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "Gambar/ikon"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr "Tidak Aktif"
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "Kotak Masuk"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "Peristiwa"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "Incidents Nearby"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "Tempat Kejadian"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "Termasuk"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "Kategori didalamnya"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr "Include Custom Fields"
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "Include Description"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "Include as much detail as possible"
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "Termasuk Latitude"
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "Include Location Information"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "Include Longitude"
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "Incoming Media"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "Information Evaluation"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "Enter your precise location"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "In response to"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP Address"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr "Is this your profile?"
+
+#: $lang->'item'
+msgid "item"
+msgstr "item"
+
+#: $lang->'items'
+msgid "items"
+msgstr "items"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "item_details"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "Item Title"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "Kunci"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "KMZ/KML File"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "Upload KMZ/KML File"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "KML URL"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "Laconica"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "Bahasa"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "Terakhir"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "Bulan Kemarin"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "Nama Belakang"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "Tahun lalu"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "Latitude"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Layers"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "Other Layers"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "The Layer Has Been"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "Nama Layer"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "Layer URL"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr "Less Information"
+
+#: $lang->'level'
+msgid "Level"
+msgstr "Level"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "This level has been"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "Level Name"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "Terbatas"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "Tautan"
+
+#: $lang->'list'
+msgid "List"
+msgstr "List"
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr "Loading Reports"
+
+#: $lang->'location'
+msgid "Location"
+msgstr "Lokasi"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "Lokasi"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "Kota, Negara"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "Masuk"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr "Account created successfully. You may log in now."
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr "A confirmation has been sent to your email address."
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr ""
+"Email address doesn't exist. Try a different address or create an account."
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr "Please click your account provider"
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr "Masuk menggunakan"
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr "Surel dan Password"
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr "OpenID"
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr "Mendaftar"
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr "Buat akun baru"
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr "Signup Confirmation"
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr "Create an account now to take advantage of more features on the site."
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "Longitude"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "Map"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "Mark as Read"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "Mark as Unread"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr "Maximum filesize"
+
+#: $lang->'media'
+msgid "Media"
+msgstr "Media"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "Media Filter"
+
+#: $lang->'members'
+msgid "Members"
+msgstr "Members"
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr "Manage Your Account"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Message"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Messages"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "Message Details"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr "Message from a non-numeric source:"
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr "Mobile"
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "Modify"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "Modify Date"
+
+#: $lang->'month'
+msgid "month"
+msgstr "Bulan"
+
+#: $lang->'more'
+msgid "More"
+msgstr "Lebih"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr "Informasi lain"
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Does this Ushahidi Deployment Span Multiple Countries"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+
+#: $lang->'name'
+msgid "Name"
+msgstr "Nama"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr "Laporan terdekat"
+
+#: $lang->'new'
+msgid "New"
+msgstr "Baru"
+
+#: $lang->'news'
+msgid "News"
+msgstr "Berita"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "News Feeds"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "News Source"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "New Category"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "New Password"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "New Report"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: $lang->'no'
+msgid "No"
+msgstr "Tidak"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr "No checkins to display."
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr "No data"
+
+#: $lang->'none'
+msgid "None"
+msgstr "Tanpa"
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "Notices"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "Tidak disetujui"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "Tidak Disetujui"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr "---tidak terpilih---"
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "bukan spam"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr "Not Specified"
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr "Tidak ada laporan"
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "Tidak ada hasil"
+
+#: $lang->'off'
+msgid "Off"
+msgstr "Mati"
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "Official &amp; mainstream news"
+
+#: $lang->'on'
+msgid "On"
+msgstr "Hidup"
+
+#: $lang->'option'
+msgid "Option"
+msgstr "Pilihan"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "Optional"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "Pilihan"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "Organisasi"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "Organisasi"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "Deskripsi Organisasi"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "Surel Organisasi"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "The Organization Has Been"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "Nama Organisasi"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "Telefon Organisasi 1"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "Telefon Organisasi 2"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "Website Organisasi"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "Asli"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "Deskripsi Asli"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "Judul Asli"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "Other Deployments"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "Kotak keluar"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "Keluar"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "Halaman"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "Halaman"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "Deskripsi Halaman"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "Halaman Telah"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "Page Tab Name"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "Judul Halaman"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "Kategori Utama"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "Password"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "Ulangi Password"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr "Password Telah Diganti! Silahkan Login."
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "Lupa password?"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "Periksa Surel Untuk Konfirmasi Password Baru Anda."
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "Stay logged in on this computer?"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "Past Month"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "Past Year"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "Tertunda"
+
+#: $lang->'per'
+msgid "per"
+msgstr "per"
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "Personal Information <span>Optional.</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Telefon"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr "Foto"
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "Gambar"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "Gambar and Video"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"* Cari lokasi anda berdasarkan nama lokasi atau koordinat (format: "
+"38.19,-85.61), atau klik lokasi yang dimaksud pada peta yang tersedia"
+
+#: $lang->'play'
+msgid "Play"
+msgstr "Mainkan"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "Please Note"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr "Plugins"
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr "Plugin Website"
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr "Public Profile"
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr "Public Profile URL"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "Pratinjau Item"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "Pratinjau Pesan"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: $lang->'private'
+msgid "Private"
+msgstr "Private"
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr "Warna Profil"
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "Profil anda telah disimpan"
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "Quick Stats"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "Peringkat"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "Baca"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "Menerima"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "diterima dari"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "Notifikasi Penerimaan"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "Laporan Baru"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "Perbarui umpan berita"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr "Surel Terdaftar"
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "Hapus"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "Jawab"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "Laporan"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr "Laporan <span>(Dari Peta, diurutkan berdasar tanggal kejadian)</span>"
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "Pelapor"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Para Pelapor"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "Tanggal pelaporan"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "Surel Pelapor"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "Nama Depan Pelapor"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "Pelapor Telah"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "Alamat IP Pelapor"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "Nama Belakang Pelapor"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "Reporter Level"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Reporter Levels"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "Reporter Phone"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Laporan-laporan"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "Browse"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "Submit"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr "Reports By This User"
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "Categories"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "Date"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "Description"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "Reports will be downloaded in CSV format"
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr "Features"
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "Find a location near you"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "First Name"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "Last Name"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "Refine Location Name"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "News Source Link"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "Optional Information"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "Upload Photos"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "Return to the reports page"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "Select a City"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "Submit a New Report"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "Time"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "Timeline"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "Report Title"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "Video link"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "Report an Incident"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr "Report Details"
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- Select One ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "Yes, the source has direct access to information (witness or actor)"
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Yes, the source has access to information, but can be wrong"
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "Yes, the source has no direct access to information, but is often right"
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "Not always, but is often right"
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "No, the source has (had) no access to information"
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "I do not know"
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "Source Reliability"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- Select One ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "Yes, the information is confirmed by several independent sources"
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr "Yes, the information is not confirmed (yet), but is likely"
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "Yes, the information makes sense"
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "No, the information is surprising"
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr "No, the information is unlikely and may be disinformation"
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "I do not know"
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "Information Probability"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "By sending a message to"
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "By sending an email"
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "By sending a tweet with the hashtag/s"
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "By filling this form on our website."
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr "By using an app"
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "Your Report Has Been Saved"
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "Report Title"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "Request more information"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "Request location"
+
+#: $lang->'required'
+msgid "Required"
+msgstr "Required"
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "Requirements"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr "Resend Confirmation Email"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "Reset"
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr "Reset all filters"
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "Retrieve city names for the selected country"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr "Accounts managed by the %s service."
+
+#: $lang->'role'
+msgid "Role"
+msgstr "Aturan"
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "Simpan"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "Telah Disimpan"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr "Simpan dan Tambahkan Baru"
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "Simpan dan Tutup"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "Simpan Laporan"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr "Jadwal"
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr "Penjadwalan"
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr "Hari"
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr "Jam"
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr "Log Penjadwal"
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr "Menit"
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr "Day of the Week"
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "PENCARIAN"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "Hasil Pencarian"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "Kode Keamanan"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "Pilih Semua"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "Select a Field Type"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "Pilih Tipe Formulir"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "Pilih dalam peta"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "Pilih beberapa"
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "Please verify that you have checked an item"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "Pilih Tema"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "Kirim"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr "Send Confirmation"
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "Dikirim ke"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "Terkirim"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "Dikirim oleh"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "Server address"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "Server type"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "Service"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "Service Username"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "Service User ID"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "Bagi"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "Shared data"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "The share has been"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "Berbagi"
+
+#: $lang->'show'
+msgid "Show"
+msgstr "Tayangkan"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "Tayangkan Semua "
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr "Show Messages"
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr "Showing Reports From"
+
+#: $lang->'site'
+msgid "Website"
+msgstr "Website"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "alamat surel situs"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "URL Situs"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "SMS"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr "Maaf, Anda tidak memiliki lencana apapun."
+
+#: $lang->'source'
+msgid "Source"
+msgstr "Sumber"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "nama Sumber"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "URL Sumber"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "Spam"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "Dukungan SSL?"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "dari"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "Langkah"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "Kirim Laporan"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "Dikirim oleh"
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "Kirim lewat SMS"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "Kirim SMS ke"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "on your phone"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr "Berhasil!"
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "Succesfully imported"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "Nama Asli"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr "Jajak Pendapat"
+
+#: $lang->'system'
+msgid "System"
+msgstr "Sistim"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "TCP Port"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "Tema"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "Tema Bawaan Ushahidi"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "Setting tema"
+
+#: $lang->'this'
+msgid "This"
+msgstr "Ini"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "Hari ini"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "Bulan ini"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr "Minggu ini"
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "Tahun ini"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr "Ini Profil Anda."
+
+#: $lang->'through'
+msgid "through"
+msgstr "Melalui"
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "Waktu"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "Judul "
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "ke"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "Hari ini"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "Hari ini di"
+
+#: $lang->'token'
+msgid "Token"
+msgstr "Token"
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr "Total Reports"
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "Diterjemahkan"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "Translated Description"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "Translated Title"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "Translate to"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "Terjemahan"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "Translation has been saved"
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "Trustworthiness"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "Yes, the source has direct access to information (witness or actor)"
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Yes, the source has access to information, but can be wrong"
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "Yes, the source has no direct access to information, but is often right"
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "Not always, but is often right"
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "No, the source has (had) no access to information"
+
+#: $lang->'type'
+msgid "Type"
+msgstr "Tipe"
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "Twitter"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr "Gagal mengirim surel."
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "Belum Terbaca"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "Belum Terbukti"
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "Update feeds"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "Unggah"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "Berkas yang akan diunggah"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Unggah Laporan"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr "With the form below, you can import incidents into the Ushahidi engine"
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "Reports must be upladed in CSV format"
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored"
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr "It must contain at least Incident Title and Incident Date"
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+"If no latitude and longitude columns are supplied the location will be "
+"geocoded using the Google Geocoder"
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "A Sample CSV Report"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "Sukses Mengunggah"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr "Unggah Video"
+
+#: $lang->'url'
+msgid "URL"
+msgstr "URL"
+
+#: $lang->'user'
+msgid "User"
+msgstr "Pengguna"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "Nama Pengguna"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "Ushahidi Admin"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr "Pembuktian"
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "Terbukti"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "Laporan Terpercaya"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "Verify"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "Verify this Report"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Versi"
+
+#: $lang->'via'
+msgid "via"
+msgstr "lewat"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "Video"
+
+#: $lang->'view'
+msgid "View"
+msgstr "Lihat"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "Lihat"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "Lihat Semua"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "Lihat semua feeds"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "Lihat Semua Laporan"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "Lihat Items"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr "Lihat Lebih Banyak"
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr "View Public Profile"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "Lihat Laporan"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "Lihat Laporan-laporan"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "Terlihat"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "Menunggu Persetujuan"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "Menunggu Pembuktian"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr "Web Form"
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "Bobot"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Ya"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr "Kemarin"
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr "Dashboard Anda"
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr "Berkas Anda"
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr "Perbesar"
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr "Perkecil"

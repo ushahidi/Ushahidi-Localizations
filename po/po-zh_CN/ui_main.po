@@ -1,0 +1,2499 @@
+#. extracted from en_US/ui_main.php, zh_CN/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "关于 "
+
+#: $lang->'access'
+msgid "Access"
+msgstr "接入"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "接入限制"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "用户名"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "操作"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "这个操作不能撤销. 你确定要继续吗?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr "激活"
+
+#: $lang->'active'
+msgid "Active"
+msgstr "激活"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "增加"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "增加"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr ""
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "更多的报道"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "增加/编辑"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "增加一个域"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "增加新语言"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "增加新的"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "增加新分类"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "增加翻译"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "管理员"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "接收你附近的报道"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "如果有新的报道加入，或在附近有新的报告，警告我"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "保存我的设置"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "邮箱地址:"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "输入邮箱地址"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "输入手机号码 ,包含国家区号(+86 是中国)  [暂时没有开通]"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "接收你附近的报道"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "手机:"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr "在下面地图上选择一个中心点, 系统将把一定范围内的最新报道发送给你."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr "如果您无法找到您的地址，请在地图上标注正确的地址"
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "RSS 订阅(复制下面的地址)"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "选择城市"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>第一步:</strong> 选择你关注的城市或位置"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>第二步:</strong> 发送最新案例至我的邮箱"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr "<strong>第三步:</strong> 选择分类"
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr "验证我之前的申请"
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr ""
+
+#: $lang->'all'
+msgid "All"
+msgstr "其他"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "允许"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "全部分类"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr "所有时间"
+
+#: $lang->'and'
+msgid "and"
+msgstr "和"
+
+#: $lang->'api'
+msgid "API"
+msgstr "API"
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "激活"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "已激活"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "己激活的报道"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "激活这篇报道"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "类似的"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr "档案"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "已归档"
+
+#: $lang->'at'
+msgid "at"
+msgstr "在"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "作者"
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr ""
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr "平均每日报道数"
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "等待激活"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "未解决"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr ""
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr ""
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr ""
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr ""
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr ""
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr ""
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "博客"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "取消"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "分类"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "分类"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "分类过滤"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "这个分类已经存在 "
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "分类名称"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr "更改日期范围"
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr ""
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr ""
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "选择一个"
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "选择下载的数据点"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr "自定义时间范围"
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "选择域类型"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr "简洁链接"
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr "清除"
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr "清除地图"
+
+#: $lang->'close'
+msgid "Close"
+msgstr "关闭"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "群"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "颜色"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr "评论"
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "评论"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "评论正文"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "你的设置保存了！"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "设置"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr ""
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr "安全码"
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr "您的电子邮箱地址"
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr "信息"
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr "您的信息已发送至"
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr "您的姓名"
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr "您的电话号码"
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr "发送信息"
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr "信息标题"
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "Copyright ©"
+
+#: $lang->'create'
+msgid "Create"
+msgstr "创建"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "创建/编辑"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "新建"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr ""
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "创建报道"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "信誉"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr ""
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr "其它"
+
+#: $lang->'data'
+msgid "Information"
+msgstr "信息"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "日期"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(mm/dd/yyyy)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "时间日期"
+
+#: $lang->'day'
+msgid "day"
+msgstr "日"
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr "解除"
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "肯尼亚内罗毕"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "删除"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "已删除"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "删除"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "删除无效项"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr "删除最新的"
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "删除此报道"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr "删除选中的"
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "删除垃圾邮件"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "演示"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "描述"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr "越精确越好"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "详细"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "直接报道"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "无效的"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "关闭"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "下载报道"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "编辑"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "编辑类型"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "编辑报道"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "邮箱"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "邮箱地址"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "邮件服务器设置"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "邮件服务器主机"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "邮件服务器密码"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "邮件服务器端口"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "邮件服务器SSL支持"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "邮件服务器类型"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "邮件服务器用户名"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr "根据您的设置，必须填入电子邮件地址"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr "如果要通过电子邮件接受报道，请在下面填入您的电子邮件设置。请注意，电子邮件将发送至您的"
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "某些服务器需要完整的电子邮件地址"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "电子邮件帐号密码"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "通用端口：25,110,995（Gmail的POP3 SSL），993（Gmail的IMAP SSL）"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "例如：mail.您的网站.com，imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "例如：pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "可用的或不可用的SSL连接"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr ""
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "至"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "错误!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "示例"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "肯尼亚"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr ""
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr ""
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "反馈"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "快速反馈"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr "请点击下面的按键将您的体验反馈至我们"
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "反馈"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "该反馈已"
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "反馈项目"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "反馈姓名"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "反馈链接"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "未使用的域"
+
+#: $lang->'file'
+msgid "File"
+msgstr "文件"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr ""
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "过滤器"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr ""
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr "案例筛选"
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr "根据包含内容筛选"
+
+#: $lang->'find'
+msgid "Find"
+msgstr "找到"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "寻找位置"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "名字"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr "强制执行时间表"
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "忘记密码?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "表单"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "表单"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "表彰描述"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "编辑此表单"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "该表单已"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "表单标题"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "从"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "全名"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "地理位置可用"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr "颜色"
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr "评论"
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr "表"
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr "线条宽度"
+
+#: $lang->'go'
+msgid "Go"
+msgstr ""
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "tag"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "已被"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "救援组织/团队"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr "隐藏"
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "隐藏"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "隐藏这个消息"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "主页"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "可以通过那些方式报道案例?"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr ""
+
+#: $lang->'id'
+msgid "ID"
+msgstr "ID"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr ""
+
+#: $lang->'image'
+msgid "Image"
+msgstr "图像"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "图像"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "图像/图标"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr "不活动的"
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "收件箱"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "案例"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "附近事件"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "发生地"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "含有"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "含有分类"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr ""
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "含有描述"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "含有尽可能详细的信息"
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "含有纬度(Latitude)"
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "含有地址信息"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "含有经度(Longitude)"
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "含有媒体"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "信息评分"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "输入您的详细地址"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "作为响应"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP地址"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr ""
+
+#: $lang->'item'
+msgid "item"
+msgstr "项目"
+
+#: $lang->'items'
+msgid "items"
+msgstr "项目"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "项目详情"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "项目标题"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "密匙"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "KMZ/KML文件"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "上传KMZ/KML文件"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "KML链接"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "浴室"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "语言"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "最新的"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "上个月"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "昵称(网上ID)"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "去年"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "纬度"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "图层"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "更多图层"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "该图层已"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "图层名称"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "图层地址"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "评论"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr ""
+
+#: $lang->'level'
+msgid "Level"
+msgstr "等级"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "该等级已"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "等级名"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "受限的"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "链接"
+
+#: $lang->'list'
+msgid "List"
+msgstr ""
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr ""
+
+#: $lang->'location'
+msgid "Location"
+msgstr "位置"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "位置"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "城市, 省 或者 国家"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "登录"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr ""
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr ""
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr ""
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr ""
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr ""
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr ""
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr ""
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr ""
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr ""
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr ""
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "经度"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "地图"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "标记为已读"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "标记为未读"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr ""
+
+#: $lang->'media'
+msgid "Media"
+msgstr "媒体"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "媒体过滤"
+
+#: $lang->'members'
+msgid "Members"
+msgstr ""
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr ""
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "短信/邮件/微博"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "短信/邮件/微博"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "短信内容"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr ""
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr "移动的"
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "修改"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "修改时间"
+
+#: $lang->'month'
+msgid "month"
+msgstr "月"
+
+#: $lang->'more'
+msgid "More"
+msgstr "更多"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr "更多信息"
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "该Ushahidi布署是否跨越多个国家"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+
+#: $lang->'name'
+msgid "Name"
+msgstr "名称"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr "最近报道"
+
+#: $lang->'new'
+msgid "New"
+msgstr "新的"
+
+#: $lang->'news'
+msgid "News"
+msgstr "新闻"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "新闻订阅"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "新闻来源"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "新分类"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "新密码"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "新报道"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "下一个"
+
+#: $lang->'no'
+msgid "No"
+msgstr "否"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr ""
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr ""
+
+#: $lang->'none'
+msgid "None"
+msgstr ""
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "注释"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "未激活"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "未激活"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr ""
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "不是垃圾邮件"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr "未归类"
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr "没有报道"
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "没有结果"
+
+#: $lang->'off'
+msgid "Off"
+msgstr ""
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "官方&媒体消息"
+
+#: $lang->'on'
+msgid "On"
+msgstr ""
+
+#: $lang->'option'
+msgid "Option"
+msgstr "选项"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "可选的"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "选项"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "救援组织&团队"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "组织"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "组织描述"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "组织电子邮件"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "该组织已"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "组织名"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "组织电话 1"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "组织电话 2"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "组织网站"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "原始的"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "原始描述"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "原始题目"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "OTHER USHAHIDI INSTANCES"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "发件箱"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "正在发送"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "页面"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "页"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "页面描述"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "该页面已被"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "页面表名"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "页面标题"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "父类别"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "密码"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "重新输入您的密码"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr ""
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "您可以登录邮箱取回新的密码"
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "在这台计算机上保存记录？"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "一个月内"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "一年内"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "待定的"
+
+#: $lang->'per'
+msgid "per"
+msgstr "每"
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "个人信息 <span>选填.</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "电话"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr ""
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "图片"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "图片 于 视频"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr "* 搜索你要的位置, 或者点击地图调整你的位置"
+
+#: $lang->'play'
+msgid "Play"
+msgstr "播放"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "请注意"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr "插件"
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr "插入网站"
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr ""
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr ""
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "预览"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "预览项"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "预览消息"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "上一个"
+
+#: $lang->'private'
+msgid "Private"
+msgstr ""
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr ""
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "您的设置已保存"
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "快速入口"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "评分"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "Leído"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "接收"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "接收自"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "接收提醒"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "最新报道"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "刷新报道"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr ""
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "删除"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "回复"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "查看新案例"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr "最新案例 <span>(来自当前地图, 按照时间顺序排列)</span>"
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "报道人"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "报道人"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "报道人日期"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "报道人邮箱"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "报道人"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "报道人已经"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "报道人IP地址"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "昵称(网络ID)"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "报道人等级"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "报道人等级"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "报道人电话"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "最新报道"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "浏览"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "提交"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr ""
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "分类(至少选择一项)"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "日期"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "案例描述"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "报告将以CSV形式下载"
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "电子邮件"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr "特征"
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "选择你附近地址"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "姓名"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "昵称(网络ID)"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "精确位置信息"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "新闻来源链接"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "联系方式(可选)"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "上传照片"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "回到案例报道页面"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "选择城市"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr "你的报道已经提交给我们的工作人员. 如有必要我们会尽快联系你."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "提交新的案例报道"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "时间"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "时间线"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "标题"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "视频链接"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "报道新案例"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr ""
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- 选择其中一项 ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "可信, 这个来源可以直接通过审核(激活)"
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "可信, 这个来源可以直接通过审核(激活), 但是不能完全保证"
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "可信, 这个来源不是直接来自现场, 但是基本上反应的事实"
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "不一定，有可能是确切的消息"
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "不可信，不应该通过审核(激活)"
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "不知道"
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "来源可信度"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- 选择其中一项 ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "是的，该信息已被多个独立信息源验证"
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr "是的，该信息尚未被验证，但很可能是"
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "是的，该信息有价值"
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "不，该信息非常令人意外"
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr "不，该信息并不像是真的，有可能是错误信息"
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "我不知道"
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "信息的可能性"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "通过发送短信至"
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "通过发送电子邮件至"
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "通过用热门标签发送推特"
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "在网站上报道新案例"
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr ""
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "你的报道已经保存"
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "标题"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "需求更多的信息"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "需求地址"
+
+#: $lang->'required'
+msgid "Required"
+msgstr ""
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "需求"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr ""
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr "清除所有筛选条件"
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "从选择的国家获取城市名"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr ""
+
+#: $lang->'role'
+msgid "Role"
+msgstr "角色"
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "保存"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "已保存"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr ""
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "关闭并保存"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "保存"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr "日程"
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr "日程设定"
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr "日"
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr "时"
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr "日程设定记录"
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr "分"
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr "星期"
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "搜索"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "验证码"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "选择所有"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "选择域类型"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "选择种类类型"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "在地图上选择"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "选择全部需要的"
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "请确认您已经勾选了其中一项"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "选择主题"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "发送"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr ""
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "发送到"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "发送"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "发送人"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "服务器地址"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "服务器类型"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "服务器"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "服务器用户名"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "服务器用户ID"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "分享"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "分享数据"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "分享成功"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "分享"
+
+#: $lang->'show'
+msgid "Show"
+msgstr "显示"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "显示所有"
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr ""
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr "显示自"
+
+#: $lang->'site'
+msgid "Website"
+msgstr "网站"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "网站邮箱地址"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "网站地址"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "SMS"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr ""
+
+#: $lang->'source'
+msgid "Source"
+msgstr "来源"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "来源名称"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "来源地址 URL"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "垃圾邮件"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "SSL支持？"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "来自"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "步骤"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "报道新案例"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "提交人 "
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "用短信提交"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "发送短信至"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "用你的手机"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr "成功！"
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "导入成功"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "名字"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr ""
+
+#: $lang->'system'
+msgid "System"
+msgstr "系统"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "TCP 端口"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "主题"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "Ushahidi 默认主题"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "主题"
+
+#: $lang->'this'
+msgid "This"
+msgstr "此"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "今天"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "本月"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr "本周"
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "今年"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr ""
+
+#: $lang->'through'
+msgid "through"
+msgstr "至"
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "时间"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "标题 "
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "去"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "今天"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "今天"
+
+#: $lang->'token'
+msgid "Token"
+msgstr ""
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr "全部报告"
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "已翻译"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "翻译描述"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "翻译标题"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "翻译成"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "译文"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "译文已保存"
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "可信度"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "是的，消息源可以直接获取信息（目击者或参与者）"
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "是的，消息源可以获取信息，但有可能有错误"
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "是的，消息源无法直接获取信息，但通常是正确的"
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "并不总是，但通常是正确的"
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "不，消息源无法获取该信息"
+
+#: $lang->'type'
+msgid "Type"
+msgstr "来源"
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "推特"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr ""
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "未读"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "未验证"
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "升级需求"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "上传"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "上传文件"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "上传报道"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr "您可以用以下表格将事件导入Ushahidi的引擎"
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "报告必须以CSV形式上传"
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr "当事件的ID在数据库中已经存在，在CSV文件中的条目将被忽略"
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr "必须至少包括“事件名称”和“事件日期”"
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "CSV报告示例"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,案例标题,案例日期,位置,描述,分类,认可,验证<br />\n"
+"\t\t\t\t\t\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES"
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "上传成功"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr ""
+
+#: $lang->'url'
+msgid "URL"
+msgstr ""
+
+#: $lang->'user'
+msgid "User"
+msgstr "用户"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "用户名"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "Ushahidi管理员"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr "验证状态"
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "已解决"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "问题已经解决"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "解决"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "问题已经解决"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "版本"
+
+#: $lang->'via'
+msgid "via"
+msgstr "来自"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "视频"
+
+#: $lang->'view'
+msgid "View"
+msgstr "显示"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "显示"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "更多"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "显示所有源"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "显示所有报告"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "查看新闻条目"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr "显示更多"
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr ""
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "查看报道"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "查看报道"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "可见"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "等待批准"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "等待验证"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr ""
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "重量"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "是"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr "昨天"
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr ""
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr ""
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr "放大"
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr "缩小"

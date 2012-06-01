@@ -1,0 +1,172 @@
+#. extracted from en_US/stats.php, uk_UA/stats.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "Підтверджено"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "Категорії"
+
+#: $lang->'category_impact'
+msgid "Category Impact"
+msgstr "Категорія впливу"
+
+#: $lang->'category_impact_description'
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
+msgstr ""
+"Ця діаграма дає вам лінійне представлення повідомлень за категоріями "
+"протягом довгого часу. Прокрутіть зліва направо, щоб побачити порівняльний "
+"огляд різних категорій. Наведіть курсор миші на графік для детальнішої "
+"інформації"
+
+#: $lang->'choose_date_range'
+msgid "Choose a date range."
+msgstr "Виберіть інтервал дат"
+
+#: $lang->'countries'
+msgid "Countries"
+msgstr "Країни"
+
+#: $lang->'country'
+msgid "Country"
+msgstr "Країна"
+
+#: $lang->'country_breakdown'
+msgid "Country Breakdown"
+msgstr "Розподіл країн"
+
+#: $lang->'description'
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
+msgstr ""
+"Це відділ статистики. Опис скоро буде доданий, поки перегляньте посилання "
+"нижче"
+
+#: $lang->'error'
+msgid "Error"
+msgstr "Помилка"
+
+#: $lang->'glossary'
+msgid "Glossary"
+msgstr "Глосарій"
+
+#: $lang->'hit_summary'
+msgid "Hit Summary"
+msgstr "Статистика кліків"
+
+#: $lang->'legend'
+msgid "Legend"
+msgstr "Історія"
+
+#: $lang->'pageviews'
+msgid "Pageviews"
+msgstr "Сторінки"
+
+#: $lang->'pageviews_description'
+msgid "The total number of pages that visitors have viewed on your site"
+msgstr "Кількість сторінок, які переглянули відвідувачі на Вашому сайті"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Звіти"
+
+#: $lang->'reports_categories'
+msgid "Reports Categories"
+msgstr "Категорії звітів"
+
+#: $lang->'reports_statistics'
+msgid "Reports Statistics"
+msgstr "Статистика звітів"
+
+#: $lang->'reports_status'
+msgid "Reports Status"
+msgstr "Статус звіта"
+
+#: $lang->'report_punchcard'
+msgid "Report Punchcard"
+msgstr ""
+
+#: $lang->'report_stats'
+msgid "Report Stats"
+msgstr "Статистика повідомлень"
+
+#: $lang->'stats_not_setup'
+msgid "Stats Not Set Up"
+msgstr "Статистика не включена"
+
+#: $lang->'time_range_1'
+msgid "1 Month"
+msgstr "1 Місяць"
+
+#: $lang->'time_range_2'
+msgid "3 Months"
+msgstr "3 Місяці"
+
+#: $lang->'time_range_3'
+msgid "6 Months"
+msgstr "6 Місяців"
+
+#: $lang->'time_range_all'
+msgid "All"
+msgstr "Все"
+
+#: $lang->'unapproved'
+msgid "Unapproved"
+msgstr "Не підтверджено"
+
+#: $lang->'unique_visitors'
+msgid "Unique Visitors"
+msgstr "Унікальні відвідувачі"
+
+#: $lang->'unique_visitors_description'
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
+msgstr ""
+"Кількість людей, що приходять на ваш сайт; унікальні відвідувачі "
+"визначаються за допомогою cookies. У випадку, якщо у відвідувача не включені "
+"cookies, то вони будуть визначені з використанням простої евристики з "
+"урахуванням IP-адреси, браузера, плагінам, ОС і т.д."
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "Не перевірено"
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "Перевірено"
+
+#: $lang->'visitor_summary'
+msgid "Visitor Summary"
+msgstr "Зведення по відвідувачам"
+
+#: $lang->'visits'
+msgid "Visits"
+msgstr "Відвідування"
+
+#: $lang->'visits_description'
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
+msgstr ""
+"Відвідування &mdash; кількість унікальних відвідувачів, що повернулись на "
+"сайт більш ніж на 30 хвилин після останнього перегляду сторінки"

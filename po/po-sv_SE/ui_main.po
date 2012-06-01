@@ -1,0 +1,2535 @@
+#. extracted from en_US/ui_main.php, sv_SE/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "Om "
+
+#: $lang->'access'
+msgid "Access"
+msgstr "Tillg&aring;ng"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "Tillg&aring;ngsbegr&auml;nsningar"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "Konto"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "H&auml;ndelser"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+"Detta kan inte &aringngras. &Auml;r du s&auml;ker p&aring att du vill "
+"forts&auml;tta?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr ""
+
+#: $lang->'active'
+msgid "Active"
+msgstr "Aktiv"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "L&auml;gg till"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "Skapad av"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr ""
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "Ytterligare rapporter"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "L&auml;gg till/Redigera"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "L&auml;gg till f&auml;lt"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "L&auml;gg till spr&aring;k"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "L&auml;gg till ny"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "L&auml;gg till kategori"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "L&auml;gg till &ouml;vers&auml;ttning"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "Administration"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "F&aring; meddelanden"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "G&ouml;r mig uppm&auml;rksam p&aring om en rapport sparats:"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "Spara mina meddelanden"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "e-postadress:"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "ange e-postadress"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "ange mobilnummer med landskod"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "H&auml;mta meddelanden"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "Mobiltelefon:"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr ""
+"Eller, markera en punkt p&aring kartan nedan s&aring kommer vi att meddela "
+"dig n&auml;r n&aring;got rapporterats inom 20 km fr&aring;n denna punkt."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr ""
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "RSS Feed (kopiera url:en nedan)"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "V&auml;lj stad"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>Steg 1:</strong> V&auml;lj stad eller plats:"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>Steg 2:</strong> Skicka meddelande till min:"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr ""
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr "Bekr&auml;fta tidigare beg&auml;ran"
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr "Din h&auml;ndelse har sparats!"
+
+#: $lang->'all'
+msgid "All"
+msgstr "Att g&ouml;ra"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "Till&aring;ten"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "Alla kategorier"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr ""
+
+#: $lang->'and'
+msgid "and"
+msgstr "och"
+
+#: $lang->'api'
+msgid "API"
+msgstr ""
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "Godk&auml;nn"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "Godk&auml;nd"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "Godk&auml;nda rapporter"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "Godk&auml;nn denna rapport"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "Ungef&auml;r"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr ""
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr ""
+
+#: $lang->'at'
+msgid "at"
+msgstr "vid"
+
+#: $lang->'author'
+msgid "Author"
+msgstr ""
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr ""
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr ""
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "V&auml;ntar p&aring godk&auml;nnande"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "V&auml;ntar p&aring verifiering"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr ""
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr ""
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr ""
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr ""
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr ""
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr ""
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "Blogg"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "Kategorier"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "Kategori"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "Kategorifilter"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "Kategorin har "
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "Kategorinamn"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr ""
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr ""
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr ""
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "V&auml;lj en"
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "V&auml;lj data att ladda ner"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr ""
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "V&auml;lj f&auml;lttyp"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr ""
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr ""
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr ""
+
+#: $lang->'close'
+msgid "Close"
+msgstr "St&auml;ng"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "samling"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "F&auml;rg"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr ""
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "Kommentardetaljer"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "Dina inst&auml;llningar har sparats!"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "Konfigurera"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr ""
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "Kontakta oss"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr ""
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr ""
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr ""
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr ""
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr ""
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr ""
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr ""
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "Copyright © 2010 Ushahidi.com. All Rights Reserved."
+
+#: $lang->'create'
+msgid "Create"
+msgstr "Skapa"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "Skapa/Redigera"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "Skapa ny"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr ""
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "Skapa rapport"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "Trov&auml;rdighet"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr ""
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr ""
+
+#: $lang->'data'
+msgid "Information"
+msgstr "Information"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "Datum"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(mm/dd/yyyy)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Datum & Tid"
+
+#: $lang->'day'
+msgid "day"
+msgstr ""
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr ""
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "Malm&ouml;, Sverige"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "Ta bort"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "Borttagen"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "Tar bort"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "Ta bort inaktiverade"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr ""
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "Ta bort denna rapport"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr ""
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "Ta bort spam"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Demo"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "Beskrivning"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr ""
+"Exempel: H&ouml;rnan vid bokhandeln, Hamngatan & &Ouml;stergatan, Malm&ouml;"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "Detaljer"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "Direktrapport"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "Inaktiverad"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "Icke godk&auml;nd"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Ladda ner rapporter"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "Redigera"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "Redigera formul&auml;rf&auml;lt"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "Redigera rapport"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "E-post"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "E-postadress"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "Mailserverinst&auml;llningar"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "Mailserverv&auml;rd"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "Mailserver l&ouml;senord"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "Mailserverport"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "Mailserver SSL-st&ouml;d"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "Mailservertyp"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "Mailserver anv&auml;ndarnamn"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr ""
+"s&aring dina inst&auml;llningar m&aring;ste st&auml;mma &ouml;verens med "
+"denna adress"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr ""
+"F&ouml;r att f&aring rapporter via e-post, skriv in dina kontouppgifter "
+"f&ouml;r e-postadressen nedan. E-post mottages av din"
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "N&aring;gra servrar kr&auml;ver en fullst&auml;ndig e-postadress"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "E-postkontots l&ouml;senord"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "Vanliga portar: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Exampel: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "Exampel: pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "Aktivera eller inaktivera SSL-anslutning"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr ""
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "till"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "Fel!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "Exampel"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "Sverige"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr ""
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr ""
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "Fl&ouml;de"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "Ge feedback"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr ""
+"Ge oss g&auml;rna feedback om vad du tycker om sajten genom att klicka "
+"p&aring knappen nedan."
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "Fl&ouml;den"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "Fl&ouml;det har "
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "Fl&ouml;desposter"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "Fl&ouml;desnamn"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "Fl&ouml;des-URL"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "Oanv&auml;nt f&auml;lt"
+
+#: $lang->'file'
+msgid "File"
+msgstr "Fil"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr ""
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "Filter"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr ""
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr ""
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr ""
+
+#: $lang->'find'
+msgid "Find"
+msgstr "Hitta"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "Hitta plats"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "F&ouml;rnamn"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr ""
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "Gl&ouml;mt ditt l&ouml;senord?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "Formul&auml;r"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "Formul&auml;r"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "Formul&auml;rbeskrivning"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "Redigera detta formul&auml;r"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "Formul&auml;ret har"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "Formul&auml;rrubrik"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Fr&aring;n"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "Fullst&auml;ndigt namn"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "GeoLocation tillg&auml;ngligt"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr ""
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr ""
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr ""
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr ""
+
+#: $lang->'go'
+msgid "Go"
+msgstr ""
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "Har"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "Hur hj&auml;lper man"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr ""
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "d&ouml;lj"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "d&ouml;lj meddelande"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "Hem"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "Hur rapporterar man"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr ""
+
+#: $lang->'id'
+msgid "ID"
+msgstr "ID"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr ""
+
+#: $lang->'image'
+msgid "Image"
+msgstr "Bild"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "Bilder"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "Bild/Ikon"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr ""
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "Inbox"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "Incident"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "Incidenter i n&auml;rheten"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "Plats f&ouml;r incident"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "Inkludera"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "Inkludera kategorier"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr ""
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "Inkludera beskrivning"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "Inkludera s&aring m&aring;nga detaljer som m&ouml;jligt"
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "Inkludera latitud"
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "Inkludera information om plats"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "Inkludera longitud"
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "Inkommande media"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "Information utv&auml;rdering"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "Ange din exakta position"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "Svar till"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP Adress"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr ""
+
+#: $lang->'item'
+msgid "item"
+msgstr "post"
+
+#: $lang->'items'
+msgid "items"
+msgstr "poster"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "postdetaljer"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "Postrubrik"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "Nyckel"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "KMZ/KML Fil"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "Ladda upp KMZ/KML Fil"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "KML URL"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "Laconica"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "Spr&aring;k"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "Senaste"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "Senaste m&aring;naden"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "Senaste &aringret"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "Latitud"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Lager"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "Andra lager"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "Lagret har"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "Lagernamn"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "Lager-URL"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "Skriv en kommentar"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr ""
+
+#: $lang->'level'
+msgid "Level"
+msgstr "Niv&aring"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "Denna niv&aring har"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "Niv&aring;namn"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "Begr&auml;nsad"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "L&auml;nk"
+
+#: $lang->'list'
+msgid "List"
+msgstr ""
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr ""
+
+#: $lang->'location'
+msgid "Location"
+msgstr "Plats"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "Platser"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "Stad, Stat eller Land"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "Logga in"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr ""
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr ""
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr ""
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr ""
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr ""
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr ""
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr ""
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr ""
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr ""
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr ""
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "Longitud"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "Karta"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "Markera som l&auml;st"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "Markera som ol&auml;st"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr ""
+
+#: $lang->'media'
+msgid "Media"
+msgstr "Media"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "Mediafilter"
+
+#: $lang->'members'
+msgid "Members"
+msgstr ""
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr ""
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Meddelande"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "Meddelandedetaljer"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr ""
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr ""
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "Modifiera"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "&Auml;ndra datum"
+
+#: $lang->'month'
+msgid "month"
+msgstr ""
+
+#: $lang->'more'
+msgid "More"
+msgstr "Mer"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr ""
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Sp&auml;nner denna Ushahidi Instans &ouml;ver flera l&auml;nder"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+
+#: $lang->'name'
+msgid "Name"
+msgstr "Namn"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr ""
+
+#: $lang->'new'
+msgid "New"
+msgstr "Ny"
+
+#: $lang->'news'
+msgid "News"
+msgstr "Nyheter"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "Nyhetsfl&ouml;den"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "Nyhetsk&auml;lla"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "Ny kategori"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Nytt l&ouml;senord"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "Ny rapport"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "NÄsta"
+
+#: $lang->'no'
+msgid "No"
+msgstr "Nej"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr ""
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr ""
+
+#: $lang->'none'
+msgid "None"
+msgstr ""
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "Meddelanden"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "Inte godk&auml;nd"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "Inte godk&auml;nd"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr ""
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "inte_spam"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr ""
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr ""
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "Inga resultat"
+
+#: $lang->'off'
+msgid "Off"
+msgstr ""
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "Officiella nyheter"
+
+#: $lang->'on'
+msgid "On"
+msgstr ""
+
+#: $lang->'option'
+msgid "Option"
+msgstr "Alternativ"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "Valfri"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "Alternativ"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "Organisation"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "Organisationer"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "Organisationsbeskrivning"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "Organisation e-post"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "Organisation har"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "Organisationnamn"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "Organisation Telefon 1"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "Organisation Telefon 2"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "Organisation Hemsida"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "Original"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "Originalbeskrivning"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "Originalrubrik"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "ANDRA USHAHIDI INSTANSER"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "Utkorg"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "Utg&aring;ende"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "Sida"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "Sidor"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "Sidbeskrivning"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "Sidan har"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "Sidfliksnamn"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "Sidrubrik"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "&Ouml;verliggande kategori"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "L&ouml;senord"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "Skriv l&ouml;senordet igen"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr ""
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "Gl&ouml;mt ditt l&ouml;senord?"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "Kontrollera din e-post f&ouml;r nytt l&ouml;senord."
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "Forts&auml;tt vara inloggad p&aring; denna dator?"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "Senaste m&aring;naden"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "Senaste &aring;ret"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "Avvaktande"
+
+#: $lang->'per'
+msgid "per"
+msgstr ""
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "Personlig information <span>Frivilligt..</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Telefon"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr ""
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "Bilder"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "Bilder och videor"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"* S&ouml;k efter din plats, eller klicka p&aring kartan f&ouml;r att "
+"s&auml;tta exakt position"
+
+#: $lang->'play'
+msgid "Play"
+msgstr "Spela"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "Observera"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr ""
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr ""
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr ""
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr ""
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "F&ouml;rhandsgranska"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "F&ouml;rhandsgranska post"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "F&ouml;rhandsgranska meddelande"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "FÖREGÅENDE"
+
+#: $lang->'private'
+msgid "Private"
+msgstr ""
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr ""
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "Din profil har sparats"
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "Snabbstatistik"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "Gradering"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "L&auml;s"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "Ta emot"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "Ta emot fr&aring;n"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "Ta emot meddelande"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "Senaste rapporterna"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "Uppdatera nyhetsfl&ouml;de"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr ""
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "ta bort"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "Svara"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "Rapportera"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr ""
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "Rapport&ouml;r"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Rapport&ouml;rer"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "Rapport&ouml;r datum"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "Rapport&ouml;r e-post"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "Rapport&ouml;r f&ouml;rnamn"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "Rapporten har"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "Rapport&ouml;r IP Adress"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "Rapport&ouml;r efternamn"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "Reporterniv&aring"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Reporterniv&aring;er"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "Rapport&ouml;r telefon"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Rapporter"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "Bl&auml;ddra"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "Skicka"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr ""
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "Kategorisera"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "Datum"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "Beskrivning"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "Rapporter kommer att sparas ner i CSV format"
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "E-post"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr ""
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "Hitta en plats n&auml;ra dig"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "F&ouml;rnamn"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "Efternamn"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "F&ouml;rfina platsnamnet"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "L&auml;nk nyhetsk&auml;lla"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "Valfri information"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "Ladda upp bilder"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "Tillbaka till rapportsidan"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "V&auml;lj stad"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr ""
+"Din rapport har skickats in f&ouml;r granskning. Vi &aring;terkommer till "
+"dig snarast om det finns behov."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "Skicka in ny rapport"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "Tid"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "Tidslinje"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "Rapportrubrik"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "Videol&auml;nk"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "Rapportera in en h&auml;ndelse"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr "Rapportdetaljer"
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- V&auml;lj ett alternativ ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr ""
+"Ja, k&auml;llan har direkt tillg&aring;ng till informationen (vittne eller "
+"drabbad)"
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Ja, k&auml;llan har tillg&aring;ng till informationen, men kan ha fel"
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr ""
+"Ja, k&auml;llan har inte direkt tillg&aring;ng till informationen, men "
+"brukar ha r&auml;tt"
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "Har ofta r&auml;tt, men inte alltid"
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "Nej, k&auml;llan har/hade ingen tillg&aring;n till informationen"
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "Jag vet inte"
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "K&auml;lls&auml;kerhet"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- V&auml;lj ett alternativ ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "Ja, informationen bekr&auml;ftas av flera oberoende k&auml;llor"
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr ""
+"Ja, informationen &auml;r inte bekr&auml;ftad (&auml;n), men &auml;r "
+"trov&auml;rdig"
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "Ja, informationen l&aring;ter rimlig"
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "Nej, informationen &auml;r &ouml;verraskande"
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr ""
+"Nej, informationen &auml;r inte trov&auml;rdig och kan vara desinformation"
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "Jag vet inte"
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "Informationsannolikhet"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "Genom att skicka ett meddelande till"
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "Genom att skicka e-post till "
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "Genom att skriva in en tweet med hashtaggen/arna"
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "Genom att fylla i detta formul&auml;r"
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr ""
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "Din rapport har sparats"
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "Rapportrubrik"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "Efterfr&aring;ga mer information"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "Efterfr&aring;ga plats"
+
+#: $lang->'required'
+msgid "Required"
+msgstr ""
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "Krav"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr ""
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr ""
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "Nollst&auml;ll l&ouml;senord"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "H&auml;mta st&auml;der f&ouml;r valt land"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr ""
+
+#: $lang->'role'
+msgid "Role"
+msgstr ""
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "Spara"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "Sparad"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr ""
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "SPARA & STÄNG"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "Spara rapport"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr ""
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr ""
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr ""
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr ""
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr ""
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr ""
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "S&Ouml;K"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "S&ouml;kresultat"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "S&auml;kerhetskod"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "V&auml;lj alla"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "V&auml;lj f&auml;lttyp"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "V&auml;lj formul&auml;rtyp"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "V&auml;lj p&aring karta"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "V&auml;lj s&aring m&aring;nga som beh&ouml;vs"
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "Kontrollera att du valt en post"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "V&auml;lj tema"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "Skicka"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr ""
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "Skickar till"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "Skickat"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "Skickat av"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "Serveradress"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "Servertyp"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "Tj&auml;nst"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "Tj&auml;nstens anv&auml;ndarnamn"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "Tj&auml;nstens anv&auml;ndar-ID"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "Dela"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "Delat data"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "Delningen har"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "Delar"
+
+#: $lang->'show'
+msgid "Show"
+msgstr "Visa"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "Visa alla"
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr ""
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr ""
+
+#: $lang->'site'
+msgid "Website"
+msgstr "Websajt"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "sajtens e-postadress"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "Sajtens URL"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "SMS"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr ""
+
+#: $lang->'source'
+msgid "Source"
+msgstr "K&auml;lla"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "K&auml;llans namn"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "K&auml;llans URL"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "Spam"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "SSL-st&ouml;d?"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "Fr&aring;n"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "Steg"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "Skicka in en incident"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "Inskickad av"
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "Skicka in via SMS"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "Skicka ditt SMS till"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "p&aring din telefon"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr ""
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "Import lyckades"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "Efternamn"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr ""
+
+#: $lang->'system'
+msgid "System"
+msgstr "System"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "TCP-port"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "Teman"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "Standard Ushahidi tema"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "Temainst&auml;llningar"
+
+#: $lang->'this'
+msgid "This"
+msgstr "Denna/detta"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "Idag"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "Denna m&aring;nad"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr ""
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "Detta &aringr"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr ""
+
+#: $lang->'through'
+msgid "through"
+msgstr ""
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "tid"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "RUBRIK "
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "till"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "Idag"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "Idag klockan"
+
+#: $lang->'token'
+msgid "Token"
+msgstr ""
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr ""
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "&Ouml;versatt"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "&Ouml;versatt beskrivning"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "&Ouml;versatt rubrik"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "&Ouml;vers&auml;tt till"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "&Ouml;vers&auml;ttning"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "&Ouml;vers&auml;ttning har sparats"
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "P&aring;litlighet"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr ""
+"Ja, k&auml;llan har direkt tillg&aring;ng till informationen (vittne eller "
+"drabbad)"
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Ja, k&auml;llan har tillg&aring;ng till informationen, men kan ha fel"
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr ""
+"Ja, k&auml;llan har inte direkt tillg&aring;ng till informationen, men "
+"brukar ha r&auml;tt"
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "Har ofta r&auml;tt, men inte alltid"
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "Nej, k&auml;llan har/hade ingen tillg&aring;n till informationen"
+
+#: $lang->'type'
+msgid "Type"
+msgstr ""
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "Twitter"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr ""
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "Ol&auml;st"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr ""
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "Updatera fl&ouml;den"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "Ladda upp"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "Fil att ladda upp"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Ladda upp rapporter"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr ""
+"Med formul&auml;ret nedan, kan du importera h&auml;ndelser till "
+"Ushahidimotorn"
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "Rapporter m&aring;ste vara i CSV format"
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr ""
+"N&auml;r h&auml;ndelse-ID:t redan finns i databasen, s&aring ignoreras "
+"posten i CSV-filen"
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr ""
+"Den m&aring;ste inneh&aring;lla &aringtminstone h&auml;ndelserubrik och "
+"datum"
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "Ett exempel p&aring CSV Report"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,H&Auml;NDELSERUBRIK,H&Auml;NDELSEDATUM,PLATS,BESKRIVNING,KATEGORI,GODK&Aum"
+"l;ND,VERIFIERAD<br />\n"
+"\t\t\t\t\t\"1\",\"Olycka i Lund\",\"2010-11-15 01:06:00\",\"Lund\",\"Bilolycka p&aring "
+"E22\",\"SN&Ouml;STORM, OLYCKA, \",YES,YES"
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+"\"2\",\"D&ouml;dsskjutning\",\"2010-11-16 "
+"19:10:00\",\"Malm&ouml;\",\"D&ouml;dsskjutning i "
+"Roseng&aring;rd\",\"SKOTTLOSSNING, MORD, \",YES,NO"
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "Uppladdning OK"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr ""
+
+#: $lang->'url'
+msgid "URL"
+msgstr ""
+
+#: $lang->'user'
+msgid "User"
+msgstr "Anv&auml;ndare"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "Anv&auml;ndarnamn"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "Ushahidi Admin"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr ""
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "Verifierad"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "Verifierade rapporter"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "Verifiera"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "Verifiera denna rapport"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Version"
+
+#: $lang->'via'
+msgid "via"
+msgstr "via"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "Video"
+
+#: $lang->'view'
+msgid "View"
+msgstr "Visa"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "visningar"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "Visa alla"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "Visa alla fl&ouml;den"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "Visa alla rapporter"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "Visa post"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr ""
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr ""
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "Visa rapport"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "Visa rapporter"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "Synlig"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "V&auml;ntar p&aring godk&auml;nnande"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "V&auml;ntar p&aring verifiering"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr ""
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "Vikt"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Ja"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr "Ig&aring;r"
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr ""
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr ""
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr ""
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr ""

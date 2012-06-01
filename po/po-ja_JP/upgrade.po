@@ -1,0 +1,180 @@
+#. extracted from en_US/upgrade.php, ja_JP/upgrade.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'upgrade'->'between'
+msgid "Invalid input data. It can either be 0 for No or 1 for Yes."
+msgstr "入力したデータが不正です。0（いいえ）か1(はい)のみです。"
+
+#: 'upgrade'->'upgrade_automatic'
+msgid "Automatic Upgrade"
+msgstr "自動アップグレード"
+
+#: 'upgrade'->'upgrade_available'
+msgid "Available Updates"
+msgstr "可能なアップグレード"
+
+#: 'upgrade'->'upgrade_continue_btn_text'
+msgid "Continue"
+msgstr "続ける"
+
+#: 'upgrade'->'upgrade_db_btn_text'
+msgid "Upgrade"
+msgstr "アップグレード"
+
+#: 'upgrade'->'upgrade_db_text_1'
+msgid "So, I'm going to upgrade your database from version"
+msgstr "今のバージョンからデータベースをアップグレードします。"
+
+#: 'upgrade'->'upgrade_db_text_2'
+msgid "to the newest database version"
+msgstr "新しいデータベースのバージョンへ"
+
+#: 'upgrade'->'upgrade_db_text_3'
+msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
+msgstr "魔法を呼び起こす\"アップグレード\"ボタンをクリックしてください。"
+
+#: 'upgrade'->'upgrade_db_text_4'
+msgid ""
+"Oh, also if you want me to backup your database, just tick the check button "
+"below and I will do that for you in a breeze."
+msgstr "それとデータベースバックアップをしておいてください。以下にあるボタンを押すだけでバックアップを行います。"
+
+#: 'upgrade'->'upgrade_db_text_5'
+msgid ""
+"Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
+"recommended</strong>)"
+msgstr "アップグレードを行う前にデータベースをバックアップしますか？(<strong style=\"color:#FF0000;\">推奨</strong>)\r\n"
+
+#: 'upgrade'->'upgrade_db_title'
+msgid "Ushahidi database upgrade"
+msgstr "Ushahidiデータベースアップグレード"
+
+#: 'upgrade'->'upgrade_failed'
+msgid "Upgrade failed at some point"
+msgstr "どこかのポイントでアップグレードが失敗したようです。"
+
+#: 'upgrade'->'upgrade_manual'
+msgid "Manual Upgrade"
+msgstr "手動アップグレード"
+
+#: 'upgrade'->'upgrade_status'
+msgid "Ushahidi upgrade status"
+msgstr "Ushahidiアップグレードステイタス"
+
+#: 'upgrade'->'upgrade_text_1'
+msgid ""
+"The instructions below detail how to manually upgrade your Ushahidi "
+"deploymentl"
+msgstr "以下の説明はUshahidiサイトの手動アップグレード方法についてです。"
+
+#: 'upgrade'->'upgrade_text_2'
+msgid "<dl><dt><strong>Download</strong></dt>"
+msgstr ""
+"<strong>ステップ 1:</strong>一番新しいushahidiを<a href=\"http://download.ushahidi.com/"
+"\">http://download.ushahidi.com</a>こちらからダウンロードしてください。"
+
+#: 'upgrade'->'upgrade_text_3'
+msgid "<dd>- Download the most recent Ushahidi build from"
+msgstr ""
+"<strong>ステップ 2:</strong>ウェブサーバーで動いているOSにもよりますが、使いやすいツールやモード (例: telnet, ftp, "
+"ssh) を使ってウェブサイトにログインし、すべてのファイルを新しいファイルに上書きしてください。 <strong>例外:</strong>"
+
+#: 'upgrade'->'upgrade_text_4'
+msgid ""
+"<dt><strong>Backup</strong></dt><dd>- .htaccess, "
+"./applications/config/config.php, ./applications/config/database.php and "
+"./applications/config/auth.php files. </dd><dd>- Just in case something goes "
+"wrong, it's recommended you make an entire backup of your Ushahidi "
+"deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the "
+"downloaded zip file</dd><dd>- Depending on the operating system running the "
+"web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to "
+"the webserver and replace the contents of all the folders with the newest "
+"from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- "
+"First determine your database schema version by looking at the "
+"<strong>db_version</strong> value in the settings table or look at the "
+"Ushahidi upgrade information at the top of this page. </dd><dd>- If you are "
+"at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to "
+"the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
+"your database client, upgrade the database by executing the appropriate "
+"upgradex-x.sql file.</dd></dl>"
+msgstr ""
+"<strong>ステップ 4:</strong>  "
+"<strong>\"続ける\"</strong>ボタンをクリックして必要なテーブルのアップグレードを行います。"
+
+#: 'upgrade'->'upgrade_tables'
+msgid ""
+"<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
+"Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
+"version of your install through to the final sql upgrade file."
+msgstr ""
+
+#: 'upgrade'->'upgrade_text_5'
+msgid ""
+"<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button to "
+"upgrade the necessary tables."
+msgstr "自動アップグレードは、以下のボタンをクリックしてください。"
+
+#: 'upgrade'->'upgrade_text_6'
+msgid "For automatic upgrade, click on the button below."
+msgstr ""
+
+#: 'upgrade'->'upgrade_title_text_1'
+msgid "You are currently using Ushahidi v"
+msgstr "ご利用のUshahidiのバージョンは\r\n"
+
+#: 'upgrade'->'upgrade_title_text_2'
+msgid "with database version "
+msgstr "利用中"
+
+#: 'upgrade'->'upgrade_title_text_3'
+msgid "running on"
+msgstr ""
+
+#: 'upgrade'->'upgrading'
+msgid "Upgrading"
+msgstr "アップグレード中"
+
+#: 'upgrade'->'upgrade_ftp_text'
+msgid ""
+"To continue with the easy upgrade, the following information is required for "
+"the FTP server that your website is hosted on."
+msgstr ""
+
+#: 'upgrade'->'upgrade_ftp_hostname'
+msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
+msgstr ""
+
+#: 'upgrade'->'upgrade_ftp_password'
+msgid "FTP Password:"
+msgstr ""
+
+#: 'upgrade'->'upgrade_ftp_username'
+msgid "FTP User Name:"
+msgstr ""
+
+#: 'upgrade'->'upgrade_status_info'
+msgid "You have the latest version of Ushahidi."
+msgstr ""
+
+#: 'upgrade'->'upgrade_db_version'
+msgid "Database version: "
+msgstr ""
+
+#: 'upgrade'->'upgrade_warning_software_version'
+msgid "Warning: Software version in version.php and database do not match."
+msgstr ""
+
+#: 'upgrade'->'upgrade_warning_db_version'
+msgid "Warning: Database version in version.php and database do not match."
+msgstr ""

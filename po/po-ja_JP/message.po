@@ -1,0 +1,49 @@
+#. extracted from en_US/message.php, ja_JP/message.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'captcha'->'default'
+msgid "Please enter a valid security code."
+msgstr "有効なセキュリティーコードを入力してください。"
+
+#: 'captcha'->'required'
+msgid "Please enter the security code."
+msgstr "セキュリティコードを入力してください。"
+
+#: 'email'->'email'
+msgid "The Email field does not appear to contain a valid email address."
+msgstr "有効なメールアドレス形式ではないようです。"
+
+#: 'email'->'length'
+msgid "The Email field must be at least 4 and no more 64 characters long."
+msgstr "メールアドレスは４文字以上、64文字以下でなければいけません。"
+
+#: 'email'->'required'
+msgid "The Email field is required if the checkbox is checked."
+msgstr "チェックボックスにチェックが入っている場合は、メールアドレスは必須です。\r\n"
+
+#: 'message'->'required'
+msgid "The comments field is required."
+msgstr "コメントは必須です。"
+
+#: 'name'->'length'
+msgid "The name field must be at least 3 characters long."
+msgstr "名前は最低３文字以上でなければいけません。"
+
+#: 'name'->'required'
+msgid "The name field is required."
+msgstr "名前は必須です。"
+
+#: 'phone'->'length'
+msgid "The phone field is not valid."
+msgstr "電話番号が有効ではないようです。"

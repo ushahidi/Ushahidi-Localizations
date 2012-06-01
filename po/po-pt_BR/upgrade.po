@@ -1,0 +1,188 @@
+#. extracted from en_US/upgrade.php, pt_BR/upgrade.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'upgrade'->'between'
+msgid "Invalid input data. It can either be 0 for No or 1 for Yes."
+msgstr "Dados inválidos. Somente 0 para Não ou 1 para Sim."
+
+#: 'upgrade'->'upgrade_automatic'
+msgid "Automatic Upgrade"
+msgstr "Atualização Automática"
+
+#: 'upgrade'->'upgrade_available'
+msgid "Available Updates"
+msgstr "Atualizações Disponíveis"
+
+#: 'upgrade'->'upgrade_continue_btn_text'
+msgid "Continue"
+msgstr "Continue"
+
+#: 'upgrade'->'upgrade_db_btn_text'
+msgid "Upgrade"
+msgstr "Atualizar"
+
+#: 'upgrade'->'upgrade_db_text_1'
+msgid "So, I'm going to upgrade your database from version"
+msgstr "Eu irei atualizar seu banco de dados da versão"
+
+#: 'upgrade'->'upgrade_db_text_2'
+msgid "to the newest database version"
+msgstr "para a versão do banco de dados mais recente"
+
+#: 'upgrade'->'upgrade_db_text_3'
+msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
+msgstr "Clique no botão \"Atualizar\" e relaxe enquanto eu faço a mágica."
+
+#: 'upgrade'->'upgrade_db_text_4'
+msgid ""
+"Oh, also if you want me to backup your database, just tick the check button "
+"below and I will do that for you in a breeze."
+msgstr ""
+"Ah, se você quiser eu posso fazer o backup do seu banco de dados, basta "
+"checar a caixa abaixo e vou fazer isso para você facilmente. "
+
+#: 'upgrade'->'upgrade_db_text_5'
+msgid ""
+"Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
+"recommended</strong>)"
+msgstr ""
+"Fazer backup do banco de dados antes da atualização? (<strong "
+"style=\"color:#FF0000;\">Highly recommended</strong>)"
+
+#: 'upgrade'->'upgrade_db_title'
+msgid "Ushahidi database upgrade"
+msgstr "Atualização do banco de dados da Ushahidi"
+
+#: 'upgrade'->'upgrade_failed'
+msgid "Upgrade failed at some point"
+msgstr "Houve falha na atualização"
+
+#: 'upgrade'->'upgrade_manual'
+msgid "Manual Upgrade"
+msgstr "Atualização Manual"
+
+#: 'upgrade'->'upgrade_status'
+msgid "Ushahidi upgrade status"
+msgstr "Status da atualização da Ushahidi"
+
+#: 'upgrade'->'upgrade_text_1'
+msgid ""
+"The instructions below detail how to manually upgrade your Ushahidi "
+"deploymentl"
+msgstr ""
+"As instruções abaixo detalham como atualizar essa versão do Ushahidi "
+"manualmente"
+
+#: 'upgrade'->'upgrade_text_2'
+msgid "<dl><dt><strong>Download</strong></dt>"
+msgstr ""
+"1º passo: Baixe a versão mais recente do ushahidi a partir de <a "
+"href=\"http://download.ushahidi.com/\">http://download.ushahidi.com</a>"
+
+#: 'upgrade'->'upgrade_text_3'
+msgid "<dd>- Download the most recent Ushahidi build from"
+msgstr ""
+"2º passo: A depender do sistema operacional do servidor usado, escolha a "
+"ferramenta/mode (ex: telnet, ftp, ssh) para fazer login ao servidor e "
+"substituir o conteúdo de todos os arquivos com os mais novos. Todos EXCETO:"
+
+#: 'upgrade'->'upgrade_text_4'
+msgid ""
+"<dt><strong>Backup</strong></dt><dd>- .htaccess, "
+"./applications/config/config.php, ./applications/config/database.php and "
+"./applications/config/auth.php files. </dd><dd>- Just in case something goes "
+"wrong, it's recommended you make an entire backup of your Ushahidi "
+"deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the "
+"downloaded zip file</dd><dd>- Depending on the operating system running the "
+"web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to "
+"the webserver and replace the contents of all the folders with the newest "
+"from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- "
+"First determine your database schema version by looking at the "
+"<strong>db_version</strong> value in the settings table or look at the "
+"Ushahidi upgrade information at the top of this page. </dd><dd>- If you are "
+"at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to "
+"the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
+"your database client, upgrade the database by executing the appropriate "
+"upgradex-x.sql file.</dd></dl>"
+msgstr ""
+"3º passo: Use seu cliente de Mysql preferido (ex. phpMyAdmin), e execute o "
+"<code>upgrade.sql</code>. O script deverá atualizar e alterar as respectivas "
+"tabelas."
+
+#: 'upgrade'->'upgrade_tables'
+msgid ""
+"<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
+"Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
+"version of your install through to the final sql upgrade file."
+msgstr ""
+
+#: 'upgrade'->'upgrade_text_5'
+msgid ""
+"<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button to "
+"upgrade the necessary tables."
+msgstr "Para fazer a atualização automática, clique no botão abaixo"
+
+#: 'upgrade'->'upgrade_text_6'
+msgid "For automatic upgrade, click on the button below."
+msgstr ""
+
+#: 'upgrade'->'upgrade_title_text_1'
+msgid "You are currently using Ushahidi v"
+msgstr "Você está atualmente usando Ushahidi v"
+
+#: 'upgrade'->'upgrade_title_text_2'
+msgid "with database version "
+msgstr "rodando na"
+
+#: 'upgrade'->'upgrade_title_text_3'
+msgid "running on"
+msgstr ""
+
+#: 'upgrade'->'upgrading'
+msgid "Upgrading"
+msgstr "Atualizando"
+
+#: 'upgrade'->'upgrade_ftp_text'
+msgid ""
+"To continue with the easy upgrade, the following information is required for "
+"the FTP server that your website is hosted on."
+msgstr ""
+
+#: 'upgrade'->'upgrade_ftp_hostname'
+msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
+msgstr ""
+
+#: 'upgrade'->'upgrade_ftp_password'
+msgid "FTP Password:"
+msgstr ""
+
+#: 'upgrade'->'upgrade_ftp_username'
+msgid "FTP User Name:"
+msgstr ""
+
+#: 'upgrade'->'upgrade_status_info'
+msgid "You have the latest version of Ushahidi."
+msgstr ""
+
+#: 'upgrade'->'upgrade_db_version'
+msgid "Database version: "
+msgstr ""
+
+#: 'upgrade'->'upgrade_warning_software_version'
+msgid "Warning: Software version in version.php and database do not match."
+msgstr ""
+
+#: 'upgrade'->'upgrade_warning_db_version'
+msgid "Warning: Database version in version.php and database do not match."
+msgstr ""

@@ -1,0 +1,1284 @@
+#. extracted from en_US/ui_admin.php, sw_KE/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr ""
+"Umekataliwa kupita. Aidha sifa ulizoweka si za halali au ombi lako "
+"limekataliwa"
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr ""
+"Umekataliwa kupita. Ombi lako limefahamika, lakini kukatalika juu ya "
+"masharti kama nyakati. Jaribu tena baadae"
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr ""
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "Vitendo"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr ""
+
+#: $lang->'added'
+msgid "added"
+msgstr "imeengezwa"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "imeengezwa/imebadilishwa"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr ""
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr "Meneja"
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr ""
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr ""
+
+#: $lang->'am'
+msgid "AM"
+msgstr "AM"
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "Asiejulikana"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr ""
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr ""
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API Imeharamishwa"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr "Rekodi za API"
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr ""
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr ""
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr ""
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "imepitishwa"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr ""
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr ""
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr ""
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr ""
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr ""
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr ""
+
+#: $lang->'author'
+msgid "Author"
+msgstr "Mwandishi"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "Barua ya pepe ya Mwanidishi"
+
+#: $lang->'back'
+msgid "Back"
+msgstr ""
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr ""
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr ""
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr ""
+
+#: $lang->'body'
+msgid "Body"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr ""
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "Jamii"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "Kosa katika kuonyesha chati"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "Tafadhali hakikisha kuwa ujumbe wako ni sahihi"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "Tafadhali hakikisha kuwa nambari ni sahihi"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "Tafadhali angalia vipimo vya SMS!"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr ""
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr ""
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "Miji imepakiwa"
+
+#: $lang->'code'
+msgid "code"
+msgstr "ishara"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "Code version out of sync."
+
+#: $lang->'color'
+msgid "Color"
+msgstr ""
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "Fikira"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "Ishara ya kuthibitisha tananahisho zako ni: "
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "Mtumizi"
+
+#: $lang->'count'
+msgid "Count"
+msgstr ""
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "Nchi haijapatikana"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "imetengenezwa/imebadilishwa"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "Tengeneza ripoti"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr ""
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr ""
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr ""
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr ""
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "Kila siku"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: $lang->'database'
+msgid "database"
+msgstr "database"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Tarehe & Wakati"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr ""
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr "DB version out of sync."
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "zimefutwa"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "Futa"
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "Futa zote"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr ""
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Sampuli"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "Maelezo"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr ""
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr ""
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr ""
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr ""
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Pakua ripoti"
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr ""
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr ""
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "Badilisha"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr ""
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "Barua pepe"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr ""
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "Kosa katika geocoding! kosa la HTTP"
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr ""
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "Kosa"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "Kosa, haikuweza kupitisha tukio"
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "Kwa kila masaa sita"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "Kwa kila masaa kumi na mbili"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr ""
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr "Maswali yanayoulizwa sana"
+
+#: $lang->'feed'
+msgid "feed"
+msgstr "tawanyiko"
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "Majibu"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr "tawanyiko"
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr ""
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "Thamani ya Asili"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr ""
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr ""
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr ""
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr ""
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr ""
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "Urefu (kwa mistari)"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr ""
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "Urefu wa thamani"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "Jina la uga"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr ""
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr ""
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr ""
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr ""
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "Haikupata faili iliyopakiwa"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "Haikuweza kufungua faili kuisoma"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "Fomu hiyo haipatikani!"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "Forum"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "Text Area Field (Free Text)"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr ""
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr ""
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr ""
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr ""
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Kutoka"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "Kutoka"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "Geonames Timeout Error"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "Pata usaidizi"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "Vitendo"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "Engeza/Badili"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "Barua pepe"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "Simamia watumizi"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "Jukumu"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "Mtumizi"
+
+#: $lang->'help'
+msgid "help"
+msgstr "usaidizi"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "Kila saa"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr "Twanyiko la tukio"
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "Instance"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "Instances"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "Instance Details"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "Invalid Parameter"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "Anwani ya IP"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "Hii ni uga ya tarehe?"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr ""
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr ""
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr ""
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr ""
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "Anwani ya barua pepe:"
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr "Majina kwa kamili:"
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr "Nywila:"
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr "Jukumu:"
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr "Jina la mtumizi:"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Leya"
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "Msmamizi"
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "Toka"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "Rekodi"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "Simamia"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr ""
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "Simamia watumizi"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr ""
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr ""
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "athirisha kama si spam"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "athirisha kama spam"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "haikufanana na hati yoyote"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Ujumbe"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Ujumbe"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Ujumbe wa Laconica"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "Ujumbe wa Twitter"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "Ujumbe wako umetumwa!"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr "MHI"
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr ""
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "Inakosekana Parameter"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr ""
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "imebadilishwa"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr ""
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "songeza chini"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "songeza juu"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "Multiple Hosted Instances"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr ""
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr ""
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "Umbo langu"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr ""
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr ""
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr ""
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr ""
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr ""
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr ""
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr ""
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Nywila mpya"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "La"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "Uonyo"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "This is not case sensitive."
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "Haijapatikana"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr ""
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "Hakuna kosa"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "Hakuna matokeo ya kuonyesha!"
+
+#: $lang->'of'
+msgid "of"
+msgstr "ya"
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr ""
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr ""
+
+#: $lang->'page'
+msgid "page"
+msgstr "kurasa"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "kurasa"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "Kurasa haijapatikana"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+"Pole, kurasa unayojaribu kuiangalia haipo.<p><strong>Ulifuata kiungo "
+"kilichokuwa kwa tovuti yetu?</strong><br />If you reached this page from "
+"another part of our site, please <a href=\"#\">contact us</a> so that we can "
+"correct our mistake.</p><p><strong>Did you follow a link from another site? "
+"</strong><br />Ungo kutoka kwa tovuti zegine zinaweza kuwa si sahihi. <a "
+"href=\"#\">Tujulishe</a> umetoka wapi ili tujaribu "
+"kurekebisha.</p><p><strong>Uliandika wewe anwani? </strong><br />Inawezekana "
+"umekosea anwani. hakikisha umeandika kwa njia sahihi. </p>"
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "Parameters Zilotumika"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "Nywila"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "Rudia nywila"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr "no-reply@ushahidi.com"
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "Dear"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr "We received a request to reset the password for"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "Ushahidi password reset"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Simu"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr ""
+
+#: $lang->'pm'
+msgid "PM"
+msgstr "PM"
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "Data was not sent by post method"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr ""
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr ""
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'private_to'
+msgid "To"
+msgstr ""
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr ""
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr ""
+
+#: $lang->'read'
+msgid "read"
+msgstr "read"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "Umuhimu"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Walioripoti"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Gredi ya aliyeripoti"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Ripoti"
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr ""
+
+#: $lang->'required'
+msgid "Required"
+msgstr "Inahitajika"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'response'
+msgid "Response"
+msgstr ""
+
+#: $lang->'results'
+msgid "Results"
+msgstr "Matokeo"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr ""
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr ""
+
+#: $lang->'search'
+msgid "Search"
+msgstr "Tafuta"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "inatafuta"
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "--- Chagua aina ya uga ---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "Tafadhali chagua kipengele"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr ""
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr ""
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "Anaetuma"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr ""
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "Huu ujumbe umetumwa kutoka kwa tovuti yako wakati "
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr ""
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "Vipimo"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr "Inaonyesha kurasa"
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "Inaonyesha matokeo"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr ""
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr ""
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr ""
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr ""
+
+#: $lang->'state'
+msgid "State"
+msgstr ""
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "Takwimu"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "Takwimu"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr ""
+"Stat Collection Failed! Either your stat_id or stat_key in the settings "
+"table in the database are incorrect or our stat server is down. Try back in "
+"a bit to see if the server is up and running. If you are really in a pinch, "
+"you can always modify stat_id (set to null) and stat_key (set to 0) in the "
+"settings table of your database to get your stats back up and running. Keep "
+"in mind you will lose access to your stats currently on the stats server."
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "Stat Collection Failed!"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr ""
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "Super Admin"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "Kazi imefanywa"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "Text Field"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "Jina"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "Simamia watumizi"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "mpaka"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "Idadi ya rekodi"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "mpaka"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "Tafsiri ripoti"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr ""
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr ""
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr ""
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "hazijapitishwa"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "Haijulikani"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "haijasomwa"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr " Binya hapa kuboresha Ushahidi sasa"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "Boresha Ushahidi"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "Msimamo wa kuboresha Ushahid"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Pakia ripoti"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr ""
+
+#: $lang->'users'
+msgid "Users"
+msgstr "Watumizi"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr "Ushahidi"
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr ""
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr ""
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Version"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr " iko tayari kuboresha."
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "Angalia Tovuti"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr ""
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "Karibu, "
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr "Wiki"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Ndio"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "Kutauta"

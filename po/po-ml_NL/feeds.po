@@ -1,0 +1,43 @@
+#. extracted from en_US/feeds.php, nl_NL/feeds.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "DATE"
+msgstr "Datum"
+
+#: 'feed_name'->'length'
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
+msgstr "Een feed naam dient tenminste 3 en maximaal 70 tekens te bevatten."
+
+#: 'feed_name'->'required'
+msgid "Please enter the name of the feed."
+msgstr "Geef de feed een naam."
+
+#: 'feed_url'->'required'
+msgid "Please enter feed's URL."
+msgstr "Geef de feed URL."
+
+#: 'feed_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
+msgstr "Geef een geldige URL op, b.v. http://www.ushahidi.com"
+
+#: 'feed_url'->'source'
+msgid "SOURCE"
+msgstr "Bron"
+
+#: 'feed_url'->'title'
+msgid "Title"
+msgstr "Titel"

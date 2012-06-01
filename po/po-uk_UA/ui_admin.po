@@ -1,0 +1,1282 @@
+#. extracted from en_US/ui_admin.php, uk_UA/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr ""
+"Немає доступу. Ваші облікові дані не є дійсними чи вашому запиту було "
+"відмовлено вручну"
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr ""
+"Немає доступу. Ваш запит був оброблений, але сервер зараз перевантажений. "
+"Спробуйте пізніше"
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr ""
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "Дії"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr ""
+
+#: $lang->'added'
+msgid "added"
+msgstr "додано"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "додано/відредаговано"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr ""
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr ""
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr ""
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr ""
+
+#: $lang->'am'
+msgid "AM"
+msgstr ""
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "Анонім"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr ""
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr ""
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API заблоковане"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr ""
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr "API Логи"
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr "Розблокувати"
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr "Розблокувати всіх"
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "підтверджено"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr "Підтвердити автоматично"
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr "Підтвердити вручну"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "Заархівовано"
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr "Ви впевнені, що хочете"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr "Ви впевнені, що хочете видалити це"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr "Ви впевнені, що хочете видалити це фото"
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr "Ви впевнені, що хочете поміняти форми місцями"
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr ""
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr ""
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr ""
+
+#: $lang->'author'
+msgid "Author"
+msgstr "Автор"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "Email Автора"
+
+#: $lang->'back'
+msgid "Back"
+msgstr "Назад"
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr "Заблокувати ІР"
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr ""
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr ""
+
+#: $lang->'body'
+msgid "Body"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "Сказувати"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "Категорії"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "График невірно відображений"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "Перевірте повідомлення"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "Перевірте номер"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "Перевірте налаштування СМС!"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr ""
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr ""
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "Завантажені міста"
+
+#: $lang->'code'
+msgid "code"
+msgstr "код"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "Версія кода не синхронна"
+
+#: $lang->'color'
+msgid "Color"
+msgstr ""
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "Коментарі"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "Ваш код підтвердження сповіщень:"
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "Користувач був"
+
+#: $lang->'count'
+msgid "Count"
+msgstr ""
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "Країна не знайдена"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "створено/редаговано"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "Створити повідомлення"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr "Критичне оновлення"
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr ""
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr ""
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr ""
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "Щоденно"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "Дошка"
+
+#: $lang->'database'
+msgid "database"
+msgstr "база даних"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Дата і час"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr ""
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr ""
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "видалено"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "Видалити"
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "Видалити ВСЕ"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr ""
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Демо"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "Опис"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "Відключено"
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr ""
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr ""
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr ""
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr ""
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr ""
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr "Відредаговано"
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "Редагувати"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr ""
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr ""
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "Помилка geocoding! HTTP Помилка"
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr "Не була встановлена IMAP PHP бібліотека"
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "Помилка"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "Помилка, не вдалося відправити подію"
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "Кожні шість годин"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "Кожні дванадцать годин"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr "Експериментальний"
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr ""
+
+#: $lang->'feed'
+msgid "feed"
+msgstr ""
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "Відгук"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr ""
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr ""
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "Значення за замовчанням"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr ""
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr ""
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr ""
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr ""
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr ""
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "Висота (в рядках)"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr ""
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "Максимальна кількість символів"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "Назва поля"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr ""
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr ""
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr ""
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr ""
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "Не вдалося знайти завантажений файл"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "Не вдалося відкрити файл для читання"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "Ця форма не існує!"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "Форум"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "Поле для текста (Вільний текст)"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr ""
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr ""
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr ""
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr ""
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Від"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "Від"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "Geoname помилка (таймаут)"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "Отримати допомогу"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "Дії"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "Додати/Редагувати"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "Керування користувачами"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "Роль"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "Користувач"
+
+#: $lang->'help'
+msgid "help"
+msgstr "допомога"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "Щогодинно"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr ""
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "Прив'язка"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "Прив'язки"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "Деталі прив'язки"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "Неправильний параметр"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP адреса"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "Це поле дати?"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr ""
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr ""
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr ""
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr ""
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "Email адреса:"
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr "Повне ім'я:"
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr "Пароль:"
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr "Роль:"
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr "Ім'я користувача:"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Шари"
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "Модератор"
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "Вийти"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "Логи"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "Керувати"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr "Керувати ролями і дозволами"
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "Керувати користувачами"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr "Додати/редагувати"
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr ""
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "Відмічено как не СПАМ"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "Відмічено как СПАМ"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "Схожих документів не знайдено"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Пошта"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Пошта"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Laconica повідомлення"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "Повідомлення Twitter"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "Ваше повідомлення було відправлено!"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr ""
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr "Хвилини"
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "Відсутній параметр"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr "Модератор"
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "змінено"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr ""
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "рухатися вниз"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "рухатися вгору"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "Множинні прив'язки"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr ""
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr ""
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "Мій профіль"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr ""
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr ""
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr ""
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr ""
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr ""
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr ""
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr ""
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Новий пароль"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "Ні"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "Сповіщення"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "Не чутливий до регістру."
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "Не знайдено"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr "Нема даних для відображення"
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "Нема помилки"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "Нема результатів до відображення!"
+
+#: $lang->'of'
+msgid "of"
+msgstr "з"
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr ""
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr ""
+
+#: $lang->'page'
+msgid "page"
+msgstr "сторінка"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "сторінки"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "Сторінка не знайдена"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+"Вибачте, сторінка, яку ви намагаєтеся переглянути, переміщена. <p> <strong> "
+"Спробуйте пошукати її на інших сторінках сайту</STRONG> <br /> Якщо ви "
+"потрапили на цю сторінку з іншої частини нашого сайту, <a href=\"#\"> "
+"зв'яжіться з нами </A>, щоб ми могли виправити наші помилки. </P> <strong> "
+"ви по посиланню з іншого сайту? </STRONG> <br /> посилання з інших сайтів "
+"може іноді бути застарілими або неправильними. <a href=\"#\"> Розкажіть нам "
+"</A>, звідки ви прийшли, і ми можемо спробувати зв'язатися з тим сайтом, щоб "
+"вирішити цю проблему. </P> <strong> ви ввели URL? </STRONG> <br /> Ви могли "
+"набрати адресу (URL) неправильно. Спробуйте ввести знову.</p>"
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "Використані параметри"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "Пароль"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "Скидання пароля"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr ""
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "Шановний(а)"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr "Ми отримали запит на скидання пароля"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr ""
+"Щоб змінити пароль, натисніть на посилання нижче (або скопіюйте та вставте "
+"його в адресний рядок браузера)."
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr ""
+"Як ви просили, ваш пароль в даний час змінений. Ваш новий пароль наступний"
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "Ushahidi пароль змінено"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Телефон"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr ""
+
+#: $lang->'pm'
+msgid "PM"
+msgstr ""
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "Дані не було відправлено"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr ""
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr ""
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'private_to'
+msgid "To"
+msgstr ""
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr ""
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr ""
+
+#: $lang->'read'
+msgid "read"
+msgstr "читати"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "Значимість"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr ""
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr ""
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr ""
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr ""
+
+#: $lang->'required'
+msgid "Required"
+msgstr "Обов'язковий"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "Скасувати"
+
+#: $lang->'response'
+msgid "Response"
+msgstr ""
+
+#: $lang->'results'
+msgid "Results"
+msgstr "Результати"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr ""
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr "Розблокувати всіх"
+
+#: $lang->'search'
+msgid "Search"
+msgstr "Пошук"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "шукаємо"
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "--- Виберіть Тип поля ---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "Виберіть пункт"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr ""
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr ""
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "Відправник"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr ""
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "Це повідомлення було відправлено з вашого веб сайта о"
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr "Час сервера"
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "Налаштування"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr ""
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "Показувана сторінка"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr ""
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr "Спеціальна категорія"
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr ""
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr ""
+
+#: $lang->'state'
+msgid "State"
+msgstr ""
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "Статистика"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "Статистика"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr ""
+"Не вдалося! Наш сервер статистики не працює чи щось було неправильно "
+"налаштовано при встановленні Ushahidi.Будь ласка, повторіть спробу пізніше. "
+"Щоб обнулити статистику, змініть stat_id (поставте null) і stat_key "
+"(поставте 0) в параметрах таблиці в БД. УВАГА: Ви не зможете повернути дані!"
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "Не вдалося зібрати дані статистики!"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr ""
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "Super Admin"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "Завдання виконано"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "Поле для текста"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "Ім'я"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "Керування користувачами"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "до"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "Всього записів"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "до"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "Перекласти повідомлення"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr ""
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr ""
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr ""
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "не підтверджено"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "Невідомо"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "не прочитано"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr "Натисніть щоб оновити"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "Оновленя Ushahidi"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "Статус оновлення Ushahidi"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Завантажити повідомлення"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr ""
+
+#: $lang->'users'
+msgid "Users"
+msgstr "Користувачі"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr ""
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr ""
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr ""
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Версія"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr "готовий до оновлення."
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "Переглянути сайт"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr ""
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "Ласкаво просимо,"
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr ""
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Так"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "Ваш пошук для"

@@ -1,0 +1,77 @@
+#. extracted from en_US/category.php, ar_EG/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr ".يجب ألا يقل حقل اللون عن 6 رموز"
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr ".يجب ملء حقل اللون"
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr ".يجب ملء حقل التوصيف"
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr ".برجاء التأكد أن حجم ملف الصورة لا يتجاوز 50ك.ب"
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr ""
+"JPG, PNG و GIF يبدو أن الحقل الخاص بالصور لا يحتوى على صورة سليمة. إمتدادات "
+"الصور المقبولة"
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr ".يبدو أن الحقل الخاص بالصور لا يحتوي على ملف صحيح"
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr ".حقل العنوان يجب أن يحتوى 3 رموز على الأقل ولا يتعدى 80 رمز"
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr ".يجب ملء حقل العنوان"
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr ".التصنيف الأصلي غير موجود"
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr ".يجب أن يكون التصنيف الرئيسي رقمي"
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr ".يجب ملء حقل التصنيف الرئيسي"
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr ".لا يمكن تطابق التصنيف الفرعي والرئيسي"
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

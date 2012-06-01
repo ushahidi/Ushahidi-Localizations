@@ -1,0 +1,2514 @@
+#. extracted from en_US/ui_main.php, bg_BG/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "За "
+
+#: $lang->'access'
+msgid "Access"
+msgstr "Достъп"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "Ограничения на Достъпа"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "Име на акаунта"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "Действия"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr ""
+"Това действие не може да бъде върнато. Сигурни ли сте, че искате да "
+"продължите?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr "Активирай"
+
+#: $lang->'active'
+msgid "Active"
+msgstr "Активно"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "Добави"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "Добавено от"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr ""
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "Допълнителни Справки"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "Добави/Промени"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "Добави Поле"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "Добави Език"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "Добави Ново"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "Добави Нова Категория"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "Добави Превод"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "Администрация"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "Абонамент за сигнали"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "Прави ми сигнал, ако се съобщи за инцидент в или около:"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "Запази сигналът ми"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "Email адрес:"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "въведете email адрес"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "въведете мобилен номер с код за страната"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "Абонамент за сигнали"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "Мобилен телефон:"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr ""
+"Или поставете точка на картата долу и ще получавате сигнали в радиус от 20 "
+"километра."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr ""
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "RSS абонамент (копирайте адреса долу)"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "Изберете град"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>Стъпка 1:</strong> Изберете вашият град или място:"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>Стъпка 2:</strong> Изпрати сигналите на:"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr "<strong>Стъпка 3 (по избор):</strong> Избери категории"
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr "Потвърди предишна заявка за сигнали"
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr "Вашият сигнал е запазен!"
+
+#: $lang->'all'
+msgid "All"
+msgstr "Всички"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "Разрешен"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "Всички категории"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr "Всички"
+
+#: $lang->'and'
+msgid "and"
+msgstr "и"
+
+#: $lang->'api'
+msgid "API"
+msgstr "API"
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "Одобри"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "Одобрени"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "Одобрени инциденти"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "Одобри този инцидент"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "Приблизително"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr "Архив"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "Архивирано"
+
+#: $lang->'at'
+msgid "at"
+msgstr "на"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "Автор"
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr ""
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr ""
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "Изчаква одобрение"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "Очаква потвърждение"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr ""
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr ""
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr ""
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr ""
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr ""
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr ""
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "Блог"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "Отказ"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "Категории"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "Категория"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "Филтър на Категории"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "Категорията беше "
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "Име на Категория"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr ""
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr ""
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr ""
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "Изберете "
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "Изберете точки от данни за сваляне"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr ""
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "Изберете тип на поле"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr "Чисти адреси"
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr "Изчисти"
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr ""
+
+#: $lang->'close'
+msgid "Close"
+msgstr "Затвори"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "групи"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "Цвят"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr "Коментар"
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "Коментари"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "Подробности за коментар"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "Настройките ви са запазени!"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "Настрой"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr ""
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "Свържете се с нас"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr "Код за потвърждение"
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr "Вашия имейл адрес"
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr "Съдържание"
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr ""
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr "Вашето име"
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr "Вашия мобилен номер"
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr "Изпрати съобщението"
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr "Относно"
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "Авторско право © 2010 Ushahidi.com. Всички права са запазени."
+
+#: $lang->'create'
+msgid "Create"
+msgstr "Създай"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "Създай/Промени"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "Създай нов"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr ""
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "Създай сигнал"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "Достоверност"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr ""
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr ""
+
+#: $lang->'data'
+msgid "Information"
+msgstr "Информация"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "Дата"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(dd.mm.yyyy)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Дата и Време"
+
+#: $lang->'day'
+msgid "day"
+msgstr "ден"
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr "Деактивирай"
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "Sofia, Bulgaria"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "Изтрий"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "Изтрит"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "Изтрива"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "Изтрий Изключените"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr ""
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "Изтрий този сигнал"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr ""
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "Изтрий спама"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Демо"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "Описание"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr "Пример: бул. Патриарх Евтимий 20, София"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "Подробности"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "Директен сигнал"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "Изключен"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "Махни одобрение"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Свали сигнали"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "Промени"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "Промени полетата на формуляра"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "Промени сигнал"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "Email Адрес"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "Настройки на Mail Сървър"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "Адрес на Mail Сървър"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "Парола на Mail Сървър"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "Порт на Mail Сървър"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "SSL Поддръжка на Mail Сървър"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "Тъп на Mail Сървър"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "Потребителско име на Mail Сървър"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr ", за да се свържат вашите настройки към email адресът"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr ""
+"За да получавате инциденти по email, моля въведете email адресът си по-долу. "
+"Имайте в предвид, че всички мейли ще се получават на"
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "Някои сървъри изискват цялостен email адрес"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "Email парола"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "Стандартни портове: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Примери: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "Примери: pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "Включи или изключи SSL връзка"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr ""
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "на"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "Грешка!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "Пример"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "България"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr ""
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr ""
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "Абонамент"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "Дайте обратна връзка"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr "Моля дайте ни обратна връзка като натиснете бутона по-долу."
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "Абонаменти"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "Този абонамент е"
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "Елементи на абонамента"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "Име на абонамента"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "Адрес на абонамента"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "Неизползвани полета"
+
+#: $lang->'file'
+msgid "File"
+msgstr "Файл"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr ""
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "Филтри"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr ""
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr ""
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr "Филтрирай сигнали съдържащи"
+
+#: $lang->'find'
+msgid "Find"
+msgstr "Намери"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "Намери Място"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "Първо Име"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr "Пусни на ръка периодичния изпълнител"
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "Забравихте си паролата?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "Формуляр"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "Формуляри"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "Описание на формуляр"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "Промени този формуляр"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "Формулярът беше"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "Заглавие на формуляр"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "От"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "Пълно име"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "Има геолокация"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr ""
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr ""
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr ""
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr ""
+
+#: $lang->'go'
+msgid "Go"
+msgstr ""
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "Уникален номер"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "Беше"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "Как да помогнем"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr ""
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "Скрий"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "скрий това съобщение"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "Начало"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "Как да съобщим за престъпление"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr ""
+
+#: $lang->'id'
+msgid "ID"
+msgstr "Номер"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr ""
+
+#: $lang->'image'
+msgid "Image"
+msgstr "Снимка"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "Снимки"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "Снимка/Иконка"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr "Неактивен"
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "Кутия"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "Инцидент"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "Инциденти наблизо"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "Местоположение на инцидента"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "Включи"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "Включи категории"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr ""
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "Включи описание"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "Включи колкото се може повече описания"
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "Включи географска широчина"
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "Включи информация за географска широчина"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "Включи географска дължина"
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "Включи мултимедия"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "Информация за надморското ниво"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "Въведете точното си местоположение"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "В отговор на"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP адрес"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr ""
+
+#: $lang->'item'
+msgid "item"
+msgstr "запис"
+
+#: $lang->'items'
+msgid "items"
+msgstr "записи"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "Подробности за запис"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "Име на запис"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "Ключ"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "KMZ/KML файл"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "Качи KMZ/KML файл"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "KML адрес"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "Laconica"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "Език"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "Последен"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "Последен месец"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "Последно име"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "Последна година"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "Географска широчина"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Пластове"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "Други пластове"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "Пластът беше"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "Име на пласт"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "Адрес на пласт"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "Остави коментар"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr ""
+
+#: $lang->'level'
+msgid "Level"
+msgstr "Ниво"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "Това ниво беше"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "Име на ниво"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "Ограничен"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "Връзка"
+
+#: $lang->'list'
+msgid "List"
+msgstr ""
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr ""
+
+#: $lang->'location'
+msgid "Location"
+msgstr "Местоположение"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "Местоположения"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "Градове, Области и/или Държави"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "Влез"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr ""
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr ""
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr ""
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr ""
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr ""
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr ""
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr ""
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr ""
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr ""
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr ""
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "Географска дължина"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "Карта"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "Маркирай като прочетено"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "Маркирай като непрочетено"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr ""
+
+#: $lang->'media'
+msgid "Media"
+msgstr "Милтимедия"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "Филтър за милтимедия"
+
+#: $lang->'members'
+msgid "Members"
+msgstr ""
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr ""
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Съобщение"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Съобщения"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "Подробности за съобщение"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr ""
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr "Мобилен"
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "Промени"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "Промени дата"
+
+#: $lang->'month'
+msgid "month"
+msgstr "месец"
+
+#: $lang->'more'
+msgid "More"
+msgstr "Още"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr ""
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Тази инсталация на Ushahidi важи ли за повече държави?"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+
+#: $lang->'name'
+msgid "Name"
+msgstr "Име"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr "Инциденти наблизо"
+
+#: $lang->'new'
+msgid "New"
+msgstr "Нов"
+
+#: $lang->'news'
+msgid "News"
+msgstr "Новини"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "Абонаменти за новини"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "Източници на новини"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "Нова категория"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Нова парола"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "Нов сигнал"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "Следващ"
+
+#: $lang->'no'
+msgid "No"
+msgstr "Не"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr ""
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr ""
+
+#: $lang->'none'
+msgid "None"
+msgstr ""
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "Съобщение"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "Не одобрени"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "Не одобрен"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr ""
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "не е спам"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr "Не е дефиниран"
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr ""
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "Няма резултати"
+
+#: $lang->'off'
+msgid "Off"
+msgstr ""
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "Официални новини"
+
+#: $lang->'on'
+msgid "On"
+msgstr ""
+
+#: $lang->'option'
+msgid "Option"
+msgstr "Настройка"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "Незадължителен"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "Настройки"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "Организация"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "Организации"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "Описание на организация"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "Email на организация"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "Организацията беше"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "Име на организацията"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "Телефон на организация 1"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "Телефон на организация 2"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "Сайт на организация"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "Оригинал"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "Описание на оригинал"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "Заглавие на оригинал"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "Други инсталации на Ushahidi"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "Изходяща поща"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "Изгодящ"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "Страница"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "Страници"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "Описание на страница"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "Страницата беше"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "Име на таб на страница"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "Иеме на страница"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "Родителска категория"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "Парола"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "Напишете отново паролата"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr ""
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "Забравихте паролата си?"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "Проверете мейла за новата си парола."
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "Останете вписани?"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "Последния месец"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "Последната година"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "На изчакване"
+
+#: $lang->'per'
+msgid "per"
+msgstr "на"
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "Лична информация <span>по желание.</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Телефон"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr "Снимки"
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "Снимки"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "Снимки и видео"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"* Потърсете местоположението си като въведете координати (формат: "
+"38.19,-85.61), или кликнете веднъж на картата на правилното място."
+
+#: $lang->'play'
+msgid "Play"
+msgstr "Пусни"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "Моля отбележете"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr "Добавки"
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr "Сайт на добавката"
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr ""
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr ""
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "Преглед"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "Прегледай записа"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "Прегледай съобщението"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "Предишен"
+
+#: $lang->'private'
+msgid "Private"
+msgstr ""
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr ""
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "Профилът ви е запазен"
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "Бърза статистика"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "Прочетени"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "Получен"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "Получен от"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "Получавайте сигнали"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "Скорошни справки"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "Обнови новинарските емисии"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr ""
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "махни"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "Отговори"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "Справка"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr ""
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "Сигнализиращ"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Сигнализиращи"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "Дата на сигнал"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "Email на сигнализиращ"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "Лично име на сигнализиращ"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "Сигнализиращият беше"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "IP адрес на сигнализиращ"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "Фамилно име на сигнализиращ"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "Ниво на сигнализиращ"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Нива на сигнализиращ"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "Телефон на сигнализиращ"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Сигнали"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "Прегледай"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "Изпрати"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr ""
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "Категории"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "Дата"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "Описание"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "Сигналите ще бъдат свалени в CSV формат"
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr ""
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "Намерете местоположение близо до вас"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "Лично име"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "Фамилно име"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "Уточнете името на местоположението"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "Нов адрес на източник"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "Незадължителна информация"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "Качете снимки"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "Върнете на страницата за сигнали"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "Изберете град"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr ""
+"Вашият сигнал е изпратен на екипа ни за одобрение. Ще се свържем с вас, ако "
+"е нужно."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "Изпратете нов сигнал"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "Време"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "Линия на събитията"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "Заглавие на сигнал"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "Линк на видео"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "Съобщете за инцидент"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr "Подробности за сигнала"
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- Изберете едно ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "Да, източника има пряк достъп до информация (свидетел или автор)"
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Да, източника има достъп до информация, но може да не е прав"
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "Да, източника няма пряк достъп до информация, но е често прав"
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "Не винаги, но често е прав"
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "Не, източника няма достъп до информация"
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "Не знам"
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "Достоверност на източника"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- Изберете едно ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "Да, информацията е потвърдена от няколко независими източника"
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr "Да, информацията не е все още потвърдена, но е много вероятна"
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "Да, информацията е логична"
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "Не, информацията е изненадваща"
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr "Не, информацията вероятно не е вярна или е подвеждаща"
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "Не знам"
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "Достоверност на информацията"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "Като изпратите съобщение на "
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "Като изпратите мейл на "
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "Като изпратите tweet с таг(ове) "
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "Като попълните този формуляр"
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr ""
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "Сигналът ви е запазен"
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "Заглавие на сигнал"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "Поискайте повече информация"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "Поискайте местоположение"
+
+#: $lang->'required'
+msgid "Required"
+msgstr ""
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "Изисквания"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr ""
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr "Изчисти филтрите"
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "Възстанови парола"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "Взимане на имена на градове в избраните държави"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr ""
+
+#: $lang->'role'
+msgid "Role"
+msgstr "Роля"
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "Запази"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "Запазено"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr ""
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "Запази и Затвори"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "Запиши сигнали"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr "График"
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr "Периодичен изпълнител"
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr "Ден"
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr "Час"
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr "История"
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr "Минута"
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr "Ден от седмицата"
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "ТЪРСИ"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "Резултати от търсенето"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "Код за сигурност"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "Избери всички"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "Изберете тип на полето"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "Изберете тип на формуляра"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "Изберете в картата"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "Изберете колкото ви трябват"
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "Моля проверете, че сте избрали запис"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "Изберете външен вид"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "Изпрати"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr ""
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "Изпраща се на"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "Изпратен"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "Изпратен от"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "Сървърен адрес"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "Тип на сървъра"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "Услуга"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "Име на услугата"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "Потребителски номер на услугата"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "Сподели"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "Споделени данни"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "Споделянето беше"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "Споделя се "
+
+#: $lang->'show'
+msgid "Show"
+msgstr "Покажи"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "Покаци всички"
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr ""
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr ""
+
+#: $lang->'site'
+msgid "Website"
+msgstr "Сайт"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "email адрес на сайта"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "Адрес на сайта"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "SMS"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr ""
+
+#: $lang->'source'
+msgid "Source"
+msgstr "Източник"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "Име на източника"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "Адрес на източника"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "Спам"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "SSL поддръжка?"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "От"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "Стъпка"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "Изпратете Сигнал"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "Изпратено от"
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "Изпратете със SMS"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "Изпратете SMS-а си на"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "на телефона си"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr "Успех!"
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "Успешно въведено"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "Бащино име"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr ""
+
+#: $lang->'system'
+msgid "System"
+msgstr "Система"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "TCP порт"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "Външен вид"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "Външен вид по подразбиране"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "Настройки на външен вид"
+
+#: $lang->'this'
+msgid "This"
+msgstr "Това"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "Днес"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "Този месец"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr "Тази седмица"
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "Тази година"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr ""
+
+#: $lang->'through'
+msgid "through"
+msgstr ""
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "време"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "ЗАГЛАВИЕ "
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "до"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "Днес"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "Днес от"
+
+#: $lang->'token'
+msgid "Token"
+msgstr ""
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr ""
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "Преведен"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "Преведено описание"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "Преведено заглавие"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "Преведи на"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "Превод"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "Преводът беше запазен"
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "Достоверност"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "Да, източника има пряк достъп до информация (свидетел или автор)"
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Да, източника има достъп до информация, но може да не е прав"
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "Да, източника няма пряк достъп до информация, но е често прав"
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "Не винаги, но често е прав"
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "Не, източника няма достъп до информация"
+
+#: $lang->'type'
+msgid "Type"
+msgstr ""
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "Twitter"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr ""
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "непрочетен"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "Непотвърден"
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "Обнови абонаментите"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "Качи"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "Файл за качване"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Качи сигнали"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr "С този формуляр може да въвеждате сигнали в системата на Ushahidi"
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "Сигналите трябва да са в CSV формат"
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr ""
+"Като номер на инцидент вече присъства в системата, този запис ще бъде "
+"прескочен"
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr "Трябва да съдържа поне заглавие и дата"
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "Примерен CSV сигнал"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />\"1\",\"Обир в "
+"София\",\"2009-05-15 01:06:00\",\"София\",\"Потвърдено от "
+"полицията\",\"Кражба\",YES,YES"
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO"
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "Качването е успешно"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr ""
+
+#: $lang->'url'
+msgid "URL"
+msgstr ""
+
+#: $lang->'user'
+msgid "User"
+msgstr "Потребител"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "Потребителско име"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "Ushahidi администратор"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr "Потвърждение"
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "Потвърден"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "Потвърдени сигнали"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "Потвърди"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "Потвърди този сигнал"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Версия"
+
+#: $lang->'via'
+msgid "via"
+msgstr "чрез"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "Видео"
+
+#: $lang->'view'
+msgid "View"
+msgstr "Преглед"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "Прегледи"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "Прегледай всички"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "Прегледай всички абонаменти"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "Прегледай всички сигнали"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "Прегледай записите"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr "Вижте още"
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr ""
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "Прегледай сигнал"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "Прегледай сигнали"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "Видим"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "Изчаква одобрение"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "Изчаква потвърждаване"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr ""
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "Тежест"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Да"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr ""
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr ""
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr ""
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr ""
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr ""

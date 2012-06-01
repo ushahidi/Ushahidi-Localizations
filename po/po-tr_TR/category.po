@@ -1,0 +1,77 @@
+#. extracted from en_US/category.php, tr_TR/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "Renk kısmı en az 6 karakterden oluşmalıdır."
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr "Renk kısmı boş bırakılamaz."
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr "Açıklama kısmı boş bırakılamaz."
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr "En fazla 50KB resim yükleme hakkınız olduğu aklınızda bulunsun."
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr ""
+"Seçilen dosya türü geçerli değil. Geçerli olan dosya türleri .JPG, .PNG, "
+".GIF olmalıdır."
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr "Resim yükleme kısmı geçersiz bir dosya türü içermektedir"
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr "Başlık kısmı en az 3, en fazla 80 karakter uzunluğunda olmalıdır."
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr "Başlık kısmı boş bırakılamaz."
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr "Ebeveyn kategorisi girilmedi."
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr "Ebeveyn kategorisi bölümü numerik (sayı) olmalıdır."
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr "Ebeveyn kategorisinin girilmesi gereklidir."
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr "Kategori ve ebeveyn kategorisi aynı olamaz."
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

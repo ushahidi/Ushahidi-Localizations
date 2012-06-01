@@ -1,0 +1,54 @@
+#. extracted from en_US/layer.php, id_ID/layer.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'layer_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "Isi kolom warna harus sepanjang 6 karakter"
+
+#: 'layer_color'->'required'
+msgid "The color field is required."
+msgstr "Kolom warna tidak boleh dikosongkan"
+
+#: 'layer_file'->'type'
+msgid ""
+"The file field does not appear to contain a valid file. The only accepted "
+"formats are .KMZ and .KML."
+msgstr "Isian pada kolom berkas, salah. Format yang berlaku hanya .KMZ, .KML"
+
+#: 'layer_file'->'valid'
+msgid "The file field does not appear to contain a valid file"
+msgstr "File yang tercantum pada kolom berkas, salah."
+
+#: 'layer_name'->'length'
+msgid "The name field must be at least 3 and no more 80 characters long."
+msgstr ""
+"Panjang isi kolom nama minimal 3 karakter dan tidak boleh lebih dr 80 "
+"karakter"
+
+#: 'layer_name'->'required'
+msgid "The name field is required."
+msgstr "Kolom nama tidak boleh dikosongkan"
+
+#: 'layer_url'->'atleast'
+msgid "Either a KML URL or File is required."
+msgstr "Dibutuhkan URL atau nama berkas KML"
+
+#: 'layer_url'->'both'
+msgid "You can't have both a KML file and a URL."
+msgstr ""
+"Anda tidak bisa cantumkan berkas KML dan URL sekaligus (harus salah satu)"
+
+#: 'layer_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com/layerl.kml"
+msgstr "Masukan URL yang valid. Mis. http://www.ushahidi.com/layerl.kml"

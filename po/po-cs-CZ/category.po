@@ -1,0 +1,77 @@
+#. extracted from en_US/category.php, cs_CZ/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "Políčko s barvou musí mít 6 znaků"
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr "Barva je povinná položka"
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr "Políčko popis je povinná položka"
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr "Ujistěte se, že obrázky mají méně než 50KB."
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr ""
+"Obrázek není ve správném formátu; nahrát je možné obrázky ve formátu .JPG, "
+".PNG a .GIF."
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr "Obrázek není ve správném formátu"
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr "Název musí mít ne méně než 3 a ne více než 80 znaků"
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr "Políčko název je povinná položka"
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr "Nadřazená kategorie neexistuje."
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr "Nadřazená kategorie musí být v číselném tvaru."
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr "Políčko nadřazená kategorie je povinná položka."
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr "Kategorie a nadřazená kategorie nemůže být stejná."
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

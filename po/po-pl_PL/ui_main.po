@@ -1,0 +1,2521 @@
+#. extracted from en_US/ui_main.php, pl_PL/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "O "
+
+#: $lang->'access'
+msgid "Access"
+msgstr "Dostęp"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "Limit dostępu"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "Nazwa konta"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "Akcje"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "Czy potwierdzasz akcję (nie będzie później odwrotu)?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr "Aktuwyj"
+
+#: $lang->'active'
+msgid "Active"
+msgstr "Aktywny"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "Dodaj"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "Dodane przez"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr ""
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "Dodatkowe akcje"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "Dodaj/Edytuj"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "Dodaj pole"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "Dodaj język"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "Dodaj nowy"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "Dodaj nową kategorię"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "Dodaj tłumaczenie"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "Administracja"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "Zamów alerty"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "Powiadom mnie, jeśli zostanie wysłany alert z obszaru:"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "Zapisz mój alert"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "Adres email:"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "podaj adres email"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "podaj numer telefonu z kodem krau (+48)"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "Zamów alerty"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "Telefon:"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr ""
+"Albo umieść maker na mapie, a my powiadomimy Cię, jeżeli zostanie zgłoszony "
+"alert w obrębie wybranego przez Ciebie promienia."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr "Jeśli nie możesz znaleźć swojej lokalizacji, wybierz na mapie poprawną."
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "RSS ze wszystkimi alertami:"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "Wybierz miasto"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>Krok 1:</strong> Wybierz miasto bądź lokalizację:"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>Krok 2:</strong> Alerty mają być wysłane na adres:"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr "<strong>Krok 3 (Optional):</strong> Wybierz kategorię"
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr ""
+"Jeżli otrzymałeś już kod weryfikacyjny - kliknij tutaj aby potwierdzić swoje "
+"zgłoszenie."
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr "Twój alert został zachowany"
+
+#: $lang->'all'
+msgid "All"
+msgstr "Wszystkie"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "Dozwolone"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "Wszystkie kategorie"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr ""
+
+#: $lang->'and'
+msgid "and"
+msgstr "i"
+
+#: $lang->'api'
+msgid "API"
+msgstr "API"
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "Zatwierdź"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "Zatwierdzone"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "Zatwierdzone Raporty"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "Zatwierdź ten Raport"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "Przybliżony"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr "Zarchiwizuj"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "Zarchiwizowane"
+
+#: $lang->'at'
+msgid "at"
+msgstr "w"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "Autor"
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr ""
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr "Średnio Raportów Dziennie"
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "Oczekujące akceptacji"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "Oczekujące weryfikacji"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr ""
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr ""
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr ""
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr ""
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr ""
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr ""
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "Blog"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "Kategorie"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "Kategoria"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "Filtr kategorii"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "Kategoria została "
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "Nazwa kategorii"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr ""
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr ""
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr ""
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "Wybierz"
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "Wybierz punkty do pobrania"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr ""
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "Wybierz rodzaj pola"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr "Przyjazne URLe"
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr ""
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr ""
+
+#: $lang->'close'
+msgid "Close"
+msgstr "Zamknij"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "klastry"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "Kolor"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr "Komentarz"
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "Komentarze"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "Treść komentarza"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "Ustawienia zostały zapisane!"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "Skonfiguruj"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr ""
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "Kontakt"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr "Kod bezpieczeństwa"
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr "Adres email"
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr "Wiadomość"
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr "Twoja wiadomość została wysłana!"
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr "Imię"
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr "Numer kontaktowy"
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr "Wyślij wiadomość"
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr "Tytuł"
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "Copyright © 2009-2010 Ushahidi.com. All Rights Reserved."
+
+#: $lang->'create'
+msgid "Create"
+msgstr "Stwórz"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "Stwórz/Edytuj"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "Dodaj nowy"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr ""
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "Dodaj alert"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "Wiarygodność"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr ""
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr ""
+
+#: $lang->'data'
+msgid "Information"
+msgstr "Informacje"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "Data"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(mm/dd/rrrr)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Data i czas"
+
+#: $lang->'day'
+msgid "day"
+msgstr "dzień"
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr "Deaktywuj"
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "Warsaw, Poland"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "Skasuj"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "Skasowane"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "Kasuje"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "Kasowanie wyłączone"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr ""
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "Skasuj ten alert"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr ""
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "Skasuj Spam"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Demo"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "Opis"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr "Przykład: Skrzyżowanie Puławskiej i Goworka, Warszawa"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "Szczegóły"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "Bezpośredni Raport"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "Wyłączone"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "Usuń akceptację"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Pobierz alerty"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "Edytuj"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "Edytuj pola formularza"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "Edytuj alert"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "Adres Email"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "Ustawienia serwera pocztowego"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "Host serwera poczty"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "Hasło serwera poczty"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "Port serwera poczty"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "Obsługa SSL serwera poczty"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "Typ serwera poczty"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "Nazwa użytkownika poczty"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr "Twoje ustawienia zostały skojarzone ze skrzynką"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr ""
+"W celu uzyskiwania alertów przez email, proszę wprowadź dane swojego konta "
+"email. Alerty będą otrzymywane na adres "
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "Niektóre serwery wymagają pełnego adresu email"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "Hasło do konta email"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "Popularne porty: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Przykłady: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "Przykłady: pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "Włączy lub wyłącz połączenia SSL"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr ""
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "do"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "Błąd!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "Przykład"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "Polska"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr ""
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr ""
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "Źródło"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "Wyślij swoją opinię"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr "Prosimy o Twoje opinie (kliknij na link poniżej)."
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "Źródła"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "Źródła zostały"
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "Elementy RSS"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "Nazwa źródła"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "Adres RSS"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "Pole nieużywane"
+
+#: $lang->'file'
+msgid "File"
+msgstr "Plik"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr ""
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "Filtry"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr ""
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr ""
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr ""
+
+#: $lang->'find'
+msgid "Find"
+msgstr "Znajdź"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "Znajdź lokalizację"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "Imię"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr "Uruchom Scheduler"
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "Zapomniałeś hasła?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "Formularz"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "Formularze"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "Opis formularza"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "Edytuj formularz"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "Formularz został"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "Tytuł formularza"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Od"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "Imię i nazwisko"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "Dostępne dane Geolokalizacyjne"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr ""
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr ""
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr ""
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr ""
+
+#: $lang->'go'
+msgid "Go"
+msgstr ""
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "Hashtag"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "Został"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "Chcę pomóc"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr ""
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "Schowaj"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "ukryj tę wiadomość"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "Strona główna"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "Jak zgłaszać alerty"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr ""
+
+#: $lang->'id'
+msgid "ID"
+msgstr "ID"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr ""
+
+#: $lang->'image'
+msgid "Image"
+msgstr "Obraz"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "Zdjęcia"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "Obraz/Ikona"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr "NIeaktywen"
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "Skrzynka odbiorcza"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "Zdarzenie"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "Zdarzenia w pobliżu"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "Lokalizacja zdarzenia"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "Dołącz"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "Podaj kategorię"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr ""
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "Podaj opis"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "Podaj jak najwięcej szczegółów"
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "Podaj Szerokość Geo."
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "Podaj dane lokalizacji"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "Podaj Długość Geo."
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "Media przychodzące"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "Ewaluacja Informacji"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "Podaj swoją dokładną lokalizację"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "W odpowiedzi na"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "Adres IP"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr ""
+
+#: $lang->'item'
+msgid "item"
+msgstr "element"
+
+#: $lang->'items'
+msgid "items"
+msgstr "elementy"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "Szczegóły elementu"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "Tytuł elementu"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "Klucz"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "Plik KMZ/KML"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "Dodaj plik KMZ/KML"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "URL KML"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "Laconica"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "Język"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "Ostatni"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "Ostatni miesiąc"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "Ostatni rok"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "Szerokość geograficzna"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Warstwy"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "Inne warstwy"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "Warstwa została"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "Nazwa warstwy"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "URL warstwy"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "Dodaj komentarz"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr ""
+
+#: $lang->'level'
+msgid "Level"
+msgstr "Poziom"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "Ten poziom został"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "Nazwa poziomu"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "Limit"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "Link"
+
+#: $lang->'list'
+msgid "List"
+msgstr ""
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr ""
+
+#: $lang->'location'
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "Lokalizacje"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "Miasto, stan i/lub kraj"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "Login"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr ""
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr ""
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr ""
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr ""
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr ""
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr ""
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr ""
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr ""
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr ""
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr ""
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "Długość geograficzna"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "Mapa"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "Oznacz jako przeczytane"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "Oznacz jako nieprzeczytane"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr ""
+
+#: $lang->'media'
+msgid "Media"
+msgstr "Media"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "Filtr mediów"
+
+#: $lang->'members'
+msgid "Members"
+msgstr ""
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr ""
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Wiadomość"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Wiadomości"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "Treść wiadomości"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr ""
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr "Mobile"
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "Modyfikuj"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "Modyfikuj datę"
+
+#: $lang->'month'
+msgid "month"
+msgstr "miesiąc"
+
+#: $lang->'more'
+msgid "More"
+msgstr "Więcej"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr ""
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Czy ta instancja Ushahidi wspiera wiele krajów"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+
+#: $lang->'name'
+msgid "Name"
+msgstr "Nazwa"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr "Raport w pobliżu"
+
+#: $lang->'new'
+msgid "New"
+msgstr "Nowy"
+
+#: $lang->'news'
+msgid "News"
+msgstr "Newsy"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "Źródła wiadomości"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "Źródła newsów"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "Nowa kategoria"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Nowe hasło"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "Nowy raport"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "Następny"
+
+#: $lang->'no'
+msgid "No"
+msgstr "Nie"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr ""
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr ""
+
+#: $lang->'none'
+msgid "None"
+msgstr ""
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "Powiadomienia"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "Nie zaakceptowane"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "Nie zaakceptowane"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr ""
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "nie spam"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr ""
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr ""
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "Nie ma rezultatów"
+
+#: $lang->'off'
+msgid "Off"
+msgstr ""
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "Wiadomości"
+
+#: $lang->'on'
+msgid "On"
+msgstr ""
+
+#: $lang->'option'
+msgid "Option"
+msgstr "Opcja"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "Opcjonalny"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "Opcje"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "Organizacja"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "Organizacje"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "Opis organizacji"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "Email organizacji"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "Organizacja została"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "Nazwa organizacji"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "Telefon organizacji"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "Drugi telefon do organizacji"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "Adres www organizacji"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "Oryginalne"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "Opis"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "Tytuł"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "Inne instancje ushahidi"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "Elementy wysłane"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "Elementy wychodzące"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "Strona"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "Strony"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "Opis strony"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "Strona została"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "Tutuł strony"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "Tytuł strony"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "Kategoria nadrzędna"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "Hasło"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "Powtórz hasło"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr ""
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "Zapomniałeś hasła?"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "Sprawdź swój email w celu uzyskania nowego hasła"
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "Pozostań zalogowany na tym komputerze"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "Ostatni miesiąc"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "Ostatni rok"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "Oczekujące"
+
+#: $lang->'per'
+msgid "per"
+msgstr "na"
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "Informacje dodatkowe <span>Opcjonalne.</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Telefon"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr ""
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "Zdjęcia"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "Zdjęcia i video"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"* Wyszukaj lokalizację (podając nazwę miejscowości lub wpisując kod pocztowy "
+"np.: Polska,00-581), bądź wskaż ją na mapie"
+
+#: $lang->'play'
+msgid "Play"
+msgstr "Graj"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "Proszę zanotuj"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr "Wtyczki"
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr "Strona wtyczki"
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr ""
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr ""
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "Podgląd"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "Podgląd"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "Podgląd wiadomości"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: $lang->'private'
+msgid "Private"
+msgstr ""
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr ""
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "Twój profil został zapisany"
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "Statystyki"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "Ocena"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "Przeczytane"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "Otrzymane"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "Otrzymane od"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "Otrzymuj powiadomienia"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "Otrzymane Raporty"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "Odśwież źródła newsów"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr ""
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "usuń"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "Odpowiedz"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "Raport"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr ""
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "Reporter"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Reporterzy"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "Data Reportera"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "Email Reportera"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "Imię zgłaszającego"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "Reporter został"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "IP Reportera"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "Nazwisko Reportera"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "Poziom Reportera"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Poziomy Reporterów"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "Telefon Reportera"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Raporty"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "Przeglądaj"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "Wyślij"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr ""
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "Kategorie"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "Data"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "Opis"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "Raporty zostaną pobrane w formacie CSV"
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr ""
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "Znajdź lokalizację w pobliżu"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "Imię"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "Określ nazwę lokalizacji"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "Źródło wiadomości"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "Informacje dodatkowe"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "Dodaj zdjęcia"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "Powróć do strony z alertami"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "Wybierz miasto"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr ""
+"Twoje zgłoszeni zostało dodane i oczekuje akceptacji. Nasz zespół "
+"skontaktuje się z Tobą jeżeli będzie to konieczne."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "Wyślij nowy alert"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "Czas"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "linia czasu"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "Tytuł alertu"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "Link do video"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "Dodaj alert"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr "Szczegóły alertu"
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- wybierz jeden ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "Tak, źródło ma bezpośredni dostęp do informacji"
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Tak, źródło ma dostęp do informacji, ale może się mylić"
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr ""
+"Tak, źródło nie ma bezpośredniego dostępu do informacji, ale często jest "
+"poprawne"
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "Nie zawsze, ale często jest poprawne"
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "Nie, źródło nie ma dostępu do informacji"
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "Nie wiem"
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "Wiarygodność Żródła"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- wybierz jeden ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "Tak, informacja jest potwierdzona przez kilka źródeł"
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr ""
+"Tak, informacje nie została potwierdzone (jeszcze) ale jest prawdopodobna"
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "Tak, informacja brzmi sensownie"
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "Nie, informacja jest zaskakująca"
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr "Nie, informacja jest nieprawdopodobna i może być dezinformacją"
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "Nie wiem"
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "Prawdopodobieństwo Informacji"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "Przez wysłanie wiadomośći do"
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "Przez wysłanie emaila do "
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "Na Twitterze dodaj tag "
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "Przez wysłanie niniejszego formularza"
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr ""
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "Twój Raport został wysłany"
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "Tytuł Raportu"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "Poproś o więcej informacji"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "Poproś o lokalizację"
+
+#: $lang->'required'
+msgid "Required"
+msgstr ""
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "Wymagania"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr ""
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr ""
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "Zresetuj hasło"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "Pobierz nazwy miast z wybranego kraju"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr ""
+
+#: $lang->'role'
+msgid "Role"
+msgstr "Rola"
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "Zapisz"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "Zapisane"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr ""
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "Zapisz i zamknij"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "Zapisz alert"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr "Schedule"
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr "Scheduler"
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr "Dzień"
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr "Godzina"
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr "Log Schedulera"
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr "Minuta"
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr "Dzień Tygodnia"
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "Szukaj"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "Kod bezpieczeństwa"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "Wybierz wszystko"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "Wybierz rodzaj pola"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "Wybierz rodzaj formularza"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "Wybierz na mapie"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "Wybierz wszystkie wymagane"
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "Zweryfukuj czy wybrałeś"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "Wybierz temat"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "Wyślij"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr ""
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "Wyślij do"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "Wysłane"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "Wysłane przez"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "Adres serwera"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "Typ serwera"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "Usługa"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "Nazwa użytkownika"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "ID nazwy użytkownika"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "Udostępnij"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "Dabe udostępniane"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "Udostępnianie zostało"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "Udostępnianie"
+
+#: $lang->'show'
+msgid "Show"
+msgstr "Pokaż"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "Pokaż wszystkie"
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr ""
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr ""
+
+#: $lang->'site'
+msgid "Website"
+msgstr "Strona"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "adres email strony"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "URL"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "SMS"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr ""
+
+#: $lang->'source'
+msgid "Source"
+msgstr "Źródło"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "Nazwa źródła"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "URL źródła"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "Spam"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "SSL wspierany?"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "Od"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "Krok"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "Dodaj alert"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "Zgłoszone przez"
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "Zgłoś przez SMS"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "Wyślij SMS do"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "na telefon"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr "Powiodło się!"
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "Zaimportowane z sukcesem"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "Nazwisko"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr ""
+
+#: $lang->'system'
+msgid "System"
+msgstr "System"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "Port TCP"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "Szablony"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "Domyślny szablon Ushahidi"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "Ustawienia szablonu"
+
+#: $lang->'this'
+msgid "This"
+msgstr "Ten"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "Dzisiaj"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "Ten miesiąc"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr ""
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "Ten rok"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr ""
+
+#: $lang->'through'
+msgid "through"
+msgstr ""
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "czas"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "Tytuł"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "do"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "Dziś"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "Dziś o"
+
+#: $lang->'token'
+msgid "Token"
+msgstr ""
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr "Wszystkich Raportów"
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "Przetłumaczone"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "Przetłumaczone Opisy"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "Przetłumaczony tytuł"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "Przetłumacz na"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "Tłumaczenie"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "Tłumaczenie zostało zapisane"
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "Prawdomówność"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "Tak, źródło ma bezpośredni dostęp do informacji"
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "Tak, źródło ma dostęp do informacji, ale może się mylić"
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr ""
+"Tak, źródło nie ma bezpośredniego dostępu do informacji, ale często jest "
+"poprawne"
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "Nie zawsze, ale często jest poprawne"
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "Nie, źródło nie ma dostępu do informacji"
+
+#: $lang->'type'
+msgid "Type"
+msgstr ""
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "Twitter"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr ""
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "Brak nieprzeczytanych"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "Niezweryfikowane"
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "Uaktualnij źródła"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "Dodaj"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "Plik do wgrania"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Wgraj alerty"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr ""
+"Za pomocą poniższego formualrza możesz importować zdarzenia do silnika "
+"Ushahidi"
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "Raporty muszą być dodane w formacie CSV"
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr ""
+"Gdy ID zdarzenia istnieje już w systemie, zdarzenie z pliku CSV zostanie "
+"pominięte. "
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr "Plik musi zawierać co najmniej Tytuł Zdarzenia i Datę"
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "Przykładowy Raport CSV"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />\r\n"
+"\t\t\t\t\t\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",TAK,TAK"
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Poznań\",\"Radość kibiców "
+"Lecha\",\"PROPERTY LOSS, \",TAK,NIE"
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "Dodawanie powiodło się"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr ""
+
+#: $lang->'url'
+msgid "URL"
+msgstr ""
+
+#: $lang->'user'
+msgid "User"
+msgstr "Użytkownik"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "Admin Ushahidi"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr ""
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "Zweryfikowane"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "Zweryfikowane alerty"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "Zweryfikuj"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "Weryfikuj ten alert"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Wersia"
+
+#: $lang->'via'
+msgid "via"
+msgstr "przez"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "Wideo"
+
+#: $lang->'view'
+msgid "View"
+msgstr "Pokaż"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "Odsłony"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "Pokaż wszystkie"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "Pokaż wszystkie feedy"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "Pokaż wszystkie alerty"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "Pokaż elementy"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr "Zobacz więcej"
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr ""
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "Pokaż alert"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "Pokaż alerty"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "Widoczne"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "Oczekujące akceptacji"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "Oczekujące weryfikacji"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr ""
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "Cieżar"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Tak"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr "Wczoraj"
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr ""
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr ""
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr ""
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr ""

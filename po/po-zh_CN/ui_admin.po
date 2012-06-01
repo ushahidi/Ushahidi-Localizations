@@ -1,0 +1,1262 @@
+#. extracted from en_US/ui_admin.php, zh_CN/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr "拒绝登入。您的证书无效，或您的请求被拒绝。"
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr "拒绝登入。您的请求已收到，但由于登入限制（如时间）原因，该请求已被拒绝。请稍后再试。"
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr ""
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "操作"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr ""
+
+#: $lang->'added'
+msgid "added"
+msgstr "已增加"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "已增加/编辑"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr "插件"
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr "管理员"
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr ""
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr ""
+
+#: $lang->'am'
+msgid "AM"
+msgstr "上午"
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "匿名"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr ""
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr ""
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API禁止"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr "API 日志"
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr "API设置"
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr "取消禁止"
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr "全部取消禁止"
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "已验证"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr "自动验证"
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr "手动验证"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "已归档"
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr "您确定您要"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr "您确定您要删除该项吗"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr "您确定您要删除该照片吗"
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr "您确定希望更换表单吗"
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr ""
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr ""
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr ""
+
+#: $lang->'author'
+msgid "Author"
+msgstr "作者"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "作者邮件"
+
+#: $lang->'back'
+msgid "Back"
+msgstr "返回"
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr "禁止IP"
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr ""
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr ""
+
+#: $lang->'body'
+msgid "Body"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "取消"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "分类"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "表格显示错误"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "请确认您的消息有效"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "请确认该号码有效"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "请查看您的SMS设置！"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr ""
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr "计入"
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "已载入城市"
+
+#: $lang->'code'
+msgid "code"
+msgstr "代码"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "代码版本未能同步"
+
+#: $lang->'color'
+msgid "Color"
+msgstr ""
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "评论"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "您的警告验证码是："
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "该用户已被"
+
+#: $lang->'count'
+msgid "Count"
+msgstr ""
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "无法找到国家"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "创建/编辑"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "创建报道"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr "关键更新"
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr ""
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr ""
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr ""
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "每天"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "概览"
+
+#: $lang->'database'
+msgid "database"
+msgstr "数据库"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "日期与时间"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr ""
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr "数据库版本未能同步"
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "删除"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "删除 "
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "删除全部"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr ""
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "演示"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "描述"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "禁用"
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr ""
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr ""
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr ""
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "下载报告"
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr ""
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr "由%s编辑"
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "编辑"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr "编辑记录"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "电子邮件"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr ""
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "地域符合中发生错误！HTTP错误"
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr "IMAP PHP库未安装"
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "错误"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "错误，无法发布事件"
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "每六个小时"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "每12个小时"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr "试验性的"
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr "FAQ"
+
+#: $lang->'feed'
+msgid "feed"
+msgstr "反馈"
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "反馈"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr "反馈"
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr ""
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "默认值"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr ""
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr ""
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr ""
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr ""
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr ""
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "高度（行）"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr ""
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "最大字母数"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "域名称"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr ""
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr ""
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr ""
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr ""
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "无法找到上传的文件"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "无法打开文件"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "该类型不存在"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "论坛"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "文本区域（自由文本）"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr ""
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr ""
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr ""
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr ""
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "从"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "从"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "地名资讯超时错误"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "需要帮助"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "操作"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "增加/编辑"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "电子邮件"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "管理用户"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "角色"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "用户"
+
+#: $lang->'help'
+msgid "help"
+msgstr "帮助"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "每小时"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr "对事件的反馈"
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "事件"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "事件"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "事件详情"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "无效的参数"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP地址"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "这是一个数据域吗？"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr ""
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr ""
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr ""
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr ""
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "电子邮件地址："
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr "全名："
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr "密码："
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr "角色："
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr "用户名："
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "层："
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "管理员："
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "登出"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "日志"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "管理"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr "管理角色与权限"
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "查看用户"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr "添加/编辑用户"
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr ""
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "标记为非垃圾邮件"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "标记为垃圾邮件"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "不符合任何文档"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "短信"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "短信"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Laconica信息"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "推特信息"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "您的信息已发送！"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr "MHI"
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr "分"
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "缺少参数"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr "管理员"
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "修改"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr ""
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "下移"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "上移"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "多主机实例"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr ""
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr ""
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "我的信息"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr ""
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr ""
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr ""
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr ""
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr ""
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr ""
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr ""
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "新密码"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "否"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "通告"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "不区分大小写"
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "无法找到"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr "没有数据。没有可显示的结果"
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "没有错误"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "没有可以显示的结果！"
+
+#: $lang->'of'
+msgid "of"
+msgstr "自"
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr ""
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr ""
+
+#: $lang->'page'
+msgid "page"
+msgstr "页"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "页"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "页面无法找到"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "使用的参数"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "密码"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "重置密码"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr "no-reply@ushahidi.com"
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "亲爱的"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr "我们收到了重置密码的请求，发送自"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr "如果要修改您的密码，请点击下面的链接（或将其复制粘贴到您的浏览器地址栏）"
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr "根据您的请求，您的密码将被重置。可以在下面的地址查看详细信息："
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "Ushahidi密码重置"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "电话"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr ""
+
+#: $lang->'pm'
+msgid "PM"
+msgstr "短信"
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "数据未能以发布方式送出"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr ""
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr ""
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'private_to'
+msgid "To"
+msgstr ""
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr "公共列表"
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr ""
+
+#: $lang->'read'
+msgid "read"
+msgstr "读取"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "相关"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "报告人"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "报告人等级"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "灾情报道"
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr ""
+
+#: $lang->'required'
+msgid "Required"
+msgstr "必需项"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "重置"
+
+#: $lang->'response'
+msgid "Response"
+msgstr ""
+
+#: $lang->'results'
+msgid "Results"
+msgstr "结果"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr ""
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: $lang->'search'
+msgid "Search"
+msgstr "搜索"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "搜索："
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "--- 选择一个类型 ---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "选择一项"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr ""
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr ""
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "发送者"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr ""
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "来自您的网站的信息发送时间为"
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr "服务器时间"
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "设置"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr "显示页"
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "显示结果"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr ""
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr "特殊分类"
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr "这是一个特殊分类，将不会在用户提交的报告表单中显示。该分类需与“可信的报告者”一起使用"
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr ""
+
+#: $lang->'state'
+msgid "State"
+msgstr ""
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "数据"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "浏览数据"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr "数据收集失败！请稍后重试"
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "数据收集失败"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr ""
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "超级管理员"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "任务已完成"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "文字栏"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "姓名"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "管理用户"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "至"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "合计结果"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "至"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "翻译结果"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr ""
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr ""
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr ""
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "未验证的"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "未知"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "未读"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr "点击立即升级"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "升级Ushahidi"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "Ushahidi升级状态"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "上传报告"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr ""
+
+#: $lang->'users'
+msgid "Users"
+msgstr "用户"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr "Ushahidi"
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr ""
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr ""
+
+#: $lang->'version'
+msgid "Version"
+msgstr "版本"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr "可用于升级"
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "查看页面"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr ""
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "欢迎，"
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr "维基"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "是"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "您的搜索"

@@ -1,0 +1,89 @@
+#. extracted from en_US/form.php, id_ID/form.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'field_default'->'default'
+msgid "The default value you have provided for the field is invalid."
+msgstr ""
+
+#: 'field_default'->'length'
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long.'\n"
+"\t),\n"
+"\t\t'between' => 'Please enter a value 0 to 50 for the Field Height."
+msgstr "Panjang nama minimal 3 karakter tapi tidak boleh lebih dr 200 karakter"
+
+#: 'field_isdate'->'between'
+msgid "You have entered an invalid value for Date Field."
+msgstr "Format tanggal yang anda masukkan salah"
+
+#: 'field_isdate'->'required'
+msgid "Please select Yes or No for the Date Field."
+msgstr "Mohon hanya pilih Yes atau No pada isian tanggal"
+
+#: 'field_name'->'length'
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgstr "Panjang nama minimal 3 karakter tapi tidak boleh lebih dr 100 karakter"
+
+#: 'field_name'->'required'
+msgid "Please enter Field Name."
+msgstr "Masukan nama anda"
+
+#: 'field_required'->'between'
+msgid "You have entered an invalid value for Field Required."
+msgstr "Salah satu masukan anda pada isian wajib yang ada, salah"
+
+#: 'field_required'->'required'
+msgid "Please select Yes or No for Field Required."
+msgstr "Mohon hanya pilih Yes atau No pada isian yang diwajibkan"
+
+#: 'field_type'->'numeric'
+msgid "Please select a valid Field Type."
+msgstr "Mohon pastikan tipe isian yang anda pilih sudah benar"
+
+#: 'field_type'->'required'
+msgid "Please select a Field Type."
+msgstr "Pilih tipe isian"
+
+#: 'field_width'->'between'
+msgid "Please enter a value 0 to 300 for the Field Width."
+msgstr "Isian lebar hanya boleh diisi angka antara 0 - 300"
+
+#: 'form_description'->'required'
+msgid "Please enter form's Description."
+msgstr "Masukan sertakan keterangan pada formulirnya"
+
+#: 'form_id'->'default'
+msgid "The default form cannot be deleted."
+msgstr "Formulir default tidak bisa dihapus"
+
+#: 'form_id'->'numeric'
+msgctxt "'form_id'->'numeric'"
+msgid "Please select which form to add this field to."
+msgstr "Silakan pilih ke formulir yang mana isian ini akan ditambahkan"
+
+#: 'form_id'->'required'
+msgctxt "'form_id'->'required'"
+msgid "Please select which form to add this field to."
+msgstr "Silakan pilih ke formulir yang mana isian ini akan ditambahkan"
+
+#: 'form_title'->'length'
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
+msgstr ""
+"Panjang nama formulis minimal 3 karakter dan tidak boleh lebih dari 100 "
+"karakter"
+
+#: 'form_title'->'required'
+msgid "Please enter the name of the form."
+msgstr "Masukan nama formulir"

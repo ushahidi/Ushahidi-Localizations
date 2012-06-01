@@ -1,0 +1,2524 @@
+#. extracted from en_US/ui_main.php, ka_GE/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "შესახებ"
+
+#: $lang->'access'
+msgid "Access"
+msgstr "ხელმისაწვდომობა"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "ხელმისაწვდომობის ლიმიტი"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "ანგარიშის სახელი"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "ქმედებები"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "ამ ბრძანებას ვერ გააუქმებთ. დარწმუნებული ხართ რომ გინდათ გაგრძელება?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr "გააქტიურება"
+
+#: $lang->'active'
+msgid "Active"
+msgstr "გააქტიურება"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "დამატება"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "დამატებულია"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr ""
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "დამატებითი ანგარიშები"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "დამატება/რედაქტირება"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "ველის დამატება"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "ენის დამატება"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "ახლის დამატება"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "ახალი კატეგორიის დამატება"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "თარგმანის დამატება"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "ადმინისტრაცია"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "შეტყობინების მიღება"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "შემატყობინეთ თუ ანგარიში შევსებულია:"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "შეტყობინების შენახვა"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "ელექტრონული ფოსტის მისამართი:"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "ელექტრონული ფოსტის მისამართის შეყვანა"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "შეიყვანეთ თქვენი მობილურის ნომერი. მაგალითად - 577 XXXXXX"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "შეტყობინების მიღება"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "მობილურ ტელეფონზე:"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr ""
+"ან მონიშნეთ ადგილი ქვემოთ განთავსებულ რუკაზე და მიიღეთ ინფორმაცია 20 "
+"კილომეტრის რადიუსში შემოსული შეტყობინების შესახებ ."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"თუ ვერ იპოვეთ თქვენი ადგილმდებარეობა, სწორი მდებარეობის მოსანიშნად "
+"დააწკაპუნეთ რუკაზე."
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "RSS Feeds (დააკოპირეთ ქვემოთ მოცემული მისამართი (url)"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "აირჩიეთ ქალაქი"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>ნაბიჯი 1:</strong> აირჩიეთ ქალაქი ან თქვენი ადგილმდებარეობა:"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>ნაბიჯი 2:</strong> შეტყობინება გამოაგზავნეთ ჩემ:"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr "<strong>ნაბიჯი 3 (ნებაყოფლობითია):</strong> აირჩიეთ კატეგორიები"
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr "დაადასტურეთ მოთხოვნა წინა შეტყობინებაზე"
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr "თქვენი შეტყობინება შენახულია!"
+
+#: $lang->'all'
+msgid "All"
+msgstr "ყველა"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "ნებადართული"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "ყველა კატეგორია"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr ""
+
+#: $lang->'and'
+msgid "and"
+msgstr "და"
+
+#: $lang->'api'
+msgid "API"
+msgstr "API"
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "დადასტურება"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "დადასტურებულია"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "ანგარიში დადასტურებულია"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "დაადასტურე ანგარიში"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "სავარაუდო"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr "არქივი"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "დაარქივებული"
+
+#: $lang->'at'
+msgid "at"
+msgstr "დან"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "ავტორი"
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr ""
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr "Avg ანგარიშები დღეში"
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "ელოდება დამტკიცებას"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "ელოდება შემოწმებას"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr ""
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr ""
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr ""
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr ""
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr ""
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr ""
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "ბლოგი"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "გაუქმება"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "კატეგორიები"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "კატეგორია"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "კატეგორიის ფილტრი"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "კატეგორია უკვე"
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "კატეგორიის სახელი"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr ""
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr ""
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr ""
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "აირჩიე"
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "ჩამოსატვირთად აირჩიე მონაცემები"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr ""
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "აირჩიე ველის ტიპი"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr "წაშალე მისამართები (URLs)"
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr ""
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr "გაასუფთავე რუქა"
+
+#: $lang->'close'
+msgid "Close"
+msgstr "დახურე"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "კლასტერები (clusters)"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "ფერი"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr "კომენტარი"
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "კომენტარები"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "ცომენტარის დეტალები"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "თქვენი პარამეტრები შენახულია!"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "კონფიგურაცია"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr ""
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "დაგვიკავშირდით"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr "უსაფრთხოების კოდი"
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr "ელექტრონული ფოსტის მისამართი"
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr "მესიჯი"
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr "თქვენი მესიჯი გაგსავნილია!"
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr "სახელი"
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr "ტელეფონის ნომერი"
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr "შეტყობინების გაგზავნა"
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr "შეტყობინების თემა"
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "საავტორო უფლებები ©"
+
+#: $lang->'create'
+msgid "Create"
+msgstr "შექმნა"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "შექმნა/რედაქტირება"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "ახლის შექმნა"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr ""
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "ანგარიშის შექმნა"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "სანდოობა"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr ""
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr ""
+
+#: $lang->'data'
+msgid "Information"
+msgstr "ინფორმაცია"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "თარიღი"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(თვე/დღე/წელი)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "თარიღი და დრო"
+
+#: $lang->'day'
+msgid "day"
+msgstr "დღე"
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr "დეაქტივაცია"
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "ნაირობი, კენია"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "წაშლა"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "წაშლილია"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "შლის"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "წაშლა შეზღუდულია"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr "ბოლოს წაშლა"
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "ამ ანგარიშის წაშლა"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr "მონიშნულის წაშლა"
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "სპამის წაშლა"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "დემო"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "აღწერილობა"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr ""
+"მაგალითი: ქალაქის ბაზარის კუთხე, მე-5 ქუჩა და მე-4 გამზირი, იოჰანესბურგი"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "დეტალები"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "პირდაპირი ანგარიში"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "შეზღუდულია"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "დაუმრკიცებელი"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "ანგარიშის ჩამოტვირთვა"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "რედაქტირება"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "ველებიდან რეედაქტირება"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "ანგარიშის რედაქტირება"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "Email"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "ელექტრონული ფოსტის მისამართზე"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "ელექტრონული ფოსტის სერვერის პარამეტრები"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "ელექტრონული ფოსტის სერვერის ჰოსტინგი"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "ელექტრონული ფოსტის სერვერის პაროლი"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "ელექტრონული ფოსტის სერვერის პორტი"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "ელექტრონული ფოსტის სერვერის SSL support-ი"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "sელექტრონული ფოსტის სერვერის ტიპი"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "ელექტრონული ფოსტის სერვერის მომხმარებლის სახელი"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr ""
+"თქვენი პარამეტრები უნდა იყოს დაკავშირებული ამ ელექტრონული ფოსტის მისამართთან"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr ""
+"ელექტრონული ფოსტით ანგარიშების მისაღებად, გთხოვთ დაბლა შეიყვანეთ თქვენი "
+"ფოსტის ანგარიშის პარამეტრები. გთხოვთ გაითვალისწინოთ, რომ ფოსტას მიიღებთ "
+"თქვენს"
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "ზოგიერთი სერვერები მოითხოვენ სრულ საფოსტო მისამართს"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "ელექტრონული ფოსტის ანგარიშის პაროლი"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "საერთო პორტები: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "მაგალითები: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "მაგალითები: pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "შესაძლებელი ან შეუძლებელი SSL კავშირები"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr ""
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "დან"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "შეცდომა!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "მაგალითი"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "კენია"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr ""
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr ""
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "კავშირი"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "შეფასება"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr "დააჭირეთ დაბლა ღილაკს და გაგვიზიარეთ თქვენი გამოცდილება."
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "კავშირები"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "კავშირი უკვე"
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "კავშირის საკითხები"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "კავშირის სახელი"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "კავშირის მისამართი (URL)"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "გამოუყენებელი ველი"
+
+#: $lang->'file'
+msgid "File"
+msgstr "ფაილი"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr ""
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "ფილტრები"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr ""
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr ""
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr ""
+
+#: $lang->'find'
+msgid "Find"
+msgstr "ძებნა"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "ადგილდებარეობის მოძებნა"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "სახელი"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr "დამგეგმავის გაშვება"
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "დაგავისყდათ თქვენი პაროლი?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "ფორმა"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "ფორმები"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "აღწერილობის ფორმა"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "ამ ფორმის რედაქტირება"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "ფორმა უკვე"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "ფორმის დასახელება"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "მდე"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "სრული სახელი"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "ადგილდებარეობა ხელმისაწვდომია"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr "ფერი"
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr "კომენტარები"
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr "ეტიკეტი"
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr "შტრიხის სიგანე"
+
+#: $lang->'go'
+msgid "Go"
+msgstr ""
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "ჰეშტეგი (#)"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "იყო"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "როგორ დაგეხმაროთ"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr "დამალული"
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "დამალვა"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "ამ მესიჯის დამალვა"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "მთავარი"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "როგორ უნდა შეგვატყობინოთ"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr ""
+
+#: $lang->'id'
+msgid "ID"
+msgstr "პირადობა (ID)"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr ""
+
+#: $lang->'image'
+msgid "Image"
+msgstr "სურათი"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "სურათი"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "სურათი/გამოსახულება"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr "არააქტიური"
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "შემოსული"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "ინციდენტი"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "ახლოს მდებარე ინციდენტები"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "ნციდენტის ადგილმდებარეობა"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "ჩართვით"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "კატეგორიების ჩათვლით"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr ""
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "აღწერილობების ჩათვლით"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "რაც შეიძლება მეტი დეტალების ჩათვით"
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "გრძედის ჩათვლით"
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "ადგილდებარეობის ინფორმაციის ჩათვლით"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "გრძედის ჩათვლით"
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "მედიის ჩათვლით"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "ინფორმაციის შეფასება"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "მიუთითეთ თქვენი ზუსტი ადგილმდებარეობა"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "საპასუხოდ"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP მისამართი"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr ""
+
+#: $lang->'item'
+msgid "item"
+msgstr "საკითხი"
+
+#: $lang->'items'
+msgid "items"
+msgstr "საკითხები"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "საკითხის დეტალები"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "საკითხის სათაური"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "გასაგები"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "KMZ/KML ფაილი"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "ატვირთეთ KMZ/KML ფაილი"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "KML მისამართი (URL)"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "Laconica"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "ენა"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "ბოლო"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "ბოლო თვე"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "გვარი"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "ბოლო წელი"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "განედი"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "ფენები"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "სხვა ფენები"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "ფენები უკვე"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "ფენების სახელები"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "ფენების მისამართი (URL)"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "კომენტარის დატოვება"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr ""
+
+#: $lang->'level'
+msgid "Level"
+msgstr "დონე"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "ეს დონე უკვე"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "დონის სახელი"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "შეზღუდული"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "ლინკი"
+
+#: $lang->'list'
+msgid "List"
+msgstr ""
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr ""
+
+#: $lang->'location'
+msgid "Location"
+msgstr "ადგილმდებარეობა"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "ადგილდებარეობები"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "ქალაქი, რეგიონი და/ან რაიონი"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "შესვლა"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr ""
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr ""
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr ""
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr ""
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr ""
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr ""
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr ""
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr ""
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr ""
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr ""
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr ""
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "გრძედი"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "რუქა"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "მონიშნო როგორც წაკითხული"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "მონიშნო როგორც წაუკითხავი"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr ""
+
+#: $lang->'media'
+msgid "Media"
+msgstr "მედია"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "მედია ფილტრი"
+
+#: $lang->'members'
+msgid "Members"
+msgstr ""
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr ""
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "შეტყობინება"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "შეტყობინება"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "მესიჯის დეტალები"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr ""
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr "მობილური"
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "შეცვლა"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "თარიღის შეცვლა"
+
+#: $lang->'month'
+msgid "month"
+msgstr "თვე"
+
+#: $lang->'more'
+msgid "More"
+msgstr "მეტი"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr "მეტი ინფორმაცია"
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "მოიცავს თუ არა უშაჰიდი მრავალ ქვეყნებს"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+
+#: $lang->'name'
+msgid "Name"
+msgstr "სახელი"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr "ახლოს მდებარე ანგარიში"
+
+#: $lang->'new'
+msgid "New"
+msgstr "ახალი"
+
+#: $lang->'news'
+msgid "News"
+msgstr "სიახლეები"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "სიახლის კაბშირი"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "ადგილმდებარეობა"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "სიახლის კატეგორია"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "ახალი პაროლი"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "ახალი ანგარიში"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "შემდეგი"
+
+#: $lang->'no'
+msgid "No"
+msgstr "არა"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr ""
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr ""
+
+#: $lang->'none'
+msgid "None"
+msgstr ""
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "შენიშვნები"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "არ დამტკიცებულა"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "არ დამტკიცებულა"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr ""
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "არ არის სპამი"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr "არ არის განსაზღვრული"
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr "აქ არ არის ანგარიშები"
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "აქ არ არის რეზულტატი"
+
+#: $lang->'off'
+msgid "Off"
+msgstr ""
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "ოფიციალური და ძირითადი სიახლეები"
+
+#: $lang->'on'
+msgid "On"
+msgstr ""
+
+#: $lang->'option'
+msgid "Option"
+msgstr "არჩევანი"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "არასავალდებულო"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "პარამეტრები"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "ორგანიზაცია"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "ორგანიზაციები"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "ორგანიზაციის აღწერილობა"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "ორგანიზაციის ელექტრონული ფოსტა"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "ორგანიზაცია უკვე"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "ორგანიზაციის სახელი"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "ორგანიზაციის ტელეფონის ნომერი 1"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "ორგანიზაციის ტელეფონის ნომერი 2"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "ორგანიზაციის ვებ-გვერდი"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "ორიგინალი"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "ორიგინალის აღწერა"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "ორიგინალის სათაური"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "უშაჰიდის სხვა"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "outbox"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "გამავალი"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "გვერდი"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "გვერდები"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "გვერდის აღწერილობა"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "გვერდი უკვე"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "გვერდის tab-ის სახელი"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "გვერდის სათაური"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "საწყისი კატეგორია"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "პაროლი"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "გაიმეორე თქვენი პაროლი"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr ""
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "დაგავიწყდათ თქვენი პაროლი?"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "ახალი პაროლისთვის შეამოწმეთ თქვენი ელექტრონული ფოსტა."
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "შესული ხართ ამ კომპიუტერიდან?"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "გასული თვე"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "გასული წელი"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "მოლოდინში"
+
+#: $lang->'per'
+msgid "per"
+msgstr "ით"
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "პერსონალური ინფორმაცია <span>არასავალდებულო.</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "ტელეფონი"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr ""
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "სურათები"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "სურათები და ვიდეოები"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr ""
+"* მოძებნეთ თქვენი მდებარეობა განედისა და გრძედის კოორდინატების გამოყენებით "
+"(ფორმატი: 38.19,-85.61), ან სწორი მდებარეობის მოსანიშნად დააწკაპუნეთ რუკაზე."
+
+#: $lang->'play'
+msgid "Play"
+msgstr "თამაში"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "გთხოვთ ჩაინიშნოთ,"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr "Plugins"
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr "Plugin ვებ-გვერდები"
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr ""
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr ""
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "გადახედვა"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "საკითხების გადახედვა"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "მესიჯების გადახედვა"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "წინა"
+
+#: $lang->'private'
+msgid "Private"
+msgstr ""
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr ""
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "თქვენი პროფილი დამახსოვრებულია"
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "სწრაფი სტატისტიკა"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "რაიტინფი"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "Le�do"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "მიღება"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "მიიღოს"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "შეტყობინების მიღება"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "უახლესი ანგარიშები"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "სიახლეების განახლება"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr ""
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "წაშლა"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "პასუხი"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "ანგარიში"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr ""
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "რეპორტიორი"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "რეპორტიორები"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "ანგარიშის თარიღი"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "რეპორტიორის ელექტრონული ფოსტა"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "რეპორტიორის სახელი"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "რეპორტიორი უკვე"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "რეპორტიორის IP მისამართი"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "რეპორტიორის გვარი"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "რეპორტიორის დონე"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "რეპორტიორის დონეები"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "რეპორიორის ტელეფონი"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "შეტყობინება"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "დათვალიერება"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "გაგზავნა"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr ""
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "კატეგორიები"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "თარიღი"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "აღწერილობა"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "ანგარიში ჩამოიტვირთება CSV ფორმატში"
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "ელექტრონული ფოსტა"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr "მახასიათებლები"
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "იპოვე ადგილმდებარეობა შენთან ახლოს"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "სახელი"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "გვარი"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "ადგილმდებარეობის დაზუსტება"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "ინფორმაციის წყაროს ბმული"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "დამატებითი ინფორმაცია"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "ფოტოების ატვირთვა"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "ანგარიშების გვერდზე დაბრუნება"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "აირჩიე ქალაქი"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr ""
+"თქვენი ანგარიში უკვე გადაეცა ჩვენს თანამშრომლებს გადასახედად.აუცილებლობის "
+"შემთხვევაში ჩვენ მალევე დაგიბრუნდებით."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "შეტყობინების გაგზავნა"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "დრო"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "ქრონოლოგია"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "შეტყობინების სათაური"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "ვიდეოს ბმული"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "შეგვატყობინეთ ინციდენტი"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr "ანგარიშის დეტალები"
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- აირჩიეთ ერთი ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "დიახ, წყაროს აქვს პირდაპირი ხელმისაწვდომობა ინფორმაციაზე"
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr ""
+"დიახ, წყაროს აქვს ხელმისაწვდომობა ინფორმაციაზე, მაგრამ შეიძლება არასწორი"
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr ""
+"დიახ, ამ წყაროს აქვს პირდაპირი ხელმისაწვდომობა ინფორმაციაზე, მაგრამ ხშირად "
+"მართალია"
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "ყოველთვის არა, მაგრამ ხშირად სწორია"
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "არა, წყაროს არ აქვს (არ ჰქონდა) ინფორმაციაზე ხელმისაწვდომობა"
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "არ ვიცი"
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "წყაროს საიმედოობა"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- აირჩიეთ ერთი ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "დიახ, ინფორმაცია გადამოწმებულია რამდენიმე წყაროსთან"
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr "დიახ, ინფორმაცია ჯერ არ არის გადამოწმებული, მაგრამ სავარაუდოდ"
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "დიახ, ინფორმაცია აზრიანია"
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "არა, ინფორმაცია გასაკვირია"
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr "არა, ინფორმაცია საეჭვოა და შეიძლება შეიცავდეს დეზინფორმაციას"
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "არ ვიცი"
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "ინფორმაციის ალბათობა"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "SMS შეტყობინების გაგზავნით"
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "ელექტრონული ფოსტის გაგზავნით "
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "ჰეშტაგით (#) ტვიტის გაგზავნით"
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "ამ ფორმის შევსებით"
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr ""
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "თქვენი ანგარიში დამახსოვრებულია"
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "ანგარიშის სათაური"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "მეტი ინფორმაციის მოთხოვნა"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "მდებარეობის მოთხოვნა"
+
+#: $lang->'required'
+msgid "Required"
+msgstr ""
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "მოთხოვნები"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr ""
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr ""
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "პაროლის გადატვირთვა"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "მივიღოთ შერჩეული ქვეყნის ქალაქის სახელი"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr ""
+
+#: $lang->'role'
+msgid "Role"
+msgstr "როლი"
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "დამახსოვრება"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "დამახსოვრებულია"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr ""
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "შეინახეთ და დახურეთ"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "ანგარიშის დამახსოვრება"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr "განრიგი"
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr "Scheduler"
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr "დღე"
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr "საათი"
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr "Scheduler Log"
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr "წუთი"
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr "კვირის დღე"
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "ძებნა"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "ძებნის შედეგები"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "უსაფრთხოების კოდი"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "ყველაფრის მონიშვნა"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "აირჩიეთ ველის ტიპი"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "აირჩიეთ ფორმის ტიპი"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "აირჩიეთ რუქაზე"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "აირჩიეთ იმდენი რამდენიც საჭიროა"
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "გთხოვთ გადაამოწმოთ, რომ თქვენ შეამოწმეტ პუნქტები"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "აირჩიეთ თემა"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "გაგზავნა"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr ""
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "გაგზავნა"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "გაიგზავნა"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "გაგზავნილია"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "სერვერის მისამართი"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "სერვერის ტიპი"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "სერვისი"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "მომხმარებლის სერვისი"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "მომხმარებლის ID სერვილი"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "გაზიარება"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "საერთო მონაცემები"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "გაზიარება უკვე"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "გაზიარება"
+
+#: $lang->'show'
+msgid "Show"
+msgstr "ნახვა"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "ყველაფრის ნახვა"
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr ""
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr ""
+
+#: $lang->'site'
+msgid "Website"
+msgstr "ვებ-გვერდი"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "ვებ-გვერდის ელექტრონული ფოსტის მისამართი"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "ვებ-გვერდის მისამართი (URL)"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "სმს"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr ""
+
+#: $lang->'source'
+msgid "Source"
+msgstr "წყარო"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "წყაროს სახელი"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "სყაროს მისამართი (URL)"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "სპამი"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "SSL-ის მხარდაჭერა?"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "დან"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "ნაბიჯი"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "შეტყობინების გაგზავნა"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "წარმოდგენილია"
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "წარმოდგენილია სმს-ით"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "გააგზავნე სმს-ი"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "თქვენს ნომერზე"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr "წარმატება!"
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "წარმატებით იქნა შემოტანილი"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "გვარი"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr ""
+
+#: $lang->'system'
+msgid "System"
+msgstr "სისტემა"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "TCP პორტი"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "თემები"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "უშაჰიდის თემის დეფაულტი"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "თემის დაყენება"
+
+#: $lang->'this'
+msgid "This"
+msgstr "ეს"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "დღეს"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "ამ თვეში"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr ""
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "ამ წელში"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr ""
+
+#: $lang->'through'
+msgid "through"
+msgstr ""
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "დრო"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "თარიღი "
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "დან"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "დღეს"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "დღეს"
+
+#: $lang->'token'
+msgid "Token"
+msgstr ""
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr "სრული ანგარიშები"
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "ნათარგმნი"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "ნათარგმნი აღწერილობა"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "ნათარგმნი სათაური"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "ნათარგმნი"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "ნათარგმნი"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "ნათარგმნი შენახულია"
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "სანდოობა"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "დიახ, წყაროს აქვს პირდაპირი ხელმისაწვდომობა ინფორმაციაზე"
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr ""
+"დიახ, წყაროს აქვს ხელმისაწვდომობა ინფორმაციაზე, მაგრამ შეიძლება არასწორი"
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr ""
+"დიახ, ამ წყაროს აქვს პირდაპირი ხელმისაწვდომობა ინფორმაციაზე, მაგრამ ხშირად "
+"მართალია"
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "ყოველთვის არა, მაგრამ ხშირად სწორია"
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "არა, წყაროს არ აქვს (არ ჰქონდა) ინფორმაციაზე ხელმისაწვდომობა"
+
+#: $lang->'type'
+msgid "Type"
+msgstr ""
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "Twitter"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr ""
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "წაუკითხავი"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "გადაუმოწმებელი"
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "კავშირის განახლება"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "ატვირთვა"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "ასატვირთი ფაილი"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "ანგარიშების ატვირთვა"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr "ქვემოთ მოცემული ფორმით, შეგიძლიათ იმპორტი გაუკეთოთ ინციდენტებს"
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "ანგარიში უნდა იქნას ატვირთული CSV ფორმატში"
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr ""
+"თუ ინციდენტის ID უკვე არის შეტანილი ბაზაში, CSV ფაილში შესვლა იქნება "
+"იგნორირებული"
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr "უნდა შეიცავდეს ინციდენტის სათაურსა და თარიღს"
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "CSV ანგარიშის ნიმუში"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,ინციდენტის სათაური,ინციდენტის "
+"თარიღი,ადგილდებარეობა,აღწერა,კატეგორია,დამტკიცებულია,გადამოწმებულია<br "
+"/>\"1\",\"საეჭვო გარდაცვალება ნაირობიში\",\"2009-05-15 01:06:00\",\"ნაირობი\",\"სამი "
+"შემთხვევა დადასტურდა ურუგვაიში\",\"გარდაცვალება, მოქალაქეები, \",დიახ,დიახ"
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+"\"2\",\"მაროდიორობა\",\"2009-03-18 10:10:00\",\"აკრა\",\"მაროდიორობა ხდება "
+"ყველგან\",\"მასობრივი არეულობები, სიკვდილიანობები, საკუთრების დაკარგვა, "
+"\",დიახ,არა"
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "წარმატებით აიტვირთა"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr ""
+
+#: $lang->'url'
+msgid "URL"
+msgstr ""
+
+#: $lang->'user'
+msgid "User"
+msgstr "მომხმარებელი"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "მომხმარებ,ლის სახელი"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "უშაჰიდის ამინი"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr ""
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "გადამოწმებული"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "გადამოწმებული ანგარიშები"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "გადამოწმება"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "ამ ანგარიშის გადამოწმება"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "ვერსია"
+
+#: $lang->'via'
+msgid "via"
+msgstr "მეშვეობით"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "ვიდეო"
+
+#: $lang->'view'
+msgid "View"
+msgstr "ნახვა"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "ნახვები"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "ყველაფრის ნახვა"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "ყველა კავშირის ნახვა"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "ყველა ანგარიშის ნახვა"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "საკითხების ნახვა"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr "უფრო მერის ნახვა"
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr ""
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "ანგარიშის ნახვა"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "ანგარიშების ნახვა"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "დასანახი"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "ელოდება დადასტურებას"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "ელოდება გადამოწმებას"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr ""
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "წონა"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "დიახ"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr "ხვალ"
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr ""
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr ""
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr "გადიდება"
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr "დაპატარავება"

@@ -1,0 +1,216 @@
+#. extracted from en_US/alerts.php, de_DE/alerts.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'alert_email'->'email'
+msgid "The Email field does not appear to contain a valid email address?"
+msgstr "Ist Ihre angegebene eMail-Adresse korrekt?"
+
+#: 'alert_email'->'email_check'
+msgid ""
+"That Email address has already been registered to receive alerts for that "
+"location."
+msgstr ""
+"Diese eMail-Adresse ist bereits für Benachrichtigungen von diesem Ort "
+"registriert."
+
+#: 'alert_email'->'length'
+msgid "The Email field must be at least 4 and no more 64 characters long."
+msgstr ""
+"Die eMail-Adresse darf nicht weniger als 4 und mehr als 64 Zeichen lang "
+"sein."
+
+#: 'alert_email'->'required'
+msgid "The Email field is required if the checkbox is checked."
+msgstr "Das eMail-Feld muss ausgefüllt sein, wenn das Kästchen angehakt wurde."
+
+#: 'alert_country'->'single_country'
+msgid ""
+"This deployment spans within one country only. Please make sure the alert "
+"location is within the country '.ORM::factory('country"
+msgstr ""
+
+#: 'alert_lat'->'between'
+msgctxt "'alert_lat'->'between'"
+msgid "You have not selected a valid location on the map."
+msgstr "Sie haben einen ungültigen Ort ausgewählt."
+
+#: 'alert_lat'->'required'
+msgctxt "'alert_lat'->'required'"
+msgid "You have not selected a valid location on the map."
+msgstr "Sie haben einen ungültigen Ort ausgewählt."
+
+#: 'alert_lon'->'between'
+msgctxt "'alert_lon'->'between'"
+msgid "You have not selected a valid location on the map."
+msgstr "Sie haben einen ungültigen Ort ausgewählt."
+
+#: 'alert_lon'->'required'
+msgctxt "'alert_lon'->'required'"
+msgid "You have not selected a valid location on the map."
+msgstr "Sie haben einen ungültigen Ort ausgewählt."
+
+#: 'alert_mobile'->'length'
+msgid ""
+"The Mobile Phone field does not seem to contain the right amount of digits."
+msgstr ""
+"Das Feld für die Handynummer scheint eine falsche Anzahl von Nummern zu "
+"beinhalten."
+
+#: 'alert_mobile'->'mobile_check'
+msgid ""
+"That Mobile Phone Number has already been registered to receive alerts for "
+"that location."
+msgstr ""
+"Diese Handynummer wurde bereits für Benachrichtigungen zu diesem Ort "
+"registriert."
+
+#: 'alert_mobile'->'numeric'
+msgid ""
+"The Mobile Phone field does not appear to contain a valid phone. Please "
+"input numbers only including Country Code."
+msgstr ""
+"Die Handynummer scheint nicht gültig zu sein. Bitte fügen Sie der Nummer nur "
+"das Länderpräfix an."
+
+#: 'alert_mobile'->'one_required'
+msgid "You must enter either your Mobile Phone Number or your Email Address."
+msgstr "Sie müssen entweder Ihre Handynummer oder Ihre eMail-Adresse eingeben."
+
+#: 'alert_mobile'->'required'
+msgid "The Mobile Phone field is required if the checkbox is checked."
+msgstr "Sie müssen Ihre Handynummer angeben, wenn das Kästchen angehakt wurde."
+
+#: 'alert_radius'->'in_array'
+msgid "You have not set a valid radius on the map."
+msgstr "Sie haben einen ungültigen Radius gewählt."
+
+#: 'alert_radius'->'required'
+msgid "You have not set your radius on the map."
+msgstr "Sie haben keinen Radius auf der Karte gewählt."
+
+#: 'alert_radius'->'alerts_subscribed'
+msgid "You have subscribed for alerts with the following categories"
+msgstr ""
+
+#: 'alert_radius'->'code_already_verified'
+msgid "This code has been verified before!"
+msgstr "Dieser Schlüssel wurde schon einmal verwendet!"
+
+#: 'alert_radius'->'code_not_found'
+msgid ""
+"This verification code was not found! Please confirm that you have the "
+"correct URL."
+msgstr ""
+"Dieser Verifizierungsschlüssel wurde nicht gefunden! Bitte überprüfen Sie, "
+"ob Sie die richtige URL angegeben haben."
+
+#: 'alert_radius'->'code_verified'
+msgid ""
+" Your code was verified correctly. You will now receive alerts about "
+"incidents as they happen."
+msgstr ""
+"Ihr Schlüssel wurde erfolgreich verifiziert. Sie erhalten nun aktuelle "
+"Meldungen."
+
+#: 'alert_radius'->'confirm_request'
+msgid "To confirm your alert request, please go to "
+msgstr "Um Ihre Anfrage zu bestätigen, gehen Sie bitte zu"
+
+#: 'alert_radius'->'create_more_alerts'
+msgid "Return to the Alerts page to create more alerts"
+msgstr ""
+"Zurück zur Benachrichtigungsseite gehen, um weitere Meldungen zu abonnieren "
+
+#: 'alert_radius'->'email_alert_request_created'
+msgid ""
+"Your Email Alert request has been created and verification message has been "
+"sent to "
+msgstr ""
+"Ihre Anfrage wurde erstellt. Eine Verifizierungs-eMail wurde geschickt an "
+
+#: 'alert_radius'->'email_code'
+msgid "Please enter the Email confirmation code you received below: "
+msgstr "Bitte geben Sie unten den eMail-Bestätigungscode ein"
+
+#: 'alert_radius'->'email_error_head'
+msgid "Your Email Alert Request Has NOT Been Saved!"
+msgstr "Ihre Anfrage wurde NICHT gespeichert!"
+
+#: 'alert_radius'->'email_ok_head'
+msgid "Your Email Alert Request Has Been Saved!"
+msgstr "Ihre Anfrage wurde erfolgreich gespeichert!"
+
+#: 'alert_radius'->'error'
+msgid "The system was not able to process your confirmation request!"
+msgstr "Das System konnte Ihren Bestätigungsvorgang nicht vollenden."
+
+#: 'alert_radius'->'mobile_alert_request_created'
+msgid ""
+"Your Mobile Alert request has been created and verification message has been "
+"sent to "
+msgstr ""
+"Ihre Alarmanforderung via Mobiltelefon wurde bearbeitet und wurde gesendet "
+"an:"
+
+#: 'alert_radius'->'mobile_code'
+msgid ""
+"Please enter the SMS confirmation code you received on your mobile phone "
+"below: "
+msgstr ""
+"Bitte geben Sie den SMS-Bestätigungscode ein, den Sie per SMS empfangen "
+"haben."
+
+#: 'alert_radius'->'mobile_error_head'
+msgid "Your Mobile Alert Request Has NOT Been Saved!"
+msgstr "Ihre Alarmanforderung via Mobiltelefon wurde NICHT gespeichert."
+
+#: 'alert_radius'->'mobile_ok_head'
+msgid "Your Mobile Alert Request Has Been Saved!"
+msgstr "Ihre Anforderung für mobilen Alarm wurde gespeichert!"
+
+#: 'alert_radius'->'settings_error'
+msgid "This deployment is not set up to correctly process alerts"
+msgstr ""
+"Fehler in den Einstellungen. Alarme können nicht korrekt ausgeführt werden."
+
+#: 'alert_radius'->'unsubscribe'
+msgid ""
+"You have received this email because you subscribed to receive alerts. If "
+"you do not wish to receive future alerts go to "
+msgstr ""
+"Sie erhalten diese eMail aufgrund Ihrer Anmeldung zum Erhalt aktueller "
+"Meldungen. Wenn Sie keine weiteren Meldungen mehr erhalten möchten, gehen "
+"Sie bitte zu"
+
+#: 'alert_radius'->'unsubscribed'
+msgid "You will no longer receive alerts from "
+msgstr "Sie werden keine weiteren Meldungen erhalten von"
+
+#: 'alert_radius'->'unsubscribe_failed'
+msgid ""
+"We were not able to unsubscribe you. Please confirm that you have the "
+"correct URL."
+msgstr ""
+"Wir konnten Sie nicht abmelden. Bitte überprüfen Sie, ob Sie die korrekte "
+"URL angegeben haben."
+
+#: 'alert_radius'->'verification_email_subject'
+msgid "alerts - verification"
+msgstr "Erhalte Meldungen - Bestätigung"
+
+#: 'alert_radius'->'verify_code'
+msgid ""
+"You will not receive alerts on this location until you confirm your request."
+msgstr ""
+"Sie müssen Ihre Anfrage bestätigen, um Meldungen für diesen Ort zu erhalten."

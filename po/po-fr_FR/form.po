@@ -1,0 +1,87 @@
+#. extracted from en_US/form.php, fr_FR/form.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'field_default'->'default'
+msgid "The default value you have provided for the field is invalid."
+msgstr ""
+
+#: 'field_default'->'length'
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long.'\n"
+"\t),\n"
+"\t\t'between' => 'Please enter a value 0 to 50 for the Field Height."
+msgstr "Le nom du champ doit comporter entre 3 et 200 caractères."
+
+#: 'field_isdate'->'between'
+msgid "You have entered an invalid value for Date Field."
+msgstr "Vous avez entré un champ «date» invalide."
+
+#: 'field_isdate'->'required'
+msgid "Please select Yes or No for the Date Field."
+msgstr "Veuillez selectionner Oui ou Non pour le champ «date»."
+
+#: 'field_name'->'length'
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgstr "Le nom du champ doit comporter entre 3 et 100 caractères."
+
+#: 'field_name'->'required'
+msgid "Please enter Field Name."
+msgstr "Veuillez spécifier le nom du champ."
+
+#: 'field_required'->'between'
+msgid "You have entered an invalid value for Field Required."
+msgstr "Valeur «champ obligatoire» invalide"
+
+#: 'field_required'->'required'
+msgid "Please select Yes or No for Field Required."
+msgstr "Veuillez indiquer si ce champ est obligatoire (Oui ou Non)"
+
+#: 'field_type'->'numeric'
+msgid "Please select a valid Field Type."
+msgstr "Veuillez sélectionner un type de champ valide."
+
+#: 'field_type'->'required'
+msgid "Please select a Field Type."
+msgstr "Veuillez sélectionner un type de champ."
+
+#: 'field_width'->'between'
+msgid "Please enter a value 0 to 300 for the Field Width."
+msgstr "Veuillez indiquer la largeur du champ, entre 0 et 300"
+
+#: 'form_description'->'required'
+msgid "Please enter form's Description."
+msgstr "Veuillez entrer une description du formulaire."
+
+#: 'form_id'->'default'
+msgid "The default form cannot be deleted."
+msgstr "Le formulaire pas défault ne peut pas être supprimé."
+
+#: 'form_id'->'numeric'
+msgctxt "'form_id'->'numeric'"
+msgid "Please select which form to add this field to."
+msgstr "Veuillez selectionner le formulaire auquel ce champ appartient."
+
+#: 'form_id'->'required'
+msgctxt "'form_id'->'required'"
+msgid "Please select which form to add this field to."
+msgstr "Veuillez selectionner le formulaire auquel ce champ appartient."
+
+#: 'form_title'->'length'
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
+msgstr "Le nom du formulaire doit comporter entre 3 et 100 caractères."
+
+#: 'form_title'->'required'
+msgid "Please enter the name of the form."
+msgstr "Veuillez entrer le nom du formulaire."

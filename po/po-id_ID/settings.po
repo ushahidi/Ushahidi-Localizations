@@ -1,0 +1,642 @@
+#. extracted from en_US/settings.php, id_ID/settings.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'allow_comments'->'between'
+msgid "The allow comments field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_comments'->'required'
+msgid "The allow comments field is required."
+msgstr ""
+
+#: 'allow_feed'->'between'
+msgid "The include feed field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_feed'->'required'
+msgid "The include feed field is required."
+msgstr ""
+
+#: 'allow_alerts'->'between'
+msgid "The allow alerts field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_alerts'->'required'
+msgid "The allow alerts field is required."
+msgstr ""
+
+#: 'allow_reports'->'between'
+msgid "The allow reports field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_reports'->'required'
+msgid "The allow reports field is required."
+msgstr ""
+
+#: 'allow_stat_sharing'->'between'
+msgid "The stat sharing field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_stat_sharing'->'required'
+msgid "The stat sharing field is required."
+msgstr ""
+
+#: 'api'->'default_record_limit'
+msgid "Default number of records to be fetched per API request"
+msgstr ""
+
+#: 'api'->'maximum_record_limit'
+msgid "Maximum number of records to be fetched per API request"
+msgstr ""
+
+#: 'api'->'maximum_requests_per_ip_address'
+msgid "Maximum number of API requests per IP address"
+msgstr ""
+
+#: 'api_akismet'->'alpha_numeric'
+msgctxt "'api_akismet'->'alpha_numeric'"
+msgid "The Akismet field does not appear to contain a valid value."
+msgstr ""
+
+#: 'api_akismet'->'length'
+msgctxt "'api_akismet'->'length'"
+msgid "The Akismet field does not appear to contain a valid value."
+msgstr ""
+
+#: 'banner_image'->'default'
+msgid "Something went wrong with your banner image upload."
+msgstr ""
+
+#: 'banner_image'->'size'
+msgid ""
+"The size of your banner exceeds the size limit for this upload.'\n"
+"\t),\n"
+"\t\t'between' => 'The cache pages field is required."
+msgstr ""
+
+#: 'cache_pages'->'required'
+msgid "The cache pages field does not appear to contain a valid value."
+msgstr ""
+
+#: 'cache_pages_lifetime'->'in_array'
+msgid ""
+"The cache pages lifetime field does not appear to contain a valid value."
+msgstr ""
+
+#: 'cache_pages_lifetime'->'required'
+msgid "The cache pages lifetime field is required."
+msgstr ""
+
+#: 'cleanurl'->'clean_url_disabled'
+msgid ""
+"It looks like your server is not configured to handle clean URLs. You will "
+"need to change the configuration of your server before you can enable clean "
+"URLs. See more info on how to enable clean URLs at <a "
+"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
+"rewrite\" target=\"_blank\">this forum post</a>"
+msgstr ""
+
+#: 'cleanurl'->'clean_url_enabled'
+msgid ""
+"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
+"\"index.php\" in the URL)."
+msgstr ""
+
+#: 'cleanurl'->'enable_clean_url'
+msgid "Enable Clean URLs"
+msgstr ""
+
+#: 'cleanurl'->'title'
+msgid "Clean URLs"
+msgstr ""
+
+#: 'clickatell_api'->'length'
+msgid "The Clickatell API number field must be no more 20 characters long."
+msgstr ""
+
+#: 'clickatell_api'->'required'
+msgid "The Clickatell API number field is required."
+msgstr ""
+
+#: 'clickatell_password'->'length'
+msgid ""
+"The Clickatell Password field must be at least 5 and no more 50 characters "
+"long."
+msgstr ""
+
+#: 'clickatell_password'->'required'
+msgid "The Clickatell Password field is required."
+msgstr ""
+
+#: 'clickatell_username'->'length'
+msgid "The Clickatell Username field must be no more 50 characters long."
+msgstr ""
+
+#: 'clickatell_username'->'required'
+msgid "The Clickatell Username field is required."
+msgstr ""
+
+#: 'clickatell_username'->'configure_map'
+msgid "Configure Map"
+msgstr ""
+
+#: 'clickatell_username'->'default_location'
+msgid "Default Location"
+msgstr ""
+
+#: 'default_map_all'->'alpha_numeric'
+msgid "The color feed field does not appear to contain a valid value."
+msgstr ""
+
+#: 'default_map_all'->'length'
+msgid "The color field must be no more 6 characters long."
+msgstr ""
+
+#: 'default_map_all'->'required'
+msgid "The color field is required."
+msgstr ""
+
+#: 'default_map_all'->'default_map_view'
+msgid "Default Map View"
+msgstr ""
+
+#: 'default_map_all'->'default_zoom_level'
+msgid "Default Zoom Level"
+msgstr ""
+
+#: 'default_map_all'->'download_city_list'
+msgid "Retrieve Cities From Geonames"
+msgstr ""
+
+#: 'email_host'->'length'
+msgctxt "'email_host'->'length'"
+msgid "The Mail server port field is too long."
+msgstr ""
+
+#: 'email_host'->'numeric'
+msgctxt "'email_host'->'numeric'"
+msgid "The Mail server port field should contain numbers only."
+msgstr ""
+
+#: 'email_password'->'length'
+msgid ""
+"The Mail Server Password field must be at least 5 and no more 50 characters "
+"long."
+msgstr ""
+
+#: 'email_password'->'required'
+msgid "The Mail Server Password field is required."
+msgstr ""
+
+#: 'email_port'->'length'
+msgctxt "'email_port'->'length'"
+msgid "The Mail server port field is too long."
+msgstr ""
+
+#: 'email_port'->'numeric'
+msgctxt "'email_port'->'numeric'"
+msgid "The Mail server port field should contain numbers only."
+msgstr ""
+
+#: 'email_servertype'->'length'
+msgctxt "'email_servertype'->'length'"
+msgid "The Mail server port field is too long."
+msgstr ""
+
+#: 'email_servertype'->'required'
+msgid "The Mail Server Type field is required."
+msgstr ""
+
+#: 'email_username'->'length'
+msgid "The Mail Server Username field must be no more 50 characters long."
+msgstr ""
+
+#: 'email_username'->'required'
+msgid "The Mail Server Username field is required."
+msgstr ""
+
+#: 'facebook'->'title'
+msgid "Facebook Setup Options"
+msgstr ""
+
+#: 'facebook'->'description'
+msgid ""
+"To get the information below you will need to create a new Facebook "
+"application at"
+msgstr ""
+
+#: 'facebook'->'app_id'
+msgid "Facebook App ID"
+msgstr ""
+
+#: 'facebook'->'app_secret'
+msgid ""
+"Facebook App Secret'\n"
+"\t),\n"
+"\t\t'length' => 'The Google Analytics field must contain a valid Web Property "
+"ID in the format UA-XXXXX-XX."
+msgstr ""
+
+#: 'https'->'enable_https'
+msgid "Enable HTTPS"
+msgstr ""
+
+#: 'https'->'https_disabled'
+msgid ""
+"This option makes Ushahidi be accessed in unsecure mode; "
+"<strong>without</strong> \"https://\" in the URL prefix"
+msgstr ""
+
+#: 'https'->'https_enabled'
+msgid ""
+"This option makes Ushahidi be accessed in secure mode; with "
+"<strong>https</strong> in the URL prefix"
+msgstr ""
+
+#: 'https'->'title'
+msgid ""
+"HTTPS'\n"
+"\t),\n"
+"\t\t'between' => 'The items per page (Frontend) field does not appear to "
+"contain a valid value."
+msgstr ""
+
+#: 'items_per_page'->'required'
+msgid "The items per page (Frontend) field is required."
+msgstr ""
+
+#: 'items_per_page_admin'->'between'
+msgid ""
+"The items per page (Admin) field does not appear to contain a valid value."
+msgstr ""
+
+#: 'items_per_page_admin'->'required'
+msgid "The items per page (Admin) field is required."
+msgstr ""
+
+#: 'map'->'default_location'
+msgid ""
+"Setting up your map provider is a straight- forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
+msgstr ""
+
+#: 'map'->'zoom'
+msgid "Zoom Level"
+msgstr ""
+
+#: 'map_provider'->'choose'
+msgid "Select a Map Provider"
+msgstr ""
+
+#: 'map_provider'->'enter_api'
+msgid "Enter the new API Key"
+msgstr ""
+
+#: 'map_provider'->'get_api'
+msgid "Get an API Key"
+msgstr ""
+
+#: 'map_provider'->'info'
+msgid ""
+"Setting up your map provider is a straight-forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
+msgstr ""
+
+#: 'map_provider'->'name'
+msgid "Map provider"
+msgstr ""
+
+#: 'map_provider'->'map_settings'
+msgid "Map Settings"
+msgstr ""
+
+#: 'map_provider'->'multiple_countries'
+msgid "Does this Ushahidi Deployment span multiple countries?"
+msgstr ""
+
+#: 'map_provider'->'select_default_location'
+msgid "Please select a default country"
+msgstr ""
+
+#: 'map_provider'->'set_location'
+msgid "Click and drag the map to set your exact location"
+msgstr ""
+
+#: 'site'->'allow_clustering'
+msgid "Cluster Reports on Map"
+msgstr ""
+
+#: 'site'->'allow_comments'
+msgid "Allow Users to Submit Comments to Reports"
+msgstr ""
+
+#: 'site'->'allow_feed'
+msgid "Include RSS News Feed on Website"
+msgstr ""
+
+#: 'site'->'allow_alerts'
+msgid "Allow Users To Subscribe For Alerts"
+msgstr ""
+
+#: 'site'->'allow_reports'
+msgid "Allow Users To Submit Reports"
+msgstr ""
+
+#: 'site'->'api_akismet'
+msgid "Akismet Key"
+msgstr ""
+
+#: 'site'->'banner'
+msgid "Site Banner"
+msgstr ""
+
+#: 'site'->'blocks_per_row'
+msgid "Blocks Per Row"
+msgstr ""
+
+#: 'site'->'cache_pages'
+msgid "Cache Pages"
+msgstr ""
+
+#: 'site'->'cache_pages_lifetime'
+msgid "Cache Pages Lifetime"
+msgstr ""
+
+#: 'site'->'checkins'
+msgid "Enable Checkins"
+msgstr ""
+
+#: 'site'->'copyright_statement'
+msgid "Site Copyright Statement"
+msgstr ""
+
+#: 'site'->'default_category_colors'
+msgid "Default Color For All Categories"
+msgstr ""
+
+#: 'site'->'default_category_icons'
+msgid "Default Icon For All Categories"
+msgstr ""
+
+#: 'site'->'delete_banner_image'
+msgid "Delete Banner Image"
+msgstr ""
+
+#: 'site'->'delete_default_map_all_icon'
+msgid "Delete Default Icon"
+msgstr ""
+
+#: 'site'->'display_contact_page'
+msgid "Display Contact Page"
+msgstr ""
+
+#: 'site'->'display_howtohelp_page'
+msgid "Display \"How to Help\" Page"
+msgstr ""
+
+#: 'site'->'email_alerts'
+msgid "Alerts Email Address"
+msgstr ""
+
+#: 'site'->'email_notice'
+msgid ""
+"<span>In order to receive reports by email, please configure your email "
+"account settings.</span>"
+msgstr ""
+
+#: 'site'->'email_site'
+msgid "Site Email Address"
+msgstr ""
+
+#: 'site'->'google_analytics'
+msgid "Google Analytics"
+msgstr ""
+
+#: 'site'->'google_analytics_example'
+msgid "Web Property ID - Format: UA-XXXXX-XX"
+msgstr ""
+
+#: 'site'->'items_per_page'
+msgid "Items Per Page - Front End"
+msgstr ""
+
+#: 'site'->'items_per_page_admin'
+msgid "Items Per Page - Admin"
+msgstr ""
+
+#: 'site'->'kismet_notice'
+msgid ""
+"Prevent comment spam using <a href=\"http://akismet.com/\" "
+"target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
+"key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
+"target=\"_blank\">WordPress.com user account</a>"
+msgstr ""
+
+#: 'site'->'laconica_configuration'
+msgid "Laconica Credentials"
+msgstr ""
+
+#: 'site'->'laconica_site'
+msgid "Laconica Site "
+msgstr ""
+
+#: 'site'->'language'
+msgid "Site Language"
+msgstr ""
+
+#: 'site'->'manually_approve_users'
+msgid "Manually Approve Users"
+msgstr ""
+
+#: 'site'->'map_point_reports'
+msgid "Reports are points"
+msgstr ""
+
+#: 'site'->'message'
+msgid "Site Message"
+msgstr ""
+
+#: 'site'->'name'
+msgid "Site Name"
+msgstr ""
+
+#: 'site'->'private_deployment'
+msgid "Private Deployment"
+msgstr ""
+
+#: 'site'->'require_email_confirmation'
+msgid "Require User Email Confirmation"
+msgstr ""
+
+#: 'site'->'submit_report_message'
+msgid "Submit Report Message"
+msgstr ""
+
+#: 'site'->'share_site_stats'
+msgid "Enable Statistics (Stored on Ushahidi's server)"
+msgstr ""
+
+#: 'site'->'tagline'
+msgid "Site Tagline"
+msgstr ""
+
+#: 'site'->'timezone'
+msgid "Timezone"
+msgstr ""
+
+#: 'site'->'title'
+msgid "Site Settings"
+msgstr ""
+
+#: 'site'->'twitter_configuration'
+msgid "Twitter Search Terms"
+msgstr ""
+
+#: 'site'->'twitter_hashtags'
+msgid "Hashtags - Separate with commas "
+msgstr ""
+
+#: 'site_email'->'email'
+msgid "The site email field does not appear to contain a valid email address."
+msgstr ""
+
+#: 'site_email'->'length'
+msgid ""
+"The site email field must be at least 4 and no more 100 characters long."
+msgstr ""
+
+#: 'site_name'->'length'
+msgid "The site name field must be at least 3 and no more 50 characters long."
+msgstr ""
+
+#: 'site_name'->'required'
+msgid "The site name field is required."
+msgstr ""
+
+#: 'site_tagline'->'length'
+msgid "The tagline field must be at least 3 and no more 100 characters long."
+msgstr ""
+
+#: 'site_tagline'->'required'
+msgid "The tagline field is required."
+msgstr ""
+
+#: 'sms'->'clickatell_api'
+msgid "Your Clickatell API Number"
+msgstr ""
+
+#: 'sms'->'clickatell_check_balance'
+msgid "Check Your Clickatell Credit Balance"
+msgstr ""
+
+#: 'sms'->'clickatell_load_balance'
+msgid "Load Credit Balance"
+msgstr ""
+
+#: 'sms'->'clickatell_password'
+msgid "Your Clickatell Password"
+msgstr ""
+
+#: 'sms'->'clickatell_text_1'
+msgid ""
+"Sign up for Clickatells service by <a "
+"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
+"target=\"_blank\">clicking here</a>"
+msgstr ""
+
+#: 'sms'->'clickatell_text_2'
+msgid "Enter your Clickatell access information below"
+msgstr ""
+
+#: 'sms'->'clickatell_username'
+msgid "Your Clickatell User Name"
+msgstr ""
+
+#: 'sms'->'flsms_description'
+msgid ""
+"FrontlineSMS is free open source software that turns a laptop and a mobile "
+"phone into a central communications hub. Once installed, the program enables "
+"users to send and receive text messages with large groups of people through "
+"mobile phones. Click on the grey box to request a download from "
+"FrontlineSMS.com"
+msgstr ""
+
+#: 'sms'->'flsms_download'
+msgid "Download Frontline SMS and install it on your computer"
+msgstr ""
+
+#: 'sms'->'flsms_instructions'
+msgid ""
+"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
+"Detailed instructions on how to sync can be found <strong><a "
+"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
+"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will "
+"require the key and link below to set up the sync with FrontlineSMS"
+msgstr ""
+
+#: 'sms'->'flsms_key'
+msgid "Your Ushahidi Sync Key"
+msgstr ""
+
+#: 'sms'->'flsms_link'
+msgid "FrontlineSMS HTTP Post LINK"
+msgstr ""
+
+#: 'sms'->'flsms_synchronize'
+msgid "Sync with Ushahidi"
+msgstr ""
+
+#: 'sms'->'flsms_text_1'
+msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
+msgstr ""
+
+#: 'sms'->'flsms_text_2'
+msgid "Enter the number without any + or dashes below"
+msgstr ""
+
+#: 'sms'->'option_1'
+msgid "Option 1: Use Frontline SMS"
+msgstr ""
+
+#: 'sms'->'option_2'
+msgid "Option 2: Use a Global SMS Gateway"
+msgstr ""
+
+#: 'sms'->'title'
+msgid "SMS Setup Options"
+msgstr ""
+
+#: 'sms_no1'->'length'
+msgid "The phone 1 field does not appear to contain a valid value."
+msgstr ""
+
+#: 'sms_no1'->'numeric'
+msgid "The phone 1 field should contain numbers only."
+msgstr ""
+
+#: 'sms_no2'->'length'
+msgid "The phone 2 field is too long."
+msgstr ""
+
+#: 'sms_no2'->'numeric'
+msgid "The phone 2 field should contain numbers only."
+msgstr ""
+
+#: 'sms_no3'->'length'
+msgid "The phone 3 field is too long."
+msgstr ""
+
+#: 'sms_no3'->'numeric'
+msgid "The phone 3 field should contain numbers only."
+msgstr ""

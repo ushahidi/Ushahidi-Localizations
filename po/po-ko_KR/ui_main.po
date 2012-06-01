@@ -1,0 +1,2513 @@
+#. extracted from en_US/ui_main.php, ko_KR/ui_main.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'about'
+msgid "About "
+msgstr "About "
+
+#: $lang->'access'
+msgid "Access"
+msgstr "접속"
+
+#: $lang->'access_limits'
+msgid "Access Limits"
+msgstr "접속 제한"
+
+#: $lang->'account_name'
+msgid "Account Name"
+msgstr "계정이름"
+
+#: $lang->'actions'
+msgid "Actions"
+msgstr "적용"
+
+#: $lang->'action_confirm'
+msgid "This action cannot be undone. Are you sure you want to continue?"
+msgstr "되돌릴 수 없는 적용입니다. 진행하시겠습니까?"
+
+#: $lang->'activate'
+msgid "Activate"
+msgstr "활성화"
+
+#: $lang->'active'
+msgid "Active"
+msgstr "활동"
+
+#: $lang->'add'
+msgid "Add"
+msgstr "추가"
+
+#: $lang->'added_by'
+msgid "Added By"
+msgstr "Added By"
+
+#: $lang->'additional_data'
+msgid "Additional Data"
+msgstr "추가 데이터"
+
+#: $lang->'additional_reports'
+msgid "Additional Reports"
+msgstr "추가 리포트"
+
+#: $lang->'add_edit'
+msgid "Add/Edit"
+msgstr "수정"
+
+#: $lang->'add_field'
+msgid "Add a Field"
+msgstr "필드추가"
+
+#: $lang->'add_language'
+msgid "Add Language"
+msgstr "언어추가"
+
+#: $lang->'add_new'
+msgid "Add New"
+msgstr "새로만들기"
+
+#: $lang->'add_new_category'
+msgid "Add New Category"
+msgstr "카테고리추가"
+
+#: $lang->'add_translation'
+msgid "Add Translation"
+msgstr "번역추가"
+
+#: $lang->'admin'
+msgid "Administration"
+msgstr "관리"
+
+#: $lang->'alerts'
+msgctxt "$lang->'alerts'"
+msgid "Get Alerts"
+msgstr "알람설정"
+
+#: $lang->'alerts_alert_me'
+msgid "Alert me if a report is filed in, or around:"
+msgstr "리포트 발생 시 알람:"
+
+#: $lang->'alerts_btn_send'
+msgid "Save My Alert"
+msgstr "알람저장"
+
+#: $lang->'alerts_email'
+msgid "Email address:"
+msgstr "이메일주소:"
+
+#: $lang->'alerts_enter_email'
+msgid "enter email address"
+msgstr "이메일 주소 입력"
+
+#: $lang->'alerts_enter_mobile'
+msgid "enter mobile number with country code"
+msgstr "국가코드를 포함한 휴대폰 번호입력"
+
+#: $lang->'alerts_get'
+msgctxt "$lang->'alerts_get'"
+msgid "Get Alerts"
+msgstr "알람설정"
+
+#: $lang->'alerts_mobile_phone'
+msgid "Mobile phone:"
+msgstr "휴대폰번호:"
+
+#: $lang->'alerts_place_spot'
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
+msgstr "지도위에 기준점을 표시하면, 반경 20KM이내 리포트가 발생할 경우 알려줍니다."
+
+#: $lang->'alerts_place_spot2'
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
+msgstr "위치를 찾을 수 없을 경우 지도위에 정확한 위치를 클릭하세요."
+
+#: $lang->'alerts_rss'
+msgid "RSS Feeds (copy the URL below)"
+msgstr "RSS Feeds (copy the URL below)"
+
+#: $lang->'alerts_select_city'
+msgid "Select a city"
+msgstr "도시"
+
+#: $lang->'alerts_step1_select_city'
+msgid "<strong>Step 1:</strong> Select your city or location:"
+msgstr "<strong>스텝 1:</strong>도시와 위치 선택:"
+
+#: $lang->'alerts_step2_send_alerts'
+msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>스텝 2:</strong> 알람 방식 선택:"
+
+#: $lang->'alerts_step3_select_catgories'
+msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgstr "<strong>스텝 3 (Optional):</strong> 카테고리 선택"
+
+#: $lang->'alert_confirm_previous'
+msgid "Confirm A Previous Alert Request"
+msgstr "알람 요청을 확인"
+
+#: $lang->'alert_saved'
+msgid "Your Alert Has Been Saved!"
+msgstr "알람 저장 완료!"
+
+#: $lang->'all'
+msgid "All"
+msgstr "전체"
+
+#: $lang->'allowed'
+msgid "Allowed"
+msgstr "승인"
+
+#: $lang->'all_categories'
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+#: $lang->'all_time'
+msgid "All Time"
+msgstr "전체"
+
+#: $lang->'and'
+msgid "and"
+msgstr "그리고"
+
+#: $lang->'api'
+msgid "API"
+msgstr "API"
+
+#: $lang->'approve'
+msgid "Approve"
+msgstr "승인"
+
+#: $lang->'approved'
+msgid "Approved"
+msgstr "승인됨"
+
+#: $lang->'approved_reports'
+msgid "Approved Reports"
+msgstr "승인된 리포트"
+
+#: $lang->'approve_this_report'
+msgid "Approve this Report"
+msgstr "리포트 승인"
+
+#: $lang->'approximate'
+msgid "Approximate"
+msgstr "Approximate(대강)"
+
+#: $lang->'archive'
+msgid "Archive"
+msgstr "아카이브"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "아카이브"
+
+#: $lang->'at'
+msgid "at"
+msgstr "at"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "작가"
+
+#: $lang->'auto_checkin'
+msgid "Auto Checkin"
+msgstr "자동 체크인"
+
+#: $lang->'avg_reports_per_day'
+msgid "Avg Reports Per Day"
+msgstr "1일 평균 리포트"
+
+#: $lang->'awaiting_approval'
+msgid "Awaiting Approval"
+msgstr "대기중"
+
+#: $lang->'awaiting_verification'
+msgid "Awaiting Verification"
+msgstr "확인중"
+
+#: $lang->'badge'
+msgid "Badge"
+msgstr "배지"
+
+#: $lang->'badges'
+msgid "Badges"
+msgstr "배지"
+
+#: $lang->'badge_image'
+msgid "Badge Image"
+msgstr "배지 이미지"
+
+#: $lang->'badge_image_upload_your_own'
+msgid "Or you can upload your own badge image instead."
+msgstr "고유한 배지 이미지를 올릴 수 있습니다."
+
+#: $lang->'badge_pack'
+msgid "Badge Pack"
+msgstr "배지 꾸러미"
+
+#: $lang->'badge_select'
+msgid "Select a Badge"
+msgstr "배지 선택"
+
+#: $lang->'blog'
+msgid "Blog"
+msgstr "블로그"
+
+#: $lang->'browse_profiles'
+msgid "Browse Profiles"
+msgstr "프로파일 검색"
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "취소"
+
+#: $lang->'categories'
+msgctxt "$lang->'categories'"
+msgid "Categories"
+msgstr "카테고리"
+
+#: $lang->'category'
+msgid "Category"
+msgstr "카테고리"
+
+#: $lang->'category_filter'
+msgid "Category Filter"
+msgstr "카테고리 필터"
+
+#: $lang->'category_has_been'
+msgid "The category has been "
+msgstr "존재하는 카테고리"
+
+#: $lang->'category_name'
+msgid "Category Name"
+msgstr "카테고리 이름"
+
+#: $lang->'change_date_range'
+msgid "Change Date Range"
+msgstr "기간 변경"
+
+#: $lang->'change_password'
+msgid "Change Password"
+msgstr "암호 변경"
+
+#: $lang->'change_picture'
+msgid "Change My Picture"
+msgstr "내사진 변경"
+
+#: $lang->'choose'
+msgid "Choose a"
+msgstr "선택"
+
+#: $lang->'choose_data_points'
+msgid "Choose data points to download"
+msgstr "데이터 다운로드 시점 선택"
+
+#: $lang->'choose_date_range'
+msgid "Or choose your own date range"
+msgstr "데이터 다운로드 기간 선택"
+
+#: $lang->'choose_field_type'
+msgid "Choose field type"
+msgstr "필드 선택"
+
+#: $lang->'cleanurl'
+msgid "Clean URLs"
+msgstr "URL 초기화"
+
+#: $lang->'clear'
+msgid "Clear"
+msgstr "초기화"
+
+#: $lang->'clear_map'
+msgid "Clear Map"
+msgstr "Map 초기화"
+
+#: $lang->'close'
+msgid "Close"
+msgstr "닫기"
+
+#: $lang->'clusters'
+msgid "clusters"
+msgstr "모아보기"
+
+#: $lang->'color'
+msgctxt "$lang->'color'"
+msgid "Color"
+msgstr "색상"
+
+#: $lang->'comment'
+msgid "Comment"
+msgstr "코멘트"
+
+#: $lang->'comments'
+msgctxt "$lang->'comments'"
+msgid "Comments"
+msgstr "코멘트"
+
+#: $lang->'comment_details'
+msgid "Comment Details"
+msgstr "상세 코멘트"
+
+#: $lang->'configuration_saved'
+msgid "Your Settings Have Been Saved!"
+msgstr "저장완료!"
+
+#: $lang->'configure'
+msgid "Configure"
+msgstr "수정"
+
+#: $lang->'confirm_email_successful'
+msgid "You have successfully confirmed your email address! Please login below."
+msgstr "이메일 확인이 완료되었습니다. 로그인 시 사용하세요."
+
+#: $lang->'contact'
+msgid "Contact Us"
+msgstr "문의"
+
+#: $lang->'contact_code'
+msgctxt "$lang->'contact_code'"
+msgid "Security Code"
+msgstr "Security Code"
+
+#: $lang->'contact_email'
+msgid "Your Email Address"
+msgstr "이메일 주소"
+
+#: $lang->'contact_message'
+msgctxt "$lang->'contact_message'"
+msgid "Message"
+msgstr "메시지"
+
+#: $lang->'contact_message_has_send'
+msgid "Your Message Has Been Sent!"
+msgstr "메시지 발송이 완료되었습니다!"
+
+#: $lang->'contact_name'
+msgid "Your Name"
+msgstr "이름"
+
+#: $lang->'contact_phone'
+msgid "Your Phone Number"
+msgstr "휴대폰 번호"
+
+#: $lang->'contact_send'
+msgid "Send Message"
+msgstr "보내기"
+
+#: $lang->'contact_subject'
+msgid "Message Subject"
+msgstr "제목"
+
+#: $lang->'copyright'
+msgid "Copyright ©"
+msgstr "Copyright ©"
+
+#: $lang->'create'
+msgid "Create"
+msgstr "Create"
+
+#: $lang->'create_edit'
+msgid "Create/Edit"
+msgstr "수정"
+
+#: $lang->'create_new'
+msgid "Create New"
+msgstr "Create New"
+
+#: $lang->'create_new_password'
+msgid "Create New Password"
+msgstr "새 암호"
+
+#: $lang->'create_report'
+msgid "Create Report"
+msgstr "새 리포트"
+
+#: $lang->'credibility'
+msgid "Credibility"
+msgstr "Credibility"
+
+#: $lang->'current_password'
+msgid "Current Password"
+msgstr "현재 암호"
+
+#: $lang->'custom_fields'
+msgid "Custom Fields"
+msgstr "커스텀 필드"
+
+#: $lang->'data'
+msgid "Information"
+msgstr "정보"
+
+#: $lang->'date'
+msgctxt "$lang->'date'"
+msgid "Date"
+msgstr "기간"
+
+#: $lang->'date_format'
+msgid "(mm/dd/yyyy)"
+msgstr "(mm/dd/yyyy)"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "날짜 & 시간"
+
+#: $lang->'day'
+msgid "day"
+msgstr "날짜"
+
+#: $lang->'deactivate'
+msgid "Deactivate"
+msgstr "비활성화"
+
+#: $lang->'default_location_name'
+msgid "Nairobi, Kenya"
+msgstr "Nairobi, Kenya"
+
+#: $lang->'delete'
+msgid "Delete"
+msgstr "삭제"
+
+#: $lang->'deleted'
+msgid "Deleted"
+msgstr "삭제"
+
+#: $lang->'deletes'
+msgid "Deletes"
+msgstr "삭제"
+
+#: $lang->'delete_disabled'
+msgid "Delete Disabled"
+msgstr "Delete Disabled"
+
+#: $lang->'delete_last'
+msgid "Delete Last"
+msgstr "최근 삭제"
+
+#: $lang->'delete_report'
+msgid "Delete this Report"
+msgstr "리포트 삭제"
+
+#: $lang->'delete_selected'
+msgid "Delete Selected"
+msgstr "선택 삭제"
+
+#: $lang->'delete_spam'
+msgid "Delete Spam"
+msgstr "스팸 삭제"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "데모"
+
+#: $lang->'description'
+msgctxt "$lang->'description'"
+msgid "Description"
+msgstr "상세설명"
+
+#: $lang->'detailed_location_example'
+msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr "예: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+
+#: $lang->'details'
+msgid "Details"
+msgstr "상세"
+
+#: $lang->'direct_report'
+msgid "Direct Report"
+msgstr "리포트"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "비활성화"
+
+#: $lang->'disapprove'
+msgid "Unapprove"
+msgstr "미승인"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "리포트 다운로드"
+
+#: $lang->'edit'
+msgid "Edit"
+msgstr "수정"
+
+#: $lang->'edit_form_fields'
+msgid "Edit Form Fields"
+msgstr "폼필드 수정"
+
+#: $lang->'edit_report'
+msgid "Edit Report"
+msgstr "리포트 수정"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "이메일"
+
+#: $lang->'email_address'
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: $lang->'email_configuration'
+msgid "Mail Server Settings"
+msgstr "메일서버 셋팅"
+
+#: $lang->'email_server_host'
+msgid "Mail Server Host"
+msgstr "메일서버 호스트"
+
+#: $lang->'email_server_password'
+msgid "Mail Server Password"
+msgstr "메일서버 암호"
+
+#: $lang->'email_server_port'
+msgid "Mail Server Port"
+msgstr "메일서버 포트"
+
+#: $lang->'email_server_ssl_support'
+msgid "Mail Server SSL support"
+msgstr "메일서버 SSL 지원"
+
+#: $lang->'email_server_type'
+msgid "Mail Server Type"
+msgstr "메일서버 타입"
+
+#: $lang->'email_server_username'
+msgid "Mail Server Username"
+msgstr "메일서버 Username"
+
+#: $lang->'email_settings_comment_0'
+msgid "so your settings have to be associated with this email address"
+msgstr "so your settings have to be associated with this email address"
+
+#: $lang->'email_settings_comment_00'
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+msgstr ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
+
+#: $lang->'email_settings_comment_1'
+msgid "Some servers require a complete email address"
+msgstr "Some servers require a complete email address"
+
+#: $lang->'email_settings_comment_2'
+msgid "Email account password"
+msgstr "Email account password"
+
+#: $lang->'email_settings_comment_3'
+msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+
+#: $lang->'email_settings_comment_4'
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+
+#: $lang->'email_settings_comment_5'
+msgid "Examples: pop3, imap"
+msgstr "Examples: pop3, imap"
+
+#: $lang->'email_settings_comment_6'
+msgid "Enable or disable SSL connections"
+msgstr "Enable or disable SSL connections"
+
+#: $lang->'empty'
+msgid "---EMPTY---"
+msgstr "---EMPTY---"
+
+#: $lang->'end_point'
+msgctxt "$lang->'end_point'"
+msgid "to"
+msgstr "to"
+
+#: $lang->'error'
+msgid "Error!"
+msgstr "에러!"
+
+#: $lang->'example'
+msgid "Example"
+msgstr "예시"
+
+#: $lang->'example_country'
+msgid "Kenya"
+msgstr "Kenya"
+
+#: $lang->'external_apps'
+msgid "External Apps"
+msgstr "앱"
+
+#: $lang->'external_video_link'
+msgid "External Video Link"
+msgstr "외부 비디오 링크"
+
+#: $lang->'feed'
+msgid "Feed"
+msgstr "피드"
+
+#: $lang->'feedback'
+msgid "Provide Feedback"
+msgstr "피드백"
+
+#: $lang->'feedback_reports'
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
+msgstr "사용하면서 불편한 점은 우리에게 알려주세요."
+
+#: $lang->'feeds'
+msgid "Feeds"
+msgstr "피드"
+
+#: $lang->'feed_has_been'
+msgid "The feed has been"
+msgstr "기존 피드"
+
+#: $lang->'feed_items'
+msgid "Feed Items"
+msgstr "피드아이템"
+
+#: $lang->'feed_name'
+msgid "Feed Name"
+msgstr "피드이름"
+
+#: $lang->'feed_url'
+msgid "Feed URL"
+msgstr "피드 URL"
+
+#: $lang->'field_unused'
+msgid "Unused field"
+msgstr "사용되지 않는 필드"
+
+#: $lang->'file'
+msgid "File"
+msgstr "파일"
+
+#: $lang->'file_over_max_allowed'
+msgid "Your file is over the maximum allowed filesize."
+msgstr "허용된 파일크기를 넘습니다."
+
+#: $lang->'filters'
+msgid "Filters"
+msgstr "필터"
+
+#: $lang->'filter_reports'
+msgid "Filter Reports"
+msgstr "필터 리포트"
+
+#: $lang->'filter_reports_by'
+msgid "Filter Reports By"
+msgstr "필터 리포트"
+
+#: $lang->'filter_reports_contain'
+msgid "Filter reports that contain"
+msgstr "필터 리포트는"
+
+#: $lang->'find'
+msgid "Find"
+msgstr "검색"
+
+#: $lang->'find_location'
+msgid "Find Location"
+msgstr "위치 검색"
+
+#: $lang->'first_name'
+msgctxt "$lang->'first_name'"
+msgid "First Name"
+msgstr "이름"
+
+#: $lang->'force_run_scheduler'
+msgid "Force Run Scheduler"
+msgstr "스케줄러 작동"
+
+#: $lang->'forgot_password'
+msgctxt "$lang->'forgot_password'"
+msgid "Forgot your password?"
+msgstr "암호를 잊으셨습니까?"
+
+#: $lang->'form'
+msgid "Form"
+msgstr "폼"
+
+#: $lang->'forms'
+msgid "Forms"
+msgstr "폼"
+
+#: $lang->'form_description'
+msgid "Form Description"
+msgstr "폼 설명"
+
+#: $lang->'form_edit'
+msgid "Edit this Form"
+msgstr "폼 수정"
+
+#: $lang->'form_has_been'
+msgid "The form has been"
+msgstr "기존 폼"
+
+#: $lang->'form_title'
+msgid "Form Title"
+msgstr "폼 제목"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "From"
+
+#: $lang->'full_name'
+msgid "Full Name"
+msgstr "전체이름"
+
+#: $lang->'geolocation_available'
+msgid "GeoLocation Available"
+msgstr "GeoLocation Available"
+
+#: $lang->'geometry_color'
+msgctxt "$lang->'geometry_color'"
+msgid "Color"
+msgstr "색상"
+
+#: $lang->'geometry_comments'
+msgctxt "$lang->'geometry_comments'"
+msgid "Comments"
+msgstr "코멘트"
+
+#: $lang->'geometry_label'
+msgid "Label"
+msgstr "라벨"
+
+#: $lang->'geometry_strokewidth'
+msgid "Stroke Width"
+msgstr "Stroke Width"
+
+#: $lang->'go'
+msgid "Go"
+msgstr "Go"
+
+#: $lang->'hashtag'
+msgid "Hashtag"
+msgstr "해쉬태그"
+
+#: $lang->'has_been'
+msgid "Has Been"
+msgstr "Has Been"
+
+#: $lang->'help'
+msgid "How to Help"
+msgstr "How to Help"
+
+#: $lang->'hidden'
+msgid "Hidden"
+msgstr "Hidden"
+
+#: $lang->'hide'
+msgid "Hide"
+msgstr "Hide"
+
+#: $lang->'hide_this_message'
+msgid "hide this message"
+msgstr "hide this message"
+
+#: $lang->'home'
+msgid "Home"
+msgstr "홈"
+
+#: $lang->'how_to_report'
+msgid "How to Report"
+msgstr "리포트 하는 방법"
+
+#: $lang->'https'
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: $lang->'id'
+msgid "ID"
+msgstr "ID"
+
+#: $lang->'identify_you'
+msgid "Used to identify you on the site to other users."
+msgstr "다른 유저가 당신을 찾거나 구분하는데 사용합니다."
+
+#: $lang->'image'
+msgid "Image"
+msgstr "사진"
+
+#: $lang->'images'
+msgid "Images"
+msgstr "사진"
+
+#: $lang->'image_icon'
+msgid "Image/Icon"
+msgstr "아이콘"
+
+#: $lang->'inactive'
+msgid "Inactive"
+msgstr "비활성화"
+
+#: $lang->'inbox'
+msgid "Inbox"
+msgstr "받은함"
+
+#: $lang->'incident'
+msgid "Incident"
+msgstr "사건"
+
+#: $lang->'incidents_nearby'
+msgid "Incidents Nearby"
+msgstr "근처 사건"
+
+#: $lang->'incident_location'
+msgid "Incident Location"
+msgstr "사건 위치"
+
+#: $lang->'include'
+msgid "Include"
+msgstr "포함"
+
+#: $lang->'include_categories'
+msgid "Include Categories"
+msgstr "카테고리 포함"
+
+#: $lang->'include_custom_fields'
+msgid "Include Custom Fields"
+msgstr "커스텀 필드 포함"
+
+#: $lang->'include_description'
+msgid "Include Description"
+msgstr "상세설명 포함"
+
+#: $lang->'include_detail'
+msgid "Include as much detail as possible"
+msgstr "가능한 자세하게 설명해주세요."
+
+#: $lang->'include_latitude'
+msgid "Include Latitude"
+msgstr "위도 포함"
+
+#: $lang->'include_location_information'
+msgid "Include Location Information"
+msgstr "위치 정보 포함"
+
+#: $lang->'include_longitude'
+msgid "Include Longitude"
+msgstr "경도 포함"
+
+#: $lang->'incoming_media'
+msgid "Incoming Media"
+msgstr "미디어"
+
+#: $lang->'information_evaluation'
+msgid "Information Evaluation"
+msgstr "정보 평가"
+
+#: $lang->'input_location'
+msgid "Enter your precise location"
+msgstr "정확한 위치 입력"
+
+#: $lang->'insufficient_role'
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+msgstr ""
+" Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
+
+#: $lang->'in_response_to'
+msgid "In response to"
+msgstr "In response to"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP Address"
+
+#: $lang->'is_this_your_profile'
+msgid "Is this your profile?"
+msgstr "당신의 프로파일인가요?"
+
+#: $lang->'item'
+msgid "item"
+msgstr "아이템"
+
+#: $lang->'items'
+msgid "items"
+msgstr "아이템"
+
+#: $lang->'item_details'
+msgid "item_details"
+msgstr "아이템 설명"
+
+#: $lang->'item_title'
+msgid "Item Title"
+msgstr "제목"
+
+#: $lang->'key'
+msgid "Key"
+msgstr "키"
+
+#: $lang->'kml_kmz_file'
+msgid "KMZ/KML File"
+msgstr "KMZ/KML 파일"
+
+#: $lang->'kml_kmz_upload'
+msgid "Upload KMZ/KML File"
+msgstr "업로드 KMZ/KML 파일"
+
+#: $lang->'kml_url'
+msgid "KML URL"
+msgstr "KML URL"
+
+#: $lang->'laconica'
+msgid "Laconica"
+msgstr "Laconica"
+
+#: $lang->'language'
+msgid "Language"
+msgstr "언어"
+
+#: $lang->'last'
+msgid "Last"
+msgstr "최근"
+
+#: $lang->'last_month'
+msgid "Last Month"
+msgstr "최근 달"
+
+#: $lang->'last_name'
+msgctxt "$lang->'last_name'"
+msgid "Last Name"
+msgstr "성"
+
+#: $lang->'last_year'
+msgid "Last Year"
+msgstr "최근 년도"
+
+#: $lang->'latitude'
+msgid "Latitude"
+msgstr "위도"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "레이어"
+
+#: $lang->'layers_filter'
+msgid "Other Layers"
+msgstr "다른 레이어"
+
+#: $lang->'layer_has_been'
+msgid "The Layer Has Been"
+msgstr "기존 레이어"
+
+#: $lang->'layer_name'
+msgid "Layer Name"
+msgstr "레이어 이름"
+
+#: $lang->'layer_url'
+msgid "Layer URL"
+msgstr "레이어 URL"
+
+#: $lang->'leave_a_comment'
+msgid "Leave a Comment"
+msgstr "Leave a Comment"
+
+#: $lang->'less_information'
+msgid "Less Information"
+msgstr "적은 정보"
+
+#: $lang->'level'
+msgid "Level"
+msgstr "레벨"
+
+#: $lang->'level_has_been'
+msgid "This level has been"
+msgstr "This level has been"
+
+#: $lang->'level_name'
+msgid "Level Name"
+msgstr "레벨 이름"
+
+#: $lang->'limited'
+msgid "Limited"
+msgstr "Limited"
+
+#: $lang->'link'
+msgid "Link"
+msgstr "링크"
+
+#: $lang->'list'
+msgid "List"
+msgstr "리스트"
+
+#: $lang->'loading_reports'
+msgid "Loading Reports"
+msgstr "Loading Reports"
+
+#: $lang->'location'
+msgid "Location"
+msgstr "위치"
+
+#: $lang->'locations'
+msgid "Locations"
+msgstr "위치"
+
+#: $lang->'location_example'
+msgid "City, State and/or Country"
+msgstr "도시, 주 또는 국가"
+
+#: $lang->'login'
+msgid "Login"
+msgstr "로그인"
+
+#: $lang->'login_account_creation_successful'
+msgid "Account created successfully. You may log in now."
+msgstr "계정 생성이 완료되었습니다. 지금 로그인 할 수 있습니다."
+
+#: $lang->'login_confirmation_sent'
+msgid "A confirmation has been sent to your email address."
+msgstr "확인 메일이 입력하신 이메일 주소로 발송되었습니다."
+
+#: $lang->'login_email_doesnt_exist'
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
+msgstr "사용할 수 없는 이메일 주소입니다. 다른 주소 혹은 계정을 만들어주세요."
+
+#: $lang->'login_select_openid'
+msgid "Please click your account provider"
+msgstr "오픈ID 계정의 공급자를 선택해주세요."
+
+#: $lang->'login_with'
+msgid "Login with"
+msgstr "로그인"
+
+#: $lang->'login_userpass'
+msgid "Email and Password"
+msgstr "이메일 과 암호"
+
+#: $lang->'login_openid'
+msgid "OpenID"
+msgstr "OpenID"
+
+#: $lang->'login_signup'
+msgid "Sign Up"
+msgstr "가입"
+
+#: $lang->'login_signup_click'
+msgid "Create an Account"
+msgstr "계정 생성"
+
+#: $lang->'login_signup_confirmation_message'
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
+msgstr "%s에 가입해주셔서 감사합니다. 이메일 주소를 확인해주세요. URL: %s"
+
+#: $lang->'login_signup_confirmation_subject'
+msgid "Signup Confirmation"
+msgstr "가입완료"
+
+#: $lang->'login_signup_text'
+msgid "Create an account now to take advantage of more features on the site."
+msgstr "계정을 만드시면 더 많은 혜택과 기능을 사용할 수 있습니다."
+
+#: $lang->'longitude'
+msgid "Longitude"
+msgstr "경도"
+
+#: $lang->'map'
+msgid "Map"
+msgstr "지도"
+
+#: $lang->'mark_read'
+msgid "Mark as Read"
+msgstr "읽음표시"
+
+#: $lang->'mark_unread'
+msgid "Mark as Unread"
+msgstr "읽지않음표시"
+
+#: $lang->'maximum_filesize'
+msgid "Maximum filesize"
+msgstr "최대 파일크기"
+
+#: $lang->'media'
+msgid "Media"
+msgstr "미디어"
+
+#: $lang->'media_filter'
+msgid "Media Filter"
+msgstr "미디어 필터"
+
+#: $lang->'members'
+msgid "Members"
+msgstr "회원"
+
+#: $lang->'manage_your_account'
+msgid "Manage Your Account"
+msgstr "내계정 관리"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "메시지"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "메시지"
+
+#: $lang->'message_details'
+msgid "Message Details"
+msgstr "상세 메시지"
+
+#: $lang->'message_non_numeric_source'
+msgid "Message from a non-numeric source:"
+msgstr "Message from a non-numeric source:"
+
+#: $lang->'mobile'
+msgid "Mobile"
+msgstr "휴대폰"
+
+#: $lang->'modify'
+msgid "Modify"
+msgstr "수정"
+
+#: $lang->'modify_date'
+msgid "Modify Date"
+msgstr "날짜 수정"
+
+#: $lang->'month'
+msgid "month"
+msgstr "달"
+
+#: $lang->'more'
+msgid "More"
+msgstr "More"
+
+#: $lang->'more_information'
+msgid "More Information"
+msgstr "More Information"
+
+#: $lang->'multi_country_instance'
+msgid "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Does this Ushahidi Deployment Span Multiple Countries"
+
+#: $lang->'must_confirm_email_address'
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+msgstr ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
+
+#: $lang->'name'
+msgid "Name"
+msgstr "이름"
+
+#: $lang->'nearby_report'
+msgid "Nearby Report"
+msgstr "근처 리포트"
+
+#: $lang->'new'
+msgid "New"
+msgstr "new"
+
+#: $lang->'news'
+msgid "News"
+msgstr "뉴스"
+
+#: $lang->'news_feeds'
+msgid "News Feeds"
+msgstr "뉴스 피드"
+
+#: $lang->'news_source'
+msgid "News Source"
+msgstr "뉴스 출처"
+
+#: $lang->'new_category'
+msgid "New Category"
+msgstr "새 카테고리"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "새 암호"
+
+#: $lang->'new_report'
+msgid "New Report"
+msgstr "새 리포트"
+
+#: $lang->'next'
+msgid "Next"
+msgstr "다음"
+
+#: $lang->'no'
+msgid "No"
+msgstr "No"
+
+#: $lang->'no_checkins'
+msgid "No checkins to display."
+msgstr "No checkins to display."
+
+#: $lang->'no_data'
+msgid "No data"
+msgstr "No data"
+
+#: $lang->'none'
+msgid "None"
+msgstr "None"
+
+#: $lang->'notices'
+msgid "Notices"
+msgstr "Notices"
+
+#: $lang->'not_approved'
+msgctxt "$lang->'not_approved'"
+msgid "Not Approved"
+msgstr "승인되지 않음"
+
+#: $lang->'not_approved_singular'
+msgctxt "$lang->'not_approved_singular'"
+msgid "Not Approved"
+msgstr "승인되지 않음"
+
+#: $lang->'not_selected'
+msgid "---Not Selected---"
+msgstr "---선택되지 않음---"
+
+#: $lang->'not_spam'
+msgid "not spam"
+msgstr "스팸아님"
+
+#: $lang->'not_specified'
+msgid "Not Specified"
+msgstr "명확하지 않음"
+
+#: $lang->'no_reports'
+msgid "There are no reports"
+msgstr "리포트 없음"
+
+#: $lang->'no_results'
+msgid "There are no results"
+msgstr "결과 없음"
+
+#: $lang->'off'
+msgid "Off"
+msgstr "Off"
+
+#: $lang->'official_news'
+msgid "Official &amp; mainstream news"
+msgstr "공식&주요일간지 뉴스"
+
+#: $lang->'on'
+msgid "On"
+msgstr "On"
+
+#: $lang->'option'
+msgid "Option"
+msgstr "Option"
+
+#: $lang->'optional'
+msgid "Optional"
+msgstr "Optional"
+
+#: $lang->'options'
+msgid "Options"
+msgstr "Options"
+
+#: $lang->'organization'
+msgid "Organization"
+msgstr "단체"
+
+#: $lang->'organizations'
+msgid "Organizations"
+msgstr "단체"
+
+#: $lang->'organization_description'
+msgid "Organization Description"
+msgstr "단체 설명"
+
+#: $lang->'organization_email'
+msgid "Organization Email"
+msgstr "단체 이메일"
+
+#: $lang->'organization_has_been'
+msgid "The Organization Has Been"
+msgstr "The Organization Has Been"
+
+#: $lang->'organization_name'
+msgid "Organization Name"
+msgstr "단체 이름"
+
+#: $lang->'organization_phone_1'
+msgid "Organization Phone 1"
+msgstr "단체 전화1"
+
+#: $lang->'organization_phone_2'
+msgid "Organization Phone 2"
+msgstr "단체 전화2"
+
+#: $lang->'organization_website'
+msgid "Organization Website"
+msgstr "단체 웹사이트"
+
+#: $lang->'original'
+msgid "Original"
+msgstr "오리지날"
+
+#: $lang->'original_description'
+msgid "Original Description"
+msgstr "오리지날 설명"
+
+#: $lang->'original_title'
+msgid "Original Title"
+msgstr "오리지날 제목"
+
+#: $lang->'other_ushahidi_instances'
+msgid "Other Deployments"
+msgstr "Other Deployments"
+
+#: $lang->'outbox'
+msgid "Outbox"
+msgstr "보낸함"
+
+#: $lang->'outgoing'
+msgid "Outgoing"
+msgstr "Outgoing"
+
+#: $lang->'page'
+msgid "Page"
+msgstr "페이지"
+
+#: $lang->'pages'
+msgid "Pages"
+msgstr "페이지"
+
+#: $lang->'page_description'
+msgid "Page Description"
+msgstr "페이지 설명"
+
+#: $lang->'page_has_been'
+msgid "The Page Has Been"
+msgstr "The Page Has Been"
+
+#: $lang->'page_tab_name'
+msgid "Page Tab Name"
+msgstr "페이지 탭 이름"
+
+#: $lang->'page_title'
+msgid "Page Title"
+msgstr "페이지 제목"
+
+#: $lang->'parent_category'
+msgid "Parent Category"
+msgstr "상위 카테고리"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "암호"
+
+#: $lang->'password_again'
+msgid "Verify Password"
+msgstr "암호확인"
+
+#: $lang->'password_changed_successfully'
+msgid "Password changed successfully! Login below."
+msgstr "암호가 성공적으로 바뀌었습니다."
+
+#: $lang->'password_forgot'
+msgctxt "$lang->'password_forgot'"
+msgid "Forgot your password?"
+msgstr "암호를 잊었나요?"
+
+#: $lang->'password_reset_confirm'
+msgid "Check your email for the new password."
+msgstr "이메일을 통해 새암호를 확인하세요."
+
+#: $lang->'password_save'
+msgid "Stay logged in on this computer?"
+msgstr "이 컴퓨터로 로그인을 유지하길 원하세요?"
+
+#: $lang->'past_month'
+msgid "Past Month"
+msgstr "Past Month"
+
+#: $lang->'past_year'
+msgid "Past Year"
+msgstr "Past Year"
+
+#: $lang->'pending'
+msgid "Pending"
+msgstr "검토중"
+
+#: $lang->'per'
+msgid "per"
+msgstr "per"
+
+#: $lang->'personal_information'
+msgid "Personal Information <span>Optional.</span>"
+msgstr "개인정보 <span>Optional.</span>"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "전화"
+
+#: $lang->'photos'
+msgid "Photos"
+msgstr "사진"
+
+#: $lang->'pictures'
+msgid "Pictures"
+msgstr "사진"
+
+#: $lang->'pictures_and_videos'
+msgid "Pictures and Videos"
+msgstr "사진 & 비디오"
+
+#: $lang->'pinpoint_location'
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
+msgstr "* 당신의 위치를 위도, 경도를 통해서 찾거나 (예시: 38.19, 85.61) 지도상에 위치를 클릭하세요."
+
+#: $lang->'play'
+msgid "Play"
+msgstr "PLAY"
+
+#: $lang->'please_note'
+msgid "Please Note"
+msgstr "메모"
+
+#: $lang->'plugins'
+msgid "Plugins"
+msgstr "플러그인"
+
+#: $lang->'plugin_url'
+msgid "Plugin Website"
+msgstr "플러그인 웹사이트"
+
+#: $lang->'public_profile'
+msgid "Public Profile"
+msgstr "공개프로파일"
+
+#: $lang->'public_profile_url'
+msgid "Public Profile URL"
+msgstr "공개프로파일 URL"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "미리보기"
+
+#: $lang->'preview_item'
+msgid "Preview Item"
+msgstr "아이템 미리보기"
+
+#: $lang->'preview_message'
+msgid "Preview Message"
+msgstr "메시지 미리보기"
+
+#: $lang->'previous'
+msgid "Previous"
+msgstr "Previous"
+
+#: $lang->'private'
+msgid "Private"
+msgstr "Private"
+
+#: $lang->'profile_color'
+msgid "Profile Color"
+msgstr "프로파일 색상"
+
+#: $lang->'profile_saved'
+msgid "Your Profile Has Been Saved"
+msgstr "프로파일이 저장되었습니다."
+
+#: $lang->'quick_stats'
+msgid "Quick Stats"
+msgstr "요약 통계"
+
+#: $lang->'rating'
+msgid "Rating"
+msgstr "평가"
+
+#: $lang->'read'
+msgid "Read"
+msgstr "Read"
+
+#: $lang->'receive'
+msgid "Receive"
+msgstr "Receive"
+
+#: $lang->'receive_from'
+msgid "Receive from"
+msgstr "Receive from"
+
+#: $lang->'receive_notifications'
+msgid "Receive Notifications"
+msgstr "Receive Notifications"
+
+#: $lang->'recent_reports'
+msgid "Recent Reports"
+msgstr "최근 리포트"
+
+#: $lang->'refresh_news_feeds'
+msgid "Refresh News Feeds"
+msgstr "뉴스피드 리프레쉬"
+
+#: $lang->'registered_email'
+msgid "Registered Email"
+msgstr "Registered Email"
+
+#: $lang->'remove'
+msgid "Remove"
+msgstr "삭제"
+
+#: $lang->'reply'
+msgid "Reply"
+msgstr "답장"
+
+#: $lang->'report'
+msgid "Report"
+msgstr "리포트"
+
+#: $lang->'reports_listed'
+msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgstr "리포트 <span>(시간순)</span>"
+
+#: $lang->'reporter'
+msgid "Reporter"
+msgstr "리포터"
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "리포터"
+
+#: $lang->'reporter_date'
+msgid "Reporter Date"
+msgstr "리포트 날짜"
+
+#: $lang->'reporter_email'
+msgid "Reporter Email"
+msgstr "리포터 이메일"
+
+#: $lang->'reporter_first_name'
+msgid "Reporter First Name"
+msgstr "리포터 이름"
+
+#: $lang->'reporter_has_been'
+msgid "The Reporter Has Been"
+msgstr "The Reporter Has Been"
+
+#: $lang->'reporter_ip'
+msgid "Reporter IP Address"
+msgstr "리포터 IP Address"
+
+#: $lang->'reporter_last_name'
+msgid "Reporter Last Name"
+msgstr "리포터 성"
+
+#: $lang->'reporter_level'
+msgid "Reporter Level"
+msgstr "리포터 레벨"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "리포터 레벨"
+
+#: $lang->'reporter_phone'
+msgid "Reporter Phone"
+msgstr "리포터 휴대폰"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "리포트"
+
+#: $lang->'reports_btn_browse'
+msgid "Browse"
+msgstr "검색"
+
+#: $lang->'reports_btn_submit'
+msgid "Submit"
+msgstr "제출"
+
+#: $lang->'reports_by_this_user'
+msgid "Reports By This User"
+msgstr "Reports By This User"
+
+#: $lang->'reports_categories'
+msgctxt "$lang->'reports_categories'"
+msgid "Categories"
+msgstr "카테고리"
+
+#: $lang->'reports_date'
+msgctxt "$lang->'reports_date'"
+msgid "Date"
+msgstr "날짜"
+
+#: $lang->'reports_description'
+msgctxt "$lang->'reports_description'"
+msgid "Description"
+msgstr "설명"
+
+#: $lang->'reports_download_csv'
+msgid "Reports will be downloaded in CSV format"
+msgstr "리포트는 CSV 포맷으로 다운로드 됩니다."
+
+#: $lang->'reports_email'
+msgctxt "$lang->'reports_email'"
+msgid "Email"
+msgstr "이메일"
+
+#: $lang->'reports_features'
+msgid "Features"
+msgstr "기능"
+
+#: $lang->'reports_find_location'
+msgid "Find a location near you"
+msgstr "근처 위치 찾기"
+
+#: $lang->'reports_first'
+msgctxt "$lang->'reports_first'"
+msgid "First Name"
+msgstr "이름"
+
+#: $lang->'reports_last'
+msgctxt "$lang->'reports_last'"
+msgid "Last Name"
+msgstr "성"
+
+#: $lang->'reports_location_name'
+msgid "Refine Location Name"
+msgstr "정확한 위치명"
+
+#: $lang->'reports_news'
+msgid "News Source Link"
+msgstr "뉴스출처 링크"
+
+#: $lang->'reports_optional'
+msgid "Optional Information"
+msgstr "추가 정보"
+
+#: $lang->'reports_photos'
+msgid "Upload Photos"
+msgstr "사진 업로드"
+
+#: $lang->'reports_return'
+msgid "Return to the reports page"
+msgstr "리포트 페이지로 돌아가기"
+
+#: $lang->'reports_select_city'
+msgid "Select a City"
+msgstr "도시선택"
+
+#: $lang->'reports_submitted'
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
+msgstr "리포트가 제출되어 staff가 검토중입니다. 최대한 빠른 시간안에 진행하겠습니다."
+
+#: $lang->'reports_submit_new'
+msgid "Submit a New Report"
+msgstr "리포트 제출"
+
+#: $lang->'reports_time'
+msgctxt "$lang->'reports_time'"
+msgid "Time"
+msgstr "시간"
+
+#: $lang->'reports_timeline'
+msgid "Timeline"
+msgstr "타임라인"
+
+#: $lang->'reports_title'
+msgctxt "$lang->'reports_title'"
+msgid "Report Title"
+msgstr "리포트 제목"
+
+#: $lang->'reports_video'
+msgid "Video link"
+msgstr "비디오 링크"
+
+#: $lang->'report_an_incident'
+msgid "Report an Incident"
+msgstr "사건 리포트"
+
+#: $lang->'report_details'
+msgid "Report Details"
+msgstr "리포트 상세"
+
+#: $lang->'report_edit_dropdown_1_default'
+msgctxt "$lang->'report_edit_dropdown_1_default'"
+msgid "--- Select One ---"
+msgstr "--- 하나 선택 ---"
+
+#: $lang->'report_edit_dropdown_1_item_1'
+msgctxt "$lang->'report_edit_dropdown_1_item_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "네, 목격자 또는 참여자로부터 얻은 정보입니다."
+
+#: $lang->'report_edit_dropdown_1_item_2'
+msgctxt "$lang->'report_edit_dropdown_1_item_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "네, 믿을 수 있는 정보이나 틀릴 수 도 있습니다."
+
+#: $lang->'report_edit_dropdown_1_item_3'
+msgctxt "$lang->'report_edit_dropdown_1_item_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "네, 직접 정보는 아니지만, 종종 맞습니다."
+
+#: $lang->'report_edit_dropdown_1_item_4'
+msgctxt "$lang->'report_edit_dropdown_1_item_4'"
+msgid "Not always, but is often right."
+msgstr "항상은 아니지만, 가끔 맞습니다."
+
+#: $lang->'report_edit_dropdown_1_item_5'
+msgctxt "$lang->'report_edit_dropdown_1_item_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "아니오, 실제 정보에 접근할 수 없습니다."
+
+#: $lang->'report_edit_dropdown_1_item_6'
+msgctxt "$lang->'report_edit_dropdown_1_item_6'"
+msgid "I do not know."
+msgstr "모릅니다."
+
+#: $lang->'report_edit_dropdown_1_title'
+msgid "Source Reliability"
+msgstr "출처의 신뢰도"
+
+#: $lang->'report_edit_dropdown_2_default'
+msgctxt "$lang->'report_edit_dropdown_2_default'"
+msgid "--- Select One ---"
+msgstr "--- 하나 선택 ---"
+
+#: $lang->'report_edit_dropdown_2_item_1'
+msgid "Yes, the information is confirmed by several independent sources."
+msgstr "네, 몇몇의 독립된 출처로부터 확인한 정보입니다."
+
+#: $lang->'report_edit_dropdown_2_item_2'
+msgid "Yes, the information is not confirmed (yet), but is likely."
+msgstr "네, 아직 확인은 안되었으나 확실한 듯 합니다."
+
+#: $lang->'report_edit_dropdown_2_item_3'
+msgid "Yes, the information makes sense."
+msgstr "네, 일리 있는 정보입니다."
+
+#: $lang->'report_edit_dropdown_2_item_4'
+msgid "No, the information is surprising."
+msgstr "아니오, 이 정보는 매우 놀랍습니다."
+
+#: $lang->'report_edit_dropdown_2_item_5'
+msgid "No, the information is unlikely and may be disinformation."
+msgstr "아니오, 이 정보는 불확실하며 허위 정보일 수 있습니다."
+
+#: $lang->'report_edit_dropdown_2_item_6'
+msgctxt "$lang->'report_edit_dropdown_2_item_6'"
+msgid "I do not know."
+msgstr "모릅니다."
+
+#: $lang->'report_edit_dropdown_2_title'
+msgid "Information Probability"
+msgstr "정보 개연성"
+
+#: $lang->'report_option_1'
+msgid "By sending a message to"
+msgstr "By sending a message to"
+
+#: $lang->'report_option_2'
+msgid "By sending an email"
+msgstr "이메일"
+
+#: $lang->'report_option_3'
+msgid "By sending a tweet with the hashtag/s"
+msgstr "By sending a tweet with the hashtag/s"
+
+#: $lang->'report_option_4'
+msgid "By filling this form on our website."
+msgstr "지금 제출"
+
+#: $lang->'report_option_external_apps'
+msgid "By using an app"
+msgstr "앱"
+
+#: $lang->'report_saved'
+msgid "Your Report Has Been Saved"
+msgstr "리포트가 저장되었습니다."
+
+#: $lang->'report_title'
+msgctxt "$lang->'report_title'"
+msgid "Report Title"
+msgstr "리포트 제목"
+
+#: $lang->'request_information'
+msgid "Request more information"
+msgstr "추가정보요청"
+
+#: $lang->'request_location'
+msgid "Request location"
+msgstr "위치요청"
+
+#: $lang->'required'
+msgid "Required"
+msgstr "필수"
+
+#: $lang->'requirements'
+msgid "Requirements"
+msgstr "필수조건"
+
+#: $lang->'resend_confirm_email'
+msgid "Resend Confirmation Email"
+msgstr "확인메일 재발송"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "초기화"
+
+#: $lang->'reset_all_filters'
+msgid "Reset all filters"
+msgstr "모든 필터 초기화"
+
+#: $lang->'reset_password'
+msgid "Reset Password"
+msgstr "암호 초기화"
+
+#: $lang->'retrieve_city_names'
+msgid "Retrieve city names for the selected country"
+msgstr "Retrieve city names for the selected country"
+
+#: $lang->'riverid_information'
+msgid "Accounts managed by the %s service."
+msgstr "Accounts managed by the %s service."
+
+#: $lang->'role'
+msgid "Role"
+msgstr "Role"
+
+#: $lang->'rss'
+msgid "RSS"
+msgstr "RSS"
+
+#: $lang->'save'
+msgid "Save"
+msgstr "Save"
+
+#: $lang->'saved'
+msgid "Saved"
+msgstr "Saved"
+
+#: $lang->'save_add_new'
+msgid "Save & Add New"
+msgstr "저장 & 추가"
+
+#: $lang->'save_close'
+msgid "Save & Close"
+msgstr "저장 & 닫기"
+
+#: $lang->'save_report'
+msgid "Save Report"
+msgstr "리포트 저장"
+
+#: $lang->'schedule'
+msgid "Schedule"
+msgstr "스케줄"
+
+#: $lang->'scheduler'
+msgid "Scheduler"
+msgstr "스케줄러"
+
+#: $lang->'scheduler_day'
+msgid "Day"
+msgstr "Day"
+
+#: $lang->'scheduler_hour'
+msgid "Hour"
+msgstr "Hour"
+
+#: $lang->'scheduler_log'
+msgid "Scheduler Log"
+msgstr "스케줄러 로그"
+
+#: $lang->'scheduler_minute'
+msgid "Minute"
+msgstr "Minute"
+
+#: $lang->'scheduler_weekday'
+msgid "Day of the Week"
+msgstr "Day of the Week"
+
+#: $lang->'search'
+msgid "SEARCH"
+msgstr "검색"
+
+#: $lang->'search_results'
+msgid "Search Results"
+msgstr "검색결과"
+
+#: $lang->'security_code'
+msgctxt "$lang->'security_code'"
+msgid "Security Code"
+msgstr "확인코드"
+
+#: $lang->'select_all'
+msgid "Select All"
+msgstr "전체선택"
+
+#: $lang->'select_field_type'
+msgid "Select a Field Type"
+msgstr "필드타입선택"
+
+#: $lang->'select_form_type'
+msgid "Select A Form Type"
+msgstr "폼타입선택"
+
+#: $lang->'select_in_map'
+msgid "Select in the map"
+msgstr "Select in the map"
+
+#: $lang->'select_multiple'
+msgid "Select as many as needed"
+msgstr "카테고리는 1개 이상 선택해주세요."
+
+#: $lang->'select_one'
+msgid "Please verify that you have checked an item"
+msgstr "Please verify that you have checked an item"
+
+#: $lang->'select_theme'
+msgid "Select Theme"
+msgstr "테마 선택"
+
+#: $lang->'send'
+msgid "Send"
+msgstr "Send"
+
+#: $lang->'send_confirmation'
+msgid "Send Confirmation"
+msgstr "Send Confirmation"
+
+#: $lang->'sending_to'
+msgid "Sending To"
+msgstr "Sending To"
+
+#: $lang->'sent'
+msgid "Sent"
+msgstr "Sent"
+
+#: $lang->'sent_by'
+msgid "Sent by"
+msgstr "Sent by"
+
+#: $lang->'server_address'
+msgid "Server address"
+msgstr "Server address"
+
+#: $lang->'server_type'
+msgid "Server type"
+msgstr "Server type"
+
+#: $lang->'service'
+msgid "Service"
+msgstr "Service"
+
+#: $lang->'service_username'
+msgid "Service Username"
+msgstr "Service Username"
+
+#: $lang->'service_user_id'
+msgid "Service User ID"
+msgstr "Service User ID"
+
+#: $lang->'share'
+msgid "Share"
+msgstr "Share"
+
+#: $lang->'shared_data'
+msgid "Shared data"
+msgstr "Shared data"
+
+#: $lang->'share_has_been'
+msgid "The share has been"
+msgstr "The share has been"
+
+#: $lang->'sharing'
+msgid "Sharing"
+msgstr "Sharing"
+
+#: $lang->'show'
+msgid "Show"
+msgstr "Show"
+
+#: $lang->'show_all'
+msgid "Show all"
+msgstr "전체보기"
+
+#: $lang->'show_messages'
+msgid "Show Messages"
+msgstr "메시지 보기"
+
+#: $lang->'showing_reports_from'
+msgid "Showing Reports From"
+msgstr "전체 리포트 : "
+
+#: $lang->'site'
+msgid "Website"
+msgstr "웹사이트"
+
+#: $lang->'site_email_address'
+msgid "site email address"
+msgstr "사이트 이메일 주소"
+
+#: $lang->'site_url'
+msgid "Site URL"
+msgstr "사이트 URL"
+
+#: $lang->'sms'
+msgid "SMS"
+msgstr "문자"
+
+#: $lang->'sorry_no_badges'
+msgid "Sorry, you do not have any badges."
+msgstr "죄송합니다. 당신은 배지가 없습니다."
+
+#: $lang->'source'
+msgid "Source"
+msgstr "출처"
+
+#: $lang->'source_name'
+msgid "Source name"
+msgstr "출처 이름"
+
+#: $lang->'source_url'
+msgid "Source URL"
+msgstr "출처 URL"
+
+#: $lang->'spam'
+msgid "Spam"
+msgstr "스팸"
+
+#: $lang->'ssl_support'
+msgid "SSL Support?"
+msgstr "SSL을 지원하나요?"
+
+#: $lang->'start_point'
+msgctxt "$lang->'start_point'"
+msgid "From"
+msgstr "From"
+
+#: $lang->'step'
+msgid "Step"
+msgstr "Step"
+
+#: $lang->'submit'
+msgid "Submit a Report"
+msgstr "리포트 제출"
+
+#: $lang->'submitted_by'
+msgid "Submitted By"
+msgstr "Submitted By"
+
+#: $lang->'submit_sms'
+msgid "Submit via SMS"
+msgstr "Submit via SMS"
+
+#: $lang->'submit_sms1'
+msgid "Send your SMS to"
+msgstr "Send your SMS to"
+
+#: $lang->'submit_sms2'
+msgid "on your phone"
+msgstr "on your phone"
+
+#: $lang->'success'
+msgid "Success!"
+msgstr "성공!"
+
+#: $lang->'successfuly_imported'
+msgid "Succesfully imported"
+msgstr "Succesfully imported"
+
+#: $lang->'surname'
+msgid "Surname"
+msgstr "성"
+
+#: $lang->'survey'
+msgid "新开线路"
+msgstr "新开线路"
+
+#: $lang->'system'
+msgid "System"
+msgstr "시스템"
+
+#: $lang->'tcp_port'
+msgid "TCP Port"
+msgstr "TCP Port"
+
+#: $lang->'themes'
+msgid "Themes"
+msgstr "테마"
+
+#: $lang->'theme_default'
+msgid "Default Ushahidi Theme"
+msgstr "우샤히디 기본 테마"
+
+#: $lang->'theme_settings'
+msgid "Theme Settings"
+msgstr "테마 세팅"
+
+#: $lang->'this'
+msgid "This"
+msgstr "이것"
+
+#: $lang->'this_day'
+msgctxt "$lang->'this_day'"
+msgid "Today"
+msgstr "오늘"
+
+#: $lang->'this_month'
+msgid "This Month"
+msgstr "이번달"
+
+#: $lang->'this_week'
+msgid "This Week"
+msgstr "이번주"
+
+#: $lang->'this_year'
+msgid "This Year"
+msgstr "올해"
+
+#: $lang->'this_is_your_profile'
+msgid "This is your profile."
+msgstr "이것은 당신의 프로파일입니다."
+
+#: $lang->'through'
+msgid "through"
+msgstr "부터"
+
+#: $lang->'time'
+msgctxt "$lang->'time'"
+msgid "Time"
+msgstr "시간"
+
+#: $lang->'title'
+msgid "Title "
+msgstr "제목 "
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "to"
+
+#: $lang->'today'
+msgctxt "$lang->'today'"
+msgid "Today"
+msgstr "Today"
+
+#: $lang->'today_at'
+msgid "Today at"
+msgstr "Today at"
+
+#: $lang->'token'
+msgid "Token"
+msgstr "Token"
+
+#: $lang->'total_reports'
+msgid "Total Reports"
+msgstr "전체 리포트"
+
+#: $lang->'translated'
+msgid "Translated"
+msgstr "번역"
+
+#: $lang->'translated_description'
+msgid "Translated Description"
+msgstr "번역 설명"
+
+#: $lang->'translated_title'
+msgid "Translated Title"
+msgstr "번역 제목"
+
+#: $lang->'translate_to'
+msgid "Translate to"
+msgstr "번역 to"
+
+#: $lang->'translation'
+msgid "Translation"
+msgstr "번역"
+
+#: $lang->'translation_saved'
+msgid "Translation has been saved"
+msgstr "번역이 저장 되었습니다."
+
+#: $lang->'trustworthiness'
+msgid "Trustworthiness"
+msgstr "신뢰도"
+
+#: $lang->'trustworthiness_option_1'
+msgctxt "$lang->'trustworthiness_option_1'"
+msgid "Yes, the source has direct access to information (witness or actor)."
+msgstr "네, 목격자 또는 참여자로부터 얻은 정보입니다."
+
+#: $lang->'trustworthiness_option_2'
+msgctxt "$lang->'trustworthiness_option_2'"
+msgid "Yes, the source has access to information, but can be wrong."
+msgstr "네, 믿을 수 있는 정보이나 틀릴 수 도 있습니다."
+
+#: $lang->'trustworthiness_option_3'
+msgctxt "$lang->'trustworthiness_option_3'"
+msgid ""
+"Yes, the source has no direct access to information, but is often right."
+msgstr "네, 직접 정보는 아니지만, 종종 맞습니다."
+
+#: $lang->'trustworthiness_option_4'
+msgctxt "$lang->'trustworthiness_option_4'"
+msgid "Not always, but is often right."
+msgstr "항상은 아니지만, 가끔 맞습니다."
+
+#: $lang->'trustworthiness_option_5'
+msgctxt "$lang->'trustworthiness_option_5'"
+msgid "No, the source has (had) no access to information."
+msgstr "아니오, 실제 정보에 접근할 수 없습니다."
+
+#: $lang->'type'
+msgid "Type"
+msgstr "유형"
+
+#: $lang->'twitter'
+msgid "Twitter"
+msgstr "Twitter"
+
+#: $lang->'unable_send_email'
+msgid "Unable to send email."
+msgstr "사용할 수 없는 이메일"
+
+#: $lang->'uncategorized_reports'
+msgid "Uncategorized Reports"
+msgstr "카테고리에 등록되지 않은 리포트"
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "읽지않음"
+
+#: $lang->'unverified'
+msgid "Unverified"
+msgstr "미확인"
+
+#: $lang->'update_feeds'
+msgid "Update feeds"
+msgstr "업로드 피드"
+
+#: $lang->'upload'
+msgid "Upload"
+msgstr "업로드"
+
+#: $lang->'upload_file'
+msgid "File to upload"
+msgstr "파일 업로드"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "업로드 리포트"
+
+#: $lang->'upload_reports_detail_1'
+msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgstr "With the form below, you can import incidents into the Ushahidi engine."
+
+#: $lang->'upload_reports_detail_2'
+msgid "Reports must be upladed in CSV format."
+msgstr "리포트는 반드시 CSV 포맷으로 업로드되어야 합니다."
+
+#: $lang->'upload_reports_detail_3'
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+msgstr ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
+
+#: $lang->'upload_reports_detail_4'
+msgid "It must contain at least Incident Title and Incident Date."
+msgstr "It must contain at least Incident Title and Incident Date."
+
+#: $lang->'upload_reports_detail_4b'
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+msgstr ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
+
+#: $lang->'upload_reports_detail_5'
+msgid "A Sample CSV Report"
+msgstr "A Sample CSV Report"
+
+#: $lang->'upload_reports_detail_6'
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
+"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
+"\",YES,YES,\"-1.287\",\"36.821\""
+
+#: $lang->'upload_reports_detail_7'
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+
+#: $lang->'upload_successful'
+msgid "Upload Successful"
+msgstr "업로드 성공"
+
+#: $lang->'upload_video'
+msgid "Upload Video"
+msgstr "업로드 비디오"
+
+#: $lang->'url'
+msgid "URL"
+msgstr "URL"
+
+#: $lang->'user'
+msgid "User"
+msgstr "유저"
+
+#: $lang->'username'
+msgid "Username"
+msgstr "유저이름"
+
+#: $lang->'ushahidi_admin'
+msgid "Ushahidi Admin"
+msgstr "우샤히디 관리자"
+
+#: $lang->'verification'
+msgid "Verification"
+msgstr "확인"
+
+#: $lang->'verified'
+msgid "Verified"
+msgstr "확인"
+
+#: $lang->'verified_reports'
+msgid "Verified Reports"
+msgstr "확인된 리포트"
+
+#: $lang->'verify'
+msgid "Verify"
+msgstr "확인"
+
+#: $lang->'verify_this_report'
+msgid "Verify this Report"
+msgstr "리포트 확인"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "버전"
+
+#: $lang->'via'
+msgid "via"
+msgstr "via"
+
+#: $lang->'video'
+msgid "Video"
+msgstr "비디오"
+
+#: $lang->'view'
+msgid "View"
+msgstr "보기"
+
+#: $lang->'views'
+msgid "Views"
+msgstr "보기"
+
+#: $lang->'view_all'
+msgid "View All"
+msgstr "전체 보기"
+
+#: $lang->'view_all_feeds'
+msgid "View all feeds"
+msgstr "전체 피드"
+
+#: $lang->'view_all_reports'
+msgid "View all reports"
+msgstr "전체 리포트"
+
+#: $lang->'view_items'
+msgid "View Items"
+msgstr "아이템 보기"
+
+#: $lang->'view_more'
+msgid "View More"
+msgstr "더보기"
+
+#: $lang->'view_public_profile'
+msgid "View Public Profile"
+msgstr "공개 프로파일 보기"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "리포트 보기"
+
+#: $lang->'view_reports'
+msgid "View Reports"
+msgstr "리포트 보기"
+
+#: $lang->'visible'
+msgid "Visible"
+msgstr "Visible"
+
+#: $lang->'waiting_approval'
+msgid "Waiting Approval"
+msgstr "승인대기"
+
+#: $lang->'waiting_verification'
+msgid "Waiting Verification"
+msgstr "확인대기"
+
+#: $lang->'web_form'
+msgid "Web Form"
+msgstr "웹 폼"
+
+#: $lang->'weight'
+msgid "Weight"
+msgstr "무게"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Yes"
+
+#: $lang->'yesterday'
+msgid "Yesterday"
+msgstr "어제"
+
+#: $lang->'your_dashboard'
+msgid "Your Dashboard"
+msgstr "내 상황판"
+
+#: $lang->'your_file'
+msgid "Your file"
+msgstr "내 파일"
+
+#: $lang->'zoom_in'
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: $lang->'zoom_out'
+msgid "Zoom Out"
+msgstr "Zoom Out"

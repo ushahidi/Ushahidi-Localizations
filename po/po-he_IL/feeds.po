@@ -1,0 +1,43 @@
+#. extracted from en_US/feeds.php, he_IL/feeds.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "DATE"
+msgstr "תאריך"
+
+#: 'feed_name'->'length'
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
+msgstr "על שם הרסס (RSS) להיות בין 3 ל-70 תווים בדיוק."
+
+#: 'feed_name'->'required'
+msgid "Please enter the name of the feed."
+msgstr "אנא מלא את שם הפיד (RSS)."
+
+#: 'feed_url'->'required'
+msgid "Please enter feed's URL."
+msgstr "אנא הזן את כתובת (ה-URL) של הפיד (RSS)"
+
+#: 'feed_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
+msgstr "אנא הזן כתובת תקנית ומלאה, לדוגמא: http://www.ushahidi.com"
+
+#: 'feed_url'->'source'
+msgid "SOURCE"
+msgstr "מקור הפיד"
+
+#: 'feed_url'->'title'
+msgid "Title"
+msgstr "כותרת"

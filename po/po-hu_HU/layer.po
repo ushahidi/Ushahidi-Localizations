@@ -1,0 +1,54 @@
+#. extracted from en_US/layer.php, hu_HU/layer.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'layer_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "A színezett mezőnek legalább 6 karaktert kell tartalmaznia."
+
+#: 'layer_color'->'required'
+msgid "The color field is required."
+msgstr "A színezett mező kitöltése kötelező. "
+
+#: 'layer_file'->'type'
+msgid ""
+"The file field does not appear to contain a valid file. The only accepted "
+"formats are .KMZ and .KML."
+msgstr ""
+"A fájlmező nem tartalmaz érvényes fájlt. Lehetséges formátumok: .KMZ, .KML."
+
+#: 'layer_file'->'valid'
+msgid "The file field does not appear to contain a valid file"
+msgstr "A fájlmező nem tartalmaz érvényes fájlt."
+
+#: 'layer_name'->'length'
+msgid "The name field must be at least 3 and no more 80 characters long."
+msgstr "A névmezőnek legalább 3 legfeljebb 80 karakter hosszúnak kell lennie."
+
+#: 'layer_name'->'required'
+msgid "The name field is required."
+msgstr "A névmező kitöltése kötelező."
+
+#: 'layer_url'->'atleast'
+msgid "Either a KML URL or File is required."
+msgstr "Vagy egy KML Url vagy egy fájl kötelező. "
+
+#: 'layer_url'->'both'
+msgid "You can't have both a KML file and a URL."
+msgstr "Nem adhat meg egyszerre KML fájlt és Url-t."
+
+#: 'layer_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com/layerl.kml"
+msgstr ""
+"Kérem, adjon meg egy érvényes URL-t. Például: "
+"http://www.ushahidi.com/layerl.kml"

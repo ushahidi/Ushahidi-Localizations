@@ -1,0 +1,44 @@
+#. extracted from en_US/feeds.php, sw_KE/feeds.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "DATE"
+msgstr "TAREHE"
+
+#: 'feed_name'->'length'
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
+msgstr "Jina la tawanyiko lazima liwe baina ya herufi 3 na 70."
+
+#: 'feed_name'->'required'
+msgid "Please enter the name of the feed."
+msgstr "Tafadhali andika jina la tawanyiko."
+
+#: 'feed_url'->'required'
+msgid "Please enter feed's URL."
+msgstr "Tafadhali andika anwani la tawanyiko."
+
+#: 'feed_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
+msgstr ""
+"Tafadhali andikwa anwani iliyo sahihi. Kwa mfano: http://www.ushahidi.com"
+
+#: 'feed_url'->'source'
+msgid "SOURCE"
+msgstr "ASILI"
+
+#: 'feed_url'->'title'
+msgid "Title"
+msgstr "JINA"

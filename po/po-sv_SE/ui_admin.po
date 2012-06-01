@@ -1,0 +1,1292 @@
+#. extracted from en_US/ui_admin.php, sv_SE/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr ""
+"Nekat tilltr&auml;de. Antingen &auml;r dina inloggningsuppgifter fel, eller "
+"s&aring har din beg&auml;ran nekats"
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr ""
+"Nekat tilltr&auml;de. Din beg&auml;ran har mottagits, men nekad p&aring "
+"grund av tilltr&auml;desbegr&auml;nsningar, t.ex. tid. F&ouml;rs&ouml;k igen "
+"senare"
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr ""
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "H&auml;ndelser"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr ""
+
+#: $lang->'added'
+msgid "added"
+msgstr "adderad"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "adderad/redigerad"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr ""
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr "Admin"
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr ""
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr ""
+
+#: $lang->'am'
+msgid "AM"
+msgstr "AM"
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr ""
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr ""
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API Banned"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr "API Loggar"
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr ""
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr ""
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr ""
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "godk&auml;nd"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr ""
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr ""
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr ""
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr ""
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr ""
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr ""
+
+#: $lang->'author'
+msgid "Author"
+msgstr "F&ouml;rfattare"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "F&ouml;rfattare e-post"
+
+#: $lang->'back'
+msgid "Back"
+msgstr ""
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr ""
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr ""
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr ""
+
+#: $lang->'body'
+msgid "Body"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr ""
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "Kategorier"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "Fel n&auml;r diagrammet skulle visas"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "Kontrollera att meddelandet &auml;r giltigt"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "Kontrollera att antalet &auml;r giltigt"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "Kontrollera SMS-inst&auml;llningarna!"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr ""
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr ""
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "St&auml;derna &auml;r laddade"
+
+#: $lang->'code'
+msgid "code"
+msgstr "kod"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "Kodversionen &auml;r inte synakad."
+
+#: $lang->'color'
+msgid "Color"
+msgstr ""
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "Din bekr&auml;ftelsekod &auml;r: "
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "Anv&auml;ndaren har varit"
+
+#: $lang->'count'
+msgid "Count"
+msgstr ""
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "Landet hittades inte"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "skapad/redigerad"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "Skapa rapport"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr ""
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr ""
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr ""
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr ""
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "Dagligen"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "Instrumentbr&auml;da"
+
+#: $lang->'database'
+msgid "database"
+msgstr "databas"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Datum & Tid"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr ""
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr "DB version &auml;r inte i synk."
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "borttagen"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "Ta bort"
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "Ta bort alla"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr ""
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Demo"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "Beskrivning"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr ""
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr ""
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr ""
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr ""
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Ladda ner rapporter"
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr ""
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr ""
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "Redigera"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr ""
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "E-post"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr ""
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "Fel i geokodning! HTTP fel"
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr ""
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "Fel"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "Fel, kan inte skicka in h&auml;ndelse"
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "Var sj&auml;tte timme"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "Var tolfte timme"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr ""
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr "Fr&aring;gor och svar"
+
+#: $lang->'feed'
+msgid "feed"
+msgstr "fl&ouml;de"
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "&Aringterrapportering"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr "fl&ouml;den"
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr ""
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "Standardv&auml;rde"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr ""
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr ""
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr ""
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr ""
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr ""
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "H&ouml;jd (rader)"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr ""
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "Max antal tecken"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "F&auml;ltnamn"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr ""
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr ""
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr ""
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr ""
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "Kan inte hitta uppladdad fil"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "Kan inte &ouml;ppna fil"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "Formul&auml;ret finns inte!"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "Forum"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "Textareaf&auml;lt (Fritext)"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr ""
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr ""
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr ""
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr ""
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Fr&aring;n"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "Fr&aring;n"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "Geonamn Timeout Fel"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "Hj&auml;lp"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "Aktiviteter"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "L&auml;gg till/Redigera"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "E-post"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "Hantera anv&auml;ndare"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "Roll"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "Anv&auml;ndare"
+
+#: $lang->'help'
+msgid "help"
+msgstr "hj&auml;lp"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "Varje timme"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr "H&auml;ndelse-fl&ouml;de f&ouml;r"
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "Instans"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "Instanser"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "Instansdetaljer"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "Ogiltig parameter"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP Adress"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "&Auml;r detta ett datumf&auml;lt?"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr ""
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr ""
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr ""
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr ""
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "E-postadress:"
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr "Fullst&auml;ndigt namn:"
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr "L&ouml;senord:"
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr "Roll:"
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr "Anv&auml;ndarnamn:"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Lager"
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "Moderator"
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "Logga ut"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "Loggar"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "Hantera"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr ""
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "Hantera anv&auml;ndare"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr ""
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr ""
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "inte m&auml;rkt som spam"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "m&auml;rkt som spam"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "matchade inga dokument"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Meddelande"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Meddelanden"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Laconica Messages"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "Twitter Messages"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "Ditt meddelande har skickats!"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr "MHI"
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr ""
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "Saknad parameter"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr ""
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "modifierad"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr ""
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "flytta ner"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "flytta upp"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "Multiple Hosted Instances (flera v&auml;rdinstanser)"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr ""
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr ""
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "Min profil"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr ""
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr ""
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr ""
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr ""
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr ""
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr ""
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr ""
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Nytt l&ouml;senord"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "Nej"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "Meddelande"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "Detta &auml;r inte skiftl&auml;gesk&auml;nsligt."
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "Hittades inte"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr ""
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "Inget fel"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "Inget resultat att visa!"
+
+#: $lang->'of'
+msgid "of"
+msgstr "av"
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr ""
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr ""
+
+#: $lang->'page'
+msgid "page"
+msgstr "sida"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "sidor"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "Sidan hittades inte"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+"Sidan hittas inte.<p><strong>Om du kom hit fr&aring;n en l&auml;nk p&aring "
+"v&aring;r sajt?</strong><br />Om du kom hit fr&aring;n en annan sida p&aring "
+"v&aring;r sajt, v&auml;nligen <a href=\"#\">kontakta oss</a> s&aring vi kan "
+"r&auml;tta felet.</p><p><strong>F&ouml;ljde du en l&auml;nk fr&aring;n en "
+"annan sajt? </strong><br />L&auml;nkar fr&aring;n andra sajter kan ibland "
+"vara gamla och felaktiga. <a href=\"#\">Ber&auml;tta f&ouml;r oss</a> var du "
+"kom fr&aring;n, s&aring ska vi f&ouml;rs&ouml;ka kontakta den andra sajten "
+"f&ouml;r att r&auml;tta till problemet.</p><p><strong>Skrev du sj&auml;lv in "
+"URL:en? </strong><br />Du kan ha skrivit in adressen fel. Kontrollera att "
+"du skrivit r&auml;tt. </p>"
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "Parametrar som anv&auml;nds"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "L&ouml;senord"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "&Aringterst&auml;ll l&ouml;senord"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr "no-reply@ushahidi.com"
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "Hej"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr ""
+"Vi har f&aring;tt en beg&auml;ran att &aringterst&auml;lla l&ouml;senordet "
+"f&ouml;r"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr ""
+"F&ouml;r att &auml;ndra l&ouml;senordet, klicka p&aring l&auml;nken nedan "
+"(eller kopiera in den i en webbl&auml;sare)."
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr ""
+"Som du beg&auml;rt, s&aring &auml;r ditt l&ouml;senord nu "
+"&aringterst&auml;llt. Ditt nya l&ouml;senord &auml;r"
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "&Aringterst&auml;llning Ushahidi l&ouml;senord"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Telefon"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr ""
+
+#: $lang->'pm'
+msgid "PM"
+msgstr "PM"
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "Data skickades inte med post-metoden"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr ""
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr ""
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'private_to'
+msgid "To"
+msgstr ""
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr ""
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr ""
+
+#: $lang->'read'
+msgid "read"
+msgstr "l&auml;s"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "Relevans"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Reportrar"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Reporterniv&aring"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Rapporter"
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr ""
+
+#: $lang->'required'
+msgid "Required"
+msgstr "Kr&auml;vs"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr ""
+
+#: $lang->'response'
+msgid "Response"
+msgstr ""
+
+#: $lang->'results'
+msgid "Results"
+msgstr "Resultat"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr ""
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr ""
+
+#: $lang->'search'
+msgid "Search"
+msgstr "S&ouml;k"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "s&ouml;ker efter"
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "--- V&auml;lj en f&auml;lttyp ---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "V&auml;lj en artikel"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr ""
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr ""
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "Avs&auml;ndare"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr ""
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "Detta meddelande skickades fr&aring;n din sajt "
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr ""
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "Inst&auml;llningar"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr "Visar sida"
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "Visar resultat"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr ""
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr ""
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr ""
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr ""
+
+#: $lang->'state'
+msgid "State"
+msgstr ""
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "Statistik"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "Statistik"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr ""
+"Statistikinsamling misslyckades! Antingen &auml;r ditt stat_id eller "
+"stat_key i inst&auml;llningarna i databasen felaktiga eller s&aring &auml;r "
+"v&aring;r stat server nere. F&ouml;rs&ouml;k igen senare f&ouml;r att se om "
+"servern &auml;r uppe. Om du verkligen beh&ouml;ver komma &aringt data, "
+"s&aring kan du alltid &auml;ndra stat_id (s&auml;tt till null) och stat_key "
+"(s&auml;tt till 0) i inst&auml;llningarna i databasen, f&ouml;r att f&aring "
+"statistiken upp att k&ouml;ra igen. T&auml;nk p&aring att du d&aring kommer "
+"att tappa tillg&aring;ngen till statistiken som finns p&aring servern just "
+"nu."
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "Statistikinsamling misslyckades!"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr ""
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "Super Admin"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "Uppgift utf&ouml;rd"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "Textf&auml;lt"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "Namn"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "Hantera anv&auml;ndare"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "till"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "Totalt antal poster"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "till"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "&Ouml;vers&auml;tt rapporter"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr ""
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr ""
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr ""
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "icke godk&auml;nd"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "Ok&auml;nd"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "ej l&auml;st"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr " Klicka h&auml;r f&ouml;r att uppgradera nu"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "Uppgradera Ushahidi"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "Status uppgradering Ushahidi"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Ladda upp rapporter"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr ""
+
+#: $lang->'users'
+msgid "Users"
+msgstr "Anv&auml;ndare"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr "Ushahidi"
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr ""
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr ""
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Version"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr " &auml;r tillg&auml;nglig f&ouml;r uppgradering."
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "Visa sajten"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr ""
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "W&auml;lkommen, "
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr "Wiki"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Ja"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "Din s&ouml;kning efter"

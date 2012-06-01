@@ -1,0 +1,77 @@
+#. extracted from en_US/category.php, he_IL/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "על שדה הצבע להיות באורך 6 תווים בדיוק."
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr "שדה הצבע הינו שדה חובה."
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr "שדה התיאור הינו שדה חובה."
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr "אנא ודאו שגודל התמונה אינו עולה על 50 קילובייט."
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr ""
+"שדה התמונה אינו מכיל תמונה תקינה. ניתן להעלות תמונות מסוג .JPG, .PNG ו-.GIF "
+"בלבד."
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr "שדה התמונה אינו מכיל קובץ תקין."
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr "על שדה הכותרת להיות בן 3 עד 80 תווים."
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr "שדה הכותרת הינו שדה חובה."
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr "קטגורית-על אינה קיימת"
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr "ניתן להזין אך ורק מספרים בשדה קטגורית-על."
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr "שדה קטגורית-על הינו שדה חובה."
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr "הקטגוריה וקטגורית העל אינן יכולות להיות זהות."
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

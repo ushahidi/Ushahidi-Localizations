@@ -1,0 +1,89 @@
+#. extracted from en_US/form.php, sv_SE/form.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'field_default'->'default'
+msgid "The default value you have provided for the field is invalid."
+msgstr ""
+
+#: 'field_default'->'length'
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long.'\n"
+"\t),\n"
+"\t\t'between' => 'Please enter a value 0 to 50 for the Field Height."
+msgstr "F&auml;ltnamnet m&aring;ste vara mellan 3 och 200 tecken."
+
+#: 'field_isdate'->'between'
+msgid "You have entered an invalid value for Date Field."
+msgstr "Du har angett ett ogiltigt v&auml;rde f&ouml;r datumf&auml;ltet"
+
+#: 'field_isdate'->'required'
+msgid "Please select Yes or No for the Date Field."
+msgstr "V&auml;lj Ja eller Nej f&ouml;r datumf&auml;ltet"
+
+#: 'field_name'->'length'
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgstr "F&auml;ltnamnet m&aring;ste vara mellan 3 och 100 tecken."
+
+#: 'field_name'->'required'
+msgid "Please enter Field Name."
+msgstr "Ange f&auml;ltnamn."
+
+#: 'field_required'->'between'
+msgid "You have entered an invalid value for Field Required."
+msgstr "Du har angett ett felaktigt v&auml;rde f&ouml;r f&auml;ltet"
+
+#: 'field_required'->'required'
+msgid "Please select Yes or No for Field Required."
+msgstr "V&auml;lj om f&auml;ltet m&aring;ste fyllas i"
+
+#: 'field_type'->'numeric'
+msgid "Please select a valid Field Type."
+msgstr "V&auml;lj en giltig f&auml;lttyp."
+
+#: 'field_type'->'required'
+msgid "Please select a Field Type."
+msgstr "V&auml;lj en f&auml;lttyp."
+
+#: 'field_width'->'between'
+msgid "Please enter a value 0 to 300 for the Field Width."
+msgstr "Ange ett v&auml;rde mellan 0 och 300 f&ouml;r f&auml;ltets bredd"
+
+#: 'form_description'->'required'
+msgid "Please enter form's Description."
+msgstr "Formul&auml;rets beskrivning."
+
+#: 'form_id'->'default'
+msgid "The default form cannot be deleted."
+msgstr "Standardformul&auml;ret kan inte tas bort."
+
+#: 'form_id'->'numeric'
+msgctxt "'form_id'->'numeric'"
+msgid "Please select which form to add this field to."
+msgstr ""
+"V&auml;lj vilket i vilket formul&auml;r du vill l&auml;gga till f&auml;ltet."
+
+#: 'form_id'->'required'
+msgctxt "'form_id'->'required'"
+msgid "Please select which form to add this field to."
+msgstr ""
+"V&auml;lj vilket i vilket formul&auml;r du vill l&auml;gga till f&auml;ltet."
+
+#: 'form_title'->'length'
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
+msgstr "Formul&auml;rnamnet m&aring;ste vara mellan 3 och 100 tecken."
+
+#: 'form_title'->'required'
+msgid "Please enter the name of the form."
+msgstr "Formul&auml;rets namn."

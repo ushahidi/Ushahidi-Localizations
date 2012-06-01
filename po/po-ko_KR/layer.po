@@ -1,0 +1,51 @@
+#. extracted from en_US/layer.php, ko_KR/layer.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'layer_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "컬러필드는 6자이상이어야 합니다."
+
+#: 'layer_color'->'required'
+msgid "The color field is required."
+msgstr "컬러필드를 입력해주세요."
+
+#: 'layer_file'->'type'
+msgid ""
+"The file field does not appear to contain a valid file. The only accepted "
+"formats are .KMZ and .KML."
+msgstr "다음의 파일포맷만 사용가능합니다. .KMZ, .KML."
+
+#: 'layer_file'->'valid'
+msgid "The file field does not appear to contain a valid file"
+msgstr "허용되지 않은 파일포맷의 경우 나타나지 않습니다."
+
+#: 'layer_name'->'length'
+msgid "The name field must be at least 3 and no more 80 characters long."
+msgstr "이름은 최소 3자이상 80자이하여야 합니다."
+
+#: 'layer_name'->'required'
+msgid "The name field is required."
+msgstr "이름을 입력해주세요."
+
+#: 'layer_url'->'atleast'
+msgid "Either a KML URL or File is required."
+msgstr "KML Url 또는 File 을 입력해주세요."
+
+#: 'layer_url'->'both'
+msgid "You can't have both a KML file and a URL."
+msgstr "KML file 과 url을 동시에 사용할 수 없습니다."
+
+#: 'layer_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com/layerl.kml"
+msgstr "정확한 URL을 입력해주세요. 예. http://www.ushahidi.com/layerl.kml"

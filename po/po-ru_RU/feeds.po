@@ -1,0 +1,44 @@
+#. extracted from en_US/feeds.php, ru_RU/feeds.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "DATE"
+msgstr "Дата"
+
+#: 'feed_name'->'length'
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
+msgstr ""
+"Длина названия новостной ленты не может быть менее 3 или более 70 символов."
+
+#: 'feed_name'->'required'
+msgid "Please enter the name of the feed."
+msgstr "Введите название новостной ленты."
+
+#: 'feed_url'->'required'
+msgid "Please enter feed's URL."
+msgstr "Введите URL новостной ленты."
+
+#: 'feed_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
+msgstr "Введите правильный адрес. Например, http://www.ushahidi.com"
+
+#: 'feed_url'->'source'
+msgid "SOURCE"
+msgstr "Источник"
+
+#: 'feed_url'->'title'
+msgid "Title"
+msgstr "Название"

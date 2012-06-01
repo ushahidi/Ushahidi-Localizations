@@ -1,0 +1,1276 @@
+#. extracted from en_US/ui_admin.php, he_IL/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr "הגישה נדחתה. או שהאישורים שלך אינם תקפים או שבקשתך סורבה"
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr ""
+"הגישה נדחתה. בקשתך נתקבלה, אך נדחתה בשל מגבלות גישה כגון זמן. נסה שוב מאוחר "
+"יותר"
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr "דרגת גישה"
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "פעולות"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr "הוסף לקטגוריה"
+
+#: $lang->'added'
+msgid "added"
+msgstr "נוסף"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "נוסף/נערך"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr "תוספים"
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr "מנהל"
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr "התראות"
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr "התקבלו התראות"
+
+#: $lang->'am'
+msgid "AM"
+msgstr "AM"
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "אנונימי"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr "כל אחד"
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr "כל מקום"
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API נחסם"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr "API Logs"
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr "API הגדרות"
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr "UNBAN"
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr "UNBAN כולם"
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "מאושר"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr "אשר אוטומאטית"
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr "אשר ידנית"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "נוסף לארכיון"
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr "האם אתה בטוח שאתה רוצה ל"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק את הפריט הזה"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr "האם אתה בטוח שאתה רוצה למחוק את התמונה הזו"
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr "האם אתה בטוח שאתה רוצה להחליף טפסים"
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr "הענק"
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr "מענקים"
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr "הענק אות"
+
+#: $lang->'author'
+msgid "Author"
+msgstr "מחבר"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "דואר אלקטרוני של המחבר"
+
+#: $lang->'back'
+msgid "Back"
+msgstr "חזור"
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr "חסום IP"
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr "בין הזמנים"
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr "תיבות"
+
+#: $lang->'body'
+msgid "Body"
+msgstr "גוף"
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "בטל"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "שגיאה בהצגת התרשים"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "אנא וודא שההודעה שלך תקינה"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "אנא וודא שהמספר שהזנת תקין"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "אנא בדוק את הגדרות הס.מ.ס שלך!"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr "הגדרות צ'ק אין"
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr "צ'ק אינים"
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "ערים נטענו"
+
+#: $lang->'code'
+msgid "code"
+msgstr "קוד"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "גירסאת הקוד אינה מסונכרנת."
+
+#: $lang->'color'
+msgid "Color"
+msgstr "צבע"
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "תגובות"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "קוד אישור ההתראות שלך הוא: "
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "המשתמש"
+
+#: $lang->'count'
+msgid "Count"
+msgstr "ספירה"
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "מדינה לא נמצאה"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "נמצא/נערך"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "צור דיווח"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr "עידכון קריטי"
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr "CSV"
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr "כרגע פעיל"
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr "כרגע לא פעיל"
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "יומי"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "לוח בקרה"
+
+#: $lang->'database'
+msgid "database"
+msgstr "דטה בייס"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "תאריך וזמן"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr "ימים בשבוע"
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr "גירסת הדטה בייס איננה מסונכרנת."
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "נמחק"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "מחק"
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "מחק הכל"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr "מחק אות"
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "דמו"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "תיאור"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "מבוטל"
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr "תחילת מפצל"
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr "סוף מפצל"
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr "מחלקת div"
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "הורד דיווחים"
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr "בחירת נפתחות מטה"
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr "נערך בידי"
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "ערוך"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr "ערוך לוגים"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "דואר אלקטרוני"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr "כל הקולקטיב"
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "שגיאה בקידוד-גאו! שגיאת HTTP."
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr "ספריית IMAP PHP איננה מותקנת"
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "שגיאה"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "שגיאה, לא ניתן לשגר את התקרית"
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "כל שש שעות"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "כל שתיים עשר שעות"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr "נסיוני"
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr "שאלות נפוצות"
+
+#: $lang->'feed'
+msgid "feed"
+msgstr "פיד"
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "משוב"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr "פידים"
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr "רשימת אפשרויות"
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "ערך ברירת מחדל"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr "סוג מידע"
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr "ג'אווה סקריפט (javascript)"
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr "מרק-אפ (markup)"
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr "מספרי"
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr "טקסט חופשי"
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "גובה (בשורות)"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr "שדה חבוי"
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "אורך מקסימאלי של תווים"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "שם השדה"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr "מתג"
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr "לא"
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr "כן, סגר כברירת מחדל"
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr "כן, פתח כברירת מחדל"
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "לא הצלחתי למצוא את הקובץ שהועלה"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "לא הצלחתי לפתוח את הקובץ לקריאה"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "הטופס לא קיים!"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "פורום"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "שדה טקסט (טקסט חופשי)"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr "שדה תאריך"
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr "שדה כפתורי רדיו"
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr "שדה סימון מרובה"
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr "שדה בחירה מתפריט נפתח"
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "מ"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "מ"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "שגיאה geoname timeout"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "קבל עזרה"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "פעולות"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "הוסף\\ערוך"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "דואר אלקטרוני"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "נהל משתמשים"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "תפקיד"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "משתמש"
+
+#: $lang->'help'
+msgid "help"
+msgstr "עזרה"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "שעתי"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr "פיד תקריות עבור"
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "אירוע"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "אירועים"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "פרטי אירוע"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "פרמטר שגוי"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "כתובת IP"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "האם זה שדה תאריך?"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr "מי יכול לצפות בתשובות"
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr "מי יכול לשלוח תשובות"
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr "מילת מפתח"
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr "מילות מפתח"
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "כתובת דואר אלקטרוני:"
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr "שם מלא:"
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr "סיסמא:"
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr "תפקיד:"
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr "שם משתמש:"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "שכבות"
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "מפקח"
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "התנתק"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "לוגים"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "נהל"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr "נהל תפקידים והרשאות"
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "צפה במשתמשים"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr "הוסף/ערוך משתמש"
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr "סמן כ"
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "סמן כלא-ספאם"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "סומן כספאם"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "לא מתאים לאף מסמך"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "הודעה"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "הודעות"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Laconica הודעות"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "הודעות טוויטר"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "ההודעה שלך נשלחה!"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr "MHI"
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr "דקות"
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "פרמטר חסר"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr "מפקח"
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "עודכן"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr "עדכן את הגדרות איזור הזמן"
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "רד למטה"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "עלה למעלה"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "מספר הרצות מאוכסנות"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr "ההתראות שלי"
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr "הצ'ק אינים שלי"
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "הפרופיל שלי"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr "הדיווחים שלי"
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr "הטלת הצבעות"
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr "חיובי"
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr "שלילי"
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr "שם"
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr "צור התראה חדשה"
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr "צור הודעה חדשה"
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "סיסמא חדשה"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "לא"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "הודעות"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "זה לא רגיש לאותיות גדולות-קטנות."
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "לא נמצא"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr "אין נתונים. אין תוצאות להציג."
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "אין שגיאות"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "אין תוצאות להציג!"
+
+#: $lang->'of'
+msgid "of"
+msgstr "של"
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr "בספירה ספציפית"
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr "OpenID's"
+
+#: $lang->'page'
+msgid "page"
+msgstr "עמוד"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "עמודים"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "העמוד לא נמצא"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+"צר לנו, הדף אותו חיפשת איננו קיים.  <p><strong>האם עקבת אחרי הלינק ממקום אחר "
+"כלשהו באתר?</strong><br /> אם הגעת לעמוד זה מחלק אחר באתר, אנא <a "
+"href=\"#\">צור קשר</a> איתנו על מנת שנוכל לתקן את טעותנו.</p><p><strong> האם "
+"הגעת לכאן מקישור המופיע באתר אחר?  </strong><br /> קישורים מאתרים חיצוניים "
+"יכולים לפעמים להיות מיושנים או בעלי שגיאת כתיב.  <a href=\"#\">ספר לנו</a> "
+"מהיכן הגעת וננסה ליצור קשר עם האתר האחר על מנת לתקן את "
+"הבעיה.</p><p><strong>האם הקלדת את הקישור? </strong><br />ייתרן והקלדת את "
+"הכתובת באופן שגוי. אנא וודא שכתבת את הכתובת הנכונה, שמרת על אותיות גדולות "
+"וקטנות כשורה וכן הלאה... </p>"
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "פרמטרים בהם נעשה שימוש"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "סיסמה"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "איתחול סיסמה"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr "no-reply@ushahidi.com"
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "יקירי"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr "קיבלנו בקשה לאתחל את הסיסמא שלך"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr ""
+"על מנת לשנות את הסיסמה שלך, אנא לחץ על הקישור למטה (או העתק והדבק אותו לתוך "
+"הדפדפן)."
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr "כפי שביקשת, סיסמתך אותחלה כעת.  פרטיך החדשים הם כדלקמן"
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "איתחול סיסמת אושהידי"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "טלפון"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr "אנא בחר"
+
+#: $lang->'pm'
+msgid "PM"
+msgstr "PM"
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "מידע לא נשלח באמצעות post method"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr "תצוגה מקדימה"
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr "הודעה"
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr "הודעה פרטית"
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr "הודעה פרטית נשלחה"
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr "נושא"
+
+#: $lang->'private_to'
+msgid "To"
+msgstr "אל"
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr "רישום פומבי"
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr "וודאנים (Qualifiers)"
+
+#: $lang->'read'
+msgid "read"
+msgstr "קרא"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "רלוונטיות"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "מדווחים"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "דרגת מדווח"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "דיווחים"
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr "ציון מוניטין"
+
+#: $lang->'required'
+msgid "Required"
+msgstr "חובה"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "אתחל"
+
+#: $lang->'response'
+msgid "Response"
+msgstr "תגובה"
+
+#: $lang->'results'
+msgid "Results"
+msgstr "תוצאות"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr "לשלול"
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr "שמור הגדרות"
+
+#: $lang->'search'
+msgid "Search"
+msgstr "חיפוש"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "מחפש עבור"
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "--- בחר סוג שדה ---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "אנא בחר פריט"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr "עליך לבחור טריגר לפני שתבחר תגובה."
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr "עליך לבחור טריגר לפני שתוכל להגדיר מוודא (Qualifiers)."
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "שולח"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr "נשלח אל"
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "הודעה זו נשלחה מאתר האינטרנט שלך ב "
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr "זמן שרת"
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "הגדרות"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr "מציג עמוד"
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "מציג תוצאות"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr "הצג"
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr "קטגוריה מיוחדת"
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr "זוהי קטגוריה מיוחדת אשר לא תופיע למשתמשים בטופס שליחת הדיווח.  זה נעשה "
+"בשילוב עם תכונת \"המדווחים המהימנים\".\n"
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr "איזור ספציפי"
+
+#: $lang->'state'
+msgid "State"
+msgstr "מדינה"
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "סטטיסטיקות"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "סטטיסטיקות"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr "כשלון באיסוף סטטיסטיקות! אנא נסה שוב מאוחר יותר."
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "כשלון באיסוף סטטיסטיקות!"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr "ימים ספציפיים"
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr "נושא"
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "סופר אדמין"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "משימה שבוצעה"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "שדה טקסט"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "שם"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "נהל משתמשים"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "אל"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "סך כל הרשומות"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "אל"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "תרגם את הדיווח"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr "טריגר"
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr "טריגרים למשתמש"
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr "טריגרים"
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "לא מאושר"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "לא נקרא"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr " לחץ כאן כדי לשדרג כעת"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "שדרג את אושהידי"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "סטטוס שידרוג אושהידי"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "העלה דיווחים"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr "משתמש"
+
+#: $lang->'users'
+msgid "Users"
+msgstr "משתמשים"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr "אושהידי"
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr "אושר/לא-אושר"
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr "מאושר/לא-מאושר"
+
+#: $lang->'version'
+msgid "Version"
+msgstr "גירסה"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr " זמין לשידרוג."
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr "מסר פרטי"
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "צפה באתר"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr "צפה בדיווח"
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "ברוך הבא, "
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr "ויקי"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "כן"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "החיפוש שלך עבור"

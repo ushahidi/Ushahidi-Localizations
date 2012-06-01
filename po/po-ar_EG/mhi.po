@@ -1,0 +1,41 @@
+#. extracted from en_US/mhi.php, ar_EG/mhi.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'contact_captcha'->'default'
+msgid "Please enter a valid security code."
+msgstr ".برجاء إدخال كود أمان صحيح"
+
+#: 'contact_captcha'->'required'
+msgid "Please enter the security code."
+msgstr ".برجاء إدخال كود الأمان"
+
+#: 'contact_email'->'email'
+msgid "The Email field does not appear to contain a valid email address."
+msgstr "حقل البريد الإليكتروني لا يحتوي على عنوان صحيح"
+
+#: 'contact_email'->'required'
+msgid "Please provide a valid email address."
+msgstr "برجاء إدخال عنوان بريد إليكتروني صحيح"
+
+#: 'contact_message'->'required'
+msgid "The message field is required."
+msgstr ".الرسالة حقل مطلوب"
+
+#: 'contact_subject'->'length'
+msgid "The subject field must be at least 3 characters long."
+msgstr ".حقل الرسالة يجب أن يكون 3أحرف على الأقل"
+
+#: 'contact_subject'->'required'
+msgid "The subject field is required."
+msgstr ".الموضوع حقل مطلوب"

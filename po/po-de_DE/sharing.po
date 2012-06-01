@@ -1,0 +1,57 @@
+#. extracted from en_US/sharing.php, de_DE/sharing.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "Ingress date"
+msgstr "Eintrittsdatum"
+
+#: $lang->'date_added'
+msgid "Date Added"
+msgstr "Datum hinzugefügt"
+
+#: $lang->'last_access'
+msgid "Last Access"
+msgstr "Letzter Zugriff"
+
+#: 'sharing_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "Das Farbfeld muss 6 Zeichen lang sein (Hex-Code)"
+
+#: 'sharing_color'->'required'
+msgid "The color field is required."
+msgstr "Die Farbangabe ist notwendig."
+
+#: 'sharing_name'->'length'
+msgid "The Sharing name does not appear to be valid."
+msgstr "Der SHARING-NAME ist ungültig?"
+
+#: 'sharing_name'->'required'
+msgid "A Sharing name is required."
+msgstr "Ein SHARING Name ist notwendig."
+
+#: 'sharing_url'->'exists'
+msgid "The site URL already exists."
+msgstr "Die Seiten URL existiert bereits"
+
+#: 'sharing_url'->'length'
+msgid "The site URL does not appear to be valid."
+msgstr "Die URL scheint ungültig zu sein."
+
+#: 'sharing_url'->'required'
+msgid "The site URL is required."
+msgstr "DIe Seiten URL ist notwendig."
+
+#: 'sharing_url'->'url'
+msgid "The site URL field does not appear to contain a valid URL."
+msgstr "Das URL Feld scheint keine gültige URL zu beinhalten?"

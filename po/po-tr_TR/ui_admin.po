@@ -1,0 +1,1282 @@
+#. extracted from en_US/ui_admin.php, tr_TR/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr ""
+"Giriş engellendi. Referanslarınız geçerli değil ya da isteğiniz reddedildi."
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr ""
+"Giriş engellendi. İsteğiniz iletildi ancak zaman gibi çeşitli kısıtlamalar "
+"nedeniyle gerçekleştirilmedi. Lütfen daha sonra tekrar deneyiniz."
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr ""
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "Eylemler"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr ""
+
+#: $lang->'added'
+msgid "added"
+msgstr "eklendi"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "eklendi/değiştirildi"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr "Eklentiler"
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr "Yönetici"
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr ""
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr ""
+
+#: $lang->'am'
+msgid "AM"
+msgstr "Ö.Ö"
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "Gizli"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr ""
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr ""
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API Engellendi"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr "API Kayıtları"
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr "API Ayarları"
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr "Engeli kaldır"
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr "Bütün engelleri kaldır"
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "onaylandı"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr "Otomatik Onaylama"
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr "Elle Onayla"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "Arşivlendi"
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr "Şunu yapmak istediğinize emin misiniz"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr "Bu maddeyi silmek istediğinize emin misiniz"
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr "Bu resmi silmek istediğinize emin misiniz"
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr "Formları değiştirmek istediğinize emin misiniz"
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr ""
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr ""
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr ""
+
+#: $lang->'author'
+msgid "Author"
+msgstr "Yazar"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "Yazar e-posta adresi"
+
+#: $lang->'back'
+msgid "Back"
+msgstr "Geri"
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr "IP'yi engelle"
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr ""
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr ""
+
+#: $lang->'body'
+msgid "Body"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "İptal"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "Tabloyu göstermede bir hata oluştu"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "Mesajınızın geçerli olduğuna emin olun"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "Numaranın geçerli olduğuna emin olun"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "Lütfen kısa mesaj ayarlarınızı kontrol edin!"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr ""
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr "Yer bildirimleri"
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "Yüklenen şehirlenen"
+
+#: $lang->'code'
+msgid "code"
+msgstr "kod"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "Kod sürümü güncel değil."
+
+#: $lang->'color'
+msgid "Color"
+msgstr ""
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "Uyarılar için onay kodunuz:"
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "Bu kullanıcı"
+
+#: $lang->'count'
+msgid "Count"
+msgstr ""
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "Ülke bulunamadı"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "oluşturuldu/değiştirildi"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "Rapor oluştur"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr "Kritik Güncelleme"
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr ""
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr ""
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr ""
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "Günlük"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "Kontrol Paneli"
+
+#: $lang->'database'
+msgid "database"
+msgstr "veri tabanı"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "Gün ve Saat"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr ""
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr "Veri tabanı güncel değil"
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "silindi"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "Sil"
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "Hepsini Sil"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr ""
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "Örnek"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "Açıklama"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr "Hizmet Dışı"
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr ""
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr ""
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr ""
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "Raporları İndir"
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr ""
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr "Şu kişi tarafından değiştirildi"
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "Düzenle"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr "Düzenleme Kayıdı"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "E-posta"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr ""
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "Coğrafi kodlama hatası! HTTP hatası"
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr "IMAP PHP Kütüphanesi yüklenmemiş"
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "Hata"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "Olay yayınlanırken bir hata oluştu."
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "Her 6 Saatte Bir"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "Her 12 Saatte Bir"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr "Deneysel"
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr "SSS"
+
+#: $lang->'feed'
+msgid "feed"
+msgstr "besleme"
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "Geri Besleme"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr "besleme"
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr ""
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "Varsayılan Değer"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr ""
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr ""
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr ""
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr ""
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr ""
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "Yükseklik (Satır)"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr ""
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "En Fazla Karakter Limiti"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "Alan İsmi"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr ""
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr ""
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr ""
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr ""
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "Yüklenilen dosya bulunamadı"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "Dosya okunamadı"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "Form Mevcut Değil!"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "Forum"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "Yazı Alanı (Serbest Yazı)"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr ""
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr ""
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr ""
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr ""
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "Gönderen"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "Gönderen"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "Yerisimleri Zamana Aşımı Hatası"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "Yardım İste"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "Eylemler"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "Ekle/Düzenle"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "E-posta"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "Kullanıcıları Yönet"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "Rol"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "Kullanıcı"
+
+#: $lang->'help'
+msgid "help"
+msgstr "yardım"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "Saatlik"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr "Olay beslemesi için"
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "Durum"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "Durumlar"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "Durum Detayı"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "Yanlış Parametre"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "IP Adresi"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "Bu Tarih Alanı mı?"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr ""
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr ""
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr ""
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr ""
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "E-posta Adresi"
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr "Tam İsim:"
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr "Şifre:"
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr "Ünvan:"
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr "Kullanıcı Adı:"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "Kademeler"
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "Yönetici"
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "Çıkış"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "Kayıtlar"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "Yönet"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr "Rolleri ve İzinleri Yönet"
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "Kullanıcıları Gör"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr "Kullanıcı Ekle/Düzenle"
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr ""
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "\"gereksiz değil\" olarak işaretle"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "gereksiz olarak işaretle"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "hiç bir sonuç bulunamadı"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "Mesaj"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "Mesajlar"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Laconica Mesajları"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "Twitter Mesajları"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "Mesajınız gönderildi!"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr "MHI"
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr "Dakika"
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "Eksik Parametre"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr "Yönetici"
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "değiştirildi"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr ""
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "aşağı in"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "yukarı çık"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "Çoklu Ana Makina Durumları"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr ""
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr ""
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "Profilim"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr ""
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr ""
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr ""
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr ""
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr ""
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr ""
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr ""
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "Yeni Şifre"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "Hayır"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "Bildiri"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "Büyük/Küçük harf duyarlı değildir"
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "Bulunamadı"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr "Data yok. Gösterilecek sonuç yok."
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "Hata Yok"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "Sonuç bulunamadı!"
+
+#: $lang->'of'
+msgid "of"
+msgstr "."
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr ""
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr ""
+
+#: $lang->'page'
+msgid "page"
+msgstr "sayfa"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "sayfalar"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "Sayfa Bulunamadı"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+"Üzgünüz, görüntülemeye çalıştığınız sayfa burada "
+"değil.<p><strong>Sitemizdeki başka bir linkten denediniz mi?</strong><br "
+"/>Eğer bu sayfaya sitemizin başka bir kısmından ulaştıysanız, lütfen <a "
+"href=\"#\">bizimle irtibata geçin</a> ve böylece biz de hatamızı "
+"düzeltelim.</p><p><strong>Diğer sitelerden bir link denediniz mi? "
+"</strong><br /> Diğer sitelerdeki linkler bazen eski ve ya yanlış yazılmış "
+"olabilir. <a href=\"#\">Bize Söyleyin</a> nereden geldiğinizi ve biz de "
+"sorunun çözümü için diğer site ile temasa geçelim.</p><p><strong>URL'yi "
+"yazdınız mı? </strong><br />Adresi (URL) yanlış yazmış olabilirsiniz. Doğru "
+"yazdığınızdan, doğru büyük harf/küçük harf kullandığınızdan, vb. emin olun. "
+"</p>"
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "Kullanılan Parametreler"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "Şifre"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "Şifre Sıfırlama"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr "no-reply@ushahidi.com"
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "Sayın"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr "Şu kullanıcı ismi için şifre sıfırlama isteği aldık:"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr ""
+"Şifrenizi değiştirmek için lütfen aşağıdaki adrese tıklayınız (ya da "
+"kopyalayıp adres çubuğunuza yapıştırınız)."
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr ""
+"İsteğiniz üzerine şifreniz sıfırlandı. Yeni kullanıcı bilgileriniz aşağıdaki "
+"gibidir"
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "Ushahidi şifre sıfırlama"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "Telefon"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr ""
+
+#: $lang->'pm'
+msgid "PM"
+msgstr "Ö.S"
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "Data postalama yoluyla gönderilmedi"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr ""
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr ""
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'private_to'
+msgid "To"
+msgstr ""
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr "Herkese Açık Listeleme"
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr ""
+
+#: $lang->'read'
+msgid "read"
+msgstr "oku"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "Uygunluk"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "Raportörler"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "Raportör Derecesi"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "Raporlar"
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr ""
+
+#: $lang->'required'
+msgid "Required"
+msgstr "Gerekli"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "Sıfırla"
+
+#: $lang->'response'
+msgid "Response"
+msgstr ""
+
+#: $lang->'results'
+msgid "Results"
+msgstr "Sonuçlar"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr ""
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr "Ayarları Kaydet"
+
+#: $lang->'search'
+msgid "Search"
+msgstr "Ara"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "arıyor"
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "---Alan Türü Seçin---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "Madde seçin"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr ""
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr ""
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "Gönderen"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr ""
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "Bu mesaj internet sayfanızdan şu saatte gönderildi"
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr "Sunucu Saati"
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr "Sayfa gösteriliyor"
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "Sonuçlar gösteriliyor"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr ""
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr "Özel Kategori"
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr ""
+"Bu, kullanıcıları bildirdiğiniz raporda gözükmeyecek özel bir kategoridir, "
+"\"Güvenilen Raportörler\" özelliği ile birlikte kullanılır."
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr ""
+
+#: $lang->'state'
+msgid "State"
+msgstr ""
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "İstatistikler"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "İstatistikler"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr "İstatistik toplaması başarısız oldu! Lütfen daha sonra tekrar deneyin."
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "İstatistik toplaması başarısız oldu!"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr ""
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "Süper Admin"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "Gerçekleştirilen Görev"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "Yazı Alanı"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "İsim"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "Kullanıcıları Yönet"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "e"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "Toplam Kayıtlar"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "e"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "Raporları Başka Bir Dile Çevir"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr ""
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr ""
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr ""
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "onaylanmadış"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "Bilinmiyor"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "Okunmamış"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr "Sürüm yükseltmek için buraya yıklayın"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "Ushahidi Sürümünü Yükselt"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "Ushahidi Durumunu Yükselt"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "Raporları Yükle"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr ""
+
+#: $lang->'users'
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr "Ushahidi"
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr ""
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr ""
+
+#: $lang->'version'
+msgid "Version"
+msgstr "Versiyon"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr "yükseltmek için hazır."
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "Siteyi Görüntüle"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr ""
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "Merhaba,"
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr "Wiki"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "Evet"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "Arama sonucunuz"

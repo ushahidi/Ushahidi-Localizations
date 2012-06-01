@@ -1,0 +1,68 @@
+#. extracted from en_US/reporters.php, es_AR/reporters.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'latitude'->'between'
+msgid "The latitude field does not appear to contain a valid latitude."
+msgstr "El campo latitud parece no contener una latitud válida."
+
+#: 'latitude'->'required'
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
+msgstr ""
+"El campo latitud es requerido. Por favor haga click en el mapa para "
+"seleccionar una ubicación."
+
+#: 'level_id'->'numeric'
+msgctxt "'level_id'->'numeric'"
+msgid "The Reporter Level field does not appear to contain a valid Level."
+msgstr "El campo Nivel de Reporte parece no contener una nivel válido."
+
+#: 'level_id'->'required'
+msgctxt "'level_id'->'required'"
+msgid "The Reporter Level field does not appear to contain a valid Level."
+msgstr ""
+
+#: 'location_name'->'length'
+msgid ""
+"The location name field must be at least 3 and no more 200 characters long."
+msgstr ""
+"El campo nombre de ubicación debe tener al menos 3 y no más de 200 "
+"caracteres de largo."
+
+#: 'location_name'->'required'
+msgid "The location name field is required."
+msgstr "El campo ubicación es requerido."
+
+#: 'longitude'->'between'
+msgid "The longitude field does not appear to contain a valid longitude."
+msgstr "El campo longitud parece no contener una longitud válida."
+
+#: 'longitude'->'required'
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
+msgstr ""
+"El campo longitud es requerido. Por favor haga click en el mapa para "
+"seleccionar una ubicación."
+
+#: 'reporter_id'->'numeric'
+msgctxt "'reporter_id'->'numeric'"
+msgid "Invalid Reporter"
+msgstr ""
+
+#: 'reporter_id'->'required'
+msgctxt "'reporter_id'->'required'"
+msgid "Invalid Reporter"
+msgstr ""

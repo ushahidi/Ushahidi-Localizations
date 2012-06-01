@@ -1,0 +1,208 @@
+#. extracted from en_US/auth.php, ka_GE/auth.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'email'->'email'
+msgctxt "'email'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr "ელექტრონული ფოსტის ველი შეიცავს მოქმედ ელექტრონული ფოსტის მისამართს?"
+
+#: 'email'->'exists'
+msgid "Sorry, a user account already exists for this email address."
+msgstr ""
+"უკაცრავად,  ამ ელექტრონული ფოსტის მისამართით უკვე არსებობს მომხმარებლის "
+"ანგარიში."
+
+#: 'email'->'length'
+msgid "The email field must be at least 4 and no more 64 characters long."
+msgstr ""
+" ელექტრონული ფოსტის ველი უნდა შეიცავდეს მინიმუმ 4 და მაქსიმუმ 64 სიმბოლოს."
+
+#: 'email'->'required'
+msgctxt "'email'->'required'"
+msgid "The email field is required."
+msgstr "ელექტრონული ფოსტის ველი სავალდებულოა."
+
+#: 'name'->'length'
+msgid "The name field must be at least 3 and no more 100 characters long."
+msgstr "სრული სახელის ველი უნდა შეიცავდეს მინიმუმ 3 და მახსიმუმ 100 სიმბოლოს."
+
+#: 'name'->'required'
+msgid "The name field is required."
+msgstr "სრული სახელის ველი სავალდებულოა."
+
+#: 'name'->'standard_text'
+msgid "The username field contains disallowed characters."
+msgstr "მომხმარებლის სახელის ველი შეიცავს აკრძალულ სიმბოლოებს."
+
+#: 'current_password'->'length'
+msgctxt "'current_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+
+#: %27current_password%27-%3E%27login+error%27
+msgctxt "'current_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr ""
+
+#: 'current_password'->'matches'
+msgctxt "'current_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ""
+
+#: 'current_password'->'required'
+msgctxt "'current_password'->'required'"
+msgid "The password field is required."
+msgstr ""
+
+#: 'current_password'->'alpha_dash'
+msgctxt "'current_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'current_password'->'incorrect'
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
+msgstr ""
+
+#: 'new_password'->'length'
+msgctxt "'new_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+
+#: %27new_password%27-%3E%27login+error%27
+msgctxt "'new_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr ""
+
+#: 'new_password'->'matches'
+msgctxt "'new_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ""
+
+#: 'new_password'->'required'
+msgctxt "'new_password'->'required'"
+msgid "The password field is required."
+msgstr ""
+
+#: 'new_password'->'alpha_dash'
+msgctxt "'new_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'password'->'default'
+msgid "There has been an error attempting to log you in."
+msgstr ""
+
+#: 'password'->'length'
+msgctxt "'password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr "პაროლის ველი უნდა შეიცავდეს არანაკლებ 5 და არა უმეტეს 16 სიმბოლოს."
+
+#: %27password%27-%3E%27login+error%27
+msgctxt "'password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr "გთხოვთ გადაამოწმოთ, რომ თქვენ სწორად შეიყვანეთ პაროლი."
+
+#: 'password'->'matches'
+msgctxt "'password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr "გთხოვთ შეიყვანოთ პაროლის ორი  ველში იგივე პაროლი ."
+
+#: 'password'->'required'
+msgctxt "'password'->'required'"
+msgid "The password field is required."
+msgstr "პაროლის ველი სავალდებულოა."
+
+#: %27password%27-%3E%27riverid+server+down%27
+msgid "The authentication server is down. Please try again later."
+msgstr ""
+
+#: 'password'->'alpha_dash'
+msgctxt "'password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'password_confirm'->'matches'
+msgid "The password confirmation field must match the password field."
+msgstr "პაროლის დადასტურების ველი უნდა ემთხვეოდეს პაროლის ველს."
+
+#: 'resetemail'->'email'
+msgctxt "'resetemail'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr ""
+"ელექტრონული ფოსტის ველი არ შეიცავს მოქმედი ელექტრონული ფოსტის მისამართს?"
+
+#: 'resetemail'->'invalid'
+msgid "Sorry, we don't have your email address"
+msgstr "უკაცრავად, ჩვენ არ გვაქვს თქვენი ელექტრონული ფოსტის მისამართი"
+
+#: 'resetemail'->'required'
+msgctxt "'resetemail'->'required'"
+msgid "The email field is required."
+msgstr "ელექტრონული ფოსტის ველი სავალდებულოა."
+
+#: 'role'->'superadmin_modify'
+msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
+msgstr ""
+
+#: 'roles'->'alpha_numeric'
+msgid "Invalid role format."
+msgstr "ფორმატი არასწორია."
+
+#: 'roles'->'length'
+msgid "The role field must be at least 5 and no more than 30 characters long."
+msgstr "ველი უნდა შეიცავდეს არანაკლებ 5 და არა უმეტეს 30 სიმბოლოს."
+
+#: 'roles'->'required'
+msgid "You must define at least one role."
+msgstr "თქვენ უნდა განისაზღვროთ არანაკლებ ერთისა."
+
+#: 'roles'->'values'
+msgid "You must select either ADMIN or USER role."
+msgstr "თქვენ უნდა აირჩიოთ ან ადმინისტრატორი ან მომხმარებლი."
+
+#: 'username'->'admin'
+msgid "The admin user role cannot be modified."
+msgstr "ადმინისტრატორი არ განისაზღვრა."
+
+#: 'username'->'alpha_numeric'
+msgid "The username field must only contain numbers and letters."
+msgstr ""
+
+#: 'username'->'exists'
+msgid "Sorry, this username is already in use."
+msgstr "უკაცრავად, ეს სახელი უკვე გამოყენებულია."
+
+#: 'username'->'length'
+msgid "The username field must be at least 2 and no more 100 characters long."
+msgstr "სახელის ველი უნდა შეიცავდეს არანაკლებ 2 და არა უმეტეს 16 სიმბოლოს."
+
+#: %27username%27-%3E%27login+error%27
+msgid "Please check that you entered the correct username."
+msgstr "გთხოვთ გადაამოწმოთ, რომ თქვენ შეყვანილი მომხმარებლის სახელი სწორია."
+
+#: 'username'->'required'
+msgid "The username field is required."
+msgstr "მომხმარებლის სახელი სავალდებულოა."
+
+#: 'username'->'superadmin'
+msgid "The super admin role cannot be modified."
+msgstr "ადმინისტრატორის როლი არ განისაზღვრა."

@@ -1,0 +1,204 @@
+#. extracted from en_US/auth.php, ar_EG/auth.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'email'->'email'
+msgctxt "'email'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr ".يبدو أن العنوان المُدرج في حقل البريد الإلكتروني غير صحيح"
+
+#: 'email'->'exists'
+msgid "Sorry, a user account already exists for this email address."
+msgstr ".عفواً، يوجد حساب مستخدم آخر لهذا البريد الإلكتروني"
+
+#: 'email'->'length'
+msgid "The email field must be at least 4 and no more 64 characters long."
+msgstr ".حقل البريد الإليكترونى يجب أن يحتوي 4 رموز على الأقل ولا يتعدى 64 رمز"
+
+#: 'email'->'required'
+msgctxt "'email'->'required'"
+msgid "The email field is required."
+msgstr ".يجب إدخال بيانات حقل البريد الإلكترونى"
+
+#: 'name'->'length'
+msgid "The name field must be at least 3 and no more 100 characters long."
+msgstr ".حقل الاسم يجب أن يحتوى 3 رموز على الأقل ولا يتعدى 100 رمز"
+
+#: 'name'->'required'
+msgid "The name field is required."
+msgstr ".يجب إدخال حقل الاسم بالكامل"
+
+#: 'name'->'standard_text'
+msgid "The username field contains disallowed characters."
+msgstr ".حقل اسم المستخدم يحتوى على رموز غير مسموح بها"
+
+#: 'current_password'->'length'
+msgctxt "'current_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+
+#: %27current_password%27-%3E%27login+error%27
+msgctxt "'current_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr ""
+
+#: 'current_password'->'matches'
+msgctxt "'current_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ""
+
+#: 'current_password'->'required'
+msgctxt "'current_password'->'required'"
+msgid "The password field is required."
+msgstr ""
+
+#: 'current_password'->'alpha_dash'
+msgctxt "'current_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'current_password'->'incorrect'
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
+msgstr ""
+
+#: 'new_password'->'length'
+msgctxt "'new_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+
+#: %27new_password%27-%3E%27login+error%27
+msgctxt "'new_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr ""
+
+#: 'new_password'->'matches'
+msgctxt "'new_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ""
+
+#: 'new_password'->'required'
+msgctxt "'new_password'->'required'"
+msgid "The password field is required."
+msgstr ""
+
+#: 'new_password'->'alpha_dash'
+msgctxt "'new_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'password'->'default'
+msgid "There has been an error attempting to log you in."
+msgstr ""
+
+#: 'password'->'length'
+msgctxt "'password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr "يجب ألا تقل كلمة المرور عن 5 أحرف أو أرقام وألا تزيد على 16 حرف أو رقم"
+
+#: %27password%27-%3E%27login+error%27
+msgctxt "'password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr "تأكد من إدخال كلمة المرور الصحيحة"
+
+#: 'password'->'matches'
+msgctxt "'password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ".أدخل نفس كلمة السر فى الحقلين الخاصين بكلمة المرور"
+
+#: 'password'->'required'
+msgctxt "'password'->'required'"
+msgid "The password field is required."
+msgstr ".يجب ملء حقل كلمة المرور"
+
+#: %27password%27-%3E%27riverid+server+down%27
+msgid "The authentication server is down. Please try again later."
+msgstr ""
+
+#: 'password'->'alpha_dash'
+msgctxt "'password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'password_confirm'->'matches'
+msgid "The password confirmation field must match the password field."
+msgstr ".حقل تأكيد كلمة السر يجب أن تطابق حقل كلمة المسر"
+
+#: 'resetemail'->'email'
+msgctxt "'resetemail'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr ".يبدو أن العنوان المُدرج في حقل البريد الإلكتروني غير صحيح"
+
+#: 'resetemail'->'invalid'
+msgid "Sorry, we don't have your email address"
+msgstr ".ليس لدينا عنوان بريدك الإلكتروني"
+
+#: 'resetemail'->'required'
+msgctxt "'resetemail'->'required'"
+msgid "The email field is required."
+msgstr ".يجب ملء حقل البريد الإلكتروني"
+
+#: 'role'->'superadmin_modify'
+msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
+msgstr ""
+
+#: 'roles'->'alpha_numeric'
+msgid "Invalid role format."
+msgstr ".صيغة المهمة غير صحيحة"
+
+#: 'roles'->'length'
+msgid "The role field must be at least 5 and no more than 30 characters long."
+msgstr ".حقل المهمة يجب أن يحتوى 5 رموز على الأقل ولا يتعدى 30 رمز"
+
+#: 'roles'->'required'
+msgid "You must define at least one role."
+msgstr ".يجب أن تحدد مهمة واحدة على الأقل"
+
+#: 'roles'->'values'
+msgid "You must select either ADMIN or USER role."
+msgstr ".يجب أن تختار مهمة مسئول إداري أو مستخدم"
+
+#: 'username'->'admin'
+msgid "The admin user role cannot be modified."
+msgstr ".لا يمكن تعديل مهمة اسم المستخدم الإداري"
+
+#: 'username'->'alpha_numeric'
+msgid "The username field must only contain numbers and letters."
+msgstr ""
+
+#: 'username'->'exists'
+msgid "Sorry, this username is already in use."
+msgstr ".عفواً، هذا اسم قيد الاستخدام"
+
+#: 'username'->'length'
+msgid "The username field must be at least 2 and no more 100 characters long."
+msgstr ".حقل اسم المستخدم يجب ألا يقل عن رمزين وألا يزيد على 16 رمز"
+
+#: %27username%27-%3E%27login+error%27
+msgid "Please check that you entered the correct username."
+msgstr "تأكد من إدخال اسم المستخدم الصحيح"
+
+#: 'username'->'required'
+msgid "The username field is required."
+msgstr ".يجب ملء حقل اسم المستخدم"
+
+#: 'username'->'superadmin'
+msgid "The super admin role cannot be modified."
+msgstr ".لا يمكن تعديل مهمة المسئول الإداري الأعلى"

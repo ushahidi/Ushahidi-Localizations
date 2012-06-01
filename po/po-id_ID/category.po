@@ -1,0 +1,77 @@
+#. extracted from en_US/category.php, id_ID/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "Panjang isian warna harus sejumlah 6 karakter"
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr "Isian warna tidak boleh dikosongkan"
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr "Isian keterangan tidak boleh dikosongkan"
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr "Mohon pastikan besar gambar yang di unggah tidak lebih dr 50kb"
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr ""
+"Format gambar yang disertakan tidak terterima. Format yang berlaku hanya "
+".JPG, .PNG dan .GIF"
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr "Format gambar yang disertakan tidak terterima"
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr "Panjang judul harus minimal 3 karakter tapi tidak lebih dr 80 karakter"
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr "Isian judul tidak boleh dikosongkan"
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr "Induk kategorinya tidak ada"
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr "Induk kategori harus berupa angka"
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr "Induk kategori tidak boleh dikosongkan"
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr "Kategori tidak boleh sama dengan induk kategori"
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

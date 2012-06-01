@@ -1,0 +1,60 @@
+#. extracted from en_US/feedback.php, ka_GE/feedback.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'feedback_actions'
+msgid "Actions"
+msgstr "Actions"
+
+#: 'feedback_captcha'->'required'
+msgid "Please enter the Security Code."
+msgstr "გთხოვთ შეიყვანოთ უსაფრთხოების კოდი."
+
+#: 'feedback_captcha'->'valid'
+msgid "Please enter a valid security code"
+msgstr "გთხოვთ შეიყვანოთ სწორი უსაფრთხოების კოდი"
+
+#: 'feedback_captcha'->'feedback_date'
+msgid "Date"
+msgstr "თარიღი"
+
+#: 'feedback_captcha'->'feedback_details'
+msgid "Feedback Details"
+msgstr "უკუკავშირის დეტალები"
+
+#: 'feedback_message'->'required'
+msgid "Please enter some information for the reply."
+msgstr "გთხოვთ შეიყვანოთ რაღაც ინფორმაცია პასუხისთვის."
+
+#: 'feedback_title'->'length'
+msgid "The title field must be at least 3 and no more 100 characters long."
+msgstr ""
+"სათაურის ველი უნდა შედგებოდეს არანაკლებ სამი და არაუმეტეს 100 სიმბოლოსგან."
+
+#: 'feedback_title'->'required'
+msgid "A title is required."
+msgstr "სათაური სავალდებულოა."
+
+#: 'person_email'->'email'
+msgid "The email field does not appear to contain a valid email address."
+msgstr ""
+"ელექტრონული ფოსტის ველი სავარაუდოდ არ შეიცავს სწორ ელექტრონული ფოსტის "
+"მისამართს?"
+
+#: 'person_email'->'required'
+msgid "Please enter your email address"
+msgstr "გთხოვთ, შეიყვანოთ თქვენი ელექტრონული ფოსტის მისამართი"
+
+#: 'person_name'->'required'
+msgid "Please enter your full name."
+msgstr "გთხოვთ, შეიყვანეთ თქვენი სრული სახელი."

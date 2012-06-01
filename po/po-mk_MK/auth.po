@@ -1,0 +1,222 @@
+#. extracted from en_US/auth.php, mk_MK/auth.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'email'->'email'
+msgctxt "'email'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr "Email адресата која ја внесовте не е валидна email адреса"
+
+#: 'email'->'exists'
+msgid "Sorry, a user account already exists for this email address."
+msgstr "Си извинуваме, корисничка сметка за оваа email адреса веќе постои."
+
+#: 'email'->'length'
+msgid "The email field must be at least 4 and no more 64 characters long."
+msgstr ""
+"Email адресат мора да биде најмалку 4 а не повеќе од 64 карактери долга."
+
+#: 'email'->'required'
+msgctxt "'email'->'required'"
+msgid "The email field is required."
+msgstr "Email адресата е задолжителна"
+
+#: 'name'->'length'
+msgid "The name field must be at least 3 and no more 100 characters long."
+msgstr "Името може да содржи најмалку 3 а не повеќе од 100 карактери."
+
+#: 'name'->'required'
+msgid "The name field is required."
+msgstr "Името е задолжително."
+
+#: 'name'->'standard_text'
+msgid "The username field contains disallowed characters."
+msgstr "Корисничкото име содржи недозволени знаци."
+
+#: 'current_password'->'length'
+msgctxt "'current_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr "Лозинката мора да е најмалку 8 карактери долга."
+
+#: %27current_password%27-%3E%27login+error%27
+msgctxt "'current_password'->'login error'"
+"'current_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr "Ве молиме проверете дека точната лозинка и email адреса се внесени."
+
+#: 'current_password'->'matches'
+msgctxt "'current_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr "Ве молиме внесете ја истата лозинка во двете полиња."
+
+#: 'current_password'->'required'
+msgctxt "'current_password'->'required'"
+msgid "The password field is required."
+msgstr "Лозинката е задолжителна."
+
+#: 'current_password'->'alpha_dash'
+msgctxt "'current_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+"Лозинката мора да содржи само букви, симболите # и @, бројки, долни и коси "
+"црти"
+
+#: 'current_password'->'incorrect'
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
+msgstr ""
+"Моменталната лозика која ја внесовте е неточна. Ве молиме обидете се "
+"повторно."
+
+#: 'new_password'->'length'
+msgctxt "'new_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr "Лозинката мора да е најмалку 8 карактери долга."
+
+#: %27new_password%27-%3E%27login+error%27
+msgctxt "'new_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr "Ве молиме проверете дека точната лозика и email адреса се внесени."
+
+#: 'new_password'->'matches'
+msgctxt "'new_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr "Ве молиме внесете ја истата лозинка во двете полиња."
+
+#: 'new_password'->'required'
+msgctxt "'new_password'->'required'"
+msgid "The password field is required."
+msgstr "Лозинката е задолжителна."
+
+#: 'new_password'->'alpha_dash'
+msgctxt "'new_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+"Лозинката мора да содржи само букви, симболите # и @, бројки, долни и коси "
+"црти"
+
+#: 'password'->'default'
+msgid "There has been an error attempting to log you in."
+msgstr "Наидовме на грешка при вашето логирање."
+
+#: 'password'->'length'
+msgctxt "'password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr "Лозинката мора да е најмалку 8 карактери долга."
+
+#: %27password%27-%3E%27login+error%27
+msgctxt "'password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr "Ве молиме проверете дека точната лозика и email адреса се внесени."
+
+#: 'password'->'matches'
+msgctxt "'password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr "Ве молиме внесете ја истата лозинка во двете полиња."
+
+#: 'password'->'required'
+msgctxt "'password'->'required'"
+msgid "The password field is required."
+msgstr "Лозинката е задолжителна."
+
+#: %27password%27-%3E%27riverid+server+down%27
+msgid "The authentication server is down. Please try again later."
+msgstr ""
+"Во моментов не можеме да го завршиме успешно вашето логирање. Ве молиме "
+"пробајте повторно подоцна."
+
+#: 'password'->'alpha_dash'
+msgctxt "'password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+"Лозинката мора да содржи само букви, симболите # и @, бројки, долни и коси "
+"црти"
+
+#: 'password_confirm'->'matches'
+msgid "The password confirmation field must match the password field."
+msgstr ""
+"Полето за потврда на лозинката мора да одговара на она што е внесено во "
+"полето за лозинка."
+
+#: 'resetemail'->'email'
+msgctxt "'resetemail'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr "Email адресата која ја внесовте не е валидна email адреса."
+
+#: 'resetemail'->'invalid'
+msgid "Sorry, we don't have your email address"
+msgstr "Се извинуваме, ја немаме вашата email адреса"
+
+#: 'resetemail'->'required'
+msgctxt "'resetemail'->'required'"
+msgid "The email field is required."
+msgstr "Email адресата е задолжителна."
+
+#: 'role'->'superadmin_modify'
+msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
+msgstr ""
+"Само superadmin може да промени superadmin или да надгради корисник во "
+"администратор."
+
+#: 'roles'->'alpha_numeric'
+msgid "Invalid role format."
+msgstr "Улогата не е валидна."
+
+#: 'roles'->'length'
+msgid "The role field must be at least 5 and no more than 30 characters long."
+msgstr "Улогата мора да биде најмалку 5 а не повеќе од 30 карактери долга."
+
+#: 'roles'->'required'
+msgid "You must define at least one role."
+msgstr "Мора да дефинирате најмалку една улога."
+
+#: 'roles'->'values'
+msgid "You must select either ADMIN or USER role."
+msgstr "Мора да избере или ADMIN или USER улога."
+
+#: 'username'->'admin'
+msgid "The admin user role cannot be modified."
+msgstr "Улогата на администратор не може да биде променета."
+
+#: 'username'->'alpha_numeric'
+msgid "The username field must only contain numbers and letters."
+msgstr "Корисничкото име може да содржи само букви и бројки."
+
+#: 'username'->'exists'
+msgid "Sorry, this username is already in use."
+msgstr "Се извинуваме, ова корисничко име е веќе во употреба."
+
+#: 'username'->'length'
+msgid "The username field must be at least 2 and no more 100 characters long."
+msgstr ""
+"Корисничкото име мора да биде најмалку 2 а не повеќе од  100 карактери "
+"долго."
+
+#: %27username%27-%3E%27login+error%27
+msgid "Please check that you entered the correct username."
+msgstr "Ве молиме проверете дали го внесовте точното корисничко име."
+
+#: 'username'->'required'
+msgid "The username field is required."
+msgstr "Корисничкото име е задолжително."
+
+#: 'username'->'superadmin'
+msgid "The super admin role cannot be modified."
+msgstr "Улогата на суперадминистратор не може да биде променета."

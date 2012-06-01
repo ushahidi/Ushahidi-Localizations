@@ -1,0 +1,216 @@
+#. extracted from en_US/auth.php, es_AR/auth.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'email'->'email'
+msgctxt "'email'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr ""
+"El campo correo electrónico parece no contener una dirección de correo "
+"electrónico válida."
+
+#: 'email'->'exists'
+msgid "Sorry, a user account already exists for this email address."
+msgstr ""
+"Lo siento, ya existe una cuenta de usuario que usa ese correo electrónico."
+
+#: 'email'->'length'
+msgid "The email field must be at least 4 and no more 64 characters long."
+msgstr ""
+"El campo correo electrónico debe tener por lo menos 4 y no mas de 64 "
+"caracteres."
+
+#: 'email'->'required'
+msgctxt "'email'->'required'"
+msgid "The email field is required."
+msgstr "El campo correo electrónico es obligatorio."
+
+#: 'name'->'length'
+msgid "The name field must be at least 3 and no more 100 characters long."
+msgstr ""
+"El campo nombre completo debe tener por lo menos 3 y no mas de 100 "
+"caracteres."
+
+#: 'name'->'required'
+msgid "The name field is required."
+msgstr "El campo nombre completo es obligatorio."
+
+#: 'name'->'standard_text'
+msgid "The username field contains disallowed characters."
+msgstr "El campo nombre de usuario contiene caracteres no permitidos."
+
+#: 'current_password'->'length'
+msgctxt "'current_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+
+#: %27current_password%27-%3E%27login+error%27
+msgctxt "'current_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr ""
+
+#: 'current_password'->'matches'
+msgctxt "'current_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ""
+
+#: 'current_password'->'required'
+msgctxt "'current_password'->'required'"
+msgid "The password field is required."
+msgstr ""
+
+#: 'current_password'->'alpha_dash'
+msgctxt "'current_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'current_password'->'incorrect'
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
+msgstr ""
+
+#: 'new_password'->'length'
+msgctxt "'new_password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+
+#: %27new_password%27-%3E%27login+error%27
+msgctxt "'new_password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr ""
+
+#: 'new_password'->'matches'
+msgctxt "'new_password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr ""
+
+#: 'new_password'->'required'
+msgctxt "'new_password'->'required'"
+msgid "The password field is required."
+msgstr ""
+
+#: 'new_password'->'alpha_dash'
+msgctxt "'new_password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'password'->'default'
+msgid "There has been an error attempting to log you in."
+msgstr ""
+
+#: 'password'->'length'
+msgctxt "'password'->'length'"
+msgid "The password field must be at least 8 characters long."
+msgstr ""
+"El campo clave debe tener por lo menos 5 y no mas de 16 caracteres de largo."
+
+#: %27password%27-%3E%27login+error%27
+msgctxt "'password'->'login error'"
+msgid "Please check that you entered the correct email and password."
+msgstr "Por favor revise que ha ingresado la clave correcta."
+
+#: 'password'->'matches'
+msgctxt "'password'->'matches'"
+msgid "Please enter the same password in the two password fields."
+msgstr "Por favor ingrese la misma clave en ambos campos."
+
+#: 'password'->'required'
+msgctxt "'password'->'required'"
+msgid "The password field is required."
+msgstr "El campo clave es obligatorio."
+
+#: %27password%27-%3E%27riverid+server+down%27
+msgid "The authentication server is down. Please try again later."
+msgstr ""
+
+#: 'password'->'alpha_dash'
+msgctxt "'password'->'alpha_dash'"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
+msgstr ""
+
+#: 'password_confirm'->'matches'
+msgid "The password confirmation field must match the password field."
+msgstr "El campo confirmación de la clave debe ser igual al campo clave."
+
+#: 'resetemail'->'email'
+msgctxt "'resetemail'->'email'"
+msgid "The email you entered is not a valid email address."
+msgstr ""
+"El campo correo electrónico parece no contener una dirección de correo "
+"electrónico valida."
+
+#: 'resetemail'->'invalid'
+msgid "Sorry, we don't have your email address"
+msgstr "Lo siento, no tenemos su dirección de correo electrónico"
+
+#: 'resetemail'->'required'
+msgctxt "'resetemail'->'required'"
+msgid "The email field is required."
+msgstr "El campo correo electrónico es obligatorio."
+
+#: 'role'->'superadmin_modify'
+msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
+msgstr ""
+
+#: 'roles'->'alpha_numeric'
+msgid "Invalid role format."
+msgstr "El formato del rol es inválido."
+
+#: 'roles'->'length'
+msgid "The role field must be at least 5 and no more than 30 characters long."
+msgstr "El campo rol debe tener al menos 5 y no más de 30 caracteres de largo."
+
+#: 'roles'->'required'
+msgid "You must define at least one role."
+msgstr "Usted debe definir al menos un rol."
+
+#: 'roles'->'values'
+msgid "You must select either ADMIN or USER role."
+msgstr "Usted debe seleccionar el rol ADMIN o USUARIO."
+
+#: 'username'->'admin'
+msgid "The admin user role cannot be modified."
+msgstr "El rol del usuario administrador no puede ser modificado."
+
+#: 'username'->'alpha_numeric'
+msgid "The username field must only contain numbers and letters."
+msgstr ""
+
+#: 'username'->'exists'
+msgid "Sorry, this username is already in use."
+msgstr "Lo siento, este nombre de usuario ya está siendo usado."
+
+#: 'username'->'length'
+msgid "The username field must be at least 2 and no more 100 characters long."
+msgstr ""
+"El campo nombre de usuario debe tener por lo menos 2 y no más de 16 "
+"caracteres."
+
+#: %27username%27-%3E%27login+error%27
+msgid "Please check that you entered the correct username."
+msgstr "Por favor revise que ingreso el nombre de usuario correcto."
+
+#: 'username'->'required'
+msgid "The username field is required."
+msgstr "El campo nombre de usuario es obligatorio."
+
+#: 'username'->'superadmin'
+msgid "The super admin role cannot be modified."
+msgstr "El rol del usuario super-administrador no puede ser modificado."

@@ -1,0 +1,67 @@
+#. extracted from en_US/reporters.php, bg_BG/reporters.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'latitude'->'between'
+msgid "The latitude field does not appear to contain a valid latitude."
+msgstr "Полето за географска дължина не изглежда да съдържа валидна стойност"
+
+#: 'latitude'->'required'
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
+msgstr ""
+"Полето за географска дължина се изисква. Моля натиснете картата, за да "
+"отбележите местоположението."
+
+#: 'level_id'->'numeric'
+msgctxt "'level_id'->'numeric'"
+msgid "The Reporter Level field does not appear to contain a valid Level."
+msgstr ""
+"Полето за ниво на сигнализиращия не изглежда да съдържа валидна стойност"
+
+#: 'level_id'->'required'
+msgctxt "'level_id'->'required'"
+msgid "The Reporter Level field does not appear to contain a valid Level."
+msgstr "Полето за ниво на сигнализиращия се изисква."
+
+#: 'location_name'->'length'
+msgid ""
+"The location name field must be at least 3 and no more 200 characters long."
+msgstr "Полето за име на местоположението трябва да е между 3 и 200 символа"
+
+#: 'location_name'->'required'
+msgid "The location name field is required."
+msgstr "Полето за име на местоположението се изисква"
+
+#: 'longitude'->'between'
+msgid "The longitude field does not appear to contain a valid longitude."
+msgstr "Полето за географска широчина не изглежда да съдържа валидна стойност"
+
+#: 'longitude'->'required'
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
+msgstr ""
+"Полето за географска широчина се изисква. Моля натиснете картата, за да "
+"отбележите местоположението."
+
+#: 'reporter_id'->'numeric'
+msgctxt "'reporter_id'->'numeric'"
+msgid "Invalid Reporter"
+msgstr "Невалиден сигнализиращ"
+
+#: 'reporter_id'->'required'
+msgctxt "'reporter_id'->'required'"
+msgid "Invalid Reporter"
+msgstr "Невалиден сигнализиращ"

@@ -1,0 +1,48 @@
+#. extracted from en_US/roles.php, hu_HU/roles.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'description'->'length'
+msgid ""
+"The Description field must be at least 3 and no more 100 characters long."
+msgstr "A Leírás mező legalább 3 legfeljebb 100 karaktert tartalmazhat."
+
+#: 'description'->'required'
+msgid "The Description field is required."
+msgstr "A Leírás mező kitöltése kötelező."
+
+#: 'name'->'alpha_numeric'
+msgid "The Name field must only contain letters or numbers."
+msgstr "A névmező csak betűket és számokat tartalmazhat."
+
+#: 'name'->'length'
+msgid "The Name field must be at least 2 and no more than 30 characters long."
+msgstr "A névmező legalább 2 legfeljebb 30 karaktert tartalmazhat."
+
+#: 'name'->'nomodify'
+msgid "SuperAdmin Role Cannot Be Modified."
+msgstr "SuperAdmin Szerep nem módosítható."
+
+#: 'name'->'required'
+msgid "The Name field is required."
+msgstr "A névmező kitöltése kötelező."
+
+#: 'access_level'->'numeric'
+msgctxt "'access_level'->'numeric'"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr ""
+
+#: 'access_level'->'required'
+msgctxt "'access_level'->'required'"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr ""

@@ -1,0 +1,62 @@
+#. extracted from en_US/reporters.php, zh_TW/reporters.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'latitude'->'between'
+msgid "The latitude field does not appear to contain a valid latitude."
+msgstr "緯度欄位資料顯示為無效"
+
+#: 'latitude'->'required'
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
+msgstr "緯度欄位為必填，請在地圖上點選一個位置."
+
+#: 'level_id'->'numeric'
+msgctxt "'level_id'->'numeric'"
+msgid "The Reporter Level field does not appear to contain a valid Level."
+msgstr "The Reporter Level field does not appear to contain a valid Level?"
+
+#: 'level_id'->'required'
+msgctxt "'level_id'->'required'"
+msgid "The Reporter Level field does not appear to contain a valid Level."
+msgstr "The Reporter Level field does not appear to contain a valid Level?"
+
+#: 'location_name'->'length'
+msgid ""
+"The location name field must be at least 3 and no more 200 characters long."
+msgstr "地點名稱長度為2~200個字元."
+
+#: 'location_name'->'required'
+msgid "The location name field is required."
+msgstr "地點名稱欄位為必填."
+
+#: 'longitude'->'between'
+msgid "The longitude field does not appear to contain a valid longitude."
+msgstr "經度欄位資料顯示為無效"
+
+#: 'longitude'->'required'
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
+msgstr "經度欄位為必填，請在地圖上點選一個位置."
+
+#: 'reporter_id'->'numeric'
+msgctxt "'reporter_id'->'numeric'"
+msgid "Invalid Reporter"
+msgstr "Invalid Reporter"
+
+#: 'reporter_id'->'required'
+msgctxt "'reporter_id'->'required'"
+msgid "Invalid Reporter"
+msgstr "Invalid Reporter"

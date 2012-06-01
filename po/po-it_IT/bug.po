@@ -1,0 +1,53 @@
+#. extracted from en_US/bug.php, it_IT/bug.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'captcha'->'default'
+msgid "Please enter a valid security code."
+msgstr "Inserisci un codice di sicurezza valido"
+
+#: 'captcha'->'required'
+msgid "Please enter the security code."
+msgstr "Inserisci il codice di sicurezza"
+
+#: 'email'->'email'
+msgid "The Email field does not appear to contain a valid email address?"
+msgstr "Il campo Email non contiene un indirizzo email valido"
+
+#: 'email'->'length'
+msgid "The Email field must be at least 4 and no more 64 characters long."
+msgstr "Il campo Email deve essere lungo almeno 4 caratteri e non pi"
+
+#: 'email'->'required'
+msgid "The Email field is required if the checkbox is checked."
+msgstr "Il campo Email "
+
+#: 'error'->'required'
+msgid "The error field is required."
+msgstr "Il campo errore "
+
+#: 'subject'->'length'
+msgid "The subject field must be at least 3 characters long."
+msgstr "Il campo oggetto deve essere lungo almeno 3 caratteri."
+
+#: 'subject'->'required'
+msgid "The subject field is required."
+msgstr "Il campo oggetto "
+
+#: 'yourname'->'length'
+msgid "The name field must be at least 3 characters long."
+msgstr "Il campo nome deve essere lungo almeno 3 caratteri."
+
+#: 'yourname'->'required'
+msgid "The name field is required."
+msgstr "Il campo nome "

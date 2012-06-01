@@ -1,0 +1,68 @@
+#. extracted from en_US/notifications.php, sv_SE/notifications.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'admin_footer'
+msgid "This message was sent from your website."
+msgstr "Detta meddelande skickades fr&aring;n din hemsida"
+
+#: $lang->'admin_login_url'
+msgid "Administrator Login"
+msgstr "Administrator Login"
+
+#: 'admin_new_comment'->'message'
+msgid "A new comment has been submitted to your website in response to:"
+msgstr "En ny kommentar har skrivits in till:"
+
+#: 'admin_new_comment'->'subject'
+msgid "New Comment"
+msgstr "Ny kommentar"
+
+#: 'admin_new_email'->'message'
+msgid "A new email message has been submitted to your website."
+msgstr "Ett nytt e-postmeddelande har skickats in."
+
+#: 'admin_new_email'->'subject'
+msgid "New Email Message"
+msgstr "Nytt meddelande"
+
+#: 'admin_new_report'->'message'
+msgid "A new report has been submitted to your website."
+msgstr "En ny rapport har skickats till din hemsida."
+
+#: 'admin_new_report'->'subject'
+msgid "New Report"
+msgstr "Ny rapport"
+
+#: 'admin_new_sms'->'message'
+msgid "A new text message has been submitted to your website."
+msgstr "Ett nytt SMS har skickats in."
+
+#: 'admin_new_sms'->'subject'
+msgid "New Text Message"
+msgstr "Nytt SMS"
+
+#: 'member_new_alert'->'message'
+msgid "You Have Received a New Alert"
+msgstr ""
+
+#: 'member_new_alert'->'subject'
+msgid ""
+"New Alert!'\n"
+"\t),\n"
+"\t\t'message' => 'You Have Received a Private Message"
+msgstr ""
+
+#: 'member_new_message'->'subject'
+msgid "New Private Message"
+msgstr ""

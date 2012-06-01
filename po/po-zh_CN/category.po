@@ -1,0 +1,75 @@
+#. extracted from en_US/category.php, zh_CN/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "颜色值长度应是6个字符"
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr "颜色是必填项"
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr "栏目描述是必填项"
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr "图片文件大小不能超过50K"
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr "图片文件格式不正确，只能上传 .JPG, .PNG 和 .GIF"
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr "图片文件格式不正确"
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr "标题必须在3至80个字符之间"
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr "标题是必填项"
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr "父栏目不存在"
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr "父栏目必须是数字"
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr "父栏目是必填项"
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr "不能与父栏目相同"
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

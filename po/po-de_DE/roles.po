@@ -1,0 +1,48 @@
+#. extracted from en_US/roles.php, de_DE/roles.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'description'->'length'
+msgid ""
+"The Description field must be at least 3 and no more 100 characters long."
+msgstr "Das Feld 'Beschreibung' muss zwischen 3 und 100 Zeichen lang sein."
+
+#: 'description'->'required'
+msgid "The Description field is required."
+msgstr "Das Feld 'Beschreibung' ist notwendig."
+
+#: 'name'->'alpha_numeric'
+msgid "The Name field must only contain letters or numbers."
+msgstr "Das Namensfeld darf nur Zeichen oder Zahlen beinhalten."
+
+#: 'name'->'length'
+msgid "The Name field must be at least 2 and no more than 30 characters long."
+msgstr "Das Namensfeld muss zwischen 2 und 30 Zeichen lang sein."
+
+#: 'name'->'nomodify'
+msgid "SuperAdmin Role Cannot Be Modified."
+msgstr "Die Rolle SuperAdmin kann nicht verändert werden."
+
+#: 'name'->'required'
+msgid "The Name field is required."
+msgstr "Das Feld Name ist notwendig."
+
+#: 'access_level'->'numeric'
+msgctxt "'access_level'->'numeric'"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr ""
+
+#: 'access_level'->'required'
+msgctxt "'access_level'->'required'"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr ""

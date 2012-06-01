@@ -1,0 +1,1285 @@
+#. extracted from en_US/ui_admin.php, ar_EG/ui_admin.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'access_denied_credentials'
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
+msgstr "ممنوع الدخول. إما بيانات اعتمادك غير سليمة أو تم رفض طلبك"
+
+#: $lang->'access_denied_others'
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
+msgstr ""
+"ممنوع الدخول. تم تمرير طلبك، لكن تم منعه بسبب محدودية الدخول مثل الوقت. حاول "
+"لاحقاً"
+
+#: $lang->'access_level'
+msgid "Access Level"
+msgstr ""
+
+#: $lang->'actions'
+msgctxt "$lang->'actions'"
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: $lang->'add_to_category'
+msgid "Add to Category"
+msgstr ""
+
+#: $lang->'added'
+msgid "added"
+msgstr "تمت الإضافة"
+
+#: $lang->'added_edited'
+msgid "added/edited"
+msgstr "تم الإضافة/تم التحرير"
+
+#: $lang->'addons'
+msgid "Addons"
+msgstr "إضافات"
+
+#: $lang->'admin_role'
+msgid "Admin"
+msgstr "المسئول الإدارى"
+
+#: $lang->'alerts'
+msgid "Alerts"
+msgstr ""
+
+#: $lang->'alerts_received'
+msgid "Alerts Received"
+msgstr ""
+
+#: $lang->'am'
+msgid "AM"
+msgstr "ص"
+
+#: $lang->'anonymous'
+msgid "Anonymous"
+msgstr "مجهول"
+
+#: $lang->'anyone_role'
+msgid "Anyone"
+msgstr ""
+
+#: $lang->'anywhere'
+msgid "Anywhere"
+msgstr ""
+
+#: $lang->'api_banned'
+msgid "API Banned"
+msgstr "API محظور بسبب"
+
+#: $lang->'api_logs'
+msgid "API Logs"
+msgstr "API سجلات"
+
+#: $lang->'api_settings'
+msgid "API Settings"
+msgstr "API إعدادات"
+
+#: $lang->'api_unban'
+msgid "UNBAN"
+msgstr "ارفع الحظر"
+
+#: $lang->'api_unban_all'
+msgid "UNBAN ALL"
+msgstr "ارفع الحظر عن الكل"
+
+#: $lang->'approved'
+msgid "approved"
+msgstr "تمت الموافقة"
+
+#: $lang->'approve_auto'
+msgid "Auto Approve"
+msgstr "موافقة أوتوماتيكية"
+
+#: $lang->'approve_manual'
+msgid "Manually Approve"
+msgstr "موافقة يدوية"
+
+#: $lang->'archived'
+msgid "Archived"
+msgstr "تمت الأرشفة"
+
+#: $lang->'are_you_sure_you_want_to'
+msgid "Are you sure you want to"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_delete_this_item'
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+msgid "Are you sure you want to delete this photo?"
+msgstr ""
+
+#: $lang->'are_you_sure_you_want_to_switch_forms'
+msgid "Are you sure you want to switch forms?"
+msgstr ""
+
+#: $lang->'assign'
+msgid "Assign"
+msgstr ""
+
+#: $lang->'assignments'
+msgid "Assignments"
+msgstr ""
+
+#: $lang->'assign_badge'
+msgid "Assign Badge"
+msgstr ""
+
+#: $lang->'author'
+msgid "Author"
+msgstr "الكاتب"
+
+#: $lang->'author_email'
+msgid "Author email"
+msgstr "البريد الإلكتروني للكاتب"
+
+#: $lang->'back'
+msgid "Back"
+msgstr "الرجوع"
+
+#: $lang->'banip_action'
+msgid "Ban IP"
+msgstr "IP حظر للـ "
+
+#: $lang->'between_times'
+msgid "Between Times"
+msgstr ""
+
+#: $lang->'blocks'
+msgid "Blocks"
+msgstr ""
+
+#: $lang->'body'
+msgid "Body"
+msgstr ""
+
+#: $lang->'cancel'
+msgid "Cancel"
+msgstr "إلغاء"
+
+#: $lang->'categories'
+msgid "Categories"
+msgstr "الفئات"
+
+#: $lang->'chart_display_error'
+msgid "Error displaying chart"
+msgstr "خطأ فى عرض الرسم البيانى"
+
+#: $lang->'check_message_valid'
+msgid "Please make sure your message is valid."
+msgstr "تأكد من أن رسالتك صالحة"
+
+#: $lang->'check_number'
+msgid "Please make sure the number is valid."
+msgstr "تأكد من أن الرقم صالح"
+
+#: $lang->'check_sms_settings'
+msgid "Please check your SMS settings!"
+msgstr "تأكد من إعدادات الرسائل النصية"
+
+#: $lang->'checkin_details'
+msgid "Checkin Details"
+msgstr ""
+
+#: $lang->'checkins'
+msgid "Checkins"
+msgstr ""
+
+#: $lang->'cities_loaded'
+msgid "Cities loaded"
+msgstr "تم تحميل المدن"
+
+#: $lang->'code'
+msgid "code"
+msgstr "الرمز"
+
+#: $lang->'code_out_of_sync'
+msgid "Code version out of sync."
+msgstr "كود الإصدار لايمكنه عمل تزامن"
+
+#: $lang->'color'
+msgid "Color"
+msgstr ""
+
+#: $lang->'comments'
+msgid "Comments"
+msgstr "تعليقات"
+
+#: $lang->'confirmation_code'
+msgid "Your alerts confirmation code is: "
+msgstr "رمز تأكيد التنبيهات هو: "
+
+#: $lang->'confirm_msg'
+msgid "The User Has Been"
+msgstr "The User Has Been"
+
+#: $lang->'count'
+msgid "Count"
+msgstr ""
+
+#: $lang->'country_not_found'
+msgid "Country Not Found"
+msgstr "لم يتم إيجاد الدولة"
+
+#: $lang->'created_edited'
+msgid "created/edited"
+msgstr "تم الإنشاء/تم التحرير"
+
+#: $lang->'create_report'
+msgid "Create a Report"
+msgstr "أنشئ تقرير"
+
+#: $lang->'critical_upgrade'
+msgid "Critical Upgrade"
+msgstr "ترقية هامة"
+
+#: $lang->'csv'
+msgid "CSV"
+msgstr ""
+
+#: $lang->'currently_active'
+msgid "Currently Active"
+msgstr ""
+
+#: $lang->'currently_inactive'
+msgid "Currently Inactive"
+msgstr ""
+
+#: $lang->'custom_forms_insufficient_permissions'
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
+msgstr ""
+
+#: $lang->'daily'
+msgid "Daily"
+msgstr "يومي"
+
+#: $lang->'dashboard'
+msgid "Dashboard"
+msgstr "لوحة القيادة"
+
+#: $lang->'database'
+msgid "database"
+msgstr "قاعدة البيانات"
+
+#: $lang->'date_time'
+msgid "Date & Time"
+msgstr "التاريخ والساعة"
+
+#: $lang->'days_of_the_week'
+msgid "Days of the week"
+msgstr ""
+
+#: $lang->'db_out_of_sync'
+msgid "DB version out of sync."
+msgstr "DB version out of sync."
+
+#: $lang->'deleted'
+msgid "deleted"
+msgstr "تم الحذف"
+
+#: $lang->'delete_action'
+msgid "Delete"
+msgstr "حذف"
+
+#: $lang->'delete_all'
+msgid "Delete All"
+msgstr "حذف الكل"
+
+#: $lang->'delete_badge'
+msgid "Delete Badge"
+msgstr ""
+
+#: $lang->'demo'
+msgid "Demo"
+msgstr "تجريبي"
+
+#: $lang->'description'
+msgid "Description"
+msgstr "الوصف"
+
+#: $lang->'disabled'
+msgid "Disabled"
+msgstr ""
+
+#: $lang->'divider_start_field'
+msgid "Divider Start"
+msgstr ""
+
+#: $lang->'divider_end_field'
+msgid "Divider End"
+msgstr ""
+
+#: $lang->'divider_class'
+msgid "div class"
+msgstr ""
+
+#: $lang->'download_reports'
+msgid "Download Reports"
+msgstr "تحميل التقارير"
+
+#: $lang->'dropdown_choices'
+msgid "Dropdown Choices"
+msgstr ""
+
+#: $lang->'edited'
+msgid "EDITED"
+msgstr ""
+
+#: $lang->'edited_by'
+msgid "Edited By"
+msgstr "حررها"
+
+#: $lang->'edit_action'
+msgid "Edit"
+msgstr "حرر"
+
+#: $lang->'edit_log'
+msgid "Edit Log"
+msgstr "حرر السجل"
+
+#: $lang->'email'
+msgctxt "$lang->'email'"
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: $lang->'entire_collective'
+msgid "Entire Collective"
+msgstr ""
+
+#: $lang->'error_geocoding'
+msgid "Error in geocoding! HTTP error"
+msgstr "!خطأ في التشفير الجغرافي HTTP error"
+
+#: $lang->'error_imap'
+msgid "IMAP PHP Library is not installed"
+msgstr "IMAP PHP Library is not installed"
+
+#: $lang->'error_msg'
+msgid "Error"
+msgstr "خطأ"
+
+#: $lang->'error_post_incident'
+msgid "Error, unable to post incident"
+msgstr "خطأ، لم نتمكن من نشر الحدث"
+
+#: $lang->'every_six_hours'
+msgid "Every Six Hours"
+msgstr "كل 6 ساعات"
+
+#: $lang->'every_twelve_hours'
+msgid "Every Twelve Hours"
+msgstr "كل 12 ساعة"
+
+#: $lang->'experimental'
+msgid "Experimental"
+msgstr ""
+
+#: $lang->'faqs'
+msgid "FAQ's"
+msgstr "أسئلة شائعة"
+
+#: $lang->'feed'
+msgid "feed"
+msgstr "تغذية"
+
+#: $lang->'feedback'
+msgid "Feedback"
+msgstr "تغذية مرجعية"
+
+#: $lang->'feeds'
+msgid "feeds"
+msgstr "تغذيات"
+
+#: $lang->'field_choices'
+msgid "List of Choices"
+msgstr ""
+
+#: $lang->'field_default'
+msgid "Default Value"
+msgstr "القيمة الافتراضية"
+
+#: $lang->'field_datatype'
+msgid "Data Type"
+msgstr ""
+
+#: $lang->'field_datatype_javascript'
+msgid "Javascript"
+msgstr ""
+
+#: $lang->'field_datatype_markup'
+msgid "Markup"
+msgstr ""
+
+#: $lang->'field_datatype_numeric'
+msgid "Numeric"
+msgstr ""
+
+#: $lang->'field_datatype_text'
+msgid "Free Text"
+msgstr ""
+
+#: $lang->'field_height'
+msgid "Height (In Rows)"
+msgstr "الارتفاع للصفوف"
+
+#: $lang->'field_hidden'
+msgid "Hidden Field"
+msgstr ""
+
+#: $lang->'field_maxlength'
+msgid "Maximum Character Length"
+msgstr "أقصى عدد للحروف أو الأرقام"
+
+#: $lang->'field_name'
+msgid "Field Name"
+msgstr "اسم الحقل"
+
+#: $lang->'field_toggle'
+msgid "Toggle"
+msgstr ""
+
+#: $lang->'field_toggle_no'
+msgctxt "$lang->'field_toggle_no'"
+msgid "No"
+msgstr ""
+
+#: $lang->'field_toggle_yes_close'
+msgid "Yes, Closed by default"
+msgstr ""
+
+#: $lang->'field_toggle_yes_open'
+msgid "Yes, Open by default"
+msgstr ""
+
+#: $lang->'file_not_found_upload'
+msgid "Could not find uploaded file"
+msgstr "لم نتمكن من العثور على الملف المرفوع"
+
+#: $lang->'file_open_error'
+msgid "Could not open file for reading"
+msgstr "لم نتمكن من فتح الملف لقراءته"
+
+#: $lang->'form_not_exists'
+msgid "That Form Does Not Exist!"
+msgstr "هذه الاستمارة غير موجودة!"
+
+#: $lang->'forum'
+msgid "Forum"
+msgstr "منتدى"
+
+#: $lang->'free_text_field'
+msgid "Text Area Field (Free Text)"
+msgstr "حقل كتابة النص"
+
+#: $lang->'date_field'
+msgid "Date Field"
+msgstr ""
+
+#: $lang->'radio_field'
+msgid "Radio Buttons Field"
+msgstr ""
+
+#: $lang->'checkbox_field'
+msgid "Checkboxes Field"
+msgstr ""
+
+#: $lang->'dropdown_field'
+msgid "Dropdown Field"
+msgstr ""
+
+#: $lang->'from'
+msgctxt "$lang->'from'"
+msgid "From"
+msgstr "من"
+
+#: $lang->'from_date'
+msgctxt "$lang->'from_date'"
+msgid "From"
+msgstr "من"
+
+#: $lang->'geonames_timeout'
+msgid "Geonames Timeout Error"
+msgstr "Geonames Timeout Error"
+
+#: $lang->'get_help'
+msgid "Get Help"
+msgstr "أحصل على مساعدة"
+
+#: $lang->'header_actions'
+msgctxt "$lang->'header_actions'"
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: $lang->'header_add_edit'
+msgid "Add/Edit"
+msgstr "أضف/حرر"
+
+#: $lang->'header_email'
+msgctxt "$lang->'header_email'"
+msgid "Email"
+msgstr "بريد إليكترونى"
+
+#: $lang->'header_manage_users'
+msgctxt "$lang->'header_manage_users'"
+msgid "Manage Users"
+msgstr "إدارة المستخدمين"
+
+#: $lang->'header_role'
+msgid "Role"
+msgstr "وظيفة"
+
+#: $lang->'header_user'
+msgctxt "$lang->'header_user'"
+msgid "User"
+msgstr "المستخدم"
+
+#: $lang->'help'
+msgid "help"
+msgstr "مساعدة"
+
+#: $lang->'hourly'
+msgid "Hourly"
+msgstr "كل ساعة"
+
+#: $lang->'incident_feed'
+msgid "Incident feed for"
+msgstr "تغذية عن الحدث لـ"
+
+#: $lang->'instance'
+msgid "Instance"
+msgstr "اقتراح"
+
+#: $lang->'instances'
+msgid "Instances"
+msgstr "اقتراحات"
+
+#: $lang->'instance_details'
+msgid "Instance Details"
+msgstr "تفاصيل اقتراح"
+
+#: $lang->'invalid_parameter'
+msgid "Invalid Parameter"
+msgstr "إحداثيات غير صالحة"
+
+#: $lang->'ip_address'
+msgid "IP Address"
+msgstr "عنوان بروتوكول الانترنت"
+
+#: $lang->'is_date'
+msgid "Is this a Date Field?"
+msgstr "هل هذا الحقل للتاريخ؟"
+
+#: $lang->'ispublic_visible'
+msgid "Who Can View Answers"
+msgstr ""
+
+#: $lang->'ispublic_submit'
+msgid "Who Can Submit Answers"
+msgstr ""
+
+#: $lang->'keyword'
+msgid "Keyword"
+msgstr ""
+
+#: $lang->'keywords'
+msgid "Keywords"
+msgstr ""
+
+#: $lang->'label_email'
+msgid "Email Address:"
+msgstr "عنوان البريد الإلكتروني:"
+
+#: $lang->'label_full_name'
+msgid "Full Name:"
+msgstr ":الاسم بالكامل"
+
+#: $lang->'label_password'
+msgid "Password:"
+msgstr ":كلمة المرور"
+
+#: $lang->'label_role'
+msgid "Role:"
+msgstr ":الدور/الوظيفة"
+
+#: $lang->'label_username'
+msgid "Username:"
+msgstr ":اسم المستخدم"
+
+#: $lang->'layers'
+msgid "Layers"
+msgstr "طبقات"
+
+#: $lang->'login_role'
+msgctxt "$lang->'login_role'"
+msgid "Moderator"
+msgstr "وسيط"
+
+#: $lang->'logout'
+msgid "Logout"
+msgstr "الخروج"
+
+#: $lang->'logs'
+msgid "Logs"
+msgstr "سجلات"
+
+#: $lang->'manage'
+msgid "Manage"
+msgstr "إدارة"
+
+#: $lang->'manage_roles'
+msgid "Manage Roles & Permissions"
+msgstr "إدارة الصلاحيات"
+
+#: $lang->'manage_users'
+msgid "View Users"
+msgstr "إدارة المستخدمين"
+
+#: $lang->'manage_users_edit'
+msgid "Add/Edit Users"
+msgstr "أضف / تعديل مستخدم"
+
+#: $lang->'mark_as'
+msgid "Mark As"
+msgstr ""
+
+#: $lang->'marked_as_not_spam'
+msgid "marked as not spam"
+msgstr "تم تعريفه أنه ليس سخام"
+
+#: $lang->'marked_as_spam'
+msgid "marked as spam"
+msgstr "تم تعريفه كسخام"
+
+#: $lang->'match_no_documents'
+msgid "did not match any documents"
+msgstr "لم توجد وثائق مطابقة"
+
+#: $lang->'message'
+msgctxt "$lang->'message'"
+msgid "Message"
+msgstr "رسالة"
+
+#: $lang->'messages'
+msgid "Messages"
+msgstr "الرسائل"
+
+#: $lang->'messages_laconica'
+msgid "Laconica Messages"
+msgstr "Laconica رسائل"
+
+#: $lang->'messages_twitter'
+msgid "Twitter Messages"
+msgstr "رسائل تويتر"
+
+#: $lang->'message_sent'
+msgid "Your message has been sent!"
+msgstr "تم إرسال رسالتك"
+
+#: $lang->'mhi'
+msgid "MHI"
+msgstr "MHI"
+
+#: $lang->'minute'
+msgid "Minute"
+msgstr ""
+
+#: $lang->'minutes'
+msgid "Minutes"
+msgstr "دقائق"
+
+#: $lang->'missing_parameter'
+msgid "Missing Parameter"
+msgstr "إحداثيات مفقودة"
+
+#: $lang->'moderator'
+msgctxt "$lang->'moderator'"
+msgid "Moderator"
+msgstr "الوسيط"
+
+#: $lang->'modified'
+msgid "modified"
+msgstr "تم تعديله"
+
+#: $lang->'modify_timezone'
+msgid "Modify Timezone Setting"
+msgstr ""
+
+#: $lang->'move_down_action'
+msgid "move down"
+msgstr "تحرك للأسفل"
+
+#: $lang->'move_up_action'
+msgid "move up"
+msgstr "تحرك للأعلى"
+
+#: $lang->'multiple_hosted_instances'
+msgid "Multiple Hosted Instances"
+msgstr "Multiple Hosted Instances"
+
+#: $lang->'my_alerts'
+msgid "My Alerts"
+msgstr ""
+
+#: $lang->'my_checkins'
+msgid "My Checkins"
+msgstr ""
+
+#: $lang->'my_profile'
+msgid "My Profile"
+msgstr "ملفاتى الشخصية"
+
+#: $lang->'my_reports'
+msgid "My Reports"
+msgstr ""
+
+#: $lang->'my_votes'
+msgid "Votes Cast"
+msgstr ""
+
+#: $lang->'my_votes_up'
+msgid "Positive"
+msgstr ""
+
+#: $lang->'my_votes_down'
+msgid "Negative"
+msgstr ""
+
+#: $lang->'name'
+msgctxt "$lang->'name'"
+msgid "Name"
+msgstr ""
+
+#: $lang->'new_alert'
+msgid "Create New Alert"
+msgstr ""
+
+#: $lang->'new_private'
+msgid "Create New Message"
+msgstr ""
+
+#: $lang->'new_password'
+msgid "New Password"
+msgstr "كلمة مرور جديدة"
+
+#: $lang->'no'
+msgctxt "$lang->'no'"
+msgid "No"
+msgstr "نعم"
+
+#: $lang->'none_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without "
+"categories(uncategorized reports) as a result of category deletion."
+msgstr ""
+
+#: $lang->'notification'
+msgid "Notification"
+msgstr "إشعار"
+
+#: $lang->'not_case_sensitive'
+msgid "This is not case sensitive."
+msgstr "لاتوجد قضية ذات حساسية"
+
+#: $lang->'not_found'
+msgid "Not Found"
+msgstr "لم يتم العثور عليه"
+
+#: $lang->'no_data'
+msgid "No data. There are no results to show."
+msgstr "لا توجد بيانات. فلا توجد نتائج للعرض"
+
+#: $lang->'no_error'
+msgid "No Error"
+msgstr "لايوجد خطأ"
+
+#: $lang->'no_result_display_msg'
+msgid "No Results To Display!"
+msgstr "لاتوجد نتائج للعرض"
+
+#: $lang->'of'
+msgid "of"
+msgstr "من"
+
+#: $lang->'on_specific_count'
+msgid "On Specific Count"
+msgstr ""
+
+#: $lang->'openids'
+msgid "OpenID's"
+msgstr ""
+
+#: $lang->'page'
+msgid "page"
+msgstr "صفحة"
+
+#: $lang->'pages'
+msgid "pages"
+msgstr "صفحات"
+
+#: $lang->'page_not_found'
+msgid "Page Not Found"
+msgstr "لم يتم العثور على الصفحة"
+
+#: $lang->'page_not_found_message'
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
+"a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
+"can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+"الصفحة التى تحاول الإطلاع عليها ليست هنا.<p><strong>Did you follow a link "
+"from somewhere else on our site?</strong><br />If you reached this page from "
+"another part of our site, please <a href=\"#\">contact us</a> so that we can "
+"correct our mistake.</p><p><strong>Did you follow a link from another site? "
+"</strong><br />Links from other sites can sometimes be outdated or "
+"misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to "
+"contact the other site in order to fix the problem.</p><p><strong>Did you "
+"type the URL? </strong><br />You may have typed the address (URL) "
+"incorrectly. Check to make sure you have got the exact right spelling, "
+"capitalization, etc. </p>"
+
+#: $lang->'parameters_used'
+msgid "Parameters Used"
+msgstr "الإحداثيات مستخدمة"
+
+#: $lang->'password'
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: $lang->'password_reset'
+msgid "Password Reset"
+msgstr "إعادة تعيين كلمة المرور"
+
+#: $lang->'password_reset_from'
+msgid "no-reply@ushahidi.com"
+msgstr "no-reply@ushahidi.com"
+
+#: $lang->'password_reset_message_line_1'
+msgid "Dear"
+msgstr "عزيزي/عزيزتي"
+
+#: $lang->'password_reset_message_line_2'
+msgid "We received a request to reset the password for"
+msgstr "قد تسلمنا طلب لإعادة تعيين كلمة مرور لأجل"
+
+#: $lang->'password_reset_message_line_3'
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
+msgstr ""
+"لتغيير كلمة المرور, أنقر على الرابط التالى (أو قم بالنسخ واللصق في المتصفح "
+"الخاص )بك"
+
+#: $lang->'password_reset_message_line_4'
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
+msgstr ""
+"بناء على طلبك, تم إعادة تعيين كلمة المرور الخاصة بك. التفاصيل الخاصة بك هى "
+"كالآتى"
+
+#: $lang->'password_reset_subject'
+msgid "Ushahidi password reset"
+msgstr "تم إعادة تعيين كلمة المرور ليوشاهيدي"
+
+#: $lang->'phone'
+msgid "Phone"
+msgstr "تليفون"
+
+#: $lang->'please_select'
+msgid "Please Select"
+msgstr ""
+
+#: $lang->'pm'
+msgid "PM"
+msgstr "م"
+
+#: $lang->'post_method_not_used'
+msgid "Data was not sent by post method"
+msgstr "لم يتم إرسال البيانات بطريقة النشر"
+
+#: $lang->'preview'
+msgid "Preview"
+msgstr ""
+
+#: $lang->'private_message'
+msgctxt "$lang->'private_message'"
+msgid "Message"
+msgstr ""
+
+#: $lang->'private_messages'
+msgctxt "$lang->'private_messages'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'private_sent'
+msgid "Private Message Sent"
+msgstr ""
+
+#: $lang->'private_subject'
+msgctxt "$lang->'private_subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'private_to'
+msgid "To"
+msgstr ""
+
+#: $lang->'public_listing'
+msgid "Public Listing"
+msgstr ""
+
+#: $lang->'qualifiers'
+msgid "Qualifiers"
+msgstr ""
+
+#: $lang->'read'
+msgid "read"
+msgstr "مقروءة"
+
+#: $lang->'relevance'
+msgid "Relevance"
+msgstr "الصلة"
+
+#: $lang->'report_title'
+msgid "Report Title"
+msgstr ""
+
+#: $lang->'reporters'
+msgid "Reporters"
+msgstr "مُصدرى التقارير"
+
+#: $lang->'reporter_levels'
+msgid "Reporter Levels"
+msgstr "مستويات مُصدر التقارير"
+
+#: $lang->'reports'
+msgid "Reports"
+msgstr "التقارير"
+
+#: $lang->'reputation'
+msgid "Reputation Score"
+msgstr ""
+
+#: $lang->'required'
+msgid "Required"
+msgstr "مطلوب"
+
+#: $lang->'reset'
+msgid "Reset"
+msgstr "إعادة تعيين"
+
+#: $lang->'response'
+msgid "Response"
+msgstr ""
+
+#: $lang->'results'
+msgid "Results"
+msgstr "النتائج"
+
+#: $lang->'revoke'
+msgid "Revoke"
+msgstr ""
+
+#: $lang->'save_settings'
+msgid "Save Settings"
+msgstr "ارفع الحظر عن الكل"
+
+#: $lang->'search'
+msgid "Search"
+msgstr "بحث"
+
+#: $lang->'searching_for'
+msgid "searching for"
+msgstr "البحث عن"
+
+#: $lang->'security_info_encryption_key'
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
+msgstr ""
+
+#: $lang->'security_info_https'
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
+msgstr ""
+
+#: $lang->'security_info_instructions'
+msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: $lang->'select_field_type'
+msgid "--- Select A Field Type ---"
+msgstr "--- إختر نوع الحقل ---"
+
+#: $lang->'select_item'
+msgid "Please select an item"
+msgstr "حدد بند"
+
+#: $lang->'select_trigger_before_response'
+msgid "You must select a Trigger before you can select a Response."
+msgstr ""
+
+#: $lang->'select_trigger_before_qualifiers'
+msgid "You must select a Trigger before you can define Qualifiers."
+msgstr ""
+
+#: $lang->'sender'
+msgid "Sender"
+msgstr "الراسل"
+
+#: $lang->'send_to'
+msgid "Send To"
+msgstr ""
+
+#: $lang->'sent_from_website'
+msgid "This message was sent from your website at "
+msgstr "تم إرسال هذه الرسالة من الموقع الخاص بك على "
+
+#: $lang->'server_time'
+msgid "Server Time"
+msgstr ""
+
+#: $lang->'settings'
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: $lang->'showing_page'
+msgid "Showing page"
+msgstr "عرض صفحة"
+
+#: $lang->'showing_results'
+msgid "Showing results"
+msgstr "عرض نتائج"
+
+#: $lang->'shown'
+msgid "shown"
+msgstr ""
+
+#: $lang->'special_category'
+msgid "Special Category"
+msgstr ""
+
+#: $lang->'special_category_explanation'
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
+msgstr ""
+
+#: $lang->'specific_area'
+msgid "Specific Area"
+msgstr ""
+
+#: $lang->'state'
+msgid "State"
+msgstr ""
+
+#: $lang->'statistics'
+msgid "Statistics"
+msgstr "إحصائيات"
+
+#: $lang->'stats'
+msgid "Stats"
+msgstr "إحصائيات"
+
+#: $lang->'stats_collection_error'
+msgid "Stat collection failed! Please try again later."
+msgstr ""
+"فشلت محاولة جمع الإحصائيات! إما خادم الإحصائيات الخاص بنا به عطل الآن أو "
+"هناك خطأ ما في تنفيذك ليوشاهيدي. حاول مرة أخرى بعد قليل لتتأكد أن الخادم "
+"يعمل لدينا. لإعادة تشغيل الإحصائيات يدوياً، عدل \r\n"
+"stat_id = قيمة فارغة \r\n"
+"stat_key = 0\r\n"
+"في جدول الضبط بقاعدة البيانات الخاصة بك. تحذير: سوف تفقد امتياز الدخول "
+"للإحصائيات إذا فعلت ذلك"
+
+#: $lang->'stats_collection_error_short'
+msgid "Stat Collection Failed!"
+msgstr "محاولة جمع الإحصائيات لم تنجح!"
+
+#: $lang->'specific_days'
+msgid "Specific Days"
+msgstr ""
+
+#: $lang->'subject'
+msgctxt "$lang->'subject'"
+msgid "Subject"
+msgstr ""
+
+#: $lang->'superadmin_role'
+msgid "Super Admin"
+msgstr "الإدارى الأعلى"
+
+#: $lang->'task_performed'
+msgid "Task Performed"
+msgstr "تم أداء المهمة"
+
+#: $lang->'text_field'
+msgid "Text Field"
+msgstr "حقل نصى"
+
+#: $lang->'theme_name'
+msgctxt "$lang->'theme_name'"
+msgid "Name"
+msgstr "اسم"
+
+#: $lang->'title'
+msgctxt "$lang->'title'"
+msgid "Manage Users"
+msgstr "إدارة المستخدمين"
+
+#: $lang->'to'
+msgctxt "$lang->'to'"
+msgid "to"
+msgstr "إلى"
+
+#: $lang->'total_records'
+msgid "Total Records"
+msgstr "جميع السجلات"
+
+#: $lang->'to_date'
+msgctxt "$lang->'to_date'"
+msgid "to"
+msgstr "إلى"
+
+#: $lang->'translate_reports'
+msgid "Translate Reports"
+msgstr "ترجمة التقارير"
+
+#: $lang->'trigger'
+msgid "Trigger"
+msgstr ""
+
+#: $lang->'triggering_user'
+msgid "Triggering User"
+msgstr ""
+
+#: $lang->'triggers'
+msgid "Triggers"
+msgstr ""
+
+#: $lang->'unapproved'
+msgid "unapproved"
+msgstr "لم يتم الموافقة عليه"
+
+#: $lang->'unknown'
+msgid "Unknown"
+msgstr "غير معروف"
+
+#: $lang->'unknown_failure'
+msgid "Unknown Failure"
+msgstr ""
+
+#: $lang->'unread'
+msgid "unread"
+msgstr "غير مقروء"
+
+#: $lang->'unsubscribe_message'
+msgid "You will no longer receive alerts from"
+msgstr ""
+
+#: $lang->'update_link'
+msgid " Click here to upgrade now"
+msgstr " أنقر هنا للتحديث الآن"
+
+#: $lang->'upgrade_ushahidi'
+msgid "Upgrade Ushahidi"
+msgstr "تحديث يوشاهيدي"
+
+#: $lang->'upgrade_ushahidi_status'
+msgid "Upgrade Ushahidi Status"
+msgstr "تحديث حالة يوشاهيدي"
+
+#: $lang->'upload_reports'
+msgid "Upload Reports"
+msgstr "رفع التقارير"
+
+#: $lang->'user'
+msgctxt "$lang->'user'"
+msgid "User"
+msgstr ""
+
+#: $lang->'users'
+msgid "Users"
+msgstr "المستخدمين"
+
+#: $lang->'ushahidi'
+msgid "Ushahidi"
+msgstr "يوشاهيدي"
+
+#: $lang->'verified_unverified'
+msgid "Verified/Unverified"
+msgstr ""
+
+#: $lang->'verify_unverify'
+msgid "Verify/Unverify"
+msgstr ""
+
+#: $lang->'version'
+msgid "Version"
+msgstr "الإصدار"
+
+#: $lang->'version_available'
+msgid " is available for upgrade."
+msgstr " متاح للتحديث"
+
+#: $lang->'video_encoding'
+msgid "Video Encoding"
+msgstr ""
+
+#: $lang->'view_private'
+msgctxt "$lang->'view_private'"
+msgid "Private Messages"
+msgstr ""
+
+#: $lang->'view_site'
+msgid "View Site"
+msgstr "الإطلاع على الموقع"
+
+#: $lang->'view_report'
+msgid "View Report"
+msgstr ""
+
+#: $lang->'welcome'
+msgid "Welcome, "
+msgstr "،مرحباً"
+
+#: $lang->'wiki'
+msgid "Wiki"
+msgstr "ويكي"
+
+#: $lang->'yes'
+msgid "Yes"
+msgstr "نعم"
+
+#: $lang->'your_search_for'
+msgid "Your search for"
+msgstr "بحثك عن"

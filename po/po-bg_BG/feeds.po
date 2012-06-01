@@ -1,0 +1,43 @@
+#. extracted from en_US/feeds.php, bg_BG/feeds.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "DATE"
+msgstr "DATE"
+
+#: 'feed_name'->'length'
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
+msgstr "Името на абонамента трябва да е между 3 и 70 символа."
+
+#: 'feed_name'->'required'
+msgid "Please enter the name of the feed."
+msgstr "Моля въведете име на абонамента."
+
+#: 'feed_url'->'required'
+msgid "Please enter feed's URL."
+msgstr "Моля въведете адрес на абонамента."
+
+#: 'feed_url'->'url'
+msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
+msgstr "Моля въведете валиден адрес. Например: http://www.ushahidi.com"
+
+#: 'feed_url'->'source'
+msgid "SOURCE"
+msgstr "ИЗТОЧНИК"
+
+#: 'feed_url'->'title'
+msgid "Title"
+msgstr "Заглавие"

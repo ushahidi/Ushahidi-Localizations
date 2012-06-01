@@ -1,0 +1,57 @@
+#. extracted from en_US/sharing.php, ja_JP/sharing.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: $lang->'date'
+msgid "Ingress date"
+msgstr "立ち入り日時"
+
+#: $lang->'date_added'
+msgid "Date Added"
+msgstr "追加日時"
+
+#: $lang->'last_access'
+msgid "Last Access"
+msgstr "最終アクセス"
+
+#: 'sharing_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "カラーフィールドは６文字でなければいけません。"
+
+#: 'sharing_color'->'required'
+msgid "The color field is required."
+msgstr "カラーフィールドは必須です。"
+
+#: 'sharing_name'->'length'
+msgid "The Sharing name does not appear to be valid."
+msgstr "共有名は有効ではないようです。"
+
+#: 'sharing_name'->'required'
+msgid "A Sharing name is required."
+msgstr "共有名は必須です。"
+
+#: 'sharing_url'->'exists'
+msgid "The site URL already exists."
+msgstr "サイトurlはすでに存在します。"
+
+#: 'sharing_url'->'length'
+msgid "The site URL does not appear to be valid."
+msgstr "サイトurlは有効形式ではないようです"
+
+#: 'sharing_url'->'required'
+msgid "The site URL is required."
+msgstr "サイトurlは必須です。"
+
+#: 'sharing_url'->'url'
+msgid "The site URL field does not appear to contain a valid URL."
+msgstr "サイトurlフィールドに有効な値が入っていないようです。"

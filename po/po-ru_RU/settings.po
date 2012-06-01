@@ -1,0 +1,688 @@
+#. extracted from en_US/settings.php, ru_RU/settings.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'allow_comments'->'between'
+msgid "The allow comments field does not appear to contain a valid value."
+msgstr "Поле о допустимости отправлять комментарии заполнено неверно"
+
+#: 'allow_comments'->'required'
+msgid "The allow comments field is required."
+msgstr "Заполните поле о допустимости отправлять комментарии."
+
+#: 'allow_feed'->'between'
+msgid "The include feed field does not appear to contain a valid value."
+msgstr "Поле о ленте RSS заполнено неверно"
+
+#: 'allow_feed'->'required'
+msgid "The include feed field is required."
+msgstr "Заполните поле о ленте RSS."
+
+#: 'allow_alerts'->'between'
+msgid "The allow alerts field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_alerts'->'required'
+msgid "The allow alerts field is required."
+msgstr ""
+
+#: 'allow_reports'->'between'
+msgid "The allow reports field does not appear to contain a valid value."
+msgstr "Поле о допустимости отправлять отчёты заполнено неверно"
+
+#: 'allow_reports'->'required'
+msgid "The allow reports field is required."
+msgstr "Заполните поле о допустимости отправлять отчёты."
+
+#: 'allow_stat_sharing'->'between'
+msgid "The stat sharing field does not appear to contain a valid value."
+msgstr "Поле об отправке статистики заполнено неверно"
+
+#: 'allow_stat_sharing'->'required'
+msgid "The stat sharing field is required."
+msgstr "Введите поле об отправке статистики."
+
+#: 'api'->'default_record_limit'
+msgid "Default number of records to be fetched per API request"
+msgstr "Количество записей по умолчанию, отдаваемых по API-запросу"
+
+#: 'api'->'maximum_record_limit'
+msgid "Maximum number of records to be fetched per API request"
+msgstr "Максимальное количество записей, отдаваемых по API-запросу"
+
+#: 'api'->'maximum_requests_per_ip_address'
+msgid "Maximum number of API requests per IP address"
+msgstr "Максимальное количество API-запросов с одного IP"
+
+#: 'api_akismet'->'alpha_numeric'
+msgctxt "'api_akismet'->'alpha_numeric'"
+msgid "The Akismet field does not appear to contain a valid value."
+msgstr "Поле Akismet заполено неверно"
+
+#: 'api_akismet'->'length'
+msgctxt "'api_akismet'->'length'"
+msgid "The Akismet field does not appear to contain a valid value."
+msgstr "Поле Akismet заполено неверно"
+
+#: 'banner_image'->'default'
+msgid "Something went wrong with your banner image upload."
+msgstr "Не удолось загрузить баннер."
+
+#: 'banner_image'->'size'
+msgid ""
+"The size of your banner exceeds the size limit for this upload.'\n"
+"\t),\n"
+"\t\t'between' => 'The cache pages field is required."
+msgstr ""
+"Уменьшите размер баннера.'\n"
+"\t),\n"
+"\t\t'between' => 'The cache pages field is required."
+
+#: 'cache_pages'->'required'
+msgid "The cache pages field does not appear to contain a valid value."
+msgstr "The cache pages field does not appear to contain a valid value?"
+
+#: 'cache_pages_lifetime'->'in_array'
+msgid ""
+"The cache pages lifetime field does not appear to contain a valid value."
+msgstr "Поле \"Время жизни кеша\" заполено неверно."
+
+#: 'cache_pages_lifetime'->'required'
+msgid "The cache pages lifetime field is required."
+msgstr "Укажите время жизни кеша."
+
+#: 'cleanurl'->'clean_url_disabled'
+msgid ""
+"It looks like your server is not configured to handle clean URLs. You will "
+"need to change the configuration of your server before you can enable clean "
+"URLs. See more info on how to enable clean URLs at <a "
+"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
+"rewrite\" target=\"_blank\">this forum post</a>"
+msgstr ""
+"Сервер не настроен для \"красивой\" адресной строки. <a "
+"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
+"rewrite\" target=\"_blank\">Подробнее</a>"
+
+#: 'cleanurl'->'clean_url_enabled'
+msgid ""
+"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
+"\"index.php\" in the URL)."
+msgstr ""
+"Эта опция позволит заходить на Ushahidi без \"index.php\" в адресной строке."
+
+#: 'cleanurl'->'enable_clean_url'
+msgid "Enable Clean URLs"
+msgstr "Включить \"красивые\" URL"
+
+#: 'cleanurl'->'title'
+msgid "Clean URLs"
+msgstr "\"Красивая\" адресная строка"
+
+#: 'clickatell_api'->'length'
+msgid "The Clickatell API number field must be no more 20 characters long."
+msgstr "Длина номера Clickatell API не должна превышать 20 символов"
+
+#: 'clickatell_api'->'required'
+msgid "The Clickatell API number field is required."
+msgstr "Введите Clickatell API номер"
+
+#: 'clickatell_password'->'length'
+msgid ""
+"The Clickatell Password field must be at least 5 and no more 50 characters "
+"long."
+msgstr "Длина пароля Clickatell не должна превышать 50 символов"
+
+#: 'clickatell_password'->'required'
+msgid "The Clickatell Password field is required."
+msgstr "Введите пароль Clickatell"
+
+#: 'clickatell_username'->'length'
+msgid "The Clickatell Username field must be no more 50 characters long."
+msgstr "Длина имени пользователя Clickatell не должна превышать 50 символов"
+
+#: 'clickatell_username'->'required'
+msgid "The Clickatell Username field is required."
+msgstr "Введите имя пользователя Clickatell"
+
+#: 'clickatell_username'->'configure_map'
+msgid "Configure Map"
+msgstr "Настроить карту"
+
+#: 'clickatell_username'->'default_location'
+msgid "Default Location"
+msgstr "Местоположение по умолчанию"
+
+#: 'default_map_all'->'alpha_numeric'
+msgid "The color feed field does not appear to contain a valid value."
+msgstr "Поле цвета содержит неверные данные"
+
+#: 'default_map_all'->'length'
+msgid "The color field must be no more 6 characters long."
+msgstr "Поле цвета должно состоять из 6 символов (FF00FF)"
+
+#: 'default_map_all'->'required'
+msgid "The color field is required."
+msgstr "Введите цвет"
+
+#: 'default_map_all'->'default_map_view'
+msgid "Default Map View"
+msgstr "Карта по умолчанию"
+
+#: 'default_map_all'->'default_zoom_level'
+msgid "Default Zoom Level"
+msgstr "Масштаб по умолчанию"
+
+#: 'default_map_all'->'download_city_list'
+msgid "Retrieve Cities From Geonames"
+msgstr "Автозагрузка названий населенных пунктов выбранной страны (нажми меня!)"
+
+#: 'email_host'->'length'
+msgctxt "'email_host'->'length'"
+"'email_host'->'length'"
+msgid "The Mail server port field is too long."
+msgstr "В поле \"Адрес почтового сервера\" слишком много символов"
+
+#: 'email_host'->'numeric'
+msgctxt "'email_host'->'numeric'"
+msgid "The Mail server port field should contain numbers only."
+msgstr ""
+
+#: 'email_password'->'length'
+msgid ""
+"The Mail Server Password field must be at least 5 and no more 50 characters "
+"long."
+msgstr "Длина пароля сервера почты не должна превышать 50 символов"
+
+#: 'email_password'->'required'
+msgid "The Mail Server Password field is required."
+msgstr "Введите пароль сервера почты"
+
+#: 'email_port'->'length'
+msgctxt "'email_port'->'length'"
+msgid "The Mail server port field is too long."
+msgstr "Поле \"Порт сервера почты\" содержит слишком много символов"
+
+#: 'email_port'->'numeric'
+msgctxt "'email_port'->'numeric'"
+msgid "The Mail server port field should contain numbers only."
+msgstr "Поле \"Порт сервера почты\" должно содержать только цифры"
+
+#: 'email_servertype'->'length'
+msgctxt "'email_servertype'->'length'"
+msgid "The Mail server port field is too long."
+msgstr "Поле \"Тип почтового сервера\" содержит слишком много символов"
+
+#: 'email_servertype'->'required'
+msgid "The Mail Server Type field is required."
+msgstr "Введите тип почтового сервера"
+
+#: 'email_username'->'length'
+msgid "The Mail Server Username field must be no more 50 characters long."
+msgstr "Длина имени пользователя сервера почты не должна превышать 50 символов."
+
+#: 'email_username'->'required'
+msgid "The Mail Server Username field is required."
+msgstr "Введите имя пользователя сервера почты"
+
+#: 'facebook'->'title'
+msgid "Facebook Setup Options"
+msgstr "Настройки Facebook"
+
+#: 'facebook'->'description'
+msgid ""
+"To get the information below you will need to create a new Facebook "
+"application at"
+msgstr ""
+"To get the information below you will need to create a new facebook "
+"application at"
+
+#: 'facebook'->'app_id'
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: 'facebook'->'app_secret'
+msgid ""
+"Facebook App Secret'\n"
+"\t),\n"
+"\t\t'length' => 'The Google Analytics field must contain a valid Web Property "
+"ID in the format UA-XXXXX-XX."
+msgstr ""
+"Facebook App Secret'\n"
+"\t),\n"
+"\t\t'length' => 'Поле Google Analytics должно содержать действующий Web "
+"Property ID в формате UA-XXXXX-XX."
+
+#: 'https'->'enable_https'
+msgid "Enable HTTPS"
+msgstr "Включить HTTPS"
+
+#: 'https'->'https_disabled'
+msgid ""
+"This option makes Ushahidi be accessed in unsecure mode; "
+"<strong>without</strong> \"https://\" in the URL prefix"
+msgstr ""
+"Эта опция включит доступ к Ushahidi в обычном режиме <strong>без "
+"https</strong> в префиксе URL"
+
+#: 'https'->'https_enabled'
+msgid ""
+"This option makes Ushahidi be accessed in secure mode; with "
+"<strong>https</strong> in the URL prefix"
+msgstr ""
+"Эта опция включит доступ к Ushahidi в зашифрованном режиме с "
+"<strong>https</strong> в префиксе URL"
+
+#: 'https'->'title'
+msgid ""
+"HTTPS'\n"
+"\t),\n"
+"\t\t'between' => 'The items per page (Frontend) field does not appear to "
+"contain a valid value."
+msgstr ""
+"HTTPS'\n"
+"\t),\n"
+"\t\t'between' => 'Поле \"Количество элементов на странице (Главной)\" заполнено "
+"в неправильном формате"
+
+#: 'items_per_page'->'required'
+msgid "The items per page (Frontend) field is required."
+msgstr "Заполните поле \"Количество элементов на странице (Главной)\"."
+
+#: 'items_per_page_admin'->'between'
+msgid ""
+"The items per page (Admin) field does not appear to contain a valid value."
+msgstr ""
+"Поле \"Количество элементов на странице  (Admin)\" заполнено в неправильном "
+"формате"
+
+#: 'items_per_page_admin'->'required'
+msgid "The items per page (Admin) field is required."
+msgstr "Заполните поле \"Количество элементов на страницу для (Admin)\"."
+
+#: 'map'->'default_location'
+msgid ""
+"Setting up your map provider is a straight- forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
+msgstr ""
+"Картографический материал загружается напрямую. Выберите провайдера, "
+"получите API-ключ и введите его."
+
+#: 'map'->'zoom'
+msgid "Zoom Level"
+msgstr "Масштаб"
+
+#: 'map_provider'->'choose'
+msgid "Select a Map Provider"
+msgstr "Выберите провайдера карты"
+
+#: 'map_provider'->'enter_api'
+msgid "Enter the new API Key"
+msgstr "Введите полученный API-ключ"
+
+#: 'map_provider'->'get_api'
+msgid "Get an API Key"
+msgstr "Получите API-ключ"
+
+#: 'map_provider'->'info'
+msgid ""
+"Setting up your map provider is a straight-forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
+msgstr ""
+"Настройка провайдера карты — простой процесс: выберите провайдера, получите "
+"API-ключ, введите ключ на сайте"
+
+#: 'map_provider'->'name'
+msgid "Map provider"
+msgstr "Провайдер карты"
+
+#: 'map_provider'->'map_settings'
+msgid "Map Settings"
+msgstr "Настройка карты"
+
+#: 'map_provider'->'multiple_countries'
+msgid "Does this Ushahidi Deployment span multiple countries?"
+msgstr "Данная карта будет использоваться больше чем в одном государстве?"
+
+#: 'map_provider'->'select_default_location'
+msgid "Please select a default country"
+msgstr "Выберите страну"
+
+#: 'map_provider'->'set_location'
+msgid "Click and drag the map to set your exact location"
+msgstr "Кликните на карте, чтобы уточнить местоположение"
+
+#: 'site'->'allow_clustering'
+msgid "Cluster Reports on Map"
+msgstr "Кластеризовать Отчёты на Карте"
+
+#: 'site'->'allow_comments'
+msgid "Allow Users to Submit Comments to Reports"
+msgstr "Позволить пользователям отправлять комментарии к отчётам"
+
+#: 'site'->'allow_feed'
+msgid "Include RSS News Feed on Website"
+msgstr "Включить новостную ленту RSS на главной странице сайта"
+
+#: 'site'->'allow_alerts'
+msgid "Allow Users To Subscribe For Alerts"
+msgstr ""
+
+#: 'site'->'allow_reports'
+msgid "Allow Users To Submit Reports"
+msgstr "Позволить пользователям отправлять отчёты о событиях"
+
+#: 'site'->'api_akismet'
+msgid "Akismet Key"
+msgstr "Akismet ключ"
+
+#: 'site'->'banner'
+msgid "Site Banner"
+msgstr ""
+
+#: 'site'->'blocks_per_row'
+msgid "Blocks Per Row"
+msgstr "Блоков в строке"
+
+#: 'site'->'cache_pages'
+msgid "Cache Pages"
+msgstr "Включить кэширование?"
+
+#: 'site'->'cache_pages_lifetime'
+msgid "Cache Pages Lifetime"
+msgstr "Время жизни кэша"
+
+#: 'site'->'checkins'
+msgid "Enable Checkins"
+msgstr "Проверка"
+
+#: 'site'->'copyright_statement'
+msgid "Site Copyright Statement"
+msgstr "Авторское право"
+
+#: 'site'->'default_category_colors'
+msgid "Default Color For All Categories"
+msgstr "Цвет по умолчанию для всех категорий"
+
+#: 'site'->'default_category_icons'
+msgid "Default Icon For All Categories"
+msgstr ""
+
+#: 'site'->'delete_banner_image'
+msgid "Delete Banner Image"
+msgstr ""
+
+#: 'site'->'delete_default_map_all_icon'
+msgid "Delete Default Icon"
+msgstr ""
+
+#: 'site'->'display_contact_page'
+msgid "Display Contact Page"
+msgstr "Показывать страницу \"Обратная связь\""
+
+#: 'site'->'display_howtohelp_page'
+msgid "Display \"How to Help\" Page"
+msgstr "Показывать страницу \"Как помочь\""
+
+#: 'site'->'email_alerts'
+msgid "Alerts Email Address"
+msgstr "E-mail для оповещений"
+
+#: 'site'->'email_notice'
+msgid ""
+"<span>In order to receive reports by email, please configure your email "
+"account settings.</span>"
+msgstr ""
+"<span> Чтобы получить отчёты по почте, пожалуйста, настройте параметры "
+"вашего e-mail-аккаунта.</span>"
+
+#: 'site'->'email_site'
+msgid "Site Email Address"
+msgstr "E-mail сайта"
+
+#: 'site'->'google_analytics'
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: 'site'->'google_analytics_example'
+msgid "Web Property ID - Format: UA-XXXXX-XX"
+msgstr "Идентификатор Google Analytics - формат: UA-XXXXX-XX"
+
+#: 'site'->'items_per_page'
+msgid "Items Per Page - Front End"
+msgstr "Количество элементов на страницу - Главная"
+
+#: 'site'->'items_per_page_admin'
+msgid "Items Per Page - Admin"
+msgstr "Количество элементов на страницу - Admin"
+
+#: 'site'->'kismet_notice'
+msgid ""
+"Prevent comment spam using <a href=\"http://akismet.com/\" "
+"target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
+"key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
+"target=\"_blank\">WordPress.com user account</a>"
+msgstr ""
+"Защититесь от спама с помощью <a href=\"http://akismet.com/\" "
+"target=\"_blank\">Akismet</a> от Automattic.<BR />Получить бесплатный API-ключ "
+"в <a href=\"http://en.wordpress.com/api-keys/\" "
+"target=\"_blank\">WordPress.com</a>"
+
+#: 'site'->'laconica_configuration'
+msgid "Laconica Credentials"
+msgstr "Laconica аккаунт"
+
+#: 'site'->'laconica_site'
+msgid "Laconica Site "
+msgstr "Laconica сайт "
+
+#: 'site'->'language'
+msgid "Site Language"
+msgstr "Язык сайта"
+
+#: 'site'->'manually_approve_users'
+msgid "Manually Approve Users"
+msgstr ""
+
+#: 'site'->'map_point_reports'
+msgid "Reports are points"
+msgstr "Точечная геометрия для сообщений"
+
+#: 'site'->'message'
+msgid "Site Message"
+msgstr "Важное сообщение"
+
+#: 'site'->'name'
+msgid "Site Name"
+msgstr "Название сайта"
+
+#: 'site'->'private_deployment'
+msgid "Private Deployment"
+msgstr "Закрытый доступ"
+
+#: 'site'->'require_email_confirmation'
+msgid "Require User Email Confirmation"
+msgstr ""
+
+#: 'site'->'submit_report_message'
+msgid "Submit Report Message"
+msgstr ""
+
+#: 'site'->'share_site_stats'
+msgid "Enable Statistics (Stored on Ushahidi's server)"
+msgstr "Отправлять статистику в API"
+
+#: 'site'->'tagline'
+msgid "Site Tagline"
+msgstr "Слоган"
+
+#: 'site'->'timezone'
+msgid "Timezone"
+msgstr ""
+
+#: 'site'->'title'
+msgid "Site Settings"
+msgstr "Параметры сайта"
+
+#: 'site'->'twitter_configuration'
+msgid "Twitter Search Terms"
+msgstr "Твиттер-аккаунт"
+
+#: 'site'->'twitter_hashtags'
+msgid "Hashtags - Separate with commas "
+msgstr "Отделяйте хэштеги запятыми"
+
+#: 'site_email'->'email'
+msgid "The site email field does not appear to contain a valid email address."
+msgstr "E-mail веб-сайта введен неправильно"
+
+#: 'site_email'->'length'
+msgid ""
+"The site email field must be at least 4 and no more 100 characters long."
+msgstr "Длина e-mail веб-сайта должна быть от 4 до 100 символов"
+
+#: 'site_name'->'length'
+msgid "The site name field must be at least 3 and no more 50 characters long."
+msgstr "Длина названия сайта должен быть от 3 до 50"
+
+#: 'site_name'->'required'
+msgid "The site name field is required."
+msgstr "Введите название сайта"
+
+#: 'site_tagline'->'length'
+msgid "The tagline field must be at least 3 and no more 100 characters long."
+msgstr "Длина поля заголовка должна быть от 3 до 100 символов"
+
+#: 'site_tagline'->'required'
+msgid "The tagline field is required."
+msgstr "Введите поле заголовка"
+
+#: 'sms'->'clickatell_api'
+msgid "Your Clickatell API Number"
+msgstr "Введите ваш Clickatell API Номер"
+
+#: 'sms'->'clickatell_check_balance'
+msgid "Check Your Clickatell Credit Balance"
+msgstr "Проверьте ваш баланс на Clickatell"
+
+#: 'sms'->'clickatell_load_balance'
+msgid "Load Credit Balance"
+msgstr "Загрузите баланс на Clickatell"
+
+#: 'sms'->'clickatell_password'
+msgid "Your Clickatell Password"
+msgstr "Введите ваш Clickatell пароль"
+
+#: 'sms'->'clickatell_text_1'
+msgid ""
+"Sign up for Clickatells service by <a "
+"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
+"target=\"_blank\">clicking here</a>"
+msgstr ""
+"Подключитесь к услуге Clickatell в <a "
+"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
+"target=\"_blank\">clicking here</a>"
+
+#: 'sms'->'clickatell_text_2'
+msgid "Enter your Clickatell access information below"
+msgstr "Введите вашу информацию Clickatell внизу"
+
+#: 'sms'->'clickatell_username'
+msgid "Your Clickatell User Name"
+msgstr "Введите ваше Clickatell имя пользователя"
+
+#: 'sms'->'flsms_description'
+msgid ""
+"FrontlineSMS is free open source software that turns a laptop and a mobile "
+"phone into a central communications hub. Once installed, the program enables "
+"users to send and receive text messages with large groups of people through "
+"mobile phones. Click on the grey box to request a download from "
+"FrontlineSMS.com"
+msgstr ""
+"FrontlineSMS — бесплатная программа, которая позволяет превратить ноутбук "
+"или мобильный телефон в центр управления. Установленная программа позволяет "
+"пользователям отправлять и получать SMS для большой группы через мобильные "
+"телефоны. Нажмите на кнопку для установки с FrontlineSMS.com"
+
+#: 'sms'->'flsms_download'
+msgid "Download Frontline SMS and install it on your computer"
+msgstr "Скачайте Frontline SMS и установите на ваш компьютер"
+
+#: 'sms'->'flsms_instructions'
+msgid ""
+"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
+"Detailed instructions on how to sync can be found <strong><a "
+"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
+"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will "
+"require the key and link below to set up the sync with FrontlineSMS"
+msgstr ""
+"Сообщения, полученные в FrontlineSMS можно синхронизировать с Ushahidi. "
+"Информацию о том, как это сделать, можно найти в <strong><a href=\"http://wik"
+"i.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontli"
+"nesms_to_sync_with_ushahidi\" target=\"_blank\">here</a></strong>. Вы должны "
+"получить ключ по ссылке, чтобы синхронизироваться с FrontlineSMS"
+
+#: 'sms'->'flsms_key'
+msgid "Your Ushahidi Sync Key"
+msgstr "Ващ ключ синхронизации Ushahidi"
+
+#: 'sms'->'flsms_link'
+msgid "FrontlineSMS HTTP Post LINK"
+msgstr "FrontlineSMS HTTP Post ссылка"
+
+#: 'sms'->'flsms_synchronize'
+msgid "Sync with Ushahidi"
+msgstr "Синхронизировать с Ushahidi"
+
+#: 'sms'->'flsms_text_1'
+msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
+msgstr "Введите номер телефона, подключенный к FrontlineSMS, в поле внизу"
+
+#: 'sms'->'flsms_text_2'
+msgid "Enter the number without any + or dashes below"
+msgstr "Введите номер без символов \"+\" или скобок"
+
+#: 'sms'->'option_1'
+msgid "Option 1: Use Frontline SMS"
+msgstr "Option 1: Использовать FrontlineSMS"
+
+#: 'sms'->'option_2'
+msgid "Option 2: Use a Global SMS Gateway"
+msgstr "Option 2: Использовать GlobalSMS Gateway"
+
+#: 'sms'->'title'
+msgid "SMS Setup Options"
+msgstr "Настройка SMS"
+
+#: 'sms_no1'->'length'
+msgid "The phone 1 field does not appear to contain a valid value."
+msgstr "Телефон 1 содержит неверные значения"
+
+#: 'sms_no1'->'numeric'
+msgid "The phone 1 field should contain numbers only."
+msgstr "Телефон 1 должен содержать только цифры."
+
+#: 'sms_no2'->'length'
+msgid "The phone 2 field is too long."
+msgstr "Телефон 2 содержит неверные значения"
+
+#: 'sms_no2'->'numeric'
+msgid "The phone 2 field should contain numbers only."
+msgstr "Телефон 2 должен содержать только цифры"
+
+#: 'sms_no3'->'length'
+msgid "The phone 3 field is too long."
+msgstr "Телефон 3 содержит неверные значения"
+
+#: 'sms_no3'->'numeric'
+msgid "The phone 3 field should contain numbers only."
+msgstr "Телефон 3 должен содержать только цифры"

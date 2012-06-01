@@ -1,0 +1,209 @@
+#. extracted from en_US/alerts.php, sw_KE/alerts.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:37+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'alert_email'->'email'
+msgid "The Email field does not appear to contain a valid email address?"
+msgstr "Anwani ya barua pepe si sahihi"
+
+#: 'alert_email'->'email_check'
+msgid ""
+"That Email address has already been registered to receive alerts for that "
+"location."
+msgstr "Anwani ya barua pepe unayotupatia imeshasajilishwa kwa eneo lenu."
+
+#: 'alert_email'->'length'
+msgid "The Email field must be at least 4 and no more 64 characters long."
+msgstr "Anwani ya barua pepe lazima iwe na baina ya herifi 4 na 64."
+
+#: 'alert_email'->'required'
+msgid "The Email field is required if the checkbox is checked."
+msgstr ""
+"Anwani ya barua pepe inahitajika ikiwa kisanduku tiki cha anwani ya baura "
+"pepe imewekwa tiki."
+
+#: 'alert_country'->'single_country'
+msgid ""
+"This deployment spans within one country only. Please make sure the alert "
+"location is within the country '.ORM::factory('country"
+msgstr ""
+
+#: 'alert_lat'->'between'
+msgctxt "'alert_lat'->'between'"
+msgid "You have not selected a valid location on the map."
+msgstr "Hujachagua mahali sahihi kwenye ramani."
+
+#: 'alert_lat'->'required'
+msgctxt "'alert_lat'->'required'"
+msgid "You have not selected a valid location on the map."
+msgstr "Hujachagua mahali sahihi kwenye ramani."
+
+#: 'alert_lon'->'between'
+msgctxt "'alert_lon'->'between'"
+msgid "You have not selected a valid location on the map."
+msgstr "Hujachagua mahali sahihi kwenye ramani."
+
+#: 'alert_lon'->'required'
+msgctxt "'alert_lon'->'required'"
+msgid "You have not selected a valid location on the map."
+msgstr "Hujachagua mahali sahihi kwenye ramani."
+
+#: 'alert_mobile'->'length'
+msgid ""
+"The Mobile Phone field does not seem to contain the right amount of digits."
+msgstr "Namba ya simu ya rununu haina urefu wa kisahihi."
+
+#: 'alert_mobile'->'mobile_check'
+msgid ""
+"That Mobile Phone Number has already been registered to receive alerts for "
+"that location."
+msgstr "Namba ya simu ya rununu unayotupatia imeshasajilishwa kwa eneo lenu."
+
+#: 'alert_mobile'->'numeric'
+msgid ""
+"The Mobile Phone field does not appear to contain a valid phone. Please "
+"input numbers only including Country Code."
+msgstr ""
+"Namba ya simu ya rununu si sahihi. Tafadhali andika nambari pekee pamoja na "
+"nambari ya nchi yako."
+
+#: 'alert_mobile'->'one_required'
+msgid "You must enter either your Mobile Phone Number or your Email Address."
+msgstr "Lazima uandike nambari yako ya simu au uandike anwani ya barua pepe."
+
+#: 'alert_mobile'->'required'
+msgid "The Mobile Phone field is required if the checkbox is checked."
+msgstr ""
+"Namba ya simu ya rununu inahitajika ikiwa kisanduku tiki cha simu ya rununu "
+"imewekwa tiki."
+
+#: 'alert_radius'->'in_array'
+msgid "You have not set a valid radius on the map."
+msgstr "Hujachagua nusukipenyo sahihi kwa ramani."
+
+#: 'alert_radius'->'required'
+msgid "You have not set your radius on the map."
+msgstr "Hujachagua nusukipenyo sahihi kwa ramani."
+
+#: 'alert_radius'->'alerts_subscribed'
+msgid "You have subscribed for alerts with the following categories"
+msgstr ""
+
+#: 'alert_radius'->'code_already_verified'
+msgid "This code has been verified before!"
+msgstr "Ishara hii ilishathibitishwa!"
+
+#: 'alert_radius'->'code_not_found'
+msgid ""
+"This verification code was not found! Please confirm that you have the "
+"correct URL."
+msgstr ""
+"Thibitisho la ishara uliyotupatia si sahihu! Tafadhali hakikisha umeandika "
+"anwani sahihi."
+
+#: 'alert_radius'->'code_verified'
+msgid ""
+" Your code was verified correctly. You will now receive alerts about "
+"incidents as they happen."
+msgstr ""
+"Ishara yako imeshathibitishwa. Utajulishwa kuhusu matokeo yoyote "
+"yatakayotokea."
+
+#: 'alert_radius'->'confirm_request'
+msgid "To confirm your alert request, please go to "
+msgstr "Kuthibistisha ombezi la kutanabahishwa, tafadhali enda "
+
+#: 'alert_radius'->'create_more_alerts'
+msgid "Return to the Alerts page to create more alerts"
+msgstr ""
+"Rudi kwa sehemu ya kutanabahishwa ili ujisajilishe na tanabahi zenginezo"
+
+#: 'alert_radius'->'email_alert_request_created'
+msgid ""
+"Your Email Alert request has been created and verification message has been "
+"sent to "
+msgstr ""
+"Haja yako ya kutanabahishwa kwa barua pepe imeshasajilishwa na ujumbe wa "
+"kujithibitisha umepelekwa kwa "
+
+#: 'alert_radius'->'email_code'
+msgid "Please enter the Email confirmation code you received below: "
+msgstr "Tafadhali andika ishara ya kuthibitisha anwani yako ya barua pepe: "
+
+#: 'alert_radius'->'email_error_head'
+msgid "Your Email Alert Request Has NOT Been Saved!"
+msgstr "Hatujakusajili kutanabahishwa kwa anwani yako ya barua pepe!"
+
+#: 'alert_radius'->'email_ok_head'
+msgid "Your Email Alert Request Has Been Saved!"
+msgstr "Tumeshakusajilisha kutanabahishwa kwa anwani yako ya barua pepe!"
+
+#: 'alert_radius'->'error'
+msgid "The system was not able to process your confirmation request!"
+msgstr "Kompyuta haijaweza kukusajilisha!"
+
+#: 'alert_radius'->'mobile_alert_request_created'
+msgid ""
+"Your Mobile Alert request has been created and verification message has been "
+"sent to "
+msgstr ""
+"Haja yako ya kutanabahishwa kwa rununu imeshasajilishwa na ujumbe wa "
+"kujithibitisha umepelekwa kwa "
+
+#: 'alert_radius'->'mobile_code'
+msgid ""
+"Please enter the SMS confirmation code you received on your mobile phone "
+"below: "
+msgstr ""
+"Tafadhali andika ishara ya uthibitisho uliopata kwenye ujumbe tuliotume kwa "
+"simu ya rununu hapa: "
+
+#: 'alert_radius'->'mobile_error_head'
+msgid "Your Mobile Alert Request Has NOT Been Saved!"
+msgstr "Hatujakusajili kutanabahishwa kwa simu yako!"
+
+#: 'alert_radius'->'mobile_ok_head'
+msgid "Your Mobile Alert Request Has Been Saved!"
+msgstr "Tumeshakusajilisha kutanabahishwa kwa simu yako!"
+
+#: 'alert_radius'->'settings_error'
+msgid "This deployment is not set up to correctly process alerts"
+msgstr "Ushahidi hii haiwezi kutanabahisha"
+
+#: 'alert_radius'->'unsubscribe'
+msgid ""
+"You have received this email because you subscribed to receive alerts. If "
+"you do not wish to receive future alerts go to "
+msgstr ""
+"Umepata barua pepe hii sababu umejisajilisha na tanabahisho. Kama hupendelei "
+"tena kutanabahishwa tafadhali enda "
+
+#: 'alert_radius'->'unsubscribed'
+msgid "You will no longer receive alerts from "
+msgstr "Hutotanabahishwa tena kutoka "
+
+#: 'alert_radius'->'unsubscribe_failed'
+msgid ""
+"We were not able to unsubscribe you. Please confirm that you have the "
+"correct URL."
+msgstr "Hatukuweza kukuengua. Tafadhali hakikisha umeweka anwani sahihi."
+
+#: 'alert_radius'->'verification_email_subject'
+msgid "alerts - verification"
+msgstr "tanabahisho - thibitisho"
+
+#: 'alert_radius'->'verify_code'
+msgid ""
+"You will not receive alerts on this location until you confirm your request."
+msgstr ""
+"Hutitanabahishwa na matokeo ya eneo hili mpaka uthibitishe usajili wako."

@@ -1,0 +1,81 @@
+#. extracted from en_US/category.php, es_AR/category.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:26+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'category_color'->'length'
+msgid "The color field must be 6 characters long."
+msgstr "El campo color debe ser de largo 6 caracteres."
+
+#: 'category_color'->'required'
+msgid "The color field is required."
+msgstr "El campo color es obligatorio."
+
+#: 'category_description'->'required'
+msgid "The description field is required."
+msgstr "El campo descripción es obligatorio."
+
+#: 'category_image'->'size'
+msgid "Please ensure that image uploads sizes are limited to 50KB."
+msgstr ""
+"Por favor asegúrese que los tamaños de carga de imágenes están limitados a "
+"50KB."
+
+#: 'category_image'->'type'
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
+msgstr ""
+"El campo imagen parece no contener una imagen válida.Los únicos formatos "
+"aceptados son .jpg, .png y .gif."
+
+#: 'category_image'->'valid'
+msgid "The image field does not appear to contain a valid file"
+msgstr "El campo imagen parece no contener un archivo válido"
+
+#: 'category_title'->'length'
+msgid "The title field must be at least 3 and no more 80 characters long."
+msgstr ""
+"El campo título debe tener por lo menos 3 y no mas de 80 caracteres de "
+"largo."
+
+#: 'category_title'->'required'
+msgid "The title field is required."
+msgstr "El campo título es obligatorio."
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
+msgstr ""
+
+#: 'parent_id'->'exists'
+msgid "The parent category does not exist."
+msgstr "La categoría padre no existe."
+
+#: 'parent_id'->'numeric'
+msgid "The parent category field must be numeric."
+msgstr "El campo categoría padre debe ser un número."
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
+msgstr ""
+
+#: 'parent_id'->'required'
+msgid "The parent category field is required."
+msgstr "El campo categoría padre es obligatorio."
+
+#: 'parent_id'->'same'
+msgid "The category and the parent category cannot be the same."
+msgstr "La categoría y la categoría padre no pueden ser iguales."
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
+msgstr ""

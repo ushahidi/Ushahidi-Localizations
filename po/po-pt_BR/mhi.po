@@ -1,0 +1,41 @@
+#. extracted from en_US/mhi.php, pt_BR/mhi.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-01 05:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'contact_captcha'->'default'
+msgid "Please enter a valid security code."
+msgstr "Forneça um código de segurança válido."
+
+#: 'contact_captcha'->'required'
+msgid "Please enter the security code."
+msgstr "Forneça um código de segurança."
+
+#: 'contact_email'->'email'
+msgid "The Email field does not appear to contain a valid email address."
+msgstr "O campo email parece não conter um endereço eletrônico válido."
+
+#: 'contact_email'->'required'
+msgid "Please provide a valid email address."
+msgstr "Forneça um email válido."
+
+#: 'contact_message'->'required'
+msgid "The message field is required."
+msgstr "É necessário preencher o campo mesagem."
+
+#: 'contact_subject'->'length'
+msgid "The subject field must be at least 3 characters long."
+msgstr "O campo assunto deve ter pelo menos 3 caracteres"
+
+#: 'contact_subject'->'required'
+msgid "The subject field is required."
+msgstr "É necessário preencher o campo assunto."
