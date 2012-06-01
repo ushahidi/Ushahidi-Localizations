@@ -18,5 +18,6 @@
 	'upgrade_file_not_deleted' => '无法删除文件<code>%s</coded>',
 	'upgrade_title' => 'Ushahidi升级脚本',
 	'upgrade_zip_error' => '下载的Ushahidi压缩文件<code>%s</coded>无法写入',
+	'riverid_variable_not_available' => '%s is not available in the RiverID class.',
 	);
 ?>

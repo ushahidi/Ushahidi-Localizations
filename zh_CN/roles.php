@@ -9,5 +9,10 @@
 		'length' => '姓名的长度应在3到80个字符之间',
 		'nomodify' => '超级管理员角色不能被更改',
 		'required' => '姓名为必填项',
-	));
+	),
+	'access_level' => array(
+		'numeric' => 'Access Level field must be a number between 0 - 100.',
+		'required' => 'Access Level field must be a number between 0 - 100.',
+	)
+	);
 ?>

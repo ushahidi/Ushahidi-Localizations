@@ -17,5 +17,14 @@
 	'admin_new_sms' => array(
 		'message' => '新的文本消息已提交至您的网站',
 		'subject' => '新的文本消息',
+	),
+	'member_new_alert' => array(
+		'message' => 'You Have Received a New Alert',
+		'subject' => 'New Alert!'
+	),
+	'member_new_message' => array(
+		'message' => 'You Have Received a Private Message',
+		'subject' => 'New Private Message',
+		'footer' => 'To Reply Please Go To: '
 	));
 ?>

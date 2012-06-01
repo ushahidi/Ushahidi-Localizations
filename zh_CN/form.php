@@ -1,6 +1,7 @@
 <?php
 	$lang = array(
 	'field_default' => array(
+		'default' => 'The default value you have provided for the field is invalid.',
 		'length' => '长度应为3至200个字符',
 	),
 	'field_height' => array(

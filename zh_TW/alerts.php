@@ -6,6 +6,9 @@
 		'length' => '電子郵件信箱必須在4~64字元之間',
 		'required' => '如果勾選了電子信箱，則電子信箱為必填',
 	),
+	'alert_country' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'alert_lat' => array(
 		'between' => '請在地圖上選擇正確的地點',
 		'required' => '請在地圖上選擇正確的地點',
@@ -25,6 +28,10 @@
 		'in_array' => '請在地圖上設定你欲選擇的半徑範圍',
 		'required' => '請在地圖上設定你欲選擇的半徑範圍',
 	),
+  'alert_recipient' => array(
+    'required' => 'You have not set a recipient for alerts.'
+  ),
+	'alerts_subscribed' => 'You have subscribed for alerts with the following categories',
 	'code_already_verified' => '這組認證碼已經被使用過',
 	'code_not_found' => '請確認已輸入正確的認證碼',
 	'code_verified' => '認證已經完成，當所選擇的地點有通報事件時,您將會收到通知',
