@@ -2,14 +2,14 @@
 	$lang = array(
 	'comments_form_error' => '错误！',
 	'country_name' => array(
-		'single_country' => '您报告的位置跨越了本网站部署的国家范围。请确保报告的位置是在'.ORM::factory('country', Kohana::config('settings.default_country'))->country.'地区范围内.'
+		'single_country' => '您报告的事件地点跨越了本网站部署的国家范围。请确保事件地点是在'.ORM::factory('country', Kohana::config('settings.default_country'))->country.'国家或地区范围内.'
 	),
 	'custom_field' => array(
-		'values' => '请为您的一项客户表单项填入有效值',
+		'values' => '请在自定义表单里输入正确的值。',
 	),
 	'data_include' => array(
-		'between' => '请选择一个有效的项目下载',
-		'numeric' => '请选择一个有效的项目下载',
+		'between' => '请选择一个有效的项目',
+		'numeric' => '请选择一个有效的项目',
 	),
 	'data_active' => array(
 		'between' => '请选择"等待核准"或"已核准"这两种状态的报告。',
@@ -22,24 +22,24 @@
 		'required' => '请选择一个"等待验证"或"已验证”这两种状态的报告。',
 	),
 	'data_point' => array(
-		'between' => '一个选择有效的报告类型进行下载',
-		'numeric' => '一个选择有效的报告类型进行下载',
-		'required' => '一个选择有效的报告类型进行下载',
+		'between' => '一个选择有效的事件报告类型进行下载',
+		'numeric' => '一个选择有效的事件报告类型进行下载',
+		'required' => '一个选择有效的事件报告类型进行下载',
 	),
 	'from_date' => array(
 		'date_mmddyyyy' => '发件日期无效',
 		'range' => '请选择有效的发件日期。不能晚于今天。',
 	),
 	'incident_active' => array(
-		'between' => '请为“批准该报告”选择一个有效的值',
-		'required' => '请为“批准该报告”选择一个有效的值',
+		'between' => '请为“核准该事件报告”选择一个有效的值',
+		'required' => '请为“核准该事件报告”选择一个有效的值',
 	),
 	'incident_ampm' => array(
 		'validvalues' => '上午/下午格式不正确',
 	),
 	'incident_category' => array(
-		'numeric' => '类型栏格式不正确',
-		'required' => '类型为必填项',
+		'numeric' => '类别栏格式不正确',
+		'required' => '类别为必填项',
 	),
 	'incident_date' => array(
 		'date_ddmmyyyy' => '日期格式不正确',
