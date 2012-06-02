@@ -1,5 +1,5 @@
 <?php
 	$lang = array(
-	'cURL_not_installed' => '系统没有安装 php5-curl',
+	'cURL_not_installed' => 'php5-curl 还没有安装到系统中。',
 	);
 ?>
