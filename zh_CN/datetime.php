@@ -32,7 +32,7 @@
 	),
 	'january' => array(
 		'abbv' => '一月',
-		'full' => '元月',
+		'full' => '一月',
 	),
 	'february' => array(
 		'abbv' => '二月',
