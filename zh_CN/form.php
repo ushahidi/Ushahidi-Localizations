@@ -1,38 +1,38 @@
 <?php
 	$lang = array(
 	'field_default' => array(
-		'default' => '默认值是无效的。',
-		'length' => '长度应为3至200个字符',
+		'default' => '您提供的该字段的默认值是无效的。',
+		'length' => '字段长度为3至200个字符。',
 	),
 	'field_height' => array(
-		'between' => '请选择属性输入框高度，须在0到50之间',
+		'between' => '请设置字段控件的高度为0到50之间的值。',
 	),
 	'field_isdate' => array(
-		'between' => '你输入的日期格式不正确',
-		'required' => '请选择是否为必填项',
+		'between' => '请在日期字段输入正确的日期。',
+		'required' => '选择是为必填项，否为非必填',
 	),
 	'field_name' => array(
-		'length' => '名称的长度应为3至100个字符',
-		'required' => '请输入属性名称',
+		'length' => '字段名称的长度应为3至100个字符',
+		'required' => '请输入字段名称',
 	),
 	'field_required' => array(
-		'between' => '你输入的内容格式不正确',
-		'required' => '请选择是否为必填项',
+		'between' => '您输入了不符合字段格式要求的内容。',
+		'required' => '选择是为必填项，否为非必填',
 	),
 	'field_type' => array(
-		'numeric' => '请选择一个有效的类型',
-		'required' => '请选择属性类型',
+		'numeric' => '请选择一个有效的字段类型',
+		'required' => '请选择字段类型',
 	),
 	'field_width' => array(
-		'between' => '请选择属性输入框长度，须在0到300之间',
+		'between' => '请设置字段控件的长度为0到50之间的值。',
 	),
 	'form_description' => array(
 		'required' => '请输入表单描述',
 	),
 	'form_id' => array(
 		'default' => '默认表单不能删除',
-		'numeric' => '请选择要添加的表单',
-		'required' => '请选择要添加的表单',
+		'numeric' => '请选择要添加字段的表单',
+		'required' => '请选择要添加字段的表单',
 	),
 	'form_title' => array(
 		'length' => '表单名字的长度必须在3至100个字符之间',
