@@ -9,12 +9,12 @@
 		'required' => '包括反馈为必选项',
 	),
 	'allow_alerts' => array(
-		'between' => 'The allow alerts field does not appear to contain a valid value.',
-		'required' => 'The allow alerts field is required.',
+		'between' => '允许警示字段似乎并不包含一个有效的值',
+		'required' => '允许警示字段为必填项。',
 	),
 	'allow_reports' => array(
 		'between' => '允许报告栏格式错误',
-		'required' => '允许报告为必选项',
+		'required' => '允许报告为必填项',
 	),
 	'allow_stat_sharing' => array(
 		'between' => '数据分享栏格式错误',
@@ -30,8 +30,8 @@
 		'length' => 'Akismet栏格式错误',
 	),
 	'banner_image' => array(
-		'default' => 'Something went wrong with your banner image upload.',
-		'size' => 'The size of your banner exceeds the size limit for this upload.'
+		'default' => '您的横幅图片上传错误',
+		'size' => '横幅的大小超过此上传大小限制。'
 	),
 	'cache_pages' => array(
 		'between' => '缓存网页为必选项',
@@ -42,8 +42,8 @@
 		'required' => '缓存网页时间为必填项',
 	),
 	'cleanurl' => array(
-		'clean_url_disabled' => 'It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">this forum post</a>',
-		'clean_url_enabled' => 'This option makes Ushahidi to be accessed via "clean" URLs (without "index.php" in the URL).',
+		'clean_url_disabled' => '您的服务器看起来配置为非简洁链接。您将需要更改您的服务器的配置，才可以启用简洁链接。更多信息请参阅如何启用简洁链接的 <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">这个论坛的帖子</a>',
+		'clean_url_enabled' => '此选项使Ushahidi通过简洁链接的网址（不包括“index.php”的URL中）访问。',
 		'enable_clean_url' => '允许清除链接',
 		'title' => '清除链接',
 	),
@@ -90,7 +90,7 @@
 		'required' => '邮件服务器用户名为必填项',
 	),
 	'facebook' => array(
-		'title' => 'Facebook Setup Options',
+		'title' => 'Facebook 安装选项',
 		'description' => 'To get the information below you will need to create a new Facebook application at',
 		'app_id' => 'Facebook App ID',
 		'app_secret' => 'Facebook App Secret'
@@ -99,7 +99,7 @@
 		'length' => 'Google Analytics中必须包含有效的网站内容ID，格式为UA-XXXXX-XX',
 	),
 	'https' => array(
-	   'enable_https' => 'Enable HTTPS',
+	   'enable_https' => '启用 HTTPS',
 	   'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
 	   'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
 	   'title' => 'HTTPS'
