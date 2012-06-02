@@ -1,26 +1,26 @@
 <?php
 	$lang = array(
-	'admin_footer' => '该信息已发往您的网站',
+	'admin_footer' => '这些信息是从您的网站发出的。',
 	'admin_login_url' => '管理员登录',
 	'admin_new_comment' => array(
-		'message' => '新的评论已提交至您的网站。关于：',
+		'message' => '有新的评论,回应：',
 		'subject' => '新的评论',
 	),
 	'admin_new_email' => array(
-		'message' => '新的电子邮件消息已提交至您的网站',
-		'subject' => '新的电子邮件消息',
+		'message' => '有新的邮件',
+		'subject' => '新的邮件',
 	),
 	'admin_new_report' => array(
-		'message' => '新的报告已提交至您的网站',
-		'subject' => '新的报告',
+		'message' => '有新的事件报告',
+		'subject' => '新的事件',
 	),
 	'admin_new_sms' => array(
-		'message' => '新的文本消息已提交至您的网站',
+		'message' => '有新的文本消息',
 		'subject' => '新的文本消息',
 	),
 	'member_new_alert' => array(
-		'message' => '您收到了一个提醒。',
-		'subject' => '新的提醒!'
+		'message' => '您收到了一个事件警示。',
+		'subject' => '新的警示!'
 	),
 	'member_new_message' => array(
 		'message' => '您收到了一个私信。',
