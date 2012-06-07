@@ -1,4 +1,4 @@
-#. extracted from en_US/imap.php, ar_EG/imap.php
+#. extracted from en_US/footer.php, ar/footer.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -12,10 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.9.0\n"
 
-#: $lang->'imap_stream_not_opened'
-msgid "Could not open IMAP stream."
-msgstr "IMAP Stream لم نتمكن من تشغيل"
-
-#: $lang->'unsupported_service'
-msgid "The email service is not supported."
-msgstr "خدمات البريد الإليكترونى غير متوفرة"
+#: $lang->'cURL_not_installed'
+msgid "php5-curl is not installed on this system."
+msgstr "php5-curl is not installed on this system"
