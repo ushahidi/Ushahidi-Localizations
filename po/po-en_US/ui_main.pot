@@ -1,9 +1,9 @@
-#. extracted from en_US/ui_main.php
+#. extracted from so/ui_main.php, en_US/ui_main.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:55+0000\n"
+"POT-Creation-Date: 2012-06-07 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,11 +13,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'about'
-msgid "About "
+msgid "Ku saabsan."
 msgstr ""
 
 #: $lang->'access'
-msgid "Access"
+msgid "Awood kii siinaya inaad gasho."
 msgstr ""
 
 #: $lang->'access_limits'
@@ -25,193 +25,186 @@ msgid "Access Limits"
 msgstr ""
 
 #: $lang->'account_name'
-msgid "Account Name"
+msgid "Magaca account-ga."
 msgstr ""
 
 #: $lang->'actions'
-msgid "Actions"
+msgid "Ficillada."
 msgstr ""
 
 #: $lang->'action_confirm'
-msgid "This action cannot be undone. Are you sure you want to continue?"
+msgid "Ficilkan lagama noqon karo, ma hubtaa inaad rabtid inaad sii wado."
 msgstr ""
 
 #: $lang->'activate'
-msgid "Activate"
+msgid "Hawl geli."
 msgstr ""
 
 #: $lang->'active'
-msgid "Active"
+msgid "Shaqeynaya."
 msgstr ""
 
 #: $lang->'add'
-msgid "Add"
+msgctxt "$lang->'add'"
+msgid "Ku dar."
 msgstr ""
 
 #: $lang->'added_by'
-msgid "Added By"
-msgstr ""
-
-#: $lang->'additional_data'
-msgid "Additional Data"
+msgid "Waxaa ku daray."
 msgstr ""
 
 #: $lang->'additional_reports'
-msgid "Additional Reports"
+msgid "Warbixinno dheeraad ah."
 msgstr ""
 
 #: $lang->'add_edit'
-msgid "Add/Edit"
+msgid "Ku dar/wax ka bedel"
 msgstr ""
 
 #: $lang->'add_field'
-msgid "Add a Field"
+msgid "Goob ku dar."
 msgstr ""
 
 #: $lang->'add_language'
-msgid "Add Language"
+msgid "Ku dar luuqad."
 msgstr ""
 
 #: $lang->'add_new'
-msgid "Add New"
+msgid "Ku dar wax cusub."
 msgstr ""
 
 #: $lang->'add_new_category'
-msgid "Add New Category"
+msgid "Qeyb cusub ku dar."
 msgstr ""
 
 #: $lang->'add_translation'
-msgid "Add Translation"
+msgid "Turjumaad ku dar."
 msgstr ""
 
 #: $lang->'admin'
-msgid "Administration"
+msgid "Maamul."
 msgstr ""
 
 #: $lang->'alerts'
 msgctxt "$lang->'alerts'"
-msgid "Get Alerts"
+msgid "Hel farriimo."
 msgstr ""
 
 #: $lang->'alerts_alert_me'
-msgid "Alert me if a report is filed in, or around:"
+msgid "Isoo war geli haddii warbixin lasoo gudbiyo ama ay jirto."
 msgstr ""
 
 #: $lang->'alerts_btn_send'
-msgid "Save My Alert"
+msgid "Kaydi farriimahayga."
 msgstr ""
 
 #: $lang->'alerts_email'
-msgid "Email address:"
+msgid "Ciwaanka Email-ka."
 msgstr ""
 
 #: $lang->'alerts_enter_email'
-msgid "enter email address"
+msgid "Geli ciwaan email."
 msgstr ""
 
 #: $lang->'alerts_enter_mobile'
-msgid "enter mobile number with country code"
+msgid "Geli nambarka mobile-ka iyo furaha dalka."
 msgstr ""
 
 #: $lang->'alerts_get'
 msgctxt "$lang->'alerts_get'"
-msgid "Get Alerts"
+msgid "Hel farriimo."
 msgstr ""
 
 #: $lang->'alerts_mobile_phone'
-msgid "Mobile phone:"
+msgid "Nambarka mobile-ka."
 msgstr ""
 
 #: $lang->'alerts_place_spot'
 msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
+"Ama ka calaamade goob khariiradda hoose, waan ku soo wargelin doonaa marka "
+"warbixin laga helo 20 kilometer qiyaas ah."
 msgstr ""
 
 #: $lang->'alerts_place_spot2'
 msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
+"Haddii aadan heli karin goobtaada, fadlan guji khariiradda si aad u "
+"tilmaantid goobta saxda ah."
 msgstr ""
 
 #: $lang->'alerts_rss'
-msgid "RSS Feeds (copy the URL below)"
+msgid "RSS Feeds (ku guuri url-ka hoos)."
 msgstr ""
 
 #: $lang->'alerts_select_city'
-msgid "Select a city"
+msgid "Xulo magaalada."
 msgstr ""
 
 #: $lang->'alerts_step1_select_city'
-msgid "<strong>Step 1:</strong> Select your city or location:"
+msgid "Xul magaalada ama goobta aad ku sugan tahay."
 msgstr ""
 
 #: $lang->'alerts_step2_send_alerts'
-msgid "<strong>Step 2:</strong> Send alerts to my:"
+msgid "U dir farriimaha: "
 msgstr ""
 
 #: $lang->'alerts_step3_select_catgories'
-msgid "<strong>Step 3 (Optional):</strong> Select Categories"
+msgid " <strong>Step 3 (Optional):</strong> Select Categories Xulo qeybaha."
 msgstr ""
 
 #: $lang->'alert_confirm_previous'
-msgid "Confirm A Previous Alert Request"
+msgid "Xaqiiji codsigii farriimaha ee hore."
 msgstr ""
 
 #: $lang->'alert_saved'
-msgid "Your Alert Has Been Saved!"
+msgid "Farriimahaagii waa la keydiyey."
 msgstr ""
 
 #: $lang->'all'
-msgid "All"
+msgid "Dhammaan."
 msgstr ""
 
 #: $lang->'allowed'
-msgid "Allowed"
+msgid "Waa la ogolaaday."
 msgstr ""
 
 #: $lang->'all_categories'
-msgid "All Categories"
-msgstr ""
-
-#: $lang->'all_time'
-msgid "All Time"
+msgid "Dhammaan qeybaha."
 msgstr ""
 
 #: $lang->'and'
-msgid "and"
+msgid "Iyo."
 msgstr ""
 
 #: $lang->'api'
-msgid "API"
+msgid "API."
 msgstr ""
 
 #: $lang->'approve'
-msgid "Approve"
+msgid "ansixi."
 msgstr ""
 
 #: $lang->'approved'
-msgid "Approved"
+msgid "La ansixiyey."
 msgstr ""
 
 #: $lang->'approved_reports'
-msgid "Approved Reports"
+msgid "Warbixinnada la ansixiyey."
 msgstr ""
 
 #: $lang->'approve_this_report'
-msgid "Approve this Report"
+msgid "Ansixi warbixintan."
 msgstr ""
 
 #: $lang->'approximate'
-msgid "Approximate"
+msgid "qiyaas ahaan."
 msgstr ""
 
 #: $lang->'archive'
-msgid "Archive"
+msgid "Keyd"
 msgstr ""
 
 #: $lang->'archived'
-msgid "Archived"
+msgid "la keydiyay"
 msgstr ""
 
 #: $lang->'at'
@@ -219,351 +212,269 @@ msgid "at"
 msgstr ""
 
 #: $lang->'author'
-msgid "Author"
-msgstr ""
-
-#: $lang->'auto_checkin'
-msgid "Auto Checkin"
+msgid "Qoraaga."
 msgstr ""
 
 #: $lang->'avg_reports_per_day'
-msgid "Avg Reports Per Day"
+msgid "Warbixinnada Avg ee maalinkii."
 msgstr ""
 
 #: $lang->'awaiting_approval'
-msgid "Awaiting Approval"
+msgid "Wuxuu sugayaa in la ansixiyo"
 msgstr ""
 
 #: $lang->'awaiting_verification'
-msgid "Awaiting Verification"
-msgstr ""
-
-#: $lang->'badge'
-msgid "Badge"
-msgstr ""
-
-#: $lang->'badges'
-msgid "Badges"
-msgstr ""
-
-#: $lang->'badge_image'
-msgid "Badge Image"
-msgstr ""
-
-#: $lang->'badge_image_upload_your_own'
-msgid "Or you can upload your own badge image instead."
-msgstr ""
-
-#: $lang->'badge_pack'
-msgid "Badge Pack"
-msgstr ""
-
-#: $lang->'badge_select'
-msgid "Select a Badge"
+msgid "Wuxuu sugayaa in la xaqiijiyo."
 msgstr ""
 
 #: $lang->'blog'
-msgid "Blog"
-msgstr ""
-
-#: $lang->'browse_profiles'
-msgid "Browse Profiles"
+msgid "Blog."
 msgstr ""
 
 #: $lang->'cancel'
-msgid "Cancel"
+msgid "Tirtir."
 msgstr ""
 
 #: $lang->'categories'
-msgctxt "$lang->'categories'"
-msgid "Categories"
+msgid "Qaybaha."
 msgstr ""
 
 #: $lang->'category'
-msgid "Category"
+msgid "Qayb."
 msgstr ""
 
 #: $lang->'category_filter'
-msgid "Category Filter"
+msgid "Kala soocaha qeybaha."
 msgstr ""
 
 #: $lang->'category_has_been'
-msgid "The category has been "
+msgid "Qeybtaan waa"
 msgstr ""
 
 #: $lang->'category_name'
-msgid "Category Name"
-msgstr ""
-
-#: $lang->'change_date_range'
-msgid "Change Date Range"
-msgstr ""
-
-#: $lang->'change_password'
-msgid "Change Password"
-msgstr ""
-
-#: $lang->'change_picture'
-msgid "Change My Picture"
+msgid "Magaca qeybta."
 msgstr ""
 
 #: $lang->'choose'
-msgid "Choose a"
+msgid "Dooro."
 msgstr ""
 
 #: $lang->'choose_data_points'
-msgid "Choose data points to download"
-msgstr ""
-
-#: $lang->'choose_date_range'
-msgid "Or choose your own date range"
+msgid "Dooro meesha aad ka soo roganeysid xogta."
 msgstr ""
 
 #: $lang->'choose_field_type'
-msgid "Choose field type"
+msgid "Dooro nooca goobta."
 msgstr ""
 
 #: $lang->'cleanurl'
-msgid "Clean URLs"
-msgstr ""
-
-#: $lang->'clear'
-msgid "Clear"
-msgstr ""
-
-#: $lang->'clear_map'
-msgid "Clear Map"
+msgid "Tirtir URL-ka."
 msgstr ""
 
 #: $lang->'close'
-msgid "Close"
+msgid "Xir."
 msgstr ""
 
 #: $lang->'clusters'
-msgid "clusters"
+msgid "Urursan."
 msgstr ""
 
 #: $lang->'color'
-msgctxt "$lang->'color'"
-msgid "Color"
+msgid "Midabka."
 msgstr ""
 
 #: $lang->'comment'
-msgid "Comment"
+msgid "Faallo."
 msgstr ""
 
 #: $lang->'comments'
-msgctxt "$lang->'comments'"
-msgid "Comments"
+msgid "Faallooyin."
 msgstr ""
 
 #: $lang->'comment_details'
-msgid "Comment Details"
+msgid "Faahfaahin ku saabsan faallada."
+msgstr ""
+
+#: $lang->'comment_rating'
+msgid "Qiimeynta Faallada."
 msgstr ""
 
 #: $lang->'configuration_saved'
-msgid "Your Settings Have Been Saved!"
+msgid "Settings kaaga waa la keydiyey."
 msgstr ""
 
 #: $lang->'configure'
-msgid "Configure"
-msgstr ""
-
-#: $lang->'confirm_email_successful'
-msgid "You have successfully confirmed your email address! Please login below."
+msgid "Hagaaji."
 msgstr ""
 
 #: $lang->'contact'
-msgid "Contact Us"
+msgid "Nala soo xiriir."
 msgstr ""
 
 #: $lang->'contact_code'
-msgctxt "$lang->'contact_code'"
-msgid "Security Code"
+msgid "Security Code."
 msgstr ""
 
 #: $lang->'contact_email'
-msgid "Your Email Address"
+msgid "Ciwaanka emailkaaga."
 msgstr ""
 
 #: $lang->'contact_message'
-msgctxt "$lang->'contact_message'"
-msgid "Message"
+msgid "Farriin."
 msgstr ""
 
 #: $lang->'contact_message_has_send'
-msgid "Your Message Has Been Sent!"
+msgid "Farriintaadii waa la diray."
 msgstr ""
 
 #: $lang->'contact_name'
-msgid "Your Name"
+msgid "Magacaaga."
 msgstr ""
 
 #: $lang->'contact_phone'
-msgid "Your Phone Number"
+msgid "Telefoon nambarkaaga."
 msgstr ""
 
 #: $lang->'contact_send'
-msgid "Send Message"
+msgid "Dir Farriin."
 msgstr ""
 
 #: $lang->'contact_subject'
-msgid "Message Subject"
+msgid "Mawduuca (subject) Farriinta."
 msgstr ""
 
 #: $lang->'copyright'
-msgid "Copyright ©"
+msgid "Xuquuqda Qoraalka."
 msgstr ""
 
 #: $lang->'create'
-msgid "Create"
+msgid "Samee."
 msgstr ""
 
 #: $lang->'create_edit'
-msgid "Create/Edit"
+msgid "Samee ama tafatir."
 msgstr ""
 
 #: $lang->'create_new'
-msgid "Create New"
-msgstr ""
-
-#: $lang->'create_new_password'
-msgid "Create New Password"
+msgid "Samee mid cusub."
 msgstr ""
 
 #: $lang->'create_report'
-msgid "Create Report"
+msgid "Samee warbixin."
 msgstr ""
 
 #: $lang->'credibility'
-msgid "Credibility"
-msgstr ""
-
-#: $lang->'current_password'
-msgid "Current Password"
-msgstr ""
-
-#: $lang->'custom_fields'
-msgid "Custom Fields"
+msgid "Sugnaansho."
 msgstr ""
 
 #: $lang->'data'
-msgid "Information"
+msgid "Xog."
 msgstr ""
 
 #: $lang->'date'
 msgctxt "$lang->'date'"
-msgid "Date"
+msgid "Taariikhda."
 msgstr ""
 
 #: $lang->'date_format'
-msgid "(mm/dd/yyyy)"
+msgid "Hannaanka Taariikhda (bil/malin/sanad)."
 msgstr ""
 
 #: $lang->'date_time'
-msgid "Date & Time"
+msgid "Taariikhda iyo Waqtiga."
 msgstr ""
 
 #: $lang->'day'
-msgid "day"
+msgid "Maalin."
 msgstr ""
 
 #: $lang->'deactivate'
-msgid "Deactivate"
+msgid "Ka istaaji hawsha."
 msgstr ""
 
 #: $lang->'default_location_name'
-msgid "Nairobi, Kenya"
+msgid "Nairobi,Kenya."
 msgstr ""
 
 #: $lang->'delete'
-msgid "Delete"
+msgid "Tir."
 msgstr ""
 
 #: $lang->'deleted'
-msgid "Deleted"
+msgid "La tiray."
 msgstr ""
 
 #: $lang->'deletes'
-msgid "Deletes"
+msgid "Qeybaha la tiray."
 msgstr ""
 
 #: $lang->'delete_disabled'
-msgid "Delete Disabled"
-msgstr ""
-
-#: $lang->'delete_last'
-msgid "Delete Last"
+msgid "Tir \"Disabled\""
 msgstr ""
 
 #: $lang->'delete_report'
-msgid "Delete this Report"
-msgstr ""
-
-#: $lang->'delete_selected'
-msgid "Delete Selected"
+msgid "Tir warbixintaan"
 msgstr ""
 
 #: $lang->'delete_spam'
-msgid "Delete Spam"
+msgid "Tir Spam-ka"
 msgstr ""
 
 #: $lang->'demo'
-msgid "Demo"
+msgid "Demo."
 msgstr ""
 
 #: $lang->'description'
-msgctxt "$lang->'description'"
-msgid "Description"
+msgid "Qeexid"
 msgstr ""
 
 #: $lang->'detailed_location_example'
-msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgid ""
+"Tusaale:geeska suuqa magaalada, wadada 5aad, jid weynaha 4aad, johannesburg"
 msgstr ""
 
 #: $lang->'details'
-msgid "Details"
+msgid "Faahfaahin"
 msgstr ""
 
 #: $lang->'direct_report'
-msgid "Direct Report"
+msgid "Warbixin toos ah"
 msgstr ""
 
 #: $lang->'disabled'
-msgid "Disabled"
+msgid "Disabled."
 msgstr ""
 
 #: $lang->'disapprove'
-msgid "Unapprove"
+msgid "Ha ansixin."
 msgstr ""
 
 #: $lang->'download_reports'
-msgid "Download Reports"
+msgid "Soo rogo warbixinno."
 msgstr ""
 
 #: $lang->'edit'
-msgid "Edit"
+msgid "Tafatir."
 msgstr ""
 
 #: $lang->'edit_form_fields'
-msgid "Edit Form Fields"
+msgid "Tafatir form-ka."
 msgstr ""
 
 #: $lang->'edit_report'
-msgid "Edit Report"
+msgid "Tafatir warbixinta."
 msgstr ""
 
 #: $lang->'email'
-msgctxt "$lang->'email'"
-msgid "Email"
+msgid "email-ka."
 msgstr ""
 
 #: $lang->'email_address'
-msgid "Email Address"
+msgid "Cinwaanka email-ka."
 msgstr ""
 
 #: $lang->'email_configuration'
-msgid "Mail Server Settings"
+msgid "Settings-ka Mail Server-ka ."
 msgstr ""
 
 #: $lang->'email_server_host'
@@ -571,11 +482,11 @@ msgid "Mail Server Host"
 msgstr ""
 
 #: $lang->'email_server_password'
-msgid "Mail Server Password"
+msgid "password-ka Mail Server-ka."
 msgstr ""
 
 #: $lang->'email_server_port'
-msgid "Mail Server Port"
+msgid "Port-ka Mail Server-ka."
 msgstr ""
 
 #: $lang->'email_server_ssl_support'
@@ -583,387 +494,311 @@ msgid "Mail Server SSL support"
 msgstr ""
 
 #: $lang->'email_server_type'
-msgid "Mail Server Type"
+msgid "Nooca Mail Server-ka."
 msgstr ""
 
 #: $lang->'email_server_username'
-msgid "Mail Server Username"
+msgid "Username-ka Mail Server-ka."
 msgstr ""
 
 #: $lang->'email_settings_comment_0'
-msgid "so your settings have to be associated with this email address"
+msgid "Settings-kaagu waa inay ku xiriirsan yihiin ciwaanka email-kan."
 msgstr ""
 
 #: $lang->'email_settings_comment_00'
 msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
+"Si aad email ugu heshid warbixinno, fadalan geli hoos account settings-ka "
+"eamilkaaga,Fadlan ogow email-lada waxaa lagu heli doonaa."
 msgstr ""
 
 #: $lang->'email_settings_comment_1'
-msgid "Some servers require a complete email address"
+msgid "Servers-ka qaar waxay u bahan yihiin ciwaan email."
 msgstr ""
 
 #: $lang->'email_settings_comment_2'
-msgid "Email account password"
+msgid "Password-ka emailka."
 msgstr ""
 
 #: $lang->'email_settings_comment_3'
-msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgid " ports-ka guud 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 msgstr ""
 
 #: $lang->'email_settings_comment_4'
-msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgid "Tusaale: mail.yourwebsite.com, imp.gmail.com, pop.gmail.com."
 msgstr ""
 
 #: $lang->'email_settings_comment_5'
-msgid "Examples: pop3, imap"
+msgid "Tusaale:pop3,imap."
 msgstr ""
 
 #: $lang->'email_settings_comment_6'
-msgid "Enable or disable SSL connections"
-msgstr ""
-
-#: $lang->'empty'
-msgid "---EMPTY---"
+msgid "Hawl geli ama hawl jooji connections-ka SSL."
 msgstr ""
 
 #: $lang->'end_point'
 msgctxt "$lang->'end_point'"
-msgid "to"
+msgid "Ku."
 msgstr ""
 
 #: $lang->'error'
-msgid "Error!"
+msgid "Cillad."
 msgstr ""
 
 #: $lang->'example'
-msgid "Example"
+msgid "Tusaale."
 msgstr ""
 
 #: $lang->'example_country'
-msgid "Kenya"
-msgstr ""
-
-#: $lang->'external_apps'
-msgid "External Apps"
-msgstr ""
-
-#: $lang->'external_video_link'
-msgid "External Video Link"
+msgid "Kenya."
 msgstr ""
 
 #: $lang->'feed'
-msgid "Feed"
+msgid "Feed."
 msgstr ""
 
 #: $lang->'feedback'
-msgid "Provide Feedback"
+msgid "Keen Jawaab-celis."
 msgstr ""
 
 #: $lang->'feedback_reports'
 msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+"Fadlan botoonka hoose guji si aad noo siido jawaab-celin ku saabsan "
+"khibraddaada. "
 msgstr ""
 
 #: $lang->'feeds'
-msgid "Feeds"
+msgid "Jawaab-celinta"
 msgstr ""
 
 #: $lang->'feed_has_been'
-msgid "The feed has been"
+msgid "Jawaab-celinta waa"
 msgstr ""
 
 #: $lang->'feed_items'
-msgid "Feed Items"
+msgid "Xogaha Jawaab-celinta."
 msgstr ""
 
 #: $lang->'feed_name'
-msgid "Feed Name"
+msgid "Magaca Jawaab-celinta."
 msgstr ""
 
 #: $lang->'feed_url'
-msgid "Feed URL"
+msgid "Jawaab-celinta URL."
 msgstr ""
 
 #: $lang->'field_unused'
-msgid "Unused field"
+msgid "Goob aan la isticmaalin."
 msgstr ""
 
 #: $lang->'file'
-msgid "File"
-msgstr ""
-
-#: $lang->'file_over_max_allowed'
-msgid "Your file is over the maximum allowed filesize."
+msgid "File."
 msgstr ""
 
 #: $lang->'filters'
-msgid "Filters"
-msgstr ""
-
-#: $lang->'filter_reports'
-msgid "Filter Reports"
-msgstr ""
-
-#: $lang->'filter_reports_by'
-msgid "Filter Reports By"
-msgstr ""
-
-#: $lang->'filter_reports_contain'
-msgid "Filter reports that contain"
+msgid "Kala Sifeeyayaasha."
 msgstr ""
 
 #: $lang->'find'
-msgid "Find"
+msgid "Hel."
 msgstr ""
 
 #: $lang->'find_location'
-msgid "Find Location"
+msgid "Hel goobta."
 msgstr ""
 
 #: $lang->'first_name'
-msgctxt "$lang->'first_name'"
-msgid "First Name"
+msgid "Magaca Koowaad."
 msgstr ""
 
 #: $lang->'force_run_scheduler'
-msgid "Force Run Scheduler"
+msgid "Force Run Scheduler."
 msgstr ""
 
 #: $lang->'forgot_password'
-msgctxt "$lang->'forgot_password'"
-msgid "Forgot your password?"
+msgid "Ma Ilowday Password-kaagii?."
 msgstr ""
 
 #: $lang->'form'
-msgid "Form"
+msgid "Form-ka."
 msgstr ""
 
 #: $lang->'forms'
-msgid "Forms"
+msgid "Forms-ka."
 msgstr ""
 
 #: $lang->'form_description'
-msgid "Form Description"
+msgid "Qiixidda Form-ka."
 msgstr ""
 
 #: $lang->'form_edit'
-msgid "Edit this Form"
+msgid "Wax ka badal Form-kan."
 msgstr ""
 
 #: $lang->'form_has_been'
-msgid "The form has been"
+msgid "Form-ka waa."
 msgstr ""
 
 #: $lang->'form_title'
-msgid "Form Title"
+msgid "Ciwaanka Form-ka."
 msgstr ""
 
 #: $lang->'from'
-msgctxt "$lang->'from'"
-msgid "From"
+msgid "Ka."
 msgstr ""
 
 #: $lang->'full_name'
-msgid "Full Name"
+msgid "Magaca oo buuxa."
 msgstr ""
 
 #: $lang->'geolocation_available'
-msgid "GeoLocation Available"
-msgstr ""
-
-#: $lang->'geometry_color'
-msgctxt "$lang->'geometry_color'"
-msgid "Color"
-msgstr ""
-
-#: $lang->'geometry_comments'
-msgctxt "$lang->'geometry_comments'"
-msgid "Comments"
-msgstr ""
-
-#: $lang->'geometry_label'
-msgid "Label"
-msgstr ""
-
-#: $lang->'geometry_strokewidth'
-msgid "Stroke Width"
-msgstr ""
-
-#: $lang->'go'
-msgid "Go"
+msgid "GeoLocation-ka waa la heli karaa."
 msgstr ""
 
 #: $lang->'hashtag'
-msgid "Hashtag"
+msgid "Hashtag."
 msgstr ""
 
 #: $lang->'has_been'
-msgid "Has Been"
+msgid "Waa."
 msgstr ""
 
 #: $lang->'help'
-msgid "How to Help"
-msgstr ""
-
-#: $lang->'hidden'
-msgid "Hidden"
+msgid "Sidee loo caawiyaa."
 msgstr ""
 
 #: $lang->'hide'
-msgid "Hide"
+msgid "Qari."
 msgstr ""
 
 #: $lang->'hide_this_message'
-msgid "hide this message"
+msgid "Qari farriintan."
 msgstr ""
 
 #: $lang->'home'
-msgid "Home"
+msgid "Bogga Hore."
 msgstr ""
 
 #: $lang->'how_to_report'
-msgid "How to Report"
-msgstr ""
-
-#: $lang->'https'
-msgid "HTTPS"
+msgid "Sidee loo tabiyaa"
 msgstr ""
 
 #: $lang->'id'
-msgid "ID"
-msgstr ""
-
-#: $lang->'identify_you'
-msgid "Used to identify you on the site to other users."
+msgid "ID-ga"
 msgstr ""
 
 #: $lang->'image'
-msgid "Image"
+msgid "Muuqaalka."
 msgstr ""
 
 #: $lang->'images'
-msgid "Images"
+msgid "Muuqaallada."
 msgstr ""
 
 #: $lang->'image_icon'
-msgid "Image/Icon"
+msgid "Muuqaalka/Sawirka."
 msgstr ""
 
 #: $lang->'inactive'
-msgid "Inactive"
+msgid "Aan shaqeynayn."
 msgstr ""
 
 #: $lang->'inbox'
-msgid "Inbox"
+msgid "Inbox-ka"
 msgstr ""
 
 #: $lang->'incident'
-msgid "Incident"
+msgid "Dhacdada."
+msgstr ""
+
+#: $lang->'incidents_listed'
+msgid "Incidents <span>(from the map, listed in chronological order)</span>."
 msgstr ""
 
 #: $lang->'incidents_nearby'
-msgid "Incidents Nearby"
+msgid "Dhacdooyinka agagaarka ka dhaca."
 msgstr ""
 
 #: $lang->'incident_location'
-msgid "Incident Location"
+msgid "Goobta dhacdada."
 msgstr ""
 
 #: $lang->'include'
-msgid "Include"
+msgctxt "$lang->'include'"
+msgid "Ku dar."
 msgstr ""
 
 #: $lang->'include_categories'
-msgid "Include Categories"
-msgstr ""
-
-#: $lang->'include_custom_fields'
-msgid "Include Custom Fields"
+msgid "Ku dar qeybaha."
 msgstr ""
 
 #: $lang->'include_description'
-msgid "Include Description"
+msgid "Ku dar Qeexid."
 msgstr ""
 
 #: $lang->'include_detail'
-msgid "Include as much detail as possible"
+msgid "Ku dar faahfaahinta ugu badan ee macquulka ah."
 msgstr ""
 
 #: $lang->'include_latitude'
-msgid "Include Latitude"
+msgid "Ku dar xarriiqda loolka (latitude)"
 msgstr ""
 
 #: $lang->'include_location_information'
-msgid "Include Location Information"
+msgid "Ku dar xog ku saabsan goobta."
 msgstr ""
 
 #: $lang->'include_longitude'
-msgid "Include Longitude"
-msgstr ""
-
-#: $lang->'incoming_media'
-msgid "Incoming Media"
+msgid ""
+"Ku dar Longitude (masaafada meeli u jirto dhul marka laga cabbiro dhanka "
+"bari ama galbeed)."
 msgstr ""
 
 #: $lang->'information_evaluation'
-msgid "Information Evaluation"
+msgid "Qiimeynta Xogta."
 msgstr ""
 
 #: $lang->'input_location'
-msgid "Enter your precise location"
-msgstr ""
-
-#: $lang->'insufficient_role'
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
+msgid "Geli goobtaada dhabta ah."
 msgstr ""
 
 #: $lang->'in_response_to'
-msgid "In response to"
+msgid "Jawaab u ah."
 msgstr ""
 
 #: $lang->'ip_address'
-msgid "IP Address"
-msgstr ""
-
-#: $lang->'is_this_your_profile'
-msgid "Is this your profile?"
+msgid "IP Address-ka."
 msgstr ""
 
 #: $lang->'item'
-msgid "item"
+msgid "Xog"
 msgstr ""
 
 #: $lang->'items'
-msgid "items"
+msgid "Xogaha."
 msgstr ""
 
 #: $lang->'item_details'
-msgid "item_details"
+msgid "Faahfaahinta Xogta."
 msgstr ""
 
 #: $lang->'item_title'
-msgid "Item Title"
+msgid "Ciwaanka Xogta."
 msgstr ""
 
 #: $lang->'key'
-msgid "Key"
+msgid "Furaha."
 msgstr ""
 
 #: $lang->'kml_kmz_file'
-msgid "KMZ/KML File"
+msgid "KMZ/KML File."
 msgstr ""
 
 #: $lang->'kml_kmz_upload'
-msgid "Upload KMZ/KML File"
+msgid "Gudbi xogta KMZ/KML File."
 msgstr ""
 
 #: $lang->'kml_url'
-msgid "KML URL"
+msgid "UTL-ka KML"
 msgstr ""
 
 #: $lang->'laconica'
@@ -971,1122 +806,893 @@ msgid "Laconica"
 msgstr ""
 
 #: $lang->'language'
-msgid "Language"
+msgid "Luqadda."
 msgstr ""
 
 #: $lang->'last'
-msgid "Last"
+msgid "U dambeeyay."
 msgstr ""
 
 #: $lang->'last_month'
-msgid "Last Month"
+msgid "Bishii lasoo dhaafay."
 msgstr ""
 
 #: $lang->'last_name'
 msgctxt "$lang->'last_name'"
-msgid "Last Name"
+msgid "Magaca Dambe."
 msgstr ""
 
 #: $lang->'last_year'
-msgid "Last Year"
+msgid "Sanadkii lasoo dhaafay."
 msgstr ""
 
 #: $lang->'latitude'
-msgid "Latitude"
+msgid "Xarriiqda loolka (latitude)."
 msgstr ""
 
 #: $lang->'layers'
-msgid "Layers"
+msgid "Lakabyada (layers)."
 msgstr ""
 
 #: $lang->'layers_filter'
-msgid "Other Layers"
+msgid "lakabyada kale."
 msgstr ""
 
 #: $lang->'layer_has_been'
-msgid "The Layer Has Been"
+msgid "Lakabka waa"
 msgstr ""
 
 #: $lang->'layer_name'
-msgid "Layer Name"
+msgid "Magaca Lakabka."
 msgstr ""
 
 #: $lang->'layer_url'
-msgid "Layer URL"
+msgid "Lakabka URL-ka."
 msgstr ""
 
 #: $lang->'leave_a_comment'
-msgid "Leave a Comment"
-msgstr ""
-
-#: $lang->'less_information'
-msgid "Less Information"
+msgid "Faallo Reeb."
 msgstr ""
 
 #: $lang->'level'
-msgid "Level"
+msgid "Heerka."
 msgstr ""
 
 #: $lang->'level_has_been'
-msgid "This level has been"
+msgid "Heerkan waa."
 msgstr ""
 
 #: $lang->'level_name'
-msgid "Level Name"
+msgid "Magaca Heerka."
 msgstr ""
 
 #: $lang->'limited'
-msgid "Limited"
+msgid "Kooban."
 msgstr ""
 
 #: $lang->'link'
-msgid "Link"
-msgstr ""
-
-#: $lang->'list'
-msgid "List"
-msgstr ""
-
-#: $lang->'loading_reports'
-msgid "Loading Reports"
+msgid "Isku xirka."
 msgstr ""
 
 #: $lang->'location'
-msgid "Location"
+msgid "Goobta."
 msgstr ""
 
 #: $lang->'locations'
-msgid "Locations"
+msgid "Goobaha."
 msgstr ""
 
 #: $lang->'location_example'
-msgid "City, State and/or Country"
+msgid "Magaalada. Gobolka iyo/ama Wadanka."
 msgstr ""
 
 #: $lang->'login'
-msgid "Login"
-msgstr ""
-
-#: $lang->'login_account_creation_successful'
-msgid "Account created successfully. You may log in now."
-msgstr ""
-
-#: $lang->'login_confirmation_sent'
-msgid "A confirmation has been sent to your email address."
-msgstr ""
-
-#: $lang->'login_email_doesnt_exist'
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
-msgstr ""
-
-#: $lang->'login_select_openid'
-msgid "Please click your account provider"
-msgstr ""
-
-#: $lang->'login_with'
-msgid "Login with"
-msgstr ""
-
-#: $lang->'login_userpass'
-msgid "Email and Password"
-msgstr ""
-
-#: $lang->'login_openid'
-msgid "OpenID"
-msgstr ""
-
-#: $lang->'login_signup'
-msgid "Sign Up"
-msgstr ""
-
-#: $lang->'login_signup_click'
-msgid "Create an Account"
-msgstr ""
-
-#: $lang->'login_signup_confirmation_message'
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
-msgstr ""
-
-#: $lang->'login_signup_confirmation_subject'
-msgid "Signup Confirmation"
-msgstr ""
-
-#: $lang->'login_signup_text'
-msgid "Create an account now to take advantage of more features on the site."
+msgid "Galidda."
 msgstr ""
 
 #: $lang->'longitude'
-msgid "Longitude"
+msgid ""
+"Longitude (masaafada meeli u jirto dhul marka laga cabbiro dhanka bari ama "
+"galbeed)"
 msgstr ""
 
 #: $lang->'map'
-msgid "Map"
+msgid "Khariiradda."
 msgstr ""
 
 #: $lang->'mark_read'
-msgid "Mark as Read"
+msgid "U calaamadi sidii in la akhriyey oo kale."
 msgstr ""
 
 #: $lang->'mark_unread'
-msgid "Mark as Unread"
-msgstr ""
-
-#: $lang->'maximum_filesize'
-msgid "Maximum filesize"
+msgid "U calaamadi sidii inaan la akhrin oo kale."
 msgstr ""
 
 #: $lang->'media'
-msgid "Media"
+msgid "Saxaafadda."
 msgstr ""
 
 #: $lang->'media_filter'
-msgid "Media Filter"
-msgstr ""
-
-#: $lang->'members'
-msgid "Members"
-msgstr ""
-
-#: $lang->'manage_your_account'
-msgid "Manage Your Account"
+msgid "Sifeeyaha Saxaafadda."
 msgstr ""
 
 #: $lang->'message'
-msgctxt "$lang->'message'"
-msgid "Message"
+msgid "Farriinta."
 msgstr ""
 
 #: $lang->'messages'
-msgid "Messages"
+msgid "Farriimaha."
 msgstr ""
 
 #: $lang->'message_details'
-msgid "Message Details"
-msgstr ""
-
-#: $lang->'message_non_numeric_source'
-msgid "Message from a non-numeric source:"
+msgid "Faahfaahin la xiriirta Farriinta."
 msgstr ""
 
 #: $lang->'mobile'
-msgid "Mobile"
+msgid "Mobile-ka"
 msgstr ""
 
 #: $lang->'modify'
-msgid "Modify"
+msgid "Dib u habee."
 msgstr ""
 
 #: $lang->'modify_date'
-msgid "Modify Date"
+msgid "Taariikhda dib u habeynta."
 msgstr ""
 
 #: $lang->'month'
-msgid "month"
+msgid "Bisha."
 msgstr ""
 
 #: $lang->'more'
-msgid "More"
-msgstr ""
-
-#: $lang->'more_information'
-msgid "More Information"
-msgstr ""
-
-#: $lang->'multi_country_instance'
-msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
-
-#: $lang->'must_confirm_email_address'
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
+msgid "Dheeraad."
 msgstr ""
 
 #: $lang->'name'
-msgid "Name"
+msgid "Magaca."
 msgstr ""
 
 #: $lang->'nearby_report'
-msgid "Nearby Report"
+msgid "Warbixinnada goobaha dhow."
 msgstr ""
 
 #: $lang->'new'
-msgid "New"
+msgid "Cusub."
 msgstr ""
 
 #: $lang->'news'
-msgid "News"
+msgid "Warka."
 msgstr ""
 
 #: $lang->'news_feeds'
-msgid "News Feeds"
+msgid "Jawaab-celinta Warka."
 msgstr ""
 
 #: $lang->'news_source'
-msgid "News Source"
+msgid "Isha Warka."
 msgstr ""
 
 #: $lang->'new_category'
-msgid "New Category"
+msgid "Qeyb Cusub."
 msgstr ""
 
 #: $lang->'new_password'
-msgid "New Password"
+msgid "Password Cusub."
 msgstr ""
 
 #: $lang->'new_report'
-msgid "New Report"
+msgid "Warbixin Cusub."
 msgstr ""
 
 #: $lang->'next'
-msgid "Next"
+msgid "Kan xiga."
 msgstr ""
 
 #: $lang->'no'
-msgid "No"
-msgstr ""
-
-#: $lang->'no_checkins'
-msgid "No checkins to display."
-msgstr ""
-
-#: $lang->'no_data'
-msgid "No data"
-msgstr ""
-
-#: $lang->'none'
-msgid "None"
+msgctxt "$lang->'no'"
+msgid "Maya."
 msgstr ""
 
 #: $lang->'notices'
-msgid "Notices"
+msgid "Ogeysiisyada."
 msgstr ""
 
 #: $lang->'not_approved'
 msgctxt "$lang->'not_approved'"
-msgid "Not Approved"
+msgid "Lama ansixin."
 msgstr ""
 
 #: $lang->'not_approved_singular'
 msgctxt "$lang->'not_approved_singular'"
-msgid "Not Approved"
-msgstr ""
-
-#: $lang->'not_selected'
-msgid "---Not Selected---"
+msgid "Lama ansixin."
 msgstr ""
 
 #: $lang->'not_spam'
-msgid "not spam"
+msgid "Maahan Spam (Farriimo aan loo baahnayn)."
 msgstr ""
 
 #: $lang->'not_specified'
-msgid "Not Specified"
-msgstr ""
-
-#: $lang->'no_reports'
-msgid "There are no reports"
+msgid "Lama Cayimin."
 msgstr ""
 
 #: $lang->'no_results'
-msgid "There are no results"
-msgstr ""
-
-#: $lang->'off'
-msgid "Off"
+msgid "Lama hayo wax natiijo ah."
 msgstr ""
 
 #: $lang->'official_news'
-msgid "Official &amp; mainstream news"
-msgstr ""
-
-#: $lang->'on'
-msgid "On"
+msgid "Rasmi &amp; Warka kiisa badan."
 msgstr ""
 
 #: $lang->'option'
-msgid "Option"
+msgid "khiyaar."
 msgstr ""
 
 #: $lang->'optional'
-msgid "Optional"
+msgid "Khiyaar ah."
 msgstr ""
 
 #: $lang->'options'
-msgid "Options"
+msgid "Khiyaarada."
 msgstr ""
 
 #: $lang->'organization'
-msgid "Organization"
+msgid "Ururka."
 msgstr ""
 
 #: $lang->'organizations'
-msgid "Organizations"
+msgid "Ururada."
 msgstr ""
 
 #: $lang->'organization_description'
-msgid "Organization Description"
+msgid "Qeexidda Ururka."
 msgstr ""
 
 #: $lang->'organization_email'
-msgid "Organization Email"
+msgid "Emailka Ururka."
 msgstr ""
 
 #: $lang->'organization_has_been'
-msgid "The Organization Has Been"
+msgid "Ururka waa."
 msgstr ""
 
 #: $lang->'organization_name'
-msgid "Organization Name"
+msgid "Magaca Ururka."
 msgstr ""
 
 #: $lang->'organization_phone_1'
-msgid "Organization Phone 1"
+msgid "Nambarka Koowaad ee Ururka."
 msgstr ""
 
 #: $lang->'organization_phone_2'
-msgid "Organization Phone 2"
+msgid "Nambarka Labaad ee Ururka."
 msgstr ""
 
 #: $lang->'organization_website'
-msgid "Organization Website"
+msgid "Bogga Ururka."
 msgstr ""
 
 #: $lang->'original'
-msgid "Original"
+msgid "Rasmi."
 msgstr ""
 
 #: $lang->'original_description'
-msgid "Original Description"
+msgid "Qeexidda Rasmiga ah."
 msgstr ""
 
 #: $lang->'original_title'
-msgid "Original Title"
+msgid "Ciwaanka Rasmiga ah."
 msgstr ""
 
 #: $lang->'other_ushahidi_instances'
-msgid "Other Deployments"
+msgid "Rakibitaanada kale ee Ushahidi."
 msgstr ""
 
 #: $lang->'outbox'
-msgid "Outbox"
+msgid "Outbox-ka "
 msgstr ""
 
 #: $lang->'outgoing'
-msgid "Outgoing"
+msgid "Baxaya."
 msgstr ""
 
 #: $lang->'page'
-msgid "Page"
+msgid "Bogga/Safxada."
 msgstr ""
 
 #: $lang->'pages'
-msgid "Pages"
+msgid "Bogagga/Safxooyinka."
 msgstr ""
 
 #: $lang->'page_description'
-msgid "Page Description"
+msgid "Qeexidda Bogga/Safxada."
 msgstr ""
 
 #: $lang->'page_has_been'
-msgid "The Page Has Been"
-msgstr ""
-
-#: $lang->'page_tab_name'
-msgid "Page Tab Name"
+msgid "Bogga waa."
 msgstr ""
 
 #: $lang->'page_title'
-msgid "Page Title"
+msgid "Ciwaanka Bogga."
 msgstr ""
 
 #: $lang->'parent_category'
-msgid "Parent Category"
+msgid "Qeybta Weyn."
 msgstr ""
 
 #: $lang->'password'
-msgid "Password"
+msgid "Password-ka."
 msgstr ""
 
 #: $lang->'password_again'
-msgid "Verify Password"
-msgstr ""
-
-#: $lang->'password_changed_successfully'
-msgid "Password changed successfully! Login below."
+msgid "Dib u qor Password-kaaga."
 msgstr ""
 
 #: $lang->'password_forgot'
-msgctxt "$lang->'password_forgot'"
-msgid "Forgot your password?"
+msgid "Miyaa ilowday Password-kaga?"
 msgstr ""
 
 #: $lang->'password_reset_confirm'
-msgid "Check your email for the new password."
+msgid "Ka fiirso emailkaaga password-kaaga cusub."
+msgstr ""
+
+#: $lang->'password_reset_prompt'
+msgid "Geli emailka aad u isticmaashey markaad isdiiwaan gelineysay."
 msgstr ""
 
 #: $lang->'password_save'
-msgid "Stay logged in on this computer?"
+msgid "Kusii jir Computer-kan."
 msgstr ""
 
 #: $lang->'past_month'
-msgid "Past Month"
+msgid "Bishii Hore."
 msgstr ""
 
 #: $lang->'past_year'
-msgid "Past Year"
+msgid "Sanadkii hore."
 msgstr ""
 
 #: $lang->'pending'
-msgid "Pending"
+msgid "Ilaa."
 msgstr ""
 
 #: $lang->'per'
-msgid "per"
+msgid "Midkiiba."
 msgstr ""
 
 #: $lang->'personal_information'
-msgid "Personal Information <span>Optional.</span>"
+msgid "Xogta Shaqsiyadeed <span>Optional.</span>."
 msgstr ""
 
 #: $lang->'phone'
-msgid "Phone"
-msgstr ""
-
-#: $lang->'photos'
-msgid "Photos"
+msgid "Telefoonka."
 msgstr ""
 
 #: $lang->'pictures'
-msgid "Pictures"
+msgid "Sawirrada."
 msgstr ""
 
 #: $lang->'pictures_and_videos'
-msgid "Pictures and Videos"
+msgid "Sawirrada iyo Fiidyowyada (Videos)."
 msgstr ""
 
 #: $lang->'pinpoint_location'
 msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
+"Raadi goobtaada adigoo isticmaalay wada shaqaysiinta xarriijimaha Latitude "
+"iyo longitude. (Habka: 38.19,-85.61), ama guji khariiradda si aad u "
+"tilmaantid goobta saxda ah."
 msgstr ""
 
 #: $lang->'play'
-msgid "Play"
+msgid "Daar."
 msgstr ""
 
 #: $lang->'please_note'
-msgid "Please Note"
-msgstr ""
-
-#: $lang->'plugins'
-msgid "Plugins"
-msgstr ""
-
-#: $lang->'plugin_url'
-msgid "Plugin Website"
-msgstr ""
-
-#: $lang->'public_profile'
-msgid "Public Profile"
-msgstr ""
-
-#: $lang->'public_profile_url'
-msgid "Public Profile URL"
+msgid "Fadlan la soco."
 msgstr ""
 
 #: $lang->'preview'
-msgid "Preview"
+msgid "Eeg."
 msgstr ""
 
 #: $lang->'preview_item'
-msgid "Preview Item"
+msgid "Eeg Xogta."
 msgstr ""
 
 #: $lang->'preview_message'
-msgid "Preview Message"
+msgid "Eeg Farriimaha."
 msgstr ""
 
 #: $lang->'previous'
-msgid "Previous"
-msgstr ""
-
-#: $lang->'private'
-msgid "Private"
-msgstr ""
-
-#: $lang->'profile_color'
-msgid "Profile Color"
+msgid "Hore."
 msgstr ""
 
 #: $lang->'profile_saved'
-msgid "Your Profile Has Been Saved"
+msgid "Profile-kaaga waa la keydiyey."
 msgstr ""
 
 #: $lang->'quick_stats'
-msgid "Quick Stats"
+msgid "Statistics Sahlan."
 msgstr ""
 
 #: $lang->'rating'
-msgid "Rating"
+msgid "Qiimeyn."
 msgstr ""
 
 #: $lang->'read'
-msgid "Read"
+msgid "Le�do"
 msgstr ""
 
 #: $lang->'receive'
-msgid "Receive"
+msgid "Hel"
 msgstr ""
 
 #: $lang->'receive_from'
-msgid "Receive from"
+msgid "Ka Hel."
 msgstr ""
 
 #: $lang->'receive_notifications'
-msgid "Receive Notifications"
+msgid "Hel ogaysiisyo."
 msgstr ""
 
 #: $lang->'recent_reports'
-msgid "Recent Reports"
+msgid "Warbixinnadii u dambeeyay."
 msgstr ""
 
 #: $lang->'refresh_news_feeds'
-msgid "Refresh News Feeds"
-msgstr ""
-
-#: $lang->'registered_email'
-msgid "Registered Email"
+msgid "Refresh ku samee jawaab-celinta warka."
 msgstr ""
 
 #: $lang->'remove'
-msgid "Remove"
+msgid "Ka saar."
 msgstr ""
 
 #: $lang->'reply'
-msgid "Reply"
+msgid "Ka jawaab."
 msgstr ""
 
 #: $lang->'report'
-msgid "Report"
-msgstr ""
-
-#: $lang->'reports_listed'
-msgid "Reports <span>(from the map, listed in chronological order)</span>"
+msgid "war bixi."
 msgstr ""
 
 #: $lang->'reporter'
-msgid "Reporter"
+msgid "Wariye."
 msgstr ""
 
 #: $lang->'reporters'
-msgid "Reporters"
+msgid "Wariyeyaasha."
 msgstr ""
 
 #: $lang->'reporter_date'
-msgid "Reporter Date"
+msgid "Taariikhda Wariyaha."
 msgstr ""
 
 #: $lang->'reporter_email'
-msgid "Reporter Email"
+msgid "Emailka Wariyaha."
 msgstr ""
 
 #: $lang->'reporter_first_name'
-msgid "Reporter First Name"
+msgid "Magaca hore ee wariyaha."
 msgstr ""
 
 #: $lang->'reporter_has_been'
-msgid "The Reporter Has Been"
+msgid "Wariyaha waa"
 msgstr ""
 
 #: $lang->'reporter_ip'
-msgid "Reporter IP Address"
+msgid "IP Address-ka wariyaha."
 msgstr ""
 
 #: $lang->'reporter_last_name'
-msgid "Reporter Last Name"
+msgid "Magaca dambe ee Wariyaha."
 msgstr ""
 
 #: $lang->'reporter_level'
-msgid "Reporter Level"
+msgid "Heerka Wariyaha."
 msgstr ""
 
 #: $lang->'reporter_levels'
-msgid "Reporter Levels"
+msgid "Heerarka Wariyaha."
 msgstr ""
 
 #: $lang->'reporter_phone'
-msgid "Reporter Phone"
+msgid "Telefoonka Wariyaha."
 msgstr ""
 
 #: $lang->'reports'
-msgid "Reports"
+msgid "Wararka."
 msgstr ""
 
 #: $lang->'reports_btn_browse'
-msgid "Browse"
+msgid "Daalaco."
 msgstr ""
 
 #: $lang->'reports_btn_submit'
-msgid "Submit"
-msgstr ""
-
-#: $lang->'reports_by_this_user'
-msgid "Reports By This User"
+msgid "Gudbi."
 msgstr ""
 
 #: $lang->'reports_categories'
-msgctxt "$lang->'reports_categories'"
-msgid "Categories"
+msgid "Qeybaha/Noocyada."
 msgstr ""
 
 #: $lang->'reports_date'
 msgctxt "$lang->'reports_date'"
-msgid "Date"
+msgid "Taariikhda."
 msgstr ""
 
 #: $lang->'reports_description'
-msgctxt "$lang->'reports_description'"
-msgid "Description"
+msgid "Qeexidda."
 msgstr ""
 
 #: $lang->'reports_download_csv'
-msgid "Reports will be downloaded in CSV format"
+msgid "Warbixinnada waxaa lagu rogayaa habka CSV-ga."
 msgstr ""
 
 #: $lang->'reports_email'
-msgctxt "$lang->'reports_email'"
-msgid "Email"
-msgstr ""
-
-#: $lang->'reports_features'
-msgid "Features"
+msgid "Emailka."
 msgstr ""
 
 #: $lang->'reports_find_location'
-msgid "Find a location near you"
+msgid "Hel goob kuu dhow."
 msgstr ""
 
 #: $lang->'reports_first'
-msgctxt "$lang->'reports_first'"
-msgid "First Name"
+msgid "Magaca Hore."
 msgstr ""
 
 #: $lang->'reports_last'
 msgctxt "$lang->'reports_last'"
-msgid "Last Name"
+msgid "Magaca Dambe."
 msgstr ""
 
 #: $lang->'reports_location_name'
-msgid "Refine Location Name"
+msgid "Sifee Magaca Goobta."
 msgstr ""
 
 #: $lang->'reports_news'
-msgid "News Source Link"
+msgid "Isha xigashada warka."
 msgstr ""
 
 #: $lang->'reports_optional'
-msgid "Optional Information"
+msgid "Xog khiyaar ah."
 msgstr ""
 
 #: $lang->'reports_photos'
-msgid "Upload Photos"
+msgid "Ku shub Computer-ka Sawirada."
 msgstr ""
 
 #: $lang->'reports_return'
-msgid "Return to the reports page"
+msgid "Ku noqo bogga warbixinnada."
 msgstr ""
 
 #: $lang->'reports_select_city'
-msgid "Select a City"
+msgid "Xulo Magaalo."
 msgstr ""
 
 #: $lang->'reports_submitted'
 msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
+"Warbixintaada waxaa loo gudbiyey shaqaalahayaga si ay dib ugu eegaan, waan "
+"kula soo xiriireynaa hadday lagama maarmaan noqoto."
 msgstr ""
 
 #: $lang->'reports_submit_new'
-msgid "Submit a New Report"
+msgid "Gudbi Warbixin Cusub."
 msgstr ""
 
 #: $lang->'reports_time'
 msgctxt "$lang->'reports_time'"
-msgid "Time"
+msgid "Waqtiga."
 msgstr ""
 
 #: $lang->'reports_timeline'
-msgid "Timeline"
+msgid "Isdaba joogga dhacdooyinka.                               "
 msgstr ""
 
 #: $lang->'reports_title'
-msgctxt "$lang->'reports_title'"
-msgid "Report Title"
+msgid "Cinwaanka Warbixinta."
 msgstr ""
 
 #: $lang->'reports_video'
-msgid "Video link"
+msgid "Link-ga Fiidyowga (Video Link)"
 msgstr ""
 
 #: $lang->'report_an_incident'
-msgid "Report an Incident"
+msgid "Ka warbixi dhacdo."
 msgstr ""
 
 #: $lang->'report_details'
-msgid "Report Details"
+msgid "Faahfaahinta Warbixinta."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_default'
 msgctxt "$lang->'report_edit_dropdown_1_default'"
-msgid "--- Select One ---"
+msgid "Xulo Mid."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_item_1'
-msgctxt "$lang->'report_edit_dropdown_1_item_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
+msgid "Haa, "
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_item_2'
-msgctxt "$lang->'report_edit_dropdown_1_item_2'"
-msgid "Yes, the source has access to information, but can be wrong."
+msgid ""
+"Haa, Isha xigashadu si toos ah ayey u heshaa xogta, balse khalad way noqon "
+"kartaa"
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_item_3'
-msgctxt "$lang->'report_edit_dropdown_1_item_3'"
 msgid ""
-"Yes, the source has no direct access to information, but is often right."
+"Haa, Isha xigashadu si toos ah ayey u heshaa xogta, balse badanaa waa sax"
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_item_4'
-msgctxt "$lang->'report_edit_dropdown_1_item_4'"
-msgid "Not always, but is often right."
+msgid "Maya Marwalba, balse inta badan waa sax."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_item_5'
 msgctxt "$lang->'report_edit_dropdown_1_item_5'"
-msgid "No, the source has (had) no access to information."
+msgid "Maya."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_item_6'
 msgctxt "$lang->'report_edit_dropdown_1_item_6'"
-msgid "I do not know."
+msgid "Ma garanayo."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_1_title'
-msgid "Source Reliability"
+msgid "Ku kalsoonaanta Isha laga soo xigtay."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_default'
 msgctxt "$lang->'report_edit_dropdown_2_default'"
-msgid "--- Select One ---"
+msgid "Xulo Mid."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_item_1'
-msgid "Yes, the information is confirmed by several independent sources."
+msgid "Haa, xogta waxaa xajiijiyey ilo dhowr ah oo madax banaan."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_item_2'
-msgid "Yes, the information is not confirmed (yet), but is likely."
+msgid "Haa xogta waa lama hubin.(weli), laakin run ayey u dhowdahay."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_item_3'
-msgid "Yes, the information makes sense."
+msgid "Haa, Xogtu waa macquul."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_item_4'
-msgid "No, the information is surprising."
+msgid "No, xogtu waa mid la yaab leh."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_item_5'
-msgid "No, the information is unlikely and may be disinformation."
+msgid "Maya, waxay u badan tahay ineysam xog  jirin ama been ah tahay."
 msgstr ""
 
 #: $lang->'report_edit_dropdown_2_item_6'
 msgctxt "$lang->'report_edit_dropdown_2_item_6'"
-msgid "I do not know."
-msgstr ""
-
-#: $lang->'report_edit_dropdown_2_title'
-msgid "Information Probability"
+msgid "Ma garanayo."
 msgstr ""
 
 #: $lang->'report_option_1'
-msgid "By sending a message to"
+msgid "Adigoo Farriin u dira."
 msgstr ""
 
 #: $lang->'report_option_2'
-msgid "By sending an email"
+msgid "Adigoo email u dira."
 msgstr ""
 
 #: $lang->'report_option_3'
-msgid "By sending a tweet with the hashtag/s"
+msgid "Adigoo la dira tweet hashtag-ga."
 msgstr ""
 
 #: $lang->'report_option_4'
-msgid "By filling this form on our website."
-msgstr ""
-
-#: $lang->'report_option_external_apps'
-msgid "By using an app"
+msgid "Adigoo buuxiya Form-kan."
 msgstr ""
 
 #: $lang->'report_saved'
-msgid "Your Report Has Been Saved"
+msgid "Warbixintaadii waa la kaydiyey."
 msgstr ""
 
 #: $lang->'report_title'
-msgctxt "$lang->'report_title'"
-msgid "Report Title"
+msgid "Ciwaanka Warbixinta."
 msgstr ""
 
 #: $lang->'request_information'
-msgid "Request more information"
+msgid "Codso xog dheeri ah."
 msgstr ""
 
 #: $lang->'request_location'
-msgid "Request location"
-msgstr ""
-
-#: $lang->'required'
-msgid "Required"
+msgid "Codso goob."
 msgstr ""
 
 #: $lang->'requirements'
-msgid "Requirements"
-msgstr ""
-
-#: $lang->'resend_confirm_email'
-msgid "Resend Confirmation Email"
-msgstr ""
-
-#: $lang->'reset'
-msgid "Reset"
-msgstr ""
-
-#: $lang->'reset_all_filters'
-msgid "Reset all filters"
+msgid "Waxyaabaha loo baahan yahay."
 msgstr ""
 
 #: $lang->'reset_password'
-msgid "Reset Password"
+msgid "Baddal Password-ka."
 msgstr ""
 
 #: $lang->'retrieve_city_names'
-msgid "Retrieve city names for the selected country"
-msgstr ""
-
-#: $lang->'riverid_information'
-msgid "Accounts managed by the %s service."
+msgid "Ka hel magaalada Wadamada la xulay."
 msgstr ""
 
 #: $lang->'role'
-msgid "Role"
+msgid "Doorka."
 msgstr ""
 
 #: $lang->'rss'
 msgid "RSS"
 msgstr ""
 
-#: $lang->'save'
-msgid "Save"
-msgstr ""
-
 #: $lang->'saved'
-msgid "Saved"
-msgstr ""
-
-#: $lang->'save_add_new'
-msgid "Save & Add New"
+msgid "La kaydiyey."
 msgstr ""
 
 #: $lang->'save_close'
-msgid "Save & Close"
+msgid "Kaydi Xirna."
 msgstr ""
 
 #: $lang->'save_report'
-msgid "Save Report"
+msgid "Keydi Warbixinta."
 msgstr ""
 
 #: $lang->'schedule'
-msgid "Schedule"
+msgid "Jadwalka."
 msgstr ""
 
 #: $lang->'scheduler'
-msgid "Scheduler"
+msgid "Jadwaleeyaha."
 msgstr ""
 
 #: $lang->'scheduler_day'
-msgid "Day"
+msgid "Maalinta."
 msgstr ""
 
 #: $lang->'scheduler_hour'
-msgid "Hour"
+msgid "Saacadda."
 msgstr ""
 
 #: $lang->'scheduler_log'
-msgid "Scheduler Log"
+msgid "Scheduler Log-ga"
 msgstr ""
 
 #: $lang->'scheduler_minute'
-msgid "Minute"
+msgid "Daqiiqadda."
 msgstr ""
 
 #: $lang->'scheduler_weekday'
-msgid "Day of the Week"
+msgid "Maalinta Todobaadka."
 msgstr ""
 
 #: $lang->'search'
-msgid "SEARCH"
+msgid "Raadi"
 msgstr ""
 
 #: $lang->'search_results'
-msgid "Search Results"
+msgid "Natiijada kasoo baxday Raadinta."
 msgstr ""
 
 #: $lang->'security_code'
-msgctxt "$lang->'security_code'"
-msgid "Security Code"
+msgid "Security Code-ka."
 msgstr ""
 
 #: $lang->'select_all'
-msgid "Select All"
+msgid "Xulo Dhammaan."
 msgstr ""
 
 #: $lang->'select_field_type'
-msgid "Select a Field Type"
+msgid "Xulo Nooca Goobta."
 msgstr ""
 
 #: $lang->'select_form_type'
-msgid "Select A Form Type"
+msgid "Xulo Nooca Form-ka"
 msgstr ""
 
 #: $lang->'select_in_map'
-msgid "Select in the map"
+msgid "Ka xulo khariiradda."
 msgstr ""
 
 #: $lang->'select_multiple'
-msgid "Select as many as needed"
+msgid "Xulo intaad rabto."
 msgstr ""
 
 #: $lang->'select_one'
-msgid "Please verify that you have checked an item"
+msgid "Fadlan xaqiiji inaad baartay xog."
 msgstr ""
 
 #: $lang->'select_theme'
-msgid "Select Theme"
+msgid "Xulo Theme-ka"
 msgstr ""
 
 #: $lang->'send'
-msgid "Send"
-msgstr ""
-
-#: $lang->'send_confirmation'
-msgid "Send Confirmation"
+msgid "Dir."
 msgstr ""
 
 #: $lang->'sending_to'
-msgid "Sending To"
+msgid "Loo dirayo."
 msgstr ""
 
 #: $lang->'sent'
-msgid "Sent"
+msgid "La diray."
 msgstr ""
 
 #: $lang->'sent_by'
-msgid "Sent by"
+msgid "Waxaa diray."
 msgstr ""
 
 #: $lang->'server_address'
-msgid "Server address"
+msgid "Address-ka Server-ka"
 msgstr ""
 
 #: $lang->'server_type'
-msgid "Server type"
+msgid "Server-ka Noociisa."
 msgstr ""
 
 #: $lang->'service'
-msgid "Service"
+msgid "Adeegga."
 msgstr ""
 
 #: $lang->'service_username'
-msgid "Service Username"
+msgid "Username-ka Adeegga."
 msgstr ""
 
 #: $lang->'service_user_id'
-msgid "Service User ID"
+msgid "User ID-ga Adeegga."
 msgstr ""
 
 #: $lang->'share'
-msgid "Share"
+msgid "Wadaag."
 msgstr ""
 
 #: $lang->'shared_data'
-msgid "Shared data"
+msgid "Xog la wadaagay."
 msgstr ""
 
 #: $lang->'share_has_been'
-msgid "The share has been"
+msgid "Wadaagitaankii waa"
 msgstr ""
 
 #: $lang->'sharing'
-msgid "Sharing"
+msgid "Wadaagid."
 msgstr ""
 
 #: $lang->'show'
-msgid "Show"
+msgid "Tus."
 msgstr ""
 
 #: $lang->'show_all'
-msgid "Show all"
-msgstr ""
-
-#: $lang->'show_messages'
-msgid "Show Messages"
-msgstr ""
-
-#: $lang->'showing_reports_from'
-msgid "Showing Reports From"
+msgid "Tus Kulli."
 msgstr ""
 
 #: $lang->'site'
-msgid "Website"
+msgid "Bogga."
 msgstr ""
 
 #: $lang->'site_email_address'
-msgid "site email address"
+msgid "Email-ka bogga."
 msgstr ""
 
 #: $lang->'site_url'
-msgid "Site URL"
+msgid "URl-ka bogga."
 msgstr ""
 
 #: $lang->'sms'
-msgid "SMS"
-msgstr ""
-
-#: $lang->'sorry_no_badges'
-msgid "Sorry, you do not have any badges."
+msgid "Farriimaha Gaagaaban (SMS)"
 msgstr ""
 
 #: $lang->'source'
-msgid "Source"
+msgid "Isha laga soo xigtay."
 msgstr ""
 
 #: $lang->'source_name'
-msgid "Source name"
+msgid "Magaca Isha laga soo xigtay."
 msgstr ""
 
 #: $lang->'source_url'
-msgid "Source URL"
+msgid "URL-ka isha laga soo xigtay."
 msgstr ""
 
 #: $lang->'spam'
-msgid "Spam"
+msgid "Spam (Farriimo aan loo baahnayn)"
 msgstr ""
 
 #: $lang->'ssl_support'
@@ -2094,48 +1700,43 @@ msgid "SSL Support?"
 msgstr ""
 
 #: $lang->'start_point'
-msgctxt "$lang->'start_point'"
-msgid "From"
+msgid "ka."
 msgstr ""
 
 #: $lang->'step'
-msgid "Step"
+msgid "Tilaabo."
 msgstr ""
 
 #: $lang->'submit'
-msgid "Submit a Report"
+msgid "Gudbi Warbixin."
 msgstr ""
 
 #: $lang->'submitted_by'
-msgid "Submitted By"
+msgid "Waxaa gudbiyey."
 msgstr ""
 
 #: $lang->'submit_sms'
-msgid "Submit via SMS"
+msgid "Waxaa lagu gudbiyey Aaladda Farriimaha gaagaaban (SMS)."
 msgstr ""
 
 #: $lang->'submit_sms1'
-msgid "Send your SMS to"
+msgid "U dir farriintaada gaaban ."
 msgstr ""
 
 #: $lang->'submit_sms2'
-msgid "on your phone"
+msgid "Telefoonkaaga."
 msgstr ""
 
 #: $lang->'success'
-msgid "Success!"
+msgid "Guul!."
 msgstr ""
 
 #: $lang->'successfuly_imported'
-msgid "Succesfully imported"
+msgid "Soo shubidda wa lagu guuleystay."
 msgstr ""
 
 #: $lang->'surname'
-msgid "Surname"
-msgstr ""
-
-#: $lang->'survey'
-msgid "新开线路"
+msgid "Magaca Awowga."
 msgstr ""
 
 #: $lang->'system'
@@ -2147,350 +1748,281 @@ msgid "TCP Port"
 msgstr ""
 
 #: $lang->'themes'
-msgid "Themes"
+msgid "Themes-ka."
 msgstr ""
 
 #: $lang->'theme_default'
-msgid "Default Ushahidi Theme"
+msgid "Ushahid Theme-ka caadiga ah."
 msgstr ""
 
 #: $lang->'theme_settings'
-msgid "Theme Settings"
+msgid "Theme Settings-ka."
 msgstr ""
 
 #: $lang->'this'
-msgid "This"
+msgid "Kan/Tan."
 msgstr ""
 
 #: $lang->'this_day'
 msgctxt "$lang->'this_day'"
-msgid "Today"
+msgid "Maanta."
 msgstr ""
 
 #: $lang->'this_month'
-msgid "This Month"
-msgstr ""
-
-#: $lang->'this_week'
-msgid "This Week"
+msgid "Bishan."
 msgstr ""
 
 #: $lang->'this_year'
-msgid "This Year"
-msgstr ""
-
-#: $lang->'this_is_your_profile'
-msgid "This is your profile."
-msgstr ""
-
-#: $lang->'through'
-msgid "through"
+msgid "Sanadkan."
 msgstr ""
 
 #: $lang->'time'
 msgctxt "$lang->'time'"
-msgid "Time"
+msgid "Waqtiga."
 msgstr ""
 
 #: $lang->'title'
-msgid "Title "
+msgid "Cinwaanka."
 msgstr ""
 
 #: $lang->'to'
 msgctxt "$lang->'to'"
-msgid "to"
+msgid "Ku."
 msgstr ""
 
 #: $lang->'today'
 msgctxt "$lang->'today'"
-msgid "Today"
+msgid "Maanta."
 msgstr ""
 
 #: $lang->'today_at'
-msgid "Today at"
-msgstr ""
-
-#: $lang->'token'
-msgid "Token"
+msgid "Maanta markay ahayd."
 msgstr ""
 
 #: $lang->'total_reports'
-msgid "Total Reports"
+msgid "Warbixannada dhan."
 msgstr ""
 
 #: $lang->'translated'
-msgid "Translated"
+msgid "La turjumay."
 msgstr ""
 
 #: $lang->'translated_description'
-msgid "Translated Description"
+msgid "Faalla bixinta la turjumay."
 msgstr ""
 
 #: $lang->'translated_title'
-msgid "Translated Title"
+msgid "Ciwaan la turjumay."
 msgstr ""
 
 #: $lang->'translate_to'
-msgid "Translate to"
+msgid "U turjun"
 msgstr ""
 
 #: $lang->'translation'
-msgid "Translation"
+msgid "Turjumaad."
 msgstr ""
 
 #: $lang->'translation_saved'
-msgid "Translation has been saved"
+msgid "Turjumaadda waa la keydiyey."
 msgstr ""
 
 #: $lang->'trustworthiness'
-msgid "Trustworthiness"
+msgid "Inta la aamini karo."
 msgstr ""
 
 #: $lang->'trustworthiness_option_1'
-msgctxt "$lang->'trustworthiness_option_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
+msgid ""
+"Yes, the source has direct access to information, (goob jooge ama ficilka "
+"qof sameeya)"
 msgstr ""
 
 #: $lang->'trustworthiness_option_2'
-msgctxt "$lang->'trustworthiness_option_2'"
-msgid "Yes, the source has access to information, but can be wrong."
+msgid ""
+"Haa, Isha xigashadu si toos ah ayey u heshaa xogta, balse khalad way noqon "
+"kartaa."
 msgstr ""
 
 #: $lang->'trustworthiness_option_3'
-msgctxt "$lang->'trustworthiness_option_3'"
 msgid ""
-"Yes, the source has no direct access to information, but is often right."
+"Haa, Isha xigashadu si toos ah ayey u heshaa xogta, balse badanaa waa sax."
 msgstr ""
 
 #: $lang->'trustworthiness_option_4'
-msgctxt "$lang->'trustworthiness_option_4'"
-msgid "Not always, but is often right."
+msgid "Badanaa Maya.laakin mararka qaar waa sax."
 msgstr ""
 
 #: $lang->'trustworthiness_option_5'
-msgctxt "$lang->'trustworthiness_option_5'"
-msgid "No, the source has (had) no access to information."
-msgstr ""
-
-#: $lang->'type'
-msgid "Type"
+msgid "Maya,isha laga soo xigtay ma helin wax xog ah."
 msgstr ""
 
 #: $lang->'twitter'
-msgid "Twitter"
-msgstr ""
-
-#: $lang->'unable_send_email'
-msgid "Unable to send email."
-msgstr ""
-
-#: $lang->'uncategorized_reports'
-msgid "Uncategorized Reports"
+msgid "Twitter."
 msgstr ""
 
 #: $lang->'unread'
-msgid "unread"
+msgid "Aan la akhrin."
 msgstr ""
 
 #: $lang->'unverified'
-msgid "Unverified"
+msgid "Aan la xaqiijin."
 msgstr ""
 
 #: $lang->'update_feeds'
-msgid "Update feeds"
+msgid "Cusbooneysii jawaab-gelinta."
 msgstr ""
 
 #: $lang->'upload'
-msgid "Upload"
+msgid "Gudbi xogta."
 msgstr ""
 
 #: $lang->'upload_file'
-msgid "File to upload"
+msgid "File xogtiisa la gudbinayo."
 msgstr ""
 
 #: $lang->'upload_reports'
-msgid "Upload Reports"
+msgid "Gudbi Xogta Warbixinnada."
 msgstr ""
 
 #: $lang->'upload_reports_detail_1'
-msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgid ""
+"Form-ka hoose adigoo isticmaalay, waa ku shubi kartaa Ushahid engine "
+"dhacdooyinka."
 msgstr ""
 
 #: $lang->'upload_reports_detail_2'
-msgid "Reports must be upladed in CSV format."
+msgid "Warbixinnada xogtooda waa in loo gudbiyaa hab CSV ah."
 msgstr ""
 
 #: $lang->'upload_reports_detail_3'
 msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
+"Hadduu horey keydka xogta (database)ugu jirey ID-ga dhacdada, waa la "
+"diidayaa in la galiyo file CSV ah."
 msgstr ""
 
 #: $lang->'upload_reports_detail_4'
-msgid "It must contain at least Incident Title and Incident Date."
-msgstr ""
-
-#: $lang->'upload_reports_detail_4b'
 msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
+"Waa iney lahaataa ugu yaraan Cinwaanka Dhacdada iyo Taariikhda Dhacdada."
 msgstr ""
 
 #: $lang->'upload_reports_detail_5'
-msgid "A Sample CSV Report"
+msgid "Tusaale yar u ah warbixinta CSV."
 msgstr ""
 
 #: $lang->'upload_reports_detail_6'
 msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
-"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
-"\",YES,YES,\"-1.287\",\"36.821\""
+"CIWAANKA DHACDADA. TAARIIKHDA DHACDADA.QEEXIDDA GOOBTA.NOOCA,LA ANSIXIYEY,LA "
+"XAQIIJIYEY <br />\"1\",\"Dhimasho laga shaki qabo iney ka dhacdya "
+"Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\" Saddex dhacdo ayaa laga soo "
+"xaqiijiyey C.del Uruguay\".\"DHIMASHO,RAYYID, \",HAA,HAA."
 msgstr ""
 
 #: $lang->'upload_reports_detail_7'
 msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+"\"2\",\"Bililiqeysi\"2009-03-18 10:10:00\",\"Accra\", Meel kasta waxaa ka soconaya "
+"bililiqeysi\" RABSHADO,DIMASHOM,HANTI BURBURIN, \"HAA,MAYA."
 msgstr ""
 
 #: $lang->'upload_successful'
-msgid "Upload Successful"
-msgstr ""
-
-#: $lang->'upload_video'
-msgid "Upload Video"
-msgstr ""
-
-#: $lang->'url'
-msgid "URL"
+msgid "Waa lagu guuleystay Xog Gudbinta."
 msgstr ""
 
 #: $lang->'user'
-msgid "User"
+msgid "Isticmaalaha."
 msgstr ""
 
 #: $lang->'username'
-msgid "Username"
+msgid "Username-ka."
 msgstr ""
 
 #: $lang->'ushahidi_admin'
-msgid "Ushahidi Admin"
-msgstr ""
-
-#: $lang->'verification'
-msgid "Verification"
+msgid "Admin-ka Ushahidi."
 msgstr ""
 
 #: $lang->'verified'
-msgid "Verified"
+msgid "La xaqiijiyey."
 msgstr ""
 
 #: $lang->'verified_reports'
-msgid "Verified Reports"
+msgid "Warbixinno xaqiijiyey."
 msgstr ""
 
 #: $lang->'verify'
-msgid "Verify"
+msgid "Xaqiiji."
 msgstr ""
 
 #: $lang->'verify_this_report'
-msgid "Verify this Report"
+msgid "Xaqiiji warbixintan."
 msgstr ""
 
 #: $lang->'version'
-msgid "Version"
+msgid "Nooc kale."
 msgstr ""
 
 #: $lang->'via'
-msgid "via"
+msgid "Sii marin."
 msgstr ""
 
 #: $lang->'video'
-msgid "Video"
+msgid "Fiidyow (Video)."
 msgstr ""
 
 #: $lang->'view'
-msgid "View"
+msgid "Aragti."
 msgstr ""
 
 #: $lang->'views'
-msgid "Views"
+msgid "Aragtiyada."
 msgstr ""
 
 #: $lang->'view_all'
-msgid "View All"
+msgid "Arag dhammaan."
 msgstr ""
 
 #: $lang->'view_all_feeds'
-msgid "View all feeds"
+msgid "Arag dhammaan jawaab-celinta."
 msgstr ""
 
 #: $lang->'view_all_reports'
-msgid "View all reports"
+msgid "Arag dhammaan warbixinnada."
 msgstr ""
 
 #: $lang->'view_items'
-msgid "View Items"
+msgid "Arag xogaha."
 msgstr ""
 
 #: $lang->'view_more'
-msgid "View More"
-msgstr ""
-
-#: $lang->'view_public_profile'
-msgid "View Public Profile"
+msgid "Arag kuwo dheeraad ah."
 msgstr ""
 
 #: $lang->'view_report'
-msgid "View Report"
+msgid "Arag warbixin."
 msgstr ""
 
 #: $lang->'view_reports'
-msgid "View Reports"
+msgid "Arag warbixinnada."
 msgstr ""
 
 #: $lang->'visible'
-msgid "Visible"
+msgid "Muuqda."
 msgstr ""
 
 #: $lang->'waiting_approval'
-msgid "Waiting Approval"
+msgid "Wuxuu sugayaa ansixin."
 msgstr ""
 
 #: $lang->'waiting_verification'
-msgid "Waiting Verification"
-msgstr ""
-
-#: $lang->'web_form'
-msgid "Web Form"
+msgid "Wuxuu sugayaa xaqiijin."
 msgstr ""
 
 #: $lang->'weight'
-msgid "Weight"
+msgid "Culeyska."
 msgstr ""
 
 #: $lang->'yes'
-msgid "Yes"
+msgid "Haa."
 msgstr ""
 
 #: $lang->'yesterday'
-msgid "Yesterday"
-msgstr ""
-
-#: $lang->'your_dashboard'
-msgid "Your Dashboard"
-msgstr ""
-
-#: $lang->'your_file'
-msgid "Your file"
-msgstr ""
-
-#: $lang->'zoom_in'
-msgid "Zoom In"
-msgstr ""
-
-#: $lang->'zoom_out'
-msgid "Zoom Out"
+msgid "Shalay."
 msgstr ""

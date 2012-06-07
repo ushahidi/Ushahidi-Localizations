@@ -1,9 +1,9 @@
-#. extracted from en_US/auth.php
+#. extracted from so/auth.php, en_US/auth.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:55+0000\n"
+"POT-Creation-Date: 2012-06-07 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,191 +14,119 @@ msgstr ""
 
 #: 'email'->'email'
 msgctxt "'email'->'email'"
-msgid "The email you entered is not a valid email address."
+msgid "Emailkaad gelisay sax ma aha"
 msgstr ""
 
 #: 'email'->'exists'
-msgid "Sorry, a user account already exists for this email address."
+msgid "Waan ka xunnahay, Emailkan horay ayaa account loogu sameeyay"
 msgstr ""
 
 #: 'email'->'length'
-msgid "The email field must be at least 4 and no more 64 characters long."
+msgid ""
+"Emailkaagu waa inuu ka kooban yahay ugu yaraan afar xaraf, ugu badnaanna 64 "
+"xaraf"
 msgstr ""
 
 #: 'email'->'required'
-msgctxt "'email'->'required'"
-msgid "The email field is required."
+msgid "Email waa lagama maarmaan"
 msgstr ""
 
 #: 'name'->'length'
-msgid "The name field must be at least 3 and no more 100 characters long."
+msgid ""
+"Magaca oo dhamaystiran waa inuu ka kooban yahay ugu yaraan saddex xaraf, ugu "
+"badnaanna 100 xaraf"
 msgstr ""
 
 #: 'name'->'required'
-msgid "The name field is required."
+msgid "Magaca oo dhamaystiran ayaa loo baahan yahay"
 msgstr ""
 
 #: 'name'->'standard_text'
-msgid "The username field contains disallowed characters."
+msgid "Magacaaga (Username) waxaa ku jira xuruuf aan la oggolayn"
 msgstr ""
 
-#: 'current_password'->'length'
-msgctxt "'current_password'->'length'"
-msgid "The password field must be at least 8 characters long."
-msgstr ""
-
-#: %27current_password%27-%3E%27login+error%27
-msgctxt "'current_password'->'login error'"
-msgid "Please check that you entered the correct email and password."
-msgstr ""
-
-#: 'current_password'->'matches'
-msgctxt "'current_password'->'matches'"
-msgid "Please enter the same password in the two password fields."
-msgstr ""
-
-#: 'current_password'->'required'
-msgctxt "'current_password'->'required'"
-msgid "The password field is required."
-msgstr ""
-
-#: 'current_password'->'alpha_dash'
-msgctxt "'current_password'->'alpha_dash'"
-msgid ""
-"The password field must have alphabetical characters, the # and @ symbols, "
-"numbers, underscores and dashes only"
-msgstr ""
-
-#: 'current_password'->'incorrect'
-msgid ""
-"The current password you entered for your account is incorrect. Please try "
-"again."
-msgstr ""
-
-#: 'new_password'->'length'
-msgctxt "'new_password'->'length'"
-msgid "The password field must be at least 8 characters long."
-msgstr ""
-
-#: %27new_password%27-%3E%27login+error%27
-msgctxt "'new_password'->'login error'"
-msgid "Please check that you entered the correct email and password."
-msgstr ""
-
-#: 'new_password'->'matches'
-msgctxt "'new_password'->'matches'"
-msgid "Please enter the same password in the two password fields."
-msgstr ""
-
-#: 'new_password'->'required'
-msgctxt "'new_password'->'required'"
-msgid "The password field is required."
-msgstr ""
-
-#: 'new_password'->'alpha_dash'
-msgctxt "'new_password'->'alpha_dash'"
-msgid ""
-"The password field must have alphabetical characters, the # and @ symbols, "
-"numbers, underscores and dashes only"
-msgstr ""
-
-#: 'password'->'default'
-msgid "There has been an error attempting to log you in."
+#: 'password'->'alpha_numeric'
+msgid "Password-ku waa inuu ka koobnaadaa tiro iyo xuruuf keliya"
 msgstr ""
 
 #: 'password'->'length'
-msgctxt "'password'->'length'"
-msgid "The password field must be at least 8 characters long."
-msgstr ""
-
-#: %27password%27-%3E%27login+error%27
-msgctxt "'password'->'login error'"
-msgid "Please check that you entered the correct email and password."
+msgid "Waa inuu password-ku yahay ugu yaraan 5 xaraf, ugu badnaanna 16 xaraf"
 msgstr ""
 
 #: 'password'->'matches'
-msgctxt "'password'->'matches'"
-msgid "Please enter the same password in the two password fields."
+msgid "Fadlan geli Password isku mida labada god ee loogu talagalay passwordka"
 msgstr ""
 
 #: 'password'->'required'
-msgctxt "'password'->'required'"
-msgid "The password field is required."
+msgid "Password ayaa loo baahan yahay"
 msgstr ""
 
-#: %27password%27-%3E%27riverid+server+down%27
-msgid "The authentication server is down. Please try again later."
-msgstr ""
-
-#: 'password'->'alpha_dash'
-msgctxt "'password'->'alpha_dash'"
-msgid ""
-"The password field must have alphabetical characters, the # and @ symbols, "
-"numbers, underscores and dashes only"
+#: 'password'->'standard_text'
+msgctxt "'password'->'standard_text'"
+msgid "so_SO: "
 msgstr ""
 
 #: 'password_confirm'->'matches'
-msgid "The password confirmation field must match the password field."
+msgid "Waa inay password-yadu is leeyihiin"
 msgstr ""
 
 #: 'resetemail'->'email'
 msgctxt "'resetemail'->'email'"
-msgid "The email you entered is not a valid email address."
+msgid "Emailkaad gelisay sax ma aha"
 msgstr ""
 
 #: 'resetemail'->'invalid'
-msgid "Sorry, we don't have your email address"
+msgid "Waan ka xunnahay, ma hayno Emailkaaga"
 msgstr ""
 
 #: 'resetemail'->'required'
-msgctxt "'resetemail'->'required'"
-msgid "The email field is required."
-msgstr ""
-
-#: 'role'->'superadmin_modify'
-msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
+msgid "Email ayaa loo baahan yahay"
 msgstr ""
 
 #: 'roles'->'alpha_numeric'
-msgid "Invalid role format."
+msgid "Hannaanka xuruuftu sax ma aha"
 msgstr ""
 
 #: 'roles'->'length'
-msgid "The role field must be at least 5 and no more than 30 characters long."
+msgid ""
+"Xuruuftu waa inay ka kooban tahay ugu yaraan 5 xaraf ugu badnaanna 30 xaraf"
 msgstr ""
 
 #: 'roles'->'required'
-msgid "You must define at least one role."
+msgid "Waa inaad qeexdaa ugu yaraan hal heer"
 msgstr ""
 
 #: 'roles'->'values'
-msgid "You must select either ADMIN or USER role."
+msgid "Waa inaad doorataa heerka ADMIN amaba heerka USER"
 msgstr ""
 
 #: 'username'->'admin'
-msgid "The admin user role cannot be modified."
+msgid "Heerka User ADMIN-ka waxba lagama beddeli karo"
 msgstr ""
 
-#: 'username'->'alpha_numeric'
-msgid "The username field must only contain numbers and letters."
+#: 'username'->'alpha'
+msgid "Magaca Username-ku waa inuu ka koobnaadaa xarfo keliya"
 msgstr ""
 
 #: 'username'->'exists'
-msgid "Sorry, this username is already in use."
+msgid "waan ka xunnahay, magaca Username-kan horay ayaa loo qaatay"
 msgstr ""
 
 #: 'username'->'length'
-msgid "The username field must be at least 2 and no more 100 characters long."
-msgstr ""
-
-#: %27username%27-%3E%27login+error%27
-msgid "Please check that you entered the correct username."
+msgid ""
+"Magaca Username-ku waa inuu ka kooban yahay ugu yaraan 2 xaraf ugu badnaanna "
+"16 xaraf"
 msgstr ""
 
 #: 'username'->'required'
-msgid "The username field is required."
+msgid "Username ayaa loo baahan yahay"
+msgstr ""
+
+#: 'username'->'standard_text'
+msgctxt "'username'->'standard_text'"
+msgid "so_SO: "
 msgstr ""
 
 #: 'username'->'superadmin'
-msgid "The super admin role cannot be modified."
+msgid "Heerka super admin role waxba lagama beddeli karo"
 msgstr ""

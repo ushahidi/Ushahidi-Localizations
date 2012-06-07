@@ -1,9 +1,9 @@
-#. extracted from en_US/ui_admin.php
+#. extracted from so/ui_admin.php, en_US/ui_admin.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:55+0000\n"
+"POT-Creation-Date: 2012-06-07 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,35 +14,26 @@ msgstr ""
 
 #: $lang->'access_denied_credentials'
 msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+"Wuu geli waayay. Cadaymahaaga ayaanan sax ahayn ama dalabkaaga ayaa la "
+"diiday."
 msgstr ""
 
 #: $lang->'access_denied_others'
 msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
-msgstr ""
-
-#: $lang->'access_level'
-msgid "Access Level"
+"Wuu geli waayay. Waa la fahmay dalabkaaga, balse waa la diiday. Fadlan dib "
+"ugu soo noqo."
 msgstr ""
 
 #: $lang->'actions'
-msgctxt "$lang->'actions'"
-msgid "Actions"
-msgstr ""
-
-#: $lang->'add_to_category'
-msgid "Add to Category"
+msgid "Ficiladda"
 msgstr ""
 
 #: $lang->'added'
-msgid "added"
+msgid "Waa lagu daray"
 msgstr ""
 
 #: $lang->'added_edited'
-msgid "added/edited"
+msgid "Waa lagu daray/wax baa laga bedelay"
 msgstr ""
 
 #: $lang->'addons'
@@ -53,14 +44,6 @@ msgstr ""
 msgid "Admin"
 msgstr ""
 
-#: $lang->'alerts'
-msgid "Alerts"
-msgstr ""
-
-#: $lang->'alerts_received'
-msgid "Alerts Received"
-msgstr ""
-
 #: $lang->'am'
 msgid "AM"
 msgstr ""
@@ -69,36 +52,28 @@ msgstr ""
 msgid "Anonymous"
 msgstr ""
 
-#: $lang->'anyone_role'
-msgid "Anyone"
-msgstr ""
-
-#: $lang->'anywhere'
-msgid "Anywhere"
-msgstr ""
-
 #: $lang->'api_banned'
-msgid "API Banned"
+msgid "API waa la mamnuucay"
 msgstr ""
 
 #: $lang->'api_logs'
-msgid "API Logs"
+msgid "Gelitaanka API"
 msgstr ""
 
 #: $lang->'api_settings'
-msgid "API Settings"
+msgid "Hagaajinta API"
 msgstr ""
 
 #: $lang->'api_unban'
-msgid "UNBAN"
+msgid "Ka qaad mamnuucidda"
 msgstr ""
 
 #: $lang->'api_unban_all'
-msgid "UNBAN ALL"
+msgid "Ka qaad mamnuucidda dhamaantood"
 msgstr ""
 
 #: $lang->'approved'
-msgid "approved"
+msgid "Waa la ogolaaday"
 msgstr ""
 
 #: $lang->'approve_auto'
@@ -106,67 +81,27 @@ msgid "Auto Approve"
 msgstr ""
 
 #: $lang->'approve_manual'
-msgid "Manually Approve"
+msgid "Manually Approve\r\n"
 msgstr ""
 
 #: $lang->'archived'
-msgid "Archived"
-msgstr ""
-
-#: $lang->'are_you_sure_you_want_to'
-msgid "Are you sure you want to"
-msgstr ""
-
-#: $lang->'are_you_sure_you_want_to_delete_this_item'
-msgid "Are you sure you want to delete this item?"
-msgstr ""
-
-#: $lang->'are_you_sure_you_want_to_delete_this_photo'
-msgid "Are you sure you want to delete this photo?"
-msgstr ""
-
-#: $lang->'are_you_sure_you_want_to_switch_forms'
-msgid "Are you sure you want to switch forms?"
-msgstr ""
-
-#: $lang->'assign'
-msgid "Assign"
-msgstr ""
-
-#: $lang->'assignments'
-msgid "Assignments"
-msgstr ""
-
-#: $lang->'assign_badge'
-msgid "Assign Badge"
+msgid "Waa la keydiyay"
 msgstr ""
 
 #: $lang->'author'
-msgid "Author"
+msgid "Qoraa"
 msgstr ""
 
 #: $lang->'author_email'
-msgid "Author email"
+msgid "Emailka qoraaga"
 msgstr ""
 
 #: $lang->'back'
-msgid "Back"
+msgid "Dib"
 msgstr ""
 
 #: $lang->'banip_action'
-msgid "Ban IP"
-msgstr ""
-
-#: $lang->'between_times'
-msgid "Between Times"
-msgstr ""
-
-#: $lang->'blocks'
-msgid "Blocks"
-msgstr ""
-
-#: $lang->'body'
-msgid "Body"
+msgid "Mamnuuc IP-ga"
 msgstr ""
 
 #: $lang->'cancel'
@@ -174,100 +109,67 @@ msgid "Cancel"
 msgstr ""
 
 #: $lang->'categories'
-msgid "Categories"
+msgid "Categoriyada"
 msgstr ""
 
 #: $lang->'chart_display_error'
-msgid "Error displaying chart"
+msgid "Jadwal soo bandhiga cilladaha."
 msgstr ""
 
 #: $lang->'check_message_valid'
-msgid "Please make sure your message is valid."
+msgid "Fadlan iska xaqiiji in farriintaadu saxan tahay."
 msgstr ""
 
 #: $lang->'check_number'
-msgid "Please make sure the number is valid."
+msgid "Fadlan iska xaqiiji in nambarku saxan yahay."
 msgstr ""
 
 #: $lang->'check_sms_settings'
-msgid "Please check your SMS settings!"
-msgstr ""
-
-#: $lang->'checkin_details'
-msgid "Checkin Details"
-msgstr ""
-
-#: $lang->'checkins'
-msgid "Checkins"
+msgid "Fadlan iska hubi setting-ka fariimaha!"
 msgstr ""
 
 #: $lang->'cities_loaded'
-msgid "Cities loaded"
+msgid "Magaalooyinka w"
 msgstr ""
 
 #: $lang->'code'
-msgid "code"
+msgid "Fure"
 msgstr ""
 
 #: $lang->'code_out_of_sync'
-msgid "Code version out of sync."
-msgstr ""
-
-#: $lang->'color'
-msgid "Color"
+msgid " Code version out of sync."
 msgstr ""
 
 #: $lang->'comments'
-msgid "Comments"
+msgid "Fikradaha"
 msgstr ""
 
 #: $lang->'confirmation_code'
-msgid "Your alerts confirmation code is: "
+msgid "Furahaaga xaqiijinta ee farriimaha waa:"
 msgstr ""
 
 #: $lang->'confirm_msg'
-msgid "The User Has Been"
-msgstr ""
-
-#: $lang->'count'
-msgid "Count"
+msgid "Isticmaalaha waa"
 msgstr ""
 
 #: $lang->'country_not_found'
-msgid "Country Not Found"
+msgid "Wadanka waa la heli waayay"
 msgstr ""
 
 #: $lang->'created_edited'
-msgid "created/edited"
+msgid "La sameeyay/wax laga bedelay"
 msgstr ""
 
 #: $lang->'create_report'
-msgid "Create a Report"
+msgid "Samee warbixin"
 msgstr ""
 
 #: $lang->'critical_upgrade'
-msgid "Critical Upgrade"
-msgstr ""
-
-#: $lang->'csv'
-msgid "CSV"
-msgstr ""
-
-#: $lang->'currently_active'
-msgid "Currently Active"
-msgstr ""
-
-#: $lang->'currently_inactive'
-msgid "Currently Inactive"
-msgstr ""
-
-#: $lang->'custom_forms_insufficient_permissions'
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "Casriyeen muhiim ah"
 msgstr ""
 
 #: $lang->'daily'
-msgid "Daily"
+msgid "Maalinle"
 msgstr ""
 
 #: $lang->'dashboard'
@@ -275,15 +177,11 @@ msgid "Dashboard"
 msgstr ""
 
 #: $lang->'database'
-msgid "database"
+msgid "Keydka Xogta"
 msgstr ""
 
 #: $lang->'date_time'
-msgid "Date & Time"
-msgstr ""
-
-#: $lang->'days_of_the_week'
-msgid "Days of the week"
+msgid "Taariikhda & Waqtiga"
 msgstr ""
 
 #: $lang->'db_out_of_sync'
@@ -291,19 +189,15 @@ msgid "DB version out of sync."
 msgstr ""
 
 #: $lang->'deleted'
-msgid "deleted"
+msgid "Waa la tiray"
 msgstr ""
 
 #: $lang->'delete_action'
-msgid "Delete"
+msgid "Tir"
 msgstr ""
 
 #: $lang->'delete_all'
-msgid "Delete All"
-msgstr ""
-
-#: $lang->'delete_badge'
-msgid "Delete Badge"
+msgid "Dhamaan tir"
 msgstr ""
 
 #: $lang->'demo'
@@ -311,47 +205,23 @@ msgid "Demo"
 msgstr ""
 
 #: $lang->'description'
-msgid "Description"
-msgstr ""
-
-#: $lang->'disabled'
-msgid "Disabled"
-msgstr ""
-
-#: $lang->'divider_start_field'
-msgid "Divider Start"
-msgstr ""
-
-#: $lang->'divider_end_field'
-msgid "Divider End"
-msgstr ""
-
-#: $lang->'divider_class'
-msgid "div class"
+msgid "Sharraxaad"
 msgstr ""
 
 #: $lang->'download_reports'
-msgid "Download Reports"
-msgstr ""
-
-#: $lang->'dropdown_choices'
-msgid "Dropdown Choices"
-msgstr ""
-
-#: $lang->'edited'
-msgid "EDITED"
+msgid "Soo dejiso warbixinnada"
 msgstr ""
 
 #: $lang->'edited_by'
-msgid "Edited By"
+msgid "Waxaa wax ka bedelay"
 msgstr ""
 
 #: $lang->'edit_action'
-msgid "Edit"
+msgid "Wax ka bedel"
 msgstr ""
 
 #: $lang->'edit_log'
-msgid "Edit Log"
+msgid "Wax ka bedelin Log-ga"
 msgstr ""
 
 #: $lang->'email'
@@ -359,125 +229,72 @@ msgctxt "$lang->'email'"
 msgid "Email"
 msgstr ""
 
-#: $lang->'entire_collective'
-msgid "Entire Collective"
-msgstr ""
-
 #: $lang->'error_geocoding'
-msgid "Error in geocoding! HTTP error"
+msgid "Cillad dhanka geocoding-ka ayaa soo ifbaxday! Cillad HTTP"
 msgstr ""
 
 #: $lang->'error_imap'
-msgid "IMAP PHP Library is not installed"
+msgid "Keydka xogta ee IMAP PHP kuma rakibna computerkaaga."
 msgstr ""
 
 #: $lang->'error_msg'
-msgid "Error"
+msgid "Cillad"
 msgstr ""
 
 #: $lang->'error_post_incident'
-msgid "Error, unable to post incident"
+msgid "Cillad: Ma awoodo inuu daabaco dhacdo"
 msgstr ""
 
 #: $lang->'every_six_hours'
-msgid "Every Six Hours"
+msgid "Lix saac kasto"
 msgstr ""
 
 #: $lang->'every_twelve_hours'
-msgid "Every Twelve Hours"
-msgstr ""
-
-#: $lang->'experimental'
-msgid "Experimental"
+msgid "12 saac kasto"
 msgstr ""
 
 #: $lang->'faqs'
-msgid "FAQ's"
+msgid "Su'aalaha badanaaba la isweydiiyo"
 msgstr ""
 
 #: $lang->'feed'
-msgid "feed"
+msgid "Feed"
 msgstr ""
 
 #: $lang->'feedback'
-msgid "Feedback"
+msgid "Natiijo"
 msgstr ""
 
 #: $lang->'feeds'
-msgid "feeds"
-msgstr ""
-
-#: $lang->'field_choices'
-msgid "List of Choices"
+msgid "Feeds"
 msgstr ""
 
 #: $lang->'field_default'
-msgid "Default Value"
-msgstr ""
-
-#: $lang->'field_datatype'
-msgid "Data Type"
-msgstr ""
-
-#: $lang->'field_datatype_javascript'
-msgid "Javascript"
-msgstr ""
-
-#: $lang->'field_datatype_markup'
-msgid "Markup"
-msgstr ""
-
-#: $lang->'field_datatype_numeric'
-msgid "Numeric"
-msgstr ""
-
-#: $lang->'field_datatype_text'
-msgid "Free Text"
+msgid "Qiimaha caadiga ah (default)"
 msgstr ""
 
 #: $lang->'field_height'
-msgid "Height (In Rows)"
-msgstr ""
-
-#: $lang->'field_hidden'
-msgid "Hidden Field"
+msgid "Dhererka (safafka)"
 msgstr ""
 
 #: $lang->'field_maxlength'
-msgid "Maximum Character Length"
+msgid "Dhererka ugu badan ee xarfaha"
 msgstr ""
 
 #: $lang->'field_name'
-msgid "Field Name"
-msgstr ""
-
-#: $lang->'field_toggle'
-msgid "Toggle"
-msgstr ""
-
-#: $lang->'field_toggle_no'
-msgctxt "$lang->'field_toggle_no'"
-msgid "No"
-msgstr ""
-
-#: $lang->'field_toggle_yes_close'
-msgid "Yes, Closed by default"
-msgstr ""
-
-#: $lang->'field_toggle_yes_open'
-msgid "Yes, Open by default"
+msgid "Goobta magaca"
 msgstr ""
 
 #: $lang->'file_not_found_upload'
-msgid "Could not find uploaded file"
+msgid "Lama heli karo faylka la geliyay server-ka"
 msgstr ""
 
 #: $lang->'file_open_error'
-msgid "Could not open file for reading"
+msgid "Faylka wuu furmi waayay."
 msgstr ""
 
 #: $lang->'form_not_exists'
-msgid "That Form Does Not Exist!"
+msgid "Foomkaas ma ahan mid jira!"
 msgstr ""
 
 #: $lang->'forum'
@@ -485,50 +302,31 @@ msgid "Forum"
 msgstr ""
 
 #: $lang->'free_text_field'
-msgid "Text Area Field (Free Text)"
-msgstr ""
-
-#: $lang->'date_field'
-msgid "Date Field"
-msgstr ""
-
-#: $lang->'radio_field'
-msgid "Radio Buttons Field"
-msgstr ""
-
-#: $lang->'checkbox_field'
-msgid "Checkboxes Field"
-msgstr ""
-
-#: $lang->'dropdown_field'
-msgid "Dropdown Field"
+msgid "Goobta qoraalka (qoraalka)"
 msgstr ""
 
 #: $lang->'from'
-msgctxt "$lang->'from'"
-msgid "From"
+msgid "Ka "
 msgstr ""
 
 #: $lang->'from_date'
-msgctxt "$lang->'from_date'"
-msgid "From"
+msgid "Ka"
 msgstr ""
 
 #: $lang->'geonames_timeout'
-msgid "Geonames Timeout Error"
+msgid "Cillad xagga Geonames-ka"
 msgstr ""
 
 #: $lang->'get_help'
-msgid "Get Help"
+msgid "Caawimaad dalbo"
 msgstr ""
 
 #: $lang->'header_actions'
-msgctxt "$lang->'header_actions'"
-msgid "Actions"
+msgid "Ficillada"
 msgstr ""
 
 #: $lang->'header_add_edit'
-msgid "Add/Edit"
+msgid "Wax ku dar/wax ka bedel"
 msgstr ""
 
 #: $lang->'header_email'
@@ -537,77 +335,59 @@ msgid "Email"
 msgstr ""
 
 #: $lang->'header_manage_users'
-msgctxt "$lang->'header_manage_users'"
-msgid "Manage Users"
+msgid "Maamulidda isticmaalayaasha"
 msgstr ""
 
 #: $lang->'header_role'
-msgid "Role"
+msgid "Heer"
 msgstr ""
 
 #: $lang->'header_user'
-msgctxt "$lang->'header_user'"
-msgid "User"
+msgid "Isticmaale"
 msgstr ""
 
 #: $lang->'help'
-msgid "help"
+msgid "Caawimaad"
 msgstr ""
 
 #: $lang->'hourly'
-msgid "Hourly"
+msgid "Saacadle"
 msgstr ""
 
 #: $lang->'incident_feed'
-msgid "Incident feed for"
+msgid "Dhacdada"
 msgstr ""
 
 #: $lang->'instance'
-msgid "Instance"
+msgid "Dhacdo"
 msgstr ""
 
 #: $lang->'instances'
-msgid "Instances"
+msgid "Dhacdooyin"
 msgstr ""
 
 #: $lang->'instance_details'
-msgid "Instance Details"
+msgid "Faahfaainta dhacdada"
 msgstr ""
 
 #: $lang->'invalid_parameter'
-msgid "Invalid Parameter"
+msgid "Xudduud khaldan"
 msgstr ""
 
 #: $lang->'ip_address'
-msgid "IP Address"
+msgid "IP address"
 msgstr ""
 
 #: $lang->'is_date'
-msgid "Is this a Date Field?"
-msgstr ""
-
-#: $lang->'ispublic_visible'
-msgid "Who Can View Answers"
-msgstr ""
-
-#: $lang->'ispublic_submit'
-msgid "Who Can Submit Answers"
-msgstr ""
-
-#: $lang->'keyword'
-msgid "Keyword"
-msgstr ""
-
-#: $lang->'keywords'
-msgid "Keywords"
+msgid "Tani ma goob taariikh baa?"
 msgstr ""
 
 #: $lang->'label_email'
-msgid "Email Address:"
+msgid "Cinwaanka Email-ka"
 msgstr ""
 
 #: $lang->'label_full_name'
-msgid "Full Name:"
+msgid "Magaca oo dhamaystiran"
 msgstr ""
 
 #: $lang->'label_password'
@@ -615,24 +395,24 @@ msgid "Password:"
 msgstr ""
 
 #: $lang->'label_role'
-msgid "Role:"
+msgid "Heer:"
 msgstr ""
 
 #: $lang->'label_username'
-msgid "Username:"
+msgid "Username"
 msgstr ""
 
 #: $lang->'layers'
-msgid "Layers"
+msgid "Lakabyadda"
 msgstr ""
 
 #: $lang->'login_role'
 msgctxt "$lang->'login_role'"
-msgid "Moderator"
+msgid "Dhexdhexaadiye"
 msgstr ""
 
 #: $lang->'logout'
-msgid "Logout"
+msgid "Ka bax"
 msgstr ""
 
 #: $lang->'logs'
@@ -640,220 +420,157 @@ msgid "Logs"
 msgstr ""
 
 #: $lang->'manage'
-msgid "Manage"
+msgid "Maamul"
 msgstr ""
 
 #: $lang->'manage_roles'
-msgid "Manage Roles & Permissions"
+msgid "Maamul heerarka iyo rukhsooyinka"
 msgstr ""
 
 #: $lang->'manage_users'
-msgid "View Users"
+msgid "Arag isticmaalayaasha"
 msgstr ""
 
 #: $lang->'manage_users_edit'
-msgid "Add/Edit Users"
-msgstr ""
-
-#: $lang->'mark_as'
-msgid "Mark As"
+msgid "Ku dar/bedel isticmaalayaasha"
 msgstr ""
 
 #: $lang->'marked_as_not_spam'
-msgid "marked as not spam"
+msgid "Looma calaamadayn sidii E-mail aan la rabin (spam)"
 msgstr ""
 
 #: $lang->'marked_as_spam'
-msgid "marked as spam"
+msgid "Loo calaamadeeyay sidi E-mail aan rabin (spam)"
 msgstr ""
 
 #: $lang->'match_no_documents'
-msgid "did not match any documents"
+msgid "Ma shabbaho wax dukumintiyada ka mid ah"
 msgstr ""
 
 #: $lang->'message'
-msgctxt "$lang->'message'"
-msgid "Message"
+msgid "Farriin"
 msgstr ""
 
 #: $lang->'messages'
-msgid "Messages"
+msgid "Farriimaha"
 msgstr ""
 
 #: $lang->'messages_laconica'
-msgid "Laconica Messages"
+msgid "Fariimaha Laconica"
 msgstr ""
 
 #: $lang->'messages_twitter'
-msgid "Twitter Messages"
+msgid "Farriimaha Twiter"
 msgstr ""
 
 #: $lang->'message_sent'
-msgid "Your message has been sent!"
+msgid "Farriintaada waa la diray!"
 msgstr ""
 
 #: $lang->'mhi'
 msgid "MHI"
 msgstr ""
 
-#: $lang->'minute'
-msgid "Minute"
-msgstr ""
-
 #: $lang->'minutes'
-msgid "Minutes"
+msgid "Daqiiqado"
 msgstr ""
 
 #: $lang->'missing_parameter'
-msgid "Missing Parameter"
+msgid "Xuduud maqan"
 msgstr ""
 
 #: $lang->'moderator'
 msgctxt "$lang->'moderator'"
-msgid "Moderator"
+msgid "Dhexdhexaadiye"
 msgstr ""
 
 #: $lang->'modified'
-msgid "modified"
-msgstr ""
-
-#: $lang->'modify_timezone'
-msgid "Modify Timezone Setting"
+msgid "Wax laga bedelay"
 msgstr ""
 
 #: $lang->'move_down_action'
-msgid "move down"
+msgid "Hoos u dag"
 msgstr ""
 
 #: $lang->'move_up_action'
-msgid "move up"
+msgid "Kor u bax"
 msgstr ""
 
 #: $lang->'multiple_hosted_instances'
-msgid "Multiple Hosted Instances"
-msgstr ""
-
-#: $lang->'my_alerts'
-msgid "My Alerts"
-msgstr ""
-
-#: $lang->'my_checkins'
-msgid "My Checkins"
+msgid "Dhacdooyin la martigeliyay"
 msgstr ""
 
 #: $lang->'my_profile'
-msgid "My Profile"
-msgstr ""
-
-#: $lang->'my_reports'
-msgid "My Reports"
-msgstr ""
-
-#: $lang->'my_votes'
-msgid "Votes Cast"
-msgstr ""
-
-#: $lang->'my_votes_up'
-msgid "Positive"
-msgstr ""
-
-#: $lang->'my_votes_down'
-msgid "Negative"
-msgstr ""
-
-#: $lang->'name'
-msgctxt "$lang->'name'"
-msgid "Name"
-msgstr ""
-
-#: $lang->'new_alert'
-msgid "Create New Alert"
-msgstr ""
-
-#: $lang->'new_private'
-msgid "Create New Message"
+msgid "Muuqaalkayga"
 msgstr ""
 
 #: $lang->'new_password'
-msgid "New Password"
+msgid "Password cusub"
 msgstr ""
 
 #: $lang->'no'
-msgctxt "$lang->'no'"
-msgid "No"
-msgstr ""
-
-#: $lang->'none_category_explanation'
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without "
-"categories(uncategorized reports) as a result of category deletion."
+msgid "Maya"
 msgstr ""
 
 #: $lang->'notification'
-msgid "Notification"
+msgid "Ogeysiin"
 msgstr ""
 
 #: $lang->'not_case_sensitive'
-msgid "This is not case sensitive."
+msgid ""
+"Ma ahan case sensitive (waa isku mid xarfaha yar yar iyo kuwa waa weyn "
+"intaba)"
 msgstr ""
 
 #: $lang->'not_found'
-msgid "Not Found"
+msgid "Lama helin"
 msgstr ""
 
 #: $lang->'no_data'
-msgid "No data. There are no results to show."
+msgid "Ma jirto wax natiijo ah oo la muujin karo."
 msgstr ""
 
 #: $lang->'no_error'
-msgid "No Error"
+msgid "Cillad ma jirto"
 msgstr ""
 
 #: $lang->'no_result_display_msg'
-msgid "No Results To Display!"
+msgid "Ma jirto wax natiijo ah oo la soo bandhigo!"
 msgstr ""
 
 #: $lang->'of'
 msgid "of"
 msgstr ""
 
-#: $lang->'on_specific_count'
-msgid "On Specific Count"
-msgstr ""
-
-#: $lang->'openids'
-msgid "OpenID's"
-msgstr ""
-
 #: $lang->'page'
-msgid "page"
+msgid "Bog"
 msgstr ""
 
 #: $lang->'pages'
-msgid "pages"
+msgid "Boggag"
 msgstr ""
 
 #: $lang->'page_not_found'
-msgid "Page Not Found"
+msgid "Bogga lama helin"
 msgstr ""
 
 #: $lang->'page_not_found_message'
 msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
-"a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
-"can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+"Waan ka xunnahay, bogga aad isku dayayso inaad booqato halkan kuma jiro. "
+"<p><strong>Link-ga ma waxaad ka soo raacday isla boggeena?</strong><br "
+"/>Haddii aad boggan ka soo heshay qeyb kale oo ka mid ah boggeena, fadlan,<a "
+"href=\"#\">Nala soo xiriir </a> si aan isaga saxno khaladka.</p><p><strong>Ma "
+"waxaad Link-ga ka heshay bog Internet kale?</strong><br />Link-yada boggaga "
+"kale waxay noqon karaan kuwa aan casriyeysayn ama higaadoodu ay khaldan "
+"tahay. <a href=\"#\">Noo sheeg </a> halka aad ka timid, innagana waxaan isku "
+"dayi karnaa inaan xiriir la sameyno bogga kale si aan u turxaan bixino "
+"cilladda</p><p><strong>Miyaad qortay URL-ka? </strong><br />Waxaa laga "
+"yaabaa inaad si khaldan u qortay cinwaanka (URL). Iska hubi in higgaadu "
+"saxan tahay, farta waa weyn, iwm. </p>"
 msgstr ""
 
 #: $lang->'parameters_used'
-msgid "Parameters Used"
+msgid "Xuduudaha la addeegsaday"
 msgstr ""
 
 #: $lang->'password'
@@ -861,7 +578,7 @@ msgid "Password"
 msgstr ""
 
 #: $lang->'password_reset'
-msgid "Password Reset"
+msgid "Password bedelid"
 msgstr ""
 
 #: $lang->'password_reset_from'
@@ -869,35 +586,25 @@ msgid "no-reply@ushahidi.com"
 msgstr ""
 
 #: $lang->'password_reset_message_line_1'
-msgid "Dear"
+msgid "Qaali"
 msgstr ""
 
 #: $lang->'password_reset_message_line_2'
-msgid "We received a request to reset the password for"
+msgid "Waan helnay dalabkaaga ku aadan beddelida password-ka"
 msgstr ""
 
 #: $lang->'password_reset_message_line_3'
 msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
-msgstr ""
-
-#: $lang->'password_reset_message_line_4'
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+"Si aad u bedesho password-ka, fadlan guji link-ga hoose (ama inta "
+"koobiyeyso, dhig browserkaaga)."
 msgstr ""
 
 #: $lang->'password_reset_subject'
-msgid "Ushahidi password reset"
+msgid "Beddelida password-ka Ushahidi"
 msgstr ""
 
 #: $lang->'phone'
-msgid "Phone"
-msgstr ""
-
-#: $lang->'please_select'
-msgid "Please Select"
+msgid "Telefon"
 msgstr ""
 
 #: $lang->'pm'
@@ -905,210 +612,103 @@ msgid "PM"
 msgstr ""
 
 #: $lang->'post_method_not_used'
-msgid "Data was not sent by post method"
-msgstr ""
-
-#: $lang->'preview'
-msgid "Preview"
-msgstr ""
-
-#: $lang->'private_message'
-msgctxt "$lang->'private_message'"
-msgid "Message"
-msgstr ""
-
-#: $lang->'private_messages'
-msgctxt "$lang->'private_messages'"
-msgid "Private Messages"
-msgstr ""
-
-#: $lang->'private_sent'
-msgid "Private Message Sent"
-msgstr ""
-
-#: $lang->'private_subject'
-msgctxt "$lang->'private_subject'"
-msgid "Subject"
-msgstr ""
-
-#: $lang->'private_to'
-msgid "To"
-msgstr ""
-
-#: $lang->'public_listing'
-msgid "Public Listing"
-msgstr ""
-
-#: $lang->'qualifiers'
-msgid "Qualifiers"
+msgid "Habka daabacaadda lagu soo dirin xogta."
 msgstr ""
 
 #: $lang->'read'
-msgid "read"
+msgid "Akhri"
 msgstr ""
 
 #: $lang->'relevance'
-msgid "Relevance"
-msgstr ""
-
-#: $lang->'report_title'
-msgid "Report Title"
+msgid "Khuseeya"
 msgstr ""
 
 #: $lang->'reporters'
-msgid "Reporters"
+msgid "Weriyayaal"
 msgstr ""
 
 #: $lang->'reporter_levels'
-msgid "Reporter Levels"
+msgid "Heerarka weriyayaasha"
 msgstr ""
 
 #: $lang->'reports'
-msgid "Reports"
-msgstr ""
-
-#: $lang->'reputation'
-msgid "Reputation Score"
+msgid "Warbixinno"
 msgstr ""
 
 #: $lang->'required'
-msgid "Required"
+msgid "Waa loo baahan yahay"
 msgstr ""
 
 #: $lang->'reset'
-msgid "Reset"
-msgstr ""
-
-#: $lang->'response'
-msgid "Response"
+msgid "Iska bedel"
 msgstr ""
 
 #: $lang->'results'
-msgid "Results"
-msgstr ""
-
-#: $lang->'revoke'
-msgid "Revoke"
+msgid "Natiijooyinka"
 msgstr ""
 
 #: $lang->'save_settings'
-msgid "Save Settings"
+msgid "Keydi setting-ka"
 msgstr ""
 
 #: $lang->'search'
-msgid "Search"
+msgid "Raadi"
 msgstr ""
 
 #: $lang->'searching_for'
-msgid "searching for"
-msgstr ""
-
-#: $lang->'security_info_encryption_key'
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
-msgstr ""
-
-#: $lang->'security_info_https'
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
-msgstr ""
-
-#: $lang->'security_info_instructions'
-msgid "Instructions are available on the wiki: "
+msgid "Waxa uu raadinayaa"
 msgstr ""
 
 #: $lang->'select_field_type'
-msgid "--- Select A Field Type ---"
+msgid "Dooro nooca Goobta"
 msgstr ""
 
 #: $lang->'select_item'
-msgid "Please select an item"
-msgstr ""
-
-#: $lang->'select_trigger_before_response'
-msgid "You must select a Trigger before you can select a Response."
-msgstr ""
-
-#: $lang->'select_trigger_before_qualifiers'
-msgid "You must select a Trigger before you can define Qualifiers."
+msgid "Fadlan wax dooro"
 msgstr ""
 
 #: $lang->'sender'
-msgid "Sender"
-msgstr ""
-
-#: $lang->'send_to'
-msgid "Send To"
+msgid "Dire"
 msgstr ""
 
 #: $lang->'sent_from_website'
-msgid "This message was sent from your website at "
-msgstr ""
-
-#: $lang->'server_time'
-msgid "Server Time"
+msgid "Waxaa farriintan laga diray boggaaga"
 msgstr ""
 
 #: $lang->'settings'
-msgid "Settings"
+msgid "Hagaajinta setting-ka"
 msgstr ""
 
 #: $lang->'showing_page'
-msgid "Showing page"
+msgid "Bogga muuqda"
 msgstr ""
 
 #: $lang->'showing_results'
-msgid "Showing results"
-msgstr ""
-
-#: $lang->'shown'
-msgid "shown"
-msgstr ""
-
-#: $lang->'special_category'
-msgid "Special Category"
-msgstr ""
-
-#: $lang->'special_category_explanation'
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
-msgstr ""
-
-#: $lang->'specific_area'
-msgid "Specific Area"
-msgstr ""
-
-#: $lang->'state'
-msgid "State"
+msgid "Natiijooyinka muuqda"
 msgstr ""
 
 #: $lang->'statistics'
+msgctxt "$lang->'statistics'"
 msgid "Statistics"
 msgstr ""
 
 #: $lang->'stats'
-msgid "Stats"
+msgctxt "$lang->'stats'"
+msgid "Statistics"
 msgstr ""
 
 #: $lang->'stats_collection_error'
-msgid "Stat collection failed! Please try again later."
+msgid ""
+"Ururinta tirada waa ay fashilantay! Waxbaa ka khaldan server-keena ama "
+"qaabka aad Ushahidi u rakibtay ayaa khaldan. Mar kale isku day inaad na soo "
+"booqato si aad u ogaato in server-ka uu si fiican u shaqeynayo. Haddii aad "
+"doonayso inaad bedesho stats-ka, bedel stat-id-ga (dooro Eber)iyo stat-key "
+"(dooro Eber) adigoo ku dhex jira shaxanka keydka xogtaada. Digniin: Waxaa "
+"kaa lumayo gelitaanka statistics-kaaga haddii aad sidan sameyso!"
 msgstr ""
 
 #: $lang->'stats_collection_error_short'
-msgid "Stat Collection Failed!"
-msgstr ""
-
-#: $lang->'specific_days'
-msgid "Specific Days"
-msgstr ""
-
-#: $lang->'subject'
-msgctxt "$lang->'subject'"
-msgid "Subject"
+msgid "Ururinta tirada waa ay fashilantay!"
 msgstr ""
 
 #: $lang->'superadmin_role'
@@ -1116,137 +716,89 @@ msgid "Super Admin"
 msgstr ""
 
 #: $lang->'task_performed'
-msgid "Task Performed"
+msgid "Hawsho si fiican ayaa loo gutay"
 msgstr ""
 
 #: $lang->'text_field'
-msgid "Text Field"
+msgid "Goobta qoraalka"
 msgstr ""
 
 #: $lang->'theme_name'
-msgctxt "$lang->'theme_name'"
-msgid "Name"
+msgid "Magaca"
 msgstr ""
 
 #: $lang->'title'
-msgctxt "$lang->'title'"
-msgid "Manage Users"
+msgid "Maamul isticmaalayaasha"
 msgstr ""
 
 #: $lang->'to'
 msgctxt "$lang->'to'"
-msgid "to"
+msgid "Ku"
 msgstr ""
 
 #: $lang->'total_records'
-msgid "Total Records"
+msgid "Dhamaan Rikoodhyada"
 msgstr ""
 
 #: $lang->'to_date'
 msgctxt "$lang->'to_date'"
-msgid "to"
+msgid "Ku"
 msgstr ""
 
 #: $lang->'translate_reports'
-msgid "Translate Reports"
-msgstr ""
-
-#: $lang->'trigger'
-msgid "Trigger"
-msgstr ""
-
-#: $lang->'triggering_user'
-msgid "Triggering User"
-msgstr ""
-
-#: $lang->'triggers'
-msgid "Triggers"
+msgid "Turjun warbixinnada"
 msgstr ""
 
 #: $lang->'unapproved'
-msgid "unapproved"
+msgid "Lama ansixin"
 msgstr ""
 
 #: $lang->'unknown'
-msgid "Unknown"
-msgstr ""
-
-#: $lang->'unknown_failure'
-msgid "Unknown Failure"
+msgid "Lama garanayo"
 msgstr ""
 
 #: $lang->'unread'
-msgid "unread"
-msgstr ""
-
-#: $lang->'unsubscribe_message'
-msgid "You will no longer receive alerts from"
+msgid "Aan la akhrin"
 msgstr ""
 
 #: $lang->'update_link'
-msgid " Click here to upgrade now"
+msgid "Guji halkan si aad u casriyeyso"
 msgstr ""
 
 #: $lang->'upgrade_ushahidi'
-msgid "Upgrade Ushahidi"
+msgid "Casriye Ushahidi"
 msgstr ""
 
 #: $lang->'upgrade_ushahidi_status'
-msgid "Upgrade Ushahidi Status"
+msgid "Casriye darajada Ushahidi"
 msgstr ""
 
 #: $lang->'upload_reports'
-msgid "Upload Reports"
-msgstr ""
-
-#: $lang->'user'
-msgctxt "$lang->'user'"
-msgid "User"
+msgid "Geli warbxinnada"
 msgstr ""
 
 #: $lang->'users'
-msgid "Users"
+msgid "Isticmaalayaasha"
 msgstr ""
 
 #: $lang->'ushahidi'
 msgid "Ushahidi"
 msgstr ""
 
-#: $lang->'verified_unverified'
-msgid "Verified/Unverified"
-msgstr ""
-
-#: $lang->'verify_unverify'
-msgid "Verify/Unverify"
-msgstr ""
-
 #: $lang->'version'
-msgid "Version"
+msgid "Version-ka"
 msgstr ""
 
 #: $lang->'version_available'
-msgid " is available for upgrade."
-msgstr ""
-
-#: $lang->'video_encoding'
-msgid "Video Encoding"
-msgstr ""
-
-#: $lang->'view_private'
-msgctxt "$lang->'view_private'"
-msgid "Private Messages"
+msgid "Waxa uu diyaar u yahay in la casriyeeyo"
 msgstr ""
 
 #: $lang->'view_site'
-msgid "View Site"
-msgstr ""
-
-#: $lang->'view_report'
-msgid "View Report"
+msgid "Booqo bogga"
 msgstr ""
 
 #: $lang->'welcome'
-msgid "Welcome, "
+msgid "Soo dhowoow,"
 msgstr ""
 
 #: $lang->'wiki'
@@ -1254,9 +806,9 @@ msgid "Wiki"
 msgstr ""
 
 #: $lang->'yes'
-msgid "Yes"
+msgid "Haa"
 msgstr ""
 
 #: $lang->'your_search_for'
-msgid "Your search for"
+msgid "Raadinta ku saabsan"
 msgstr ""

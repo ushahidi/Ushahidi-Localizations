@@ -1,9 +1,9 @@
-#. extracted from en_US/comments.php
+#. extracted from so/comments.php, en_US/comments.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:55+0000\n"
+"POT-Creation-Date: 2012-06-07 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,37 +13,35 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'captcha'->'default'
-msgid "Please enter a valid security code."
+msgid "Fadlan geli security code sax ah"
 msgstr ""
 
 #: 'captcha'->'required'
-msgid "Please enter the security code."
-msgstr ""
-
-#: 'captcha'->'valid'
-msgid "You entered the wrong security code."
+msgid "Fadlan geli security code-ka"
 msgstr ""
 
 #: 'comment_author'->'length'
-msgid "The name field must be at least 3 characters long."
+msgid "Magacu waa inuusan ka yareyn saddex xaraf"
 msgstr ""
 
 #: 'comment_author'->'required'
-msgid "The name field is required."
+msgid "Magac ayaa loo baahan yahay"
 msgstr ""
 
 #: 'comment_description'->'required'
-msgid "The comments field is required."
+msgid "Farriin ayaa loo baahan yahay"
 msgstr ""
 
 #: 'comment_email'->'email'
-msgid "The Email field does not appear to contain a valid email address."
+msgid "Emailkaad gelisay sax ma aha"
 msgstr ""
 
 #: 'comment_email'->'length'
-msgid "The Email field must be at least 4 and no more 64 characters long."
+msgid ""
+"Emailkaagu waa inuu ka kooban yahay ugu yaraan 4 xaraf, ugu badnaanna 64 "
+"xaraf"
 msgstr ""
 
 #: 'comment_email'->'required'
-msgid "The Email field is required if the checkbox is checked."
+msgid "Email ayaa loo baahan yahay haddii sanduuqu saxan yahay"
 msgstr ""

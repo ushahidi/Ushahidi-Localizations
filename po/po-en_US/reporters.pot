@@ -1,9 +1,9 @@
-#. extracted from en_US/reporters.php
+#. extracted from so/reporters.php, en_US/reporters.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:55+0000\n"
+"POT-Creation-Date: 2012-06-07 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,50 +13,50 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'latitude'->'between'
-msgid "The latitude field does not appear to contain a valid latitude."
+msgid "Xarriiqda loolku (latitude)sax ma aha?"
 msgstr ""
 
 #: 'latitude'->'required'
 msgid ""
-"The latitude field is required. Please click on the map to pinpoint a "
-"location."
+"Xarriiqda loolka (latitude) ayaa loo baahan yahay. Fadlan guji khariidada si "
+"aad goob u tilmaanto."
 msgstr ""
 
 #: 'level_id'->'numeric'
 msgctxt "'level_id'->'numeric'"
-msgid "The Reporter Level field does not appear to contain a valid Level."
+msgid "Goobta Reporter Level-ka kuma jiro Level sax ah."
 msgstr ""
 
 #: 'level_id'->'required'
 msgctxt "'level_id'->'required'"
-msgid "The Reporter Level field does not appear to contain a valid Level."
+msgid "Goobta Reporter Level-ka kuma jiro Level sax ah."
 msgstr ""
 
 #: 'location_name'->'length'
 msgid ""
-"The location name field must be at least 3 and no more 200 characters long."
+"Magaca goobtu waa inuu ahaadaa ugu yaraan 3 xaraf, ugu badnaana 200 xaraf."
 msgstr ""
 
 #: 'location_name'->'required'
-msgid "The location name field is required."
+msgid "Magaca goobta ayaa loo baahan yahay."
 msgstr ""
 
 #: 'longitude'->'between'
-msgid "The longitude field does not appear to contain a valid longitude."
+msgid "Goobta longitude-ku ma lahan longitude sax ah?"
 msgstr ""
 
 #: 'longitude'->'required'
 msgid ""
-"The longitude field is required. Please click on the map to pinpoint a "
-"location."
+"Goobta longitude ayaa loo baahan yahay.Fadlan guji khariidada si aad u "
+"tilmaantid goob.   "
 msgstr ""
 
 #: 'reporter_id'->'numeric'
 msgctxt "'reporter_id'->'numeric'"
-msgid "Invalid Reporter"
+msgid "Soo tebiyuhu sax ma aha."
 msgstr ""
 
 #: 'reporter_id'->'required'
 msgctxt "'reporter_id'->'required'"
-msgid "Invalid Reporter"
+msgid "Soo tebiyuhu sax ma aha."
 msgstr ""

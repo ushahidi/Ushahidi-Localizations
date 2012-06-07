@@ -1,9 +1,25 @@
 #!/bin/bash
-# Run php2po conversion on all languages
+# Run php2po conversion on en_US and then sync the generated po file to github for transifex to pick it up
 
 cd `dirname $0`/..
-for dir in `find . -maxdepth 1 -mindepth 1 -type d ! -name tools ! -name po ! -name .tx ! -name .git ! -name en_US ! -name pr_US -exec basename '{}' \;`
-do
-	echo "Processing $dir"
-	php2po -t en_US/ "$dir/" "po/po-$dir"
-done
+
+echo "Pulling in latest changes from github..."
+git pull rjmackay master
+
+# generate the po files for en_US so transifex can pick it up
+echo "Generating po files for en_US..."
+php2po -P -t so/ en_US/ po/po-en_US
+
+# add any new file generated
+git add po/po-en_US
+
+echo "Commiting changes..."
+git commit -am 'Generate daily po for en_US'
+
+echo "Pushing changes to github repo..."
+git push rjmackay
+
+echo "Pushing changes to transifex"
+tx push -s -l en_US po/po-en_US
+
+echo "Done!"

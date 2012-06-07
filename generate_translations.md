@@ -37,3 +37,17 @@ Transifex Client - http://help.transifex.com/features/client/
 #### Download translations for just one language
 
     tx pull -l fr_FR
+
+#### Update transifex with new strings from the english lang ###
+Make sure you have the entry below in your ~/.transifexrc file
+
+    [https://www.transifex.net]
+    hostname = https://www.transifex.net
+    username = username
+    password = password
+    token =
+
+Then issue this command
+    tools/run-php2po-sync.sh
+
+Ultimately, this will be a cronjob that runs daily

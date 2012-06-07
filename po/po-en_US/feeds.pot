@@ -1,9 +1,9 @@
-#. extracted from en_US/feeds.php
+#. extracted from so/feeds.php, en_US/feeds.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:55+0000\n"
+"POT-Creation-Date: 2012-06-07 09:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,31 +13,31 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'date'
-msgid "DATE"
+msgid "Taariikhda"
 msgstr ""
 
 #: 'feed_name'->'length'
 msgid ""
-"The feed name field must be at least 3 and no more \n"
-"\t\t\t70 characters long."
+"Magaca xogta Feed-ku waa inuu ka kooban yahay ugu yaraan 3 xaraf, ugu "
+"badnaanna 70 xaraf"
 msgstr ""
 
 #: 'feed_name'->'required'
-msgid "Please enter the name of the feed."
+msgid "Fadlan geli magaca xogta Feed-ka"
 msgstr ""
 
 #: 'feed_url'->'required'
-msgid "Please enter feed's URL."
+msgid "Fadlan geli URL-ka xogta Feed-ka"
 msgstr ""
 
 #: 'feed_url'->'url'
-msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
+msgid "Fadlan geli URL jira. Tusaale ahaan: http://www.ushahidi.com"
 msgstr ""
 
 #: 'feed_url'->'source'
-msgid "SOURCE"
+msgid "Asalka"
 msgstr ""
 
 #: 'feed_url'->'title'
-msgid "Title"
+msgid "Cinwaan"
 msgstr ""
