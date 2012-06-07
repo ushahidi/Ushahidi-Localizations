@@ -19,7 +19,9 @@ git commit -m 'Generate daily po for en_US'
 echo "Pushing changes to github repo..."
 git push rjmackay
 
+# Push changes to transifex
+# Don't need to specify language here, transifex knows the source language is english
 echo "Pushing changes to transifex"
-tx push -s -l en_US po/po-en_US  --skip
+tx push -s --skip
 
 echo "Done!"
