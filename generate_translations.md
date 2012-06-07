@@ -48,6 +48,6 @@ Make sure you have the entry below in your ~/.transifexrc file
     token =
 
 Then issue this command
-    tools/run-php2po-sync.sh
+	tools/run-php2po-sync.sh
 
 Ultimately, this will be a cronjob that runs daily

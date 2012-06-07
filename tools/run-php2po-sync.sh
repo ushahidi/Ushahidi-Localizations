@@ -6,7 +6,7 @@ cd `dirname $0`/..
 echo "Pulling in latest changes from github..."
 git pull rjmackay master
 
-# generate the po files for en_US so transifex can pick it up
+# generate the pot files for en_US so transifex can pick it up
 echo "Generating po files for en_US..."
 php2po -P -t en_US/ en_US/ po/po-en_US
 
@@ -20,6 +20,6 @@ echo "Pushing changes to github repo..."
 git push rjmackay
 
 echo "Pushing changes to transifex"
-tx push -s -l en_US po/po-en_US
+tx push -s -l --skip en_US po/po-en_US
 
 echo "Done!"
