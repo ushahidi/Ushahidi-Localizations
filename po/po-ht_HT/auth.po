@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"POT-Creation-Date: 2012-06-08 09:42+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,23 +180,25 @@ msgid "The admin user role cannot be modified."
 msgstr "The admin user role cannot be modified."
 
 #: 'username'->'alpha_numeric'
-msgid "The username field must only contain numbers and letters."
+msgid "The public profile URL field must only contain numbers and letters."
 msgstr ""
 
 #: 'username'->'exists'
-msgid "Sorry, this username is already in use."
+msgid "Sorry, this public profile URL is already in use."
 msgstr "Sorry, this username is already in use."
 
 #: 'username'->'length'
-msgid "The username field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr "The username field must be at least 2 and no more 16 characters long."
 
 #: %27username%27-%3E%27login+error%27
-msgid "Please check that you entered the correct username."
+msgid "Please check that you entered the correct public profile URL."
 msgstr "Please check that you entered the correct username."
 
 #: 'username'->'required'
-msgid "The username field is required."
+msgid "The public profile URL field is required."
 msgstr "The username field is required."
 
 #: 'username'->'superadmin'

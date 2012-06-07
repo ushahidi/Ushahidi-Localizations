@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"POT-Creation-Date: 2012-06-08 09:42+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1748,84 +1748,6 @@ msgstr "Felajánlás"
 msgid "Report Details"
 msgstr "Felajánlás részletei"
 
-#: $lang->'report_edit_dropdown_1_default'
-msgctxt "$lang->'report_edit_dropdown_1_default'"
-msgid "--- Select One ---"
-msgstr "--- válassz egyet ---"
-
-#: $lang->'report_edit_dropdown_1_item_1'
-msgctxt "$lang->'report_edit_dropdown_1_item_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
-msgstr "Igen, a forrás hiteles (tulajdonos)"
-
-#: $lang->'report_edit_dropdown_1_item_2'
-msgctxt "$lang->'report_edit_dropdown_1_item_2'"
-msgid "Yes, the source has access to information, but can be wrong."
-msgstr ""
-"A forrás valószínűleg hiteles, de lehet téves is.(kapcsolatfelvétel "
-"ellenőrzés céljából javasolt)"
-
-#: $lang->'report_edit_dropdown_1_item_3'
-msgctxt "$lang->'report_edit_dropdown_1_item_3'"
-msgid ""
-"Yes, the source has no direct access to information, but is often right."
-msgstr "Igen, gyakran igaz, ami ebből a forrásból származik."
-
-#: $lang->'report_edit_dropdown_1_item_4'
-msgctxt "$lang->'report_edit_dropdown_1_item_4'"
-msgid "Not always, but is often right."
-msgstr "Lehet igaz is..(kapcsolatfelvétel javasolt)"
-
-#: $lang->'report_edit_dropdown_1_item_5'
-msgctxt "$lang->'report_edit_dropdown_1_item_5'"
-msgid "No, the source has (had) no access to information."
-msgstr "Nem, ez nem valószínű."
-
-#: $lang->'report_edit_dropdown_1_item_6'
-msgctxt "$lang->'report_edit_dropdown_1_item_6'"
-msgid "I do not know."
-msgstr "Nem tudom"
-
-#: $lang->'report_edit_dropdown_1_title'
-msgid "Source Reliability"
-msgstr "Forrás megbízhatósága"
-
-#: $lang->'report_edit_dropdown_2_default'
-msgctxt "$lang->'report_edit_dropdown_2_default'"
-msgid "--- Select One ---"
-msgstr "--- Válassz egyet ---"
-
-#: $lang->'report_edit_dropdown_2_item_1'
-msgid "Yes, the information is confirmed by several independent sources."
-msgstr "Igen, az információt megerősítette a küldő"
-
-#: $lang->'report_edit_dropdown_2_item_2'
-msgid "Yes, the information is not confirmed (yet), but is likely."
-msgstr "Igen, az információt még nem erősítették meg, de valószínűsíthető"
-
-#: $lang->'report_edit_dropdown_2_item_3'
-msgid "Yes, the information makes sense."
-msgstr "Ez egy részinformáció, de értelmes"
-
-#: $lang->'report_edit_dropdown_2_item_4'
-msgid "No, the information is surprising."
-msgstr "Ne,ez meglepő!További információ szükséges!"
-
-#: $lang->'report_edit_dropdown_2_item_5'
-msgid "No, the information is unlikely and may be disinformation."
-msgstr ""
-"Nem, az információ valószínűtlen és téves lehet.További információ szerzése "
-"szükséges!"
-
-#: $lang->'report_edit_dropdown_2_item_6'
-msgctxt "$lang->'report_edit_dropdown_2_item_6'"
-msgid "I do not know."
-msgstr "Nem tudom"
-
-#: $lang->'report_edit_dropdown_2_title'
-msgid "Information Probability"
-msgstr "Információ valószínűség"
-
 #: $lang->'report_option_1'
 msgid "By sending a message to"
 msgstr "üzenet küldésével ide:"
@@ -2252,36 +2174,6 @@ msgstr "Fordítás"
 #: $lang->'translation_saved'
 msgid "Translation has been saved"
 msgstr "A fordítást mentettük"
-
-#: $lang->'trustworthiness'
-msgid "Trustworthiness"
-msgstr "Megbízhatóság"
-
-#: $lang->'trustworthiness_option_1'
-msgctxt "$lang->'trustworthiness_option_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
-msgstr ""
-
-#: $lang->'trustworthiness_option_2'
-msgctxt "$lang->'trustworthiness_option_2'"
-msgid "Yes, the source has access to information, but can be wrong."
-msgstr ""
-
-#: $lang->'trustworthiness_option_3'
-msgctxt "$lang->'trustworthiness_option_3'"
-msgid ""
-"Yes, the source has no direct access to information, but is often right."
-msgstr ""
-
-#: $lang->'trustworthiness_option_4'
-msgctxt "$lang->'trustworthiness_option_4'"
-msgid "Not always, but is often right."
-msgstr "Nem mindig, de gyakran helyes"
-
-#: $lang->'trustworthiness_option_5'
-msgctxt "$lang->'trustworthiness_option_5'"
-msgid "No, the source has (had) no access to information."
-msgstr "Nem, a forrásnak nincs (nem volt) hozzáférése információhoz"
 
 #: $lang->'type'
 msgid "Type"

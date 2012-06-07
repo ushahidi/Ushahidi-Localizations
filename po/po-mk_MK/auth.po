@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:32+0000\n"
+"POT-Creation-Date: 2012-06-08 09:43+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -196,25 +196,27 @@ msgid "The admin user role cannot be modified."
 msgstr "Улогата на администратор не може да биде променета."
 
 #: 'username'->'alpha_numeric'
-msgid "The username field must only contain numbers and letters."
+msgid "The public profile URL field must only contain numbers and letters."
 msgstr "Корисничкото име може да содржи само букви и бројки."
 
 #: 'username'->'exists'
-msgid "Sorry, this username is already in use."
+msgid "Sorry, this public profile URL is already in use."
 msgstr "Се извинуваме, ова корисничко име е веќе во употреба."
 
 #: 'username'->'length'
-msgid "The username field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr ""
 "Корисничкото име мора да биде најмалку 2 а не повеќе од  100 карактери "
 "долго."
 
 #: %27username%27-%3E%27login+error%27
-msgid "Please check that you entered the correct username."
+msgid "Please check that you entered the correct public profile URL."
 msgstr "Ве молиме проверете дали го внесовте точното корисничко име."
 
 #: 'username'->'required'
-msgid "The username field is required."
+msgid "The public profile URL field is required."
 msgstr "Корисничкото име е задолжително."
 
 #: 'username'->'superadmin'

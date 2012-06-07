@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:28+0000\n"
+"POT-Creation-Date: 2012-06-08 09:42+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -98,118 +98,105 @@ msgstr "Anda belum menentukan radius yang valid pada peta"
 msgid "You have not set your radius on the map."
 msgstr "Anda belum menentukan radius anda pada peta"
 
-#: 'alert_radius'->'alerts_subscribed'
-msgid "You have subscribed for alerts with the following categories"
+#: 'alert_recipient'->'required'
+msgid ""
+"You have not set a recipient for alerts.'\n"
+"  ),\n"
+"\t'alerts_subscribed' => 'You have subscribed for alerts with the following "
+"categories"
 msgstr ""
 
-#: 'alert_radius'->'code_already_verified'
+#: 'alert_recipient'->'code_already_verified'
 msgid "This code has been verified before!"
-msgstr "Kode ini sudah pernah diverifikasi !"
+msgstr ""
 
-#: 'alert_radius'->'code_not_found'
+#: 'alert_recipient'->'code_not_found'
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
 msgstr ""
-"Kode verifikasi ini tidak ditemukan ! Mohon periksa kembali URL yang "
-"digunakan."
 
-#: 'alert_radius'->'code_verified'
+#: 'alert_recipient'->'code_verified'
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
 msgstr ""
-"Kode anda telah diverifikasi dengan benar. Anda akan menerima pesan begitu "
-"ada kejadian."
 
-#: 'alert_radius'->'confirm_request'
+#: 'alert_recipient'->'confirm_request'
 msgid "To confirm your alert request, please go to "
-msgstr "Untuk mengkonfirmasikan permintaan pesan anda, mohon lanjut ke"
+msgstr ""
 
-#: 'alert_radius'->'create_more_alerts'
+#: 'alert_recipient'->'create_more_alerts'
 msgid "Return to the Alerts page to create more alerts"
-msgstr "Kembali ke laman pesan untuk membuat pesan-pesan baru"
+msgstr ""
 
-#: 'alert_radius'->'email_alert_request_created'
+#: 'alert_recipient'->'email_alert_request_created'
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
 msgstr ""
-"Permintaan notifikasi e-mail anda telah dibuat dan pesan untuk memverifikasi "
-"ini telah di kirim ke"
 
-#: 'alert_radius'->'email_code'
+#: 'alert_recipient'->'email_code'
 msgid "Please enter the Email confirmation code you received below: "
-msgstr "Silakan masukan kode konfirmasi e-mail yang anda terima di bawah ini :"
+msgstr ""
 
-#: 'alert_radius'->'email_error_head'
+#: 'alert_recipient'->'email_error_head'
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr "Permintaan notifikasi e-mail anda belum tersimpan !"
+msgstr ""
 
-#: 'alert_radius'->'email_ok_head'
+#: 'alert_recipient'->'email_ok_head'
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr "Permintaan notifikasi e-mail anda telah tersimpan!"
+msgstr ""
 
-#: 'alert_radius'->'error'
+#: 'alert_recipient'->'error'
 msgid "The system was not able to process your confirmation request!"
-msgstr "Sistem tidak bisa memroses permintaan konfirmasi anda!"
+msgstr ""
 
-#: 'alert_radius'->'mobile_alert_request_created'
+#: 'alert_recipient'->'mobile_alert_request_created'
 msgid ""
 "Your Mobile Alert request has been created and verification message has been "
 "sent to "
 msgstr ""
-"Permintaan notifikasi mobile anda telah dibuat dan pesan untuk memverifikasi "
-"ini telah dikirim ke"
 
-#: 'alert_radius'->'mobile_code'
+#: 'alert_recipient'->'mobile_code'
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
 msgstr ""
-"Silakan masukan kode konfirmasi sms yang anda terima di telpon genggam anda "
-"di bawah ini :"
 
-#: 'alert_radius'->'mobile_error_head'
+#: 'alert_recipient'->'mobile_error_head'
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr "Permintaan notifikasi mobile anda belum tersimpan !"
+msgstr ""
 
-#: 'alert_radius'->'mobile_ok_head'
+#: 'alert_recipient'->'mobile_ok_head'
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr "Permintaan notifikasi mobile anda telah tersimpan !"
+msgstr ""
 
-#: 'alert_radius'->'settings_error'
+#: 'alert_recipient'->'settings_error'
 msgid "This deployment is not set up to correctly process alerts"
 msgstr ""
-"Instalasi ini tidak terkonfigurasi untuk memroses notifikasi dengan benar"
 
-#: 'alert_radius'->'unsubscribe'
+#: 'alert_recipient'->'unsubscribe'
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
 msgstr ""
-"Anda menerima e-mail ini karena anda minta untuk dinotifikasi. Jika anda mau "
-"menghentikan pengiriman e-mail ini silakan ke"
 
-#: 'alert_radius'->'unsubscribed'
+#: 'alert_recipient'->'unsubscribed'
 msgid "You will no longer receive alerts from "
-msgstr "Anda tidak lagi akan dikirimi notifikasi dari"
+msgstr ""
 
-#: 'alert_radius'->'unsubscribe_failed'
+#: 'alert_recipient'->'unsubscribe_failed'
 msgid ""
 "We were not able to unsubscribe you. Please confirm that you have the "
 "correct URL."
 msgstr ""
-"Kami gagal membatalkan permintaan penghentian berlangganan anda. Mohon "
-"pastikan anda URL yg anda gunakan sudah benar."
 
-#: 'alert_radius'->'verification_email_subject'
+#: 'alert_recipient'->'verification_email_subject'
 msgid "alerts - verification"
-msgstr "pesan - verifikasi"
+msgstr ""
 
-#: 'alert_radius'->'verify_code'
+#: 'alert_recipient'->'verify_code'
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
 msgstr ""
-"Anda tidak akan menerima pesan dari lokasi ini sebelum anda konfirmasikan "
-"permintaan anda."

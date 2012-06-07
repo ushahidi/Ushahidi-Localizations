@@ -1,0 +1,89 @@
+#. extracted from en_US/form.php, cs_CZ/form.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-08 09:42+1300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
+
+#: 'field_default'->'default'
+msgid "The default value you have provided for the field is invalid."
+msgstr "The default value you have provided for the field is invalid."
+
+#: 'field_default'->'length'
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long.'\n"
+"\t),\n"
+"\t\t'between' => 'Please enter a value 0 to 50 for the Field Height."
+msgstr "Název pole musí mít nejméně 3 znaky a ne více než 200 znaků."
+
+#: 'field_isdate'->'between'
+msgid "You have entered an invalid value for Date Field."
+msgstr "Vložil jste neplatnou hodnotu pro datové pole (date field)"
+
+#: 'field_isdate'->'required'
+msgid "Please select Yes or No for the Date Field."
+msgstr "Zvolte \"Ano\" nebo \"Ne\" pro datové pole (date field)"
+
+#: 'field_name'->'length'
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgstr "Název pole musí mít ne méně než 3 znaky a ne více než 100 znaků."
+
+#: 'field_name'->'required'
+msgid "Please enter Field Name."
+msgstr "Vpište název pole."
+
+#: 'field_required'->'between'
+msgid "You have entered an invalid value for Field Required."
+msgstr "Vložil jste neplatnou hodnotu pro dané pole."
+
+#: 'field_required'->'required'
+msgid "Please select Yes or No for Field Required."
+msgstr "Zvolte \"Ano\" nebo \"Ne\" pro dané pole"
+
+#: 'field_type'->'numeric'
+msgid "Please select a valid Field Type."
+msgstr "Zvolte platný typ pole"
+
+#: 'field_type'->'required'
+msgid "Please select a Field Type."
+msgstr "Zvolte typ pole."
+
+#: 'field_width'->'between'
+msgid "Please enter a value 0 to 300 for the Field Width."
+msgstr "Vložte hodnotu 0 až 300 pro udání šířky pole."
+
+#: 'form_description'->'required'
+msgid "Please enter form's Description."
+msgstr "Napište popis formuláře."
+
+#: 'form_id'->'default'
+msgid "The default form cannot be deleted."
+msgstr "Předem zadaný formulář (default form) není možné smazat."
+
+#: 'form_id'->'numeric'
+msgctxt "'form_id'->'numeric'"
+msgid "Please select which form to add this field to."
+msgstr "Zvolte, jaký formulář je třeba přidat k tomuto poli."
+
+#: 'form_id'->'required'
+msgctxt "'form_id'->'required'"
+msgid "Please select which form to add this field to."
+msgstr "Zvolte, jaký formulář je třeba přidat k tomuto poli."
+
+#: 'form_title'->'length'
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
+msgstr ""
+"Pole názvu formuláře (the form name field) musí mít ne méně než 3 a ne více "
+"než 100 znaků."
+
+#: 'form_title'->'required'
+msgid "Please enter the name of the form."
+msgstr "Napište název formuláře."

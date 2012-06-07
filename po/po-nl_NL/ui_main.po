@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:33+0000\n"
+"POT-Creation-Date: 2012-06-08 09:43+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1747,85 +1747,6 @@ msgstr "Plaats een bericht"
 msgid "Report Details"
 msgstr "Bericht details"
 
-#: $lang->'report_edit_dropdown_1_default'
-msgctxt "$lang->'report_edit_dropdown_1_default'"
-msgid "--- Select One ---"
-msgstr "--- Selecteer ---"
-
-#: $lang->'report_edit_dropdown_1_item_1'
-msgctxt "$lang->'report_edit_dropdown_1_item_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
-msgstr ""
-"Ja, de bron heeft direct toegang tot de informatie (getuige of betrokken)"
-
-#: $lang->'report_edit_dropdown_1_item_2'
-msgctxt "$lang->'report_edit_dropdown_1_item_2'"
-msgid "Yes, the source has access to information, but can be wrong."
-msgstr ""
-"Ja, de bron heeft direct toegang tot de informatie, maar kan het verkeerd "
-"hebben"
-
-#: $lang->'report_edit_dropdown_1_item_3'
-msgctxt "$lang->'report_edit_dropdown_1_item_3'"
-msgid ""
-"Yes, the source has no direct access to information, but is often right."
-msgstr ""
-"Ja, de bron heeft geen directe toegang tot de informatie, maar heeft het "
-"vaak juist"
-
-#: $lang->'report_edit_dropdown_1_item_4'
-msgctxt "$lang->'report_edit_dropdown_1_item_4'"
-msgid "Not always, but is often right."
-msgstr "Niet altijd, maar heeft het meestal juist"
-
-#: $lang->'report_edit_dropdown_1_item_5'
-msgctxt "$lang->'report_edit_dropdown_1_item_5'"
-msgid "No, the source has (had) no access to information."
-msgstr "Nee, de bron heeft geen toegang tot de informatie"
-
-#: $lang->'report_edit_dropdown_1_item_6'
-msgctxt "$lang->'report_edit_dropdown_1_item_6'"
-msgid "I do not know."
-msgstr "Ik weet het niet"
-
-#: $lang->'report_edit_dropdown_1_title'
-msgid "Source Reliability"
-msgstr "Betrouwbaarheid"
-
-#: $lang->'report_edit_dropdown_2_default'
-msgctxt "$lang->'report_edit_dropdown_2_default'"
-msgid "--- Select One ---"
-msgstr "--- Selecteer ---"
-
-#: $lang->'report_edit_dropdown_2_item_1'
-msgid "Yes, the information is confirmed by several independent sources."
-msgstr ""
-
-#: $lang->'report_edit_dropdown_2_item_2'
-msgid "Yes, the information is not confirmed (yet), but is likely."
-msgstr ""
-
-#: $lang->'report_edit_dropdown_2_item_3'
-msgid "Yes, the information makes sense."
-msgstr ""
-
-#: $lang->'report_edit_dropdown_2_item_4'
-msgid "No, the information is surprising."
-msgstr ""
-
-#: $lang->'report_edit_dropdown_2_item_5'
-msgid "No, the information is unlikely and may be disinformation."
-msgstr ""
-
-#: $lang->'report_edit_dropdown_2_item_6'
-msgctxt "$lang->'report_edit_dropdown_2_item_6'"
-msgid "I do not know."
-msgstr "Ik weet het niet"
-
-#: $lang->'report_edit_dropdown_2_title'
-msgid "Information Probability"
-msgstr "Waarschijnlijkheid van de informatie"
-
 #: $lang->'report_option_1'
 msgid "By sending a message to"
 msgstr ""
@@ -2252,36 +2173,6 @@ msgstr "Vertaling"
 #: $lang->'translation_saved'
 msgid "Translation has been saved"
 msgstr "Vertaling is opgeslagen"
-
-#: $lang->'trustworthiness'
-msgid "Trustworthiness"
-msgstr "Betrouwbaarheid"
-
-#: $lang->'trustworthiness_option_1'
-msgctxt "$lang->'trustworthiness_option_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
-msgstr ""
-
-#: $lang->'trustworthiness_option_2'
-msgctxt "$lang->'trustworthiness_option_2'"
-msgid "Yes, the source has access to information, but can be wrong."
-msgstr ""
-
-#: $lang->'trustworthiness_option_3'
-msgctxt "$lang->'trustworthiness_option_3'"
-msgid ""
-"Yes, the source has no direct access to information, but is often right."
-msgstr ""
-
-#: $lang->'trustworthiness_option_4'
-msgctxt "$lang->'trustworthiness_option_4'"
-msgid "Not always, but is often right."
-msgstr ""
-
-#: $lang->'trustworthiness_option_5'
-msgctxt "$lang->'trustworthiness_option_5'"
-msgid "No, the source has (had) no access to information."
-msgstr ""
 
 #: $lang->'type'
 msgid "Type"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:34+0000\n"
+"POT-Creation-Date: 2012-06-08 09:43+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1755,82 +1755,6 @@ msgstr "Relatar acontecimento"
 msgid "Report Details"
 msgstr "Report Details"
 
-#: $lang->'report_edit_dropdown_1_default'
-msgctxt "$lang->'report_edit_dropdown_1_default'"
-msgid "--- Select One ---"
-msgstr "--- Seleccione um ---"
-
-#: $lang->'report_edit_dropdown_1_item_1'
-msgctxt "$lang->'report_edit_dropdown_1_item_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
-msgstr "Sim, fonte com acesso directo à informação (vitima ou autor)"
-
-#: $lang->'report_edit_dropdown_1_item_2'
-msgctxt "$lang->'report_edit_dropdown_1_item_2'"
-msgid "Yes, the source has access to information, but can be wrong."
-msgstr "Sim, fonte com acesso à informação, mas pode estar errado"
-
-#: $lang->'report_edit_dropdown_1_item_3'
-msgctxt "$lang->'report_edit_dropdown_1_item_3'"
-msgid ""
-"Yes, the source has no direct access to information, but is often right."
-msgstr ""
-"Sim, fonte sem acesso directo à informação, mas muitas das vezes está "
-"correcto"
-
-#: $lang->'report_edit_dropdown_1_item_4'
-msgctxt "$lang->'report_edit_dropdown_1_item_4'"
-msgid "Not always, but is often right."
-msgstr "Nem sempre, mas está correcto algumas vezes"
-
-#: $lang->'report_edit_dropdown_1_item_5'
-msgctxt "$lang->'report_edit_dropdown_1_item_5'"
-msgid "No, the source has (had) no access to information."
-msgstr "Não, a fonte não teve acesso directo à informação"
-
-#: $lang->'report_edit_dropdown_1_item_6'
-msgctxt "$lang->'report_edit_dropdown_1_item_6'"
-msgid "I do not know."
-msgstr "Sem avaliação"
-
-#: $lang->'report_edit_dropdown_1_title'
-msgid "Source Reliability"
-msgstr "Fiabilidade da fonte"
-
-#: $lang->'report_edit_dropdown_2_default'
-msgctxt "$lang->'report_edit_dropdown_2_default'"
-msgid "--- Select One ---"
-msgstr "--- Seleccione um ---"
-
-#: $lang->'report_edit_dropdown_2_item_1'
-msgid "Yes, the information is confirmed by several independent sources."
-msgstr "Sim, a informação é confirmada por diversas fonte independentes"
-
-#: $lang->'report_edit_dropdown_2_item_2'
-msgid "Yes, the information is not confirmed (yet), but is likely."
-msgstr "Sim, a informação não é oficial, mas é provavel"
-
-#: $lang->'report_edit_dropdown_2_item_3'
-msgid "Yes, the information makes sense."
-msgstr "Sim, a informação faz sentido"
-
-#: $lang->'report_edit_dropdown_2_item_4'
-msgid "No, the information is surprising."
-msgstr "Não, a informação é surpreendente"
-
-#: $lang->'report_edit_dropdown_2_item_5'
-msgid "No, the information is unlikely and may be disinformation."
-msgstr "Não, a informação é pouco provável e talvez seja contra informação"
-
-#: $lang->'report_edit_dropdown_2_item_6'
-msgctxt "$lang->'report_edit_dropdown_2_item_6'"
-msgid "I do not know."
-msgstr "Sem avaliação"
-
-#: $lang->'report_edit_dropdown_2_title'
-msgid "Information Probability"
-msgstr "Veracidade da Informação"
-
 #: $lang->'report_option_1'
 msgid "By sending a message to"
 msgstr "Através do envio de um sms para:"
@@ -2257,38 +2181,6 @@ msgstr "Traducção"
 #: $lang->'translation_saved'
 msgid "Translation has been saved"
 msgstr "A tradução foi guardada"
-
-#: $lang->'trustworthiness'
-msgid "Trustworthiness"
-msgstr "Veracidade"
-
-#: $lang->'trustworthiness_option_1'
-msgctxt "$lang->'trustworthiness_option_1'"
-msgid "Yes, the source has direct access to information (witness or actor)."
-msgstr "Sim, fonte com acesso directo à informação (vitima ou autor)"
-
-#: $lang->'trustworthiness_option_2'
-msgctxt "$lang->'trustworthiness_option_2'"
-msgid "Yes, the source has access to information, but can be wrong."
-msgstr "Sim, fonte com acesso à informação, mas pode estar errado"
-
-#: $lang->'trustworthiness_option_3'
-msgctxt "$lang->'trustworthiness_option_3'"
-msgid ""
-"Yes, the source has no direct access to information, but is often right."
-msgstr ""
-"Sim, fonte sem acesso directo à informação, mas muitas das vezes está "
-"correcto"
-
-#: $lang->'trustworthiness_option_4'
-msgctxt "$lang->'trustworthiness_option_4'"
-msgid "Not always, but is often right."
-msgstr "Nem sempre, mas está correcto algumas vezes"
-
-#: $lang->'trustworthiness_option_5'
-msgctxt "$lang->'trustworthiness_option_5'"
-msgid "No, the source has (had) no access to information."
-msgstr "Não, a fonte não teve acesso directo à informação"
 
 #: $lang->'type'
 msgid "Type"

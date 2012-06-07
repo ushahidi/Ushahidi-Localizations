@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:34+0000\n"
+"POT-Creation-Date: 2012-06-08 09:43+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,113 +100,105 @@ msgstr "Você não definiu um raio de alcance válido no mapa."
 msgid "You have not set your radius on the map."
 msgstr "Você não definiu um raio de alcance no mapa."
 
-#: 'alert_radius'->'alerts_subscribed'
-msgid "You have subscribed for alerts with the following categories"
+#: 'alert_recipient'->'required'
+msgid ""
+"You have not set a recipient for alerts.'\n"
+"  ),\n"
+"\t'alerts_subscribed' => 'You have subscribed for alerts with the following "
+"categories"
 msgstr ""
 
-#: 'alert_radius'->'code_already_verified'
+#: 'alert_recipient'->'code_already_verified'
 msgid "This code has been verified before!"
-msgstr "Esse código já foi verificado."
+msgstr ""
 
-#: 'alert_radius'->'code_not_found'
+#: 'alert_recipient'->'code_not_found'
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
 msgstr ""
-"O código de verificação não foi encontrado. Confirme se a URL está correta."
 
-#: 'alert_radius'->'code_verified'
+#: 'alert_recipient'->'code_verified'
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
 msgstr ""
-"O código foi verificado corretamente. A partir de agora, os alertas serão "
-"enviados a medida que os eventos aconteçam."
 
-#: 'alert_radius'->'confirm_request'
+#: 'alert_recipient'->'confirm_request'
 msgid "To confirm your alert request, please go to "
-msgstr "Para confirmar a solicitação de alertas, acesse "
+msgstr ""
 
-#: 'alert_radius'->'create_more_alerts'
+#: 'alert_recipient'->'create_more_alerts'
 msgid "Return to the Alerts page to create more alerts"
-msgstr "Volte à página de alertas para criar outras notificações."
+msgstr ""
 
-#: 'alert_radius'->'email_alert_request_created'
+#: 'alert_recipient'->'email_alert_request_created'
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
 msgstr ""
-"Foi criada uma solicitação de alerta por email, e uma mensagem de "
-"verificação foi enviada para "
 
-#: 'alert_radius'->'email_code'
+#: 'alert_recipient'->'email_code'
 msgid "Please enter the Email confirmation code you received below: "
-msgstr "Digite o código de confirmação recebido por email abaixo: "
+msgstr ""
 
-#: 'alert_radius'->'email_error_head'
+#: 'alert_recipient'->'email_error_head'
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr "A solicitação de alertas por email NÃO foi gravada."
+msgstr ""
 
-#: 'alert_radius'->'email_ok_head'
+#: 'alert_recipient'->'email_ok_head'
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr "A solicitação de alertas por email foi gravada."
+msgstr ""
 
-#: 'alert_radius'->'error'
+#: 'alert_recipient'->'error'
 msgid "The system was not able to process your confirmation request!"
-msgstr "Não foi possível processar sua confirmação."
+msgstr ""
 
-#: 'alert_radius'->'mobile_alert_request_created'
+#: 'alert_recipient'->'mobile_alert_request_created'
 msgid ""
 "Your Mobile Alert request has been created and verification message has been "
 "sent to "
 msgstr ""
-"Foi criada uma solicitação de alerta por celular, e uma mensagem de "
-"verificação foi enviada para  "
 
-#: 'alert_radius'->'mobile_code'
+#: 'alert_recipient'->'mobile_code'
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr "Digite o código de confirmação recebido via mensagem de SMS abaixo: "
+msgstr ""
 
-#: 'alert_radius'->'mobile_error_head'
+#: 'alert_recipient'->'mobile_error_head'
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr "A solicitação de alerta por celular NÃO foi salva."
+msgstr ""
 
-#: 'alert_radius'->'mobile_ok_head'
+#: 'alert_recipient'->'mobile_ok_head'
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr "A solicitação de alerta por celular foi salva."
+msgstr ""
 
-#: 'alert_radius'->'settings_error'
+#: 'alert_recipient'->'settings_error'
 msgid "This deployment is not set up to correctly process alerts"
-msgstr "Essa versão não está configurada para processar alertas corretamente."
+msgstr ""
 
-#: 'alert_radius'->'unsubscribe'
+#: 'alert_recipient'->'unsubscribe'
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
 msgstr ""
-"Você recebeu este email porque se cadastrou para receber alertas. Caso não "
-"queira receber alertas no futuro, acesse "
 
-#: 'alert_radius'->'unsubscribed'
+#: 'alert_recipient'->'unsubscribed'
 msgid "You will no longer receive alerts from "
-msgstr "Não serão mais enviados alertas de "
+msgstr ""
 
-#: 'alert_radius'->'unsubscribe_failed'
+#: 'alert_recipient'->'unsubscribe_failed'
 msgid ""
 "We were not able to unsubscribe you. Please confirm that you have the "
 "correct URL."
 msgstr ""
-"Não foi possível cancelar a sua inscrição. Confirme se a URL está correta."
 
-#: 'alert_radius'->'verification_email_subject'
+#: 'alert_recipient'->'verification_email_subject'
 msgid "alerts - verification"
-msgstr "Alertas - Verificação"
+msgstr ""
 
-#: 'alert_radius'->'verify_code'
+#: 'alert_recipient'->'verify_code'
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
 msgstr ""
-"Não serão enviados alertas sobre essa localidade até que a solicitação tenha "
-"sido confirmada."

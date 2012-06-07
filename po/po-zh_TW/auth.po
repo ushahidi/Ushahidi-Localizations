@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:39+0000\n"
+"POT-Creation-Date: 2012-06-08 09:43+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -180,23 +180,25 @@ msgid "The admin user role cannot be modified."
 msgstr "管理者權限無法被修改"
 
 #: 'username'->'alpha_numeric'
-msgid "The username field must only contain numbers and letters."
+msgid "The public profile URL field must only contain numbers and letters."
 msgstr ""
 
 #: 'username'->'exists'
-msgid "Sorry, this username is already in use."
+msgid "Sorry, this public profile URL is already in use."
 msgstr "抱歉，這個使用者名稱已經被註冊"
 
 #: 'username'->'length'
-msgid "The username field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr "使用者帳號必須為2~16個字元"
 
 #: %27username%27-%3E%27login+error%27
-msgid "Please check that you entered the correct username."
+msgid "Please check that you entered the correct public profile URL."
 msgstr "請確認你已輸入正確的使用者名稱"
 
 #: 'username'->'required'
-msgid "The username field is required."
+msgid "The public profile URL field is required."
 msgstr "使用者帳號為必填"
 
 #: 'username'->'superadmin'

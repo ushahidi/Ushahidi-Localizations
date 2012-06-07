@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-01 05:27+0000\n"
+"POT-Creation-Date: 2012-06-08 09:42+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -91,101 +91,105 @@ msgstr "לא הוגדר רדיוס תקין על המפה."
 msgid "You have not set your radius on the map."
 msgstr "לא הוגדר רדיוס על המפה."
 
-#: 'alert_radius'->'alerts_subscribed'
-msgid "You have subscribed for alerts with the following categories"
+#: 'alert_recipient'->'required'
+msgid ""
+"You have not set a recipient for alerts.'\n"
+"  ),\n"
+"\t'alerts_subscribed' => 'You have subscribed for alerts with the following "
+"categories"
 msgstr ""
 
-#: 'alert_radius'->'code_already_verified'
+#: 'alert_recipient'->'code_already_verified'
 msgid "This code has been verified before!"
-msgstr "קוד זה אומת כבר בעבר!"
+msgstr ""
 
-#: 'alert_radius'->'code_not_found'
+#: 'alert_recipient'->'code_not_found'
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
-msgstr "קוד האימות לא נמצא! יש לוודא כי כתובת ה-URL הינה נכונה."
+msgstr ""
 
-#: 'alert_radius'->'code_verified'
+#: 'alert_recipient'->'code_verified'
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr "הקוד אומת בהצלחה. מעתה ישלחו אליך התראות בזמן אמת על תקריות שמתרחשות"
+msgstr ""
 
-#: 'alert_radius'->'confirm_request'
+#: 'alert_recipient'->'confirm_request'
 msgid "To confirm your alert request, please go to "
-msgstr "כדי לאשר את בקשת ההתראה, יש לגשת ל"
+msgstr ""
 
-#: 'alert_radius'->'create_more_alerts'
+#: 'alert_recipient'->'create_more_alerts'
 msgid "Return to the Alerts page to create more alerts"
-msgstr "חזרה לעמוד ההתראות ליצירת התראות נוספות"
+msgstr ""
 
-#: 'alert_radius'->'email_alert_request_created'
+#: 'alert_recipient'->'email_alert_request_created'
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
-msgstr "בקשתך להתראת אימייל נקלטה והודעת אימות נשלחה ל"
+msgstr ""
 
-#: 'alert_radius'->'email_code'
+#: 'alert_recipient'->'email_code'
 msgid "Please enter the Email confirmation code you received below: "
-msgstr "הזן למטה את קוד האישור שקיבלת בדואר האלקטרוני:"
+msgstr ""
 
-#: 'alert_radius'->'email_error_head'
+#: 'alert_recipient'->'email_error_head'
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr "בקשתך להתראת אימייל לא נשמרה!"
+msgstr ""
 
-#: 'alert_radius'->'email_ok_head'
+#: 'alert_recipient'->'email_ok_head'
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr "בקשתך להתראת אימייל נשמרה!"
+msgstr ""
 
-#: 'alert_radius'->'error'
+#: 'alert_recipient'->'error'
 msgid "The system was not able to process your confirmation request!"
-msgstr "לא ניתן לאתר את בקשתך לאישור!"
+msgstr ""
 
-#: 'alert_radius'->'mobile_alert_request_created'
+#: 'alert_recipient'->'mobile_alert_request_created'
 msgid ""
 "Your Mobile Alert request has been created and verification message has been "
 "sent to "
-msgstr "בקשתך להתראה בטלפון הנייד נקלטה והודעת אימות נשלחה ל"
+msgstr ""
 
-#: 'alert_radius'->'mobile_code'
+#: 'alert_recipient'->'mobile_code'
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr "יש להזין מטה את קוד האימות שקיבלת ב-SMS לטלפון הנייד:"
+msgstr ""
 
-#: 'alert_radius'->'mobile_error_head'
+#: 'alert_recipient'->'mobile_error_head'
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr "בקשתך להתראה בטלפון הנייד לא נשמרה!"
+msgstr ""
 
-#: 'alert_radius'->'mobile_ok_head'
+#: 'alert_recipient'->'mobile_ok_head'
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr "בקשתך להתראה בטלפון הנייד נשמרה!"
+msgstr ""
 
-#: 'alert_radius'->'settings_error'
+#: 'alert_recipient'->'settings_error'
 msgid "This deployment is not set up to correctly process alerts"
-msgstr "המערכת אינה מוגדרת כהלכה לעיבוד התראות"
+msgstr ""
 
-#: 'alert_radius'->'unsubscribe'
+#: 'alert_recipient'->'unsubscribe'
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
-msgstr "דואר זה נשלח אליך בשל הרשמתך לקבלת התראות. לביטול קבלת התראות יש לגשת ל"
+msgstr ""
 
-#: 'alert_radius'->'unsubscribed'
+#: 'alert_recipient'->'unsubscribed'
 msgid "You will no longer receive alerts from "
-msgstr "התראות לא יישלחו יותר מ"
+msgstr ""
 
-#: 'alert_radius'->'unsubscribe_failed'
+#: 'alert_recipient'->'unsubscribe_failed'
 msgid ""
 "We were not able to unsubscribe you. Please confirm that you have the "
 "correct URL."
-msgstr "ביטול ההרשמה נכשל. יש לוודא תקינות כתובת URL."
+msgstr ""
 
-#: 'alert_radius'->'verification_email_subject'
+#: 'alert_recipient'->'verification_email_subject'
 msgid "alerts - verification"
-msgstr "אימות הרשמה לקבלת התראות"
+msgstr ""
 
-#: 'alert_radius'->'verify_code'
+#: 'alert_recipient'->'verify_code'
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
-msgstr "התראות על מיקום זה לא יישלחו עד שתאושר בקשתך."
+msgstr ""
