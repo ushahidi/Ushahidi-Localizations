@@ -1,9 +1,9 @@
-#. extracted from so/libraries.php, en_US/libraries.php
+#. extracted from en_US/libraries.php, en_US/libraries.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,83 +13,84 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'akismet_cannot_connect'
-msgid "Kuma xirmi karo Server-ka akismet"
+msgid "Could not connect to Akismet server."
 msgstr ""
 
 #: $lang->'akismet_cannot_retrieve'
-msgid "jawaabta ka imaaneysa akismet lama heli karo"
+msgid "The response from Akismet could not be retrieved."
 msgstr ""
 
 #: $lang->'api_library_not_found'
 msgid ""
-"Keydka xogta ee API lama heli karo: <strong>%s</strong>, for the <strong>%"
-"s</strong>. Fadlan iska hubi API Routing Table-ka"
+"The API library: <strong>%s</strong> for the <strong>%s</strong> class could "
+"not be found. Please check your API task routing table."
 msgstr ""
 
 #: $lang->'askimet_invalid_apikey'
-msgid "Furahaaga Server-ka Akismet API ma ahan mid jira"
+msgid "Your Akismet API key is not valid."
 msgstr ""
 
 #: $lang->'clickatell_fopen_error'
 msgid ""
-"Cillad ayaa dhacday. Fadlan hubi in isku xiraha PHP uu leeyahay taageerka "
-"OpenSSL iyo in Version-ku ka wayn yahay 5.2"
+"Error while executing fopen sending method!<br>Please check whether PHP has "
+"OpenSSL support and whether the PHP version is greater than 5.2."
 msgstr ""
 
 #: $lang->'clickatell_message_too_long'
-msgid "Farriinta Unicode-kaagu aad bay u dheer tahay. (Dhererka haatan="
+msgctxt "$lang->'clickatell_message_too_long'"
+msgid "Your unicode message is too long! (Current length="
 msgstr ""
 
 #: $lang->'clickatell_no_destination_address'
-msgid "Fadlan caddee cinwaanka loo dirayo!"
+msgid "Please specify a destination address (TO)!"
 msgstr ""
 
 #: $lang->'clickatell_no_sender_address'
-msgid "Fadlan caddee cinwaanka laga dirayo!"
+msgid "Please specify source address (FROM)!"
 msgstr ""
 
 #: $lang->'clickatell_unicode_message_too_long'
-msgid "Farriinta Unicode-kaagu aad bay u dheer tahay! (Dhererka haatan="
+msgctxt "$lang->'clickatell_unicode_message_too_long'"
+msgid "Your unicode message is too long! (Current length="
 msgstr ""
 
 #: $lang->'clickatell_unsupported_method'
-msgid "Khalad xagga diridda ah ayaa jira!"
+msgid "Unsupported sending method!"
 msgstr ""
 
 #: $lang->'invalid_api_library'
 msgid ""
-"Keydka xogta ee API % waa khalad. Dhammaan keydadka xogta waa inay hoos "
-"yimaadan %"
+"The API library %s is invalid. All API libraries must be subclasses of %s."
 msgstr ""
 
 #: $lang->'upgrade_directory_not_deleted'
-msgid "Galka <code>%s</coded> lama tiri karo"
+msgid "Directory <code>%s</coded> could not be deleted."
 msgstr ""
 
 #: $lang->'upgrade_extracting_error'
-msgid "Cillad ayaa dhacday:  <code>%s</code>"
+msgid "Error while extracting: <code>%s</code>"
 msgstr ""
 
 #: $lang->'upgrade_failed'
-msgid ""
-"Soodejinta version-kii u dambeeyay ee Ushahidi waa uu guuldarreystay. HTTP "
-"status Code"
+msgid "Downloading the latest Ushahidi failed. HTTP status code"
 msgstr ""
 
 #: $lang->'upgrade_file_not_copied'
-msgid "Faylka <code>%s</coded> waa la badin kari waayay\r\n"
+msgid "File <code>%s</coded> could not be copied."
 msgstr ""
 
 #: $lang->'upgrade_file_not_deleted'
-msgid "Faylka <code>%s</coded> waa la tiri waayay\r\n"
+msgid "File <code>%s</coded> could not be deleted."
 msgstr ""
 
 #: $lang->'upgrade_title'
-msgid "Script-ga casriyeynta Ushahidi"
+msgid "Ushahidi upgrade script"
 msgstr ""
 
 #: $lang->'upgrade_zip_error'
-msgid ""
-"Faylka zip-ka ah ee la soo dejiyay ee Ushahidi <code>%s</code>, waa la qori "
-"waayay"
+msgid "The downloaded Ushahidi zip file <code>%s</code>, could not be written."
+msgstr ""
+
+#: $lang->'riverid_variable_not_available'
+msgid "%s is not available in the RiverID class."
 msgstr ""

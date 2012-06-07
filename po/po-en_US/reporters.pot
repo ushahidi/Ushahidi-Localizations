@@ -1,9 +1,9 @@
-#. extracted from so/reporters.php, en_US/reporters.php
+#. extracted from en_US/reporters.php, en_US/reporters.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,50 +13,50 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'latitude'->'between'
-msgid "Xarriiqda loolku (latitude)sax ma aha?"
+msgid "The latitude field does not appear to contain a valid latitude."
 msgstr ""
 
 #: 'latitude'->'required'
 msgid ""
-"Xarriiqda loolka (latitude) ayaa loo baahan yahay. Fadlan guji khariidada si "
-"aad goob u tilmaanto."
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr ""
 
 #: 'level_id'->'numeric'
 msgctxt "'level_id'->'numeric'"
-msgid "Goobta Reporter Level-ka kuma jiro Level sax ah."
+msgid "The Reporter Level field does not appear to contain a valid Level."
 msgstr ""
 
 #: 'level_id'->'required'
 msgctxt "'level_id'->'required'"
-msgid "Goobta Reporter Level-ka kuma jiro Level sax ah."
+msgid "The Reporter Level field does not appear to contain a valid Level."
 msgstr ""
 
 #: 'location_name'->'length'
 msgid ""
-"Magaca goobtu waa inuu ahaadaa ugu yaraan 3 xaraf, ugu badnaana 200 xaraf."
+"The location name field must be at least 3 and no more 200 characters long."
 msgstr ""
 
 #: 'location_name'->'required'
-msgid "Magaca goobta ayaa loo baahan yahay."
+msgid "The location name field is required."
 msgstr ""
 
 #: 'longitude'->'between'
-msgid "Goobta longitude-ku ma lahan longitude sax ah?"
+msgid "The longitude field does not appear to contain a valid longitude."
 msgstr ""
 
 #: 'longitude'->'required'
 msgid ""
-"Goobta longitude ayaa loo baahan yahay.Fadlan guji khariidada si aad u "
-"tilmaantid goob.   "
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr ""
 
 #: 'reporter_id'->'numeric'
 msgctxt "'reporter_id'->'numeric'"
-msgid "Soo tebiyuhu sax ma aha."
+msgid "Invalid Reporter"
 msgstr ""
 
 #: 'reporter_id'->'required'
 msgctxt "'reporter_id'->'required'"
-msgid "Soo tebiyuhu sax ma aha."
+msgid "Invalid Reporter"
 msgstr ""

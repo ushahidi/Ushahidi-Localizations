@@ -1,9 +1,9 @@
-#. extracted from so/database.php, en_US/database.php
+#. extracted from en_US/database.php, en_US/database.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,11 +13,11 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'error'
-msgid "Khalad dhanka keydka xogta ah ayaa jira: %s"
+msgid "Database error: %s"
 msgstr ""
 
 #: $lang->'table_not_found'
 msgid ""
-"Warbixinta aad raadinayso waa laga waayay keydka xogta. Fadlan hubi inaad "
-"isticmaalayso keyd xogeed ku shaqeyn kara version-ka Ushahidi"
+"Table \"%s\" cannot be found in the database. Please make sure you are using "
+"the latest version of the database for this version of Ushahidi."
 msgstr ""

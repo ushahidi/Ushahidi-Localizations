@@ -1,9 +1,9 @@
-#. extracted from so/settings.php, en_US/settings.php
+#. extracted from en_US/settings.php, en_US/settings.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,332 +13,410 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'allow_comments'->'between'
-msgid "Qiimaha ku jira goobta allow comments sax ma aha?"
+msgid "The allow comments field does not appear to contain a valid value."
 msgstr ""
 
 #: 'allow_comments'->'required'
-msgid "Goobta allow comments waa loo baahan yahay."
+msgid "The allow comments field is required."
 msgstr ""
 
 #: 'allow_feed'->'between'
-msgid "Goobta include feed kuma jiro qiime sax ah?"
+msgid "The include feed field does not appear to contain a valid value."
 msgstr ""
 
 #: 'allow_feed'->'required'
-msgid "Goobta include feed waa loo baahan yahay."
+msgid "The include feed field is required."
+msgstr ""
+
+#: 'allow_alerts'->'between'
+msgid "The allow alerts field does not appear to contain a valid value."
+msgstr ""
+
+#: 'allow_alerts'->'required'
+msgid "The allow alerts field is required."
 msgstr ""
 
 #: 'allow_reports'->'between'
-msgid "Goobta allow reports kuma jiro qiime sax ah?"
+msgid "The allow reports field does not appear to contain a valid value."
 msgstr ""
 
 #: 'allow_reports'->'required'
-msgid "Goobta allow reports waa loo baahan yahay."
+msgid "The allow reports field is required."
 msgstr ""
 
 #: 'allow_stat_sharing'->'between'
-msgid "Goobta stat sharing kuma jiro qiime sax ah?"
+msgid "The stat sharing field does not appear to contain a valid value."
 msgstr ""
 
 #: 'allow_stat_sharing'->'required'
-msgid "Goobta stat sharing field waa loo baahan yahay."
+msgid "The stat sharing field is required."
 msgstr ""
 
 #: 'api'->'default_record_limit'
-msgid "Rikoodhyada lagu soo saarayo halkii dalab ee API"
+msgid "Default number of records to be fetched per API request"
 msgstr ""
 
 #: 'api'->'maximum_record_limit'
-msgid "Rikoodhyada ugu badan ee lagu soo saarayo halkii dalab ee API"
+msgid "Maximum number of records to be fetched per API request"
 msgstr ""
 
 #: 'api'->'maximum_requests_per_ip_address'
-msgid "Tirada ugu badan ee dalabyada API ee halkii IP address."
+msgid "Maximum number of API requests per IP address"
 msgstr ""
 
 #: 'api_akismet'->'alpha_numeric'
-msgid "Goobta Akismet field kuma jiro qiime sax?"
+msgctxt "'api_akismet'->'alpha_numeric'"
+msgid "The Akismet field does not appear to contain a valid value."
 msgstr ""
 
 #: 'api_akismet'->'length'
-msgid "Goobta Akismet kuma jiro qiime sax ah?"
+msgctxt "'api_akismet'->'length'"
+msgid "The Akismet field does not appear to contain a valid value."
 msgstr ""
 
-#: 'api_akismet'->'api_default_record_limit'
-msgctxt "'api_akismet'->'api_default_record_limit'"
-msgid "so_SO: "
+#: 'banner_image'->'default'
+msgid "Something went wrong with your banner image upload."
 msgstr ""
 
-#: 'cache_pages'->'between'
-msgid "Goobta boggaga cache waa loo baahan yahay."
+#: 'banner_image'->'size'
+msgid ""
+"The size of your banner exceeds the size limit for this upload.'\n"
+"\t),\n"
+"\t\t'between' => 'The cache pages field is required."
 msgstr ""
 
 #: 'cache_pages'->'required'
-msgid "Goobta boggaga cache kuma jiro qiime sax ah?"
+msgid "The cache pages field does not appear to contain a valid value."
 msgstr ""
 
 #: 'cache_pages_lifetime'->'in_array'
-msgid "Goobta boggaga cache pages lifetime field kuma jiro qiime sax ah?"
+msgid ""
+"The cache pages lifetime field does not appear to contain a valid value."
 msgstr ""
 
 #: 'cache_pages_lifetime'->'required'
-msgid "Goobta boggaga cache pages lifetime waa loo baahan yahay."
+msgid "The cache pages lifetime field is required."
 msgstr ""
 
 #: 'cleanurl'->'clean_url_disabled'
 msgid ""
-"Waxay u muuqataa in Server-kaagu uusan u sameysnayn inuu ku shaqeeyo URLs "
-"nadiif ah. Waxaad u baahan tahay inaad wax ka bedesho settings-ka server-"
-"kaaga kahor inta aadan awood siinin URLs-yada nadiifka ah (Clean URLs). "
-"Waxaad halkan ka akhrisaa warbixin dheeraad ah oo ku saabsan sida loo awood "
-"siiyo clean URLs <a href=\"http://forums.ushahidi.com/topic/server-"
-"configuration-for-apache-mod-rewrite\" target=\"_blank\">post</a>"
+"It looks like your server is not configured to handle clean URLs. You will "
+"need to change the configuration of your server before you can enable clean "
+"URLs. See more info on how to enable clean URLs at <a "
+"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
+"rewrite\" target=\"_blank\">this forum post</a>"
 msgstr ""
 
 #: 'cleanurl'->'clean_url_enabled'
 msgid ""
-"Amarkaan waxa uu awood kuu siinayaa in Ushahidi laga geli karo \"clean\" URLs-"
-"yada. Iya"
+"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
+"\"index.php\" in the URL)."
 msgstr ""
 
 #: 'cleanurl'->'enable_clean_url'
-msgid "Awood sii Clean URLs"
+msgid "Enable Clean URLs"
 msgstr ""
 
 #: 'cleanurl'->'title'
-msgid "URLs nadiif ah (Clean URLs)"
+msgid "Clean URLs"
 msgstr ""
 
 #: 'clickatell_api'->'length'
-msgid "tirada Clickatell API waa inaysan ka badnayn 20 xaraf."
+msgid "The Clickatell API number field must be no more 20 characters long."
 msgstr ""
 
 #: 'clickatell_api'->'required'
-msgid "Goobta tirada Clickatell API waa loo baahan yahay."
+msgid "The Clickatell API number field is required."
 msgstr ""
 
 #: 'clickatell_password'->'length'
 msgid ""
-"Password-ka Clickatell waa inuu ka kooban yahay ugu yaraan 5 xaraf, ugu "
-"badnaana 50 xaraf."
+"The Clickatell Password field must be at least 5 and no more 50 characters "
+"long."
 msgstr ""
 
 #: 'clickatell_password'->'required'
-msgid "Goobta password-ka Clickatell waa loo baahan yahay."
+msgid "The Clickatell Password field is required."
 msgstr ""
 
 #: 'clickatell_username'->'length'
-msgid "Goobta username-ka ee Clickatell waa inaysan ka badnayn 50 xaraf."
+msgid "The Clickatell Username field must be no more 50 characters long."
 msgstr ""
 
 #: 'clickatell_username'->'required'
-msgid "Username-ka Clickatell ayaa loo baahan yahay."
+msgid "The Clickatell Username field is required."
 msgstr ""
 
 #: 'clickatell_username'->'configure_map'
-msgid "Habbee khariidada."
+msgid "Configure Map"
 msgstr ""
 
 #: 'clickatell_username'->'default_location'
-msgid "Goobta asalka ah."
+msgid "Default Location"
 msgstr ""
 
 #: 'default_map_all'->'alpha_numeric'
-msgid "Goobta midabadda ee Feed-ka kuma jiro qiime sax ah?"
+msgid "The color feed field does not appear to contain a valid value."
 msgstr ""
 
 #: 'default_map_all'->'length'
-msgid "Goobta midabadda waa inaysan ka yarayn 6 xaraf."
+msgid "The color field must be no more 6 characters long."
 msgstr ""
 
 #: 'default_map_all'->'required'
-msgid "Goobta middabada ayaa loo baahan yahay."
+msgid "The color field is required."
 msgstr ""
 
 #: 'default_map_all'->'default_map_view'
-msgid "Aragtida khariidada asalka ah."
+msgid "Default Map View"
 msgstr ""
 
 #: 'default_map_all'->'default_zoom_level'
-msgctxt "'default_map_all'->'default_zoom_level'"
-msgid "Heerka weyneynta"
+msgid "Default Zoom Level"
 msgstr ""
 
 #: 'default_map_all'->'download_city_list'
-msgid "Kala soo bax magaalooyinka Geonames"
+msgid "Retrieve Cities From Geonames"
 msgstr ""
 
 #: 'email_host'->'length'
-msgid "Goobta port Mail server-ka aad buu u dheer yahay."
+msgctxt "'email_host'->'length'"
+msgid "The Mail server port field is too long."
 msgstr ""
 
 #: 'email_host'->'numeric'
-msgid "Goobta port Mail server-ka waa inay ka kooban tahay tiro kaliya."
+msgctxt "'email_host'->'numeric'"
+msgid "The Mail server port field should contain numbers only."
 msgstr ""
 
 #: 'email_password'->'length'
 msgid ""
-"Goobta password-ka ee Mail Server-ka waa inuu ka kooban yahay ugu yaraan 5 "
-"xaraf, ugu badnaana 50 xaraf."
+"The Mail Server Password field must be at least 5 and no more 50 characters "
+"long."
 msgstr ""
 
 #: 'email_password'->'required'
-msgid "Goobta password-ka Mail Server-ka waa loo baahan yahay."
+msgid "The Mail Server Password field is required."
 msgstr ""
 
 #: 'email_port'->'length'
-msgid "Goobta port Mail Server-ka aad bay u dheer tahay."
+msgctxt "'email_port'->'length'"
+msgid "The Mail server port field is too long."
 msgstr ""
 
 #: 'email_port'->'numeric'
-msgid "Goobta port Mail Server-ku waa inay ka kooban tahay tiro kaliya."
+msgctxt "'email_port'->'numeric'"
+msgid "The Mail server port field should contain numbers only."
 msgstr ""
 
 #: 'email_servertype'->'length'
-msgid "Goobta Mail Server port-ku aad bay u dheer tahay."
+msgctxt "'email_servertype'->'length'"
+msgid "The Mail server port field is too long."
 msgstr ""
 
 #: 'email_servertype'->'required'
-msgid "Goobta nooce ee Mail Server-ka waa loo baahan yahay."
+msgid "The Mail Server Type field is required."
 msgstr ""
 
 #: 'email_username'->'length'
-msgid "Goobta Username-ka ee Mail Server-ku waa inaysan ka badnayn 50 xaraf."
+msgid "The Mail Server Username field must be no more 50 characters long."
 msgstr ""
 
 #: 'email_username'->'required'
-msgid "Username-ka Mail Server-ka waa loo baahan yahay."
+msgid "The Mail Server Username field is required."
 msgstr ""
 
-#: 'google_analytics'->'length'
+#: 'facebook'->'title'
+msgid "Facebook Setup Options"
+msgstr ""
+
+#: 'facebook'->'description'
 msgid ""
-"Goobta Google Anayltics waa inay ku jirtaa Web Property ID hannaankeedu "
+"To get the information below you will need to create a new Facebook "
+"application at"
 msgstr ""
 
-#: 'items_per_page'->'between'
-msgid "Goobta Frontend kuma jiro qiime sax ah?"
+#: 'facebook'->'app_id'
+msgid "Facebook App ID"
+msgstr ""
+
+#: 'facebook'->'app_secret'
+msgid ""
+"Facebook App Secret'\n"
+"\t),\n"
+"\t\t'length' => 'The Google Analytics field must contain a valid Web Property "
+"ID in the format UA-XXXXX-XX."
+msgstr ""
+
+#: 'https'->'enable_https'
+msgid "Enable HTTPS"
+msgstr ""
+
+#: 'https'->'https_disabled'
+msgid ""
+"This option makes Ushahidi be accessed in unsecure mode; "
+"<strong>without</strong> \"https://\" in the URL prefix"
+msgstr ""
+
+#: 'https'->'https_enabled'
+msgid ""
+"This option makes Ushahidi be accessed in secure mode; with "
+"<strong>https</strong> in the URL prefix"
+msgstr ""
+
+#: 'https'->'title'
+msgid ""
+"HTTPS'\n"
+"\t),\n"
+"\t\t'between' => 'The items per page (Frontend) field does not appear to "
+"contain a valid value."
 msgstr ""
 
 #: 'items_per_page'->'required'
-msgid "Goobta Frontend ayaa loo baahan yahay."
+msgid "The items per page (Frontend) field is required."
 msgstr ""
 
 #: 'items_per_page_admin'->'between'
-msgid "Goobta Admin kuma jiro qiime sax ah?"
+msgid ""
+"The items per page (Admin) field does not appear to contain a valid value."
 msgstr ""
 
 #: 'items_per_page_admin'->'required'
-msgid "Goobta Admin ayaa loo baahan yahay."
+msgid "The items per page (Admin) field is required."
 msgstr ""
 
 #: 'map'->'default_location'
-msgctxt "'map'->'default_location'"
 msgid ""
-"Hagaajinta khariidad bixiyaha waa hawl fudud. Dooro bixiyaha khariidada, ka "
-"hel fure API khariidad bixiyaha boggiisa, kadib geli furaha API."
+"Setting up your map provider is a straight- forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
 msgstr ""
 
 #: 'map'->'zoom'
-msgctxt "'map'->'zoom'"
-msgid "Heerka weyneynta"
+msgid "Zoom Level"
 msgstr ""
 
 #: 'map_provider'->'choose'
-msgid "Dooro khariidad bixiye"
+msgid "Select a Map Provider"
 msgstr ""
 
 #: 'map_provider'->'enter_api'
-msgid "Geli fure cusub oo API ah."
+msgid "Enter the new API Key"
 msgstr ""
 
 #: 'map_provider'->'get_api'
-msgid "Hel fure API"
+msgid "Get an API Key"
 msgstr ""
 
 #: 'map_provider'->'info'
-msgctxt "'map_provider'->'info'"
 msgid ""
-"Hagaajinta khariidad bixiyaha waa hawl fudud. Dooro bixiyaha khariidada, ka "
-"hel fure API khariidad bixiyaha boggiisa, kadib geli furaha API."
+"Setting up your map provider is a straight-forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
 msgstr ""
 
 #: 'map_provider'->'name'
-msgid "Khariidad bixiye"
+msgid "Map provider"
 msgstr ""
 
 #: 'map_provider'->'map_settings'
-msgid "Hagaajinta khariidada"
+msgid "Map Settings"
 msgstr ""
 
 #: 'map_provider'->'multiple_countries'
-msgid "Miyay rakibidda Ushahididan kala fogeyneysaa wadamada."
+msgid "Does this Ushahidi Deployment span multiple countries?"
 msgstr ""
 
 #: 'map_provider'->'select_default_location'
-msgid "Fadlan dooro dalka loogu talagalay."
+msgid "Please select a default country"
 msgstr ""
 
 #: 'map_provider'->'set_location'
-msgid "Guji oo jiid khariidada si aad u cayimato goobtaada saxda ah."
+msgid "Click and drag the map to set your exact location"
 msgstr ""
 
 #: 'site'->'allow_clustering'
-msgid "Warbxinadda Clusters-ka ee khariidada."
+msgid "Cluster Reports on Map"
 msgstr ""
 
 #: 'site'->'allow_comments'
-msgid ""
-"U ogolow isticmalayaasha inay fikradahooda ku soo gudbiyaan warbixinadda."
+msgid "Allow Users to Submit Comments to Reports"
 msgstr ""
 
 #: 'site'->'allow_feed'
-msgid "RSS News Feed ku dar boggaaga."
+msgid "Include RSS News Feed on Website"
+msgstr ""
+
+#: 'site'->'allow_alerts'
+msgid "Allow Users To Subscribe For Alerts"
 msgstr ""
 
 #: 'site'->'allow_reports'
-msgid "u ogolow isticmaalayaasha inay soo gudbiyaan warbixinno."
+msgid "Allow Users To Submit Reports"
 msgstr ""
 
 #: 'site'->'api_akismet'
-msgid "Furaha Akismet"
+msgid "Akismet Key"
+msgstr ""
+
+#: 'site'->'banner'
+msgid "Site Banner"
+msgstr ""
+
+#: 'site'->'blocks_per_row'
+msgid "Blocks Per Row"
 msgstr ""
 
 #: 'site'->'cache_pages'
-msgid "Boggaga Cache"
+msgid "Cache Pages"
 msgstr ""
 
 #: 'site'->'cache_pages_lifetime'
-msgid "Boggaga Cache xiligooda"
+msgid "Cache Pages Lifetime"
+msgstr ""
+
+#: 'site'->'checkins'
+msgid "Enable Checkins"
 msgstr ""
 
 #: 'site'->'copyright_statement'
-msgid "Xuquuqda dhowrsanaanta bogga"
+msgid "Site Copyright Statement"
 msgstr ""
 
 #: 'site'->'default_category_colors'
-msgid "Middabka loogu talagalay dhamaan categories-ka."
+msgid "Default Color For All Categories"
+msgstr ""
+
+#: 'site'->'default_category_icons'
+msgid "Default Icon For All Categories"
+msgstr ""
+
+#: 'site'->'delete_banner_image'
+msgid "Delete Banner Image"
+msgstr ""
+
+#: 'site'->'delete_default_map_all_icon'
+msgid "Delete Default Icon"
 msgstr ""
 
 #: 'site'->'display_contact_page'
-msgid "Soo bandhig bogga xiriirka"
+msgid "Display Contact Page"
 msgstr ""
 
 #: 'site'->'display_howtohelp_page'
-msgid "Soo bandhig bogga \"Sida loo caawiyo\""
+msgid "Display \"How to Help\" Page"
 msgstr ""
 
 #: 'site'->'email_alerts'
-msgid "Cinwaanka Email-ka ee farriimaha"
+msgid "Alerts Email Address"
 msgstr ""
 
 #: 'site'->'email_notice'
 msgid ""
-"<span>Si aad warbixinadda ugu hesho Email-kaaga, fadlan wax ka bedel "
-"setting-ka Email-kaaga.</span>"
+"<span>In order to receive reports by email, please configure your email "
+"account settings.</span>"
 msgstr ""
 
 #: 'site'->'email_site'
-msgid "Cinwaanka Email-ka ee bogga"
+msgid "Site Email Address"
 msgstr ""
 
 #: 'site'->'google_analytics'
@@ -346,208 +424,219 @@ msgid "Google Analytics"
 msgstr ""
 
 #: 'site'->'google_analytics_example'
-msgid "ID-ga Web Property- Hannaanka: UA-XXXXX-XX"
+msgid "Web Property ID - Format: UA-XXXXX-XX"
 msgstr ""
 
 #: 'site'->'items_per_page'
-msgid "Xogta halkii boggba - wajahada hore"
+msgid "Items Per Page - Front End"
 msgstr ""
 
 #: 'site'->'items_per_page_admin'
-msgid " Xogta halkii boggba- Admin"
+msgid "Items Per Page - Admin"
 msgstr ""
 
 #: 'site'->'kismet_notice'
 msgid ""
-" Prevent comment spam using <a href=\"http://akismet.com/\" "
+"Prevent comment spam using <a href=\"http://akismet.com/\" "
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
 msgstr ""
 
 #: 'site'->'laconica_configuration'
-msgid "Caddeymaha Laconica"
+msgid "Laconica Credentials"
 msgstr ""
 
 #: 'site'->'laconica_site'
-msgid "Bogga Laconica"
+msgid "Laconica Site "
 msgstr ""
 
 #: 'site'->'language'
-msgid "Luuqada bogga"
+msgid "Site Language"
+msgstr ""
+
+#: 'site'->'manually_approve_users'
+msgid "Manually Approve Users"
+msgstr ""
+
+#: 'site'->'map_point_reports'
+msgid "Reports are points"
 msgstr ""
 
 #: 'site'->'message'
-msgid "Farriinta bogga"
+msgid "Site Message"
 msgstr ""
 
 #: 'site'->'name'
-msgid "Magaca bogga"
+msgid "Site Name"
+msgstr ""
+
+#: 'site'->'private_deployment'
+msgid "Private Deployment"
+msgstr ""
+
+#: 'site'->'require_email_confirmation'
+msgid "Require User Email Confirmation"
+msgstr ""
+
+#: 'site'->'submit_report_message'
+msgid "Submit Report Message"
 msgstr ""
 
 #: 'site'->'share_site_stats'
-msgid "Awood sii Statistics-ka (ee ku keydsan server-ka Ushahidi)"
+msgid "Enable Statistics (Stored on Ushahidi's server)"
 msgstr ""
 
 #: 'site'->'tagline'
-msgid "Site Tagline-ka"
+msgid "Site Tagline"
+msgstr ""
+
+#: 'site'->'timezone'
+msgid "Timezone"
 msgstr ""
 
 #: 'site'->'title'
-msgid "Hagaajinta bogga"
+msgid "Site Settings"
 msgstr ""
 
 #: 'site'->'twitter_configuration'
-msgid "Shuruudaha baarista Twitter"
+msgid "Twitter Search Terms"
 msgstr ""
 
 #: 'site'->'twitter_hashtags'
-msgid "Hashtags - Ku kala sooc hakadyo"
+msgid "Hashtags - Separate with commas "
 msgstr ""
 
 #: 'site_email'->'email'
-msgid "Goobta Email-ka bogga kuma jiro Email sax ah?"
+msgid "The site email field does not appear to contain a valid email address."
 msgstr ""
 
 #: 'site_email'->'length'
 msgid ""
-"Goobta Email-ka bogga waa inay ka kooban tahay ugu yaraan afar xaraf, ugu "
-"badnaan 100 xaraf."
+"The site email field must be at least 4 and no more 100 characters long."
 msgstr ""
 
 #: 'site_name'->'length'
-msgid ""
-"Goobta magaca bogga waa inay ka kooban tahay ugu yaraan afar xaraf, ugu "
-"badnaan 100 xaraf."
+msgid "The site name field must be at least 3 and no more 50 characters long."
 msgstr ""
 
 #: 'site_name'->'required'
-msgid "Goobta magaca bogga ayaa loo baahan yahay."
+msgid "The site name field is required."
 msgstr ""
 
 #: 'site_tagline'->'length'
-msgid ""
-"Goobta Tagline-ku waa inay ka kooban tahay ugu yaraan saddex xaraf, ugu "
-"badnaana 100 xaraf."
+msgid "The tagline field must be at least 3 and no more 100 characters long."
 msgstr ""
 
 #: 'site_tagline'->'required'
-msgid "Goobta Tagline ayaa loo baahan yahay."
+msgid "The tagline field is required."
 msgstr ""
 
 #: 'sms'->'clickatell_api'
-msgid "Nambarkaaga API Clickatell-ka"
+msgid "Your Clickatell API Number"
 msgstr ""
 
 #: 'sms'->'clickatell_check_balance'
-msgid "Iska hubi lacagta kuugu harsan Clickatell-kaaga"
+msgid "Check Your Clickatell Credit Balance"
 msgstr ""
 
 #: 'sms'->'clickatell_load_balance'
-msgid "Lacag ku shub"
+msgid "Load Credit Balance"
 msgstr ""
 
 #: 'sms'->'clickatell_password'
-msgid "Password-ka Clickatell."
+msgid "Your Clickatell Password"
 msgstr ""
 
 #: 'sms'->'clickatell_text_1'
 msgid ""
-"Iska diiwaangeli addeega Clickatell <a "
+"Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
 msgstr ""
 
 #: 'sms'->'clickatell_text_2'
-msgid ""
-"Waxaad hoos gelisaa warbixinta awooda kuu siinaysa inaad gasho Clickatell."
+msgid "Enter your Clickatell access information below"
 msgstr ""
 
 #: 'sms'->'clickatell_username'
-msgid "Username-ka aad ku leedahay Clickatell"
+msgid "Your Clickatell User Name"
 msgstr ""
 
 #: 'sms'->'flsms_description'
 msgid ""
-"FrontlineSMS waa barnaamij software furan kaasoo ka dhigaya Laptop-ka ama "
-"telefonka gacanta aalad isgaarsiineed. Hadaad barnaamijkan ku rakibto "
-"computer-kaaga, waxa uu awood kuu siinayaa inaad dirto ama hesho farriimaha "
-"qoraalka. Guji sanduukha leh midabka dambaska si aad u dalbato faylka "
-"downloadka ee ku jira FrontlineSMS.com"
+"FrontlineSMS is free open source software that turns a laptop and a mobile "
+"phone into a central communications hub. Once installed, the program enables "
+"users to send and receive text messages with large groups of people through "
+"mobile phones. Click on the grey box to request a download from "
+"FrontlineSMS.com"
 msgstr ""
 
 #: 'sms'->'flsms_download'
-msgid "Soo dejiso Frontline SMS,kadibna ku rakibo computer-kaaga."
+msgid "Download Frontline SMS and install it on your computer"
 msgstr ""
 
 #: 'sms'->'flsms_instructions'
 msgid ""
 "Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a href=\"http://wi"
-"ki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontl"
-"inesms_to_sync_with_ushahidi\" target=\"_blank\">here</a></strong>. You will "
+"Detailed instructions on how to sync can be found <strong><a "
+"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
+"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will "
 "require the key and link below to set up the sync with FrontlineSMS"
 msgstr ""
 
 #: 'sms'->'flsms_key'
-msgid "Furahaaga Sync ee Ushahidi"
+msgid "Your Ushahidi Sync Key"
 msgstr ""
 
 #: 'sms'->'flsms_link'
-msgctxt "'sms'->'flsms_link'"
 msgid "FrontlineSMS HTTP Post LINK"
 msgstr ""
 
 #: 'sms'->'flsms_synchronize'
-msgctxt "'sms'->'flsms_synchronize'"
-msgid "FrontlineSMS HTTP Post LINK"
+msgid "Sync with Ushahidi"
 msgstr ""
 
 #: 'sms'->'flsms_text_1'
-msgid "Geli hoos nambar telefoon ku xiran Frontline SMS"
+msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
 msgstr ""
 
 #: 'sms'->'flsms_text_2'
-msgid "Geli hoos nambar aan wadan calaamada + amaba jiitin intaba."
+msgid "Enter the number without any + or dashes below"
 msgstr ""
 
 #: 'sms'->'option_1'
-msgid "Dookha koowaad: Isticmaal farriimaha Frontline"
+msgid "Option 1: Use Frontline SMS"
 msgstr ""
 
 #: 'sms'->'option_2'
-msgid "Dookha labaad: Isticmaal farriimaha Global SMS Gateway."
+msgid "Option 2: Use a Global SMS Gateway"
 msgstr ""
 
 #: 'sms'->'title'
-msgid "Hababka loo rakibo SMS"
+msgid "SMS Setup Options"
 msgstr ""
 
 #: 'sms_no1'->'length'
-msgid "Goobta telefoonka 1-aad kuma jiro qiime sax ah?"
+msgid "The phone 1 field does not appear to contain a valid value."
 msgstr ""
 
 #: 'sms_no1'->'numeric'
-msgid "Goobta telefoonka 1-aad waa inay ka kooban tahay tiro kaliya."
+msgid "The phone 1 field should contain numbers only."
 msgstr ""
 
 #: 'sms_no2'->'length'
-msgid "Goobta telefoonka 2-aad aad bay u dheer tahay."
+msgid "The phone 2 field is too long."
 msgstr ""
 
 #: 'sms_no2'->'numeric'
-msgid "Goobta telefoonka 2-aad waa inay ka kooban tahay tiro kaliya."
+msgid "The phone 2 field should contain numbers only."
 msgstr ""
 
 #: 'sms_no3'->'length'
-msgid "Goobta telefoonka 3-aad aad bay u dheer tahay."
+msgid "The phone 3 field is too long."
 msgstr ""
 
 #: 'sms_no3'->'numeric'
-msgid "Goobta telefoonka 3-aad waa inay ka kooban tahay tiro kaliya."
-msgstr ""
-
-#: 'sms_provider'->'length'
-msgctxt "'sms_provider'->'length'"
-msgid "so_SO: "
+msgid "The phone 3 field should contain numbers only."
 msgstr ""

@@ -1,9 +1,9 @@
-#. extracted from so/category.php, en_US/category.php
+#. extracted from en_US/category.php, en_US/category.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,51 +13,63 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'category_color'->'length'
-msgid "Goobta midabbada waa inaysan ka yaraan lix xaraf"
+msgid "The color field must be 6 characters long."
 msgstr ""
 
 #: 'category_color'->'required'
-msgid "Goobta midabbada ayaa loo baahan yahay"
+msgid "The color field is required."
 msgstr ""
 
 #: 'category_description'->'required'
-msgid "Goobta sharraxaad ka bixinta ayaa loo baahan yahay"
+msgid "The description field is required."
 msgstr ""
 
 #: 'category_image'->'size'
-msgid "Fadlan iska xaqiiji in culeyska sawirka uusan ka badneyn 50KB."
+msgid "Please ensure that image uploads sizes are limited to 50KB."
 msgstr ""
 
 #: 'category_image'->'type'
 msgid ""
-"Sawirka aad gelisay sax ma aha. Hannaan sawireedyadda la ogol yahay waa "
-".JPG, .PNG iyo .GIF."
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
 msgstr ""
 
 #: 'category_image'->'valid'
-msgid "Fayl sax ah kuma jiro goobta sawirka"
+msgid "The image field does not appear to contain a valid file"
 msgstr ""
 
 #: 'category_title'->'length'
-msgid "Cinwaanku waa inuusan ka yareyn 3 xaraf, kana badnayn 80 xaraf"
+msgid "The title field must be at least 3 and no more 80 characters long."
 msgstr ""
 
 #: 'category_title'->'required'
-msgid "Cinwaan ayaa loo baahan yahay"
+msgid "The title field is required."
+msgstr ""
+
+#: 'parent_id'->'already_parent'
+msgid "You cannot subcategorize a category with subcategories."
 msgstr ""
 
 #: 'parent_id'->'exists'
-msgid "Khaanadda weyn ma jirto"
+msgid "The parent category does not exist."
 msgstr ""
 
 #: 'parent_id'->'numeric'
-msgid "Khaanadda weyn waa inay tiro ahaataa"
+msgid "The parent category field must be numeric."
+msgstr ""
+
+#: 'parent_id'->'parent_trusted'
+msgid "The parent category cannot be a special category"
 msgstr ""
 
 #: 'parent_id'->'required'
-msgid "Goobta khaanadda weyn waa loo baahan yahay"
+msgid "The parent category field is required."
 msgstr ""
 
 #: 'parent_id'->'same'
-msgid "Khaanadaha faraca iyo khaanadda weyn isku mid ma noqon karaan"
+msgid "The category and the parent category cannot be the same."
+msgstr ""
+
+#: 'parent_id'->'special'
+msgid "Special categories cannot be subcategorised."
 msgstr ""

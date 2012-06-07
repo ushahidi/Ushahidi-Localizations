@@ -1,9 +1,9 @@
-#. extracted from so/installer.php, en_US/installer.php
+#. extracted from en_US/installer.php, en_US/installer.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,174 +13,128 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'base_path'
-msgid "Waddada aasaaska ah"
+msgid "Base Path"
 msgstr ""
 
 #: $lang->'database'
-msgid "Keydka xogta"
+msgid "Database"
 msgstr ""
 
 #: $lang->'database_host'
-msgid "Martigeliyaha keydka xogta"
+msgid "Database Host"
 msgstr ""
 
 #: $lang->'database_host_description'
 msgid ""
-"Haddii Ushahidi aad ka maamulayso computer-kaaga, computer-kaaga waxa uu "
-"noqonayaa \"Localhost\". Haddiise Ushahidi aad ka maamulayso computer-ka nooca "
-"web serverka, waxaad warbixinnada ka heleysaa shirkadda hosti gareyneysa "
-"boggaaga"
+"If you are running Ushahidi on your own computer, this will more than likely "
+"be \"localhost\". If you are running Ushahidi from a web server, you will get "
+"your host information from your web hosting provider."
 msgstr ""
 
 #: $lang->'database_name'
-msgid "Magaca keydka xogta"
+msgid "Database Name"
 msgstr ""
 
 #: $lang->'database_name_description'
-msgid "Magaca keydka xogta ee aad doonayso inaad ku maamusho Ushahidi"
+msgid "The name of the database you want to run Ushahidi in"
 msgstr ""
 
 #: $lang->'db_information_link'
 msgid ""
-"Wixii faahfaahin ah, fadlan ku raadi link-gaan <a "
+"For more information, please check out <a "
 "href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
-"target=\"_blank\">this article</a> website sida faahfaahsan uga hadlayo "
-"keydadka xogta."
+"target=\"_blank\">this article</a> on the wiki that talks about databases in "
+"more detail."
 msgstr ""
 
 #: $lang->'default_language'
-msgid "Luuqadda asalka ah"
+msgid "Default Language (Locale)"
 msgstr ""
 
 #: $lang->'default_language_description'
 msgid ""
-"Version kasta oo Ushahidi waxa uu la yimaadaa luuqado ku dhisan gudihiisa oo "
-"diyaar u ah in la turjumo. Waxaad <a href=\"http://wiki.ushahidi.com/doku.ph"
-"p?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_la"
-"nguages\" target=\"_blank\"> ku dari kartaa luuqadaada hooyo </a>"
+"Each deployment of Ushahidi comes with a set of built in language "
+"translations. You can also <a href=\"http://wiki.ushahidi.com/doku.php?id=loc"
+"alisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" "
+"target=\"_blank\">add your own</a>."
 msgstr ""
 
 #: $lang->'disable'
-msgid "Awoodda ka xir"
+msgid "Disable"
 msgstr ""
 
 #: $lang->'enable'
-msgid "Awood sii"
+msgid "Enable"
 msgstr ""
 
-#: $lang->'error'
-msgctxt "$lang->'error'"
-msgid "so_SO: "
+#: $lang->'error_summary'
+msgid "Listed below is a summary of the errors we encountered."
 msgstr ""
 
-#: 'error'->'connection'
-msgctxt "'error'->'connection'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'db_name'
-msgctxt "'error'->'db_name'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'host'
-msgctxt "'error'->'host'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'load_db_tpl'
-msgctxt "'error'->'load_db_tpl'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'site_name'
-msgctxt "'error'->'site_name'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'unable_to_write_end'
-msgctxt "'error'->'unable_to_write_end'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'unable_to_write_start'
-msgctxt "'error'->'unable_to_write_start'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'username'
-msgctxt "'error'->'username'"
-msgid "so_SO: "
-msgstr ""
-
-#: 'error'->'error_summary'
+#: $lang->'files_location_text'
 msgid ""
-"Waxaa hoos ku xusan warbixin kooban oo ku saabsan cilladaha aanu la kulannay"
+"The location on your server where you placed your Ushahidi files. <strong>We "
+"have automatically detected this value, please make sure that it is "
+"correct.</strong> If the field is empty, do not worry, it means ushahidi is "
+"installed at the top level directory."
 msgstr ""
 
-#: 'error'->'files_location_text'
-msgid ""
-"Halka aad faylasha Ushahidi ka dhigtay Computerka Serverka. <strong> Waxaa "
-"noo soo baxay qiimahan, fadlan hubi inuu sax yahay. </strong> Haddii goobtu "
-"ay maran tahay, ha welwelin, Ushahidi waxay ku rakiban tahay khaanadda kore"
+#: $lang->'finished'
+msgid "Finished"
 msgstr ""
 
-#: 'error'->'finished'
-msgid "Dhammaystiran"
+#: $lang->'general'
+msgid "General"
 msgstr ""
 
-#: 'error'->'general'
-msgid "Guud ahaan"
-msgstr ""
-
-#: 'error'->'google_key'
+#: $lang->'google_key'
 msgid "<span>Google</span> API Key"
 msgstr ""
 
-#: 'error'->'google_key_description'
+#: $lang->'google_key_description'
 msgid ""
-"Qof kasta waa uu heli karaa furaha api. <a id=\"api-link\" "
-"href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Hel "
-"kaaga hadda</a>"
+"Anyone can get an api key. <a id=\"api-link\" "
+"href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get "
+"yours now</a>"
 msgstr ""
 
-#: 'error'->'go_back'
-msgid "Dib u noqo"
+#: $lang->'go_back'
+msgid "Go Back"
 msgstr ""
 
 #: 'index'->'advanced'
-msgid "Rakibaad horumarsan"
+msgid "ADVANCED INSTALLATION"
 msgstr ""
 
 #: 'index'->'advanced_installation_description'
 msgid ""
-"Waxaad qaabka loo hagaajiyo ka heli kartaa adigoo raacaya hannaanka 5-ta "
-"tallaabo. Waxaa 5-ta hannaan ka mid ah computerka Server-ka, khariidadda, "
-"magaca bogga iyo halka lagala xiriirayo"
+"Get all the basic settings completed through this 5-step process.  This "
+"includes server, map, site name and contact details."
 msgstr ""
 
 #: 'index'->'basic_installation'
-msgid "Rakibaadda aasaaska ah"
+msgid "BASIC INSTALLATION"
 msgstr ""
 
 #: 'index'->'basic_installation_description'
 msgid ""
-"Rakibaaddu waa ay fududdahay, waana deg-deg. Keliya waxaad u baahan tahay "
-"waddada lagu galo boggaaga iyo warbixinta keydka xogtaada"
+"Simple and fast. All you need is your website's root directory and your "
+"database information. Choose this option if you want to get up and running "
+"quickly, and you can always configure everything else later."
 msgstr ""
 
 #: 'index'->'proceed'
-msgid " sii wad"
+msgid "Proceed"
 msgstr ""
 
 #: 'index'->'welcome'
 msgid ""
-"Ku soo dhawow hannaanka rakibaadda Ushahidi ee server-ada. Hoos ka dooro "
-"nooca rakibaadda aad jeclaan lahayd inaad computer-kaaga ku rakibto"
+"Welcome to the Ushahidi server install process.  Choose which type of "
+"installation you would like to use below."
 msgstr ""
 
 #: 'index'->'installation_successful'
-msgid "Rakibaaddu si fiican ayay u dhammaatay"
+msgid "Installation Successful"
 msgstr ""
 
 #: 'index'->'mail_server'
@@ -188,19 +142,19 @@ msgid "Mail Server"
 msgstr ""
 
 #: 'index'->'mail_server_host'
-msgid "Martigeliyaha mail Server-ka"
+msgid "Mail Server Host"
 msgstr ""
 
 #: 'index'->'mail_server_host_description'
-msgid "Tusaaleyaal: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 msgstr ""
 
 #: 'index'->'mail_server_password'
-msgid "Password-ka Mail Server-ka"
+msgid "Mail Server Password"
 msgstr ""
 
 #: 'index'->'mail_server_password_description'
-msgid "Password-ka aad sida caadiga ah ugu gasho email-kaaga"
+msgid "The password you normally use to login in to your email"
 msgstr ""
 
 #: 'index'->'mail_server_port'
@@ -208,47 +162,47 @@ msgid "Mail Server Port"
 msgstr ""
 
 #: 'index'->'mail_server_port_description'
-msgid ""
-"Ports-ka caadiga ah: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 msgstr ""
 
 #: 'index'->'mail_server_type'
-msgid " Nooca mail Server-ka"
+msgid "Mail Server Type"
 msgstr ""
 
 #: 'index'->'mail_server_type_description'
-msgid "en_US: Internet Message Access Protocol (IMAP) or Post Office Protocol "
-"(POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
-"target=\"_blank\">What is the difference?</a>\r\n"
+msgid ""
+"Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
+"href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
+"target=\"_blank\">What is the difference?</a>"
 msgstr ""
 
 #: 'index'->'mail_server_username'
-msgid "Username-ka lagu galo Mail Server-ka"
+msgid "Mail Server Username"
 msgstr ""
 
 #: 'index'->'mail_server_username_description'
 msgid ""
-"Haddii aad isticmaalayso Gmail, Hotmail, ama Yahoo Mail, u isticmaal "
-"Emailkaaga oo dhamaystiran magaca aad ku galayso"
+"If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
+"as a username."
 msgstr ""
 
 #: 'index'->'map'
-msgid "Khariidad"
+msgid "Map"
 msgstr ""
 
 #: 'index'->'map_provider'
-msgid "Khariidad bixiye"
+msgid "Map Provider"
 msgstr ""
 
 #: 'index'->'map_provider_description'
 msgid ""
-"Ushahidi si siman ayay ula shaqeysaa afarta khariidad bixiye: Google, Bing, "
-"Yahoo ama Open Street Map. Dooro midda ay ku jirto faahfaahin ku saabsan "
-"goobta aad ku sugan tahay"
+"Ushahidi works equally well with any of these three mapping providers: "
+"Google, Bing or Open Street Map. Choose the one that has the most detail in "
+"your area."
 msgstr ""
 
 #: 'index'->'other_steps'
-msgid "Wadiiqooyin kale..."
+msgid "Other steps..."
 msgstr ""
 
 #: 'index'->'password'
@@ -256,131 +210,118 @@ msgid "Password"
 msgstr ""
 
 #: 'index'->'password_description'
-msgid "Password-ka keydka xogtaada"
+msgid "Your database password"
 msgstr ""
 
 #: 'index'->'previous'
-msgid "Hore"
+msgid "Previous"
 msgstr ""
 
 #: 'index'->'restart_apache'
-msgid "Fadlan dib u soo kici Server-kaaga Apache"
+msgid "Please restart your Apache Server"
 msgstr ""
 
 #: 'index'->'select_mail_server_ssl'
-msgid "Awood sii ama awoodda ka xir SSL"
+msgid "Enable or disable SSL"
 msgstr ""
 
 #: 'index'->'select_mail_server_ssl_description'
 msgid ""
-"Qaar ka mid ah Mail Servers-ku waxay ku siinayaan dookha ah inaad "
-"isticmaasho <abbr title=\"Secure Sockets Layer\">SSL</abbr> marka aad "
-"sameyneyso xiriirin. Addeegsiga SSL waa uu fiican yahay maadaama uu ku "
-"siinayo amni dheeraad ah"
+"Some mail servers give you the option of using <abbr title=\"Secure Sockets "
+"Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
+"gives you an added level of security."
 msgstr ""
 
 #: 'index'->'setup_sms'
-msgid "Rakib Server-kaaga SMS-yada"
+msgid "Set up your SMS server"
 msgstr ""
 
 #: 'index'->'site_email'
-msgid "Cinwaanka Emailka ee bogga"
+msgid "Site Email Address"
 msgstr ""
 
 #: 'index'->'site_email_alerts'
-msgid "Ciwaanka Email-ka farriimaha ee bogga"
+msgid "Site Alert Email Address"
 msgstr ""
 
 #: 'index'->'site_email_alerts_description'
 msgid ""
-"Marka booqdaha boggaaga uu iska diiwaangeliyo farrimaha E-mailka, waxay "
-"farriimaha ka heli doonaan cinwaankan. Waa inuusan cinwaanka Emailkan la mid "
-"noqon cinwaanka Emailka bogga"
+"When your site visitors sign up for email alerts, they will receive emails "
+"from this address. This email address does not have to be the same as the "
+"Site Email Address."
 msgstr ""
 
 #: 'index'->'site_email_description'
-msgid "Email-ka bogga waxaa lagu xiriirin doonaan cinwaankan"
+msgid "Site wide email communication will be funneled through this address"
 msgstr ""
 
 #: 'index'->'site_name'
-msgid "Magaca bogga."
+msgid "Site Name"
 msgstr ""
 
 #: 'index'->'site_name_description'
-msgid "Magaca boggaaga"
+msgid "The name of your site"
 msgstr ""
 
 #: 'index'->'site_tagline'
-msgid "Tagline-ka bogga"
+msgid "Site Tagline"
 msgstr ""
 
 #: 'index'->'site_tagline_description'
-msgid "Tagline kaaga"
+msgid "Your tagline"
 msgstr ""
 
 #: 'summary'->'text_1'
 msgid ""
-"Faylasha iyo galalka hoos ku xusan waxay u baahan yihiin in lagu qoro "
-"webserver-kaaga"
+"The files and folders listed below need to be writable by your webserver."
 msgstr ""
 
 #: 'summary'->'text_2'
 msgid ""
-"<p>Waxaa halkan ku qoran tilmaamaha marka la beddelayo ogolaashaha "
-"faylasha:</p> <ul> <li><a "
+"<p>Here are instructions for changing file permissions:</p>\n"
+"        <ul>\n"
+"            <li><a "
 "href=\"http://www.washington.edu/computing/unix/permissions.html\" "
-"target=\"_blank\">Unix/Linux</a></li> <li><a "
-"href=\"http://support.microsoft.com/kb/308419\" "
-"target=\"_blank\">Windows</a></li> </ul>\r\n"
-"so_SO: "
+"target=\"_blank\">Unix/Linux</a></li>\n"
+"            <li><a href=\"http://support.microsoft.com/kb/308419\" "
+"target=\"_blank\">Windows</a></li>\n"
+"        </ul>"
 msgstr ""
 
 #: 'summary'->'text_3'
 msgid ""
-"Ka hor intaadan billaabin, waxaad u baahan tahay inaad xaqiijiso in faylasha "
-"iyo galalka soo socda lagu qori karo webserver-kaaga. Waxaa ku jira "
-"bedbeddellada ogolaanshaha faylka"
+"Before you get started, you will need to make sure the following files and "
+"folders are writable by your webserver. This involves changing file "
+"permissions."
 msgstr ""
 
 #: 'summary'->'text_4'
-msgid "Fadlan waa inaad haysataa tilmaamahan marka aad rakibayso"
-msgstr ""
-
-#: 'summary'->'summary_text_1'
-msgctxt "'summary'->'summary_text_1'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'summary'->'summary_text_2'
-msgctxt "'summary'->'summary_text_2'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'summary'->'summary_text_3'
-msgctxt "'summary'->'summary_text_3'"
-msgid "so_SO:"
+msgid ""
+"For the installation process, please have the following bits of information "
+"on hand."
 msgstr ""
 
 #: 'summary'->'table_prefix'
-msgid "Horgallaha jadwalka"
+msgid "Table Prefix"
 msgstr ""
 
 #: 'summary'->'table_prefix_description'
 msgid ""
-"Ha beddelin horgalaha jadwal-ka. Inkastoo, aad beddeli karto marka aad "
-"doonayso inaad hal xog keydiyo kana kiciso dhowr rakabitaan"
+"Normally you would not change the table prefix. However, if you want to run "
+"multiple Ushahidi installations from a single database, you can do that by "
+"changing the prefix here."
 msgstr ""
 
 #: 'summary'->'title'
-msgid "Mowduuc"
+msgid "Title"
 msgstr ""
 
 #: 'summary'->'to_login'
-msgid "Haddaad rabto inaad gasho, aad"
+msgid "To login, go to"
 msgstr ""
 
 #: 'summary'->'upload_data'
-msgid "U dir xogta report-ka server-ka"
+msgid "Upload report data"
 msgstr ""
 
 #: 'summary'->'username'
@@ -388,13 +329,13 @@ msgid "Username"
 msgstr ""
 
 #: 'summary'->'username_description'
-msgid "Username-ka keyd xogeedkaaga"
+msgid "Your database username"
 msgstr ""
 
 #: 'summary'->'use_credentials'
-msgid "Isticmaal caddeymaha soo socda"
+msgid "and use the following credentials"
 msgstr ""
 
 #: 'summary'->'view_site'
-msgid "Booqo boggaaga"
+msgid "View your website"
 msgstr ""

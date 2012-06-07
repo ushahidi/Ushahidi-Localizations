@@ -1,9 +1,9 @@
-#. extracted from so/feedback.php, en_US/feedback.php
+#. extracted from en_US/feedback.php, en_US/feedback.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,51 +13,45 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'feedback_actions'
-msgid "Ficillada"
-msgstr ""
-
-#: 'feedback_captcha'->'default'
-msgid "so_SO:"
+msgid "Actions"
 msgstr ""
 
 #: 'feedback_captcha'->'required'
-msgid "Fadlan geli security code-ka"
+msgid "Please enter the Security Code."
 msgstr ""
 
 #: 'feedback_captcha'->'valid'
-msgid "Fadlan geli security code sax ah"
+msgid "Please enter a valid security code"
 msgstr ""
 
 #: 'feedback_captcha'->'feedback_date'
-msgid "Taariikhda"
+msgid "Date"
 msgstr ""
 
 #: 'feedback_captcha'->'feedback_details'
-msgid "Faahfaahinta natiijada"
+msgid "Feedback Details"
 msgstr ""
 
 #: 'feedback_message'->'required'
-msgid "Fadlan geli jawaab ku saabsan natiijada"
+msgid "Please enter some information for the reply."
 msgstr ""
 
 #: 'feedback_title'->'length'
-msgid ""
-"Cinwaanka jawaabta natiijadu waa inuusan ka yarayn 3 xaraf, ugu badnaanna "
-"100 xaraf"
+msgid "The title field must be at least 3 and no more 100 characters long."
 msgstr ""
 
 #: 'feedback_title'->'required'
-msgid "Cinwaan ayaa loo baahan yahay"
+msgid "A title is required."
 msgstr ""
 
 #: 'person_email'->'email'
-msgid "Emailkaad gelisay sax ma aha"
+msgid "The email field does not appear to contain a valid email address."
 msgstr ""
 
 #: 'person_email'->'required'
-msgid "Fadlan geli Email-kaaga"
+msgid "Please enter your email address"
 msgstr ""
 
 #: 'person_name'->'required'
-msgid "Fadlan geli magacaaga oo dhameystiran"
+msgid "Please enter your full name."
 msgstr ""

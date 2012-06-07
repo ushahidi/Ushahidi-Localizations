@@ -1,9 +1,9 @@
-#. extracted from so/sharing.php, en_US/sharing.php
+#. extracted from en_US/sharing.php, en_US/sharing.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,99 +12,46 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.9.0\n"
 
-#: $lang->'contact'
-msgctxt "$lang->'contact'"
-msgid "so_SO:"
-msgstr ""
-
 #: $lang->'date'
-msgctxt "$lang->'date'"
-msgid "Taariikhda lagu daray."
+msgid "Ingress date"
 msgstr ""
 
 #: $lang->'date_added'
-msgctxt "$lang->'date_added'"
-msgid "Taariikhda lagu daray."
+msgid "Date Added"
 msgstr ""
 
 #: $lang->'last_access'
-msgid "Daalacashadii ugu dambeysay."
-msgstr ""
-
-#: $lang->'sent_info'
-msgctxt "$lang->'sent_info'"
-msgid "so_SO:"
+msgid "Last Access"
 msgstr ""
 
 #: 'sharing_color'->'length'
-msgid "Goobta midabku waa iney ahaataa ugu badnaan 6 xaraf."
+msgid "The color field must be 6 characters long."
 msgstr ""
 
 #: 'sharing_color'->'required'
-msgid "Goobta midabka ayaa loo bahan yahay."
-msgstr ""
-
-#: 'sharing_email'->'email'
-msgctxt "'sharing_email'->'email'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'sharing_email'->'required'
-msgctxt "'sharing_email'->'required'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'sharing_email'->'sharing_key'
-msgctxt "'sharing_email'->'sharing_key'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'sharing_limits'->'between'
-msgctxt "'sharing_limits'->'between'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'sharing_limits'->'required'
-msgctxt "'sharing_limits'->'required'"
-msgid "so_SO:"
+msgid "The color field is required."
 msgstr ""
 
 #: 'sharing_name'->'length'
-msgid "Magac-wadaaggu ma ahan mid sax ah?"
+msgid "The Sharing name does not appear to be valid."
 msgstr ""
 
 #: 'sharing_name'->'required'
-msgid "Magaca-wadaagga ayaa loo baahan yahay."
-msgstr ""
-
-#: 'sharing_type'->'between'
-msgctxt "'sharing_type'->'between'"
-msgid "so_SO:"
-msgstr ""
-
-#: 'sharing_url'->'edit'
-msgctxt "'sharing_url'->'edit'"
-msgid "so_SO:"
+msgid "A Sharing name is required."
 msgstr ""
 
 #: 'sharing_url'->'exists'
-msgctxt "'sharing_url'->'exists'"
-msgid "so_SO:"
+msgid "The site URL already exists."
 msgstr ""
 
 #: 'sharing_url'->'length'
-msgid "URL-ku maahan mid sax ah."
+msgid "The site URL does not appear to be valid."
 msgstr ""
 
 #: 'sharing_url'->'required'
-msgid "URL-ka bogga ayaa loo bahan yahay."
+msgid "The site URL is required."
 msgstr ""
 
 #: 'sharing_url'->'url'
-msgid "URL-ka boggu ma ahan mid sax ah."
-msgstr ""
-
-#: 'sharing_url'->'valid'
-msgctxt "'sharing_url'->'valid'"
-msgid "so_SO:"
+msgid "The site URL field does not appear to contain a valid URL."
 msgstr ""

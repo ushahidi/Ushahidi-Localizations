@@ -1,9 +1,9 @@
-#. extracted from so/bug.php, en_US/bug.php
+#. extracted from en_US/bug.php, en_US/bug.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,45 +13,41 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'captcha'->'default'
-msgid "Fadlan geli security code sax ah"
+msgid "Please enter a valid security code."
 msgstr ""
 
 #: 'captcha'->'required'
-msgid "Fadlan geli security code-ka"
+msgid "Please enter the security code."
 msgstr ""
 
 #: 'email'->'email'
-msgid "Emailkaad gelisay sax ma aha"
+msgid "The Email field does not appear to contain a valid email address?"
 msgstr ""
 
 #: 'email'->'length'
-msgid ""
-"Email-kaagu waa inuu ka kooban yahay ugu yaraan afar xaraf, ugu badnaanna 64 "
-"xaraf"
+msgid "The Email field must be at least 4 and no more 64 characters long."
 msgstr ""
 
 #: 'email'->'required'
-msgid "Email ayaa loo baahan yahay haddii sanduuqu saxan yahay"
+msgid "The Email field is required if the checkbox is checked."
 msgstr ""
 
 #: 'error'->'required'
-msgid "Goobta khaladka ayaa loo baahan yahay"
+msgid "The error field is required."
 msgstr ""
 
 #: 'subject'->'length'
-msgid ""
-"Halka loogu talagalay in lagu qoro mawduuca (Subject)waa inaysan ka yaraan "
-"saddex xaraf"
+msgid "The subject field must be at least 3 characters long."
 msgstr ""
 
 #: 'subject'->'required'
-msgid "Mawduuc(Subject)ayaa loo baahan yahay"
+msgid "The subject field is required."
 msgstr ""
 
 #: 'yourname'->'length'
-msgid "Magaca waa inuusan ka yaraan saddex xaraf"
+msgid "The name field must be at least 3 characters long."
 msgstr ""
 
 #: 'yourname'->'required'
-msgid "Magac ayaa loo baahan yahay"
+msgid "The name field is required."
 msgstr ""

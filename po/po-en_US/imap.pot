@@ -1,9 +1,9 @@
-#. extracted from so/imap.php, en_US/imap.php
+#. extracted from en_US/imap.php, en_US/imap.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,9 +13,9 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'imap_stream_not_opened'
-msgid "Wuu furi waayay IMAP Stream"
+msgid "Could not open IMAP stream."
 msgstr ""
 
 #: $lang->'unsupported_service'
-msgid "Addeega Emailkan ma shaqeynayo"
+msgid "The email service is not supported."
 msgstr ""

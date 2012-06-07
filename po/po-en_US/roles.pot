@@ -1,9 +1,9 @@
-#. extracted from so/roles.php, en_US/roles.php
+#. extracted from en_US/roles.php, en_US/roles.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,28 +14,35 @@ msgstr ""
 
 #: 'description'->'length'
 msgid ""
-"Goobta sharraxaadu waa inay ka kooban tahay ugu yaraan 3 xaraf, ugu badnaana "
-"100 xaraf."
+"The Description field must be at least 3 and no more 100 characters long."
 msgstr ""
 
 #: 'description'->'required'
-msgid "Goobta sharraxaada waa loo baahan yahay."
+msgid "The Description field is required."
 msgstr ""
 
 #: 'name'->'alpha_numeric'
-msgid "Goobta magaca waa inay ka kooban tahay kaliya xarfo iyo tiro."
+msgid "The Name field must only contain letters or numbers."
 msgstr ""
 
 #: 'name'->'length'
-msgid ""
-"Magaca goobtu waa inuu ka kooban yahay ugu yaraan 2 xaraf, ugu badnaana 30 "
-"xaraf."
+msgid "The Name field must be at least 2 and no more than 30 characters long."
 msgstr ""
 
 #: 'name'->'nomodify'
-msgid "Heerka SuperAdmin waxba lagama bedeli karo."
+msgid "SuperAdmin Role Cannot Be Modified."
 msgstr ""
 
 #: 'name'->'required'
-msgid "Magaca goobta waa loo baahan yahay."
+msgid "The Name field is required."
+msgstr ""
+
+#: 'access_level'->'numeric'
+msgctxt "'access_level'->'numeric'"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr ""
+
+#: 'access_level'->'required'
+msgctxt "'access_level'->'required'"
+msgid "Access Level field must be a number between 0 - 100."
 msgstr ""

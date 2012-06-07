@@ -1,9 +1,9 @@
-#. extracted from so/datetime.php, en_US/datetime.php
+#. extracted from en_US/datetime.php, en_US/datetime.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,79 +13,163 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: $lang->'am'
-msgid "a.m. (Waqtiga u dhexeeya saqda dhexe ilaa 12:00 duhurkii)"
+msgid "am"
 msgstr ""
 
 #: 'friday'->'abbv'
-msgctxt "'friday'->'abbv'"
-msgid "Jimce"
+msgid "Fri"
 msgstr ""
 
 #: 'friday'->'full'
-msgctxt "'friday'->'full'"
-msgid "Jimce"
+msgid "Friday"
 msgstr ""
 
 #: 'monday'->'abbv'
-msgctxt "'monday'->'abbv'"
-msgid "Isniin"
+msgid "Mon"
 msgstr ""
 
 #: 'monday'->'full'
-msgctxt "'monday'->'full'"
-msgid "Isniin"
+msgid "Monday"
 msgstr ""
 
 #: 'monday'->'pm'
-msgid "p.m. (Duhur kaddib)"
+msgid "pm"
 msgstr ""
 
 #: 'saturday'->'abbv'
-msgctxt "'saturday'->'abbv'"
-msgid "Sabti"
+msgid "Sat"
 msgstr ""
 
 #: 'saturday'->'full'
-msgctxt "'saturday'->'full'"
-msgid "Sabti"
+msgid "Saturday"
 msgstr ""
 
 #: 'sunday'->'abbv'
-msgctxt "'sunday'->'abbv'"
-msgid "Axad"
+msgid "Sun"
 msgstr ""
 
 #: 'sunday'->'full'
-msgctxt "'sunday'->'full'"
-msgid "Axad"
+msgid "Sunday"
 msgstr ""
 
 #: 'thursday'->'abbv'
-msgctxt "'thursday'->'abbv'"
-msgid "Khamiis"
+msgid "Thu"
 msgstr ""
 
 #: 'thursday'->'full'
-msgctxt "'thursday'->'full'"
-msgid "Khamiis"
+msgid "Thursday"
 msgstr ""
 
 #: 'tuesday'->'abbv'
-msgctxt "'tuesday'->'abbv'"
-msgid "Talaado"
+msgid "Tue"
 msgstr ""
 
 #: 'tuesday'->'full'
-msgctxt "'tuesday'->'full'"
-msgid "Talaado"
+msgid "Tuesday"
 msgstr ""
 
 #: 'wednesday'->'abbv'
-msgctxt "'wednesday'->'abbv'"
-msgid "Arbaco"
+msgid "Wed"
 msgstr ""
 
 #: 'wednesday'->'full'
-msgctxt "'wednesday'->'full'"
-msgid "Arbaco"
+msgid "Wednesday"
+msgstr ""
+
+#: 'january'->'abbv'
+msgid "Jan"
+msgstr ""
+
+#: 'january'->'full'
+msgid "January"
+msgstr ""
+
+#: 'february'->'abbv'
+msgid "Feb"
+msgstr ""
+
+#: 'february'->'full'
+msgid "February"
+msgstr ""
+
+#: 'march'->'abbv'
+msgid "Mar"
+msgstr ""
+
+#: 'march'->'full'
+msgid "March"
+msgstr ""
+
+#: 'april'->'abbv'
+msgid "Apr"
+msgstr ""
+
+#: 'april'->'full'
+msgid "April"
+msgstr ""
+
+#: 'may'->'abbv'
+msgctxt "'may'->'abbv'"
+msgid "May"
+msgstr ""
+
+#: 'may'->'full'
+msgctxt "'may'->'full'"
+msgid "May"
+msgstr ""
+
+#: 'june'->'abbv'
+msgid "Jun"
+msgstr ""
+
+#: 'june'->'full'
+msgid "June"
+msgstr ""
+
+#: 'july'->'abbv'
+msgid "Jul"
+msgstr ""
+
+#: 'july'->'full'
+msgid "July"
+msgstr ""
+
+#: 'august'->'abbv'
+msgid "Aug"
+msgstr ""
+
+#: 'august'->'full'
+msgid "August"
+msgstr ""
+
+#: 'september'->'abbv'
+msgid "Sep"
+msgstr ""
+
+#: 'september'->'full'
+msgid "September"
+msgstr ""
+
+#: 'october'->'abbv'
+msgid "Oct"
+msgstr ""
+
+#: 'october'->'full'
+msgid "October"
+msgstr ""
+
+#: 'november'->'abbv'
+msgid "Nov"
+msgstr ""
+
+#: 'november'->'full'
+msgid "November"
+msgstr ""
+
+#: 'december'->'abbv'
+msgid "Dec"
+msgstr ""
+
+#: 'december'->'full'
+msgid "December"
 msgstr ""

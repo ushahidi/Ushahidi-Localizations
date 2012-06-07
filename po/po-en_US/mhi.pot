@@ -1,9 +1,9 @@
-#. extracted from so/mhi.php, en_US/mhi.php
+#. extracted from en_US/mhi.php, en_US/mhi.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,29 +13,29 @@ msgstr ""
 "X-Generator: Translate Toolkit 1.9.0\n"
 
 #: 'contact_captcha'->'default'
-msgid "Fadlan geli security code sax ah"
+msgid "Please enter a valid security code."
 msgstr ""
 
 #: 'contact_captcha'->'required'
-msgid "Fadlan geli security code-ka"
+msgid "Please enter the security code."
 msgstr ""
 
 #: 'contact_email'->'email'
-msgid "Email-ka aad gelisay sax ma aha?"
+msgid "The Email field does not appear to contain a valid email address."
 msgstr ""
 
 #: 'contact_email'->'required'
-msgid "Fadlan keen cinwaan email sax ah"
+msgid "Please provide a valid email address."
 msgstr ""
 
 #: 'contact_message'->'required'
-msgid "Farriin ayaa loo baahan yahay"
+msgid "The message field is required."
 msgstr ""
 
 #: 'contact_subject'->'length'
-msgid "Mawduucu waa inuu ka kooban yahay ugu yaraan 3 xaraf"
+msgid "The subject field must be at least 3 characters long."
 msgstr ""
 
 #: 'contact_subject'->'required'
-msgid "Mawduuc ayaa loo baahan yahay"
+msgid "The subject field is required."
 msgstr ""

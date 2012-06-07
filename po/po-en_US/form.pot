@@ -1,9 +1,9 @@
-#. extracted from so/form.php, en_US/form.php
+#. extracted from en_US/form.php, en_US/form.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-07 09:26+0000\n"
+"POT-Creation-Date: 2012-06-07 09:33+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -12,80 +12,76 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Translate Toolkit 1.9.0\n"
 
-#: 'field_default'->'length'
-msgctxt "'field_default'->'length'"
-msgid ""
-"Magaca goobtu waa inuu ka kooban yahay ugu yaraan 3 xaraf, ugu badnaanna 200 "
-"oo xaraf"
+#: 'field_default'->'default'
+msgid "The default value you have provided for the field is invalid."
 msgstr ""
 
-#: 'field_height'->'between'
-msgid "Fadlan geli qiime u dhaxeeya 0-50 si aad u hagaajiso joogga goobta"
+#: 'field_default'->'length'
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long.'\n"
+"\t),\n"
+"\t\t'between' => 'Please enter a value 0 to 50 for the Field Height."
 msgstr ""
 
 #: 'field_isdate'->'between'
-msgid "Sax maaha qiimaha aad gelisay goobta taariikhda"
+msgid "You have entered an invalid value for Date Field."
 msgstr ""
 
 #: 'field_isdate'->'required'
-msgid "Fadlan u dooro Haa ama Maya goobta taariikhda"
+msgid "Please select Yes or No for the Date Field."
 msgstr ""
 
 #: 'field_name'->'length'
-msgctxt "'field_name'->'length'"
-msgid ""
-"Magaca goobtu waa inuu ka kooban yahay ugu yaraan 3 xaraf, ugu badnaanna 200 "
-"oo xaraf"
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
 msgstr ""
 
 #: 'field_name'->'required'
-msgid "Fadlan geli magaca goobta"
+msgid "Please enter Field Name."
 msgstr ""
 
 #: 'field_required'->'between'
-msgid "Waxaad goobta gelisay qiime khaldan"
+msgid "You have entered an invalid value for Field Required."
 msgstr ""
 
 #: 'field_required'->'required'
-msgid "Fadlan u dooro Haa ama Maya goobta loo baahan yahay"
+msgid "Please select Yes or No for Field Required."
 msgstr ""
 
 #: 'field_type'->'numeric'
-msgid "Fadlan dooro nooc goob sax ah"
+msgid "Please select a valid Field Type."
 msgstr ""
 
 #: 'field_type'->'required'
-msgid "Fadlan dooro nooca goobta"
+msgid "Please select a Field Type."
 msgstr ""
 
 #: 'field_width'->'between'
-msgid "Fadlan geli qiime u dhaxeeya 0-300 si aad u hagaajiso ballaca goobta"
+msgid "Please enter a value 0 to 300 for the Field Width."
 msgstr ""
 
 #: 'form_description'->'required'
-msgid "Fadlan geli sharraxaad ku saabsan foomka"
+msgid "Please enter form's Description."
 msgstr ""
 
 #: 'form_id'->'default'
-msgid "Foomka asalka ah (default) lama tiri karo"
+msgid "The default form cannot be deleted."
 msgstr ""
 
 #: 'form_id'->'numeric'
 msgctxt "'form_id'->'numeric'"
-msgid "Fadlan dooro foomka aad doonayso inaad ku soo darto goobtan"
+msgid "Please select which form to add this field to."
 msgstr ""
 
 #: 'form_id'->'required'
 msgctxt "'form_id'->'required'"
-msgid "Fadlan dooro foomka aad doonayso inaad ku soo darto goobtan"
+msgid "Please select which form to add this field to."
 msgstr ""
 
 #: 'form_title'->'length'
 msgid ""
-"Magaca foomka ee goobta waa inuu ka kooban yahay ugu yaraan 3 xaraf, ugu "
-"badnaanna 200 oo xaraf"
+"The form name field must be at least 3 and no more than 100 characters long."
 msgstr ""
 
 #: 'form_title'->'required'
-msgid "Fadlan geli magaca foomka"
+msgid "Please enter the name of the form."
 msgstr ""

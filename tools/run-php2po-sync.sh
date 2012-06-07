@@ -8,7 +8,7 @@ git pull rjmackay master
 
 # generate the po files for en_US so transifex can pick it up
 echo "Generating po files for en_US..."
-php2po -P -t so/ en_US/ po/po-en_US
+php2po -P -t en_US/ en_US/ po/po-en_US
 
 # add any new file generated
 git add po/po-en_US
