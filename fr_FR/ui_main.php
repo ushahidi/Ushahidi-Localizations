@@ -62,7 +62,7 @@
 	'reports_video' => 'Lien Vidéo',
 	'report_an_incident' => 'Déclarer un incident',
 	'report_option_1' => 'En envoyant un SMS à',
-	'report_option_2' => 'En envoyant un e-mail ',
+	'report_option_2' => 'En envoyant un e-mail',
 	'report_option_3' => 'En envoyant un tweet avec le hashtag',
 	'report_option_4' => 'En remplissant ce formulaire sur notre site',
 	'report_option_external_apps' => 'En utilisant un app',
