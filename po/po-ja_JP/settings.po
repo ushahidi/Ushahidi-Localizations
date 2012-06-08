@@ -1,9 +1,9 @@
-#. extracted from en_US/settings.php, ja_JP/settings.php
+#. extracted from ../en_US/settings.php, ../ja_JP/settings.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
+"POT-Creation-Date: 2012-06-08 12:41+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -105,9 +105,10 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr "あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a "
+msgstr ""
+"あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
-"rewrite\" target=\"_blank\">このフォームの投稿</a>の詳細を確認してください。\n"
+"rewrite\" target=\"_blank\">このフォームの投稿</a>の詳細を確認してください。"
 
 #: 'cleanurl'->'clean_url_enabled'
 msgid ""
@@ -326,7 +327,7 @@ msgstr "地図設定"
 
 #: 'map_provider'->'multiple_countries'
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr "このUshahidiは、複数の国にまたがっていますか\n"
+msgstr "このUshahidiは、複数の国にまたがっていますか"
 
 #: 'map_provider'->'select_default_location'
 msgid "Please select a default country"
@@ -334,7 +335,7 @@ msgstr "デフォルトの国を選択してください。"
 
 #: 'map_provider'->'set_location'
 msgid "Click and drag the map to set your exact location"
-msgstr "地図をクリック＆ドラッグして、正しい位置を選択してください。\n"
+msgstr "地図をクリック＆ドラッグして、正しい位置を選択してください。"
 
 #: 'site'->'allow_clustering'
 msgid "Cluster Reports on Map"
@@ -562,7 +563,7 @@ msgstr ""
 
 #: 'sms'->'clickatell_text_2'
 msgid "Enter your Clickatell access information below"
-msgstr "以下にClickatellのアクセス情報を入力する\n"
+msgstr "以下にClickatellのアクセス情報を入力する"
 
 #: 'sms'->'clickatell_username'
 msgid "Your Clickatell User Name"

@@ -108,8 +108,7 @@
 	'email_server_type' => 'Levelező szerver típusa',
 	'email_server_username' => 'Levelező szerver felhasználói név',
 	'email_settings_comment_0' => 'Beállításaid az email címedhez lesznek alkalmazva.',
-	'email_settings_comment_00' => 'Ahhoz hogy emailben kapjál értesítést, meg kell adnod az email fiókod elérhetőségét.
-',
+	'email_settings_comment_00' => 'Ahhoz hogy emailben kapjál értesítést, meg kell adnod az email fiókod elérhetőségét.',
 	'email_settings_comment_1' => 'Valamelyik szerver teljes email címet kér',
 	'email_settings_comment_2' => 'Email fiók jelszó',
 	'email_settings_comment_3' => 'Jellemző portok: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)',

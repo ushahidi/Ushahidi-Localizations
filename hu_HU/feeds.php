@@ -2,8 +2,7 @@
 	$lang = array(
 	'date' => 'DÁTUM',
 	'feed_name' => array(
-		'length' => 'A feed neve legalább 3 és maximum 70 karakter hosszú lehet.
-',
+		'length' => 'A feed neve legalább 3 és maximum 70 karakter hosszú lehet.',
 		'required' => 'Kérjük, adja meg a feed nevét.',
 	),
 	'feed_url' => array(

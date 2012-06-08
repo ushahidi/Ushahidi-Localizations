@@ -16,8 +16,7 @@
 	'api_unban_all' => 'Ka qaad mamnuucidda dhamaantood',
 	'approved' => 'Waa la ogolaaday',
 	'approve_auto' => 'Auto Approve',
-	'approve_manual' => 'Manually Approve
-',
+	'approve_manual' => 'Manually Approve',
 	'archived' => 'Waa la keydiyay',
 	'author' => 'Qoraa',
 	'author_email' => 'Emailka qoraaga',

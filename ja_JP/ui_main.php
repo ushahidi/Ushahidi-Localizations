@@ -60,8 +60,7 @@
 	'category_has_been' => 'カテゴリーは',
 	'category_name' => 'カテゴリー名',
 	'choose' => '選択',
-	'choose_data_points' => 'ダウンロードの為にデータポイントを選択してください。
-',
+	'choose_data_points' => 'ダウンロードの為にデータポイントを選択してください。',
 	'choose_field_type' => 'フィールドタイプを選択してください。',
 	'cleanurl' => 'URLをクリアにする',
 	'clear_map' => '地図をクリアにする',
@@ -160,8 +159,7 @@
 	'form_title' => 'フォームタイトル',
 	'from' => 'から',
 	'full_name' => '氏名',
-	'geolocation_available' => '可能なジオロケーション
-',
+	'geolocation_available' => '可能なジオロケーション',
 	'geometry_color' => '色',
 	'geometry_comments' => 'コメント',
 	'geometry_label' => 'ラベル',
@@ -202,8 +200,7 @@
 	'item_title' => 'アイテムタイトル',
 	'key' => 'キー',
 	'kml_kmz_file' => 'KMZ/KMLファイル',
-	'kml_kmz_upload' => 'KMZ/KMLファイルをアップロード
-',
+	'kml_kmz_upload' => 'KMZ/KMLファイルをアップロード',
 	'kml_url' => 'KML URL',
 	'laconica' => 'Laconica',
 	'language' => '言語',
@@ -324,8 +321,7 @@
 	'report' => 'レポート',
 	'reporters' => 'レポーター',
 	'reporter_date' => 'レポートされた日時',
-	'reporter_email' => 'レポーターのメール
-',
+	'reporter_email' => 'レポーターのメール',
 	'reporter_first_name' => 'レポーターの名前',
 	'reporter_has_been' => 'このレポーターは',
 	'reporter_ip' => 'レポーターのIPアドレス',

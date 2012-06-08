@@ -31,21 +31,18 @@
 	'go_back' => 'Zurück',
 	'index' => array(
 		'advanced' => 'EXPERTEN INSTALLATION',
-		'advanced_installation_description' => 'In diesen 5-Schritten werden alle grundlegenden Einstellungen, d.h. Server, Karte, Seitenname und Kontaktdetails, erledigt.
-',
+		'advanced_installation_description' => 'In diesen 5-Schritten werden alle grundlegenden Einstellungen, d.h. Server, Karte, Seitenname und Kontaktdetails, erledigt.',
 		'basic_installation' => 'Standard INSTALLATION',
 		'basic_installation_description' => 'Einfach und schnell. Alles was Du brauchst ist das root-Verzeichnis Deiner Website und die Datenbankinformationen. Wähle diese Möglichkeit wenn Du schnell fertig werden willst. Alles Weitere kannst Du später noch konfigurieren.',
 		'proceed' => 'Fortfahren',
-		'welcome' => 'Willkommen zum Ushahidi-Server Installationsprozess. Wähle unten die Art der Installation.
-',
+		'welcome' => 'Willkommen zum Ushahidi-Server Installationsprozess. Wähle unten die Art der Installation.',
 	),
 	'installation_successful' => 'Installation erfolgreich.',
 	'mail_server' => 'Mail Server',
 	'mail_server_host' => 'Mail Server Host',
 	'mail_server_host_description' => 'Beispiele: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com',
 	'mail_server_password' => 'Mail Server Passwort',
-	'mail_server_password_description' => 'Das Passwort das Du normalerweise benutzt um Dich in Deinen eMail-Konto einzuloggen.
-',
+	'mail_server_password_description' => 'Das Passwort das Du normalerweise benutzt um Dich in Deinen eMail-Konto einzuloggen.',
 	'mail_server_port' => 'Mail Server Port',
 	'mail_server_port_description' => 'Standard Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)',
 	'mail_server_type' => 'Mail Server Type',
@@ -59,8 +56,7 @@
 	'password' => 'Passwort',
 	'password_description' => 'Datenbank Passwort',
 	'previous' => 'Zurück',
-	'restart_apache' => 'Bitte starte Deinen Apache-Server neu
-',
+	'restart_apache' => 'Bitte starte Deinen Apache-Server neu',
 	'select_mail_server_ssl' => 'Aktiviere oder deaktiviere SSL',
 	'select_mail_server_ssl_description' => 'Einige Mail-Server geben Dir die Möglichkeit beim Herstellen einer Verbindung <abbr title="Secure Sockets Layer">SSL</abbr> zu nutzen. SSL ist empfohlen da es für zusätzliche Sicherheit sorgt.',
 	'setup_sms' => 'Setup your SMS server',
@@ -73,30 +69,26 @@
 	'site_tagline' => 'Untertitel der Seite',
 	'site_tagline_description' => 'Dein Untertitel',
 	'summary' => array(
-		'text_1' => 'Die unten gelisteten DAteien und Ordner müssen vom Webserver beschreibbar sein.
-',
+		'text_1' => 'Die unten gelisteten DAteien und Ordner müssen vom Webserver beschreibbar sein.',
 		'text_2' => '<p>Anweisungen wie man die Daterechte ändert:</p>
         <ul>
             <li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li>
             <li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li>
         </ul>',
 		'text_3' => 'Bevor to anfängst solltest to sicherstellen, dass folgende Dateien und Ordner für Deinen Webserver beschreibbar sind. Das bedeutet auch die Dateiberechtigungen zu ändern.',
-		'text_4' => 'Für den Installationsprozess brauchst Du folgende Informationen
-',
+		'text_4' => 'Für den Installationsprozess brauchst Du folgende Informationen',
 	),
 	'summary_text_1' => 'Text 1 in installer-Datei',
 	'summary_text_2' => 'Text 2 in installer-Datei',
 	'summary_text_3' => 'Text 3 in installer-Datei',
 	'table_prefix' => 'Tabellen Präfix',
-	'table_prefix_description' => 'Normalerweise brauchst Du das Präfix nicht zu ändern. Wenn Du allerdings mehrere Ushahidi-Installationen in derselben Datenbanken installieren willst, kannst Du das Präfix hier ändern.
-',
+	'table_prefix_description' => 'Normalerweise brauchst Du das Präfix nicht zu ändern. Wenn Du allerdings mehrere Ushahidi-Installationen in derselben Datenbanken installieren willst, kannst Du das Präfix hier ändern.',
 	'title' => 'Titel',
 	'to_login' => 'Um Dich einzuloggen, gehe zu',
 	'upload_data' => 'Hochladen von Berichtsdaten',
 	'username' => 'Benutzername',
 	'username_description' => 'Dein Datenbankbenutzername',
-	'use_credentials' => 'und verwende die folgenden Zugangsdaten
-',
+	'use_credentials' => 'und verwende die folgenden Zugangsdaten',
 	'view_site' => 'Website ansehen',
 	);
 ?>

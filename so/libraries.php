@@ -14,10 +14,8 @@
 	'upgrade_directory_not_deleted' => 'Galka <code>%s</coded> lama tiri karo',
 	'upgrade_extracting_error' => 'Cillad ayaa dhacday:  <code>%s</code>',
 	'upgrade_failed' => 'Soodejinta version-kii u dambeeyay ee Ushahidi waa uu guuldarreystay. HTTP status Code',
-	'upgrade_file_not_copied' => 'Faylka <code>%s</coded> waa la badin kari waayay
-',
-	'upgrade_file_not_deleted' => 'Faylka <code>%s</coded> waa la tiri waayay
-',
+	'upgrade_file_not_copied' => 'Faylka <code>%s</coded> waa la badin kari waayay',
+	'upgrade_file_not_deleted' => 'Faylka <code>%s</coded> waa la tiri waayay',
 	'upgrade_title' => 'Script-ga casriyeynta Ushahidi',
 	'upgrade_zip_error' => 'Faylka zip-ka ah ee la soo dejiyay ee Ushahidi <code>%s</code>, waa la qori waayay',
 	);

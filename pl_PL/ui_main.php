@@ -469,8 +469,7 @@
 	'upload_reports_detail_3' => 'Gdy ID zdarzenia istnieje już w systemie, zdarzenie z pliku CSV zostanie pominięte. ',
 	'upload_reports_detail_4' => 'Plik musi zawierać co najmniej Tytuł Zdarzenia i Datę',
 	'upload_reports_detail_5' => 'Przykładowy Raport CSV',
-	'upload_reports_detail_6' => '#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />
-					"1","Suspected death in Nairobi","2009-05-15 01:06:00","Nairobi","Three cases have been confirmed in C. del Uruguay","DEATHS, CIVILIANS, ",TAK,TAK',
+	'upload_reports_detail_6' => '#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />"1","Suspected death in Nairobi","2009-05-15 01:06:00","Nairobi","Three cases have been confirmed in C. del Uruguay","DEATHS, CIVILIANS, ",TAK,TAK',
 	'upload_reports_detail_7' => '"2","Looting","2009-03-18 10:10:00","Poznań","Radość kibiców Lecha","PROPERTY LOSS, ",TAK,NIE',
 	'upload_successful' => 'Dodawanie powiodło się',
 	'user' => 'Użytkownik',

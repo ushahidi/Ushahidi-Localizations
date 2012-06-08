@@ -46,8 +46,7 @@
 	'mail_server_port' => 'Mail Server Port',
 	'mail_server_port_description' => 'Ports-ka caadiga ah: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)',
 	'mail_server_type' => ' Nooca mail Server-ka',
-	'mail_server_type_description' => 'en_US: Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a href="http://saturn.med.nyu.edu/it/help/email/imap/index.html" target="_blank">What is the difference?</a>
-',
+	'mail_server_type_description' => 'en_US: Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a href="http://saturn.med.nyu.edu/it/help/email/imap/index.html" target="_blank">What is the difference?</a>',
 	'mail_server_username' => 'Username-ka lagu galo Mail Server-ka',
 	'mail_server_username_description' => 'Haddii aad isticmaalayso Gmail, Hotmail, ama Yahoo Mail, u isticmaal Emailkaaga oo dhamaystiran magaca aad ku galayso',
 	'map' => 'Khariidad',

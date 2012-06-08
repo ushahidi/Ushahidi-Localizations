@@ -13,8 +13,7 @@
 	'invalid_api_library' => 'API ライブラリ %sは無効です。全てのAPI ライブラリは %sのサブクラスでなければいけません。',
 	'upgrade_directory_not_deleted' => '<code>%s</coded>ディレクトリは削除出来ませんでした。',
 	'upgrade_extracting_error' => '展開時にエラーが発生しました: <code>%s</code>',
-	'upgrade_failed' => '最新のushahidiダウンロードに失敗しました。HTTPステイタスコード
-',
+	'upgrade_failed' => '最新のushahidiダウンロードに失敗しました。HTTPステイタスコード',
 	'upgrade_file_not_copied' => '<code>%s</coded>ファイルはコピー出来ませんでした。',
 	'upgrade_file_not_deleted' => '<code>%s</coded>ファイルは削除出来ませんでした。',
 	'upgrade_title' => 'Ushahidiアップグレードスクリプト',

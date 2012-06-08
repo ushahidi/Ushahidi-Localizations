@@ -8,8 +8,7 @@
 	'database_name_description' => 'Ushahidi を稼働させたいデータベース名は',
 	'db_information_link' => '更なる情報に関しては、<a href="http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases" target="_blank">このWikiの記事</a>を確認し、データーベースに関して確認してください。',
 	'default_language' => 'デフォルト言語(ロケール)',
-	'default_language_description' => '個々のUshahidiは、翻訳された言語パックがついてきます。 <a href="http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages" target="_blank">自身の言語</a>を追加する事が出来ます。
-',
+	'default_language_description' => '個々のUshahidiは、翻訳された言語パックがついてきます。 <a href="http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages" target="_blank">自身の言語</a>を追加する事が出来ます。',
 	'disable' => '無効',
 	'enable' => '有効',
 	'error' => ' ',
@@ -71,8 +70,7 @@
 	'site_tagline' => 'サイトのタグライン',
 	'site_tagline_description' => 'タグライン',
 	'summary' => array(
-		'text_1' => '以下のファイルとフォルダーはウェブサーバにより上書きされます。
-',
+		'text_1' => '以下のファイルとフォルダーはウェブサーバにより上書きされます。',
 		'text_2' => '<p>以下がファイルの権限を変更する方法です:</p><ul> <li><a href="http://www.washington.edu/computing/unix/permissions.html" target="_blank">Unix/Linux</a></li> <li><a href="http://support.microsoft.com/kb/308419" target="_blank">Windows</a></li> </ul>',
 		'text_3' => '始める前に、以下のファイルやフォルダーがウェブサーバーによって上書き可能か確認する必要があります。これはファイル権限を帰る事で可能になります。',
 		'text_4' => 'インストールプロセスの為に、以下の情報を覚えておいてください。',

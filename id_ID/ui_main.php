@@ -22,8 +22,7 @@
 	'alerts_alert_me' => 'Beritahukan bila ada laporan yang masuk, atau tentang :',
 	'alerts_btn_send' => 'Rekam pemberitahuan saya',
 	'alerts_email' => 'Alamat surel :',
-	'alerts_enter_email' => 'masukkan alamat surel 
-',
+	'alerts_enter_email' => 'masukkan alamat surel ',
 	'alerts_enter_mobile' => 'masukkan nomor telpon genggam beserta kode negaranya',
 	'alerts_get' => 'Dapatkan pemberitahuan',
 	'alerts_mobile_phone' => 'Telpon genggam :',

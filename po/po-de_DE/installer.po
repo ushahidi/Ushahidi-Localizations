@@ -1,9 +1,9 @@
-#. extracted from en_US/installer.php, de_DE/installer.php
+#. extracted from ../en_US/installer.php, ../de_DE/installer.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:42+1300\n"
+"POT-Creation-Date: 2012-06-08 11:48+1300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -121,8 +121,9 @@ msgstr "EXPERTEN INSTALLATION"
 msgid ""
 "Get all the basic settings completed through this 5-step process.  This "
 "includes server, map, site name and contact details."
-msgstr "In diesen 5-Schritten werden alle grundlegenden Einstellungen, d.h. Server, "
-"Karte, Seitenname und Kontaktdetails, erledigt.\r\n"
+msgstr ""
+"In diesen 5-Schritten werden alle grundlegenden Einstellungen, d.h. Server, "
+"Karte, Seitenname und Kontaktdetails, erledigt."
 
 #: 'index'->'basic_installation'
 msgid "BASIC INSTALLATION"
@@ -147,8 +148,9 @@ msgstr "Fortfahren"
 msgid ""
 "Welcome to the Ushahidi server install process.  Choose which type of "
 "installation you would like to use below."
-msgstr "Willkommen zum Ushahidi-Server Installationsprozess. Wähle unten die Art der "
-"Installation.\r\n"
+msgstr ""
+"Willkommen zum Ushahidi-Server Installationsprozess. Wähle unten die Art der "
+"Installation."
 
 #: 'index'->'installation_successful'
 msgid "Installation Successful"
@@ -172,8 +174,9 @@ msgstr "Mail Server Passwort"
 
 #: 'index'->'mail_server_password_description'
 msgid "The password you normally use to login in to your email"
-msgstr "Das Passwort das Du normalerweise benutzt um Dich in Deinen eMail-Konto "
-"einzuloggen.\r\n"
+msgstr ""
+"Das Passwort das Du normalerweise benutzt um Dich in Deinen eMail-Konto "
+"einzuloggen."
 
 #: 'index'->'mail_server_port'
 msgid "Mail Server Port"
@@ -245,7 +248,7 @@ msgstr "Zurück"
 
 #: 'index'->'restart_apache'
 msgid "Please restart your Apache Server"
-msgstr "Bitte starte Deinen Apache-Server neu\r\n"
+msgstr "Bitte starte Deinen Apache-Server neu"
 
 #: 'index'->'select_mail_server_ssl'
 msgid "Enable or disable SSL"
@@ -307,8 +310,9 @@ msgstr "Dein Untertitel"
 #: 'summary'->'text_1'
 msgid ""
 "The files and folders listed below need to be writable by your webserver."
-msgstr "Die unten gelisteten DAteien und Ordner müssen vom Webserver beschreibbar "
-"sein.\r\n"
+msgstr ""
+"Die unten gelisteten DAteien und Ordner müssen vom Webserver beschreibbar "
+"sein."
 
 #: 'summary'->'text_2'
 msgid ""
@@ -344,7 +348,7 @@ msgstr ""
 msgid ""
 "For the installation process, please have the following bits of information "
 "on hand."
-msgstr "Für den Installationsprozess brauchst Du folgende Informationen\r\n"
+msgstr "Für den Installationsprozess brauchst Du folgende Informationen"
 
 #: 'summary'->'table_prefix'
 msgid "Table Prefix"
@@ -355,9 +359,10 @@ msgid ""
 "Normally you would not change the table prefix. However, if you want to run "
 "multiple Ushahidi installations from a single database, you can do that by "
 "changing the prefix here."
-msgstr "Normalerweise brauchst Du das Präfix nicht zu ändern. Wenn Du allerdings "
+msgstr ""
+"Normalerweise brauchst Du das Präfix nicht zu ändern. Wenn Du allerdings "
 "mehrere Ushahidi-Installationen in derselben Datenbanken installieren "
-"willst, kannst Du das Präfix hier ändern.\r\n"
+"willst, kannst Du das Präfix hier ändern."
 
 #: 'summary'->'title'
 msgid "Title"
@@ -381,7 +386,7 @@ msgstr "Dein Datenbankbenutzername"
 
 #: 'summary'->'use_credentials'
 msgid "and use the following credentials"
-msgstr "und verwende die folgenden Zugangsdaten\r\n"
+msgstr "und verwende die folgenden Zugangsdaten"
 
 #: 'summary'->'view_site'
 msgid "View your website"

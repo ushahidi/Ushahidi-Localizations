@@ -9,15 +9,12 @@
 		'valid' => 'Das Dateifeld enthält eine ungültige Datei.',
 	),
 	'layer_name' => array(
-		'length' => 'Das Namensfeld muss mindestens 3 und darf höchstens 80 Zeichen lang sein.
-',
+		'length' => 'Das Namensfeld muss mindestens 3 und darf höchstens 80 Zeichen lang sein.',
 		'required' => 'Das Namensfeld muss ausgefüllt sein.',
 	),
 	'layer_url' => array(
-		'atleast' => 'Entweder muss eine URL oder eine KML-Datei angegeben werden.
-',
-		'both' => 'Beides geht nicht: Entweder Datei oder URL.
-',
+		'atleast' => 'Entweder muss eine URL oder eine KML-Datei angegeben werden.',
+		'both' => 'Beides geht nicht: Entweder Datei oder URL.',
 		'url' => 'Bitte gib eine gültige URL an, bspw. http://www.ushahidi.com/layerl.kml.',
 	));
 ?>

@@ -102,8 +102,7 @@
 	),
 	'to_date' => array(
 		'date_mmddyyyy' => 'Isi pada kolom tanggal sampai, salah ?',
-		'range' => 'Mohon pastikan kolom SAMPAI terisi dengan tanggal yg benar. Tanggal tidak boleh lebih besar dr hari ini.
-',
+		'range' => 'Mohon pastikan kolom SAMPAI terisi dengan tanggal yg benar. Tanggal tidak boleh lebih besar dr hari ini.',
 		'range_greater' => 'Isi tanggal pada kolom DARI tidak boleh lebih besar dr isi tanggal pada kolom SAMPAI',
 	));
 ?>

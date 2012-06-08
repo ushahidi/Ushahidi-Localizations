@@ -34,8 +34,7 @@
 		'required' => 'キャッシュページ有効期間は入力必須です。',
 	),
 	'cleanurl' => array(
-		'clean_url_disabled' => 'あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">このフォームの投稿</a>の詳細を確認してください。
-',
+		'clean_url_disabled' => 'あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">このフォームの投稿</a>の詳細を確認してください。',
 		'clean_url_enabled' => 'この設定はUshahidiは"index.php"ではなくクリーンURLでアクセス出来るようにします。',
 		'enable_clean_url' => 'クリーンURLを有効にする',
 		'title' => 'クリーンURL',
@@ -105,11 +104,9 @@
 		'name' => '地図提供者',
 	),
 	'map_settings' => '地図設定',
-	'multiple_countries' => 'このUshahidiは、複数の国にまたがっていますか
-',
+	'multiple_countries' => 'このUshahidiは、複数の国にまたがっていますか',
 	'select_default_location' => 'デフォルトの国を選択してください。',
-	'set_location' => '地図をクリック＆ドラッグして、正しい位置を選択してください。
-',
+	'set_location' => '地図をクリック＆ドラッグして、正しい位置を選択してください。',
 	'site' => array(
 		'allow_clustering' => '地図上のレポートをひとまとめにする',
 		'allow_comments' => 'レポートへのコメント投稿を許可',
@@ -162,8 +159,7 @@
 		'clickatell_load_balance' => 'クレジットバランスを取り込む',
 		'clickatell_password' => 'Clickatellパスワード',
 		'clickatell_text_1' => '<a href="https://www.clickatell.com/central/user/client/step1.php?prod_id=2" target="_blank">ここをクリックして</a>Clickatellサーバに登録する',
-		'clickatell_text_2' => '以下にClickatellのアクセス情報を入力する
-',
+		'clickatell_text_2' => '以下にClickatellのアクセス情報を入力する',
 		'clickatell_username' => 'Clickatellユーザー名',
 		'flsms_description' => 'FrontlineSMSはノートブック、携帯をコミュニケーションの中央ハブにする事が出来るオープンソースソフトウェアです。一度インストールすれば、プログラムがテキストメッセージを携帯から送受信する事が出来ます。灰色の色をクリックしてFrontlineSMS.comからダウンロードリクエストをしてください。',
 		'flsms_download' => 'FrontlineSMSをダウンロードして、コンピューターにインストールしてください。',

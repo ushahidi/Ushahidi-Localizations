@@ -13,8 +13,7 @@
 	'hit_summary' => 'Sommario dei risultati',
 	'legend' => 'Legenda',
 	'pageviews' => 'Pageview',
-	'pageviews_description' => 'Numero totale di pagine del sito viste da un utente
-',
+	'pageviews_description' => 'Numero totale di pagine del sito viste da un utente',
 	'reports' => 'Report',
 	'reports_categories' => 'Categorie dei Report',
 	'reports_statistics' => 'Statistiche dei Report',
