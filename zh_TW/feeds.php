@@ -2,13 +2,12 @@
 	$lang = array(
 	'date' => 'DATE',
 	'feed_name' => array(
-		'length' => 'The feed name field must be at least 3 and no more 
-			70 characters long.',
-		'required' => 'Please enter the name of the feed.',
+		'length' => 'RSS名稱的長度應在3至70個字符之間',
+		'required' => '請輸入RSS的名稱.',
 	),
 	'feed_url' => array(
-		'required' => 'Please enter feed\'s URL.',
-		'url' => 'Please enter a valid URL. Eg. http://www.ushahidi.com',
+		'required' => '請輸入RSS的源地址(URL).',
+		'url' => '請輸入一個正確的URL。比如. http://www.ushahidi.com',
 	),
 	'source' => 'SOURCE',
 	'title' => 'Title',
