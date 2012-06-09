@@ -17,7 +17,7 @@
 		'required' => '經度欄位為必填，請在地圖上點選一個位置.',
 	),
 	'reporter_id' => array(
-		'numeric' => '无效的报告者',
-		'required' => '无效的报告者',
+		'numeric' => '無效的報告者',
+		'required' => '無效的報告者',
 	));
 ?>
