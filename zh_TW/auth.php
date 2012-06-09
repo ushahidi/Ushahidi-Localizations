@@ -16,15 +16,15 @@
 		'login error' => '請確認你已輸入正確的密碼',
 		'matches' => '請在兩個密碼欄位中輸入一樣的密碼',
 		'required' => '密碼為必填欄位',
-		'alpha_dash' => 'The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only',
-		'incorrect' => 'The current password you entered for your account is incorrect. Please try again.',
+		'alpha_dash' => '密碼只能由字母，數字和符號#，@，_以及-組成',
+		'incorrect' => '您輸入的賬戶密碼是不正確的，請再試一次',
 	),
 	'new_password' => array(
-		'length' => 'The password field must be at least 8 characters long.',
-		'login error' => 'Please check that you entered the correct email and password.',
-		'matches' => 'Please enter the same password in the two password fields.',
-		'required' => 'The password field is required.',
-		'alpha_dash' => 'The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only',
+		'length' => '密碼必須為5~16個字元',
+		'login error' => '請確認你已輸入正確的密碼.',
+		'matches' => '請在兩個密碼欄位中輸入一樣的密碼.',
+		'required' => '密碼為必填欄位.',
+		'alpha_dash' => '密碼只能由字母，數字和符號#，@，_以及-組成',
 	)
 	'password_confirm' => array(
 		'matches' => '密碼確認欄位資料需與密碼欄位資料一致',
@@ -35,22 +35,22 @@
 		'required' => 'email欄位為必填',
 	),
 	'role' => array(
-		'superadmin_modify' => 'Only a superadmin may modify a superadmin or upgrade a user to admin.',
+		'superadmin_modify' => '只有超級管理員可以修改超級管理員或升級用戶到管理員.',
 	),
 	'roles' => array(
-		'alpha_numeric' => 'Invalid role format.',
+		'alpha_numeric' => '無效的角色.',
 		'length' => '角色地欄位字元長度需於5~30之間.',
 		'required' => '請至少選擇一種角色',
 		'values' => '必須選擇是管理者或使用者',
 	),
 	'username' => array(
 		'admin' => '管理者權限無法被修改',
-		'alpha_numeric' => 'The public profile URL field must only contain numbers and letters.',
+		'alpha_numeric' => '公告頁面的URL網址地址只能包含數字和字母.',
 		'exists' => '抱歉，這個使用者名稱已經被註冊',
 		'length' => '使用者帳號必須為2~16個字元',
 		'login error' => '請確認你已輸入正確的使用者名稱',
 		'required' => '使用者帳號為必填',
 		'superadmin' => '超級管理者權限無法被修改',
-		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a user?'
+		'csrf' => '可能的的CSRF（跨站請求偽造）攻擊。你真的要建立/編輯用戶?'
 	));
 ?>
