@@ -17,13 +17,13 @@
 		'required' => '標題欄位為必填.',
 	),
 	'parent_id' => array(
-		'already_parent' => 'You cannot subcategorize a category with subcategories.',
-		'exists' => '上一層目錄並不存在.',
-		'numeric' => '上一層目錄需為數字.',
-		'parent_trusted' => 'The parent category cannot be a special category',
-		'required' => '上一層欄位為必填.',
-		'same' => '目錄與上一層目錄名稱不得相同.',
-		'special' => 'Special categories cannot be subcategorised.',
+		'already_parent' => '要創建的子類別已在父類別中存在.',
+		'exists' => '上一層分類並不存在.',
+		'numeric' => '上一層分類代码需為數字.',
+		'parent_trusted' => '上一層分類不能是一個有特殊性的類別',
+		'required' => '上一層分類為必填.',
+		'same' => '分類與上一層分類名稱不得相同.',
+		'special' => '有特殊性的類別不能創建子類別',
 
 	));
 ?>
