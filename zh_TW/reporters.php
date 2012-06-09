@@ -5,8 +5,8 @@
 		'required' => '緯度欄位為必填，請在地圖上點選一個位置.',
 	),
 	'level_id' => array(
-		'numeric' => 'The Reporter Level field does not appear to contain a valid Level?',
-		'required' => 'The Reporter Level field does not appear to contain a valid Level?',
+		'numeric' => '報告者等級無效',
+		'required' => '報告者等級無效',
 	),
 	'location_name' => array(
 		'length' => '地點名稱長度為2~200個字元.',
@@ -17,7 +17,7 @@
 		'required' => '經度欄位為必填，請在地圖上點選一個位置.',
 	),
 	'reporter_id' => array(
-		'numeric' => 'Invalid Reporter',
-		'required' => 'Invalid Reporter',
+		'numeric' => '无效的报告者',
+		'required' => '无效的报告者',
 	));
 ?>
