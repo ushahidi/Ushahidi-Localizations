@@ -1,30 +1,30 @@
 <?php
 	$lang = array(
-	'admin_footer' => 'This message was sent from your website',
-	'admin_login_url' => 'Administrator Login',
+	'admin_footer' => '这些信息是从您的网站发出的',
+	'admin_login_url' => '管理員登錄',
 	'admin_new_comment' => array(
-		'message' => 'A new comment has been submitted to your website in response to:',
-		'subject' => 'New Comment',
+		'message' => '有新的評論,回應：',
+		'subject' => '新的評論',
 	),
 	'admin_new_email' => array(
-		'message' => 'A new email message has been submitted to your website.',
-		'subject' => 'New Email Message',
+		'message' => '有新的郵件',
+		'subject' => '新的郵件',
 	),
 	'admin_new_report' => array(
-		'message' => 'A new report has been submitted to your website.',
-		'subject' => 'New Report',
+		'message' => '有新的事件報告',
+		'subject' => '新的報告',
 	),
 	'admin_new_sms' => array(
-		'message' => 'A new text message has been submitted to your website.',
-		'subject' => 'New Text Message',
+		'message' => '有新的文本消息',
+		'subject' => '新的消息',
 	),
 	'member_new_alert' => array(
-		'message' => 'You Have Received a New Alert',
-		'subject' => 'New Alert!'
+		'message' => '您收到了一個事件警示',
+		'subject' => '新的警示'
 	),
 	'member_new_message' => array(
-		'message' => 'You Have Received a Private Message',
-		'subject' => 'New Private Message',
-		'footer' => 'To Reply Please Go To: '
+		'message' => '您收到了一個私信',
+		'subject' => '私信',
+		'footer' => '回復請轉到 '
 	));
 ?>
