@@ -1,122 +1,122 @@
 <?php
 	$lang = array(
-	'comments_form_error' => 'error!',
+	'comments_form_error' => '錯誤!',
 	'country_name' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+		'single_country' => '您報告的事件地點跨越了本網站部署的國家範圍。請確保事件地點是在 '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'國家或地區範圍內.'
 	),
 	'custom_field' => array(
-		'values' => 'Please enter a valid value for one of your custom form items',
+		'values' => '請在自定義表單裡輸入正確的值',
 	),
 	'data_include' => array(
-		'between' => 'Please select a valid item to include in the download',
-		'numeric' => 'Please select a valid item to include in the download',
+		'between' => '請選擇一個有效的項目',
+		'numeric' => '請選擇一個有效的項目',
 	),
 	'data_active' => array(
-		'between' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
-		'numeric' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
-		'required' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'between' => '請選擇"等待核准"或"已核准"這兩種狀態的報告。',
+		'numeric' => '請至少選擇一個"等待核准"或"已核准"這兩種狀態的報告。',
+		'required' => '請選擇一個"等待核准"或"已核准"這兩種狀態的報告。',
 	),
 	'data_verified' => array(
-		'between' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
-		'numeric' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
-		'required' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'between' => '請選擇"等待驗證"或"已驗證”這兩種狀態的報告。',
+		'numeric' => '請至少選擇一個"等待驗證"或"已驗證”這兩種狀態的報告。',
+		'required' => '請選擇一個"等待驗證"或"已驗證”這兩種狀態的報告。',
 	),
 	'data_point' => array(
-		'between' => 'Please select a valid type of report to download',
-		'numeric' => 'Please select a valid type of report to download',
-		'required' => 'Please select a valid type of report to download',
+		'between' => '一個選擇有效的事件報告類型進行下載',
+		'numeric' => '一個選擇有效的事件報告類型進行下載',
+		'required' => '一個選擇有效的事件報告類型進行下載',
 	),
 	'from_date' => array(
-		'date_mmddyyyy' => 'The FROM date field does not appear to contain a valid date?',
-		'range' => 'Please enter a valid FROM date. It cannot be greater than today.',
+		'date_mmddyyyy' => '開始日期無效',
+		'range' => '請選擇有效的開始日期，不能晚於今天',
 	),
 	'incident_active' => array(
-		'between' => 'Please enter a valid value for Approve This Report',
-		'required' => 'Please enter a valid value for Approve This Report',
+		'between' => '請為“核准該事件報告”選擇一個有效的值',
+		'required' => '請為“核准該事件報告”選擇一個有效的值',
 	),
 	'incident_ampm' => array(
-		'validvalues' => 'The am/pm field does not appear to contain a valid value?',
+		'validvalues' => '包含AM/PM的格式不正確?',
 	),
 	'incident_category' => array(
-		'numeric' => 'The category field does not appear to contain a valid category?',
-		'required' => 'The category field is required.',
+		'numeric' => '類別格式不正確',
+		'required' => '類別為必填項',
 	),
 	'incident_date' => array(
-		'date_ddmmyyyy' => 'The date field does not appear to contain a valid date?',
-		'date_mmddyyyy' => 'The date field does not appear to contain a valid date?',
-		'required' => 'The date field is required.',
+		'date_ddmmyyyy' => '日期格式不正確',
+		'date_mmddyyyy' => '日期格式不正確',
+		'required' => '日期為必填項',
 	),
 	'incident_description' => array(
-		'required' => 'The description field is required.',
+		'required' => '描述為必填項',
 	),
 	'incident_hour' => array(
-		'between' => 'The hour field does not appear to contain a valid hour?',
-		'required' => 'The hour field is required.',
+		'between' => '小時格式不正確',
+		'required' => '小時為必填項',
 	),
 	'incident_information' => array(
-		'alpha' => 'Please enter a valid value for Information Probability',
-		'length' => 'Please enter a valid value for Information Probability',
+		'alpha' => '請為“信息準確度”輸入一個有效值',
+		'length' => '請為“信息準確度”輸入一個有效值',
 	),
 	'incident_minute' => array(
-		'between' => 'The minute field does not appear to contain a valid value?',
-		'required' => 'The minute field is required.',
+		'between' => '分鐘格式不正確',
+		'required' => '分鐘為必​​填項',
 	),
 	'incident_news' => array(
-		'url' => 'The news source links field does not appear to contain a valid URL?',
+		'url' => '新聞來源鏈接格式不正確',
 	),
 	'incident_photo' => array(
-		'size' => 'Please ensure that photo uploads sizes are limited to 2MB.',
-		'type' => 'The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
-		'valid' => 'The Upload Photos field does not appear to contain a valid file',
+		'size' => '請確認您上傳的照片大小不大於2MB',
+		'type' => '上傳照片格式無效。僅接受.JPG、.PNG和.GIF格式的圖片',
+		'valid' => '上傳照片文件無效',
 	),
 	'incident_source' => array(
-		'alpha' => 'Please enter a valid value for Source Reliability',
-		'length' => 'Please enter a valid value for Source Reliability',
+		'alpha' => '請為“來源可靠度”輸入一個有效值',
+		'length' => '請為“來源可靠度”輸入一個有效值',
 	),
 	'incident_title' => array(
-		'length' => 'The title field must be at least 3 and no more 200 characters long.',
-		'required' => 'The title field is required.',
-		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?'
+		'length' => '標題的長度須在3到200個字符之間',
+		'required' => '標題欄為必填項',
+		'csrf' => '可能的CSRF(跨站請求偽造)攻擊。你真的要創建/編輯一份報告'
 	),
 	'incident_verified' => array(
-		'between' => 'Please enter a valid value for Verify This Report',
-		'required' => 'Please enter a valid value for Verify This Report',
+		'between' => '請為“驗證此報告”輸入一個有效值',
+		'required' => '請為“驗證此報告”輸入一個有效值',
 	),
 	'incident_video' => array(
-		'url' => 'The video links field does not appear to contain a valid URL?',
+		'url' => '視頻鏈接中包含無效的URL地址',
 	),
 	'latitude' => array(
-		'between' => 'The latitude field does not appear to contain a valid latitude?',
-		'required' => 'The latitude field is required. Please click on the map to pinpoint a location.',
+		'between' => '緯度值格式錯誤',
+		'required' => '緯度值為必填項。您可以點擊地圖確定地點',
 	),
 	'locale' => array(
-		'alpha_dash' => 'The locale field has an incorrect value. ',
-		'exists' => 'This report already has a translation for this language',
-		'length' => 'The locale field has an incorrect value. ',
-		'locale' => 'The Original Report and the Translation have the same locale (language)',
-		'required' => 'The locale is required.',
+		'alpha_dash' => '地點無效',
+		'exists' => '此報告已有該語言的翻譯版本',
+		'length' => '地點格式錯誤 ',
+		'locale' => '原始報告與翻譯報告的語言相同',
+		'required' => '語言為必填項.',
 	),
 	'location_name' => array(
-		'length' => 'The location name field must be at least 3 and no more 200 characters long.',
-		'required' => 'The location name field is required.',
+		'length' => '地點名稱長度必須在3到200個字符之間',
+		'required' => '地點名為必填項',
 	),
 	'longitude' => array(
-		'between' => 'The longitude field does not appear to contain a valid longitude?',
-		'required' => 'The longitude field is required. Please click on the map to pinpoint a location.',
+		'between' => '經度值格式錯誤',
+		'required' => '經度值為必填項。您可以點擊地圖確定地點',
 	),
 	'person_email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'length' => 'The email field must be at least 4 and no more 64 characters long.',
+		'email' => '郵件地址格式不正確',
+		'length' => '郵件地址長度須在4至64個字符之間',
 	),
 	'person_first' => array(
-		'length' => 'The first name field must be at least 3 and no more 100 characters long.',
+		'length' => '名字長度須在3到100個字符之間',
 	),
 	'person_last' => array(
-		'length' => 'The last name field must be at least 3 and no more 100 characters long.',
+		'length' => '姓長度須在3到100個字符之間.',
 	),
 	'to_date' => array(
-		'date_mmddyyyy' => 'The TO date field does not appear to contain a valid date?',
-		'range' => 'Please enter a valid TO date. It cannot be greater than today.',
-		'range_greater' => 'Your FROM date cannot be greater than your TO date.',
+		'date_mmddyyyy' => '結束日期格式錯誤',
+		'range' => '開始日期不得晚於結束日期',
+		'range_greater' => '開始日期不得晚於結束日期',
 	));
 ?>
