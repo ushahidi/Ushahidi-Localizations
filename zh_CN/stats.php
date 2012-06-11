@@ -28,7 +28,7 @@
 	'time_range_all' => '全部',
 	'unapproved' => '未核准',
 	'unique_visitors' => '独立访问者',
-	'unique_visitors_description' => '访问您的页面的人数；独立访问者的身份标识为其浏览器cookie。如果来访者没有使用cookie，将通过IP地址、协议、浏览器、插件、操作系统等方式来验证其身份。',
+	'unique_visitors_description' => '访问您的页面的人数；独立访问者的身份标识为其浏览器 cookie。如果来访者没有使用 cookie，将通过IP地址、协议、浏览器、插件、操作系统等方式来验证其身份。',
 	'unverified' => '未验证',
 	'verified' => '已验证',
 	'visitor_summary' => '访客总数',
