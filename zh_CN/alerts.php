@@ -33,7 +33,7 @@
   ),
 	'alerts_subscribed' => '您已订阅了本站以下类别的事件报道的警示信息。',
 	'code_already_verified' => '验证码已过期。',
-	'code_not_found' => '验证码没找到！请检查您输入的URL是否正确。',
+	'code_not_found' => '验证码没找到！请检查您输入的 URL 是否正确。',
 	'code_verified' => '验证通过，当有事件发生时您会收到警示消息。',
 	'confirm_request' => '要确认您的请求，请点击',
 	'create_more_alerts' => '返回警示页面，创建更多警示',
