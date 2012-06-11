@@ -16,7 +16,7 @@
 		'login error' => '请您输入正确的电子邮箱地址和密码。',
 		'matches' => '两次输入的密码不一致。',
 		'required' => '请输入密码。',
-		'alpha_dash' => '密码只能由字母，数字和符号＃、@、_以及-组成。',
+		'alpha_dash' => '密码只能由字母，数字和符号#、@、_以及-组成。',
 		'incorrect' => '您输入的账户密码是不正确的，请再试一次。',
 	),
 	'new_password' => array(
@@ -24,7 +24,7 @@
 		'login error' => '请您输入正确的电子邮箱地址和密码。',
 		'matches' => '两次输入的密码不一致。',
 		'required' => '请输入密码。',
-		'alpha_dash' => '密码只能由字母，数字和符号＃、@、_以及-组成。',
+		'alpha_dash' => '密码只能由字母，数字和符号#、@、_以及-组成。',
 	),
 	'password' => array(
 		'default' => '登录时发生了一个错误。',
@@ -33,7 +33,7 @@
 		'matches' => '两次输入的密码不一致。',
 		'required' => '请输入密码。',
 		'riverid server down' => '访问认证服务器失败，请稍后再试。',
-		'alpha_dash' => '密码只能由字母，数字和符号＃、@、_以及-组成。',
+		'alpha_dash' => '密码只能由字母，数字和符号#、@、_以及-组成。',
 	),
 	'password_confirm' => array(
 		'matches' => '两次输入的密码不一致。',
@@ -50,16 +50,16 @@
 		'alpha_numeric' => '无效的角色。',
 		'length' => '角色不得少于5个字符，不得多于30个字符',
 		'required' => '至少要定义一个角色',
-		'values' => '必须选择ADMIN或USER中的一个角色.',
+		'values' => '必须选择 ADMIN 或 USER 中的一个角色.',
 	),
 	'username' => array(
 		'admin' => '管理员角色不能被修改。',
-		'alpha_numeric' => '公开资料页面的URL地址只能包含数字和字母。',
-		'exists' => '对不起，这个资料页面的URL地址已被使用。',
-		'length' => '公开资料的相对URL地址长度须在2至16个字符之间。',
-		'login error' => '请检查您输入的公开资料页面的URL地址。',
-		'required' => '公开资料的相对URL地址是必填项。',
+		'alpha_numeric' => '公开资料页面的 URL 地址只能包含数字和字母。',
+		'exists' => '对不起，这个资料页面的 URL 地址已被使用。',
+		'length' => '公开资料的相对 URL 地址长度须在2至16个字符之间。',
+		'login error' => '请检查您输入的公开资料页面的 URL 地址。',
+		'required' => '公开资料的相对 URL 地址是必填项。',
 		'superadmin' => '超级管理员角色不能被修改。',
-		'csrf' => '可能的CSRF(跨站请求伪造)攻击。你真的要创建/编辑用户？'
+		'csrf' => '可能的 CSRF(跨站请求伪造)攻击。你真的要创建/编辑用户？'
 	));
 ?>
