@@ -4,7 +4,7 @@
 cd `dirname $0`/..
 
 echo "Pulling in latest changes from github..."
-git pull rjmackay
+git pull
 
 # generate the pot files for en_US so transifex can pick it up
 echo "Generating po files for en_US..."
@@ -17,7 +17,7 @@ echo "Commiting changes..."
 git commit -m 'Generate daily po for en_US'
 
 echo "Pushing changes to github repo..."
-git push rjmackay
+git push 
 
 # Push changes to transifex
 # Don't need to specify language here, transifex knows the source language is english
