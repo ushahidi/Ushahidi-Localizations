@@ -17,7 +17,7 @@ echo "Commiting changes..."
 git commit -m 'Generate daily po for en_US'
 
 echo "Pushing changes to github repo..."
-git push 
+git push
 
 # Push changes to transifex
 # Don't need to specify language here, transifex knows the source language is english

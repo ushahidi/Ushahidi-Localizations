@@ -4,7 +4,7 @@
 cd `dirname $0`/..
 
 echo "Pulling in latest changes from github..."
-git pull rjmackay
+git pull
 
 echo "Pulling changes from transifex"
 # might need --force and --skip
@@ -21,6 +21,6 @@ echo "Commiting changes..."
 git commit -am 'Daily update from transifex'
 
 echo "Pushing changes to github repo..."
-git push rjmackay
+git push
 
 echo "Done!"
