@@ -2,10 +2,10 @@
 # Run full sync
 
 # Pull from tx
-source tools/tx-po2php-sync.sh
+source tx-po2php-sync.sh
 
 # Push english source to tx
-source tools/source-php2po-sync.sh
+source source-php2po-sync.sh
 
 echo "All done!"
 
