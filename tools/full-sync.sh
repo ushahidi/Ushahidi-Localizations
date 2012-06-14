@@ -5,7 +5,7 @@
 source tx-po2php-sync.sh
 
 # Push english source to tx
-source source-php2po-sync.sh
+source tools/source-php2po-sync.sh
 
 echo "All done!"
 
