@@ -18,7 +18,7 @@ tools/run-all-po2php.sh
 git add .
 
 echo "Commiting changes..."
-git commit -am 'Daily update from transfex'
+git commit -am 'Daily update from transifex'
 
 echo "Pushing changes to github repo..."
 git push rjmackay
