@@ -1,23 +1,35 @@
-<?php
-	$lang = array(
-	'captcha' => array(
-		'default' => 'Please enter a valid security code',
-		'required' => 'Please enter the security code',
+﻿<?php
+
+$lang = array
+(
+	'subject' => array
+	(
+		'required'		=> 'Մուտքագրեք «Թեմա» դաշտը:',
+		'length'        => '«Թեմա» դաշտը չի կարող պարունակել 3-ից պակաս նիշ:'
 	),
-	'email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address?',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+	
+	'yourname' => array
+	(
+		'required'		=> 'Մուտքագրեք «Անուն» դաշտը:',
+		'length'        => '«Անուն» դաշտը չի կարող պարունակել 3-ից պակաս նիշ:'
 	),
-	'error' => array(
-		'required' => 'The error field is required.',
+	
+	'error' => array
+	(
+		'required'		=> 'Մուտքագրեք սխալի նկարագրությունը:'
 	),
-	'subject' => array(
-		'length' => 'The subject field must be at least 3 characters long.',
-		'required' => 'The subject field is required.',
+	
+	'email' => array
+	(
+		'required'    => 'Մուտքագրեք էլ-փոստի հասցեն, կամ հանեք վանդակից համապատասխան նշումը:',
+		'email'		  => 'Էլ-փոստի դաշտում նշված հասցեն ճիշտ չէ:',
+		'length'	  => 'Էլ-փոստի դաշտում կարող եք մուտքագրել առնվազն 4 և առավելագույնը` 64 նիշ:'
 	),
-	'yourname' => array(
-		'length' => 'The name field must be at least 3 characters long.',
-		'required' => 'The name field is required.',
-	));
-?>
+	
+	'captcha' => array
+	(
+		'required' => 'Մուտքագրեք պաշտպանության կոդը:', 
+		'default' => 'Մուտքագրեք ճիշտ պաշտպանության կոդ:'
+	)
+	
+);

@@ -1,44 +1,60 @@
-<?php
-	$lang = array(
-	'email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'exists' => 'Sorry, a user account already exists for this email address.',
-		'length' => 'The email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The email field is required.',
+﻿<?php
+
+$lang = array
+(
+	'name' => array
+	(
+		'required'		=> 'Մուտքագրեք անունը:',
+		'length'		=> 'Անունը պետք է պարունակի առնվազն 3 և ոչ ավելի, քան 100 նիշ:',
+		'standard_text' => 'Օգտագործողի անվան դաշտը պարունակում է անթույլատրելի նիշեր:',
+		'login error'	=> 'Մուտքագրեք ճիշտ օգտագործողի անուն:'
 	),
-	'name' => array(
-		'length' => 'The full name field must be at least 3 and no more 100 characters long.',
-		'required' => 'The full name field is required.',
-		'standard_text' => 'The username field contains disallowed characters.',
+	
+	'email' => array
+	(
+		'required'	  => 'Մուտքագրեք էլ-փոստի հասցեն:',
+		'email'		  => 'Մուտքագրված էլ-փոստի հասցեն ճիշտ չէ:',
+		'length'	  => 'Էլ-փոստի հասցեն պետք է պարունակի առնվազն 4 և ոչ ավելի, քան 64 նիշ:',
+		'exists'	  => 'Ներողություն, բայց նշված էլ-փոստի հասցեով օգտագործող արդեն գոյություն ունի:',
+		'login error' => 'Մուտքագրեք ճիշտ էլ-փոստի հասցե:'
 	),
-	'password' => array(
-		'alpha_numeric' => 'The password must only contain numbers and letters.',
-		'length' => 'The password field must be at least 5 and no more 16 characters long.',
-		'login error' => 'Please check that you entered the correct password.',
-		'matches' => 'Please enter the same password in the two password fields.',
-		'required' => 'The password field is required.',
+
+	'username' => array
+	(
+		'required'		=> 'Մուտքագրեք օգտագործողի անունը:',
+		'length'		=> 'Օգտագործողի անունը պետք է պարունակի առնվազն 2 և ոչ ավելի, քան 16 նիշ:',
+		'alpha' => 'Օգտագործողի անունը դաշտը պարունակում է անթույլատրելի նիշեր:',
+		'admin' 		=> 'Ադմինիստրատորի դերակատարմամբ օգտագործողի գործառույթները չեն կարող փոփոխվել:',
+		'superadmin'	=> 'Գերակա դերակատարմամբ ադմինիստրատորի գործառույթները չեն կարող փոփոխվել:',
+		'exists'		=> 'Ներողություն, բայց տվյալ օգտագործողի անունն արդեն օգտագործվում է',
+		'login error'	=> 'Մուտքագրեք ճիշտ օգտագործողի անուն:'
 	),
-	'password_confirm' => array(
-		'matches' => 'The password confirmation field must match the password field.',
+
+	'password' => array
+	(
+		'required'		=> 'Մուտքագրեք գաղտնաբառը',
+		'length'		=> 'Օգտագործողի անունը պետք է պարունակի առնվազն ջ և ոչ ավելի, քան 16 նիշ:',
+		'alpha_numeric'		=> 'Գաղտնաբառը պարունակում է անթույլատրելի նիշեր:',
+		'login error'	=> 'Գաղտնաբառը սխալ է մուտքագրված:',
+		'matches'		=> 'Երկու դաշտերում էլ մուտքագրեք միևնույն գաղտնաբառը:'
 	),
-	'resetemail' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'invalid' => 'Sorry, we don\'t have your email address',
-		'required' => 'The email field is required.',
+
+	'password_confirm' => array
+	(
+		'matches' => 'Գաղտնաբառը վերստուգող դաշտում մուտքագրվածը պետք է համապատասխանի գաղտնաբառի դաշտում մուտքագրվածին:'
 	),
-	'roles' => array(
-		'alpha_numeric' => 'Invalid role format.',
-		'length' => 'The role field must be at least 5 and no more than 30 characters long.',
-		'required' => 'You must define at least one role.',
-		'values' => 'You must select either ADMIN or USER role.',
+
+	'roles' => array
+	(
+		'required' => 'Դուք պետք է սահմանեք առնվազն մեկ դերակատարում',
+		'values' => 'Դուք պետք է ընտրեք ԱԴՄԻՆ կան ՕԳՏԱԳՈՐԾՈՂ դերակատարումներից մեկը:'
 	),
-	'username' => array(
-		'admin' => 'The admin user role cannot be modified.',
-		'alpha' => 'The username field must only contain letters.',
-		'exists' => 'Sorry, this username is already in use.',
-		'length' => 'The username field must be at least 2 and no more 16 characters long.',
-		'login error' => 'Please check that you entered the correct username.',
-		'required' => 'The username field is required.',
-		'superadmin' => 'The super admin role cannot be modified.',
-	));
-?>
+	
+	'resetemail' => array
+        (
+    	        'required' => 'Մուտքագրեք էլ-փոստի հասցեն:.',
+       	        'invalid' => 'Ներողություն, բայց ձեր էլ-փոստի հասցեն մեզ մոտ գրացնված չէ:',
+                'email'  => 'Մուտքագրեք ճիշտ էլ-փոստի հասցե:',
+        ),
+
+);

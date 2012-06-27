@@ -1,24 +1,40 @@
-<?php
-	$lang = array(
-	'feedback_actions' => 'Actions',
-	'feedback_captcha' => array(
-		'required' => 'Please enter the Security Code.',
-		'valid' => 'Please enter a valid security code',
+﻿<?php
+$lang = array
+(
+	'feedback_details' => 'Արձագանքի մանրամասները',
+	'feedback_date' => 'Ամսաթիվ',
+	'feedback_actions' => 'Գործողություններ',
+			
+	'feedback_title' => array
+	(
+		'required'		=> 'Մուտքագրեք վերնագիրը:',
+		'length'		=> 'Վերնագիրը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:'
 	),
-	'feedback_date' => 'Date',
-	'feedback_details' => 'Feedback Details',
-	'feedback_message' => array(
-		'required' => 'Please enter some information for the reply.',
+	
+	'feedback_message' => array
+	(
+		'required' => 'Մուտքագրեք հաղորդագրությունը:',
 	),
-	'feedback_title' => array(
-		'length' => 'The title field must be at least 3 and no more 100 characters long.',
-		'required' => 'A title is required.',
+	
+	'person_name' => array
+	(
+		'required' => 'Մուտքագրեք Ձեր անուն, ազգանունը:',
+		
 	),
-	'person_email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'required' => 'Please enter your email address',
+	
+	'person_email' => array
+	(
+		'required' => 'Մուտքագրեք Ձեր էլ. փոստի հասցեն:',
+		'email'	=> 'Էլ-փոստի դաշտում նշված հասցեն ճիշտ չէ:',
 	),
-	'person_name' => array(
-		'required' => 'Please enter your full name.',
-	));
+	
+	
+	'feedback_captcha' => array
+	(
+		'required' => 'Մուտքագրեք պաշտպանության կոդը:',
+		'valid' => 'Մուտքագրեք ճիշտ պաշտպանության կոդ:'
+	)
+	
+);
 ?>
+

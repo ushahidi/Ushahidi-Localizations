@@ -1,41 +1,62 @@
-<?php
-	$lang = array(
-	'field_default' => array(
-		'default' => 'The default value you have provided for the field is invalid.',
-		'length' => 'The Field Name must be at least 3 and no more than 200 characters long.'
-	),
-	'field_height' => array(
-		'between' => 'Please enter a value 0 to 50 for the Field Height',
-	),
-	'field_isdate' => array(
-		'between' => 'You have entered an invalid value for Date Field',
-		'required' => 'Please select Yes or No for the Date Field',
-	),
-	'field_name' => array(
-		'length' => 'The Field Name must be at least 3 and no more than 100 characters long.',
-		'required' => 'Please enter Field Name.',
-	),
-	'field_required' => array(
-		'between' => 'You have entered an invalid value for Field Required',
-		'required' => 'Please select Yes or No for Field Required',
-	),
-	'field_type' => array(
-		'numeric' => 'Please select a valid Field Type.',
-		'required' => 'Please select a Field Type.',
-	),
-	'field_width' => array(
-		'between' => 'Please enter a value 0 to 300 for the Field Width',
-	),
-	'form_description' => array(
-		'required' => 'Please enter form\'s Description.',
-	),
-	'form_id' => array(
-		'default' => 'The default form cannot be deleted.',
-		'numeric' => 'Please select which form to add this field to.',
-		'required' => 'Please select which form to add this field to.',
-	),
-	'form_title' => array(
-		'length' => 'The form name field must be at least 3 and no more than 100 characters long.',
-		'required' => 'Please enter the name of the form.',
-	));
+﻿<?php
+	$lang = array
+	(
+		'form_title' => array
+		(
+			'required' => 'Մուտքագրեք ֆորմայի անվանումը:',
+			'length'   => 'Ֆորմայի անվանումը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:'
+		),
+		
+		'form_description' => array
+		(
+			'required' => 'Մուտքագրեք ֆորմայի Նկարագրությունը:'
+		),
+		
+		'form_id' => array
+		(
+			'default' => 'Լռությամբ ֆորման չի կարող ջնջվել:',
+			'required' => 'Ընտրեք ֆորման, որին պետք է ավելացնել տվյալ դաշտը:',
+			'numeric' => 'Ընտրեք ֆորման, որին պետք է ավելացնել տվյալ դաշտը:'
+		),
+		
+		'field_type' => array
+		(
+			'required' => 'Ընտրեք Դաշտի Տիպը:',
+			'numeric' => 'Ընտրեք ճիշտ Դաշտի Տիպ:'
+		),
+		
+		'field_name' => array
+		(
+			'required' => 'Մուտքագրեք Դաշտի Անվանումը:',
+			'length'   => 'Դաշտի Անվանումը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:'
+		),
+		
+		'field_default' => array
+		(
+			'length'   => 'Դաշտի Անվանումը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:'
+		),
+		
+		'field_required' => array
+		(
+			'required' => 'Ընտրեք Այո կամ Ոչ:',
+			'between'   => 'Ընտրված է ոչ ճիշտ արժեք:'
+		),
+		
+		'field_width' => array
+		(
+			'between' => 'Դաշտի Լայնքի համար մուտքագրեք 0-ից 300-ը արժեք:'
+		),
+		
+		'field_height' => array
+		(
+			'between' => 'Դաշտի Բարձրության համար մուտքագրեք 0-ից 50-ը արժեք:'
+		),
+		
+		'field_isdate' => array
+		(
+			'required' => 'Ընտրեք Այո կամ Ոչ:',
+			'between'   => 'Ընտրված է ոչ ճիշտ արժեք:'
+		)
+	);
+
 ?>

@@ -1,16 +1,19 @@
-<?php
-	$lang = array(
-	'date' => 'DATE',
-	'feed_name' => array(
-		'length' => 'The feed name field must be at least 3 and no more 
-			70 characters long.',
-		'required' => 'Please enter the name of the feed.',
+﻿<?php
+$lang = array
+(
+	'feed_name' => array
+	(
+		'required' => 'Մուտքագրեք լրահոսի անվանումը',
+		'length'   => 'Լրահոսի անվանումը պետք է պարունակի առնվազն 3 և առավելագույնը` 70 նիշ:'
 	),
-	'feed_url' => array(
-		'required' => 'Please enter feed\'s URL.',
-		'url' => 'Please enter a valid URL. Eg. http://www.ushahidi.com',
+	
+	'feed_url' => array
+	(
+		'required' => 'Մուտքագրեք լրահոսի URL-ն:',
+		'url' => 'URL-ն ճիշտ մուտքագրեք, օր. http://www.ushahidi.com'
 	),
-	'source' => 'SOURCE',
-	'title' => 'Title',
-	);
+	'source' => 'Աղբյուր',
+	'title' => 'Վերնագիր',
+	'date' => 'Ամսաթիվ',
+);
 ?>

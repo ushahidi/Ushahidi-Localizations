@@ -1,30 +1,47 @@
-<?php
-	$lang = array(
-	'admin_footer' => 'This message was sent from your website',
-	'admin_login_url' => 'Administrator Login',
-	'admin_new_comment' => array(
-		'message' => 'A new comment has been submitted to your website in response to:',
-		'subject' => 'New Comment',
+﻿<?php
+
+$lang = array
+(
+	/*** User Email Notifications ***/
+	// Alerts
+	
+	
+	
+	
+	
+	/*** Administrator Email Notifications ***/
+	
+	// Message Footer
+	'admin_footer'			=> 'Այս հաղորդագրությունը ուղարկվել է Ձեր կայքից:',
+	
+	// Administrator Login
+	'admin_login_url'		=> 'Ադմինիստրատորի Մուտք',
+	
+	// Notify Administrators that a new report has been submitted
+	'admin_new_report' => array
+	(
+		'subject'		=> 'Նոր Ահազանգ',
+		'message'		=> 'Ձեր կայքում նոր ահազանգ է ստացվել:'
 	),
-	'admin_new_email' => array(
-		'message' => 'A new email message has been submitted to your website.',
-		'subject' => 'New Email Message',
+	
+	// Notify Administrators that a new comment has been submitted
+	'admin_new_comment' => array
+	(
+		'subject'		=> 'Նոր Մեկնաբանություն',
+		'message'		=> 'Ձեր կայքում նոր մեկնաբանություն է կատարվել ի պատասխան`'
 	),
-	'admin_new_report' => array(
-		'message' => 'A new report has been submitted to your website.',
-		'subject' => 'New Report',
+	
+	// Notify Administrators that a new sms has been received
+	'admin_new_sms' => array
+	(
+		'subject'		=> 'Նոր Կարճ Հաղորդագրություն',
+		'message'		=> 'Ձեր կայքին նոր կարճ հաղորդագրություն է ուղարկվել:'
 	),
-	'admin_new_sms' => array(
-		'message' => 'A new text message has been submitted to your website.',
-		'subject' => 'New Text Message',
-	),
-	'member_new_alert' => array(
-		'message' => 'You Have Received a New Alert',
-		'subject' => 'New Alert!'
-	),
-	'member_new_message' => array(
-		'message' => 'You Have Received a Private Message',
-		'subject' => 'New Private Message',
-		'footer' => 'To Reply Please Go To: '
-	));
-?>
+	
+	// Notify Administrators that a new email has been received
+	'admin_new_email' => array
+	(
+		'subject'		=> 'Նոր նամակ',
+		'message'		=> 'Ձեր կայքին նոր էլեկտրոնային նամակ է ուղարկվել:'
+	)
+);

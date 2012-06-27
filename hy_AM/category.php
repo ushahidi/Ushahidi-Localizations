@@ -1,25 +1,36 @@
-<?php
-	$lang = array(
-	'category_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
+﻿<?php
+
+$lang = array
+(
+	'parent_id' => array
+	(
+		'required'		=> 'Մուտքագրեք ծնող կատեգորիայի դաշտը:',
+		'numeric'		=> 'Ծնող կատեգորիայի դաշտը պետք է պարունակի միայն թվեր:',
+		'exists'		=> 'Ծնող կատեգորիան գոյություն չունի:',
+		'same'			=> 'Կատեգորիան և նրա ծնող կատեգորիան չեն կարող լինել միևնույնը:',
 	),
-	'category_description' => array(
-		'required' => 'The description field is required.',
+	
+	'category_title' => array
+	(
+		'required'		=> 'Մուտքագրեք վերնագիրը:',
+		'length'		=> 'Վերնագիրը պետք է պարունակի առնվազն 3 և ոչ ավելի, քան 80 նիշ:',
 	),
-	'category_image' => array(
-		'size' => 'Please ensure that image uploads sizes are limited to 50KB.',
-		'type' => 'The image field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
-		'valid' => 'The image field does not appear to contain a valid file',
+	
+	'category_description' => array
+	(
+		'required'		=> 'Մուտքագրեք նկարագրությունը'
+	),	
+	
+	'category_color' => array
+	(
+		'required'		=> 'Նշեք կատեգորիայի գույնը:',
+		'length'		=> 'Գույնը պետք է պարունակի 6 նիշ:',
 	),
-	'category_title' => array(
-		'length' => 'The title field must be at least 3 and no more 80 characters long.',
-		'required' => 'The title field is required.',
-	),
-	'parent_id' => array(
-		'exists' => 'The parent category does not exist.',
-		'numeric' => 'The parent category field must be numeric.',
-		'required' => 'The parent category field is required.',
-		'same' => 'The category and the parent category cannot be the same.',
-	));
-?>
+	
+	'category_image' => array
+	(
+		'valid'		=> 'Նկարի դաշտը ճիշտ ֆայլ չի պարունակում: ',
+		'type'		=> 'Նկարի դաշտը ճիշտ նկար չի պարունակում. ընդունելի են միայն հետևյալ ձևաչափերը` .JPG, .PNG և .GIF.',
+		'size'		=> 'Վերբեռնվող նկարի չափը չի կարող գերազանցել 50KB-ը:'
+	),	
+);

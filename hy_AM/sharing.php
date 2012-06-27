@@ -1,20 +1,48 @@
-<?php
-	$lang = array(
-	'date' => 'Ingress date',
-	'date_added' => 'Date Added',
-	'last_access' => 'Last Access',
-	'sharing_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
+﻿<?php
+
+/**
+ * SHARING INTERFACE INTERNATIONALIZATION
+ *
+ * en_US
+ */
+
+$lang = array
+(
+    'contact' => 'Կապ',	
+    'date' => 'Մուտքի ամսաթիվ',
+    'date_added' => 'Ավելացման ամսաթիվ',
+    'last_access' => 'Վերջին այցելությունը',
+    'sent_info' => 'Հետևյալ տեղեկատվությունը կուղարկվի հայտի հետ',
+    'sharing_key' => 'Բանալի',
+    'sharing_url' => array
+	(
+		'required'	=> 'Մուտքագրեք կայքի հասցեն:',
+		'url'		=> 'Մուտքագրված կայքի հասցեն վավեր չէ:',
+		'valid'	=> 'Նշված կայքը չի բավարարում Ushahidi համակարգի պահանջներին կամ կիսվելը թույլատրված չէ:',
+		'exists'	=> 'Նշված կայքի հասցեն արդեն գոյություն ունի:',
+		'edit'	=> 'Դուք չեք կարող խմբագրել հեռավոր կայքի հասցեն: Այս կիսումը կարող եք ջնջել և նորը ստեղծել:'
 	),
-	'sharing_name' => array(
-		'length' => 'The Sharing name does not appear to be valid?',
-		'required' => 'A Sharing name is required.',
+	
+	'sharing_email' => array
+	(
+		'email'		  => 'Էլ-փոստի դաշտում նշված հասցեն ճիշտ չէ:',
+		'required'	=> 'Անհրաժեշտ է Ձեր կայքի էլ. փոստի հասցեն: Այն կարող եք ավելացնել կարգավորումների բաժնում:',
+	),	
+	
+	'sharing_color' => array
+	(
+		'required'		=> 'Մուտքագրեք գույնը:',
+		'length'		=> 'Գույնի դաշտը պետք է պարունակի 6 նիշ:',
 	),
-	'sharing_url' => array(
-		'exists' => 'The site url already exists',
-		'length' => 'The site url does not appear to be valid?',
-		'required' => 'The site url is required.',
-		'url' => 'The site url field does not appear to contain a valid URL?',
-	));
-?>
+	
+	'sharing_limits' => array
+	(
+		'required'		=> 'Մուտքագրեք Հասանելիության սահմանափակումները:',
+		'between'		=> 'Հասանելիության սահմանափակումների արժեքը վավեր չէ:',
+	),
+
+	'sharing_type' => array
+	(
+		'between'		=> 'Կիսման եղանակը վավեր չէ:',
+	)	
+);

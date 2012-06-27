@@ -1,108 +1,157 @@
-<?php
-	$lang = array(
-	'comments_form_error' => 'error!',
-	'custom_field' => array(
-		'values' => 'Please enter a valid value for one of your custom form items',
+﻿<?php
+
+$lang = array
+(
+	'locale' => array
+	(
+		'required'		=> 'Նշեք լեզուն:',
+		'length'		=> 'Լեզուն ճիշտ չէ մուտքագրված: ',
+		'alpha_dash'	=> 'Լեզուն ճիշտ չէ մուտքագրված: ',
+		'locale'		=> 'Ահազանգը և նրա թարգմանությունը միևնույն լեզվով են:',
+		'exists'		=> 'Ահազանգն արդեն ունի այս լեզվով թարգմանություն:'
 	),
-	'data_include' => array(
-		'between' => 'Please select a valid item to include in the download',
-		'numeric' => 'Please select a valid item to include in the download',
+	
+	'incident_title' => array
+	(
+		'required'		=> 'Մուտքագրեք Վերնագիրը:',
+		'length'		=> 'Վերնագիրը պետք է պարունակի առնվազն 3 և առավելագույնը` 200 նիշ:'
 	),
-	'data_point' => array(
-		'between' => 'Please select a valid type of report to download',
-		'numeric' => 'Please select a valid type of report to download',
-		'required' => 'Please select a valid type of report to download',
+	
+	'incident_description' => array
+	(
+		'required'		=> 'Մուտքագրեք Նկարագրությունը:'
+	),	
+	
+	'incident_date' => array
+	(
+		'required'		=> 'Մուտքագրեք Ամսաթիվը:',
+		'date_mmddyyyy' => 'Ամսաթվը սխալ ձևաչափով է մուտքագրված:',
+		'date_ddmmyyyy' => 'Ամսաթվը սխալ ձևաչափով է մուտքագրված:'
 	),
-	'from_date' => array(
-		'date_mmddyyyy' => 'The FROM date field does not appear to contain a valid date?',
-		'range' => 'Please enter a valid FROM date. It cannot be greater than today.',
+	
+	'incident_hour' => array
+	(
+		'required'		=> 'Մուտքագրեք Ժամը:',
+		'between' => 'Ժամը սխալ ձևաչափով է մուտքագրված:'
 	),
-	'incident_active' => array(
-		'between' => 'Please enter a valid value for Approve This Report',
-		'required' => 'Please enter a valid value for Approve This Report',
+	
+	'incident_minute' => array
+	(
+		'required'		=> 'Մուտքագրեք րոպեները:',
+		'between' => 'Րոպեները սխալ ձևաչափով են մուտքագրված:'
 	),
-	'incident_ampm' => array(
-		'validvalues' => 'The am/pm field does not appear to contain a valid value?',
+	
+	'incident_ampm' => array
+	(
+		'validvalues' => 'AM/PM դաշտը սխալ է մուտքագրված:'
 	),
-	'incident_category' => array(
-		'numeric' => 'The category field does not appear to contain a valid category?',
-		'required' => 'The category field is required.',
+	
+	'latitude' => array
+	(
+		'required'		=> 'Լայնությունը մուտքագրված չէ: Քարտեզի վրա նշեք տեղանքը:',
+		'between' => 'Լայնությունը ճիշտ չէ մուտքագրված:'
 	),
-	'incident_date' => array(
-		'date_ddmmyyyy' => 'The date field does not appear to contain a valid date?',
-		'date_mmddyyyy' => 'The date field does not appear to contain a valid date?',
-		'required' => 'The date field is required.',
+	
+	'longitude' => array
+	(
+		'required'		=> 'Երկայնությունը մուտքագրված չէ: Քարտեզի վրա նշեք տեղանքը:',
+		'between' => 'Երկայնությունը ճիշտ չէ մուտքագրված:'
 	),
-	'incident_description' => array(
-		'required' => 'The description field is required.',
+	
+	'location_name' => array
+	(
+		'required'		=> 'Մուտքագրեք տեղանքի անվանումը:',
+		'length'		=> 'Տեղանքի անվանումը պետք է պարունակի առնվազն 3 և առավելագույնը` 200 նիշ:',
 	),
-	'incident_hour' => array(
-		'between' => 'The hour field does not appear to contain a valid hour?',
-		'required' => 'The hour field is required.',
+			
+	'incident_category' => array
+	(
+		'required'		=> 'Նշեք Կատեգորիան:',
+		'numeric'		=> 'Կատեգորիան ճիշտ չէ մուտքագրված:'
 	),
-	'incident_information' => array(
-		'alpha' => 'Please enter a valid value for Information Probability',
-		'length' => 'Please enter a valid value for Information Probability',
+	
+	'incident_news' => array
+	(
+		'url'		=> 'Հղումը նորության վրա ճիշտ չէ մուտքագրված: Մուտքագրեք վավեր URL:'
 	),
-	'incident_minute' => array(
-		'between' => 'The minute field does not appear to contain a valid value?',
-		'required' => 'The minute field is required.',
+	
+	'incident_video' => array
+	(
+		'url'		=> 'Հղումը տեսահոլովակի վրա ճիշտ չէ մուտքագրված: Մուտքագրեք վավեր URL:'
 	),
-	'incident_news' => array(
-		'url' => 'The news source links field does not appear to contain a valid URL?',
+	
+	'incident_photo' => array
+	(
+		'valid'		=> 'Վերբեռնման համար նշված նկարները վնասված են կամ չունեն ճիշտ ձևաչափ:',
+		'type'		=> 'Վերբեռնման համար նշված նկարները վնասված են կամ չունեն ճիշտ ձևաչափ: Ընդունելի ձևաչափերն են` .JPG, .PNG և .GIF:',
+		'size'		=> 'Վերբեռնվող նկարի չափը չպետք է գերազանցի 2 Մեգաբայթը:'
 	),
-	'incident_photo' => array(
-		'size' => 'Please ensure that photo uploads sizes are limited to 2MB.',
-		'type' => 'The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
-		'valid' => 'The Upload Photos field does not appear to contain a valid file',
+	
+	'person_first' => array
+	(
+		'length'		=> 'Անունը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:'
 	),
-	'incident_source' => array(
-		'alpha' => 'Please enter a valid value for Source Reliability',
-		'length' => 'Please enter a valid value for Source Reliability',
+	
+	'person_last' => array
+	(
+		'length'		=> 'Ազգանունը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:'
 	),
-	'incident_title' => array(
-		'length' => 'The title field must be at least 3 and no more 200 characters long.',
-		'required' => 'The title field is required.',
+	
+	'person_email' => array
+	(
+		'email'		  => 'Էլ-փոստի դաշտում նշված հասցեն ճիշտ չէ:',
+		'length'	  => 'Էլ-փոստի դաշտում կարող եք մուտքագրել առնվազն 4 և առավելագույնը` 64 նիշ:'
 	),
-	'incident_verified' => array(
-		'between' => 'Please enter a valid value for Verify This Report',
-		'required' => 'Please enter a valid value for Verify This Report',
+	
+	// Admin - Report Download Validation
+	'data_point' => array
+	(
+		'required'		  => 'Բեռնման համար ընտրեք վավեր տվյալներ:',
+		'numeric'		  => 'Բեռնման համար ընտրեք վավեր տվյալներ:',
+		'between'		  => 'Բեռնման համար ընտրեք վավեր տվյալներ:'
 	),
-	'incident_video' => array(
-		'url' => 'The video links field does not appear to contain a valid URL?',
+	'data_include' => array
+	(
+		'numeric'		  => 'Բեռնման համար ընտրեք վավեր տվյալներ:',
+		'between'		  => 'Բեռնման համար ընտրեք վավեր տվյալներ:'
 	),
-	'latitude' => array(
-		'between' => 'The latitude field does not appear to contain a valid latitude?',
-		'required' => 'The latitude field is required. Please click on the map to pinpoint a location.',
+	'from_date' => array
+	(
+		'date_mmddyyyy'		  => 'Նշեք վավեր ամսաթիվ "Սկսած" դաշտի համար:',
+		'range'	  => 'Նշեք վավեր ամսաթիվ "Սկսած" դաշտի համար: Այն չի կարող նորկայացնել ավելի ուշ ամսաթիվ, քան այսօր է:'
 	),
-	'locale' => array(
-		'alpha_dash' => 'The locale field has an incorrect value. ',
-		'exists' => 'This report already has a translation for this language',
-		'length' => 'The locale field has an incorrect value. ',
-		'locale' => 'The Original Report and the Translation have the same locale (language)',
-		'required' => 'The locale is required.',
+	'to_date' => array
+	(
+		'date_mmddyyyy'		  => 'Նշեք վավեր ամսաթիվ "Մինչ" դաշտի համար:',
+		'range'	  => 'Նշեք վավեր ամսաթիվ "Մինչ" դաշտի համար: Այն չի կարող նորկայացնել ավելի ուշ ամսաթիվ, քան այսօր է:',
+		'range_greater'	=> '"Սկսած" դաշտում նշված ամսաթիվը չի կարող մեծ լինել "Մինչ" դաշտում նշված ամսաթվից:'
 	),
-	'location_name' => array(
-		'length' => 'The location name field must be at least 3 and no more 200 characters long.',
-		'required' => 'The location name field is required.',
+	'custom_field' => array
+	(
+		'values'		  => 'Մուտքագրեք վավեր արժեք ֆորմայի դաշտում:'
 	),
-	'longitude' => array(
-		'between' => 'The longitude field does not appear to contain a valid longitude?',
-		'required' => 'The longitude field is required. Please click on the map to pinpoint a location.',
+	
+	'incident_active' => array
+	(
+		'required'		=> 'Նշեք վավեր արժեք "Հաստատել այս Ահազանգը?"-ի համար:',
+		'between'		=> 'Նշեք վավեր արժեք "Հաստատել այս Ահազանգը?"-ի համար:'
 	),
-	'person_email' => array(
-		'email' => 'The email field does not appear to contain a valid email address?',
-		'length' => 'The email field must be at least 4 and no more 64 characters long.',
+	
+	'incident_verified' => array
+	(
+		'required'		=> 'Նշեք վավեր արժեք "Հավաստել այս Ահազանգը?"-ի համար:',
+		'between'		=> 'Նշեք վավեր արժեք "Հավաստել այս Ահազանգը?"-ի համար:'
 	),
-	'person_first' => array(
-		'length' => 'The first name field must be at least 3 and no more 100 characters long.',
+	
+	'incident_source' => array
+	(
+		'alpha'		=> 'Նշեք վավեր արժեք "Աղբյուրի Հավաստիությունը" դաշտի համար:',
+		'length'		=> 'Նշեք վավեր արժեք "Աղբյուրի Հավաստիությունը" դաշտի համար:'
 	),
-	'person_last' => array(
-		'length' => 'The last name field must be at least 2 and no more 100 characters long.',
-	),
-	'to_date' => array(
-		'date_mmddyyyy' => 'The TO date field does not appear to contain a valid date?',
-		'range' => 'Please enter a valid TO date. It cannot be greater than today.',
-		'range_greater' => 'Your FROM date cannot be greater than your TO date.',
-	));
-?>
+	
+	'incident_information' => array
+	(
+		'alpha'		=> 'Նշեք վավեր արժեք "Տեղեկատվության Հավանականությունը" դաշտի համար:',
+		'length'		=> 'Նշեք վավեր արժեք "Տեղեկատվության Հավանականությունը" դաշտի համար:'
+	)
+);
