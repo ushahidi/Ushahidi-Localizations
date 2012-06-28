@@ -1,6 +1,8 @@
 #!/bin/bash
 # Run full sync
 
+cd `dirname $0`/..
+
 # Pull from tx
 source tools/tx-po2php-sync.sh
 
