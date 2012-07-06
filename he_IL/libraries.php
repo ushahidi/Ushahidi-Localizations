@@ -18,5 +18,6 @@
 	'upgrade_file_not_deleted' => 'לא הצלחתי למחוק את הקובץ <code>%s</coded>',
 	'upgrade_title' => 'סקריפט עידכון לאושהידי',
 	'upgrade_zip_error' => 'קובץ הזיפ של אושהידי, <code>%s</code>, חסום לכתיבה',
+	'riverid_variable_not_available' => '%s is not available in the RiverID class.',
 	);
 ?>
