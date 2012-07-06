@@ -31,7 +31,7 @@
 	'alerts_subscribed' => 'You have subscribed for alerts with the following categories',
 		'code_already_verified' => 'קוד זה אומת כבר בעבר!',
 	'code_not_found' => 'קוד האימות לא נמצא! יש לוודא כי כתובת ה-URL הינה נכונה.',
-	'code_verified' => 'הקוד אומת בהצלחה. מעתה ישלחו אליך התראות בזמן אמת על תקריות שמתרחשות',
+	'code_verified' => 'הקוד אומת בהצלחה. מעתה ישלחו אליך התראות בזמן אמת על תקריות שמתרחשות (ברדיוס הדיווחים שבחרת)',
 	'confirm_request' => 'כדי לאשר את בקשת ההתראה, יש לגשת ל',
 	'create_more_alerts' => 'חזרה לעמוד ההתראות ליצירת התראות נוספות',
 	'email_alert_request_created' => 'בקשתך להתראת אימייל נקלטה והודעת אימות נשלחה ל',
