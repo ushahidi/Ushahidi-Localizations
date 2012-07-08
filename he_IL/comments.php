@@ -3,6 +3,7 @@
 	'captcha' => array(
 		'default' => 'נא להזין קוד אבטחה חוקי',
 		'required' => 'נא להזין את קוד האבטחה',
+		'valid' => 'You entered the wrong security code.',
 	),
 	'comment_author' => array(
 		'length' => 'על השם להיות באורך 3 תווים לפחות.',
