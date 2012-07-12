@@ -2,7 +2,7 @@
 	$lang = array(
 	'comments_form_error' => 'error!',
 	'country_name' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country %s.'
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country %s.',
 	),
 	'custom_field' => array(
 		'values' => 'Please enter a valid value for one of your custom form items.',
@@ -76,7 +76,7 @@
 	'incident_title' => array(
 		'length' => 'The "Report Title" field must be at least 3 and no more 200 characters long.',
 		'required' => 'The "Report Title" field is required.',
-		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?'
+		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?',
 	),
 	'incident_verified' => array(
 		'between' => 'Please enter a valid value for Verify This Report.',

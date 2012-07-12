@@ -7,7 +7,7 @@
 		'required' => 'The Email field is required if the checkbox is checked.',
 	),
 	'alert_country' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country %s.'
+		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country %s.',
 	),
 	'alert_lat' => array(
 		'between' => 'You have not selected a valid location on the map.',
@@ -29,7 +29,7 @@
 		'required' => 'You have not set your radius on the map.',
   ),
   'alert_recipient' => array(
-    'required' => 'You have not set a recipient for alerts.'
+    'required' => 'You have not set a recipient for alerts.',
   ),
 	'alerts_subscribed' => 'You have subscribed for alerts with the following categories',
 	'code_already_verified' => 'This code has been verified before!',

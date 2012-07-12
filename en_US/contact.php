@@ -22,7 +22,7 @@
 		'required' => 'The subject field is required.',
 	),
 	'email_send' => array(
-		'failed' => 'There was an error sending your message.'
+		'failed' => 'There was an error sending your message.',
 	),
 	);
 ?>

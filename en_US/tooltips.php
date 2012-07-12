@@ -18,7 +18,7 @@
 		'specific_days' => 'You can select multiple days here. Dates are determined by your deployment timezone setting. In order to default to all dates, do not select any dates.',
 		'trigger' => 'The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one.',
 		'user' => 'The user can be anyone or a specific user. If you would only like specific users to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as "anyone" since most triggers are set up for all users interacting with the system',
-		'verify' => 'Marks a report as verified or not.'
+		'verify' => 'Marks a report as verified or not.',
 	),
 	'change_picture' => 'Profile pages on this site use Gravatar. By clicking on your image, you will be taken to the Gravatar website where you can change your profile picture.',
 	'default_value' => 'Separate each value with a comma, e.g. value1, value2.',

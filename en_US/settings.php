@@ -31,7 +31,7 @@
 	),
 	'banner_image' => array(
 		'default' => 'Something went wrong with your banner image upload.',
-		'size' => 'The size of your banner exceeds the size limit for this upload.'
+		'size' => 'The size of your banner exceeds the size limit for this upload.',
 	),
 	'cache_pages' => array(
 		'between' => 'The cache pages field is required.',
@@ -93,7 +93,7 @@
 		'title' => 'Facebook Setup Options',
 		'description' => 'To get the information below you will need to create a new Facebook application at',
 		'app_id' => 'Facebook App ID',
-		'app_secret' => 'Facebook App Secret'
+		'app_secret' => 'Facebook App Secret',
 	),
 	'google_analytics' => array(
 		'length' => 'The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX.',
@@ -102,7 +102,7 @@
 	   'enable_https' => 'Enable HTTPS',
 	   'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
 	   'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
-	   'title' => 'HTTPS'
+	   'title' => 'HTTPS',
 	),
 	'items_per_page' => array(
 		'between' => 'The items per page (Frontend) field does not appear to contain a valid value.',

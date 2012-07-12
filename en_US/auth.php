@@ -60,6 +60,6 @@
 		'login error' => 'Please check that you entered the correct public profile URL.',
 		'required' => 'The public profile URL field is required.',
 		'superadmin' => 'The super admin role cannot be modified.',
-		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a user?'
+		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a user?',
 	));
 ?>
