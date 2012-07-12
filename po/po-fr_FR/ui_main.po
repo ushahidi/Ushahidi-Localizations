@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -149,17 +149,17 @@ msgstr "Téléphone mobile:"
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
 msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
-msgstr "Ou, choisissez un endroit sur la carte ci-dessous et nous allons vous alerter lorsque un rapport est présenté à l\'intérieur de 20 kilomètres."
+msgstr "Ou, choisissez un endroit sur la carte ci-dessous et nous allons vous alerter lorsque un rapport est présenté à l'intérieur de 20 kilomètres."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
-msgid "If you can\'t find your location, please click on the map to pinpoint the correct location."
+msgid "If you can't find your location, please click on the map to pinpoint the correct location."
 msgstr "Si vous ne pouvez trouver l’emplacement recherché, bien vouloir cliquer sur la carte pour le repérer"
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr "Fils RSS (copier l\'URL ci-dessous)"
+msgstr "Fils RSS (copier l'URL ci-dessous)"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
@@ -184,7 +184,7 @@ msgstr "<strong>Étape 3 (Facultatif):</strong> Choisir catégories"
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Confirmer une demande précédente d\'alerte"
+msgstr "Confirmer une demande précédente d'alerte"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
@@ -279,7 +279,7 @@ msgstr ""
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr "En attente d\'approbation"
+msgstr "En attente d'approbation"
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
@@ -1054,7 +1054,7 @@ msgstr ""
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
 msgid "Incident Location"
-msgstr "Lieu de l\'incident"
+msgstr "Lieu de l'incident"
 
 #: ui_main.include
 msgctxt "ui_main.include"
@@ -1104,7 +1104,7 @@ msgstr "les médias entrants"
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr "Évaluation de l\'information"
+msgstr "Évaluation de l'information"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
@@ -1113,7 +1113,7 @@ msgstr ""
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
-msgid "Your account doesn\'t have the proper permission to fully log you in. Please contact the administrator."
+msgid "Your account doesn't have the proper permission to fully log you in. Please contact the administrator."
 msgstr ""
 
 #: ui_main.in_response_to
@@ -1214,7 +1214,7 @@ msgstr ""
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr "d\'autres couches"
+msgstr "d'autres couches"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
@@ -1308,7 +1308,7 @@ msgstr ""
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
-msgid "Email address doesn\'t exist. Try a different address or create an account."
+msgid "Email address doesn't exist. Try a different address or create an account."
 msgstr ""
 
 #: ui_main.login_select_openid
@@ -1449,7 +1449,7 @@ msgstr ""
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr "Plus d\'informations"
+msgstr "Plus d'informations"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
@@ -1669,7 +1669,7 @@ msgstr ""
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr "Boîte d\'envoi"
+msgstr "Boîte d'envoi"
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
@@ -2589,12 +2589,12 @@ msgstr "Jusqu’à"
 #: ui_main.today
 msgctxt "ui_main.today"
 msgid "Today"
-msgstr "Aujourd\'hui"
+msgstr "Aujourd'hui"
 
 #: ui_main.today_at
 msgctxt "ui_main.today_at"
 msgid "Today at"
-msgstr "Aujourd\'hui à"
+msgstr "Aujourd'hui à"
 
 #: ui_main.token
 msgctxt "ui_main.token"
@@ -2699,7 +2699,7 @@ msgstr "Le téléversement des rapports doit se faire en format CSV."
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
-msgstr "Lorsque l\'incident ID existe déjà dans la base de données, l\'entrée dans le fichier CSV sera ignorée"
+msgstr "Lorsque l'incident ID existe déjà dans la base de données, l'entrée dans le fichier CSV sera ignorée"
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2709,7 +2709,7 @@ msgstr "Doit contenir au moins le titre et la date des incidents"
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
-msgstr "Si l’espace réservé aux indications de latitude et de longitude est vide, l\'emplacement sera géocodé avec Geocoder Google"
+msgstr "Si l’espace réservé aux indications de latitude et de longitude est vide, l'emplacement sera géocodé avec Geocoder Google"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"

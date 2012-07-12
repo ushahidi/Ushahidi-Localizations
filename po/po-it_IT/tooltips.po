@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -164,7 +164,7 @@ msgstr ""
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
 msgid "Selecting YES lets you get alerts via email when new reports or comments are posted on your website."
-msgstr "Seleziona SI\' per essere avvisato via email quando nuove segnalazioni o commenti vengono inviati al sito"
+msgstr "Seleziona SI' per essere avvisato via email quando nuove segnalazioni o commenti vengono inviati al sito"
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
@@ -173,7 +173,7 @@ msgstr "La tua password. Lascia il campo in bianco se non vuoi modificare la pas
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
-msgid "Your profile can be viewed by anyone on the Internet if you check this option. This is also the easiest way to show off the reports you\'ve submitted, your checkins, badges, etc all on one page."
+msgid "Your profile can be viewed by anyone on the Internet if you check this option. This is also the easiest way to show off the reports you've submitted, your checkins, badges, etc all on one page."
 msgstr ""
 
 #: tooltips.profile_public_url
@@ -194,7 +194,7 @@ msgstr ""
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr "Questo è l\'indirizzo email che verrà utilizzato per inviare gli alert."
+msgstr "Questo è l'indirizzo email che verrà utilizzato per inviare gli alert."
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
@@ -249,7 +249,7 @@ msgstr ""
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
 msgid "Enable or disable page caching. This makes pages display faster by cutting response times. We recommend using caching on high traffic sites. **Remember that reports will be populated on the front end based on the schedule you set below (Cache Lifetime)."
-msgstr "Attiva o disattiva il caching delle pagine. Se attivato le pagine si caricano più velocemente. E\' consigliato per i siti con parecchio traffico. **Ricorda che le segnalazioni compariranno sul sito pubblico con la frequenza che specifichi qui sotto (Durata Cache)"
+msgstr "Attiva o disattiva il caching delle pagine. Se attivato le pagine si caricano più velocemente. E' consigliato per i siti con parecchio traffico. **Ricorda che le segnalazioni compariranno sul sito pubblico con la frequenza che specifichi qui sotto (Durata Cache)"
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
@@ -259,7 +259,7 @@ msgstr "Definisce la durata della cache."
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
 msgid "This setting enables checkins on your deployment. This is a simplified report type that is not moderated before it goes on the homepage and requires your site to be configured a certain way. When you enable this, make sure your timezone setting is on UTC and your theme supports checkins. When you enable this, checkin-only themes will become enabled under your addons/themes settings page."
-msgstr "Questo parametro abilita i check-in sul tuo dislocamento. Questo e\' un tipo di report semplificato che non sara\' moderato prima di andare online nella homepage e richiede che il tuo sito sia configurato di conseguenza. Prima di abilitarlo assicuratevi che il parametro del fuso orario sia UTC e che il vostro tema supporti i check-in. Abilitandolo, solo i temi che supportano i check-in saranno disponibili tra gli addon/temi configurabili."
+msgstr "Questo parametro abilita i check-in sul tuo dislocamento. Questo e' un tipo di report semplificato che non sara' moderato prima di andare online nella homepage e richiede che il tuo sito sia configurato di conseguenza. Prima di abilitarlo assicuratevi che il parametro del fuso orario sia UTC e che il vostro tema supporti i check-in. Abilitandolo, solo i temi che supportano i check-in saranno disponibili tra gli addon/temi configurabili."
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
@@ -284,12 +284,12 @@ msgstr "Nazione a cui fa riferimento il sito"
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
 msgid "Turn the Contact Tab on or off on the main site."
-msgstr "Visualizza il tab \'Contatti\' nel menu del sito pubblico"
+msgstr "Visualizza il tab 'Contatti' nel menu del sito pubblico"
 
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"
 msgid "Turn the How to Help Tab on or off on the main site."
-msgstr "Visualizza il tab \'Aiuto\' nel menu del sito pubblico"
+msgstr "Visualizza il tab 'Aiuto' nel menu del sito pubblico"
 
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
@@ -309,7 +309,7 @@ msgstr "Hub messaggi sms in entrata"
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr "Sincronizza l\'hub messaggi sms in entrata con la piattaforma Ushahidi"
+msgstr "Sincronizza l'hub messaggi sms in entrata con la piattaforma Ushahidi"
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
@@ -344,7 +344,7 @@ msgstr ""
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
 msgid "Setting this value to true or yes will make your deployment private so only users with accounts that you specify will be able to access the deployment."
-msgstr "Porre questo valore a VERO o SI rendera\' privato il tuo dislocamento, in tal modo solo gli account da te definiti avranno accesso al dislocamento. "
+msgstr "Porre questo valore a VERO o SI rendera' privato il tuo dislocamento, in tal modo solo gli account da te definiti avranno accesso al dislocamento. "
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
@@ -359,7 +359,7 @@ msgstr "Host (server) sul quale vengono ricevute le mail di segnalazione"
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr "Password per l\'account email che riceve le segnalazioni"
+msgstr "Password per l'account email che riceve le segnalazioni"
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
@@ -384,22 +384,22 @@ msgstr "Indirizzo email che riceve le segnalazioni"
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
 msgid "Hit statistics are stored on a server controlled by Ushahidi. By enabling this option, you gain access to hit statistics directly in your admin panel. By disabling it, you will stop collecting statistics and will be unable to recover traffic stats collected while this is turned off."
-msgstr "Le statistiche sulle visite vengono salvate su un server controllato da Ushahidi. Se abiliti questa opzione avrai accesso alle statistiche direttamente dal tuo pannello di amministrazione. Se la disabiliti il sistema smetterà di raccogliere le statistiche e non potrai recuperare le statistiche relative al periodo durante il quale l\'opzione è stata disabilitata."
+msgstr "Le statistiche sulle visite vengono salvate su un server controllato da Ushahidi. Se abiliti questa opzione avrai accesso alle statistiche direttamente dal tuo pannello di amministrazione. Se la disabiliti il sistema smetterà di raccogliere le statistiche e non potrai recuperare le statistiche relative al periodo durante il quale l'opzione è stata disabilitata."
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
 msgid "Do others have the right to republish text, images, video and/or design themes that you and your users create? Go to https://creativecommons.org/choose/ if you are interested in specifying what others are able to do with your work. And remember to be specific about what elements of the site you are licensing!"
-msgstr "E\' sempre bene specificare i diritti di copyright per ogni tua opera. Per aiutarti nell\'individuare quale licenza faccia al caso tuo, vista http://creativecommons.org/choose/  "
+msgstr "E' sempre bene specificare i diritti di copyright per ogni tua opera. Per aiutarti nell'individuare quale licenza faccia al caso tuo, vista http://creativecommons.org/choose/  "
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
 msgid "This is the email address that will receive email reports and messages from the contact form."
-msgstr "Questo è l\'indirizzo email che riceverà le segnalazioni via email e i messaggi dal modulo contatti"
+msgstr "Questo è l'indirizzo email che riceverà le segnalazioni via email e i messaggi dal modulo contatti"
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
 msgid "This is text that will appear above the map on the homepage. This is useful for giving important information to visitors on the site. To remove the box, simply delete the message here."
-msgstr "Questo è il testo che appare sopra alla mappa nella home. E\' utile per dare importanti informazioni ai visitatori. Per rimuovere il box sopra la mappa è sufficiente lasciare in bianco questo testo."
+msgstr "Questo è il testo che appare sopra alla mappa nella home. E' utile per dare importanti informazioni ai visitatori. Per rimuovere il box sopra la mappa è sufficiente lasciare in bianco questo testo."
 
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
@@ -424,5 +424,5 @@ msgstr ""
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
-msgstr "Definisci l\'hashtag che verrà utilizzato nei post su twitter."
+msgstr "Definisci l'hashtag che verrà utilizzato nei post su twitter."
 

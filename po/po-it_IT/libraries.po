@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -34,7 +34,7 @@ msgstr "La tua chiave API Akismet non è valida"
 #: libraries.clickatell_fopen_error
 msgctxt "libraries.clickatell_fopen_error"
 msgid "Error while executing fopen sending method!<br>Please check whether PHP has OpenSSL support and whether the PHP version is greater than 5.2."
-msgstr "Errore nell\'esecuzione di fopen metodo di invio!<br>Verifica se PHP ha un supporto OpenSSL e assicurati che la versione PHP sia maggiore della 5.2"
+msgstr "Errore nell'esecuzione di fopen metodo di invio!<br>Verifica se PHP ha un supporto OpenSSL e assicurati che la versione PHP sia maggiore della 5.2"
 
 #: libraries.clickatell_message_too_long
 msgctxt "libraries.clickatell_message_too_long"
@@ -74,12 +74,12 @@ msgstr "Non è stato possibile cancellare la directory <code>%s</coded>"
 #: libraries.upgrade_extracting_error
 msgctxt "libraries.upgrade_extracting_error"
 msgid "Error while extracting: <code>%s</code>"
-msgstr "Errore nell\'estrazione: <code>%s</code>"
+msgstr "Errore nell'estrazione: <code>%s</code>"
 
 #: libraries.upgrade_failed
 msgctxt "libraries.upgrade_failed"
 msgid "Downloading the latest Ushahidi failed. HTTP status code"
-msgstr "Il download dell\'ultima versione di Ushahidi non è andato a buon fine. HTTP status code"
+msgstr "Il download dell'ultima versione di Ushahidi non è andato a buon fine. HTTP status code"
 
 #: libraries.upgrade_file_not_copied
 msgctxt "libraries.upgrade_file_not_copied"

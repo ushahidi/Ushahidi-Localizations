@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -79,7 +79,7 @@ msgstr "könyvtár"
 #: core.log_dir_unwritable
 msgctxt "core.log_dir_unwritable"
 msgid "The log directory is not writable: %s"
-msgstr "A log könyvtár nem írható: %s\'"
+msgstr "A log könyvtár nem írható: %s'"
 
 #: core.model
 msgctxt "core.model"
@@ -89,7 +89,7 @@ msgstr "modell"
 #: core.no_controller
 msgctxt "core.no_controller"
 msgid "Ushahidi was not able to determine a controller to process this request: %s"
-msgstr "Az \'Ushahidi nem tudott controllert meghatározni a kérés feldolgozásához: %s"
+msgstr "Az 'Ushahidi nem tudott controllert meghatározni a kérés feldolgozásához: %s"
 
 #: core.no_default_route
 msgctxt "core.no_default_route"

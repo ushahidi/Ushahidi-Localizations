@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -38,7 +38,7 @@ msgstr "Обновление"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
-msgid "So, I\'m going to upgrade your database from version"
+msgid "So, I'm going to upgrade your database from version"
 msgstr "Будет обновлена БД версии"
 
 #: upgrade.upgrade_db_text_2
@@ -98,7 +98,7 @@ msgstr "Шаг 2: В зависимости от ОС сервера, выбер
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
-msgid "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Just in case something goes wrong, it\'s recommended you make an entire backup of your Ushahidi deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the downloaded zip file</dd><dd>- Depending on the operating system running the web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to the webserver and replace the contents of all the folders with the newest from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- First determine your database schema version by looking at the <strong>db_version</strong> value in the settings table or look at the Ushahidi upgrade information at the top of this page. </dd><dd>- If you are at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With your database client, upgrade the database by executing the appropriate upgradex-x.sql file.</dd></dl>"
+msgid "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Just in case something goes wrong, it's recommended you make an entire backup of your Ushahidi deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the downloaded zip file</dd><dd>- Depending on the operating system running the web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to the webserver and replace the contents of all the folders with the newest from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- First determine your database schema version by looking at the <strong>db_version</strong> value in the settings table or look at the Ushahidi upgrade information at the top of this page. </dd><dd>- If you are at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With your database client, upgrade the database by executing the appropriate upgradex-x.sql file.</dd></dl>"
 msgstr "Шаг 4: Нажмите кнопку <strong>\"Продолжить\"</strong>, что бы обновить необходимые таблицы."
 
 #: upgrade.upgrade_tables

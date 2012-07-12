@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,7 +24,7 @@ msgstr "Cette adress email existe déja."
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "L\'adresse email doit comporter entre 4 et 64 caractères."
+msgstr "L'adresse email doit comporter entre 4 et 64 caractères."
 
 #: auth.email.required
 msgctxt "auth.email.required"
@@ -44,7 +44,7 @@ msgstr "Veuillez indiquer le nom complet."
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr "Le nom d\'utilisateur comporte des caractères invalides."
+msgstr "Le nom d'utilisateur comporte des caractères invalides."
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
@@ -148,7 +148,7 @@ msgstr ""
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
-msgid "Sorry, we don\'t have your email address"
+msgid "Sorry, we don't have your email address"
 msgstr ""
 
 #: auth.resetemail.required
@@ -184,7 +184,7 @@ msgstr "Le rôle doit être ADMINISTRATEUR ou UTILISATEUR."
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
-msgstr "The role de l\'administrateur ne peut être modifié."
+msgstr "The role de l'administrateur ne peut être modifié."
 
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
@@ -194,22 +194,22 @@ msgstr ""
 #: auth.username.exists
 msgctxt "auth.username.exists"
 msgid "Sorry, this public profile URL is already in use."
-msgstr "Ce nom d\'utilisateur est déjà pris."
+msgstr "Ce nom d'utilisateur est déjà pris."
 
 #: auth.username.length
 msgctxt "auth.username.length"
 msgid "The public profile URL field must be at least 2 and no more 100 characters long."
-msgstr "Le nom d\'utilisateur doit comporter entre 2 et 16 caractères."
+msgstr "Le nom d'utilisateur doit comporter entre 2 et 16 caractères."
 
 #: auth.username.login error
 msgctxt "auth.username.login error"
 msgid "Please check that you entered the correct public profile URL."
-msgstr "Veuillez vérifier que le nom d\'utilisateur est correct."
+msgstr "Veuillez vérifier que le nom d'utilisateur est correct."
 
 #: auth.username.required
 msgctxt "auth.username.required"
 msgid "The public profile URL field is required."
-msgstr "Veuillez indiquer un nom d\'utilisateur."
+msgstr "Veuillez indiquer un nom d'utilisateur."
 
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"

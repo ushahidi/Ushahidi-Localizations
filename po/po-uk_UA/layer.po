@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +19,7 @@ msgstr "Поле кольору повинно бути довжиною 6 си�
 #: layer.layer_color.required
 msgctxt "layer.layer_color.required"
 msgid "The color field is required."
-msgstr "Поле кольору є обов\'язковим."
+msgstr "Поле кольору є обов'язковим."
 
 #: layer.layer_file.type
 msgctxt "layer.layer_file.type"
@@ -39,7 +39,7 @@ msgstr "Поле назви має бути довжиною не менше 3 �
 #: layer.layer_name.required
 msgctxt "layer.layer_name.required"
 msgid "The name field is required."
-msgstr "Назва є обов\'язковою."
+msgstr "Назва є обов'язковою."
 
 #: layer.layer_url.atleast
 msgctxt "layer.layer_url.atleast"
@@ -48,7 +48,7 @@ msgstr "KML Url або файл є необхідним"
 
 #: layer.layer_url.both
 msgctxt "layer.layer_url.both"
-msgid "You can\'t have both a KML file and a URL."
+msgid "You can't have both a KML file and a URL."
 msgstr "Ви не можете мати одночасно файл KML і url"
 
 #: layer.layer_url.url

@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -14,7 +14,7 @@ msgstr ""
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
 msgid "Access denied. Either your credentials are not valid or your request has been refused."
-msgstr "Accesso negato. Le credenziali che hai inserito non sono corrette oppure ti è stato revocato l\'accesso."
+msgstr "Accesso negato. Le credenziali che hai inserito non sono corrette oppure ti è stato revocato l'accesso."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
@@ -174,7 +174,7 @@ msgstr "Autore"
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr "Email dell\'autore"
+msgstr "Email dell'autore"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
@@ -274,7 +274,7 @@ msgstr "Il tuo codice di conferma per le notifiche è:"
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr "L\'utente è stato"
+msgstr "L'utente è stato"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -318,7 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid "You don\'t have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
-msgid "FAQ\'s"
+msgid "FAQ's"
 msgstr "FAQ"
 
 #: ui_admin.feed
@@ -694,7 +694,7 @@ msgstr "Istanze"
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr "Dettagli dell\'istanza"
+msgstr "Dettagli dell'istanza"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
@@ -709,7 +709,7 @@ msgstr "Indirizzo IP"
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
-msgstr "E\' un campo data?"
+msgstr "E' un campo data?"
 
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
@@ -998,7 +998,7 @@ msgstr ""
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
-msgid "OpenID\'s"
+msgid "OpenID's"
 msgstr ""
 
 #: ui_admin.page
@@ -1019,7 +1019,7 @@ msgstr "Pagina non trovata"
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
-msgstr "La pagina che stai cercando di visualizzare non esiste.<p><strong>Sei arrivato qui seguendo un link sul nostro sito?</strong><br />Se sei arrivato qui da una pagina del nostro sito ti preghiamo di <a href=\"#\">contattarci</a> in modo da permetterci di correggere l\'errore.</p><p><strong>Sei arrivato da un link in un altro sito? </strong><br />I link da altri siti potrebbero essere vecchi o non corretti. <a href=\"#\">Segnalaci</a> da dove sei arrivato e contatteremo il sito da cui arrivi per correggere l\'errore.</p><p><strong>Hai inserito l\'indirizzo a mano? </strong><br />Potresti avere scritto l\'indirizzo (URL) in maniera imprecisa. Verifica di averlo scritto correttamente. </p>"
+msgstr "La pagina che stai cercando di visualizzare non esiste.<p><strong>Sei arrivato qui seguendo un link sul nostro sito?</strong><br />Se sei arrivato qui da una pagina del nostro sito ti preghiamo di <a href=\"#\">contattarci</a> in modo da permetterci di correggere l'errore.</p><p><strong>Sei arrivato da un link in un altro sito? </strong><br />I link da altri siti potrebbero essere vecchi o non corretti. <a href=\"#\">Segnalaci</a> da dove sei arrivato e contatteremo il sito da cui arrivi per correggere l'errore.</p><p><strong>Hai inserito l'indirizzo a mano? </strong><br />Potresti avere scritto l'indirizzo (URL) in maniera imprecisa. Verifica di averlo scritto correttamente. </p>"
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1314,7 +1314,7 @@ msgstr "Stats"
 #: ui_admin.stats_collection_error
 msgctxt "ui_admin.stats_collection_error"
 msgid "Stat collection failed! Please try again later."
-msgstr "Si è verificato un errore nella raccolta delle statistiche! E\' possibile che il server di statistiche sia spento oppure la tua istallazione di Ushahidi non è configurata cvorrettamente. Riprova tra poco per vedere se il serve è in funzione oppure no. Per resettare manualmente le tue statistiche modifica stat_id ( settalo a null ) e stat_key (settalo a 0) nelle tabella impostazioni (settings) del database. ATTENZIONE: se lo fai perderai le tue statistiche!"
+msgstr "Si è verificato un errore nella raccolta delle statistiche! E' possibile che il server di statistiche sia spento oppure la tua istallazione di Ushahidi non è configurata cvorrettamente. Riprova tra poco per vedere se il serve è in funzione oppure no. Per resettare manualmente le tue statistiche modifica stat_id ( settalo a null ) e stat_key (settalo a 0) nelle tabella impostazioni (settings) del database. ATTENZIONE: se lo fai perderai le tue statistiche!"
 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
@@ -1419,7 +1419,7 @@ msgstr ""
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
 msgid " Click here to upgrade now"
-msgstr "Clicca qui per avviare l\'aggiornamento"
+msgstr "Clicca qui per avviare l'aggiornamento"
 
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
@@ -1429,7 +1429,7 @@ msgstr "Aggiornamento Ushahidi"
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr "Stato dell\'aggiornamento di Ushahidi"
+msgstr "Stato dell'aggiornamento di Ushahidi"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
@@ -1469,7 +1469,7 @@ msgstr "Versione"
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
-msgstr "è disponibile l\'aggiornamento."
+msgstr "è disponibile l'aggiornamento."
 
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"

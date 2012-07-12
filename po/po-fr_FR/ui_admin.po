@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-12 03:50+0000\n"
-"PO-Revision-Date: 2012-07-12 03:50+0000\n"
+"POT-Creation-Date: 2012-07-12 21:08+0000\n"
+"PO-Revision-Date: 2012-07-12 21:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -94,7 +94,7 @@ msgstr "API bloquée"
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr "Logs de l\'API"
+msgstr "Logs de l'API"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
@@ -174,7 +174,7 @@ msgstr "Auteur"
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr "Email de l\'auteur"
+msgstr "Email de l'auteur"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
@@ -214,7 +214,7 @@ msgstr "Categories"
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr "Error d\'affichage du graphe"
+msgstr "Error d'affichage du graphe"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
@@ -274,7 +274,7 @@ msgstr "Votre code de confirmation des alertes est: "
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr "L\'utilisateur a été"
+msgstr "L'utilisateur a été"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -318,7 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid "You don\'t have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -459,7 +459,7 @@ msgstr "Erreur"
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr "Erreur, impossible d\'envoyer l\'incident"
+msgstr "Erreur, impossible d'envoyer l'incident"
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
@@ -478,7 +478,7 @@ msgstr ""
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
-msgid "FAQ\'s"
+msgid "FAQ's"
 msgstr "FAQ"
 
 #: ui_admin.feed
@@ -584,7 +584,7 @@ msgstr "Impossible de lire le fichier"
 #: ui_admin.form_not_exists
 msgctxt "ui_admin.form_not_exists"
 msgid "That Form Does Not Exist!"
-msgstr "Ce formulaire n\'existe pas!"
+msgstr "Ce formulaire n'existe pas!"
 
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
@@ -634,7 +634,7 @@ msgstr "Temps dépassé pour Geonames"
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
 msgid "Get Help"
-msgstr "Demander de l\'aide"
+msgstr "Demander de l'aide"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
@@ -679,7 +679,7 @@ msgstr "toutes les heures"
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr "Fil d\'incidents pour:"
+msgstr "Fil d'incidents pour:"
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -694,7 +694,7 @@ msgstr "Deployments"
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr "Détails de l\'deployment"
+msgstr "Détails de l'deployment"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
@@ -754,7 +754,7 @@ msgstr "Rôle:"
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
 msgid "Username:"
-msgstr "Nom d\'utilisateur:"
+msgstr "Nom d'utilisateur:"
 
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
@@ -804,7 +804,7 @@ msgstr ""
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr "spécifié comme n\'étant pas du spam"
+msgstr "spécifié comme n'étant pas du spam"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
@@ -979,7 +979,7 @@ msgstr ""
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr "Pas d\'erreur"
+msgstr "Pas d'erreur"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
@@ -998,7 +998,7 @@ msgstr ""
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
-msgid "OpenID\'s"
+msgid "OpenID's"
 msgstr ""
 
 #: ui_admin.page
@@ -1019,7 +1019,7 @@ msgstr "Page non trouvée"
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
-msgstr "Désolé, cette page n\'existe pas.<p><strong>Venez-vous d\'une autre page de ce site?</strong><br />Si vous êtez arrivé ici à partir d\'une autre page de notre site, <a href=\"#\">contactez nous</a> pour que nous corrigions notre erreur.</p><p><strong>Êtes-vous arrivé sur cette page en venant d\'un autre site? </strong><br />Les liens d\'autres sites peuvent parfois n\'être plus à jour, ou en erreur. <a href=\"#\">Dites nous</a> d\'où vous venez et nous pourrons essayer de contacter le site pour résoudre le problème.</p><p><strong>Avez vous entré l\'URL à la main? </strong><br />Peut-être avez vous fait une erreur en tapant l\'adresse. Vérifiez et corrigez si nécessaire.</p>"
+msgstr "Désolé, cette page n'existe pas.<p><strong>Venez-vous d'une autre page de ce site?</strong><br />Si vous êtez arrivé ici à partir d'une autre page de notre site, <a href=\"#\">contactez nous</a> pour que nous corrigions notre erreur.</p><p><strong>Êtes-vous arrivé sur cette page en venant d'un autre site? </strong><br />Les liens d'autres sites peuvent parfois n'être plus à jour, ou en erreur. <a href=\"#\">Dites nous</a> d'où vous venez et nous pourrons essayer de contacter le site pour résoudre le problème.</p><p><strong>Avez vous entré l'URL à la main? </strong><br />Peut-être avez vous fait une erreur en tapant l'adresse. Vérifiez et corrigez si nécessaire.</p>"
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1084,7 +1084,7 @@ msgstr "PM"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr "Les données n\'ont pas été envoyées par POST"
+msgstr "Les données n'ont pas été envoyées par POST"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1364,7 +1364,7 @@ msgstr "à"
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
 msgid "Total Records"
-msgstr "Nombre d\'enregistrements"
+msgstr "Nombre d'enregistrements"
 
 #: ui_admin.to_date
 msgctxt "ui_admin.to_date"
@@ -1429,7 +1429,7 @@ msgstr "Mettre Ushahidi à jour"
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr "Mettre à jour le statut d\'Ushahidi"
+msgstr "Mettre à jour le statut d'Ushahidi"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
