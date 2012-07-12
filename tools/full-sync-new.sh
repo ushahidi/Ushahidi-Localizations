@@ -5,8 +5,6 @@ cd `dirname $0`/..
 
 # Get latest translations from transifex, run po2php conversion on translations and push to github
 
-cd Ushahidi-Localizations
-
 echo "Pulling in latest changes from github..."
 git pull
 
@@ -16,8 +14,9 @@ tx pull --force
 
 # generate the php files from transifex po files
 echo "Generating php files from translations..."
-#tools/run-all-po2php.sh
-php ../Ushahidi_Web/index.php "i18n/po2php"
+cd ../Ushahidi_Web/
+php index.php "i18n/po2php"
+cd ../Ushahidi-Localizations/
 
 # add any new file generated
 git add .
@@ -37,8 +36,9 @@ git pull
 
 # generate the pot files for en_US so transifex can pick it up
 echo "Generating po files for en_US..."
-#php2po -P -t en_US/ en_US/ po/po-en_US
-php ../Ushahidi_Web/index.php "i18n/php2po?lang=en_US"
+cd ../Ushahidi_Web/
+php index.php "i18n/php2po?lang=en_US"
+cd ../Ushahidi-Localizations/
 
 # add any new file generated
 git add po/po-en_US
