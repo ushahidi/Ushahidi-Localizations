@@ -13,6 +13,20 @@
 	'access_level' => array(
 		'numeric' => 'Access Level field must be a number between 0 - 100.',
 		'required' => 'Access Level field must be a number between 0 - 100.',
+	),
+    'permissions' => array(
+		'reports_view' => 'View Reports',
+		'reports_edit' => 'Create/Edit Reports',
+        'reports_evaluation' => 'Approve & Verify Reports',
+        'reports_comments' => 'Manage Report Comments',
+        'reports_download' => 'Download Reports',
+        'reports_upload' => 'Upload Reports',
+        'messages' => 'Manage Messages',
+        'messages_reporters' => 'Manage Message Reporters',
+        'stats' => 'View Stats',
+        'settings' => 'Modify Settings',
+        'manage' => 'Manage Panel',
+        'users' => 'Manage Users',        
 	)
 	);
 ?>
