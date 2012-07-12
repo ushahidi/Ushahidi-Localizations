@@ -1,655 +1,738 @@
-#. extracted from ../en_US/settings.php, ../ja_JP/settings.php
+#. extracted from en_US/settings.php, ja_JP/settings.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 12:41+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: ja_JP\n"
 
-#: 'allow_comments'->'between'
+#: settings.allow_comments.between
+msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
 msgstr "コメント許可フィールドに正しい値が入っていないようです。"
 
-#: 'allow_comments'->'required'
+#: settings.allow_comments.required
+msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
 msgstr "コメント許可フィールドは必須です。"
 
-#: 'allow_feed'->'between'
+#: settings.allow_feed.between
+msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
 msgstr "フィードフィールドに正しい値が入ってないようです。"
 
-#: 'allow_feed'->'required'
+#: settings.allow_feed.required
+msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "フィードは必須です。"
 
-#: 'allow_alerts'->'between'
+#: settings.allow_alerts.between
+msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
 msgstr ""
 
-#: 'allow_alerts'->'required'
+#: settings.allow_alerts.required
+msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
 msgstr ""
 
-#: 'allow_reports'->'between'
+#: settings.allow_reports.between
+msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
 msgstr "レポート許可フィールドには正しい値が入っていないようです。"
 
-#: 'allow_reports'->'required'
+#: settings.allow_reports.required
+msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
 msgstr "レポート許可は必須です。"
 
-#: 'allow_stat_sharing'->'between'
+#: settings.allow_stat_sharing.between
+msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
 msgstr "統計共有フィールドに正しい値が入っていないようです。"
 
-#: 'allow_stat_sharing'->'required'
+#: settings.allow_stat_sharing.required
+msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
 msgstr "統計共有は必須です。"
 
-#: 'api'->'default_record_limit'
+#: settings.api.default_record_limit
+msgctxt "settings.api.default_record_limit"
 msgid "Default number of records to be fetched per API request"
 msgstr "API越しでレコードを取得するのではディフォルトで無効です。"
 
-#: 'api'->'maximum_record_limit'
+#: settings.api.maximum_record_limit
+msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
 msgstr "API越しでレコードを取得出来最大数"
 
-#: 'api'->'maximum_requests_per_ip_address'
+#: settings.api.maximum_requests_per_ip_address
+msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
 msgstr "IPアドレス毎のAPIリクエストの最大数"
 
-#: 'api_akismet'->'alpha_numeric'
-msgctxt "'api_akismet'->'alpha_numeric'"
+#: settings.api_akismet.alpha_numeric
+msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
 msgstr "Akismetフィールドには正しい値が入ってないようです。"
 
-#: 'api_akismet'->'length'
-msgctxt "'api_akismet'->'length'"
+#: settings.api_akismet.length
+msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
 msgstr "Akismetフィールドには正しい値が入ってないようです。"
 
-#: 'banner_image'->'default'
+#: settings.banner_image.default
+msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
 msgstr ""
 
-#: 'banner_image'->'size'
-msgid ""
-"The size of your banner exceeds the size limit for this upload.'\n"
-"\t),\n"
-"\t\t'between' => 'The cache pages field is required."
+#: settings.banner_image.size
+msgctxt "settings.banner_image.size"
+msgid "The size of your banner exceeds the size limit for this upload."
 msgstr ""
 
-#: 'cache_pages'->'required'
+#: settings.cache_pages.between
+msgctxt "settings.cache_pages.between"
+msgid "The cache pages field is required."
+msgstr "キャッシュページは入力必須です。"
+
+#: settings.cache_pages.required
+msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
 msgstr "キャッシュページフィールドには正しい値が入ってないようです。"
 
-#: 'cache_pages_lifetime'->'in_array'
-msgid ""
-"The cache pages lifetime field does not appear to contain a valid value."
+#: settings.cache_pages_lifetime.in_array
+msgctxt "settings.cache_pages_lifetime.in_array"
+msgid "The cache pages lifetime field does not appear to contain a valid value."
 msgstr "キャッシュページの有効期間フィールドには正しい値が入っていないようです。"
 
-#: 'cache_pages_lifetime'->'required'
+#: settings.cache_pages_lifetime.required
+msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
 msgstr "キャッシュページ有効期間は入力必須です。"
 
-#: 'cleanurl'->'clean_url_disabled'
-msgid ""
-"It looks like your server is not configured to handle clean URLs. You will "
-"need to change the configuration of your server before you can enable clean "
-"URLs. See more info on how to enable clean URLs at <a "
-"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
-"rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
-"あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a "
-"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
-"rewrite\" target=\"_blank\">このフォームの投稿</a>の詳細を確認してください。"
+#: settings.cleanurl.clean_url_disabled
+msgctxt "settings.cleanurl.clean_url_disabled"
+msgid "It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">this forum post</a>"
+msgstr "あなたのサーバーはクリーンURLを正しく扱えないようです。この機能を有効する前に、サーバの設定をする必要があります。<a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">このフォームの投稿</a>の詳細を確認してください。"
 
-#: 'cleanurl'->'clean_url_enabled'
-msgid ""
-"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
-"\"index.php\" in the URL)."
+#: settings.cleanurl.clean_url_enabled
+msgctxt "settings.cleanurl.clean_url_enabled"
+msgid "This option makes Ushahidi to be accessed via \"clean\" URLs (without \"index.php\" in the URL)."
 msgstr "この設定はUshahidiは\"index.php\"ではなくクリーンURLでアクセス出来るようにします。"
 
-#: 'cleanurl'->'enable_clean_url'
+#: settings.cleanurl.enable_clean_url
+msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
 msgstr "クリーンURLを有効にする"
 
-#: 'cleanurl'->'title'
+#: settings.cleanurl.title
+msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
 msgstr "クリーンURL"
 
-#: 'clickatell_api'->'length'
+#: settings.clickatell_api.length
+msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
 msgstr "ClickatellのAPI入力番号は20文字以下ではなければいけません。"
 
-#: 'clickatell_api'->'required'
+#: settings.clickatell_api.required
+msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
 msgstr "ClickatellのAPI番号は入力必須です。"
 
-#: 'clickatell_password'->'length'
-msgid ""
-"The Clickatell Password field must be at least 5 and no more 50 characters "
-"long."
+#: settings.clickatell_password.length
+msgctxt "settings.clickatell_password.length"
+msgid "The Clickatell Password field must be at least 5 and no more 50 characters long."
 msgstr "Clickatellパスワードは最低5文字、最大50文字以下の入力する必要があります。"
 
-#: 'clickatell_password'->'required'
+#: settings.clickatell_password.required
+msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
 msgstr "Clickatellパスワードは入力必須です。"
 
-#: 'clickatell_username'->'length'
+#: settings.clickatell_username.length
+msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
 msgstr "Clickatellのユーザー名は50文字以下でなければいけません。"
 
-#: 'clickatell_username'->'required'
+#: settings.clickatell_username.required
+msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
 msgstr "Clickatellのユーザー名は入力必須です。"
 
-#: 'clickatell_username'->'configure_map'
+#: settings.configure_map
+msgctxt "settings.configure_map"
 msgid "Configure Map"
 msgstr "地図を設定する"
 
-#: 'clickatell_username'->'default_location'
+#: settings.default_location
+msgctxt "settings.default_location"
 msgid "Default Location"
 msgstr "ディフォルトの位置"
 
-#: 'default_map_all'->'alpha_numeric'
+#: settings.default_map_all.alpha_numeric
+msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
 msgstr "色フィードに正しい値が入っていないようです。"
 
-#: 'default_map_all'->'length'
+#: settings.default_map_all.length
+msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
 msgstr "色は6文字以下でなければいけません。"
 
-#: 'default_map_all'->'required'
+#: settings.default_map_all.required
+msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
 msgstr "色は必須です。"
 
-#: 'default_map_all'->'default_map_view'
+#: settings.default_map_view
+msgctxt "settings.default_map_view"
 msgid "Default Map View"
 msgstr "ディフォルトの地図の見え方"
 
-#: 'default_map_all'->'default_zoom_level'
+#: settings.default_zoom_level
+msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
 msgstr "ディフォルトのズームのレベル"
 
-#: 'default_map_all'->'download_city_list'
+#: settings.download_city_list
+msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
 msgstr "GeoNamesからの市町村の収集"
 
-#: 'email_host'->'length'
-msgctxt "'email_host'->'length'"
-"'email_host'->'length'"
+#: settings.email_host.length
+msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
 msgstr "メールサーバーのポート入力が長過ぎます。"
 
-#: 'email_host'->'numeric'
-msgctxt "'email_host'->'numeric'"
+#: settings.email_host.numeric
+msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
 msgstr "メールサーバーのポートには数字のみ入力可能です。"
 
-#: 'email_password'->'length'
-msgid ""
-"The Mail Server Password field must be at least 5 and no more 50 characters "
-"long."
+#: settings.email_password.length
+msgctxt "settings.email_password.length"
+msgid "The Mail Server Password field must be at least 5 and no more 50 characters long."
 msgstr "メールサーバーのパスワードは最少５文字、最大50文字以下でなければいけません。"
 
-#: 'email_password'->'required'
+#: settings.email_password.required
+msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
 msgstr "メールサーバーのパスワードは入力必須です。"
 
-#: 'email_port'->'length'
-msgctxt "'email_port'->'length'"
+#: settings.email_port.length
+msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
 msgstr "メールサーバーのポートの入力されている値が長過ぎます。"
 
-#: 'email_port'->'numeric'
-msgctxt "'email_port'->'numeric'"
+#: settings.email_port.numeric
+msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
 msgstr "メールサーバーのポート値は数字のみでなければいけません。"
 
-#: 'email_servertype'->'length'
-msgctxt "'email_servertype'->'length'"
+#: settings.email_servertype.length
+msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
 msgstr "メールサーバーのポートの入力されている値が長過ぎます。"
 
-#: 'email_servertype'->'required'
+#: settings.email_servertype.required
+msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
 msgstr "メールサーバーのタイプは必須です。"
 
-#: 'email_username'->'length'
+#: settings.email_username.length
+msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
 msgstr "メールサーバーのユーザー名は最大50文字以下でなければいけません。"
 
-#: 'email_username'->'required'
+#: settings.email_username.required
+msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
 msgstr "メールサーバのユーザー名は入力必須です。"
 
-#: 'facebook'->'title'
+#: settings.facebook.title
+msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
 msgstr ""
 
-#: 'facebook'->'description'
-msgid ""
-"To get the information below you will need to create a new Facebook "
-"application at"
+#: settings.facebook.description
+msgctxt "settings.facebook.description"
+msgid "To get the information below you will need to create a new Facebook application at"
 msgstr ""
 
-#: 'facebook'->'app_id'
+#: settings.facebook.app_id
+msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
 msgstr ""
 
-#: 'facebook'->'app_secret'
-msgid ""
-"Facebook App Secret'\n"
-"\t),\n"
-"\t\t'length' => 'The Google Analytics field must contain a valid Web Property "
-"ID in the format UA-XXXXX-XX."
+#: settings.facebook.app_secret
+msgctxt "settings.facebook.app_secret"
+msgid "Facebook App Secret"
 msgstr ""
 
-#: 'https'->'enable_https'
+#: settings.google_analytics.length
+msgctxt "settings.google_analytics.length"
+msgid "The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX."
+msgstr "Google Analyticsは有効なUA-XXXXX-XXというフォーマットのウェブプロパティIDを入力する必要があります。"
+
+#: settings.https.enable_https
+msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
 msgstr ""
 
-#: 'https'->'https_disabled'
-msgid ""
-"This option makes Ushahidi be accessed in unsecure mode; "
-"<strong>without</strong> \"https://\" in the URL prefix"
+#: settings.https.https_disabled
+msgctxt "settings.https.https_disabled"
+msgid "This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> \"https://\" in the URL prefix"
 msgstr ""
 
-#: 'https'->'https_enabled'
-msgid ""
-"This option makes Ushahidi be accessed in secure mode; with "
-"<strong>https</strong> in the URL prefix"
+#: settings.https.https_enabled
+msgctxt "settings.https.https_enabled"
+msgid "This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix"
 msgstr ""
 
-#: 'https'->'title'
-msgid ""
-"HTTPS'\n"
-"\t),\n"
-"\t\t'between' => 'The items per page (Frontend) field does not appear to "
-"contain a valid value."
+#: settings.https.title
+msgctxt "settings.https.title"
+msgid "HTTPS"
 msgstr ""
 
-#: 'items_per_page'->'required'
+#: settings.items_per_page.between
+msgctxt "settings.items_per_page.between"
+msgid "The items per page (Frontend) field does not appear to contain a valid value."
+msgstr "表側のページ毎に表示するアイテムのフィールドに正しい値が入っていないようです。"
+
+#: settings.items_per_page.required
+msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
 msgstr "表側のページ毎に表示するアイテムは入力必須です。"
 
-#: 'items_per_page_admin'->'between'
-msgid ""
-"The items per page (Admin) field does not appear to contain a valid value."
+#: settings.items_per_page_admin.between
+msgctxt "settings.items_per_page_admin.between"
+msgid "The items per page (Admin) field does not appear to contain a valid value."
 msgstr "管理側のページ毎に表示するアイテムのフィールドに正しい値が入っていないようです。"
 
-#: 'items_per_page_admin'->'required'
+#: settings.items_per_page_admin.required
+msgctxt "settings.items_per_page_admin.required"
 msgid "The items per page (Admin) field is required."
 msgstr "管理側のページ毎に表示するアイテムは入力必須です。"
 
-#: 'map'->'default_location'
-msgid ""
-"Setting up your map provider is a straight- forward process. Select a "
-"provider, obtain an API key from the provider's site, and enter the API key."
+#: settings.map.default_location
+msgctxt "settings.map.default_location"
+msgid "Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider\'s site, and enter the API key."
 msgstr "地図提供者の設定をするのは簡単です。提供者を選択し、APIを取得し、入力するだけです。"
 
-#: 'map'->'zoom'
+#: settings.map.zoom
+msgctxt "settings.map.zoom"
 msgid "Zoom Level"
 msgstr "ズームレベル"
 
-#: 'map_provider'->'choose'
+#: settings.map_provider.choose
+msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
 msgstr "地図提供者を選択する"
 
-#: 'map_provider'->'enter_api'
+#: settings.map_provider.enter_api
+msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
 msgstr "APIキーを入力する"
 
-#: 'map_provider'->'get_api'
+#: settings.map_provider.get_api
+msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
 msgstr "APIキーを取得する"
 
-#: 'map_provider'->'info'
-msgid ""
-"Setting up your map provider is a straight-forward process. Select a "
-"provider, obtain an API key from the provider's site, and enter the API key."
+#: settings.map_provider.info
+msgctxt "settings.map_provider.info"
+msgid "Setting up your map provider is a straight-forward process. Select a provider, obtain an API key from the provider\'s site, and enter the API key."
 msgstr "地図提供者の設定をするのは簡単です。提供者を選択し、APIを取得し、入力するだけです。"
 
-#: 'map_provider'->'name'
+#: settings.map_provider.name
+msgctxt "settings.map_provider.name"
 msgid "Map provider"
 msgstr "地図提供者"
 
-#: 'map_provider'->'map_settings'
+#: settings.map_timeline
+msgctxt "settings.map_timeline"
+msgid "Map Timeline"
+msgstr ""
+
+#: settings.map_settings
+msgctxt "settings.map_settings"
 msgid "Map Settings"
 msgstr "地図設定"
 
-#: 'map_provider'->'multiple_countries'
+#: settings.multiple_countries
+msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
 msgstr "このUshahidiは、複数の国にまたがっていますか"
 
-#: 'map_provider'->'select_default_location'
+#: settings.select_default_location
+msgctxt "settings.select_default_location"
 msgid "Please select a default country"
 msgstr "デフォルトの国を選択してください。"
 
-#: 'map_provider'->'set_location'
+#: settings.set_location
+msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
 msgstr "地図をクリック＆ドラッグして、正しい位置を選択してください。"
 
-#: 'site'->'allow_clustering'
+#: settings.site.allow_clustering
+msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
 msgstr "地図上のレポートをひとまとめにする"
 
-#: 'site'->'allow_comments'
+#: settings.site.allow_comments
+msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
 msgstr "レポートへのコメント投稿を許可"
 
-#: 'site'->'allow_feed'
+#: settings.site.allow_feed
+msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "ウェブサイトのRSSニュースフィードを含める"
 
-#: 'site'->'allow_alerts'
+#: settings.site.allow_alerts
+msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
 msgstr ""
 
-#: 'site'->'allow_reports'
+#: settings.site.allow_reports
+msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
 msgstr "レポート投稿を許可"
 
-#: 'site'->'api_akismet'
+#: settings.site.api_akismet
+msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
 msgstr "Akismetキー"
 
-#: 'site'->'banner'
+#: settings.site.banner
+msgctxt "settings.site.banner"
 msgid "Site Banner"
 msgstr ""
 
-#: 'site'->'blocks_per_row'
+#: settings.site.blocks_per_row
+msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
 msgstr ""
 
-#: 'site'->'cache_pages'
+#: settings.site.cache_pages
+msgctxt "settings.site.cache_pages"
 msgid "Cache Pages"
 msgstr "キャッシュページ"
 
-#: 'site'->'cache_pages_lifetime'
+#: settings.site.cache_pages_lifetime
+msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
 msgstr "キャッシュページの有効期間"
 
-#: 'site'->'checkins'
+#: settings.site.checkins
+msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
 msgstr "チェックイン"
 
-#: 'site'->'copyright_statement'
+#: settings.site.copyright_statement
+msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
 msgstr "サイトの利用ライセンス"
 
-#: 'site'->'default_category_colors'
+#: settings.site.default_category_colors
+msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
 msgstr "すべてのカテゴリーのデフォルトの色"
 
-#: 'site'->'default_category_icons'
+#: settings.site.default_category_icons
+msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
 msgstr ""
 
-#: 'site'->'delete_banner_image'
+#: settings.site.delete_banner_image
+msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
 msgstr ""
 
-#: 'site'->'delete_default_map_all_icon'
+#: settings.site.delete_default_map_all_icon
+msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
 msgstr ""
 
-#: 'site'->'display_contact_page'
+#: settings.site.display_contact_page
+msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
 msgstr "コンタクトページを表示する"
 
-#: 'site'->'display_howtohelp_page'
+#: settings.site.display_howtohelp_page
+msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
 msgstr "\"手助けする\"ページを表示する"
 
-#: 'site'->'email_alerts'
+#: settings.site.email_alerts
+msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
 msgstr "メールアドレスに通告する"
 
-#: 'site'->'email_notice'
-msgid ""
-"<span>In order to receive reports by email, please configure your email "
-"account settings.</span>"
+#: settings.site.email_notice
+msgctxt "settings.site.email_notice"
+msgid "<span>In order to receive reports by email, please configure your email account settings.</span>"
 msgstr "<span>メールでレポートを受け取る場合は、メールアカウント設定をしてください。</span>"
 
-#: 'site'->'email_site'
+#: settings.site.email_site
+msgctxt "settings.site.email_site"
 msgid "Site Email Address"
 msgstr "サイトのメールアドレス"
 
-#: 'site'->'google_analytics'
+#: settings.site.google_analytics
+msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
 msgstr "Google Analytics"
 
-#: 'site'->'google_analytics_example'
+#: settings.site.google_analytics_example
+msgctxt "settings.site.google_analytics_example"
 msgid "Web Property ID - Format: UA-XXXXX-XX"
 msgstr "ウェブプロパティID - フォマット: UA-XXXXX-XX"
 
-#: 'site'->'items_per_page'
+#: settings.site.items_per_page
+msgctxt "settings.site.items_per_page"
 msgid "Items Per Page - Front End"
 msgstr "ページ毎のアイテム - 表側"
 
-#: 'site'->'items_per_page_admin'
+#: settings.site.items_per_page_admin
+msgctxt "settings.site.items_per_page_admin"
 msgid "Items Per Page - Admin"
 msgstr "ページ毎のアイテム - 裏側"
 
-#: 'site'->'kismet_notice'
-msgid ""
-"Prevent comment spam using <a href=\"http://akismet.com/\" "
-"target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
-"key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
-"target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
-"自動で<a href=\"http://akismet.com/\" "
-"target=\"_blank\">Akismet</a>を使ってスパムコメントを防いでください。<BR /><a "
-"href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com "
-"ユーザーアカウント</a>に無償登録するとフリーのAPIキーを取得する事が出来ます。"
+#: settings.site.kismet_notice
+msgctxt "settings.site.kismet_notice"
+msgid "Prevent comment spam using <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com user account</a>"
+msgstr "自動で<a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a>を使ってスパムコメントを防いでください。<BR /><a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com ユーザーアカウント</a>に無償登録するとフリーのAPIキーを取得する事が出来ます。"
 
-#: 'site'->'laconica_configuration'
+#: settings.site.laconica_configuration
+msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
 msgstr "Laconica証明書"
 
-#: 'site'->'laconica_site'
+#: settings.site.laconica_site
+msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
 msgstr "Laconica サイト"
 
-#: 'site'->'language'
+#: settings.site.language
+msgctxt "settings.site.language"
 msgid "Site Language"
 msgstr "サイト言語"
 
-#: 'site'->'manually_approve_users'
+#: settings.site.manually_approve_users
+msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
 msgstr ""
 
-#: 'site'->'message'
+#: settings.site.message
+msgctxt "settings.site.message"
 msgid "Site Message"
 msgstr "サイトメッセージ"
 
-#: 'site'->'name'
+#: settings.site.name
+msgctxt "settings.site.name"
 msgid "Site Name"
 msgstr "サイト名"
 
-#: 'site'->'private_deployment'
+#: settings.site.private_deployment
+msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
 msgstr "プライベートサイト"
 
-#: 'site'->'require_email_confirmation'
+#: settings.site.require_email_confirmation
+msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
 msgstr ""
 
-#: 'site'->'submit_report_message'
+#: settings.site.submit_report_message
+msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
 msgstr ""
 
-#: 'site'->'share_site_stats'
-msgid "Enable Statistics (Stored on Ushahidi's server)"
+#: settings.site.share_site_stats
+msgctxt "settings.site.share_site_stats"
+msgid "Enable Statistics (Stored on Ushahidi\'s server)"
 msgstr "統計を有効にする（Ushahidiサーバに蓄積されます）"
 
-#: 'site'->'tagline'
+#: settings.site.tagline
+msgctxt "settings.site.tagline"
 msgid "Site Tagline"
 msgstr "サイトのタグライン"
 
-#: 'site'->'timezone'
+#: settings.site.timezone
+msgctxt "settings.site.timezone"
 msgid "Timezone"
 msgstr "タイムゾーン"
 
-#: 'site'->'title'
+#: settings.site.title
+msgctxt "settings.site.title"
 msgid "Site Settings"
 msgstr "サイト設定"
 
-#: 'site'->'twitter_configuration'
+#: settings.site.twitter_configuration
+msgctxt "settings.site.twitter_configuration"
 msgid "Twitter Search Terms"
 msgstr "ツイッター収集タグ"
 
-#: 'site'->'twitter_hashtags'
+#: settings.site.twitter_hashtags
+msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
 msgstr "ハッシュタグ - カンマ区切りにしてください"
 
-#: 'site_email'->'email'
+#: settings.site_email.email
+msgctxt "settings.site_email.email"
 msgid "The site email field does not appear to contain a valid email address."
 msgstr "サイトのメールアドレスフィールドには正しい値が入っていないようです。"
 
-#: 'site_email'->'length'
-msgid ""
-"The site email field must be at least 4 and no more 100 characters long."
+#: settings.site_email.length
+msgctxt "settings.site_email.length"
+msgid "The site email field must be at least 4 and no more 100 characters long."
 msgstr "サイトのメールアドレスは最低4文字以上、最低100文字以下でなければいけません。"
 
-#: 'site_name'->'length'
+#: settings.site_name.length
+msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
 msgstr "サイト名は最低3文字、最大50文字以下でなければいけません。"
 
-#: 'site_name'->'required'
+#: settings.site_name.required
+msgctxt "settings.site_name.required"
 msgid "The site name field is required."
 msgstr "サイト名は入力必須です。"
 
-#: 'site_tagline'->'length'
+#: settings.site_tagline.length
+msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
 msgstr "タグラインは最低3文字以上、最大100文字以下でなければいけません。"
 
-#: 'site_tagline'->'required'
+#: settings.site_tagline.required
+msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
 msgstr "タグラインは入力必須です。"
 
-#: 'sms'->'clickatell_api'
+#: settings.sms.clickatell_api
+msgctxt "settings.sms.clickatell_api"
 msgid "Your Clickatell API Number"
 msgstr "ClickatellのAPI番号です"
 
-#: 'sms'->'clickatell_check_balance'
+#: settings.sms.clickatell_check_balance
+msgctxt "settings.sms.clickatell_check_balance"
 msgid "Check Your Clickatell Credit Balance"
 msgstr "Clickatellのクレジットバランスを確認する"
 
-#: 'sms'->'clickatell_load_balance'
+#: settings.sms.clickatell_load_balance
+msgctxt "settings.sms.clickatell_load_balance"
 msgid "Load Credit Balance"
 msgstr "クレジットバランスを取り込む"
 
-#: 'sms'->'clickatell_password'
+#: settings.sms.clickatell_password
+msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
 msgstr "Clickatellパスワード"
 
-#: 'sms'->'clickatell_text_1'
-msgid ""
-"Sign up for Clickatells service by <a "
-"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
-"target=\"_blank\">clicking here</a>"
-msgstr ""
-"<a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
-"target=\"_blank\">ここをクリックして</a>Clickatellサーバに登録する"
+#: settings.sms.clickatell_text_1
+msgctxt "settings.sms.clickatell_text_1"
+msgid "Sign up for Clickatells service by <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicking here</a>"
+msgstr "<a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">ここをクリックして</a>Clickatellサーバに登録する"
 
-#: 'sms'->'clickatell_text_2'
+#: settings.sms.clickatell_text_2
+msgctxt "settings.sms.clickatell_text_2"
 msgid "Enter your Clickatell access information below"
 msgstr "以下にClickatellのアクセス情報を入力する"
 
-#: 'sms'->'clickatell_username'
+#: settings.sms.clickatell_username
+msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
 msgstr "Clickatellユーザー名"
 
-#: 'sms'->'flsms_description'
-msgid ""
-"FrontlineSMS is free open source software that turns a laptop and a mobile "
-"phone into a central communications hub. Once installed, the program enables "
-"users to send and receive text messages with large groups of people through "
-"mobile phones. Click on the grey box to request a download from "
-"FrontlineSMS.com"
-msgstr ""
-"FrontlineSMSはノートブック、携帯をコミュニケーションの中央ハブにする事が出来るオープンソースソフトウェアです。一度インストールすれば、プログ"
-"ラムがテキストメッセージを携帯から送受信する事が出来ます。灰色の色をクリックしてFrontlineSMS.comからダウンロードリクエストをしてください"
-"。"
+#: settings.sms.flsms_description
+msgctxt "settings.sms.flsms_description"
+msgid "FrontlineSMS is free open source software that turns a laptop and a mobile phone into a central communications hub. Once installed, the program enables users to send and receive text messages with large groups of people through mobile phones. Click on the grey box to request a download from FrontlineSMS.com"
+msgstr "FrontlineSMSはノートブック、携帯をコミュニケーションの中央ハブにする事が出来るオープンソースソフトウェアです。一度インストールすれば、プログラムがテキストメッセージを携帯から送受信する事が出来ます。灰色の色をクリックしてFrontlineSMS.comからダウンロードリクエストをしてください。"
 
-#: 'sms'->'flsms_download'
+#: settings.sms.flsms_download
+msgctxt "settings.sms.flsms_download"
 msgid "Download Frontline SMS and install it on your computer"
 msgstr "FrontlineSMSをダウンロードして、コンピューターにインストールしてください。"
 
-#: 'sms'->'flsms_instructions'
-msgid ""
-"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a "
-"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
-"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will "
-"require the key and link below to set up the sync with FrontlineSMS"
-msgstr ""
-"FrontlineSMSを使ってメッセージ受信する事でUshahidiと同期を取る事が出来ます。<strong><a href=\"http://wiki"
-".ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlin"
-"esms_to_sync_with_ushahidi\" target=\"_blank\">こちら</a></strong>に設定方法が記載されています。F"
-"rontlineSMSと同期を取る為の設定とキー取得方法が記載されています。"
+#: settings.sms.flsms_instructions
+msgctxt "settings.sms.flsms_instructions"
+msgid "Messages received into a FrontlineSMS hub can be synched with Ushahidi. Detailed instructions on how to sync can be found <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will require the key and link below to set up the sync with FrontlineSMS"
+msgstr "FrontlineSMSを使ってメッセージ受信する事でUshahidiと同期を取る事が出来ます。<strong><a href=\"http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi\" target=\"_blank\">こちら</a></strong>に設定方法が記載されています。FrontlineSMSと同期を取る為の設定とキー取得方法が記載されています。"
 
-#: 'sms'->'flsms_key'
+#: settings.sms.flsms_key
+msgctxt "settings.sms.flsms_key"
 msgid "Your Ushahidi Sync Key"
 msgstr "Ushahidi同期キー"
 
-#: 'sms'->'flsms_link'
+#: settings.sms.flsms_link
+msgctxt "settings.sms.flsms_link"
 msgid "FrontlineSMS HTTP Post LINK"
 msgstr "FrontlineSMS HTTP投稿リンク"
 
-#: 'sms'->'flsms_synchronize'
+#: settings.sms.flsms_synchronize
+msgctxt "settings.sms.flsms_synchronize"
 msgid "Sync with Ushahidi"
 msgstr "Ushahidiと同期する"
 
-#: 'sms'->'flsms_text_1'
+#: settings.sms.flsms_text_1
+msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
 msgstr "以下のフィールドにSMSにつながる電話番号を入力してください。"
 
-#: 'sms'->'flsms_text_2'
+#: settings.sms.flsms_text_2
+msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
 msgstr "+や-を入れないで番号を入力してください。"
 
-#: 'sms'->'option_1'
+#: settings.sms.option_1
+msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
 msgstr "オプション1: SMSを使う"
 
-#: 'sms'->'option_2'
+#: settings.sms.option_2
+msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
 msgstr "オプション2 : グローバルなSMSのゲートウェイを使う"
 
-#: 'sms'->'title'
+#: settings.sms.title
+msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
 msgstr "SMS設定オプション"
 
-#: 'sms_no1'->'length'
+#: settings.sms_no1.length
+msgctxt "settings.sms_no1.length"
 msgid "The phone 1 field does not appear to contain a valid value."
 msgstr "電話番号のフィールド１が正しい値が入力されてないようです。"
 
-#: 'sms_no1'->'numeric'
+#: settings.sms_no1.numeric
+msgctxt "settings.sms_no1.numeric"
 msgid "The phone 1 field should contain numbers only."
 msgstr "電話番号フィールド１は番号のみ入力可です。"
 
-#: 'sms_no2'->'length'
+#: settings.sms_no2.length
+msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
 msgstr "電話番号フィールド２の値は長過ぎます。"
 
-#: 'sms_no2'->'numeric'
+#: settings.sms_no2.numeric
+msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
 msgstr "電話番号フィールド2は番号のみ入力可です。"
 
-#: 'sms_no3'->'length'
+#: settings.sms_no3.length
+msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
 msgstr "電話番号フィールド3の値は長過ぎます。"
 
-#: 'sms_no3'->'numeric'
+#: settings.sms_no3.numeric
+msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
 msgstr "電話番号フィールド3は番号のみ入力可です。"
+

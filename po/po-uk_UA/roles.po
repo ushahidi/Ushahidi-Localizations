@@ -3,46 +3,56 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: uk_UA\n"
 
-#: 'description'->'length'
-msgid ""
-"The Description field must be at least 3 and no more 100 characters long."
+#: roles.description.length
+msgctxt "roles.description.length"
+msgid "The Description field must be at least 3 and no more 100 characters long."
 msgstr "Поле опису має мати довжину не менше 3х и не більше 100 символів."
 
-#: 'description'->'required'
+#: roles.description.required
+msgctxt "roles.description.required"
 msgid "The Description field is required."
 msgstr "Поле опису має бути заповнене."
 
-#: 'name'->'alpha_numeric'
+#: roles.name.alpha_numeric
+msgctxt "roles.name.alpha_numeric"
 msgid "The Name field must only contain letters or numbers."
 msgstr "Поле імені може містити лише літери та цифри."
 
-#: 'name'->'length'
+#: roles.name.length
+msgctxt "roles.name.length"
 msgid "The Name field must be at least 2 and no more than 30 characters long."
 msgstr "Поле імені має мати довжину не менше 2х и не більше 30 символів."
 
-#: 'name'->'nomodify'
+#: roles.name.nomodify
+msgctxt "roles.name.nomodify"
 msgid "SuperAdmin Role Cannot Be Modified."
 msgstr "Роль SuperAdmin не може бути змінена."
 
-#: 'name'->'required'
+#: roles.name.required
+msgctxt "roles.name.required"
 msgid "The Name field is required."
 msgstr "Поле імені має бути заповнене."
 
-#: 'access_level'->'numeric'
-msgctxt "'access_level'->'numeric'"
+#: roles.access_level.numeric
+msgctxt "roles.access_level.numeric"
 msgid "Access Level field must be a number between 0 - 100."
 msgstr ""
 
-#: 'access_level'->'required'
-msgctxt "'access_level'->'required'"
+#: roles.access_level.required
+msgctxt "roles.access_level.required"
 msgid "Access Level field must be a number between 0 - 100."
 msgstr ""
+
+#: roles.permissions.numeric
+msgctxt "roles.permissions.numeric"
+msgid "Permissions field must be a number between 0 - 100."
+msgstr ""
+

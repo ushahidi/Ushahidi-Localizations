@@ -3,158 +3,181 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:42+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: ga_IE\n"
 
-#: $lang->'approved'
+#: stats.approved
+msgctxt "stats.approved"
 msgid "Approved"
 msgstr ""
 
-#: $lang->'categories'
+#: stats.categories
+msgctxt "stats.categories"
 msgid "Categories"
 msgstr ""
 
-#: $lang->'category_impact'
+#: stats.category_impact
+msgctxt "stats.category_impact"
 msgid "Category Impact"
 msgstr ""
 
-#: $lang->'category_impact_description'
-msgid ""
-"This chart gives you a linear view of the reports by category over time.  "
-"Scroll from left to right to see a comparative view of the different "
-"categories. Mouse over the graph for more details."
+#: stats.category_impact_description
+msgctxt "stats.category_impact_description"
+msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
 msgstr ""
 
-#: $lang->'choose_date_range'
+#: stats.choose_date_range
+msgctxt "stats.choose_date_range"
 msgid "Choose a date range."
 msgstr ""
 
-#: $lang->'countries'
+#: stats.countries
+msgctxt "stats.countries"
 msgid "Countries"
 msgstr ""
 
-#: $lang->'country'
+#: stats.country
+msgctxt "stats.country"
 msgid "Country"
 msgstr ""
 
-#: $lang->'country_breakdown'
+#: stats.country_breakdown
+msgctxt "stats.country_breakdown"
 msgid "Country Breakdown"
 msgstr ""
 
-#: $lang->'description'
-msgid ""
-"This is the statistics section and will contain a general description here "
-"soon. For now, browse around using the sub category links above."
+#: stats.description
+msgctxt "stats.description"
+msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
 msgstr ""
 
-#: $lang->'error'
+#: stats.error
+msgctxt "stats.error"
 msgid "Error"
 msgstr ""
 
-#: $lang->'glossary'
+#: stats.glossary
+msgctxt "stats.glossary"
 msgid "Glossary"
 msgstr ""
 
-#: $lang->'hit_summary'
+#: stats.hit_summary
+msgctxt "stats.hit_summary"
 msgid "Hit Summary"
 msgstr ""
 
-#: $lang->'legend'
+#: stats.legend
+msgctxt "stats.legend"
 msgid "Legend"
 msgstr ""
 
-#: $lang->'pageviews'
+#: stats.pageviews
+msgctxt "stats.pageviews"
 msgid "Pageviews"
 msgstr ""
 
-#: $lang->'pageviews_description'
+#: stats.pageviews_description
+msgctxt "stats.pageviews_description"
 msgid "The total number of pages that visitors have viewed on your site"
 msgstr ""
 
-#: $lang->'reports'
+#: stats.reports
+msgctxt "stats.reports"
 msgid "Reports"
 msgstr ""
 
-#: $lang->'reports_categories'
+#: stats.reports_categories
+msgctxt "stats.reports_categories"
 msgid "Reports Categories"
 msgstr ""
 
-#: $lang->'reports_statistics'
+#: stats.reports_statistics
+msgctxt "stats.reports_statistics"
 msgid "Reports Statistics"
 msgstr ""
 
-#: $lang->'reports_status'
+#: stats.reports_status
+msgctxt "stats.reports_status"
 msgid "Reports Status"
 msgstr ""
 
-#: $lang->'report_punchcard'
+#: stats.report_punchcard
+msgctxt "stats.report_punchcard"
 msgid "Report Punchcard"
 msgstr ""
 
-#: $lang->'report_stats'
+#: stats.report_stats
+msgctxt "stats.report_stats"
 msgid "Report Stats"
 msgstr ""
 
-#: $lang->'stats_not_setup'
+#: stats.stats_not_setup
+msgctxt "stats.stats_not_setup"
 msgid "Stats Not Set Up"
 msgstr ""
 
-#: $lang->'time_range_1'
+#: stats.time_range_1
+msgctxt "stats.time_range_1"
 msgid "1 Month"
 msgstr ""
 
-#: $lang->'time_range_2'
+#: stats.time_range_2
+msgctxt "stats.time_range_2"
 msgid "3 Months"
 msgstr ""
 
-#: $lang->'time_range_3'
+#: stats.time_range_3
+msgctxt "stats.time_range_3"
 msgid "6 Months"
 msgstr ""
 
-#: $lang->'time_range_all'
+#: stats.time_range_all
+msgctxt "stats.time_range_all"
 msgid "All"
 msgstr ""
 
-#: $lang->'unapproved'
+#: stats.unapproved
+msgctxt "stats.unapproved"
 msgid "Unapproved"
 msgstr ""
 
-#: $lang->'unique_visitors'
+#: stats.unique_visitors
+msgctxt "stats.unique_visitors"
 msgid "Unique Visitors"
 msgstr ""
 
-#: $lang->'unique_visitors_description'
-msgid ""
-"The number of individuals coming to your deployment. Unique visitors are "
-"determined using cookies. Visitors that do not have cookies enabled will be "
-"identified using a simple heuristic taking into account IP address, "
-"resolution, browser, plugins, OS, etc."
+#: stats.unique_visitors_description
+msgctxt "stats.unique_visitors_description"
+msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
 msgstr ""
 
-#: $lang->'unverified'
+#: stats.unverified
+msgctxt "stats.unverified"
 msgid "Unverified"
 msgstr ""
 
-#: $lang->'verified'
+#: stats.verified
+msgctxt "stats.verified"
 msgid "Verified"
 msgstr ""
 
-#: $lang->'visitor_summary'
+#: stats.visitor_summary
+msgctxt "stats.visitor_summary"
 msgid "Visitor Summary"
 msgstr ""
 
-#: $lang->'visits'
+#: stats.visits
+msgctxt "stats.visits"
 msgid "Visits"
 msgstr ""
 
-#: $lang->'visits_description'
-msgid ""
-"A visit is a record of a unique visitor coming to the site more than 30 "
-"minutes past his/her last pageview."
+#: stats.visits_description
+msgctxt "stats.visits_description"
+msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
 msgstr ""
+

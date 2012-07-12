@@ -3,1278 +3,1511 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:42+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: bg_BG\n"
 
-#: $lang->'access_denied_credentials'
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+#: ui_admin.access_denied_credentials
+msgctxt "ui_admin.access_denied_credentials"
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "Достъпът е отказан. Или нямате права, или заявката ви е била отказана"
 
-#: $lang->'access_denied_others'
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
-msgstr ""
-"Достъпът е отказан. Заявката е разпозната, но отказана поради различни "
-"лимити като време. Моля опитайте по-късно."
+#: ui_admin.access_denied_others
+msgctxt "ui_admin.access_denied_others"
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
+msgstr "Достъпът е отказан. Заявката е разпозната, но отказана поради различни лимити като време. Моля опитайте по-късно."
 
-#: $lang->'access_level'
+#: ui_admin.access_level
+msgctxt "ui_admin.access_level"
 msgid "Access Level"
 msgstr ""
 
-#: $lang->'actions'
-msgctxt "$lang->'actions'"
+#: ui_admin.actions
+msgctxt "ui_admin.actions"
 msgid "Actions"
 msgstr "Действия"
 
-#: $lang->'add_to_category'
+#: ui_admin.add_to_category
+msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
 msgstr ""
 
-#: $lang->'added'
+#: ui_admin.added
+msgctxt "ui_admin.added"
 msgid "added"
 msgstr "добавен"
 
-#: $lang->'added_edited'
+#: ui_admin.added_edited
+msgctxt "ui_admin.added_edited"
 msgid "added/edited"
 msgstr "добавен/променен"
 
-#: $lang->'addons'
+#: ui_admin.addons
+msgctxt "ui_admin.addons"
 msgid "Addons"
 msgstr "Добавки"
 
-#: $lang->'admin_role'
+#: ui_admin.admin_role
+msgctxt "ui_admin.admin_role"
 msgid "Admin"
 msgstr "Администрация"
 
-#: $lang->'alerts'
+#: ui_admin.alerts
+msgctxt "ui_admin.alerts"
 msgid "Alerts"
 msgstr ""
 
-#: $lang->'alerts_received'
+#: ui_admin.alerts_received
+msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
 msgstr ""
 
-#: $lang->'am'
+#: ui_admin.am
+msgctxt "ui_admin.am"
 msgid "AM"
 msgstr "сутрин"
 
-#: $lang->'anonymous'
+#: ui_admin.anonymous
+msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
 msgstr "Анонимен"
 
-#: $lang->'anyone_role'
+#: ui_admin.anyone_role
+msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
 msgstr ""
 
-#: $lang->'anywhere'
+#: ui_admin.anywhere
+msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
 msgstr ""
 
-#: $lang->'api_banned'
+#: ui_admin.api_banned
+msgctxt "ui_admin.api_banned"
 msgid "API Banned"
 msgstr "API Забранено"
 
-#: $lang->'api_logs'
+#: ui_admin.api_logs
+msgctxt "ui_admin.api_logs"
 msgid "API Logs"
 msgstr "API История"
 
-#: $lang->'api_settings'
+#: ui_admin.api_settings
+msgctxt "ui_admin.api_settings"
 msgid "API Settings"
 msgstr "API Настройки"
 
-#: $lang->'api_unban'
+#: ui_admin.api_unban
+msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
 msgstr "Позволи"
 
-#: $lang->'api_unban_all'
+#: ui_admin.api_unban_all
+msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
 msgstr "Позволи Всички"
 
-#: $lang->'approved'
+#: ui_admin.approved
+msgctxt "ui_admin.approved"
 msgid "approved"
 msgstr "одобрен"
 
-#: $lang->'approve_auto'
+#: ui_admin.approve_auto
+msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
 msgstr "Автоматично одобряване"
 
-#: $lang->'approve_manual'
+#: ui_admin.approve_manual
+msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
 msgstr "Одобри на ръка"
 
-#: $lang->'archived'
+#: ui_admin.archived
+msgctxt "ui_admin.archived"
 msgid "Archived"
 msgstr "Архивирано"
 
-#: $lang->'are_you_sure_you_want_to'
+#: ui_admin.are_you_sure_you_want_to
+msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
 msgstr ""
 
-#: $lang->'are_you_sure_you_want_to_delete_this_item'
+#: ui_admin.are_you_sure_you_want_to_delete_this_item
+msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
 msgstr ""
 
-#: $lang->'are_you_sure_you_want_to_delete_this_photo'
+#: ui_admin.are_you_sure_you_want_to_delete_this_photo
+msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
 msgstr ""
 
-#: $lang->'are_you_sure_you_want_to_switch_forms'
+#: ui_admin.are_you_sure_you_want_to_switch_forms
+msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
 msgstr ""
 
-#: $lang->'assign'
+#: ui_admin.assign
+msgctxt "ui_admin.assign"
 msgid "Assign"
 msgstr ""
 
-#: $lang->'assignments'
+#: ui_admin.assignments
+msgctxt "ui_admin.assignments"
 msgid "Assignments"
 msgstr ""
 
-#: $lang->'assign_badge'
+#: ui_admin.assign_badge
+msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
 msgstr ""
 
-#: $lang->'author'
+#: ui_admin.author
+msgctxt "ui_admin.author"
 msgid "Author"
 msgstr "Автор"
 
-#: $lang->'author_email'
+#: ui_admin.author_email
+msgctxt "ui_admin.author_email"
 msgid "Author email"
 msgstr "Email на автора"
 
-#: $lang->'back'
+#: ui_admin.back
+msgctxt "ui_admin.back"
 msgid "Back"
 msgstr "Зазад"
 
-#: $lang->'banip_action'
+#: ui_admin.banip_action
+msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
 msgstr "Забрани IP"
 
-#: $lang->'between_times'
+#: ui_admin.between_times
+msgctxt "ui_admin.between_times"
 msgid "Between Times"
 msgstr ""
 
-#: $lang->'blocks'
+#: ui_admin.blocks
+msgctxt "ui_admin.blocks"
 msgid "Blocks"
 msgstr ""
 
-#: $lang->'body'
+#: ui_admin.body
+msgctxt "ui_admin.body"
 msgid "Body"
 msgstr ""
 
-#: $lang->'cancel'
+#: ui_admin.cancel
+msgctxt "ui_admin.cancel"
 msgid "Cancel"
 msgstr "Отказ"
 
-#: $lang->'categories'
+#: ui_admin.categories
+msgctxt "ui_admin.categories"
 msgid "Categories"
 msgstr "Категории"
 
-#: $lang->'chart_display_error'
+#: ui_admin.chart_display_error
+msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
 msgstr "Грешка при показването на графика"
 
-#: $lang->'check_message_valid'
+#: ui_admin.check_message_valid
+msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
 msgstr "Моля проверете дали съобщението е валидно"
 
-#: $lang->'check_number'
+#: ui_admin.check_number
+msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
 msgstr "Моля проверете дали цифрата е валидна"
 
-#: $lang->'check_sms_settings'
+#: ui_admin.check_sms_settings
+msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
 msgstr "Моля проверете настройките за SMS!"
 
-#: $lang->'checkin_details'
+#: ui_admin.checkin_details
+msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
 msgstr ""
 
-#: $lang->'checkins'
+#: ui_admin.checkins
+msgctxt "ui_admin.checkins"
 msgid "Checkins"
 msgstr ""
 
-#: $lang->'cities_loaded'
+#: ui_admin.cities_loaded
+msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
 msgstr "Градовете са заредени"
 
-#: $lang->'code'
+#: ui_admin.code
+msgctxt "ui_admin.code"
 msgid "code"
 msgstr "код"
 
-#: $lang->'code_out_of_sync'
+#: ui_admin.code_out_of_sync
+msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
 msgstr "Версията на кода не е синхронизирана."
 
-#: $lang->'color'
+#: ui_admin.color
+msgctxt "ui_admin.color"
 msgid "Color"
 msgstr ""
 
-#: $lang->'comments'
+#: ui_admin.comments
+msgctxt "ui_admin.comments"
 msgid "Comments"
 msgstr "коментари"
 
-#: $lang->'confirmation_code'
+#: ui_admin.confirmation_code
+msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
 msgstr "Кода за активиране на уведомленията е: "
 
-#: $lang->'confirm_msg'
+#: ui_admin.confirm_msg
+msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
 msgstr "Вашият потребител е бил"
 
-#: $lang->'count'
+#: ui_admin.count
+msgctxt "ui_admin.count"
 msgid "Count"
 msgstr ""
 
-#: $lang->'country_not_found'
+#: ui_admin.country_not_found
+msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
 msgstr "Държавата не е намерена"
 
-#: $lang->'created_edited'
+#: ui_admin.created_edited
+msgctxt "ui_admin.created_edited"
 msgid "created/edited"
 msgstr "създаден/променен"
 
-#: $lang->'create_report'
+#: ui_admin.create_report
+msgctxt "ui_admin.create_report"
 msgid "Create a Report"
 msgstr "Създай сигнал"
 
-#: $lang->'critical_upgrade'
+#: ui_admin.critical_upgrade
+msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
 msgstr "Критично подновяване"
 
-#: $lang->'csv'
+#: ui_admin.csv
+msgctxt "ui_admin.csv"
 msgid "CSV"
 msgstr ""
 
-#: $lang->'currently_active'
+#: ui_admin.currently_active
+msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
 msgstr ""
 
-#: $lang->'currently_inactive'
+#: ui_admin.currently_inactive
+msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
 msgstr ""
 
-#: $lang->'custom_forms_insufficient_permissions'
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+#: ui_admin.custom_forms_insufficient_permissions
+msgctxt "ui_admin.custom_forms_insufficient_permissions"
+msgid "You don\'t have sufficient permissions to edit the following custom fields."
 msgstr ""
 
-#: $lang->'daily'
+#: ui_admin.daily
+msgctxt "ui_admin.daily"
 msgid "Daily"
 msgstr "Дневно"
 
-#: $lang->'dashboard'
+#: ui_admin.dashboard
+msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
 msgstr "Плот"
 
-#: $lang->'database'
+#: ui_admin.database
+msgctxt "ui_admin.database"
 msgid "database"
 msgstr "база данни"
 
-#: $lang->'date_time'
+#: ui_admin.date_time
+msgctxt "ui_admin.date_time"
 msgid "Date & Time"
 msgstr "Дата и час"
 
-#: $lang->'days_of_the_week'
+#: ui_admin.days_of_the_week
+msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
 msgstr ""
 
-#: $lang->'db_out_of_sync'
+#: ui_admin.db_out_of_sync
+msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
 msgstr "Версията на базата данни не е в синхрон."
 
-#: $lang->'deleted'
+#: ui_admin.deleted
+msgctxt "ui_admin.deleted"
 msgid "deleted"
 msgstr "изтрит"
 
-#: $lang->'delete_action'
+#: ui_admin.delete_action
+msgctxt "ui_admin.delete_action"
 msgid "Delete"
 msgstr "Изтрий"
 
-#: $lang->'delete_all'
+#: ui_admin.delete_all
+msgctxt "ui_admin.delete_all"
 msgid "Delete All"
 msgstr "Изтрий всички"
 
-#: $lang->'delete_badge'
+#: ui_admin.delete_badge
+msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
 msgstr ""
 
-#: $lang->'demo'
+#: ui_admin.demo
+msgctxt "ui_admin.demo"
 msgid "Demo"
 msgstr "Проба"
 
-#: $lang->'description'
+#: ui_admin.description
+msgctxt "ui_admin.description"
 msgid "Description"
 msgstr "Описание"
 
-#: $lang->'disabled'
+#: ui_admin.disabled
+msgctxt "ui_admin.disabled"
 msgid "Disabled"
 msgstr ""
 
-#: $lang->'divider_start_field'
+#: ui_admin.divider_start_field
+msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
 msgstr ""
 
-#: $lang->'divider_end_field'
+#: ui_admin.divider_end_field
+msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
 msgstr ""
 
-#: $lang->'divider_class'
+#: ui_admin.divider_class
+msgctxt "ui_admin.divider_class"
 msgid "div class"
 msgstr ""
 
-#: $lang->'download_reports'
+#: ui_admin.download_reports
+msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
 msgstr "Свали сигналите"
 
-#: $lang->'dropdown_choices'
+#: ui_admin.dropdown_choices
+msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
 msgstr ""
 
-#: $lang->'edited'
+#: ui_admin.edited
+msgctxt "ui_admin.edited"
 msgid "EDITED"
 msgstr ""
 
-#: $lang->'edited_by'
+#: ui_admin.edited_by
+msgctxt "ui_admin.edited_by"
 msgid "Edited By"
 msgstr "Променено от"
 
-#: $lang->'edit_action'
+#: ui_admin.edit_action
+msgctxt "ui_admin.edit_action"
 msgid "Edit"
 msgstr "Промени"
 
-#: $lang->'edit_log'
+#: ui_admin.edit_log
+msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
 msgstr "Промени историята"
 
-#: $lang->'email'
-msgctxt "$lang->'email'"
+#: ui_admin.email
+msgctxt "ui_admin.email"
 msgid "Email"
 msgstr "Email"
 
-#: $lang->'entire_collective'
+#: ui_admin.entire_collective
+msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
 msgstr ""
 
-#: $lang->'error_geocoding'
+#: ui_admin.error_geocoding
+msgctxt "ui_admin.error_geocoding"
 msgid "Error in geocoding! HTTP error"
 msgstr "Грешка в географските координати! HTTP грешка"
 
-#: $lang->'error_imap'
+#: ui_admin.error_imap
+msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
 msgstr "Библиотеката IMAP PHP не е инсталирана"
 
-#: $lang->'error_msg'
+#: ui_admin.error_msg
+msgctxt "ui_admin.error_msg"
 msgid "Error"
 msgstr "Грешка"
 
-#: $lang->'error_post_incident'
+#: ui_admin.error_post_incident
+msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
 msgstr "Грешка, не успяхме да съобщим за инцидента"
 
-#: $lang->'every_six_hours'
+#: ui_admin.every_six_hours
+msgctxt "ui_admin.every_six_hours"
 msgid "Every Six Hours"
 msgstr "На всеки 6 часа"
 
-#: $lang->'every_twelve_hours'
+#: ui_admin.every_twelve_hours
+msgctxt "ui_admin.every_twelve_hours"
 msgid "Every Twelve Hours"
 msgstr "На всеки 12 часа"
 
-#: $lang->'experimental'
+#: ui_admin.experimental
+msgctxt "ui_admin.experimental"
 msgid "Experimental"
 msgstr ""
 
-#: $lang->'faqs'
-msgid "FAQ's"
+#: ui_admin.faqs
+msgctxt "ui_admin.faqs"
+msgid "FAQ\'s"
 msgstr "Въпроси и отговори"
 
-#: $lang->'feed'
+#: ui_admin.feed
+msgctxt "ui_admin.feed"
 msgid "feed"
 msgstr "абонамент"
 
-#: $lang->'feedback'
+#: ui_admin.feedback
+msgctxt "ui_admin.feedback"
 msgid "Feedback"
 msgstr "Обратна връзка"
 
-#: $lang->'feeds'
+#: ui_admin.feeds
+msgctxt "ui_admin.feeds"
 msgid "feeds"
 msgstr "абонаменти"
 
-#: $lang->'field_choices'
+#: ui_admin.field_choices
+msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
 msgstr ""
 
-#: $lang->'field_default'
+#: ui_admin.field_default
+msgctxt "ui_admin.field_default"
 msgid "Default Value"
 msgstr "Стройност по подразбиране"
 
-#: $lang->'field_datatype'
+#: ui_admin.field_datatype
+msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
 msgstr ""
 
-#: $lang->'field_datatype_javascript'
+#: ui_admin.field_datatype_javascript
+msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
 msgstr ""
 
-#: $lang->'field_datatype_markup'
+#: ui_admin.field_datatype_markup
+msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
 msgstr ""
 
-#: $lang->'field_datatype_numeric'
+#: ui_admin.field_datatype_numeric
+msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
 msgstr ""
 
-#: $lang->'field_datatype_text'
+#: ui_admin.field_datatype_text
+msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
 msgstr ""
 
-#: $lang->'field_height'
+#: ui_admin.field_height
+msgctxt "ui_admin.field_height"
 msgid "Height (In Rows)"
 msgstr "Височина (в редове)"
 
-#: $lang->'field_hidden'
+#: ui_admin.field_hidden
+msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
 msgstr ""
 
-#: $lang->'field_maxlength'
+#: ui_admin.field_maxlength
+msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
 msgstr "Максимална дължина в символи"
 
-#: $lang->'field_name'
+#: ui_admin.field_name
+msgctxt "ui_admin.field_name"
 msgid "Field Name"
 msgstr "Име на поле"
 
-#: $lang->'field_toggle'
+#: ui_admin.field_toggle
+msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
 msgstr ""
 
-#: $lang->'field_toggle_no'
-msgctxt "$lang->'field_toggle_no'"
+#: ui_admin.field_toggle_no
+msgctxt "ui_admin.field_toggle_no"
 msgid "No"
 msgstr ""
 
-#: $lang->'field_toggle_yes_close'
+#: ui_admin.field_toggle_yes_close
+msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
 msgstr ""
 
-#: $lang->'field_toggle_yes_open'
+#: ui_admin.field_toggle_yes_open
+msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
 msgstr ""
 
-#: $lang->'file_not_found_upload'
+#: ui_admin.file_not_found_upload
+msgctxt "ui_admin.file_not_found_upload"
 msgid "Could not find uploaded file"
 msgstr "Не успяхме да намерим качения файл"
 
-#: $lang->'file_open_error'
+#: ui_admin.file_open_error
+msgctxt "ui_admin.file_open_error"
 msgid "Could not open file for reading"
 msgstr "Не успяхме да отворим файла за четене"
 
-#: $lang->'form_not_exists'
+#: ui_admin.form_not_exists
+msgctxt "ui_admin.form_not_exists"
 msgid "That Form Does Not Exist!"
 msgstr "Този формуляр не съществува!"
 
-#: $lang->'forum'
+#: ui_admin.forum
+msgctxt "ui_admin.forum"
 msgid "Forum"
 msgstr "Форум"
 
-#: $lang->'free_text_field'
+#: ui_admin.free_text_field
+msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
 msgstr "Текстово поле (свободен текст)"
 
-#: $lang->'date_field'
+#: ui_admin.date_field
+msgctxt "ui_admin.date_field"
 msgid "Date Field"
 msgstr ""
 
-#: $lang->'radio_field'
+#: ui_admin.radio_field
+msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
 msgstr ""
 
-#: $lang->'checkbox_field'
+#: ui_admin.checkbox_field
+msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
 msgstr ""
 
-#: $lang->'dropdown_field'
+#: ui_admin.dropdown_field
+msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
 msgstr ""
 
-#: $lang->'from'
-msgctxt "$lang->'from'"
+#: ui_admin.from
+msgctxt "ui_admin.from"
 msgid "From"
 msgstr "От"
 
-#: $lang->'from_date'
-msgctxt "$lang->'from_date'"
+#: ui_admin.from_date
+msgctxt "ui_admin.from_date"
 msgid "From"
 msgstr "От"
 
-#: $lang->'geonames_timeout'
+#: ui_admin.geonames_timeout
+msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
 msgstr "Грешка в зареждането на географските имена"
 
-#: $lang->'get_help'
+#: ui_admin.get_help
+msgctxt "ui_admin.get_help"
 msgid "Get Help"
 msgstr "Намери помощ"
 
-#: $lang->'header_actions'
-msgctxt "$lang->'header_actions'"
+#: ui_admin.header_actions
+msgctxt "ui_admin.header_actions"
 msgid "Actions"
 msgstr "Действия"
 
-#: $lang->'header_add_edit'
+#: ui_admin.header_add_edit
+msgctxt "ui_admin.header_add_edit"
 msgid "Add/Edit"
 msgstr "Добави/промени"
 
-#: $lang->'header_email'
-msgctxt "$lang->'header_email'"
+#: ui_admin.header_email
+msgctxt "ui_admin.header_email"
 msgid "Email"
 msgstr "Email"
 
-#: $lang->'header_manage_users'
-msgctxt "$lang->'header_manage_users'"
+#: ui_admin.header_manage_users
+msgctxt "ui_admin.header_manage_users"
 msgid "Manage Users"
 msgstr "Настройки на потребителите"
 
-#: $lang->'header_role'
+#: ui_admin.header_role
+msgctxt "ui_admin.header_role"
 msgid "Role"
 msgstr "Роля"
 
-#: $lang->'header_user'
-msgctxt "$lang->'header_user'"
+#: ui_admin.header_user
+msgctxt "ui_admin.header_user"
 msgid "User"
 msgstr "Потребител"
 
-#: $lang->'help'
+#: ui_admin.help
+msgctxt "ui_admin.help"
 msgid "help"
 msgstr "помощ"
 
-#: $lang->'hourly'
+#: ui_admin.hourly
+msgctxt "ui_admin.hourly"
 msgid "Hourly"
 msgstr "Всеки час"
 
-#: $lang->'incident_feed'
+#: ui_admin.incident_feed
+msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr "Абонамент за инциденти на"
 
-#: $lang->'instance'
+#: ui_admin.instance
+msgctxt "ui_admin.instance"
 msgid "Instance"
 msgstr "Случай"
 
-#: $lang->'instances'
+#: ui_admin.instances
+msgctxt "ui_admin.instances"
 msgid "Instances"
 msgstr "Случаи"
 
-#: $lang->'instance_details'
+#: ui_admin.instance_details
+msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
 msgstr "Подробности за случай"
 
-#: $lang->'invalid_parameter'
+#: ui_admin.invalid_parameter
+msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
 msgstr "Невалиден параметър"
 
-#: $lang->'ip_address'
+#: ui_admin.ip_address
+msgctxt "ui_admin.ip_address"
 msgid "IP Address"
 msgstr "IP адрес"
 
-#: $lang->'is_date'
+#: ui_admin.is_date
+msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
 msgstr "Това поле за дата ли е?"
 
-#: $lang->'ispublic_visible'
+#: ui_admin.ispublic_visible
+msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
 msgstr ""
 
-#: $lang->'ispublic_submit'
+#: ui_admin.ispublic_submit
+msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
 msgstr ""
 
-#: $lang->'keyword'
+#: ui_admin.keyword
+msgctxt "ui_admin.keyword"
 msgid "Keyword"
 msgstr ""
 
-#: $lang->'keywords'
+#: ui_admin.keywords
+msgctxt "ui_admin.keywords"
 msgid "Keywords"
 msgstr ""
 
-#: $lang->'label_email'
+#: ui_admin.label_email
+msgctxt "ui_admin.label_email"
 msgid "Email Address:"
 msgstr "Email адрес:"
 
-#: $lang->'label_full_name'
+#: ui_admin.label_full_name
+msgctxt "ui_admin.label_full_name"
 msgid "Full Name:"
 msgstr "Пълно име:"
 
-#: $lang->'label_password'
+#: ui_admin.label_password
+msgctxt "ui_admin.label_password"
 msgid "Password:"
 msgstr "Парола:"
 
-#: $lang->'label_role'
+#: ui_admin.label_role
+msgctxt "ui_admin.label_role"
 msgid "Role:"
 msgstr "Роля:"
 
-#: $lang->'label_username'
+#: ui_admin.label_username
+msgctxt "ui_admin.label_username"
 msgid "Username:"
 msgstr "Потребителско име:"
 
-#: $lang->'layers'
+#: ui_admin.layers
+msgctxt "ui_admin.layers"
 msgid "Layers"
 msgstr "Слоеве"
 
-#: $lang->'login_role'
-msgctxt "$lang->'login_role'"
+#: ui_admin.login_role
+msgctxt "ui_admin.login_role"
 msgid "Moderator"
 msgstr "Модератор"
 
-#: $lang->'logout'
+#: ui_admin.logout
+msgctxt "ui_admin.logout"
 msgid "Logout"
 msgstr "Излез"
 
-#: $lang->'logs'
+#: ui_admin.logs
+msgctxt "ui_admin.logs"
 msgid "Logs"
 msgstr "История"
 
-#: $lang->'manage'
+#: ui_admin.manage
+msgctxt "ui_admin.manage"
 msgid "Manage"
 msgstr "Промени"
 
-#: $lang->'manage_roles'
+#: ui_admin.manage_roles
+msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
 msgstr "Промени ролите и правата"
 
-#: $lang->'manage_users'
+#: ui_admin.manage_users
+msgctxt "ui_admin.manage_users"
 msgid "View Users"
 msgstr "Виж потребителите"
 
-#: $lang->'manage_users_edit'
+#: ui_admin.manage_users_edit
+msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
 msgstr "Добави/промени потребителите"
 
-#: $lang->'mark_as'
+#: ui_admin.mark_as
+msgctxt "ui_admin.mark_as"
 msgid "Mark As"
 msgstr ""
 
-#: $lang->'marked_as_not_spam'
+#: ui_admin.marked_as_not_spam
+msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
 msgstr "маркирано като не спам"
 
-#: $lang->'marked_as_spam'
+#: ui_admin.marked_as_spam
+msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
 msgstr "маркирано като спам"
 
-#: $lang->'match_no_documents'
+#: ui_admin.match_no_documents
+msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
 msgstr "не отговаря на никакви документи"
 
-#: $lang->'message'
-msgctxt "$lang->'message'"
+#: ui_admin.message
+msgctxt "ui_admin.message"
 msgid "Message"
 msgstr "Съобщение"
 
-#: $lang->'messages'
+#: ui_admin.messages
+msgctxt "ui_admin.messages"
 msgid "Messages"
 msgstr "Съобщения"
 
-#: $lang->'messages_laconica'
+#: ui_admin.messages_laconica
+msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
 msgstr "Laconica съобщения"
 
-#: $lang->'messages_twitter'
+#: ui_admin.messages_twitter
+msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
 msgstr "Twitter съобщения"
 
-#: $lang->'message_sent'
+#: ui_admin.message_sent
+msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
 msgstr "Това съобщение е изпратено!"
 
-#: $lang->'mhi'
+#: ui_admin.mhi
+msgctxt "ui_admin.mhi"
 msgid "MHI"
 msgstr "MHI"
 
-#: $lang->'minute'
+#: ui_admin.minute
+msgctxt "ui_admin.minute"
 msgid "Minute"
 msgstr ""
 
-#: $lang->'minutes'
+#: ui_admin.minutes
+msgctxt "ui_admin.minutes"
 msgid "Minutes"
 msgstr "Минути"
 
-#: $lang->'missing_parameter'
+#: ui_admin.missing_parameter
+msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
 msgstr "Липсва параметър"
 
-#: $lang->'moderator'
-msgctxt "$lang->'moderator'"
+#: ui_admin.moderator
+msgctxt "ui_admin.moderator"
 msgid "Moderator"
 msgstr "Модератор"
 
-#: $lang->'modified'
+#: ui_admin.modified
+msgctxt "ui_admin.modified"
 msgid "modified"
 msgstr "Променен"
 
-#: $lang->'modify_timezone'
+#: ui_admin.modify_timezone
+msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
 msgstr ""
 
-#: $lang->'move_down_action'
+#: ui_admin.move_down_action
+msgctxt "ui_admin.move_down_action"
 msgid "move down"
 msgstr "премести надолу"
 
-#: $lang->'move_up_action'
+#: ui_admin.move_up_action
+msgctxt "ui_admin.move_up_action"
 msgid "move up"
 msgstr "премести нагоре"
 
-#: $lang->'multiple_hosted_instances'
+#: ui_admin.multiple_hosted_instances
+msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
 msgstr "Множество инсталации"
 
-#: $lang->'my_alerts'
+#: ui_admin.my_alerts
+msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
 msgstr ""
 
-#: $lang->'my_checkins'
+#: ui_admin.my_checkins
+msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
 msgstr ""
 
-#: $lang->'my_profile'
+#: ui_admin.my_profile
+msgctxt "ui_admin.my_profile"
 msgid "My Profile"
 msgstr "Моят профил"
 
-#: $lang->'my_reports'
+#: ui_admin.my_reports
+msgctxt "ui_admin.my_reports"
 msgid "My Reports"
 msgstr ""
 
-#: $lang->'my_votes'
+#: ui_admin.my_votes
+msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
 msgstr ""
 
-#: $lang->'my_votes_up'
+#: ui_admin.my_votes_up
+msgctxt "ui_admin.my_votes_up"
 msgid "Positive"
 msgstr ""
 
-#: $lang->'my_votes_down'
+#: ui_admin.my_votes_down
+msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
 msgstr ""
 
-#: $lang->'name'
-msgctxt "$lang->'name'"
+#: ui_admin.name
+msgctxt "ui_admin.name"
 msgid "Name"
 msgstr ""
 
-#: $lang->'new_alert'
+#: ui_admin.new_alert
+msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
 msgstr ""
 
-#: $lang->'new_private'
+#: ui_admin.new_private
+msgctxt "ui_admin.new_private"
 msgid "Create New Message"
 msgstr ""
 
-#: $lang->'new_password'
+#: ui_admin.new_password
+msgctxt "ui_admin.new_password"
 msgid "New Password"
 msgstr "Нова парола"
 
-#: $lang->'no'
-msgctxt "$lang->'no'"
+#: ui_admin.no
+msgctxt "ui_admin.no"
 msgid "No"
 msgstr "Не"
 
-#: $lang->'none_category_explanation'
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without "
-"categories(uncategorized reports) as a result of category deletion."
+#: ui_admin.none_category_explanation
+msgctxt "ui_admin.none_category_explanation"
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
-#: $lang->'notification'
+#: ui_admin.notification
+msgctxt "ui_admin.notification"
 msgid "Notification"
 msgstr "Известия"
 
-#: $lang->'not_case_sensitive'
+#: ui_admin.not_case_sensitive
+msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
 msgstr "Без значение за главни или малки букви."
 
-#: $lang->'not_found'
+#: ui_admin.not_found
+msgctxt "ui_admin.not_found"
 msgid "Not Found"
 msgstr "Не е намерено"
 
-#: $lang->'no_data'
+#: ui_admin.no_data
+msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
 msgstr "Няма данни. Няма резултати за показване."
 
-#: $lang->'no_error'
+#: ui_admin.no_error
+msgctxt "ui_admin.no_error"
 msgid "No Error"
 msgstr "Няма грешка"
 
-#: $lang->'no_result_display_msg'
+#: ui_admin.no_result_display_msg
+msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
 msgstr "Няма резултати за показване!"
 
-#: $lang->'of'
+#: ui_admin.of
+msgctxt "ui_admin.of"
 msgid "of"
 msgstr "на"
 
-#: $lang->'on_specific_count'
+#: ui_admin.on_specific_count
+msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
 msgstr ""
 
-#: $lang->'openids'
-msgid "OpenID's"
+#: ui_admin.openids
+msgctxt "ui_admin.openids"
+msgid "OpenID\'s"
 msgstr ""
 
-#: $lang->'page'
+#: ui_admin.page
+msgctxt "ui_admin.page"
 msgid "page"
 msgstr "страница"
 
-#: $lang->'pages'
+#: ui_admin.pages
+msgctxt "ui_admin.pages"
 msgid "pages"
 msgstr "страници"
 
-#: $lang->'page_not_found'
+#: ui_admin.page_not_found
+msgctxt "ui_admin.page_not_found"
 msgid "Page Not Found"
 msgstr "Страницата не е намерена"
 
-#: $lang->'page_not_found_message'
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow "
-"a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we "
-"can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
-msgstr ""
-"Съжалявам, но страницата, която се опитвате да отворите, не е тук. "
-"<p><strong>Отворихте ли линк, за да стигнете до тук?</strong><br />Ако сте "
-"отворили страницата от друга част на сайта, моля <a href=\"#\">свържете се с "
-"нас</a>, за да оправим грешката си.</p><p><strong>Отворихте ли линк ор друг "
-"сайт? </strong><br />Линковете идващи от други сайтове понякога са стари или "
-"грешни. <a href=\"#\">Кажете ни</a> откъде сте отворили тази страница и ще се "
-"опитаме да се свържем с тях да оправят проблема.</p><p><strong>Написахте ли "
-"адреса? </strong><br />Възможно е да сте го написали грешно. Проверете "
-"отново дали всичко е вярно. </p>"
+#: ui_admin.page_not_found_message
+msgctxt "ui_admin.page_not_found_message"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
+msgstr "Съжалявам, но страницата, която се опитвате да отворите, не е тук. <p><strong>Отворихте ли линк, за да стигнете до тук?</strong><br />Ако сте отворили страницата от друга част на сайта, моля <a href=\"#\">свържете се с нас</a>, за да оправим грешката си.</p><p><strong>Отворихте ли линк ор друг сайт? </strong><br />Линковете идващи от други сайтове понякога са стари или грешни. <a href=\"#\">Кажете ни</a> откъде сте отворили тази страница и ще се опитаме да се свържем с тях да оправят проблема.</p><p><strong>Написахте ли адреса? </strong><br />Възможно е да сте го написали грешно. Проверете отново дали всичко е вярно. </p>"
 
-#: $lang->'parameters_used'
+#: ui_admin.parameters_used
+msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
 msgstr "Използвани параметри"
 
-#: $lang->'password'
+#: ui_admin.password
+msgctxt "ui_admin.password"
 msgid "Password"
 msgstr "Парола"
 
-#: $lang->'password_reset'
+#: ui_admin.password_reset
+msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
 msgstr "Възстановяване на парола"
 
-#: $lang->'password_reset_from'
+#: ui_admin.password_reset_from
+msgctxt "ui_admin.password_reset_from"
 msgid "no-reply@ushahidi.com"
 msgstr "no-reply@ushahidi.com"
 
-#: $lang->'password_reset_message_line_1'
+#: ui_admin.password_reset_message_line_1
+msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
 msgstr "Уважаеми"
 
-#: $lang->'password_reset_message_line_2'
+#: ui_admin.password_reset_message_line_2
+msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
 msgstr "Получихме запитване за възстановяване на парола от"
 
-#: $lang->'password_reset_message_line_3'
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
-msgstr ""
-"За да промените паролата си, моля отворете този адрес или го копирайте в "
-"браузъра си."
+#: ui_admin.password_reset_message_line_3
+msgctxt "ui_admin.password_reset_message_line_3"
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
+msgstr "За да промените паролата си, моля отворете този адрес или го копирайте в браузъра си."
 
-#: $lang->'password_reset_message_line_4'
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+#: ui_admin.password_reset_message_line_4
+msgctxt "ui_admin.password_reset_message_line_4"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
 msgstr "Както пожелахте, паролата ви беше сменена. Новите данни са"
 
-#: $lang->'password_reset_subject'
+#: ui_admin.password_reset_subject
+msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
 msgstr "Ushahidi смяна на парола"
 
-#: $lang->'phone'
+#: ui_admin.phone
+msgctxt "ui_admin.phone"
 msgid "Phone"
 msgstr "Телефон"
 
-#: $lang->'please_select'
+#: ui_admin.please_select
+msgctxt "ui_admin.please_select"
 msgid "Please Select"
 msgstr ""
 
-#: $lang->'pm'
+#: ui_admin.pm
+msgctxt "ui_admin.pm"
 msgid "PM"
 msgstr "следобед"
 
-#: $lang->'post_method_not_used'
+#: ui_admin.post_method_not_used
+msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
 msgstr "Данните не са пратени с POST метод"
 
-#: $lang->'preview'
+#: ui_admin.preview
+msgctxt "ui_admin.preview"
 msgid "Preview"
 msgstr ""
 
-#: $lang->'private_message'
-msgctxt "$lang->'private_message'"
+#: ui_admin.private_message
+msgctxt "ui_admin.private_message"
 msgid "Message"
 msgstr ""
 
-#: $lang->'private_messages'
-msgctxt "$lang->'private_messages'"
+#: ui_admin.private_messages
+msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
 msgstr ""
 
-#: $lang->'private_sent'
+#: ui_admin.private_sent
+msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
 msgstr ""
 
-#: $lang->'private_subject'
-msgctxt "$lang->'private_subject'"
+#: ui_admin.private_subject
+msgctxt "ui_admin.private_subject"
 msgid "Subject"
 msgstr ""
 
-#: $lang->'private_to'
+#: ui_admin.private_to
+msgctxt "ui_admin.private_to"
 msgid "To"
 msgstr ""
 
-#: $lang->'public_listing'
+#: ui_admin.public_listing
+msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
 msgstr ""
 
-#: $lang->'qualifiers'
+#: ui_admin.qualifiers
+msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
 msgstr ""
 
-#: $lang->'read'
+#: ui_admin.read
+msgctxt "ui_admin.read"
 msgid "read"
 msgstr "чети"
 
-#: $lang->'relevance'
+#: ui_admin.relevance
+msgctxt "ui_admin.relevance"
 msgid "Relevance"
 msgstr "Свързано"
 
-#: $lang->'report_title'
+#: ui_admin.report_title
+msgctxt "ui_admin.report_title"
 msgid "Report Title"
 msgstr ""
 
-#: $lang->'reporters'
+#: ui_admin.reporters
+msgctxt "ui_admin.reporters"
 msgid "Reporters"
 msgstr "Сигнализиращи"
 
-#: $lang->'reporter_levels'
+#: ui_admin.reporter_levels
+msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
 msgstr "Нива на сигнализиращи"
 
-#: $lang->'reports'
+#: ui_admin.reports
+msgctxt "ui_admin.reports"
 msgid "Reports"
 msgstr "Сигнали"
 
-#: $lang->'reputation'
+#: ui_admin.reputation
+msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
 msgstr ""
 
-#: $lang->'required'
+#: ui_admin.required
+msgctxt "ui_admin.required"
 msgid "Required"
 msgstr "Изисква се"
 
-#: $lang->'reset'
+#: ui_admin.reset
+msgctxt "ui_admin.reset"
 msgid "Reset"
 msgstr "Възстанови"
 
-#: $lang->'response'
+#: ui_admin.response
+msgctxt "ui_admin.response"
 msgid "Response"
 msgstr ""
 
-#: $lang->'results'
+#: ui_admin.results
+msgctxt "ui_admin.results"
 msgid "Results"
 msgstr "Резултати"
 
-#: $lang->'revoke'
+#: ui_admin.revoke
+msgctxt "ui_admin.revoke"
 msgid "Revoke"
 msgstr ""
 
-#: $lang->'save_settings'
+#: ui_admin.save_settings
+msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
 msgstr "Запази настройките"
 
-#: $lang->'search'
+#: ui_admin.search
+msgctxt "ui_admin.search"
 msgid "Search"
 msgstr "Търси"
 
-#: $lang->'searching_for'
+#: ui_admin.search_reports
+msgctxt "ui_admin.search_reports"
+msgid "Search Reports"
+msgstr ""
+
+#: ui_admin.searching_for
+msgctxt "ui_admin.searching_for"
 msgid "searching for"
 msgstr "търси се"
 
-#: $lang->'security_info_encryption_key'
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+#: ui_admin.security_info_encryption_key
+msgctxt "ui_admin.security_info_encryption_key"
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
-#: $lang->'security_info_https'
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+#: ui_admin.security_info_https
+msgctxt "ui_admin.security_info_https"
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
-#: $lang->'security_info_instructions'
+#: ui_admin.security_info_instructions
+msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
 msgstr ""
 
-#: $lang->'select_field_type'
+#: ui_admin.select_field_type
+msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
 msgstr "--- Изберете тип на полето ---"
 
-#: $lang->'select_item'
+#: ui_admin.select_item
+msgctxt "ui_admin.select_item"
 msgid "Please select an item"
 msgstr "Изберете обект"
 
-#: $lang->'select_trigger_before_response'
+#: ui_admin.select_trigger_before_response
+msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
 msgstr ""
 
-#: $lang->'select_trigger_before_qualifiers'
+#: ui_admin.select_trigger_before_qualifiers
+msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
 msgstr ""
 
-#: $lang->'sender'
+#: ui_admin.sender
+msgctxt "ui_admin.sender"
 msgid "Sender"
 msgstr "Изпращач"
 
-#: $lang->'send_to'
+#: ui_admin.send_to
+msgctxt "ui_admin.send_to"
 msgid "Send To"
 msgstr ""
 
-#: $lang->'sent_from_website'
+#: ui_admin.sent_from_website
+msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
 msgstr "Това съобщение е пратено от сайта на "
 
-#: $lang->'server_time'
+#: ui_admin.server_time
+msgctxt "ui_admin.server_time"
 msgid "Server Time"
 msgstr ""
 
-#: $lang->'settings'
+#: ui_admin.settings
+msgctxt "ui_admin.settings"
 msgid "Settings"
 msgstr "Настройки"
 
-#: $lang->'showing_page'
+#: ui_admin.showing_page
+msgctxt "ui_admin.showing_page"
 msgid "Showing page"
 msgstr "Показва се страница"
 
-#: $lang->'showing_results'
+#: ui_admin.showing_results
+msgctxt "ui_admin.showing_results"
 msgid "Showing results"
 msgstr "Показват се резултати"
 
-#: $lang->'shown'
+#: ui_admin.shown
+msgctxt "ui_admin.shown"
 msgid "shown"
 msgstr ""
 
-#: $lang->'special_category'
+#: ui_admin.special_category
+msgctxt "ui_admin.special_category"
 msgid "Special Category"
 msgstr ""
 
-#: $lang->'special_category_explanation'
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
+#: ui_admin.special_category_explanation
+msgctxt "ui_admin.special_category_explanation"
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
 msgstr ""
 
-#: $lang->'specific_area'
+#: ui_admin.specific_area
+msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
 msgstr ""
 
-#: $lang->'state'
+#: ui_admin.state
+msgctxt "ui_admin.state"
 msgid "State"
 msgstr ""
 
-#: $lang->'statistics'
+#: ui_admin.statistics
+msgctxt "ui_admin.statistics"
 msgid "Statistics"
 msgstr "Статистика"
 
-#: $lang->'stats'
+#: ui_admin.stats
+msgctxt "ui_admin.stats"
 msgid "Stats"
 msgstr "Статистика"
 
-#: $lang->'stats_collection_error'
+#: ui_admin.stats_collection_error
+msgctxt "ui_admin.stats_collection_error"
 msgid "Stat collection failed! Please try again later."
-msgstr ""
-"Събирането на статистика се провали! Или сървъра за статистика не работи, "
-"или има проблем в инсталацията на Ushahidi. Опитайте пак, за да проверите "
-"дали сървъра работи. За да възстановите ръчно статистиката, променете "
-"stat_id (на null) и stat_key (на 0) в таблицата за настройки в базата данни. "
-"ВНИМАНИЕ: Ще загубите достъп до статистиката си, ако направите това !"
+msgstr "Събирането на статистика се провали! Или сървъра за статистика не работи, или има проблем в инсталацията на Ushahidi. Опитайте пак, за да проверите дали сървъра работи. За да възстановите ръчно статистиката, променете stat_id (на null) и stat_key (на 0) в таблицата за настройки в базата данни. ВНИМАНИЕ: Ще загубите достъп до статистиката си, ако направите това !"
 
-#: $lang->'stats_collection_error_short'
+#: ui_admin.stats_collection_error_short
+msgctxt "ui_admin.stats_collection_error_short"
 msgid "Stat Collection Failed!"
 msgstr "Събирането на статистика се провали!"
 
-#: $lang->'specific_days'
+#: ui_admin.specific_days
+msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
 msgstr ""
 
-#: $lang->'subject'
-msgctxt "$lang->'subject'"
+#: ui_admin.subject
+msgctxt "ui_admin.subject"
 msgid "Subject"
 msgstr ""
 
-#: $lang->'superadmin_role'
+#: ui_admin.superadmin_role
+msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
 msgstr "Супер администратор"
 
-#: $lang->'task_performed'
+#: ui_admin.task_performed
+msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
 msgstr "Задачата е изпълнена"
 
-#: $lang->'text_field'
+#: ui_admin.text_field
+msgctxt "ui_admin.text_field"
 msgid "Text Field"
 msgstr "Текстово поле"
 
-#: $lang->'theme_name'
-msgctxt "$lang->'theme_name'"
+#: ui_admin.theme_name
+msgctxt "ui_admin.theme_name"
 msgid "Name"
 msgstr "Име"
 
-#: $lang->'title'
-msgctxt "$lang->'title'"
+#: ui_admin.title
+msgctxt "ui_admin.title"
 msgid "Manage Users"
 msgstr "Настройки на потребителите"
 
-#: $lang->'to'
-msgctxt "$lang->'to'"
+#: ui_admin.to
+msgctxt "ui_admin.to"
 msgid "to"
 msgstr "за"
 
-#: $lang->'total_records'
+#: ui_admin.total_records
+msgctxt "ui_admin.total_records"
 msgid "Total Records"
 msgstr "Всички записи"
 
-#: $lang->'to_date'
-msgctxt "$lang->'to_date'"
+#: ui_admin.to_date
+msgctxt "ui_admin.to_date"
 msgid "to"
 msgstr "до"
 
-#: $lang->'translate_reports'
+#: ui_admin.translate_reports
+msgctxt "ui_admin.translate_reports"
 msgid "Translate Reports"
 msgstr "Преведи сигналите"
 
-#: $lang->'trigger'
+#: ui_admin.trigger
+msgctxt "ui_admin.trigger"
 msgid "Trigger"
 msgstr ""
 
-#: $lang->'triggering_user'
+#: ui_admin.triggering_user
+msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
 msgstr ""
 
-#: $lang->'triggers'
+#: ui_admin.triggers
+msgctxt "ui_admin.triggers"
 msgid "Triggers"
 msgstr ""
 
-#: $lang->'unapproved'
+#: ui_admin.unapproved
+msgctxt "ui_admin.unapproved"
 msgid "unapproved"
 msgstr "неодобрено"
 
-#: $lang->'unknown'
+#: ui_admin.unknown
+msgctxt "ui_admin.unknown"
 msgid "Unknown"
 msgstr "Непознат"
 
-#: $lang->'unknown_failure'
+#: ui_admin.unknown_failure
+msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
 msgstr ""
 
-#: $lang->'unread'
+#: ui_admin.unread
+msgctxt "ui_admin.unread"
 msgid "unread"
 msgstr "непрочетен"
 
-#: $lang->'unsubscribe_message'
+#: ui_admin.unsubscribe_message
+msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
 msgstr ""
 
-#: $lang->'update_link'
+#: ui_admin.update_link
+msgctxt "ui_admin.update_link"
 msgid " Click here to upgrade now"
 msgstr " Натиснете тук, за да обновите сега"
 
-#: $lang->'upgrade_ushahidi'
+#: ui_admin.upgrade_ushahidi
+msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
 msgstr "Обновете Ushahidi"
 
-#: $lang->'upgrade_ushahidi_status'
+#: ui_admin.upgrade_ushahidi_status
+msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
 msgstr "Статус на Ushahidi обновяване"
 
-#: $lang->'upload_reports'
+#: ui_admin.upload_reports
+msgctxt "ui_admin.upload_reports"
 msgid "Upload Reports"
 msgstr "Качи сигнали"
 
-#: $lang->'user'
-msgctxt "$lang->'user'"
+#: ui_admin.user
+msgctxt "ui_admin.user"
 msgid "User"
 msgstr ""
 
-#: $lang->'users'
+#: ui_admin.users
+msgctxt "ui_admin.users"
 msgid "Users"
 msgstr "Потребители"
 
-#: $lang->'ushahidi'
+#: ui_admin.ushahidi
+msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
 msgstr "Ushahidi"
 
-#: $lang->'verified_unverified'
+#: ui_admin.verified_unverified
+msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
 msgstr ""
 
-#: $lang->'verify_unverify'
+#: ui_admin.verify_unverify
+msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
 msgstr ""
 
-#: $lang->'version'
+#: ui_admin.version
+msgctxt "ui_admin.version"
 msgid "Version"
 msgstr "Версия"
 
-#: $lang->'version_available'
+#: ui_admin.version_available
+msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
 msgstr " в на разположение за подновяване."
 
-#: $lang->'video_encoding'
+#: ui_admin.video_encoding
+msgctxt "ui_admin.video_encoding"
 msgid "Video Encoding"
 msgstr ""
 
-#: $lang->'view_private'
-msgctxt "$lang->'view_private'"
+#: ui_admin.view_private
+msgctxt "ui_admin.view_private"
 msgid "Private Messages"
 msgstr ""
 
-#: $lang->'view_site'
+#: ui_admin.view_site
+msgctxt "ui_admin.view_site"
 msgid "View Site"
 msgstr "Виж сайта"
 
-#: $lang->'view_report'
+#: ui_admin.view_report
+msgctxt "ui_admin.view_report"
 msgid "View Report"
 msgstr ""
 
-#: $lang->'welcome'
+#: ui_admin.welcome
+msgctxt "ui_admin.welcome"
 msgid "Welcome, "
 msgstr "Добре дошли, "
 
-#: $lang->'wiki'
+#: ui_admin.wiki
+msgctxt "ui_admin.wiki"
 msgid "Wiki"
 msgstr "Wiki"
 
-#: $lang->'yes'
+#: ui_admin.yes
+msgctxt "ui_admin.yes"
 msgid "Yes"
 msgstr "Да"
 
-#: $lang->'your_search_for'
+#: ui_admin.your_search_for
+msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
-msgstr ""
+msgstr "Вашето търсене за"
+

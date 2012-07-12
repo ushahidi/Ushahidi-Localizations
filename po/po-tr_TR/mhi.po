@@ -3,39 +3,46 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: tr_TR\n"
 
-#: 'contact_captcha'->'default'
+#: mhi.contact_captcha.default
+msgctxt "mhi.contact_captcha.default"
 msgid "Please enter a valid security code."
 msgstr "Lütfen geçerli bir güvenlik kodu giriniz."
 
-#: 'contact_captcha'->'required'
+#: mhi.contact_captcha.required
+msgctxt "mhi.contact_captcha.required"
 msgid "Please enter the security code."
 msgstr "Lütfen güvenlik kodunu giriniz."
 
-#: 'contact_email'->'email'
+#: mhi.contact_email.email
+msgctxt "mhi.contact_email.email"
 msgid "The Email field does not appear to contain a valid email address."
 msgstr "E-posta adresi geçerli değil."
 
-#: 'contact_email'->'required'
+#: mhi.contact_email.required
+msgctxt "mhi.contact_email.required"
 msgid "Please provide a valid email address."
 msgstr "Lütfen geçerli bir e-posta adresi girin"
 
-#: 'contact_message'->'required'
+#: mhi.contact_message.required
+msgctxt "mhi.contact_message.required"
 msgid "The message field is required."
 msgstr "Mesaj kısmı boş bırakılamaz."
 
-#: 'contact_subject'->'length'
+#: mhi.contact_subject.length
+msgctxt "mhi.contact_subject.length"
 msgid "The subject field must be at least 3 characters long."
 msgstr "Başlık kısmı en az 3 karakterden oluşmalıdır."
 
-#: 'contact_subject'->'required'
+#: mhi.contact_subject.required
+msgctxt "mhi.contact_subject.required"
 msgid "The subject field is required."
 msgstr "Başlık kısmı boş bırakılamaz."
+

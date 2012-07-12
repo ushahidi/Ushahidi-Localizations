@@ -3,2427 +3,2901 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:42+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: cy_GB\n"
 
-#: $lang->'about'
+#: ui_main.about
+msgctxt "ui_main.about"
 msgid "About "
 msgstr "Am y wefan "
 
-#: $lang->'access'
+#: ui_main.access
+msgctxt "ui_main.access"
 msgid "Access"
 msgstr "Mynediad"
 
-#: $lang->'access_limits'
+#: ui_main.access_limits
+msgctxt "ui_main.access_limits"
 msgid "Access Limits"
 msgstr "Terfynau Mynediad"
 
-#: $lang->'account_name'
+#: ui_main.account_name
+msgctxt "ui_main.account_name"
 msgid "Account Name"
 msgstr "Enw Cyfrif"
 
-#: $lang->'actions'
+#: ui_main.actions
+msgctxt "ui_main.actions"
 msgid "Actions"
 msgstr "Gweithredoedd"
 
-#: $lang->'action_confirm'
+#: ui_main.action_confirm
+msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
-"Nid yw’n bosib dadwneud y weithred hon. Ydych chi’n siwr eich bod am barhau?"
+msgstr "Nid yw’n bosib dadwneud y weithred hon. Ydych chi’n siwr eich bod am barhau?"
 
-#: $lang->'activate'
+#: ui_main.activate
+msgctxt "ui_main.activate"
 msgid "Activate"
 msgstr "Gweithredu"
 
-#: $lang->'active'
+#: ui_main.active
+msgctxt "ui_main.active"
 msgid "Active"
 msgstr "Gweithredol"
 
-#: $lang->'add'
+#: ui_main.add
+msgctxt "ui_main.add"
 msgid "Add"
 msgstr "Ychwanegu"
 
-#: $lang->'added_by'
+#: ui_main.added_by
+msgctxt "ui_main.added_by"
 msgid "Added By"
 msgstr "Ychwanegwyd Gan"
 
-#: $lang->'additional_data'
+#: ui_main.additional_data
+msgctxt "ui_main.additional_data"
 msgid "Additional Data"
 msgstr "Data Ychwanegol"
 
-#: $lang->'additional_reports'
+#: ui_main.additional_reports
+msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
 msgstr "Adroddiadau Ychwanegol"
 
-#: $lang->'add_edit'
+#: ui_main.add_edit
+msgctxt "ui_main.add_edit"
 msgid "Add/Edit"
 msgstr "Ychwanegu/Golygu"
 
-#: $lang->'add_field'
+#: ui_main.add_field
+msgctxt "ui_main.add_field"
 msgid "Add a Field"
 msgstr "Ychwanegu Maes"
 
-#: $lang->'add_language'
+#: ui_main.add_language
+msgctxt "ui_main.add_language"
 msgid "Add Language"
 msgstr "Ychwanegu Iaith"
 
-#: $lang->'add_new'
+#: ui_main.add_new
+msgctxt "ui_main.add_new"
 msgid "Add New"
 msgstr "Ychwanegu"
 
-#: $lang->'add_new_category'
+#: ui_main.add_new_category
+msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
 msgstr "Ychwanegu Categori Newydd"
 
-#: $lang->'add_translation'
+#: ui_main.add_translation
+msgctxt "ui_main.add_translation"
 msgid "Add Translation"
 msgstr "Ychwanegu Cyfieithiad Newydd"
 
-#: $lang->'admin'
+#: ui_main.admin
+msgctxt "ui_main.admin"
 msgid "Administration"
 msgstr "Gweinyddu"
 
-#: $lang->'alerts'
-msgctxt "$lang->'alerts'"
+#: ui_main.alerts
+msgctxt "ui_main.alerts"
 msgid "Get Alerts"
 msgstr "Derbyn diweddariadau"
 
-#: $lang->'alerts_alert_me'
+#: ui_main.alerts_alert_me
+msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr ""
-"Anfonwch ddiweddariad i mi os caiff adroddiad ei gofnodi yn, neu yn agos at:"
+msgstr "Anfonwch ddiweddariad i mi os caiff adroddiad ei gofnodi yn, neu yn agos at:"
 
-#: $lang->'alerts_btn_send'
+#: ui_main.alerts_btn_send
+msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
 msgstr "Cadw fy niweddariad"
 
-#: $lang->'alerts_email'
+#: ui_main.alerts_email
+msgctxt "ui_main.alerts_email"
 msgid "Email address:"
 msgstr "Cyfeiriad E-bost:"
 
-#: $lang->'alerts_enter_email'
+#: ui_main.alerts_enter_email
+msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
 msgstr "gosodwch eich cyfeiriad E-bost"
 
-#: $lang->'alerts_enter_mobile'
+#: ui_main.alerts_enter_mobile
+msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
 msgstr "gosodwch eich rhif ffôn gyda chôd y wlad"
 
-#: $lang->'alerts_get'
-msgctxt "$lang->'alerts_get'"
+#: ui_main.alerts_get
+msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
 msgstr "Derbyn Diweddariadau"
 
-#: $lang->'alerts_mobile_phone'
+#: ui_main.alerts_mobile_phone
+msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
 msgstr "Ffôn Symudol:"
 
-#: $lang->'alerts_place_spot'
-msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
-msgstr ""
-"Neu, gosodwch ddot ar y map isod, a byddwn yn anfon neges atoch chi pan "
-"fyddwn yn derbyn adroddiad sydd o fewn 20 cilomedr i chi."
+#: ui_main.alerts_place_spot
+msgctxt "ui_main.alerts_place_spot"
+msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
+msgstr "Neu, gosodwch ddot ar y map isod, a byddwn yn anfon neges atoch chi pan fyddwn yn derbyn adroddiad sydd o fewn 20 cilomedr i chi."
 
-#: $lang->'alerts_place_spot2'
-msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
-msgstr ""
-"Os na allwch ddod o hyd i’ch lleoliad, yna cliciwch ar y map i nodi'r "
-"lleoliad cywir."
+#: ui_main.alerts_place_spot2
+msgctxt "ui_main.alerts_place_spot2"
+msgid "If you can\'t find your location, please click on the map to pinpoint the correct location."
+msgstr "Os na allwch ddod o hyd i’ch lleoliad, yna cliciwch ar y map i nodi\'r lleoliad cywir."
 
-#: $lang->'alerts_rss'
+#: ui_main.alerts_rss
+msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
 msgstr "Ffrwd RSS (copiwch yr url isod)"
 
-#: $lang->'alerts_select_city'
+#: ui_main.alerts_select_city
+msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
 msgstr "Dewiswch ddinas"
 
-#: $lang->'alerts_step1_select_city'
+#: ui_main.alerts_step1_select_city
+msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
 msgstr "<strong>Cam 1:</strong> Dewiswch eich dinas neu leoliad:"
 
-#: $lang->'alerts_step2_send_alerts'
+#: ui_main.alerts_step2_send_alerts
+msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
 msgstr "<strong>Cam 2:</strong> Anfon neges rybuddio i’m:"
 
-#: $lang->'alerts_step3_select_catgories'
+#: ui_main.alerts_step3_select_catgories
+msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
 msgstr "<strong>Cam 3 (Optional):</strong> Dewis Categoriau"
 
-#: $lang->'alert_confirm_previous'
+#: ui_main.alert_confirm_previous
+msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
 msgstr "Cadarnhau Cais Blaenorol am Neges Ddiweddaru"
 
-#: $lang->'alert_saved'
+#: ui_main.alert_saved
+msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
 msgstr "Cafodd Eich Cais ei Gadw!"
 
-#: $lang->'all'
+#: ui_main.all
+msgctxt "ui_main.all"
 msgid "All"
 msgstr "Pob Un"
 
-#: $lang->'allowed'
+#: ui_main.allowed
+msgctxt "ui_main.allowed"
 msgid "Allowed"
 msgstr "Wedi’u Caniatau"
 
-#: $lang->'all_categories'
+#: ui_main.all_categories
+msgctxt "ui_main.all_categories"
 msgid "All Categories"
 msgstr "Pob Categori"
 
-#: $lang->'all_time'
+#: ui_main.all_time
+msgctxt "ui_main.all_time"
 msgid "All Time"
 msgstr "Cyfnod Cyfan"
 
-#: $lang->'and'
+#: ui_main.and
+msgctxt "ui_main.and"
 msgid "and"
 msgstr "ac"
 
-#: $lang->'api'
+#: ui_main.api
+msgctxt "ui_main.api"
 msgid "API"
 msgstr "API"
 
-#: $lang->'approve'
+#: ui_main.approve
+msgctxt "ui_main.approve"
 msgid "Approve"
 msgstr "Derbyn"
 
-#: $lang->'approved'
+#: ui_main.approved
+msgctxt "ui_main.approved"
 msgid "Approved"
 msgstr "Derbyniwyd"
 
-#: $lang->'approved_reports'
+#: ui_main.approved_reports
+msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
 msgstr "Adroddiadau a Dderbyniwyd"
 
-#: $lang->'approve_this_report'
+#: ui_main.approve_this_report
+msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
 msgstr "Derbyn yr Adroddiad hwn"
 
-#: $lang->'approximate'
+#: ui_main.approximate
+msgctxt "ui_main.approximate"
 msgid "Approximate"
 msgstr "Tua"
 
-#: $lang->'archive'
+#: ui_main.archive
+msgctxt "ui_main.archive"
 msgid "Archive"
 msgstr "Archif"
 
-#: $lang->'archived'
+#: ui_main.archived
+msgctxt "ui_main.archived"
 msgid "Archived"
 msgstr "Archifwyd"
 
-#: $lang->'at'
+#: ui_main.at
+msgctxt "ui_main.at"
 msgid "at"
 msgstr "am"
 
-#: $lang->'author'
+#: ui_main.author
+msgctxt "ui_main.author"
 msgid "Author"
 msgstr "Awdur"
 
-#: $lang->'auto_checkin'
+#: ui_main.auto_checkin
+msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
 msgstr "Nodi Lle Awtomatig"
 
-#: $lang->'avg_reports_per_day'
+#: ui_main.avg_reports_per_day
+msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
 msgstr "Cyfartaledd Adroddiadau y Dydd"
 
-#: $lang->'awaiting_approval'
+#: ui_main.awaiting_approval
+msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
 msgstr "Aros i gael ei Dderbyn"
 
-#: $lang->'awaiting_verification'
+#: ui_main.awaiting_verification
+msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
 msgstr "Aros i gael ei Wirio"
 
-#: $lang->'badge'
+#: ui_main.badge
+msgctxt "ui_main.badge"
 msgid "Badge"
 msgstr "Bathodyn"
 
-#: $lang->'badges'
+#: ui_main.badges
+msgctxt "ui_main.badges"
 msgid "Badges"
 msgstr "Bathodynnau"
 
-#: $lang->'badge_image'
+#: ui_main.badge_image
+msgctxt "ui_main.badge_image"
 msgid "Badge Image"
 msgstr "Delwedd Bathodyn"
 
-#: $lang->'badge_image_upload_your_own'
+#: ui_main.badge_image_upload_your_own
+msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
 msgstr "Neu gallwch lwytho eich delwedd bathodyn eich hun i fyny yn lle"
 
-#: $lang->'badge_pack'
+#: ui_main.badge_pack
+msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
 msgstr "Pecyn Bathodynnau"
 
-#: $lang->'badge_select'
+#: ui_main.badge_select
+msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
 msgstr "Dewiswch Fathodyn"
 
-#: $lang->'blog'
+#: ui_main.blog
+msgctxt "ui_main.blog"
 msgid "Blog"
 msgstr "Blog"
 
-#: $lang->'browse_profiles'
+#: ui_main.browse_profiles
+msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
 msgstr "Pori Proffiliau"
 
-#: $lang->'cancel'
+#: ui_main.cancel
+msgctxt "ui_main.cancel"
 msgid "Cancel"
 msgstr "Canslo"
 
-#: $lang->'categories'
-msgctxt "$lang->'categories'"
+#: ui_main.categories
+msgctxt "ui_main.categories"
 msgid "Categories"
 msgstr "Categorïau"
 
-#: $lang->'category'
+#: ui_main.category
+msgctxt "ui_main.category"
 msgid "Category"
 msgstr "Categori"
 
-#: $lang->'category_filter'
+#: ui_main.category_filter
+msgctxt "ui_main.category_filter"
 msgid "Category Filter"
 msgstr "Hidlydd Categorïau"
 
-#: $lang->'category_has_been'
+#: ui_main.category_has_been
+msgctxt "ui_main.category_has_been"
 msgid "The category has been "
 msgstr "Cafodd y categori hwn ei "
 
-#: $lang->'category_name'
+#: ui_main.category_name
+msgctxt "ui_main.category_name"
 msgid "Category Name"
 msgstr "Enw Categori"
 
-#: $lang->'change_date_range'
+#: ui_main.change_date_range
+msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
 msgstr "Newid Ystod Dyddiadau"
 
-#: $lang->'change_password'
+#: ui_main.change_password
+msgctxt "ui_main.change_password"
 msgid "Change Password"
 msgstr "Newid Cyfrinair"
 
-#: $lang->'change_picture'
+#: ui_main.change_picture
+msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
 msgstr "Newid Fy Llun"
 
-#: $lang->'choose'
+#: ui_main.choose
+msgctxt "ui_main.choose"
 msgid "Choose a"
 msgstr "Dewiswch"
 
-#: $lang->'choose_data_points'
+#: ui_main.choose_data_points
+msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
 msgstr "Dewiswch bwyntiau data i’w lawrlwytho"
 
-#: $lang->'choose_date_range'
+#: ui_main.choose_date_range
+msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
 msgstr "Neu dewiswch eich ystod dyddiadau eich hunan"
 
-#: $lang->'choose_field_type'
+#: ui_main.choose_field_type
+msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
 msgstr "Dewiswch y math o faes"
 
-#: $lang->'cleanurl'
+#: ui_main.cleanurl
+msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
 msgstr "URLau Glân"
 
-#: $lang->'clear'
+#: ui_main.clear
+msgctxt "ui_main.clear"
 msgid "Clear"
 msgstr "Clirio"
 
-#: $lang->'clear_map'
+#: ui_main.clear_map
+msgctxt "ui_main.clear_map"
 msgid "Clear Map"
 msgstr "Clirio Map"
 
-#: $lang->'close'
+#: ui_main.close
+msgctxt "ui_main.close"
 msgid "Close"
 msgstr "Cau"
 
-#: $lang->'clusters'
+#: ui_main.clusters
+msgctxt "ui_main.clusters"
 msgid "clusters"
 msgstr "clystyrau"
 
-#: $lang->'color'
-msgctxt "$lang->'color'"
+#: ui_main.color
+msgctxt "ui_main.color"
 msgid "Color"
 msgstr "Lliw"
 
-#: $lang->'comment'
+#: ui_main.comment
+msgctxt "ui_main.comment"
 msgid "Comment"
 msgstr "Rhowch Sylw"
 
-#: $lang->'comments'
-msgctxt "$lang->'comments'"
+#: ui_main.comments
+msgctxt "ui_main.comments"
 msgid "Comments"
 msgstr "Sylwadau"
 
-#: $lang->'comment_details'
+#: ui_main.comment_details
+msgctxt "ui_main.comment_details"
 msgid "Comment Details"
 msgstr "Manylion y Sylw"
 
-#: $lang->'configuration_saved'
+#: ui_main.configuration_saved
+msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
 msgstr "Cadwyd Eich Gosodiadau!"
 
-#: $lang->'configure'
+#: ui_main.configure
+msgctxt "ui_main.configure"
 msgid "Configure"
 msgstr "Addasu"
 
-#: $lang->'confirm_email_successful'
+#: ui_main.confirm_email_successful
+msgctxt "ui_main.confirm_email_successful"
 msgid "You have successfully confirmed your email address! Please login below."
-msgstr ""
-"Rydych chi wedi llwyddo i gadarnhau eich cyfeiriad e-bost! Mewngofnodwch "
-"isod."
+msgstr "Rydych chi wedi llwyddo i gadarnhau eich cyfeiriad e-bost! Mewngofnodwch isod."
 
-#: $lang->'contact'
+#: ui_main.contact
+msgctxt "ui_main.contact"
 msgid "Contact Us"
 msgstr "Cysylltwch â Ni"
 
-#: $lang->'contact_code'
-msgctxt "$lang->'contact_code'"
+#: ui_main.contact_code
+msgctxt "ui_main.contact_code"
 msgid "Security Code"
 msgstr "Cod Diogelwch"
 
-#: $lang->'contact_email'
+#: ui_main.contact_email
+msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
 msgstr "Eich E-bost"
 
-#: $lang->'contact_message'
-msgctxt "$lang->'contact_message'"
+#: ui_main.contact_message
+msgctxt "ui_main.contact_message"
 msgid "Message"
 msgstr "Neges"
 
-#: $lang->'contact_message_has_send'
+#: ui_main.contact_message_has_send
+msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
 msgstr "Anfonwyd Eich Neges!"
 
-#: $lang->'contact_name'
+#: ui_main.contact_name
+msgctxt "ui_main.contact_name"
 msgid "Your Name"
 msgstr "Eich Enw"
 
-#: $lang->'contact_phone'
+#: ui_main.contact_phone
+msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
 msgstr "Eich Rhif Ffôn"
 
-#: $lang->'contact_send'
+#: ui_main.contact_send
+msgctxt "ui_main.contact_send"
 msgid "Send Message"
 msgstr "Anfon Neges"
 
-#: $lang->'contact_subject'
+#: ui_main.contact_subject
+msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
 msgstr "Pwnc y Neges"
 
-#: $lang->'copyright'
+#: ui_main.copyright
+msgctxt "ui_main.copyright"
 msgid "Copyright ©"
 msgstr "Hawlfraint ©"
 
-#: $lang->'create'
+#: ui_main.create
+msgctxt "ui_main.create"
 msgid "Create"
 msgstr "Creu"
 
-#: $lang->'create_edit'
+#: ui_main.create_edit
+msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
 msgstr "Creu/Golygu"
 
-#: $lang->'create_new'
+#: ui_main.create_new
+msgctxt "ui_main.create_new"
 msgid "Create New"
 msgstr "Creu un Newydd"
 
-#: $lang->'create_new_password'
+#: ui_main.create_new_password
+msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
 msgstr "Creu Cyfrinair Newydd"
 
-#: $lang->'create_report'
+#: ui_main.create_report
+msgctxt "ui_main.create_report"
 msgid "Create Report"
 msgstr "Creu Adroddiad"
 
-#: $lang->'credibility'
+#: ui_main.credibility
+msgctxt "ui_main.credibility"
 msgid "Credibility"
 msgstr "Credadwyedd"
 
-#: $lang->'current_password'
+#: ui_main.current_password
+msgctxt "ui_main.current_password"
 msgid "Current Password"
 msgstr "Cyfrinair Cyfredol"
 
-#: $lang->'custom_fields'
+#: ui_main.custom_fields
+msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
 msgstr "Meysydd Cyfaddas"
 
-#: $lang->'data'
+#: ui_main.data
+msgctxt "ui_main.data"
 msgid "Information"
 msgstr "Gwybodaeth"
 
-#: $lang->'date'
-msgctxt "$lang->'date'"
+#: ui_main.date
+msgctxt "ui_main.date"
 msgid "Date"
 msgstr "Dyddiad"
 
-#: $lang->'date_format'
+#: ui_main.date_format
+msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
 msgstr "(mm/dd/bbbb)"
 
-#: $lang->'date_time'
+#: ui_main.date_time
+msgctxt "ui_main.date_time"
 msgid "Date & Time"
 msgstr "Dyddiad ac Amser"
 
-#: $lang->'day'
+#: ui_main.day
+msgctxt "ui_main.day"
 msgid "day"
 msgstr "dydd"
 
-#: $lang->'deactivate'
+#: ui_main.deactivate
+msgctxt "ui_main.deactivate"
 msgid "Deactivate"
 msgstr "Dadweithredu"
 
-#: $lang->'default_location_name'
+#: ui_main.default_location_name
+msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
 msgstr "Aberystwyth, Cymru"
 
-#: $lang->'delete'
+#: ui_main.delete
+msgctxt "ui_main.delete"
 msgid "Delete"
 msgstr "Dileu"
 
-#: $lang->'deleted'
+#: ui_main.deleted
+msgctxt "ui_main.deleted"
 msgid "Deleted"
 msgstr "Dilëwyd"
 
-#: $lang->'deletes'
+#: ui_main.deletes
+msgctxt "ui_main.deletes"
 msgid "Deletes"
 msgstr "Dileadau"
 
-#: $lang->'delete_disabled'
+#: ui_main.delete_disabled
+msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
 msgstr "Analluogi Dileu"
 
-#: $lang->'delete_last'
+#: ui_main.delete_last
+msgctxt "ui_main.delete_last"
 msgid "Delete Last"
 msgstr "Dileu y Diwethaf"
 
-#: $lang->'delete_report'
+#: ui_main.delete_report
+msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
 msgstr "Dileu yr Adroddiad Hwn"
 
-#: $lang->'delete_selected'
+#: ui_main.delete_selected
+msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr "Dileu'r rhai a Ddewiswyd "
+msgstr "Dileu\'r rhai a Ddewiswyd "
 
-#: $lang->'delete_spam'
+#: ui_main.delete_spam
+msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
 msgstr "Dileu Sbam"
 
-#: $lang->'demo'
+#: ui_main.demo
+msgctxt "ui_main.demo"
 msgid "Demo"
 msgstr "Demo"
 
-#: $lang->'description'
-msgctxt "$lang->'description'"
+#: ui_main.description
+msgctxt "ui_main.description"
 msgid "Description"
 msgstr "Disgrifiad"
 
-#: $lang->'detailed_location_example'
+#: ui_main.detailed_location_example
+msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr "Enghraifft: Gyferbyn â'r stadiwm, Stryd Westgate, Caerdydd"
+msgstr "Enghraifft: Gyferbyn â\'r stadiwm, Stryd Westgate, Caerdydd"
 
-#: $lang->'details'
+#: ui_main.details
+msgctxt "ui_main.details"
 msgid "Details"
 msgstr "Manylion"
 
-#: $lang->'direct_report'
+#: ui_main.direct_report
+msgctxt "ui_main.direct_report"
 msgid "Direct Report"
 msgstr "Adroddiad Uniongyrchol"
 
-#: $lang->'disabled'
+#: ui_main.disabled
+msgctxt "ui_main.disabled"
 msgid "Disabled"
 msgstr "Analluogwyd"
 
-#: $lang->'disapprove'
+#: ui_main.disapprove
+msgctxt "ui_main.disapprove"
 msgid "Unapprove"
 msgstr "Dad-dderbyn"
 
-#: $lang->'download_reports'
+#: ui_main.download_reports
+msgctxt "ui_main.download_reports"
 msgid "Download Reports"
 msgstr "Lawrlwytho Adroddiadau"
 
-#: $lang->'edit'
+#: ui_main.edit
+msgctxt "ui_main.edit"
 msgid "Edit"
 msgstr "Golygu"
 
-#: $lang->'edit_form_fields'
+#: ui_main.edit_form_fields
+msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
 msgstr "Golygu Maesydd y Ffurflen"
 
-#: $lang->'edit_report'
+#: ui_main.edit_report
+msgctxt "ui_main.edit_report"
 msgid "Edit Report"
 msgstr "Golygu Adroddiad"
 
-#: $lang->'email'
-msgctxt "$lang->'email'"
+#: ui_main.email
+msgctxt "ui_main.email"
 msgid "Email"
 msgstr "E-bost"
 
-#: $lang->'email_address'
+#: ui_main.email_address
+msgctxt "ui_main.email_address"
 msgid "Email Address"
 msgstr "Cyfeiriad E-bost"
 
-#: $lang->'email_configuration'
+#: ui_main.email_configuration
+msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
 msgstr "Gosodiadau Gweinydd E-bost"
 
-#: $lang->'email_server_host'
+#: ui_main.email_server_host
+msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
 msgstr "Gwesteiwr y Gweinydd E-bost"
 
-#: $lang->'email_server_password'
+#: ui_main.email_server_password
+msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
 msgstr "Cyfrinair y Gweinydd E-bost"
 
-#: $lang->'email_server_port'
+#: ui_main.email_server_port
+msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
 msgstr "Porth y Gweinydd E-bost"
 
-#: $lang->'email_server_ssl_support'
+#: ui_main.email_server_ssl_support
+msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
 msgstr "Cefnogaeth SSL y Gweinydd E-bost"
 
-#: $lang->'email_server_type'
+#: ui_main.email_server_type
+msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
 msgstr "Math o Weinydd E-bost"
 
-#: $lang->'email_server_username'
+#: ui_main.email_server_username
+msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
 msgstr "Enw Defnyddiwr y Gweinydd E-bost"
 
-#: $lang->'email_settings_comment_0'
+#: ui_main.email_settings_comment_0
+msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
-"felly rhaid i’ch gosodiadau gael eu cysylltu gyda’r cyfeiriad E-bost hwn"
+msgstr "felly rhaid i’ch gosodiadau gael eu cysylltu gyda’r cyfeiriad E-bost hwn"
 
-#: $lang->'email_settings_comment_00'
-msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
-msgstr ""
-"Er mwyn derbyn adroddiadau drwy E-bost, rhowch fanylion eich cyfrif E-bost "
-"isod. Noder y byddwch yn derbyn E-bost yn eich"
+#: ui_main.email_settings_comment_00
+msgctxt "ui_main.email_settings_comment_00"
+msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgstr "Er mwyn derbyn adroddiadau drwy E-bost, rhowch fanylion eich cyfrif E-bost isod. Noder y byddwch yn derbyn E-bost yn eich"
 
-#: $lang->'email_settings_comment_1'
+#: ui_main.email_settings_comment_1
+msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
 msgstr "Mae angen cyfeiriad E-bost cyflawn ar rai gweinyddion"
 
-#: $lang->'email_settings_comment_2'
+#: ui_main.email_settings_comment_2
+msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
 msgstr "Cyfrinair cyfrif E-bost"
 
-#: $lang->'email_settings_comment_3'
+#: ui_main.email_settings_comment_3
+msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 msgstr "Pyrth cyffredin: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
-#: $lang->'email_settings_comment_4'
+#: ui_main.email_settings_comment_4
+msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 msgstr "Engh: mail.dywefan.com, imap.gmail.com, pop.gmail.com"
 
-#: $lang->'email_settings_comment_5'
+#: ui_main.email_settings_comment_5
+msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
 msgstr "Enghreifftiau: pop3, imap"
 
-#: $lang->'email_settings_comment_6'
+#: ui_main.email_settings_comment_6
+msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
 msgstr "Galluogi neu analluogi cysylltiadau SSL"
 
-#: $lang->'empty'
+#: ui_main.empty
+msgctxt "ui_main.empty"
 msgid "---EMPTY---"
 msgstr "---GWAG---"
 
-#: $lang->'end_point'
-msgctxt "$lang->'end_point'"
+#: ui_main.end_point
+msgctxt "ui_main.end_point"
 msgid "to"
 msgstr "at"
 
-#: $lang->'error'
+#: ui_main.error
+msgctxt "ui_main.error"
 msgid "Error!"
 msgstr "Gwall!"
 
-#: $lang->'example'
+#: ui_main.example
+msgctxt "ui_main.example"
 msgid "Example"
 msgstr "Esiampl"
 
-#: $lang->'example_country'
+#: ui_main.example_country
+msgctxt "ui_main.example_country"
 msgid "Kenya"
 msgstr "Cymru"
 
-#: $lang->'external_apps'
+#: ui_main.external_apps
+msgctxt "ui_main.external_apps"
 msgid "External Apps"
 msgstr "Apiau Allanol"
 
-#: $lang->'external_video_link'
+#: ui_main.external_video_link
+msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
 msgstr "Dolen i Fideo Allanol"
 
-#: $lang->'feed'
+#: ui_main.feed
+msgctxt "ui_main.feed"
 msgid "Feed"
 msgstr "Ffrwd"
 
-#: $lang->'feedback'
+#: ui_main.feedback
+msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
 msgstr "Anfon Adborth"
 
-#: $lang->'feedback_reports'
-msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+#: ui_main.feedback_reports
+msgctxt "ui_main.feedback_reports"
+msgid "Please give us feedback about your experience by clicking on the button below."
 msgstr "Rhowch adborth ni ar eich profiad ar y wefan drwy glicio isod."
 
-#: $lang->'feeds'
+#: ui_main.feeds
+msgctxt "ui_main.feeds"
 msgid "Feeds"
 msgstr "Ffrydiau"
 
-#: $lang->'feed_has_been'
+#: ui_main.feed_has_been
+msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
 msgstr "Mae’r ffrwd wedi cael ei"
 
-#: $lang->'feed_items'
+#: ui_main.feed_items
+msgctxt "ui_main.feed_items"
 msgid "Feed Items"
 msgstr "Eitemau’r Ffrwd"
 
-#: $lang->'feed_name'
+#: ui_main.feed_name
+msgctxt "ui_main.feed_name"
 msgid "Feed Name"
 msgstr "Enw’r Ffrwd"
 
-#: $lang->'feed_url'
+#: ui_main.feed_url
+msgctxt "ui_main.feed_url"
 msgid "Feed URL"
 msgstr "URL y Ffrwd"
 
-#: $lang->'field_unused'
+#: ui_main.field_unused
+msgctxt "ui_main.field_unused"
 msgid "Unused field"
 msgstr "Maes gwag"
 
-#: $lang->'file'
+#: ui_main.file
+msgctxt "ui_main.file"
 msgid "File"
 msgstr "Ffeil"
 
-#: $lang->'file_over_max_allowed'
+#: ui_main.file_over_max_allowed
+msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
 msgstr "Mae eich ffeil yn rhy fawr. Mae’n fwy na’r maint mwyaf posibl"
 
-#: $lang->'filters'
+#: ui_main.filters
+msgctxt "ui_main.filters"
 msgid "Filters"
 msgstr "Hidlau"
 
-#: $lang->'filter_reports'
+#: ui_main.filter_reports
+msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
 msgstr "Hidlo adroddiadau"
 
-#: $lang->'filter_reports_by'
+#: ui_main.filter_reports_by
+msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
 msgstr "Hidlo adroddiadau trwy"
 
-#: $lang->'filter_reports_contain'
+#: ui_main.filter_reports_contain
+msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
 msgstr "Hidlo adroddiadau gyda"
 
-#: $lang->'find'
+#: ui_main.find
+msgctxt "ui_main.find"
 msgid "Find"
 msgstr "Chwilio"
 
-#: $lang->'find_location'
+#: ui_main.find_location
+msgctxt "ui_main.find_location"
 msgid "Find Location"
 msgstr "Chwilio am Leoliad"
 
-#: $lang->'first_name'
-msgctxt "$lang->'first_name'"
+#: ui_main.first_name
+msgctxt "ui_main.first_name"
 msgid "First Name"
 msgstr "Enw Cyntaf"
 
-#: $lang->'force_run_scheduler'
+#: ui_main.force_run_scheduler
+msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
 msgstr "Gorfodi i Redeg y Amserlennydd"
 
-#: $lang->'forgot_password'
-msgctxt "$lang->'forgot_password'"
+#: ui_main.forgot_password
+msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
 msgstr "Wedi anghofio dy gyfrinair?"
 
-#: $lang->'form'
+#: ui_main.form
+msgctxt "ui_main.form"
 msgid "Form"
 msgstr "Ffurflen"
 
-#: $lang->'forms'
+#: ui_main.forms
+msgctxt "ui_main.forms"
 msgid "Forms"
 msgstr "Ffurflenni"
 
-#: $lang->'form_description'
+#: ui_main.form_description
+msgctxt "ui_main.form_description"
 msgid "Form Description"
 msgstr "Disgrifiad y Ffurflen"
 
-#: $lang->'form_edit'
+#: ui_main.form_edit
+msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
 msgstr "Golygwch y Ffurflen"
 
-#: $lang->'form_has_been'
+#: ui_main.form_has_been
+msgctxt "ui_main.form_has_been"
 msgid "The form has been"
 msgstr "Mae eich ffurflen wedi cael ei"
 
-#: $lang->'form_title'
+#: ui_main.form_title
+msgctxt "ui_main.form_title"
 msgid "Form Title"
 msgstr "Teitl y Ffurflen"
 
-#: $lang->'from'
-msgctxt "$lang->'from'"
+#: ui_main.from
+msgctxt "ui_main.from"
 msgid "From"
 msgstr "Oddi Wrth"
 
-#: $lang->'full_name'
+#: ui_main.full_name
+msgctxt "ui_main.full_name"
 msgid "Full Name"
 msgstr "Enw Llawn"
 
-#: $lang->'geolocation_available'
+#: ui_main.geolocation_available
+msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
 msgstr "GeoLeoliad Ar Gael"
 
-#: $lang->'geometry_color'
-msgctxt "$lang->'geometry_color'"
+#: ui_main.geometry_color
+msgctxt "ui_main.geometry_color"
 msgid "Color"
 msgstr "Lliw"
 
-#: $lang->'geometry_comments'
-msgctxt "$lang->'geometry_comments'"
+#: ui_main.geometry_comments
+msgctxt "ui_main.geometry_comments"
 msgid "Comments"
 msgstr "Sylwadau"
 
-#: $lang->'geometry_label'
+#: ui_main.geometry_label
+msgctxt "ui_main.geometry_label"
 msgid "Label"
 msgstr "Label"
 
-#: $lang->'geometry_strokewidth'
+#: ui_main.geometry_strokewidth
+msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
 msgstr "Lled Strôc"
 
-#: $lang->'go'
+#: ui_main.go
+msgctxt "ui_main.go"
 msgid "Go"
 msgstr "Mynd"
 
-#: $lang->'hashtag'
+#: ui_main.hashtag
+msgctxt "ui_main.hashtag"
 msgid "Hashtag"
 msgstr "Tag Hash"
 
-#: $lang->'has_been'
+#: ui_main.has_been
+msgctxt "ui_main.has_been"
 msgid "Has Been"
 msgstr "Wedi Cael ei"
 
-#: $lang->'help'
+#: ui_main.help
+msgctxt "ui_main.help"
 msgid "How to Help"
 msgstr "Sut i Helpu"
 
-#: $lang->'hidden'
+#: ui_main.hidden
+msgctxt "ui_main.hidden"
 msgid "Hidden"
 msgstr "Cudd"
 
-#: $lang->'hide'
+#: ui_main.hide
+msgctxt "ui_main.hide"
 msgid "Hide"
 msgstr "Cuddio"
 
-#: $lang->'hide_this_message'
+#: ui_main.hide_this_message
+msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
 msgstr "cuddio’r neges hon"
 
-#: $lang->'home'
+#: ui_main.home
+msgctxt "ui_main.home"
 msgid "Home"
 msgstr "Adref"
 
-#: $lang->'how_to_report'
+#: ui_main.how_to_report
+msgctxt "ui_main.how_to_report"
 msgid "How to Report"
 msgstr "Sut i Anfon Adroddiad"
 
-#: $lang->'https'
+#: ui_main.https
+msgctxt "ui_main.https"
 msgid "HTTPS"
 msgstr "HTTPS"
 
-#: $lang->'id'
+#: ui_main.id
+msgctxt "ui_main.id"
 msgid "ID"
 msgstr "ID"
 
-#: $lang->'identify_you'
+#: ui_main.identify_you
+msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
 msgstr "Defnyddir fel y gall defnyddwyr eraill y wefan yn eich adnabod."
 
-#: $lang->'image'
+#: ui_main.image
+msgctxt "ui_main.image"
 msgid "Image"
 msgstr "Delwedd"
 
-#: $lang->'images'
+#: ui_main.images
+msgctxt "ui_main.images"
 msgid "Images"
 msgstr "Delweddau"
 
-#: $lang->'image_icon'
+#: ui_main.image_icon
+msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
 msgstr "Delwedd/Eicon"
 
-#: $lang->'inactive'
+#: ui_main.inactive
+msgctxt "ui_main.inactive"
 msgid "Inactive"
 msgstr "Heb ei Alluogi"
 
-#: $lang->'inbox'
+#: ui_main.inbox
+msgctxt "ui_main.inbox"
 msgid "Inbox"
 msgstr "Mewnflwch"
 
-#: $lang->'incident'
+#: ui_main.incident
+msgctxt "ui_main.incident"
 msgid "Incident"
 msgstr "Digwyddiad"
 
-#: $lang->'incidents_nearby'
+#: ui_main.incidents_nearby
+msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
 msgstr "Digwyddiadau Cyfagos"
 
-#: $lang->'incident_location'
+#: ui_main.incident_location
+msgctxt "ui_main.incident_location"
 msgid "Incident Location"
 msgstr "Lleoliad Digwyddiad"
 
-#: $lang->'include'
+#: ui_main.include
+msgctxt "ui_main.include"
 msgid "Include"
 msgstr "Cynnwys"
 
-#: $lang->'include_categories'
+#: ui_main.include_categories
+msgctxt "ui_main.include_categories"
 msgid "Include Categories"
 msgstr "Cynnwys Categorïau"
 
-#: $lang->'include_custom_fields'
+#: ui_main.include_custom_fields
+msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
 msgstr "Cynnwys Meysydd Cyfaddas"
 
-#: $lang->'include_description'
+#: ui_main.include_description
+msgctxt "ui_main.include_description"
 msgid "Include Description"
 msgstr "Cynnwys Disgrifiad"
 
-#: $lang->'include_detail'
+#: ui_main.include_detail
+msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
 msgstr "Rhowch gymaint o fanylion â sy’n bosibl"
 
-#: $lang->'include_latitude'
+#: ui_main.include_latitude
+msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
 msgstr "Cynnwys Lledred"
 
-#: $lang->'include_location_information'
+#: ui_main.include_location_information
+msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
 msgstr "Cynnwys Gwybodaeth am Leoliad"
 
-#: $lang->'include_longitude'
+#: ui_main.include_longitude
+msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
 msgstr "Cynnwys Hydred"
 
-#: $lang->'incoming_media'
+#: ui_main.incoming_media
+msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
 msgstr "Cyfryngau Sy’n Dod Mewn"
 
-#: $lang->'information_evaluation'
+#: ui_main.information_evaluation
+msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
 msgstr "Asesu Gwybodaeth"
 
-#: $lang->'input_location'
+#: ui_main.input_location
+msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
 msgstr "Rhowch eich lleoliad yn fanwl gywir"
 
-#: $lang->'insufficient_role'
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
-msgstr ""
-"Nid oes gan eich cyfrif yr hawliau cywir i’ch mewngofnodi. Cysylltwch â’r "
-"gweinyddwr."
+#: ui_main.insufficient_role
+msgctxt "ui_main.insufficient_role"
+msgid "Your account doesn\'t have the proper permission to fully log you in. Please contact the administrator."
+msgstr "Nid oes gan eich cyfrif yr hawliau cywir i’ch mewngofnodi. Cysylltwch â’r gweinyddwr."
 
-#: $lang->'in_response_to'
+#: ui_main.in_response_to
+msgctxt "ui_main.in_response_to"
 msgid "In response to"
 msgstr "Mewn ymateb i"
 
-#: $lang->'ip_address'
+#: ui_main.ip_address
+msgctxt "ui_main.ip_address"
 msgid "IP Address"
 msgstr "Cyfeiriad IP"
 
-#: $lang->'is_this_your_profile'
+#: ui_main.is_this_your_profile
+msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
 msgstr "Ai hwn yw eich proffil?"
 
-#: $lang->'item'
+#: ui_main.item
+msgctxt "ui_main.item"
 msgid "item"
 msgstr "eitem"
 
-#: $lang->'items'
+#: ui_main.items
+msgctxt "ui_main.items"
 msgid "items"
 msgstr "eitemau"
 
-#: $lang->'item_details'
+#: ui_main.item_details
+msgctxt "ui_main.item_details"
 msgid "item_details"
 msgstr "manylion eitem"
 
-#: $lang->'item_title'
+#: ui_main.item_title
+msgctxt "ui_main.item_title"
 msgid "Item Title"
 msgstr "Teitl Eitem"
 
-#: $lang->'key'
+#: ui_main.key
+msgctxt "ui_main.key"
 msgid "Key"
 msgstr "Allwedd"
 
-#: $lang->'kml_kmz_file'
+#: ui_main.kml_kmz_file
+msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
 msgstr "Ffeil KMZ/KML"
 
-#: $lang->'kml_kmz_upload'
+#: ui_main.kml_kmz_upload
+msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
 msgstr "Llwytho Ffeil KMZ/KML"
 
-#: $lang->'kml_url'
+#: ui_main.kml_url
+msgctxt "ui_main.kml_url"
 msgid "KML URL"
 msgstr "KML URL"
 
-#: $lang->'laconica'
+#: ui_main.laconica
+msgctxt "ui_main.laconica"
 msgid "Laconica"
 msgstr "Laconica"
 
-#: $lang->'language'
+#: ui_main.language
+msgctxt "ui_main.language"
 msgid "Language"
 msgstr "Iaith"
 
-#: $lang->'last'
+#: ui_main.last
+msgctxt "ui_main.last"
 msgid "Last"
 msgstr "Blaenorol"
 
-#: $lang->'last_month'
+#: ui_main.last_month
+msgctxt "ui_main.last_month"
 msgid "Last Month"
 msgstr "Mis Blaenorol"
 
-#: $lang->'last_name'
-msgctxt "$lang->'last_name'"
+#: ui_main.last_name
+msgctxt "ui_main.last_name"
 msgid "Last Name"
 msgstr "Cyfenw"
 
-#: $lang->'last_year'
+#: ui_main.last_year
+msgctxt "ui_main.last_year"
 msgid "Last Year"
 msgstr "Blwyddyn Flaenorol"
 
-#: $lang->'latitude'
+#: ui_main.latitude
+msgctxt "ui_main.latitude"
 msgid "Latitude"
 msgstr "Lledred"
 
-#: $lang->'layers'
+#: ui_main.layers
+msgctxt "ui_main.layers"
 msgid "Layers"
 msgstr "Haenau"
 
-#: $lang->'layers_filter'
+#: ui_main.layers_filter
+msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
 msgstr "Haenau arall"
 
-#: $lang->'layer_has_been'
+#: ui_main.layer_has_been
+msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
 msgstr "Mae’r Haen Wedi Cael Ei"
 
-#: $lang->'layer_name'
+#: ui_main.layer_name
+msgctxt "ui_main.layer_name"
 msgid "Layer Name"
 msgstr "Enw haen"
 
-#: $lang->'layer_url'
+#: ui_main.layer_url
+msgctxt "ui_main.layer_url"
 msgid "Layer URL"
 msgstr "URL Haen"
 
-#: $lang->'leave_a_comment'
+#: ui_main.leave_a_comment
+msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
 msgstr "Gwnewch Sylw"
 
-#: $lang->'less_information'
+#: ui_main.less_information
+msgctxt "ui_main.less_information"
 msgid "Less Information"
 msgstr "Llai o Wybodaeth"
 
-#: $lang->'level'
+#: ui_main.level
+msgctxt "ui_main.level"
 msgid "Level"
 msgstr "Lefel"
 
-#: $lang->'level_has_been'
+#: ui_main.level_has_been
+msgctxt "ui_main.level_has_been"
 msgid "This level has been"
 msgstr "Mae’r lefel hwn wedi cael ei"
 
-#: $lang->'level_name'
+#: ui_main.level_name
+msgctxt "ui_main.level_name"
 msgid "Level Name"
 msgstr "Enw Lefel"
 
-#: $lang->'limited'
+#: ui_main.limited
+msgctxt "ui_main.limited"
 msgid "Limited"
 msgstr "Cyfyngedig"
 
-#: $lang->'link'
+#: ui_main.link
+msgctxt "ui_main.link"
 msgid "Link"
 msgstr "Dolen"
 
-#: $lang->'list'
+#: ui_main.list
+msgctxt "ui_main.list"
 msgid "List"
 msgstr "Rhestr"
 
-#: $lang->'loading_reports'
+#: ui_main.loading_reports
+msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
 msgstr "Wrthi’n Llwytho Adroddiadau"
 
-#: $lang->'location'
+#: ui_main.location
+msgctxt "ui_main.location"
 msgid "Location"
 msgstr "Lleoliad"
 
-#: $lang->'locations'
+#: ui_main.locations
+msgctxt "ui_main.locations"
 msgid "Locations"
 msgstr "Lleoliadau"
 
-#: $lang->'location_example'
+#: ui_main.location_example
+msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
 msgstr "Tref, Sir a/neu Wlad"
 
-#: $lang->'login'
+#: ui_main.login
+msgctxt "ui_main.login"
 msgid "Login"
 msgstr "Mewngofnodi"
 
-#: $lang->'login_account_creation_successful'
+#: ui_main.login_account_creation_successful
+msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
 msgstr "Crëwyd y Cyfrif yn llwyddiannus. Fe allwch chi fewngofnodi nawr."
 
-#: $lang->'login_confirmation_sent'
+#: ui_main.login_confirmation_sent
+msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "Mae neges gadarnhau wedi ei danfon i’ch cyfeiriad E-bost."
 
-#: $lang->'login_email_doesnt_exist'
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
-msgstr ""
-"Nid yw’r cyfeiriad E-bost hwnnw’n bodoli. Darparwch gyfeiriad arall neu "
-"crëwch gyfrif"
+#: ui_main.login_email_doesnt_exist
+msgctxt "ui_main.login_email_doesnt_exist"
+msgid "Email address doesn\'t exist. Try a different address or create an account."
+msgstr "Nid yw’r cyfeiriad E-bost hwnnw’n bodoli. Darparwch gyfeiriad arall neu crëwch gyfrif"
 
-#: $lang->'login_select_openid'
+#: ui_main.login_select_openid
+msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
 msgstr "Cliciwch ar ddarparwr eich cyfrif"
 
-#: $lang->'login_with'
+#: ui_main.login_with
+msgctxt "ui_main.login_with"
 msgid "Login with"
 msgstr "Mewngofnodi gyda"
 
-#: $lang->'login_userpass'
+#: ui_main.login_userpass
+msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
 msgstr "E-bost a Chyfrinair"
 
-#: $lang->'login_openid'
+#: ui_main.login_openid
+msgctxt "ui_main.login_openid"
 msgid "OpenID"
 msgstr "OpenID"
 
-#: $lang->'login_signup'
+#: ui_main.login_signup
+msgctxt "ui_main.login_signup"
 msgid "Sign Up"
 msgstr "Cofrestru"
 
-#: $lang->'login_signup_click'
+#: ui_main.login_signup_click
+msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
 msgstr "Creu Cyfrif"
 
-#: $lang->'login_signup_confirmation_message'
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
-msgstr ""
-"Diolch am gofrestru gyda %s. I gadarnhau eich cyfeiriad E-bost, ewch i’r URL "
-"canlynol: %s"
+#: ui_main.login_signup_confirmation_message
+msgctxt "ui_main.login_signup_confirmation_message"
+msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
+msgstr "Diolch am gofrestru gyda %s. I gadarnhau eich cyfeiriad E-bost, ewch i’r URL canlynol: %s"
 
-#: $lang->'login_signup_confirmation_subject'
+#: ui_main.login_signup_confirmation_subject
+msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "Cadarnhad Cofrestru"
 
-#: $lang->'login_signup_text'
+#: ui_main.login_signup_text
+msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
 msgstr "Crëwch gyfrif nawr i fanteisio ar fwy o nodweddion y wefan hon."
 
-#: $lang->'longitude'
+#: ui_main.longitude
+msgctxt "ui_main.longitude"
 msgid "Longitude"
 msgstr "Hydred"
 
-#: $lang->'map'
+#: ui_main.map
+msgctxt "ui_main.map"
 msgid "Map"
 msgstr "Map"
 
-#: $lang->'mark_read'
+#: ui_main.mark_read
+msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
 msgstr "Nodi fel Darllenwyd"
 
-#: $lang->'mark_unread'
+#: ui_main.mark_unread
+msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
 msgstr "Nodi fel heb ei ddarllen"
 
-#: $lang->'maximum_filesize'
+#: ui_main.maximum_filesize
+msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
 msgstr "Uchafswm maint ffeil"
 
-#: $lang->'media'
+#: ui_main.media
+msgctxt "ui_main.media"
 msgid "Media"
 msgstr "Cyfryngau"
 
-#: $lang->'media_filter'
+#: ui_main.media_filter
+msgctxt "ui_main.media_filter"
 msgid "Media Filter"
 msgstr "Hidlydd Cyfryngau"
 
-#: $lang->'members'
+#: ui_main.members
+msgctxt "ui_main.members"
 msgid "Members"
 msgstr "Aelodau"
 
-#: $lang->'manage_your_account'
+#: ui_main.manage_your_account
+msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
 msgstr "Rheoli Eich Cyfrif"
 
-#: $lang->'message'
-msgctxt "$lang->'message'"
+#: ui_main.message
+msgctxt "ui_main.message"
 msgid "Message"
 msgstr "Neges"
 
-#: $lang->'messages'
+#: ui_main.messages
+msgctxt "ui_main.messages"
 msgid "Messages"
 msgstr "Negeseuon"
 
-#: $lang->'message_details'
+#: ui_main.message_details
+msgctxt "ui_main.message_details"
 msgid "Message Details"
 msgstr "Manylion y Neges"
 
-#: $lang->'message_non_numeric_source'
+#: ui_main.message_non_numeric_source
+msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
 msgstr "Neges o ffynhonnell an-rhifol:"
 
-#: $lang->'mobile'
+#: ui_main.mobile
+msgctxt "ui_main.mobile"
 msgid "Mobile"
 msgstr "Symudol"
 
-#: $lang->'modify'
+#: ui_main.modify
+msgctxt "ui_main.modify"
 msgid "Modify"
 msgstr "Newid"
 
-#: $lang->'modify_date'
+#: ui_main.modify_date
+msgctxt "ui_main.modify_date"
 msgid "Modify Date"
 msgstr "Newid Dyddiad"
 
-#: $lang->'month'
+#: ui_main.month
+msgctxt "ui_main.month"
 msgid "month"
 msgstr "mis"
 
-#: $lang->'more'
+#: ui_main.more
+msgctxt "ui_main.more"
 msgid "More"
 msgstr "Mwy"
 
-#: $lang->'more_information'
+#: ui_main.more_information
+msgctxt "ui_main.more_information"
 msgid "More Information"
 msgstr "Mwy o Wybodaeth"
 
-#: $lang->'multi_country_instance'
+#: ui_main.multi_country_instance
+msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
 msgstr "Ydi’r Gosodiad Ushahidi Hwn yn Pontio Nifer o Wledydd"
 
-#: $lang->'must_confirm_email_address'
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
-msgstr ""
-"Rhaid i chi gadarnhau eich cyfeiriad E-bost i cael mynediad i’r system hwn. "
-"Os ydych chi wedi colli eich E-bost cadarnhau, fe allwch chi ofyn am un "
-"arall isod."
+#: ui_main.must_confirm_email_address
+msgctxt "ui_main.must_confirm_email_address"
+msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
+msgstr "Rhaid i chi gadarnhau eich cyfeiriad E-bost i cael mynediad i’r system hwn. Os ydych chi wedi colli eich E-bost cadarnhau, fe allwch chi ofyn am un arall isod."
 
-#: $lang->'name'
+#: ui_main.name
+msgctxt "ui_main.name"
 msgid "Name"
 msgstr "Enw"
 
-#: $lang->'nearby_report'
+#: ui_main.nearby_report
+msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
 msgstr "Adroddiad Cyfagos"
 
-#: $lang->'new'
+#: ui_main.new
+msgctxt "ui_main.new"
 msgid "New"
 msgstr "Newydd"
 
-#: $lang->'news'
+#: ui_main.news
+msgctxt "ui_main.news"
 msgid "News"
 msgstr "Newyddion"
 
-#: $lang->'news_feeds'
+#: ui_main.news_feeds
+msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
 msgstr "Ffrydiau Newyddion"
 
-#: $lang->'news_source'
+#: ui_main.news_source
+msgctxt "ui_main.news_source"
 msgid "News Source"
 msgstr "Ffynhonnell Newyddion"
 
-#: $lang->'new_category'
+#: ui_main.new_category
+msgctxt "ui_main.new_category"
 msgid "New Category"
 msgstr "Categori Newydd"
 
-#: $lang->'new_password'
+#: ui_main.new_password
+msgctxt "ui_main.new_password"
 msgid "New Password"
 msgstr "Cyfrinair Newydd"
 
-#: $lang->'new_report'
+#: ui_main.new_report
+msgctxt "ui_main.new_report"
 msgid "New Report"
 msgstr "Adroddiad Newydd"
 
-#: $lang->'next'
+#: ui_main.next
+msgctxt "ui_main.next"
 msgid "Next"
 msgstr "Nesaf"
 
-#: $lang->'no'
+#: ui_main.no
+msgctxt "ui_main.no"
 msgid "No"
 msgstr "Na"
 
-#: $lang->'no_checkins'
+#: ui_main.no_checkins
+msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
 msgstr "Dim nodau lle i’w dangos."
 
-#: $lang->'no_data'
+#: ui_main.no_data
+msgctxt "ui_main.no_data"
 msgid "No data"
 msgstr "Dim data"
 
-#: $lang->'none'
+#: ui_main.none
+msgctxt "ui_main.none"
 msgid "None"
 msgstr "Dim byd"
 
-#: $lang->'notices'
+#: ui_main.notices
+msgctxt "ui_main.notices"
 msgid "Notices"
 msgstr "Hysbysiadau"
 
-#: $lang->'not_approved'
-msgctxt "$lang->'not_approved'"
+#: ui_main.not_approved
+msgctxt "ui_main.not_approved"
 msgid "Not Approved"
 msgstr "Heb ei Gymeradwyo"
 
-#: $lang->'not_approved_singular'
-msgctxt "$lang->'not_approved_singular'"
+#: ui_main.not_approved_singular
+msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
 msgstr "Heb ei Gymeradwyo"
 
-#: $lang->'not_selected'
+#: ui_main.not_selected
+msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
 msgstr "---Heb ei Ddewis---"
 
-#: $lang->'not_spam'
+#: ui_main.not_spam
+msgctxt "ui_main.not_spam"
 msgid "not spam"
 msgstr "nid sbam"
 
-#: $lang->'not_specified'
+#: ui_main.not_specified
+msgctxt "ui_main.not_specified"
 msgid "Not Specified"
 msgstr "Heb ei Benodi"
 
-#: $lang->'no_reports'
+#: ui_main.no_reports
+msgctxt "ui_main.no_reports"
 msgid "There are no reports"
 msgstr "Nid oes adroddiadau"
 
-#: $lang->'no_results'
+#: ui_main.no_results
+msgctxt "ui_main.no_results"
 msgid "There are no results"
 msgstr "Nid oes canlyniadau"
 
-#: $lang->'off'
+#: ui_main.off
+msgctxt "ui_main.off"
 msgid "Off"
 msgstr "I Ffwrdd"
 
-#: $lang->'official_news'
+#: ui_main.official_news
+msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
 msgstr "Newyddion Swyddogol &amp; Prif-ffrwd"
 
-#: $lang->'on'
+#: ui_main.on
+msgctxt "ui_main.on"
 msgid "On"
 msgstr "Ymlaen"
 
-#: $lang->'option'
+#: ui_main.option
+msgctxt "ui_main.option"
 msgid "Option"
 msgstr "Dewis"
 
-#: $lang->'optional'
+#: ui_main.optional
+msgctxt "ui_main.optional"
 msgid "Optional"
 msgstr "Dewisol"
 
-#: $lang->'options'
+#: ui_main.options
+msgctxt "ui_main.options"
 msgid "Options"
 msgstr "Dewisiadau"
 
-#: $lang->'organization'
+#: ui_main.organization
+msgctxt "ui_main.organization"
 msgid "Organization"
 msgstr "Sefydliad"
 
-#: $lang->'organizations'
+#: ui_main.organizations
+msgctxt "ui_main.organizations"
 msgid "Organizations"
 msgstr "Sefydliad"
 
-#: $lang->'organization_description'
+#: ui_main.organization_description
+msgctxt "ui_main.organization_description"
 msgid "Organization Description"
 msgstr "Disgrifiad Sefydliad"
 
-#: $lang->'organization_email'
+#: ui_main.organization_email
+msgctxt "ui_main.organization_email"
 msgid "Organization Email"
 msgstr "E-bost Sefydliad"
 
-#: $lang->'organization_has_been'
+#: ui_main.organization_has_been
+msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
 msgstr "Mae’r Sefydliad wedi"
 
-#: $lang->'organization_name'
+#: ui_main.organization_name
+msgctxt "ui_main.organization_name"
 msgid "Organization Name"
 msgstr "Enw’r Sefydliad"
 
-#: $lang->'organization_phone_1'
+#: ui_main.organization_phone_1
+msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
 msgstr "Rhif ffôn Sefydliad 1"
 
-#: $lang->'organization_phone_2'
+#: ui_main.organization_phone_2
+msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
 msgstr "Rhif ffôn Sefydliad 2"
 
-#: $lang->'organization_website'
+#: ui_main.organization_website
+msgctxt "ui_main.organization_website"
 msgid "Organization Website"
 msgstr "Gwefan y Sefydliad"
 
-#: $lang->'original'
+#: ui_main.original
+msgctxt "ui_main.original"
 msgid "Original"
 msgstr "Gwreiddiol"
 
-#: $lang->'original_description'
+#: ui_main.original_description
+msgctxt "ui_main.original_description"
 msgid "Original Description"
 msgstr "Disgrifiad Gwreiddiol"
 
-#: $lang->'original_title'
+#: ui_main.original_title
+msgctxt "ui_main.original_title"
 msgid "Original Title"
 msgstr "Teitl Gwreiddiol"
 
-#: $lang->'other_ushahidi_instances'
+#: ui_main.other_ushahidi_instances
+msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
 msgstr "Gosodiad Arall"
 
-#: $lang->'outbox'
+#: ui_main.outbox
+msgctxt "ui_main.outbox"
 msgid "Outbox"
 msgstr "Blwch allan"
 
-#: $lang->'outgoing'
+#: ui_main.outgoing
+msgctxt "ui_main.outgoing"
 msgid "Outgoing"
 msgstr "I’w Danfon"
 
-#: $lang->'page'
+#: ui_main.page
+msgctxt "ui_main.page"
 msgid "Page"
 msgstr "Tudalen"
 
-#: $lang->'pages'
+#: ui_main.pages
+msgctxt "ui_main.pages"
 msgid "Pages"
 msgstr "Tudalennau"
 
-#: $lang->'page_description'
+#: ui_main.page_description
+msgctxt "ui_main.page_description"
 msgid "Page Description"
 msgstr "Disgrifiad Tudalen"
 
-#: $lang->'page_has_been'
+#: ui_main.page_has_been
+msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
 msgstr "Mae’r Dudalen Wedi Cael Ei"
 
-#: $lang->'page_tab_name'
+#: ui_main.page_tab_name
+msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
 msgstr "Enw Tab Tudalen"
 
-#: $lang->'page_title'
+#: ui_main.page_title
+msgctxt "ui_main.page_title"
 msgid "Page Title"
 msgstr "Teitl Tudalen"
 
-#: $lang->'parent_category'
+#: ui_main.parent_category
+msgctxt "ui_main.parent_category"
 msgid "Parent Category"
 msgstr "Categori Rhiant"
 
-#: $lang->'password'
+#: ui_main.password
+msgctxt "ui_main.password"
 msgid "Password"
 msgstr "Cyfrinair"
 
-#: $lang->'password_again'
+#: ui_main.password_again
+msgctxt "ui_main.password_again"
 msgid "Verify Password"
 msgstr "Gwirio Cyfrinair"
 
-#: $lang->'password_changed_successfully'
+#: ui_main.password_changed_successfully
+msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
 msgstr "Newidwyd y cyfrinair yn llwyddiannus! Mewngofnodwch isod."
 
-#: $lang->'password_forgot'
-msgctxt "$lang->'password_forgot'"
+#: ui_main.password_forgot
+msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
 msgstr "Wedi anghofio’ch cyfrinair?"
 
-#: $lang->'password_reset_confirm'
+#: ui_main.password_reset_confirm
+msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
 msgstr "Edrychwch am E-bost yn cynnwys eich cyfrinair newydd."
 
-#: $lang->'password_save'
+#: ui_main.password_save
+msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
 msgstr "Cadw wedi mewngofnodi ar y cyfrifiadur hwn?"
 
-#: $lang->'past_month'
+#: ui_main.past_month
+msgctxt "ui_main.past_month"
 msgid "Past Month"
 msgstr "Mis Diwethaf"
 
-#: $lang->'past_year'
+#: ui_main.past_year
+msgctxt "ui_main.past_year"
 msgid "Past Year"
 msgstr "Blwyddyn Diwethaf"
 
-#: $lang->'pending'
+#: ui_main.pending
+msgctxt "ui_main.pending"
 msgid "Pending"
 msgstr "Yn disgwyl"
 
-#: $lang->'per'
+#: ui_main.per
+msgctxt "ui_main.per"
 msgid "per"
 msgstr "yr"
 
-#: $lang->'personal_information'
+#: ui_main.personal_information
+msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
 msgstr "Gwybodaeth Bersonol <span>Dewisol.</span>"
 
-#: $lang->'phone'
+#: ui_main.phone
+msgctxt "ui_main.phone"
 msgid "Phone"
 msgstr "Ffôn"
 
-#: $lang->'photos'
+#: ui_main.photos
+msgctxt "ui_main.photos"
 msgid "Photos"
 msgstr "Ffotograffau"
 
-#: $lang->'pictures'
+#: ui_main.pictures
+msgctxt "ui_main.pictures"
 msgid "Pictures"
 msgstr "Lluniau"
 
-#: $lang->'pictures_and_videos'
+#: ui_main.pictures_and_videos
+msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
 msgstr "Lluniau a Fideos"
 
-#: $lang->'pinpoint_location'
-msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
-msgstr ""
-"* Chwiliwch am eich lleoliad drwy ddefnyddio enw lleoliad o gyfesurynnau "
-"lledred, hydred (fformat: 38.19,-85.61), neu cliciwch ar y map i nodi eich "
-"lleoliad cywir"
+#: ui_main.pinpoint_location
+msgctxt "ui_main.pinpoint_location"
+msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
+msgstr "* Chwiliwch am eich lleoliad drwy ddefnyddio enw lleoliad o gyfesurynnau lledred, hydred (fformat: 38.19,-85.61), neu cliciwch ar y map i nodi eich lleoliad cywir"
 
-#: $lang->'play'
+#: ui_main.play
+msgctxt "ui_main.play"
 msgid "Play"
 msgstr "Chwarae"
 
-#: $lang->'please_note'
+#: ui_main.please_note
+msgctxt "ui_main.please_note"
 msgid "Please Note"
 msgstr "Nodwch"
 
-#: $lang->'plugins'
+#: ui_main.plugins
+msgctxt "ui_main.plugins"
 msgid "Plugins"
 msgstr "Ategion"
 
-#: $lang->'plugin_url'
+#: ui_main.plugin_url
+msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
 msgstr "Gwefan Ategion"
 
-#: $lang->'public_profile'
+#: ui_main.public_profile
+msgctxt "ui_main.public_profile"
 msgid "Public Profile"
 msgstr "Proffil Cyhoeddus"
 
-#: $lang->'public_profile_url'
+#: ui_main.public_profile_url
+msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
 msgstr "URL Proffil Cyhoeddus"
 
-#: $lang->'preview'
+#: ui_main.preview
+msgctxt "ui_main.preview"
 msgid "Preview"
 msgstr "Rhagolwg"
 
-#: $lang->'preview_item'
+#: ui_main.preview_item
+msgctxt "ui_main.preview_item"
 msgid "Preview Item"
 msgstr "Rhagolwg Eitem"
 
-#: $lang->'preview_message'
+#: ui_main.preview_message
+msgctxt "ui_main.preview_message"
 msgid "Preview Message"
 msgstr "Rhagolwg Neges"
 
-#: $lang->'previous'
+#: ui_main.previous
+msgctxt "ui_main.previous"
 msgid "Previous"
 msgstr "Blaenorol"
 
-#: $lang->'private'
+#: ui_main.private
+msgctxt "ui_main.private"
 msgid "Private"
 msgstr "Preifat"
 
-#: $lang->'profile_color'
+#: ui_main.profile_color
+msgctxt "ui_main.profile_color"
 msgid "Profile Color"
 msgstr "Lliw Proffil"
 
-#: $lang->'profile_saved'
+#: ui_main.profile_saved
+msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
 msgstr "Mae’ch Proffil wedi ei gadw"
 
-#: $lang->'quick_stats'
+#: ui_main.quick_stats
+msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
 msgstr "Ystadegau Cyflym"
 
-#: $lang->'rating'
+#: ui_main.rating
+msgctxt "ui_main.rating"
 msgid "Rating"
 msgstr "Graddiad"
 
-#: $lang->'read'
+#: ui_main.read
+msgctxt "ui_main.read"
 msgid "Read"
 msgstr "Darllen"
 
-#: $lang->'receive'
+#: ui_main.receive
+msgctxt "ui_main.receive"
 msgid "Receive"
 msgstr "Derbyn"
 
-#: $lang->'receive_from'
+#: ui_main.receive_from
+msgctxt "ui_main.receive_from"
 msgid "Receive from"
 msgstr "Derbyn oddi wrth"
 
-#: $lang->'receive_notifications'
+#: ui_main.receive_notifications
+msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
 msgstr "Derbyn Hysbysiadau"
 
-#: $lang->'recent_reports'
+#: ui_main.recent_reports
+msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
 msgstr "Adroddiadau Diweddar"
 
-#: $lang->'refresh_news_feeds'
+#: ui_main.refresh_news_feeds
+msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
 msgstr "Adnewyddu Ffrydiau Newyddion"
 
-#: $lang->'registered_email'
+#: ui_main.registered_email
+msgctxt "ui_main.registered_email"
 msgid "Registered Email"
 msgstr "E-bost Cofrestredig"
 
-#: $lang->'remove'
+#: ui_main.remove
+msgctxt "ui_main.remove"
 msgid "Remove"
 msgstr "Dileu"
 
-#: $lang->'reply'
+#: ui_main.reply
+msgctxt "ui_main.reply"
 msgid "Reply"
 msgstr "Ymateb"
 
-#: $lang->'report'
+#: ui_main.report
+msgctxt "ui_main.report"
 msgid "Report"
 msgstr "Adrodd"
 
-#: $lang->'reports_listed'
+#: ui_main.reports_listed
+msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
 msgstr "Adroddiadau <span>(o’r map, wedi eu rhestru yn nhrefn amser)</span>"
 
-#: $lang->'reporter'
+#: ui_main.reporter
+msgctxt "ui_main.reporter"
 msgid "Reporter"
 msgstr "Adroddwr"
 
-#: $lang->'reporters'
+#: ui_main.reporters
+msgctxt "ui_main.reporters"
 msgid "Reporters"
 msgstr "Adroddwyr"
 
-#: $lang->'reporter_date'
+#: ui_main.reporter_date
+msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
 msgstr "Dyddiad Adroddwr"
 
-#: $lang->'reporter_email'
+#: ui_main.reporter_email
+msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
 msgstr "E-bost Adroddwr"
 
-#: $lang->'reporter_first_name'
+#: ui_main.reporter_first_name
+msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
 msgstr "Enw Cyntaf Adroddwr"
 
-#: $lang->'reporter_has_been'
+#: ui_main.reporter_has_been
+msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
 msgstr "Mae’r Adroddwr Wedi Bod"
 
-#: $lang->'reporter_ip'
+#: ui_main.reporter_ip
+msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
 msgstr "Cyfeiriad IP Adroddwr"
 
-#: $lang->'reporter_last_name'
+#: ui_main.reporter_last_name
+msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
 msgstr "Cyfenw Adroddwr"
 
-#: $lang->'reporter_level'
+#: ui_main.reporter_level
+msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
 msgstr "Lefel Adroddwr"
 
-#: $lang->'reporter_levels'
+#: ui_main.reporter_levels
+msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
 msgstr "Lefelau Adroddwr"
 
-#: $lang->'reporter_phone'
+#: ui_main.reporter_phone
+msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
 msgstr "Ffôn Adroddwr"
 
-#: $lang->'reports'
+#: ui_main.reports
+msgctxt "ui_main.reports"
 msgid "Reports"
 msgstr "Adroddiadau"
 
-#: $lang->'reports_btn_browse'
+#: ui_main.reports_btn_browse
+msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
 msgstr "Pori"
 
-#: $lang->'reports_btn_submit'
+#: ui_main.reports_btn_submit
+msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
 msgstr "Cyflwyno"
 
-#: $lang->'reports_by_this_user'
+#: ui_main.reports_by_this_user
+msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
 msgstr "Adroddiadau Gan y Defnyddiwr Hwn"
 
-#: $lang->'reports_categories'
-msgctxt "$lang->'reports_categories'"
+#: ui_main.reports_categories
+msgctxt "ui_main.reports_categories"
 msgid "Categories"
 msgstr "Categorïau"
 
-#: $lang->'reports_date'
-msgctxt "$lang->'reports_date'"
+#: ui_main.reports_count
+msgctxt "ui_main.reports_count"
+msgid "%d Reports"
+msgstr ""
+
+#: ui_main.reports_date
+msgctxt "ui_main.reports_date"
 msgid "Date"
 msgstr "Dyddiad"
 
-#: $lang->'reports_description'
-msgctxt "$lang->'reports_description'"
+#: ui_main.reports_description
+msgctxt "ui_main.reports_description"
 msgid "Description"
 msgstr "Disgrifiad"
 
-#: $lang->'reports_download_csv'
+#: ui_main.reports_download_csv
+msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
 msgstr "Mi fydd Adroddiadau yn cael eu llwytho lawr mewn fformat CSV"
 
-#: $lang->'reports_email'
-msgctxt "$lang->'reports_email'"
+#: ui_main.reports_email
+msgctxt "ui_main.reports_email"
 msgid "Email"
 msgstr "E-bost"
 
-#: $lang->'reports_features'
+#: ui_main.reports_features
+msgctxt "ui_main.reports_features"
 msgid "Features"
 msgstr "Nodweddion"
 
-#: $lang->'reports_find_location'
+#: ui_main.reports_find_location
+msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
 msgstr "Canfod lleoliad sy’n agos i chi"
 
-#: $lang->'reports_first'
-msgctxt "$lang->'reports_first'"
+#: ui_main.reports_first
+msgctxt "ui_main.reports_first"
 msgid "First Name"
 msgstr "Enw Cyntaf"
 
-#: $lang->'reports_last'
-msgctxt "$lang->'reports_last'"
+#: ui_main.reports_last
+msgctxt "ui_main.reports_last"
 msgid "Last Name"
 msgstr "Cyfenw"
 
-#: $lang->'reports_location_name'
-msgid "Refine Location Name"
+#: ui_main.reports_location_name
+msgctxt "ui_main.reports_location_name"
+msgid "Location Name"
 msgstr "Mireinio Enw Lleoliad"
 
-#: $lang->'reports_news'
+#: ui_main.reports_news
+msgctxt "ui_main.reports_news"
 msgid "News Source Link"
 msgstr "Dolen Ffynhonnell Newyddion"
 
-#: $lang->'reports_optional'
+#: ui_main.reports_optional
+msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
 msgstr "Gwybodaeth Dewisol"
 
-#: $lang->'reports_photos'
+#: ui_main.reports_photos
+msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
 msgstr "Llwytho fyny Lluniau"
 
-#: $lang->'reports_return'
+#: ui_main.reports_return
+msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
 msgstr "Dychwelyd i’r dudalen adroddiadau"
 
-#: $lang->'reports_select_city'
+#: ui_main.reports_select_city
+msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
 msgstr "Dewiswch Dref"
 
-#: $lang->'reports_submitted'
-msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
-msgstr ""
-"Mae eich Adroddiad wedi ei ddanfon i’n staff i’w adolygu. Mi fyddwn yn "
-"ymateb cyn bo hir os oes angen."
+#: ui_main.reports_submitted
+msgctxt "ui_main.reports_submitted"
+msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
+msgstr "Mae eich Adroddiad wedi ei ddanfon i’n staff i’w adolygu. Mi fyddwn yn ymateb cyn bo hir os oes angen."
 
-#: $lang->'reports_submit_new'
+#: ui_main.reports_submit_new
+msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
 msgstr "Danfon Adroddiad Newydd"
 
-#: $lang->'reports_time'
-msgctxt "$lang->'reports_time'"
+#: ui_main.reports_time
+msgctxt "ui_main.reports_time"
 msgid "Time"
 msgstr "Amser"
 
-#: $lang->'reports_timeline'
+#: ui_main.reports_timeline
+msgctxt "ui_main.reports_timeline"
 msgid "Timeline"
 msgstr "Llinell amser"
 
-#: $lang->'reports_title'
-msgctxt "$lang->'reports_title'"
+#: ui_main.reports_title
+msgctxt "ui_main.reports_title"
 msgid "Report Title"
 msgstr "Teitl Adroddiad"
 
-#: $lang->'reports_video'
+#: ui_main.reports_video
+msgctxt "ui_main.reports_video"
 msgid "Video link"
 msgstr "Dolen fideo"
 
-#: $lang->'report_an_incident'
+#: ui_main.report_an_incident
+msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
 msgstr "Adrodd am Ddigwyddiad"
 
-#: $lang->'report_details'
+#: ui_main.report_details
+msgctxt "ui_main.report_details"
 msgid "Report Details"
 msgstr "Manylion Adroddiad"
 
-#: $lang->'report_option_1'
+#: ui_main.report_option_1
+msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
 msgstr "Drwy anfon neges at"
 
-#: $lang->'report_option_2'
+#: ui_main.report_option_2
+msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
 msgstr "Drwy anfon E-bost at"
 
-#: $lang->'report_option_3'
+#: ui_main.report_option_3
+msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
 msgstr "Drwy anfon trydariad gyda’r tag/tagiau hash"
 
-#: $lang->'report_option_4'
+#: ui_main.report_option_4
+msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
 msgstr "Drwy lenwi’r ffurflen hon ar ein gwefan."
 
-#: $lang->'report_option_external_apps'
+#: ui_main.report_option_external_apps
+msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
 msgstr "Drwy ddefnydio ap"
 
-#: $lang->'report_saved'
+#: ui_main.report_saved
+msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
 msgstr "Mae eich Adroddiad wedi ei gadw"
 
-#: $lang->'report_title'
-msgctxt "$lang->'report_title'"
+#: ui_main.report_title
+msgctxt "ui_main.report_title"
 msgid "Report Title"
 msgstr "Teitl Adroddiad"
 
-#: $lang->'request_information'
+#: ui_main.request_information
+msgctxt "ui_main.request_information"
 msgid "Request more information"
 msgstr "Cais am fwy o wybodaeth"
 
-#: $lang->'request_location'
+#: ui_main.request_location
+msgctxt "ui_main.request_location"
 msgid "Request location"
 msgstr "Cais am leoliad"
 
-#: $lang->'required'
+#: ui_main.required
+msgctxt "ui_main.required"
 msgid "Required"
 msgstr "Gofynnol"
 
-#: $lang->'requirements'
+#: ui_main.requirements
+msgctxt "ui_main.requirements"
 msgid "Requirements"
 msgstr "Gofynion"
 
-#: $lang->'resend_confirm_email'
+#: ui_main.resend_confirm_email
+msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
 msgstr "Ail-anfon E-bost Cadarnhau"
 
-#: $lang->'reset'
+#: ui_main.reset
+msgctxt "ui_main.reset"
 msgid "Reset"
 msgstr "Ail-osod"
 
-#: $lang->'reset_all_filters'
+#: ui_main.reset_all_filters
+msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
 msgstr "Ail-osod pob hidlydd"
 
-#: $lang->'reset_password'
+#: ui_main.reset_password
+msgctxt "ui_main.reset_password"
 msgid "Reset Password"
 msgstr "Ail-osod Cyfrinair"
 
-#: $lang->'retrieve_city_names'
+#: ui_main.retrieve_city_names
+msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
 msgstr "Gofyn am enwau trefi i’r wlad ddewisol"
 
-#: $lang->'riverid_information'
+#: ui_main.riverid_information
+msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
 msgstr "Cyfrifon rheolir gan y gwasanaeth %s."
 
-#: $lang->'role'
+#: ui_main.role
+msgctxt "ui_main.role"
 msgid "Role"
 msgstr "Rôl"
 
-#: $lang->'rss'
+#: ui_main.rss
+msgctxt "ui_main.rss"
 msgid "RSS"
 msgstr "RSS"
 
-#: $lang->'save'
+#: ui_main.save
+msgctxt "ui_main.save"
 msgid "Save"
 msgstr "Cadw"
 
-#: $lang->'saved'
+#: ui_main.saved
+msgctxt "ui_main.saved"
 msgid "Saved"
 msgstr "Cadwyd"
 
-#: $lang->'save_add_new'
+#: ui_main.save_add_new
+msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
 msgstr "Cadwyd & Ychwanegu Newydd"
 
-#: $lang->'save_close'
+#: ui_main.save_close
+msgctxt "ui_main.save_close"
 msgid "Save & Close"
 msgstr "Cadw a Chau"
 
-#: $lang->'save_report'
+#: ui_main.save_report
+msgctxt "ui_main.save_report"
 msgid "Save Report"
 msgstr "Cadw Adroddiad"
 
-#: $lang->'schedule'
+#: ui_main.schedule
+msgctxt "ui_main.schedule"
 msgid "Schedule"
 msgstr "Amserlen"
 
-#: $lang->'scheduler'
+#: ui_main.scheduler
+msgctxt "ui_main.scheduler"
 msgid "Scheduler"
 msgstr "Amserlenydd"
 
-#: $lang->'scheduler_day'
+#: ui_main.scheduler_day
+msgctxt "ui_main.scheduler_day"
 msgid "Day"
 msgstr "Diwrnod"
 
-#: $lang->'scheduler_hour'
+#: ui_main.scheduler_hour
+msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
 msgstr "Awr"
 
-#: $lang->'scheduler_log'
+#: ui_main.scheduler_log
+msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
 msgstr "Cofnod Amserlenydd"
 
-#: $lang->'scheduler_minute'
+#: ui_main.scheduler_minute
+msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
 msgstr "Munud"
 
-#: $lang->'scheduler_weekday'
+#: ui_main.scheduler_weekday
+msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
 msgstr "Diwrnod yr Wythnos"
 
-#: $lang->'search'
+#: ui_main.search
+msgctxt "ui_main.search"
 msgid "SEARCH"
 msgstr "CHWILIO"
 
-#: $lang->'search_results'
+#: ui_main.search_results
+msgctxt "ui_main.search_results"
 msgid "Search Results"
 msgstr "Canlyniadau Chwilio"
 
-#: $lang->'security_code'
-msgctxt "$lang->'security_code'"
+#: ui_main.security_code
+msgctxt "ui_main.security_code"
 msgid "Security Code"
 msgstr "Côd Diogelwch"
 
-#: $lang->'select_all'
+#: ui_main.select_all
+msgctxt "ui_main.select_all"
 msgid "Select All"
 msgstr "Dewis Popeth"
 
-#: $lang->'select_field_type'
+#: ui_main.select_field_type
+msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
 msgstr "Dewiswch Math o Faes"
 
-#: $lang->'select_form_type'
+#: ui_main.select_form_type
+msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
 msgstr "Dewiswch Math o Ffurflen"
 
-#: $lang->'select_in_map'
+#: ui_main.select_in_map
+msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
 msgstr "Dewiswch yn y map"
 
-#: $lang->'select_multiple'
+#: ui_main.select_multiple
+msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
 msgstr "Dewiswch gymaint â sydd angen"
 
-#: $lang->'select_one'
+#: ui_main.select_one
+msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
 msgstr "Gwnewch yn siwr eich bod wedi dewis eitem"
 
-#: $lang->'select_theme'
+#: ui_main.select_theme
+msgctxt "ui_main.select_theme"
 msgid "Select Theme"
 msgstr "Dewiswch Thema"
 
-#: $lang->'send'
+#: ui_main.send
+msgctxt "ui_main.send"
 msgid "Send"
 msgstr "Anfon"
 
-#: $lang->'send_confirmation'
+#: ui_main.send_confirmation
+msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
 msgstr "Anfon Cadarnhad"
 
-#: $lang->'sending_to'
+#: ui_main.sending_to
+msgctxt "ui_main.sending_to"
 msgid "Sending To"
 msgstr "Yn Anfon At"
 
-#: $lang->'sent'
+#: ui_main.sent
+msgctxt "ui_main.sent"
 msgid "Sent"
 msgstr "Anfonwyd"
 
-#: $lang->'sent_by'
+#: ui_main.sent_by
+msgctxt "ui_main.sent_by"
 msgid "Sent by"
 msgstr "Anfonwyd gan"
 
-#: $lang->'server_address'
+#: ui_main.server_address
+msgctxt "ui_main.server_address"
 msgid "Server address"
 msgstr "Cyfeiriad gweinydd"
 
-#: $lang->'server_type'
+#: ui_main.server_type
+msgctxt "ui_main.server_type"
 msgid "Server type"
 msgstr "Math gweinydd"
 
-#: $lang->'service'
+#: ui_main.service
+msgctxt "ui_main.service"
 msgid "Service"
 msgstr "Gwasanaeth"
 
-#: $lang->'service_username'
+#: ui_main.service_username
+msgctxt "ui_main.service_username"
 msgid "Service Username"
 msgstr "Enw defnyddiwr Gwasanaeth"
 
-#: $lang->'service_user_id'
+#: ui_main.service_user_id
+msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
 msgstr "Rhif defnyddiwr Gwasanaeth"
 
-#: $lang->'share'
+#: ui_main.share
+msgctxt "ui_main.share"
 msgid "Share"
 msgstr "Rhannu"
 
-#: $lang->'shared_data'
+#: ui_main.shared_data
+msgctxt "ui_main.shared_data"
 msgid "Shared data"
 msgstr "Data wedi’i rannu"
 
-#: $lang->'share_has_been'
+#: ui_main.share_has_been
+msgctxt "ui_main.share_has_been"
 msgid "The share has been"
 msgstr "Cafodd y rhannu ei"
 
-#: $lang->'sharing'
+#: ui_main.sharing
+msgctxt "ui_main.sharing"
 msgid "Sharing"
 msgstr "Rhannu"
 
-#: $lang->'show'
+#: ui_main.show
+msgctxt "ui_main.show"
 msgid "Show"
 msgstr "Dangos"
 
-#: $lang->'show_all'
+#: ui_main.show_all
+msgctxt "ui_main.show_all"
 msgid "Show all"
 msgstr "Dangos popeth"
 
-#: $lang->'show_messages'
+#: ui_main.show_messages
+msgctxt "ui_main.show_messages"
 msgid "Show Messages"
 msgstr "Dangos Negeseuon"
 
-#: $lang->'showing_reports_from'
-msgid "Showing Reports From"
+#: ui_main.showing_reports_from
+msgctxt "ui_main.showing_reports_from"
+msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
 msgstr "Yn Dangos Adroddiadau O"
 
-#: $lang->'site'
+#: ui_main.site
+msgctxt "ui_main.site"
 msgid "Website"
 msgstr "Gwefan"
 
-#: $lang->'site_email_address'
+#: ui_main.site_email_address
+msgctxt "ui_main.site_email_address"
 msgid "site email address"
 msgstr "cyfeiriad E-bost gwefan"
 
-#: $lang->'site_url'
+#: ui_main.site_url
+msgctxt "ui_main.site_url"
 msgid "Site URL"
 msgstr "URL Gwefan"
 
-#: $lang->'sms'
+#: ui_main.sms
+msgctxt "ui_main.sms"
 msgid "SMS"
 msgstr "SMS"
 
-#: $lang->'sorry_no_badges'
+#: ui_main.sorry_no_badges
+msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
 msgstr "Sori, ond does gennych chi ddim bathodynnau."
 
-#: $lang->'source'
+#: ui_main.source
+msgctxt "ui_main.source"
 msgid "Source"
 msgstr "Ffynhonnell"
 
-#: $lang->'source_name'
+#: ui_main.source_name
+msgctxt "ui_main.source_name"
 msgid "Source name"
 msgstr "Enw ffynhonnell"
 
-#: $lang->'source_url'
+#: ui_main.source_url
+msgctxt "ui_main.source_url"
 msgid "Source URL"
 msgstr "URL ffynhonnell "
 
-#: $lang->'spam'
+#: ui_main.spam
+msgctxt "ui_main.spam"
 msgid "Spam"
 msgstr "Sbam"
 
-#: $lang->'ssl_support'
+#: ui_main.ssl_support
+msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
 msgstr "Cefnogaeth SSL?"
 
-#: $lang->'start_point'
-msgctxt "$lang->'start_point'"
+#: ui_main.start_point
+msgctxt "ui_main.start_point"
 msgid "From"
 msgstr "Oddi Wrth"
 
-#: $lang->'step'
+#: ui_main.step
+msgctxt "ui_main.step"
 msgid "Step"
 msgstr "Cam"
 
-#: $lang->'submit'
+#: ui_main.submit
+msgctxt "ui_main.submit"
 msgid "Submit a Report"
 msgstr "Anfon Adroddiad"
 
-#: $lang->'submitted_by'
+#: ui_main.submitted_by
+msgctxt "ui_main.submitted_by"
 msgid "Submitted By"
 msgstr "Anfonwyd gan"
 
-#: $lang->'submit_sms'
+#: ui_main.submit_sms
+msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
 msgstr "Anfon drwy SMS"
 
-#: $lang->'submit_sms1'
+#: ui_main.submit_sms1
+msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
 msgstr "Anfon drwy SMS at"
 
-#: $lang->'submit_sms2'
+#: ui_main.submit_sms2
+msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
 msgstr "ar eich ffôn"
 
-#: $lang->'success'
+#: ui_main.success
+msgctxt "ui_main.success"
 msgid "Success!"
 msgstr "Llwyddiant!"
 
-#: $lang->'successfuly_imported'
+#: ui_main.successfuly_imported
+msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
 msgstr "Wedi’i fewnforio yn llwyddiannus"
 
-#: $lang->'surname'
+#: ui_main.surname
+msgctxt "ui_main.surname"
 msgid "Surname"
 msgstr "Cyfenw"
 
-#: $lang->'survey'
+#: ui_main.survey
+msgctxt "ui_main.survey"
 msgid "新开线路"
 msgstr "Arolwg"
 
-#: $lang->'system'
+#: ui_main.system
+msgctxt "ui_main.system"
 msgid "System"
 msgstr "System"
 
-#: $lang->'tcp_port'
+#: ui_main.tcp_port
+msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
 msgstr "Porth TCP"
 
-#: $lang->'themes'
+#: ui_main.themes
+msgctxt "ui_main.themes"
 msgid "Themes"
 msgstr "Themau"
 
-#: $lang->'theme_default'
+#: ui_main.theme_default
+msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
 msgstr "Thema Ushahidi Diofyn"
 
-#: $lang->'theme_settings'
+#: ui_main.theme_settings
+msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
 msgstr "Gosodiadau Thema"
 
-#: $lang->'this'
+#: ui_main.this
+msgctxt "ui_main.this"
 msgid "This"
 msgstr "Hwn"
 
-#: $lang->'this_day'
-msgctxt "$lang->'this_day'"
+#: ui_main.this_day
+msgctxt "ui_main.this_day"
 msgid "Today"
 msgstr "Heddiw"
 
-#: $lang->'this_month'
+#: ui_main.this_month
+msgctxt "ui_main.this_month"
 msgid "This Month"
 msgstr "Mis Yma"
 
-#: $lang->'this_week'
+#: ui_main.this_week
+msgctxt "ui_main.this_week"
 msgid "This Week"
 msgstr "Wythnos Yma"
 
-#: $lang->'this_year'
+#: ui_main.this_year
+msgctxt "ui_main.this_year"
 msgid "This Year"
 msgstr "Blwyddyn Yma"
 
-#: $lang->'this_is_your_profile'
+#: ui_main.this_is_your_profile
+msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
 msgstr "Dyma eich proffil."
 
-#: $lang->'through'
-msgid "through"
-msgstr "drwy"
-
-#: $lang->'time'
-msgctxt "$lang->'time'"
+#: ui_main.time
+msgctxt "ui_main.time"
 msgid "Time"
 msgstr "Amser"
 
-#: $lang->'title'
+#: ui_main.title
+msgctxt "ui_main.title"
 msgid "Title "
 msgstr "Teitl "
 
-#: $lang->'to'
-msgctxt "$lang->'to'"
+#: ui_main.to
+msgctxt "ui_main.to"
 msgid "to"
 msgstr "i"
 
-#: $lang->'today'
-msgctxt "$lang->'today'"
+#: ui_main.today
+msgctxt "ui_main.today"
 msgid "Today"
 msgstr "Heddiw"
 
-#: $lang->'today_at'
+#: ui_main.today_at
+msgctxt "ui_main.today_at"
 msgid "Today at"
 msgstr "Heddiw am"
 
-#: $lang->'token'
+#: ui_main.token
+msgctxt "ui_main.token"
 msgid "Token"
 msgstr "Tocyn"
 
-#: $lang->'total_reports'
+#: ui_main.total_reports
+msgctxt "ui_main.total_reports"
 msgid "Total Reports"
 msgstr "Cyfanswm Adroddiadau"
 
-#: $lang->'translated'
+#: ui_main.translated
+msgctxt "ui_main.translated"
 msgid "Translated"
 msgstr "Cyfieithwyd"
 
-#: $lang->'translated_description'
+#: ui_main.translated_description
+msgctxt "ui_main.translated_description"
 msgid "Translated Description"
 msgstr "Disgrifiad wedi eu gyfieithu"
 
-#: $lang->'translated_title'
+#: ui_main.translated_title
+msgctxt "ui_main.translated_title"
 msgid "Translated Title"
 msgstr "Teitl wedi eu gyfieithu"
 
-#: $lang->'translate_to'
+#: ui_main.translate_to
+msgctxt "ui_main.translate_to"
 msgid "Translate to"
 msgstr "Cyfieithu i"
 
-#: $lang->'translation'
+#: ui_main.translation
+msgctxt "ui_main.translation"
 msgid "Translation"
 msgstr "Cyfieithiad"
 
-#: $lang->'translation_saved'
+#: ui_main.translation_saved
+msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
 msgstr "Cyfieithiad wedi eu gadw"
 
-#: $lang->'type'
+#: ui_main.type
+msgctxt "ui_main.type"
 msgid "Type"
 msgstr "Math"
 
-#: $lang->'twitter'
+#: ui_main.twitter
+msgctxt "ui_main.twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: $lang->'unable_send_email'
+#: ui_main.unable_send_email
+msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
 msgstr "Methwyd anfon yr E-bost."
 
-#: $lang->'uncategorized_reports'
+#: ui_main.uncategorized_reports
+msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
 msgstr ""
 
-#: $lang->'unread'
+#: ui_main.unread
+msgctxt "ui_main.unread"
 msgid "unread"
 msgstr "heb ei ddarllen"
 
-#: $lang->'unverified'
+#: ui_main.unverified
+msgctxt "ui_main.unverified"
 msgid "Unverified"
 msgstr "Heb ei wirio"
 
-#: $lang->'update_feeds'
+#: ui_main.update_feeds
+msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
 msgstr "Diweddaru ffrydiau"
 
-#: $lang->'upload'
+#: ui_main.upload
+msgctxt "ui_main.upload"
 msgid "Upload"
 msgstr "Llwytho i fyny"
 
-#: $lang->'upload_file'
+#: ui_main.upload_file
+msgctxt "ui_main.upload_file"
 msgid "File to upload"
 msgstr "Ffeil i’w lwytho"
 
-#: $lang->'upload_reports'
+#: ui_main.upload_reports
+msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
 msgstr "Llwytho Adroddiadau"
 
-#: $lang->'upload_reports_detail_1'
+#: ui_main.upload_reports_detail_1
+msgctxt "ui_main.upload_reports_detail_1"
 msgid "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
-"Gyda’r ffurflen isod, gallwch chi fewnforio digwyddiadau i’r peiriant "
-"Ushahidi"
+msgstr "Gyda’r ffurflen isod, gallwch chi fewnforio digwyddiadau i’r peiriant Ushahidi"
 
-#: $lang->'upload_reports_detail_2'
+#: ui_main.upload_reports_detail_2
+msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be upladed in CSV format."
 msgstr "Rhaid llwytho adroddiadau ar ffurf CSV"
 
-#: $lang->'upload_reports_detail_3'
-msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
-msgstr ""
-"Pan fo ID digwyddiad yn bodoli’n barod yn y gronfa ddata, bydd y cofnod yn y "
-"CSV yn cael ei anwybyddu"
+#: ui_main.upload_reports_detail_3
+msgctxt "ui_main.upload_reports_detail_3"
+msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgstr "Pan fo ID digwyddiad yn bodoli’n barod yn y gronfa ddata, bydd y cofnod yn y CSV yn cael ei anwybyddu"
 
-#: $lang->'upload_reports_detail_4'
+#: ui_main.upload_reports_detail_4
+msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
 msgstr "Rhaid iddo gynnwys o leiaf Teitl Digwyddiad a Dyddiad Digwyddiad"
 
-#: $lang->'upload_reports_detail_4b'
-msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
-msgstr ""
-"Os na ddarperir colofnau lledred a hydred yna bydd yn cael ei geogôdio gyda "
-"Google Geocoder"
+#: ui_main.upload_reports_detail_4b
+msgctxt "ui_main.upload_reports_detail_4b"
+msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
+msgstr "Os na ddarperir colofnau lledred a hydred yna bydd yn cael ei geogôdio gyda Google Geocoder"
 
-#: $lang->'upload_reports_detail_5'
+#: ui_main.upload_reports_detail_5
+msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
 msgstr "Sampl o Adroddiad CSV"
 
-#: $lang->'upload_reports_detail_6'
-msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
-"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
-"\",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
-"#,TEITL DIGWYDDIAD,DYDDIAD DIGWYDDIAD,LLEOLIAD,DISGRIFIAD,CATEGORI,CADARNHAW"
-"YD,GWIRIWYD,LLEDRED,HYDRED<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
-"01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
-"Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+#: ui_main.upload_reports_detail_6
+msgctxt "ui_main.upload_reports_detail_6"
+msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgstr "#,TEITL DIGWYDDIAD,DYDDIAD DIGWYDDIAD,LLEOLIAD,DISGRIFIAD,CATEGORI,CADARNHAWYD,GWIRIWYD,LLEDRED,HYDRED<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 
-#: $lang->'upload_reports_detail_7'
-msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+#: ui_main.upload_reports_detail_7
+msgctxt "ui_main.upload_reports_detail_7"
+msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 
-#: $lang->'upload_successful'
+#: ui_main.upload_successful
+msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
 msgstr "Wedi Llwytho’n Llwyddiannus"
 
-#: $lang->'upload_video'
+#: ui_main.upload_video
+msgctxt "ui_main.upload_video"
 msgid "Upload Video"
 msgstr "Llwytho Fideo"
 
-#: $lang->'url'
+#: ui_main.url
+msgctxt "ui_main.url"
 msgid "URL"
 msgstr "URL"
 
-#: $lang->'user'
+#: ui_main.user
+msgctxt "ui_main.user"
 msgid "User"
 msgstr "Defnyddiwr"
 
-#: $lang->'username'
+#: ui_main.username
+msgctxt "ui_main.username"
 msgid "Username"
 msgstr "Enw Defnyddiwr"
 
-#: $lang->'ushahidi_admin'
+#: ui_main.ushahidi_admin
+msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
 msgstr "Gweinyddu Ushahidi"
 
-#: $lang->'verification'
+#: ui_main.verification
+msgctxt "ui_main.verification"
 msgid "Verification"
 msgstr "Gwirio"
 
-#: $lang->'verified'
+#: ui_main.verified
+msgctxt "ui_main.verified"
 msgid "Verified"
 msgstr "Wedi’u Gwirio"
 
-#: $lang->'verified_reports'
+#: ui_main.verified_reports
+msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
 msgstr "Adroddiadau wedi’u Gwirio"
 
-#: $lang->'verify'
+#: ui_main.verify
+msgctxt "ui_main.verify"
 msgid "Verify"
 msgstr "Gwirio"
 
-#: $lang->'verify_this_report'
+#: ui_main.verify_this_report
+msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
 msgstr "Gwirio’r Adroddiad"
 
-#: $lang->'version'
+#: ui_main.version
+msgctxt "ui_main.version"
 msgid "Version"
 msgstr "Fersiwn"
 
-#: $lang->'via'
+#: ui_main.via
+msgctxt "ui_main.via"
 msgid "via"
 msgstr "trwy"
 
-#: $lang->'video'
+#: ui_main.video
+msgctxt "ui_main.video"
 msgid "Video"
 msgstr "Fideo"
 
-#: $lang->'view'
+#: ui_main.view
+msgctxt "ui_main.view"
 msgid "View"
 msgstr "Wedi Gweld"
 
-#: $lang->'views'
+#: ui_main.views
+msgctxt "ui_main.views"
 msgid "Views"
 msgstr "Wedi Gweld"
 
-#: $lang->'view_all'
+#: ui_main.view_all
+msgctxt "ui_main.view_all"
 msgid "View All"
 msgstr "Gweld i Gyd"
 
-#: $lang->'view_all_feeds'
+#: ui_main.view_all_feeds
+msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
 msgstr "Gweld holl ffrydiau"
 
-#: $lang->'view_all_reports'
+#: ui_main.view_all_reports
+msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
 msgstr "Gweld holl adroddiadau"
 
-#: $lang->'view_items'
+#: ui_main.view_items
+msgctxt "ui_main.view_items"
 msgid "View Items"
 msgstr "Gweld Eitemau"
 
-#: $lang->'view_more'
+#: ui_main.view_more
+msgctxt "ui_main.view_more"
 msgid "View More"
 msgstr "Gweld Mwy"
 
-#: $lang->'view_public_profile'
+#: ui_main.view_public_profile
+msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
 msgstr "Gweld Proffil Cyhoeddus"
 
-#: $lang->'view_report'
+#: ui_main.view_report
+msgctxt "ui_main.view_report"
 msgid "View Report"
 msgstr "Gweld Adroddiad"
 
-#: $lang->'view_reports'
+#: ui_main.view_reports
+msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "Gweld Adroddiadau"
 
-#: $lang->'visible'
+#: ui_main.visible
+msgctxt "ui_main.visible"
 msgid "Visible"
 msgstr "Gweladwy"
 
-#: $lang->'waiting_approval'
+#: ui_main.waiting_approval
+msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
 msgstr "Disgwyl ei Awdurdodi"
 
-#: $lang->'waiting_verification'
+#: ui_main.waiting_verification
+msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
 msgstr "Disgwyl ei Wirio"
 
-#: $lang->'web_form'
+#: ui_main.web_form
+msgctxt "ui_main.web_form"
 msgid "Web Form"
 msgstr "Ffurflen We"
 
-#: $lang->'weight'
+#: ui_main.weight
+msgctxt "ui_main.weight"
 msgid "Weight"
 msgstr "Pwysau"
 
-#: $lang->'yes'
+#: ui_main.yes
+msgctxt "ui_main.yes"
 msgid "Yes"
 msgstr "Ydw"
 
-#: $lang->'yesterday'
+#: ui_main.yesterday
+msgctxt "ui_main.yesterday"
 msgid "Yesterday"
 msgstr "Ddoe"
 
-#: $lang->'your_dashboard'
+#: ui_main.your_dashboard
+msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
 msgstr "Dy Fwrdd Gwaith"
 
-#: $lang->'your_file'
+#: ui_main.your_file
+msgctxt "ui_main.your_file"
 msgid "Your file"
 msgstr "Dy ffeil"
 
-#: $lang->'zoom_in'
+#: ui_main.zoom_in
+msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
 msgstr "Zoom Mewn"
 
-#: $lang->'zoom_out'
+#: ui_main.zoom_out
+msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr "Zoom Allan"
+

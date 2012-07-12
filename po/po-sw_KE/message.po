@@ -3,48 +3,56 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: sw_KE\n"
 
-#: 'captcha'->'default'
+#: message.captcha.default
+msgctxt "message.captcha.default"
 msgid "Please enter a valid security code."
 msgstr "Tafadhali andika ishara ya ulinzi iliyo sahihi"
 
-#: 'captcha'->'required'
+#: message.captcha.required
+msgctxt "message.captcha.required"
 msgid "Please enter the security code."
 msgstr "Tafadhali andika ishara ya ulinzi"
 
-#: 'email'->'email'
+#: message.email.email
+msgctxt "message.email.email"
 msgid "The Email field does not appear to contain a valid email address."
 msgstr "Anwani ya barua pepe inaonekana si sahihi"
 
-#: 'email'->'length'
+#: message.email.length
+msgctxt "message.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
 msgstr "Anwani ya barua pepe lazima iwe baina ya herufi 4 na 64."
 
-#: 'email'->'required'
+#: message.email.required
+msgctxt "message.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
-"Anwani ya barua pepe inahitajika kama kisanduku tiki chake kimewekwa tiki."
+msgstr "Anwani ya barua pepe inahitajika kama kisanduku tiki chake kimewekwa tiki."
 
-#: 'message'->'required'
+#: message.message.required
+msgctxt "message.message.required"
 msgid "The comments field is required."
 msgstr "Sehemu ya fikira inahitajika."
 
-#: 'name'->'length'
+#: message.name.length
+msgctxt "message.name.length"
 msgid "The name field must be at least 3 characters long."
 msgstr "Sehemu ya jina lazima iwe herufi 3 au zaidi."
 
-#: 'name'->'required'
+#: message.name.required
+msgctxt "message.name.required"
 msgid "The name field is required."
 msgstr "Sehemu ya jina inahitajika."
 
-#: 'phone'->'length'
+#: message.phone.length
+msgctxt "message.phone.length"
 msgid "The phone field is not valid."
 msgstr "Sehemu ya nambari ya simu si sahihi."
+

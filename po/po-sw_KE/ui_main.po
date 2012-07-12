@@ -3,2404 +3,2901 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: sw_KE\n"
 
-#: $lang->'about'
+#: ui_main.about
+msgctxt "ui_main.about"
 msgid "About "
 msgstr "Kuhusu "
 
-#: $lang->'access'
+#: ui_main.access
+msgctxt "ui_main.access"
 msgid "Access"
 msgstr "Utumizi"
 
-#: $lang->'access_limits'
+#: ui_main.access_limits
+msgctxt "ui_main.access_limits"
 msgid "Access Limits"
 msgstr "Kikomo cha utumizi"
 
-#: $lang->'account_name'
+#: ui_main.account_name
+msgctxt "ui_main.account_name"
 msgid "Account Name"
 msgstr "Jina la akaunti"
 
-#: $lang->'actions'
+#: ui_main.actions
+msgctxt "ui_main.actions"
 msgid "Actions"
 msgstr "Viendo"
 
-#: $lang->'action_confirm'
+#: ui_main.action_confirm
+msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
 msgstr "Tendo hili haliezi kujitengua. Uko na hakika unataka kuendelea?"
 
-#: $lang->'activate'
+#: ui_main.activate
+msgctxt "ui_main.activate"
 msgid "Activate"
 msgstr ""
 
-#: $lang->'active'
+#: ui_main.active
+msgctxt "ui_main.active"
 msgid "Active"
 msgstr "Imewezeshwa"
 
-#: $lang->'add'
+#: ui_main.add
+msgctxt "ui_main.add"
 msgid "Add"
 msgstr "Engeza"
 
-#: $lang->'added_by'
+#: ui_main.added_by
+msgctxt "ui_main.added_by"
 msgid "Added By"
 msgstr "Imeengezwa na"
 
-#: $lang->'additional_data'
+#: ui_main.additional_data
+msgctxt "ui_main.additional_data"
 msgid "Additional Data"
 msgstr ""
 
-#: $lang->'additional_reports'
+#: ui_main.additional_reports
+msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
 msgstr "Ripoti ziada"
 
-#: $lang->'add_edit'
+#: ui_main.add_edit
+msgctxt "ui_main.add_edit"
 msgid "Add/Edit"
 msgstr "Engeza/Badili"
 
-#: $lang->'add_field'
+#: ui_main.add_field
+msgctxt "ui_main.add_field"
 msgid "Add a Field"
 msgstr "Engeza Uga"
 
-#: $lang->'add_language'
+#: ui_main.add_language
+msgctxt "ui_main.add_language"
 msgid "Add Language"
 msgstr "Engeza Lugha"
 
-#: $lang->'add_new'
+#: ui_main.add_new
+msgctxt "ui_main.add_new"
 msgid "Add New"
 msgstr "Engeza Mpta"
 
-#: $lang->'add_new_category'
+#: ui_main.add_new_category
+msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
 msgstr "Engeza Jamii Mpya"
 
-#: $lang->'add_translation'
+#: ui_main.add_translation
+msgctxt "ui_main.add_translation"
 msgid "Add Translation"
 msgstr "Engeza Tafsiri"
 
-#: $lang->'admin'
+#: ui_main.admin
+msgctxt "ui_main.admin"
 msgid "Administration"
 msgstr "Usimamizi"
 
-#: $lang->'alerts'
-msgctxt "$lang->'alerts'"
+#: ui_main.alerts
+msgctxt "ui_main.alerts"
 msgid "Get Alerts"
 msgstr "Pata utanabahisho"
 
-#: $lang->'alerts_alert_me'
+#: ui_main.alerts_alert_me
+msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
 msgstr "Nitanabahishe kama ripoti imejazwa, au ikiwa:"
 
-#: $lang->'alerts_btn_send'
+#: ui_main.alerts_btn_send
+msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
 msgstr "Hifadhi tanabahisho langu"
 
-#: $lang->'alerts_email'
+#: ui_main.alerts_email
+msgctxt "ui_main.alerts_email"
 msgid "Email address:"
 msgstr "anwani ya barua pepe:"
 
-#: $lang->'alerts_enter_email'
+#: ui_main.alerts_enter_email
+msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
 msgstr "andika anwani ya barua pepe"
 
-#: $lang->'alerts_enter_mobile'
+#: ui_main.alerts_enter_mobile
+msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
 msgstr "andika namba ya rununu, pamoja na namba ya nchi yako"
 
-#: $lang->'alerts_get'
-msgctxt "$lang->'alerts_get'"
+#: ui_main.alerts_get
+msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
 msgstr "Pata Tanabahisho"
 
-#: $lang->'alerts_mobile_phone'
+#: ui_main.alerts_mobile_phone
+msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
 msgstr "Simu ya rununu:"
 
-#: $lang->'alerts_place_spot'
-msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
-msgstr ""
-"Ama, eka alama kwa ramani ifuatayo, na tutakutanabahisha ripoti ikitungwa "
-"ndani ya kilomita 20."
+#: ui_main.alerts_place_spot
+msgctxt "ui_main.alerts_place_spot"
+msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
+msgstr "Ama, eka alama kwa ramani ifuatayo, na tutakutanabahisha ripoti ikitungwa ndani ya kilomita 20."
 
-#: $lang->'alerts_place_spot2'
-msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
+#: ui_main.alerts_place_spot2
+msgctxt "ui_main.alerts_place_spot2"
+msgid "If you can\'t find your location, please click on the map to pinpoint the correct location."
 msgstr ""
 
-#: $lang->'alerts_rss'
+#: ui_main.alerts_rss
+msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
 msgstr "Tawanyiko la RSS (andika anwani ifuatayo)"
 
-#: $lang->'alerts_select_city'
+#: ui_main.alerts_select_city
+msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
 msgstr "Chagua mji"
 
-#: $lang->'alerts_step1_select_city'
+#: ui_main.alerts_step1_select_city
+msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
 msgstr "<strong>Hatua ya 1:</strong> Chagua mji au eneo:"
 
-#: $lang->'alerts_step2_send_alerts'
+#: ui_main.alerts_step2_send_alerts
+msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
 msgstr "<strong>Hatua ya 2:</strong> Nitanabahishe kupitia:"
 
-#: $lang->'alerts_step3_select_catgories'
+#: ui_main.alerts_step3_select_catgories
+msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
 msgstr ""
 
-#: $lang->'alert_confirm_previous'
+#: ui_main.alert_confirm_previous
+msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
 msgstr "Thibitisha utanabahisho uliopita"
 
-#: $lang->'alert_saved'
+#: ui_main.alert_saved
+msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
 msgstr "Tanabahisho lako imehifadhiwa!"
 
-#: $lang->'all'
+#: ui_main.all
+msgctxt "ui_main.all"
 msgid "All"
 msgstr "Kufanya"
 
-#: $lang->'allowed'
+#: ui_main.allowed
+msgctxt "ui_main.allowed"
 msgid "Allowed"
 msgstr "Imekubalika"
 
-#: $lang->'all_categories'
+#: ui_main.all_categories
+msgctxt "ui_main.all_categories"
 msgid "All Categories"
 msgstr "Jamii zote"
 
-#: $lang->'all_time'
+#: ui_main.all_time
+msgctxt "ui_main.all_time"
 msgid "All Time"
 msgstr ""
 
-#: $lang->'and'
+#: ui_main.and
+msgctxt "ui_main.and"
 msgid "and"
 msgstr "na"
 
-#: $lang->'api'
+#: ui_main.api
+msgctxt "ui_main.api"
 msgid "API"
 msgstr ""
 
-#: $lang->'approve'
+#: ui_main.approve
+msgctxt "ui_main.approve"
 msgid "Approve"
 msgstr "Pitisha"
 
-#: $lang->'approved'
+#: ui_main.approved
+msgctxt "ui_main.approved"
 msgid "Approved"
 msgstr "Imepotishwa"
 
-#: $lang->'approved_reports'
+#: ui_main.approved_reports
+msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
 msgstr "Ripoti zilizipitishwa"
 
-#: $lang->'approve_this_report'
+#: ui_main.approve_this_report
+msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
 msgstr "Pitisha ripoti hii"
 
-#: $lang->'approximate'
+#: ui_main.approximate
+msgctxt "ui_main.approximate"
 msgid "Approximate"
 msgstr "Takriban"
 
-#: $lang->'archive'
+#: ui_main.archive
+msgctxt "ui_main.archive"
 msgid "Archive"
 msgstr ""
 
-#: $lang->'archived'
+#: ui_main.archived
+msgctxt "ui_main.archived"
 msgid "Archived"
 msgstr ""
 
-#: $lang->'at'
+#: ui_main.at
+msgctxt "ui_main.at"
 msgid "at"
 msgstr "kwa"
 
-#: $lang->'author'
+#: ui_main.author
+msgctxt "ui_main.author"
 msgid "Author"
 msgstr ""
 
-#: $lang->'auto_checkin'
+#: ui_main.auto_checkin
+msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
 msgstr ""
 
-#: $lang->'avg_reports_per_day'
+#: ui_main.avg_reports_per_day
+msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
 msgstr ""
 
-#: $lang->'awaiting_approval'
+#: ui_main.awaiting_approval
+msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
 msgstr "Zinasubiri kupitishwa"
 
-#: $lang->'awaiting_verification'
+#: ui_main.awaiting_verification
+msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
 msgstr "Zinasubiri kuthibitishwa"
 
-#: $lang->'badge'
+#: ui_main.badge
+msgctxt "ui_main.badge"
 msgid "Badge"
 msgstr ""
 
-#: $lang->'badges'
+#: ui_main.badges
+msgctxt "ui_main.badges"
 msgid "Badges"
 msgstr ""
 
-#: $lang->'badge_image'
+#: ui_main.badge_image
+msgctxt "ui_main.badge_image"
 msgid "Badge Image"
 msgstr ""
 
-#: $lang->'badge_image_upload_your_own'
+#: ui_main.badge_image_upload_your_own
+msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
 msgstr ""
 
-#: $lang->'badge_pack'
+#: ui_main.badge_pack
+msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
 msgstr ""
 
-#: $lang->'badge_select'
+#: ui_main.badge_select
+msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
 msgstr ""
 
-#: $lang->'blog'
+#: ui_main.blog
+msgctxt "ui_main.blog"
 msgid "Blog"
 msgstr "Blogu"
 
-#: $lang->'browse_profiles'
+#: ui_main.browse_profiles
+msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
 msgstr ""
 
-#: $lang->'cancel'
+#: ui_main.cancel
+msgctxt "ui_main.cancel"
 msgid "Cancel"
 msgstr "Batilisha"
 
-#: $lang->'categories'
-msgctxt "$lang->'categories'"
+#: ui_main.categories
+msgctxt "ui_main.categories"
 msgid "Categories"
 msgstr "Jamii"
 
-#: $lang->'category'
+#: ui_main.category
+msgctxt "ui_main.category"
 msgid "Category"
 msgstr "Jamii"
 
-#: $lang->'category_filter'
+#: ui_main.category_filter
+msgctxt "ui_main.category_filter"
 msgid "Category Filter"
 msgstr "Kuchujio cha jamii"
 
-#: $lang->'category_has_been'
+#: ui_main.category_has_been
+msgctxt "ui_main.category_has_been"
 msgid "The category has been "
 msgstr "Hii jamii ime"
 
-#: $lang->'category_name'
+#: ui_main.category_name
+msgctxt "ui_main.category_name"
 msgid "Category Name"
 msgstr "Jina la jamii"
 
-#: $lang->'change_date_range'
+#: ui_main.change_date_range
+msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
 msgstr ""
 
-#: $lang->'change_password'
+#: ui_main.change_password
+msgctxt "ui_main.change_password"
 msgid "Change Password"
 msgstr ""
 
-#: $lang->'change_picture'
+#: ui_main.change_picture
+msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
 msgstr ""
 
-#: $lang->'choose'
+#: ui_main.choose
+msgctxt "ui_main.choose"
 msgid "Choose a"
 msgstr "Chagua "
 
-#: $lang->'choose_data_points'
+#: ui_main.choose_data_points
+msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
 msgstr "Chagua pointi za data za kupakua"
 
-#: $lang->'choose_date_range'
+#: ui_main.choose_date_range
+msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
 msgstr ""
 
-#: $lang->'choose_field_type'
+#: ui_main.choose_field_type
+msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
 msgstr "Chagua aina ya uga"
 
-#: $lang->'cleanurl'
+#: ui_main.cleanurl
+msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
 msgstr ""
 
-#: $lang->'clear'
+#: ui_main.clear
+msgctxt "ui_main.clear"
 msgid "Clear"
 msgstr ""
 
-#: $lang->'clear_map'
+#: ui_main.clear_map
+msgctxt "ui_main.clear_map"
 msgid "Clear Map"
 msgstr ""
 
-#: $lang->'close'
+#: ui_main.close
+msgctxt "ui_main.close"
 msgid "Close"
 msgstr "Funga"
 
-#: $lang->'clusters'
+#: ui_main.clusters
+msgctxt "ui_main.clusters"
 msgid "clusters"
 msgstr "mikusanyiko"
 
-#: $lang->'color'
-msgctxt "$lang->'color'"
+#: ui_main.color
+msgctxt "ui_main.color"
 msgid "Color"
 msgstr "Rangi"
 
-#: $lang->'comment'
+#: ui_main.comment
+msgctxt "ui_main.comment"
 msgid "Comment"
 msgstr ""
 
-#: $lang->'comments'
-msgctxt "$lang->'comments'"
+#: ui_main.comments
+msgctxt "ui_main.comments"
 msgid "Comments"
 msgstr "Fikira"
 
-#: $lang->'comment_details'
+#: ui_main.comment_details
+msgctxt "ui_main.comment_details"
 msgid "Comment Details"
 msgstr "Maelezo ya fikira"
 
-#: $lang->'configuration_saved'
+#: ui_main.configuration_saved
+msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
 msgstr "Vipimo vyako vimehifadhiwa!"
 
-#: $lang->'configure'
+#: ui_main.configure
+msgctxt "ui_main.configure"
 msgid "Configure"
 msgstr "Sanidi"
 
-#: $lang->'confirm_email_successful'
+#: ui_main.confirm_email_successful
+msgctxt "ui_main.confirm_email_successful"
 msgid "You have successfully confirmed your email address! Please login below."
 msgstr ""
 
-#: $lang->'contact'
+#: ui_main.contact
+msgctxt "ui_main.contact"
 msgid "Contact Us"
 msgstr "Wasilana na sisi"
 
-#: $lang->'contact_code'
-msgctxt "$lang->'contact_code'"
+#: ui_main.contact_code
+msgctxt "ui_main.contact_code"
 msgid "Security Code"
 msgstr ""
 
-#: $lang->'contact_email'
+#: ui_main.contact_email
+msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
 msgstr ""
 
-#: $lang->'contact_message'
-msgctxt "$lang->'contact_message'"
+#: ui_main.contact_message
+msgctxt "ui_main.contact_message"
 msgid "Message"
 msgstr ""
 
-#: $lang->'contact_message_has_send'
+#: ui_main.contact_message_has_send
+msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
 msgstr ""
 
-#: $lang->'contact_name'
+#: ui_main.contact_name
+msgctxt "ui_main.contact_name"
 msgid "Your Name"
 msgstr ""
 
-#: $lang->'contact_phone'
+#: ui_main.contact_phone
+msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
 msgstr ""
 
-#: $lang->'contact_send'
+#: ui_main.contact_send
+msgctxt "ui_main.contact_send"
 msgid "Send Message"
 msgstr ""
 
-#: $lang->'contact_subject'
+#: ui_main.contact_subject
+msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
 msgstr ""
 
-#: $lang->'copyright'
+#: ui_main.copyright
+msgctxt "ui_main.copyright"
 msgid "Copyright ©"
 msgstr "Copyright © 2009 Ushahidi.com. All Rights Reserved."
 
-#: $lang->'create'
+#: ui_main.create
+msgctxt "ui_main.create"
 msgid "Create"
 msgstr "Tengeneza"
 
-#: $lang->'create_edit'
+#: ui_main.create_edit
+msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
 msgstr "Tengeneza/Badili"
 
-#: $lang->'create_new'
+#: ui_main.create_new
+msgctxt "ui_main.create_new"
 msgid "Create New"
 msgstr "Tengeneza mpya"
 
-#: $lang->'create_new_password'
+#: ui_main.create_new_password
+msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
 msgstr ""
 
-#: $lang->'create_report'
+#: ui_main.create_report
+msgctxt "ui_main.create_report"
 msgid "Create Report"
 msgstr "Tengeneza ripoti"
 
-#: $lang->'credibility'
+#: ui_main.credibility
+msgctxt "ui_main.credibility"
 msgid "Credibility"
 msgstr "Uaminifu"
 
-#: $lang->'current_password'
+#: ui_main.current_password
+msgctxt "ui_main.current_password"
 msgid "Current Password"
 msgstr ""
 
-#: $lang->'custom_fields'
+#: ui_main.custom_fields
+msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
 msgstr ""
 
-#: $lang->'data'
+#: ui_main.data
+msgctxt "ui_main.data"
 msgid "Information"
 msgstr "Maarifa"
 
-#: $lang->'date'
-msgctxt "$lang->'date'"
+#: ui_main.date
+msgctxt "ui_main.date"
 msgid "Date"
 msgstr "Tarehe"
 
-#: $lang->'date_format'
+#: ui_main.date_format
+msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
 msgstr "(mm/dd/yyyy)"
 
-#: $lang->'date_time'
+#: ui_main.date_time
+msgctxt "ui_main.date_time"
 msgid "Date & Time"
 msgstr "Tarehe & Wakati"
 
-#: $lang->'day'
+#: ui_main.day
+msgctxt "ui_main.day"
 msgid "day"
 msgstr ""
 
-#: $lang->'deactivate'
+#: ui_main.deactivate
+msgctxt "ui_main.deactivate"
 msgid "Deactivate"
 msgstr ""
 
-#: $lang->'default_location_name'
+#: ui_main.default_location_name
+msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
 msgstr "Nairobi, Kenya"
 
-#: $lang->'delete'
+#: ui_main.delete
+msgctxt "ui_main.delete"
 msgid "Delete"
 msgstr "Futa"
 
-#: $lang->'deleted'
+#: ui_main.deleted
+msgctxt "ui_main.deleted"
 msgid "Deleted"
 msgstr "Imefutwa"
 
-#: $lang->'deletes'
+#: ui_main.deletes
+msgctxt "ui_main.deletes"
 msgid "Deletes"
 msgstr "Zimefutwa"
 
-#: $lang->'delete_disabled'
+#: ui_main.delete_disabled
+msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
 msgstr "Kufuta haijawezeshwa"
 
-#: $lang->'delete_last'
+#: ui_main.delete_last
+msgctxt "ui_main.delete_last"
 msgid "Delete Last"
 msgstr ""
 
-#: $lang->'delete_report'
+#: ui_main.delete_report
+msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
 msgstr "Futa ripoti hii"
 
-#: $lang->'delete_selected'
+#: ui_main.delete_selected
+msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
 msgstr ""
 
-#: $lang->'delete_spam'
+#: ui_main.delete_spam
+msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
 msgstr "Futa Spam"
 
-#: $lang->'demo'
+#: ui_main.demo
+msgctxt "ui_main.demo"
 msgid "Demo"
 msgstr "Sampuli"
 
-#: $lang->'description'
-msgctxt "$lang->'description'"
+#: ui_main.description
+msgctxt "ui_main.description"
 msgid "Description"
 msgstr "Description"
 
-#: $lang->'detailed_location_example'
+#: ui_main.detailed_location_example
+msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
 msgstr "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
 
-#: $lang->'details'
+#: ui_main.details
+msgctxt "ui_main.details"
 msgid "Details"
 msgstr "Maelezo"
 
-#: $lang->'direct_report'
+#: ui_main.direct_report
+msgctxt "ui_main.direct_report"
 msgid "Direct Report"
 msgstr "Ripoti moja kwa moja"
 
-#: $lang->'disabled'
+#: ui_main.disabled
+msgctxt "ui_main.disabled"
 msgid "Disabled"
 msgstr "Wezua"
 
-#: $lang->'disapprove'
+#: ui_main.disapprove
+msgctxt "ui_main.disapprove"
 msgid "Unapprove"
 msgstr "Guna"
 
-#: $lang->'download_reports'
+#: ui_main.download_reports
+msgctxt "ui_main.download_reports"
 msgid "Download Reports"
 msgstr "Pakua ripoti"
 
-#: $lang->'edit'
+#: ui_main.edit
+msgctxt "ui_main.edit"
 msgid "Edit"
 msgstr "Badili"
 
-#: $lang->'edit_form_fields'
+#: ui_main.edit_form_fields
+msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
 msgstr "Badili uga za fomu"
 
-#: $lang->'edit_report'
+#: ui_main.edit_report
+msgctxt "ui_main.edit_report"
 msgid "Edit Report"
 msgstr "Badili ripoti"
 
-#: $lang->'email'
-msgctxt "$lang->'email'"
+#: ui_main.email
+msgctxt "ui_main.email"
 msgid "Email"
 msgstr "Barua pepe"
 
-#: $lang->'email_address'
+#: ui_main.email_address
+msgctxt "ui_main.email_address"
 msgid "Email Address"
 msgstr "Anwani ya barua pepe"
 
-#: $lang->'email_configuration'
+#: ui_main.email_configuration
+msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
 msgstr "Vipimo vya Mail Server"
 
-#: $lang->'email_server_host'
+#: ui_main.email_server_host
+msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
 msgstr "Host ya Mail Server"
 
-#: $lang->'email_server_password'
+#: ui_main.email_server_password
+msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
 msgstr "Nywila ya Mail Server"
 
-#: $lang->'email_server_port'
+#: ui_main.email_server_port
+msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
 msgstr "Port ya Mail Server"
 
-#: $lang->'email_server_ssl_support'
+#: ui_main.email_server_ssl_support
+msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
 msgstr "SSL ya Mail Server"
 
-#: $lang->'email_server_type'
+#: ui_main.email_server_type
+msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
 msgstr "Aina ya Mail Server"
 
-#: $lang->'email_server_username'
+#: ui_main.email_server_username
+msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
 msgstr "Jina la mtumizi wa Mail Server"
 
-#: $lang->'email_settings_comment_0'
+#: ui_main.email_settings_comment_0
+msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
 msgstr "kwahivyo vipimo vyako vitahusishwa na anwani ya barua pepe hiyo"
 
-#: $lang->'email_settings_comment_00'
-msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
-msgstr ""
-"Ili uweze kupata ripoti kwa barua pepe, tafadhali weka vipimo vya akaunti "
-"yako ya barua pepe kwa nafasi ifuatayo. Tafadhali kumbuka kuwa zitatumwa kwa"
+#: ui_main.email_settings_comment_00
+msgctxt "ui_main.email_settings_comment_00"
+msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgstr "Ili uweze kupata ripoti kwa barua pepe, tafadhali weka vipimo vya akaunti yako ya barua pepe kwa nafasi ifuatayo. Tafadhali kumbuka kuwa zitatumwa kwa"
 
-#: $lang->'email_settings_comment_1'
+#: ui_main.email_settings_comment_1
+msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
 msgstr "Server zengine zinahitaji anwani ya barua pepe kamili"
 
-#: $lang->'email_settings_comment_2'
+#: ui_main.email_settings_comment_2
+msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
 msgstr "Nywila ya akaunti ya barua pepe"
 
-#: $lang->'email_settings_comment_3'
+#: ui_main.email_settings_comment_3
+msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 msgstr "Port za kawaida: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
-#: $lang->'email_settings_comment_4'
+#: ui_main.email_settings_comment_4
+msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 msgstr "Mifano: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
-#: $lang->'email_settings_comment_5'
+#: ui_main.email_settings_comment_5
+msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
 msgstr "Mifano: pop3, imap"
 
-#: $lang->'email_settings_comment_6'
+#: ui_main.email_settings_comment_6
+msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
 msgstr "Wezezesha au wezua SSL"
 
-#: $lang->'empty'
+#: ui_main.empty
+msgctxt "ui_main.empty"
 msgid "---EMPTY---"
 msgstr ""
 
-#: $lang->'end_point'
-msgctxt "$lang->'end_point'"
+#: ui_main.end_point
+msgctxt "ui_main.end_point"
 msgid "to"
 msgstr "mpaka"
 
-#: $lang->'error'
+#: ui_main.error
+msgctxt "ui_main.error"
 msgid "Error!"
 msgstr "Kosa!"
 
-#: $lang->'example'
+#: ui_main.example
+msgctxt "ui_main.example"
 msgid "Example"
 msgstr "Mfano"
 
-#: $lang->'example_country'
+#: ui_main.example_country
+msgctxt "ui_main.example_country"
 msgid "Kenya"
 msgstr "Kenya"
 
-#: $lang->'external_apps'
+#: ui_main.external_apps
+msgctxt "ui_main.external_apps"
 msgid "External Apps"
 msgstr ""
 
-#: $lang->'external_video_link'
+#: ui_main.external_video_link
+msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
 msgstr ""
 
-#: $lang->'feed'
+#: ui_main.feed
+msgctxt "ui_main.feed"
 msgid "Feed"
 msgstr "Tawanyiko"
 
-#: $lang->'feedback'
+#: ui_main.feedback
+msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
 msgstr "Tujibishe"
 
-#: $lang->'feedback_reports'
-msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+#: ui_main.feedback_reports
+msgctxt "ui_main.feedback_reports"
+msgid "Please give us feedback about your experience by clicking on the button below."
 msgstr "Tafadhali tujibishe kuhusu mazoea yako kwa kubonya button inayofuata."
 
-#: $lang->'feeds'
+#: ui_main.feeds
+msgctxt "ui_main.feeds"
 msgid "Feeds"
 msgstr "Tawanyiko"
 
-#: $lang->'feed_has_been'
+#: ui_main.feed_has_been
+msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
 msgstr "Tawanyiko "
 
-#: $lang->'feed_items'
+#: ui_main.feed_items
+msgctxt "ui_main.feed_items"
 msgid "Feed Items"
 msgstr "Vipengele vya tawanyiko"
 
-#: $lang->'feed_name'
+#: ui_main.feed_name
+msgctxt "ui_main.feed_name"
 msgid "Feed Name"
 msgstr "Jina la tawanyiko"
 
-#: $lang->'feed_url'
+#: ui_main.feed_url
+msgctxt "ui_main.feed_url"
 msgid "Feed URL"
 msgstr "Anwani ya tawanyiko"
 
-#: $lang->'field_unused'
+#: ui_main.field_unused
+msgctxt "ui_main.field_unused"
 msgid "Unused field"
 msgstr "Uga isiyotumika"
 
-#: $lang->'file'
+#: ui_main.file
+msgctxt "ui_main.file"
 msgid "File"
 msgstr "Faili"
 
-#: $lang->'file_over_max_allowed'
+#: ui_main.file_over_max_allowed
+msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
 msgstr ""
 
-#: $lang->'filters'
+#: ui_main.filters
+msgctxt "ui_main.filters"
 msgid "Filters"
 msgstr "Chujio"
 
-#: $lang->'filter_reports'
+#: ui_main.filter_reports
+msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
 msgstr ""
 
-#: $lang->'filter_reports_by'
+#: ui_main.filter_reports_by
+msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
 msgstr ""
 
-#: $lang->'filter_reports_contain'
+#: ui_main.filter_reports_contain
+msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
 msgstr ""
 
-#: $lang->'find'
+#: ui_main.find
+msgctxt "ui_main.find"
 msgid "Find"
 msgstr "Tafuta"
 
-#: $lang->'find_location'
+#: ui_main.find_location
+msgctxt "ui_main.find_location"
 msgid "Find Location"
 msgstr "Tafuta eneo"
 
-#: $lang->'first_name'
-msgctxt "$lang->'first_name'"
+#: ui_main.first_name
+msgctxt "ui_main.first_name"
 msgid "First Name"
 msgstr "Jina la kwanza"
 
-#: $lang->'force_run_scheduler'
+#: ui_main.force_run_scheduler
+msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
 msgstr ""
 
-#: $lang->'forgot_password'
-msgctxt "$lang->'forgot_password'"
+#: ui_main.forgot_password
+msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
 msgstr "Umesahau nywila?"
 
-#: $lang->'form'
+#: ui_main.form
+msgctxt "ui_main.form"
 msgid "Form"
 msgstr "Fomu"
 
-#: $lang->'forms'
+#: ui_main.forms
+msgctxt "ui_main.forms"
 msgid "Forms"
 msgstr "Fomu"
 
-#: $lang->'form_description'
+#: ui_main.form_description
+msgctxt "ui_main.form_description"
 msgid "Form Description"
 msgstr "Elezo la fomu"
 
-#: $lang->'form_edit'
+#: ui_main.form_edit
+msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
 msgstr "Badili Fomu"
 
-#: $lang->'form_has_been'
+#: ui_main.form_has_been
+msgctxt "ui_main.form_has_been"
 msgid "The form has been"
 msgstr "Fomu "
 
-#: $lang->'form_title'
+#: ui_main.form_title
+msgctxt "ui_main.form_title"
 msgid "Form Title"
 msgstr "Jina la fomu"
 
-#: $lang->'from'
-msgctxt "$lang->'from'"
+#: ui_main.from
+msgctxt "ui_main.from"
 msgid "From"
 msgstr "Kutoka"
 
-#: $lang->'full_name'
+#: ui_main.full_name
+msgctxt "ui_main.full_name"
 msgid "Full Name"
 msgstr "Majina kwa kamili"
 
-#: $lang->'geolocation_available'
+#: ui_main.geolocation_available
+msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
 msgstr "GeoLocation Imewezeshwa"
 
-#: $lang->'geometry_color'
-msgctxt "$lang->'geometry_color'"
+#: ui_main.geometry_color
+msgctxt "ui_main.geometry_color"
 msgid "Color"
 msgstr ""
 
-#: $lang->'geometry_comments'
-msgctxt "$lang->'geometry_comments'"
+#: ui_main.geometry_comments
+msgctxt "ui_main.geometry_comments"
 msgid "Comments"
 msgstr ""
 
-#: $lang->'geometry_label'
+#: ui_main.geometry_label
+msgctxt "ui_main.geometry_label"
 msgid "Label"
 msgstr ""
 
-#: $lang->'geometry_strokewidth'
+#: ui_main.geometry_strokewidth
+msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
 msgstr ""
 
-#: $lang->'go'
+#: ui_main.go
+msgctxt "ui_main.go"
 msgid "Go"
 msgstr ""
 
-#: $lang->'hashtag'
+#: ui_main.hashtag
+msgctxt "ui_main.hashtag"
 msgid "Hashtag"
 msgstr "Hashtag"
 
-#: $lang->'has_been'
+#: ui_main.has_been
+msgctxt "ui_main.has_been"
 msgid "Has Been"
 msgstr "Imesha"
 
-#: $lang->'help'
+#: ui_main.help
+msgctxt "ui_main.help"
 msgid "How to Help"
 msgstr "Usaidizi"
 
-#: $lang->'hidden'
+#: ui_main.hidden
+msgctxt "ui_main.hidden"
 msgid "Hidden"
 msgstr ""
 
-#: $lang->'hide'
+#: ui_main.hide
+msgctxt "ui_main.hide"
 msgid "Hide"
 msgstr ""
 
-#: $lang->'hide_this_message'
+#: ui_main.hide_this_message
+msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
 msgstr "Ficha huu ujumbe"
 
-#: $lang->'home'
+#: ui_main.home
+msgctxt "ui_main.home"
 msgid "Home"
 msgstr "Nyumbani"
 
-#: $lang->'how_to_report'
+#: ui_main.how_to_report
+msgctxt "ui_main.how_to_report"
 msgid "How to Report"
 msgstr "Vipi kuripoti"
 
-#: $lang->'https'
+#: ui_main.https
+msgctxt "ui_main.https"
 msgid "HTTPS"
 msgstr ""
 
-#: $lang->'id'
+#: ui_main.id
+msgctxt "ui_main.id"
 msgid "ID"
 msgstr "ID"
 
-#: $lang->'identify_you'
+#: ui_main.identify_you
+msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
 msgstr ""
 
-#: $lang->'image'
+#: ui_main.image
+msgctxt "ui_main.image"
 msgid "Image"
 msgstr "Picha"
 
-#: $lang->'images'
+#: ui_main.images
+msgctxt "ui_main.images"
 msgid "Images"
 msgstr ""
 
-#: $lang->'image_icon'
+#: ui_main.image_icon
+msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
 msgstr "Picha/Ikoni"
 
-#: $lang->'inactive'
+#: ui_main.inactive
+msgctxt "ui_main.inactive"
 msgid "Inactive"
 msgstr ""
 
-#: $lang->'inbox'
+#: ui_main.inbox
+msgctxt "ui_main.inbox"
 msgid "Inbox"
 msgstr "Inbox"
 
-#: $lang->'incident'
+#: ui_main.incident
+msgctxt "ui_main.incident"
 msgid "Incident"
 msgstr "Tukio"
 
-#: $lang->'incidents_nearby'
+#: ui_main.incidents_nearby
+msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
 msgstr "Tukio zilizo karibu"
 
-#: $lang->'incident_location'
+#: ui_main.incident_location
+msgctxt "ui_main.incident_location"
 msgid "Incident Location"
 msgstr "Eneo la tukio"
 
-#: $lang->'include'
+#: ui_main.include
+msgctxt "ui_main.include"
 msgid "Include"
 msgstr "Engeza"
 
-#: $lang->'include_categories'
+#: ui_main.include_categories
+msgctxt "ui_main.include_categories"
 msgid "Include Categories"
 msgstr "Engeza Jamii"
 
-#: $lang->'include_custom_fields'
+#: ui_main.include_custom_fields
+msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
 msgstr ""
 
-#: $lang->'include_description'
+#: ui_main.include_description
+msgctxt "ui_main.include_description"
 msgid "Include Description"
 msgstr "Engeza maelezo"
 
-#: $lang->'include_detail'
+#: ui_main.include_detail
+msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
 msgstr "Engeza tarifa zozote ziwezekanazo"
 
-#: $lang->'include_latitude'
+#: ui_main.include_latitude
+msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
 msgstr "Engeza Latitudo"
 
-#: $lang->'include_location_information'
+#: ui_main.include_location_information
+msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
 msgstr "Engeza maarifa ya eneo"
 
-#: $lang->'include_longitude'
+#: ui_main.include_longitude
+msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
 msgstr "Engeza Longitudo"
 
-#: $lang->'incoming_media'
+#: ui_main.incoming_media
+msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
 msgstr "Media inayoingia"
 
-#: $lang->'information_evaluation'
+#: ui_main.information_evaluation
+msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
 msgstr "Tathmini ya maarifa"
 
-#: $lang->'input_location'
+#: ui_main.input_location
+msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
 msgstr "Andika sehemu yako sahihi"
 
-#: $lang->'insufficient_role'
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
+#: ui_main.insufficient_role
+msgctxt "ui_main.insufficient_role"
+msgid "Your account doesn\'t have the proper permission to fully log you in. Please contact the administrator."
 msgstr ""
 
-#: $lang->'in_response_to'
+#: ui_main.in_response_to
+msgctxt "ui_main.in_response_to"
 msgid "In response to"
 msgstr "Kwa kujibisha"
 
-#: $lang->'ip_address'
+#: ui_main.ip_address
+msgctxt "ui_main.ip_address"
 msgid "IP Address"
 msgstr "Anwani ya IP"
 
-#: $lang->'is_this_your_profile'
+#: ui_main.is_this_your_profile
+msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
 msgstr ""
 
-#: $lang->'item'
+#: ui_main.item
+msgctxt "ui_main.item"
 msgid "item"
 msgstr "kipengele"
 
-#: $lang->'items'
+#: ui_main.items
+msgctxt "ui_main.items"
 msgid "items"
 msgstr "vipengele"
 
-#: $lang->'item_details'
+#: ui_main.item_details
+msgctxt "ui_main.item_details"
 msgid "item_details"
 msgstr "Maarifa ya vipengele"
 
-#: $lang->'item_title'
+#: ui_main.item_title
+msgctxt "ui_main.item_title"
 msgid "Item Title"
 msgstr "Jina la kipengele"
 
-#: $lang->'key'
+#: ui_main.key
+msgctxt "ui_main.key"
 msgid "Key"
 msgstr "Key"
 
-#: $lang->'kml_kmz_file'
+#: ui_main.kml_kmz_file
+msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
 msgstr "Faili ya KMZ/KML"
 
-#: $lang->'kml_kmz_upload'
+#: ui_main.kml_kmz_upload
+msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
 msgstr "Pakia Faili ya KMZ/KML"
 
-#: $lang->'kml_url'
+#: ui_main.kml_url
+msgctxt "ui_main.kml_url"
 msgid "KML URL"
 msgstr "Anwani ya KML"
 
-#: $lang->'laconica'
+#: ui_main.laconica
+msgctxt "ui_main.laconica"
 msgid "Laconica"
 msgstr "Laconica"
 
-#: $lang->'language'
+#: ui_main.language
+msgctxt "ui_main.language"
 msgid "Language"
 msgstr "Lugha"
 
-#: $lang->'last'
+#: ui_main.last
+msgctxt "ui_main.last"
 msgid "Last"
 msgstr "Mwisho"
 
-#: $lang->'last_month'
+#: ui_main.last_month
+msgctxt "ui_main.last_month"
 msgid "Last Month"
 msgstr "Mwezi uliopita"
 
-#: $lang->'last_name'
-msgctxt "$lang->'last_name'"
+#: ui_main.last_name
+msgctxt "ui_main.last_name"
 msgid "Last Name"
 msgstr "Jina la mwisho"
 
-#: $lang->'last_year'
+#: ui_main.last_year
+msgctxt "ui_main.last_year"
 msgid "Last Year"
 msgstr "Mwaka uliopita"
 
-#: $lang->'latitude'
+#: ui_main.latitude
+msgctxt "ui_main.latitude"
 msgid "Latitude"
 msgstr "Latitudo"
 
-#: $lang->'layers'
+#: ui_main.layers
+msgctxt "ui_main.layers"
 msgid "Layers"
 msgstr "Leya"
 
-#: $lang->'layers_filter'
+#: ui_main.layers_filter
+msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
 msgstr "Leya zenginezo"
 
-#: $lang->'layer_has_been'
+#: ui_main.layer_has_been
+msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
 msgstr "Leya "
 
-#: $lang->'layer_name'
+#: ui_main.layer_name
+msgctxt "ui_main.layer_name"
 msgid "Layer Name"
 msgstr "Jina la leya"
 
-#: $lang->'layer_url'
+#: ui_main.layer_url
+msgctxt "ui_main.layer_url"
 msgid "Layer URL"
 msgstr "Anwani ya leya"
 
-#: $lang->'leave_a_comment'
+#: ui_main.leave_a_comment
+msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
 msgstr ""
 
-#: $lang->'less_information'
+#: ui_main.less_information
+msgctxt "ui_main.less_information"
 msgid "Less Information"
 msgstr ""
 
-#: $lang->'level'
+#: ui_main.level
+msgctxt "ui_main.level"
 msgid "Level"
 msgstr "Gredi"
 
-#: $lang->'level_has_been'
+#: ui_main.level_has_been
+msgctxt "ui_main.level_has_been"
 msgid "This level has been"
 msgstr "Hii Gredi "
 
-#: $lang->'level_name'
+#: ui_main.level_name
+msgctxt "ui_main.level_name"
 msgid "Level Name"
 msgstr "Jina la gredi"
 
-#: $lang->'limited'
+#: ui_main.limited
+msgctxt "ui_main.limited"
 msgid "Limited"
 msgstr "Imekadirika"
 
-#: $lang->'link'
+#: ui_main.link
+msgctxt "ui_main.link"
 msgid "Link"
 msgstr "Kiungo"
 
-#: $lang->'list'
+#: ui_main.list
+msgctxt "ui_main.list"
 msgid "List"
 msgstr ""
 
-#: $lang->'loading_reports'
+#: ui_main.loading_reports
+msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
 msgstr ""
 
-#: $lang->'location'
+#: ui_main.location
+msgctxt "ui_main.location"
 msgid "Location"
 msgstr "Eneo"
 
-#: $lang->'locations'
+#: ui_main.locations
+msgctxt "ui_main.locations"
 msgid "Locations"
 msgstr "Eneo"
 
-#: $lang->'location_example'
+#: ui_main.location_example
+msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
 msgstr "Mji, Daula na/au Nchi"
 
-#: $lang->'login'
+#: ui_main.login
+msgctxt "ui_main.login"
 msgid "Login"
 msgstr "Kiinglilizi"
 
-#: $lang->'login_account_creation_successful'
+#: ui_main.login_account_creation_successful
+msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
 msgstr ""
 
-#: $lang->'login_confirmation_sent'
+#: ui_main.login_confirmation_sent
+msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr ""
 
-#: $lang->'login_email_doesnt_exist'
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
+#: ui_main.login_email_doesnt_exist
+msgctxt "ui_main.login_email_doesnt_exist"
+msgid "Email address doesn\'t exist. Try a different address or create an account."
 msgstr ""
 
-#: $lang->'login_select_openid'
+#: ui_main.login_select_openid
+msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
 msgstr ""
 
-#: $lang->'login_with'
+#: ui_main.login_with
+msgctxt "ui_main.login_with"
 msgid "Login with"
 msgstr ""
 
-#: $lang->'login_userpass'
+#: ui_main.login_userpass
+msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
 msgstr ""
 
-#: $lang->'login_openid'
+#: ui_main.login_openid
+msgctxt "ui_main.login_openid"
 msgid "OpenID"
 msgstr ""
 
-#: $lang->'login_signup'
+#: ui_main.login_signup
+msgctxt "ui_main.login_signup"
 msgid "Sign Up"
 msgstr ""
 
-#: $lang->'login_signup_click'
+#: ui_main.login_signup_click
+msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
 msgstr ""
 
-#: $lang->'login_signup_confirmation_message'
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
+#: ui_main.login_signup_confirmation_message
+msgctxt "ui_main.login_signup_confirmation_message"
+msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
 msgstr ""
 
-#: $lang->'login_signup_confirmation_subject'
+#: ui_main.login_signup_confirmation_subject
+msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr ""
 
-#: $lang->'login_signup_text'
+#: ui_main.login_signup_text
+msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
 msgstr ""
 
-#: $lang->'longitude'
+#: ui_main.longitude
+msgctxt "ui_main.longitude"
 msgid "Longitude"
 msgstr "Longitudo"
 
-#: $lang->'map'
+#: ui_main.map
+msgctxt "ui_main.map"
 msgid "Map"
 msgstr "Ramani"
 
-#: $lang->'mark_read'
+#: ui_main.mark_read
+msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
 msgstr "Athirisha kuwa imesomwa"
 
-#: $lang->'mark_unread'
+#: ui_main.mark_unread
+msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
 msgstr "Athirisha kuwa haijasomwa"
 
-#: $lang->'maximum_filesize'
+#: ui_main.maximum_filesize
+msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
 msgstr ""
 
-#: $lang->'media'
+#: ui_main.media
+msgctxt "ui_main.media"
 msgid "Media"
 msgstr "Media"
 
-#: $lang->'media_filter'
+#: ui_main.media_filter
+msgctxt "ui_main.media_filter"
 msgid "Media Filter"
 msgstr "Chujio la Media"
 
-#: $lang->'members'
+#: ui_main.members
+msgctxt "ui_main.members"
 msgid "Members"
 msgstr ""
 
-#: $lang->'manage_your_account'
+#: ui_main.manage_your_account
+msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
 msgstr ""
 
-#: $lang->'message'
-msgctxt "$lang->'message'"
+#: ui_main.message
+msgctxt "ui_main.message"
 msgid "Message"
 msgstr "Ujumbe"
 
-#: $lang->'messages'
+#: ui_main.messages
+msgctxt "ui_main.messages"
 msgid "Messages"
 msgstr "Ujumbe"
 
-#: $lang->'message_details'
+#: ui_main.message_details
+msgctxt "ui_main.message_details"
 msgid "Message Details"
 msgstr "Elezo la ujumbe"
 
-#: $lang->'message_non_numeric_source'
+#: ui_main.message_non_numeric_source
+msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
 msgstr ""
 
-#: $lang->'mobile'
+#: ui_main.mobile
+msgctxt "ui_main.mobile"
 msgid "Mobile"
 msgstr ""
 
-#: $lang->'modify'
+#: ui_main.modify
+msgctxt "ui_main.modify"
 msgid "Modify"
 msgstr "Badilisha"
 
-#: $lang->'modify_date'
+#: ui_main.modify_date
+msgctxt "ui_main.modify_date"
 msgid "Modify Date"
 msgstr "Tarehe ya kubadilisha"
 
-#: $lang->'month'
+#: ui_main.month
+msgctxt "ui_main.month"
 msgid "month"
 msgstr ""
 
-#: $lang->'more'
+#: ui_main.more
+msgctxt "ui_main.more"
 msgid "More"
 msgstr "Zaidi"
 
-#: $lang->'more_information'
+#: ui_main.more_information
+msgctxt "ui_main.more_information"
 msgid "More Information"
 msgstr ""
 
-#: $lang->'multi_country_instance'
+#: ui_main.multi_country_instance
+msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
 msgstr "Je Ushahidi hii imetumika kwa nchi nyingi?"
 
-#: $lang->'must_confirm_email_address'
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
+#: ui_main.must_confirm_email_address
+msgctxt "ui_main.must_confirm_email_address"
+msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
 msgstr ""
 
-#: $lang->'name'
+#: ui_main.name
+msgctxt "ui_main.name"
 msgid "Name"
 msgstr "Jina"
 
-#: $lang->'nearby_report'
+#: ui_main.nearby_report
+msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
 msgstr ""
 
-#: $lang->'new'
+#: ui_main.new
+msgctxt "ui_main.new"
 msgid "New"
 msgstr "Mpya"
 
-#: $lang->'news'
+#: ui_main.news
+msgctxt "ui_main.news"
 msgid "News"
 msgstr "Habari"
 
-#: $lang->'news_feeds'
+#: ui_main.news_feeds
+msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
 msgstr "Tawanyiko la habari"
 
-#: $lang->'news_source'
+#: ui_main.news_source
+msgctxt "ui_main.news_source"
 msgid "News Source"
 msgstr "Asili ya habari"
 
-#: $lang->'new_category'
+#: ui_main.new_category
+msgctxt "ui_main.new_category"
 msgid "New Category"
 msgstr "Jamii mpya"
 
-#: $lang->'new_password'
+#: ui_main.new_password
+msgctxt "ui_main.new_password"
 msgid "New Password"
 msgstr "Nywila mpya"
 
-#: $lang->'new_report'
+#: ui_main.new_report
+msgctxt "ui_main.new_report"
 msgid "New Report"
 msgstr "Repoti mpya"
 
-#: $lang->'next'
+#: ui_main.next
+msgctxt "ui_main.next"
 msgid "Next"
 msgstr "Mbele"
 
-#: $lang->'no'
+#: ui_main.no
+msgctxt "ui_main.no"
 msgid "No"
 msgstr "La"
 
-#: $lang->'no_checkins'
+#: ui_main.no_checkins
+msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
 msgstr ""
 
-#: $lang->'no_data'
+#: ui_main.no_data
+msgctxt "ui_main.no_data"
 msgid "No data"
 msgstr ""
 
-#: $lang->'none'
+#: ui_main.none
+msgctxt "ui_main.none"
 msgid "None"
 msgstr ""
 
-#: $lang->'notices'
+#: ui_main.notices
+msgctxt "ui_main.notices"
 msgid "Notices"
 msgstr "Notisi"
 
-#: $lang->'not_approved'
-msgctxt "$lang->'not_approved'"
+#: ui_main.not_approved
+msgctxt "ui_main.not_approved"
 msgid "Not Approved"
 msgstr "Haijapitishwa"
 
-#: $lang->'not_approved_singular'
-msgctxt "$lang->'not_approved_singular'"
+#: ui_main.not_approved_singular
+msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
 msgstr "Haijapitishwa"
 
-#: $lang->'not_selected'
+#: ui_main.not_selected
+msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
 msgstr ""
 
-#: $lang->'not_spam'
+#: ui_main.not_spam
+msgctxt "ui_main.not_spam"
 msgid "not spam"
 msgstr "Si spam"
 
-#: $lang->'not_specified'
+#: ui_main.not_specified
+msgctxt "ui_main.not_specified"
 msgid "Not Specified"
 msgstr ""
 
-#: $lang->'no_reports'
+#: ui_main.no_reports
+msgctxt "ui_main.no_reports"
 msgid "There are no reports"
 msgstr ""
 
-#: $lang->'no_results'
+#: ui_main.no_results
+msgctxt "ui_main.no_results"
 msgid "There are no results"
 msgstr "Hakuna matokeo"
 
-#: $lang->'off'
+#: ui_main.off
+msgctxt "ui_main.off"
 msgid "Off"
 msgstr ""
 
-#: $lang->'official_news'
+#: ui_main.official_news
+msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
 msgstr "Habari rasmi"
 
-#: $lang->'on'
+#: ui_main.on
+msgctxt "ui_main.on"
 msgid "On"
 msgstr ""
 
-#: $lang->'option'
+#: ui_main.option
+msgctxt "ui_main.option"
 msgid "Option"
 msgstr "Chaguo"
 
-#: $lang->'optional'
+#: ui_main.optional
+msgctxt "ui_main.optional"
 msgid "Optional"
 msgstr "Hiari"
 
-#: $lang->'options'
+#: ui_main.options
+msgctxt "ui_main.options"
 msgid "Options"
 msgstr "Chaguo"
 
-#: $lang->'organization'
+#: ui_main.organization
+msgctxt "ui_main.organization"
 msgid "Organization"
 msgstr "Shirika"
 
-#: $lang->'organizations'
+#: ui_main.organizations
+msgctxt "ui_main.organizations"
 msgid "Organizations"
 msgstr "Mashirika"
 
-#: $lang->'organization_description'
+#: ui_main.organization_description
+msgctxt "ui_main.organization_description"
 msgid "Organization Description"
 msgstr "Maelezo ya shirika"
 
-#: $lang->'organization_email'
+#: ui_main.organization_email
+msgctxt "ui_main.organization_email"
 msgid "Organization Email"
 msgstr "Barua pepe ya shirika"
 
-#: $lang->'organization_has_been'
+#: ui_main.organization_has_been
+msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
 msgstr "Shirika"
 
-#: $lang->'organization_name'
+#: ui_main.organization_name
+msgctxt "ui_main.organization_name"
 msgid "Organization Name"
 msgstr "Jina la shirika"
 
-#: $lang->'organization_phone_1'
+#: ui_main.organization_phone_1
+msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
 msgstr "Simu ya kwanza ya shirika"
 
-#: $lang->'organization_phone_2'
+#: ui_main.organization_phone_2
+msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
 msgstr "Simu ya pili ya shirika"
 
-#: $lang->'organization_website'
+#: ui_main.organization_website
+msgctxt "ui_main.organization_website"
 msgid "Organization Website"
 msgstr "Tovuti ya shirika"
 
-#: $lang->'original'
+#: ui_main.original
+msgctxt "ui_main.original"
 msgid "Original"
 msgstr "Awali"
 
-#: $lang->'original_description'
+#: ui_main.original_description
+msgctxt "ui_main.original_description"
 msgid "Original Description"
 msgstr "Elezo la awali"
 
-#: $lang->'original_title'
+#: ui_main.original_title
+msgctxt "ui_main.original_title"
 msgid "Original Title"
 msgstr "Jina la awali"
 
-#: $lang->'other_ushahidi_instances'
+#: ui_main.other_ushahidi_instances
+msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
 msgstr "USHAHIDI ZENGINE"
 
-#: $lang->'outbox'
+#: ui_main.outbox
+msgctxt "ui_main.outbox"
 msgid "Outbox"
 msgstr "Outbox"
 
-#: $lang->'outgoing'
+#: ui_main.outgoing
+msgctxt "ui_main.outgoing"
 msgid "Outgoing"
 msgstr "Zinazotoka"
 
-#: $lang->'page'
+#: ui_main.page
+msgctxt "ui_main.page"
 msgid "Page"
 msgstr "Kurasa"
 
-#: $lang->'pages'
+#: ui_main.pages
+msgctxt "ui_main.pages"
 msgid "Pages"
 msgstr "Kurasa"
 
-#: $lang->'page_description'
+#: ui_main.page_description
+msgctxt "ui_main.page_description"
 msgid "Page Description"
 msgstr "Maelezo ya kurasa"
 
-#: $lang->'page_has_been'
+#: ui_main.page_has_been
+msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
 msgstr "Kurasa"
 
-#: $lang->'page_tab_name'
+#: ui_main.page_tab_name
+msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
 msgstr "Jina la sehemu ya kurasa"
 
-#: $lang->'page_title'
+#: ui_main.page_title
+msgctxt "ui_main.page_title"
 msgid "Page Title"
 msgstr "Jina la kurasa"
 
-#: $lang->'parent_category'
+#: ui_main.parent_category
+msgctxt "ui_main.parent_category"
 msgid "Parent Category"
 msgstr "Jamii mzazi"
 
-#: $lang->'password'
+#: ui_main.password
+msgctxt "ui_main.password"
 msgid "Password"
 msgstr "Nywila"
 
-#: $lang->'password_again'
+#: ui_main.password_again
+msgctxt "ui_main.password_again"
 msgid "Verify Password"
 msgstr "Rudia kuandika nywila"
 
-#: $lang->'password_changed_successfully'
+#: ui_main.password_changed_successfully
+msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
 msgstr ""
 
-#: $lang->'password_forgot'
-msgctxt "$lang->'password_forgot'"
+#: ui_main.password_forgot
+msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
 msgstr "Umesahau nywila?"
 
-#: $lang->'password_reset_confirm'
+#: ui_main.password_reset_confirm
+msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
 msgstr "Angalia barua pepe zako kupata nywila mpya."
 
-#: $lang->'password_save'
+#: ui_main.password_save
+msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
 msgstr "Bakia ukiwa umeingia kwa akaunti yako?"
 
-#: $lang->'past_month'
+#: ui_main.past_month
+msgctxt "ui_main.past_month"
 msgid "Past Month"
 msgstr "Mwezi uliopota"
 
-#: $lang->'past_year'
+#: ui_main.past_year
+msgctxt "ui_main.past_year"
 msgid "Past Year"
 msgstr "Mwezi ulipita"
 
-#: $lang->'pending'
+#: ui_main.pending
+msgctxt "ui_main.pending"
 msgid "Pending"
 msgstr "Inasubiri"
 
-#: $lang->'per'
+#: ui_main.per
+msgctxt "ui_main.per"
 msgid "per"
 msgstr ""
 
-#: $lang->'personal_information'
+#: ui_main.personal_information
+msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
 msgstr "Maarifa ya kibinafsi <span>Hiari.</span>"
 
-#: $lang->'phone'
+#: ui_main.phone
+msgctxt "ui_main.phone"
 msgid "Phone"
 msgstr "Simu"
 
-#: $lang->'photos'
+#: ui_main.photos
+msgctxt "ui_main.photos"
 msgid "Photos"
 msgstr ""
 
-#: $lang->'pictures'
+#: ui_main.pictures
+msgctxt "ui_main.pictures"
 msgid "Pictures"
 msgstr "Picha"
 
-#: $lang->'pictures_and_videos'
+#: ui_main.pictures_and_videos
+msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
 msgstr "Picha na video"
 
-#: $lang->'pinpoint_location'
-msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
+#: ui_main.pinpoint_location
+msgctxt "ui_main.pinpoint_location"
+msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
 msgstr "* Tafuta eneo lako, Au bonya kwa ramani kuashiria eneo lako"
 
-#: $lang->'play'
+#: ui_main.play
+msgctxt "ui_main.play"
 msgid "Play"
 msgstr "Cheza"
 
-#: $lang->'please_note'
+#: ui_main.please_note
+msgctxt "ui_main.please_note"
 msgid "Please Note"
 msgstr "Tafadhali kumbuka"
 
-#: $lang->'plugins'
+#: ui_main.plugins
+msgctxt "ui_main.plugins"
 msgid "Plugins"
 msgstr ""
 
-#: $lang->'plugin_url'
+#: ui_main.plugin_url
+msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
 msgstr ""
 
-#: $lang->'public_profile'
+#: ui_main.public_profile
+msgctxt "ui_main.public_profile"
 msgid "Public Profile"
 msgstr ""
 
-#: $lang->'public_profile_url'
+#: ui_main.public_profile_url
+msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
 msgstr ""
 
-#: $lang->'preview'
+#: ui_main.preview
+msgctxt "ui_main.preview"
 msgid "Preview"
 msgstr "Hakikisho"
 
-#: $lang->'preview_item'
+#: ui_main.preview_item
+msgctxt "ui_main.preview_item"
 msgid "Preview Item"
 msgstr "Hakikisha kipengele"
 
-#: $lang->'preview_message'
+#: ui_main.preview_message
+msgctxt "ui_main.preview_message"
 msgid "Preview Message"
 msgstr "Hakikisha ujumbe"
 
-#: $lang->'previous'
+#: ui_main.previous
+msgctxt "ui_main.previous"
 msgid "Previous"
 msgstr "Iliopita"
 
-#: $lang->'private'
+#: ui_main.private
+msgctxt "ui_main.private"
 msgid "Private"
 msgstr ""
 
-#: $lang->'profile_color'
+#: ui_main.profile_color
+msgctxt "ui_main.profile_color"
 msgid "Profile Color"
 msgstr ""
 
-#: $lang->'profile_saved'
+#: ui_main.profile_saved
+msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
 msgstr "Umbo lako limehifadhiwa"
 
-#: $lang->'quick_stats'
+#: ui_main.quick_stats
+msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
 msgstr "Takwimu za haraka"
 
-#: $lang->'rating'
+#: ui_main.rating
+msgctxt "ui_main.rating"
 msgid "Rating"
 msgstr "Uzani"
 
-#: $lang->'read'
+#: ui_main.read
+msgctxt "ui_main.read"
 msgid "Read"
 msgstr "Soma"
 
-#: $lang->'receive'
+#: ui_main.receive
+msgctxt "ui_main.receive"
 msgid "Receive"
 msgstr "Pokea"
 
-#: $lang->'receive_from'
+#: ui_main.receive_from
+msgctxt "ui_main.receive_from"
 msgid "Receive from"
 msgstr "Pokea fomu"
 
-#: $lang->'receive_notifications'
+#: ui_main.receive_notifications
+msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
 msgstr "Pokea uonyo"
 
-#: $lang->'recent_reports'
+#: ui_main.recent_reports
+msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
 msgstr "Ripoti za hivi karibuni"
 
-#: $lang->'refresh_news_feeds'
+#: ui_main.refresh_news_feeds
+msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
 msgstr "Zirudie tawanyiko"
 
-#: $lang->'registered_email'
+#: ui_main.registered_email
+msgctxt "ui_main.registered_email"
 msgid "Registered Email"
 msgstr ""
 
-#: $lang->'remove'
+#: ui_main.remove
+msgctxt "ui_main.remove"
 msgid "Remove"
 msgstr "ondoa"
 
-#: $lang->'reply'
+#: ui_main.reply
+msgctxt "ui_main.reply"
 msgid "Reply"
 msgstr "Jibu"
 
-#: $lang->'report'
+#: ui_main.report
+msgctxt "ui_main.report"
 msgid "Report"
 msgstr "Ripoti"
 
-#: $lang->'reports_listed'
+#: ui_main.reports_listed
+msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
 msgstr ""
 
-#: $lang->'reporter'
+#: ui_main.reporter
+msgctxt "ui_main.reporter"
 msgid "Reporter"
 msgstr "Alieripoti"
 
-#: $lang->'reporters'
+#: ui_main.reporters
+msgctxt "ui_main.reporters"
 msgid "Reporters"
 msgstr "Walioripoti"
 
-#: $lang->'reporter_date'
+#: ui_main.reporter_date
+msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
 msgstr "Tarehe ya alieripoti"
 
-#: $lang->'reporter_email'
+#: ui_main.reporter_email
+msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
 msgstr "Anwani ya barua pepe ya alieripoti"
 
-#: $lang->'reporter_first_name'
+#: ui_main.reporter_first_name
+msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
 msgstr "Jina la kwanza la alieripoti"
 
-#: $lang->'reporter_has_been'
+#: ui_main.reporter_has_been
+msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
 msgstr "Alieripoti"
 
-#: $lang->'reporter_ip'
+#: ui_main.reporter_ip
+msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
 msgstr "Anwani ya IP ya alieripoti"
 
-#: $lang->'reporter_last_name'
+#: ui_main.reporter_last_name
+msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
 msgstr "Jina la mwisho la alieripoti"
 
-#: $lang->'reporter_level'
+#: ui_main.reporter_level
+msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
 msgstr "Gredi ya alieripoti"
 
-#: $lang->'reporter_levels'
+#: ui_main.reporter_levels
+msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
 msgstr "Gredi za walioripoti"
 
-#: $lang->'reporter_phone'
+#: ui_main.reporter_phone
+msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
 msgstr "Namba ya simu ya alieripoti"
 
-#: $lang->'reports'
+#: ui_main.reports
+msgctxt "ui_main.reports"
 msgid "Reports"
 msgstr "Ripoti"
 
-#: $lang->'reports_btn_browse'
+#: ui_main.reports_btn_browse
+msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
 msgstr "Vinjari"
 
-#: $lang->'reports_btn_submit'
+#: ui_main.reports_btn_submit
+msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
 msgstr "Pitisha"
 
-#: $lang->'reports_by_this_user'
+#: ui_main.reports_by_this_user
+msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
 msgstr ""
 
-#: $lang->'reports_categories'
-msgctxt "$lang->'reports_categories'"
+#: ui_main.reports_categories
+msgctxt "ui_main.reports_categories"
 msgid "Categories"
 msgstr "Jamii"
 
-#: $lang->'reports_date'
-msgctxt "$lang->'reports_date'"
+#: ui_main.reports_count
+msgctxt "ui_main.reports_count"
+msgid "%d Reports"
+msgstr ""
+
+#: ui_main.reports_date
+msgctxt "ui_main.reports_date"
 msgid "Date"
 msgstr "Tarehe"
 
-#: $lang->'reports_description'
-msgctxt "$lang->'reports_description'"
+#: ui_main.reports_description
+msgctxt "ui_main.reports_description"
 msgid "Description"
 msgstr "Maelezo"
 
-#: $lang->'reports_download_csv'
+#: ui_main.reports_download_csv
+msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
 msgstr "Ripoti itapakuliwa kwa njia ya CSV"
 
-#: $lang->'reports_email'
-msgctxt "$lang->'reports_email'"
+#: ui_main.reports_email
+msgctxt "ui_main.reports_email"
 msgid "Email"
 msgstr "Barua pepe"
 
-#: $lang->'reports_features'
+#: ui_main.reports_features
+msgctxt "ui_main.reports_features"
 msgid "Features"
 msgstr ""
 
-#: $lang->'reports_find_location'
+#: ui_main.reports_find_location
+msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
 msgstr "Tafuta eneo karibu yako"
 
-#: $lang->'reports_first'
-msgctxt "$lang->'reports_first'"
+#: ui_main.reports_first
+msgctxt "ui_main.reports_first"
 msgid "First Name"
 msgstr "Jina la kwanza"
 
-#: $lang->'reports_last'
-msgctxt "$lang->'reports_last'"
+#: ui_main.reports_last
+msgctxt "ui_main.reports_last"
 msgid "Last Name"
 msgstr "Jina la mwisho"
 
-#: $lang->'reports_location_name'
-msgid "Refine Location Name"
+#: ui_main.reports_location_name
+msgctxt "ui_main.reports_location_name"
+msgid "Location Name"
 msgstr "Titta jina la eneo"
 
-#: $lang->'reports_news'
+#: ui_main.reports_news
+msgctxt "ui_main.reports_news"
 msgid "News Source Link"
 msgstr "Kiungo cha asili ya habari"
 
-#: $lang->'reports_optional'
+#: ui_main.reports_optional
+msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
 msgstr "Maelezo ya hiari"
 
-#: $lang->'reports_photos'
+#: ui_main.reports_photos
+msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
 msgstr "Pakia picha"
 
-#: $lang->'reports_return'
+#: ui_main.reports_return
+msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
 msgstr "Rudia kurasa ya ripoti"
 
-#: $lang->'reports_select_city'
+#: ui_main.reports_select_city
+msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
 msgstr "Chagua mji"
 
-#: $lang->'reports_submitted'
-msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
-msgstr ""
-"Ripoti yako imetungwa na wafanyakazi wetu wataipitia. Tutakurudia punde si "
-"punde kama inahitajika."
+#: ui_main.reports_submitted
+msgctxt "ui_main.reports_submitted"
+msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
+msgstr "Ripoti yako imetungwa na wafanyakazi wetu wataipitia. Tutakurudia punde si punde kama inahitajika."
 
-#: $lang->'reports_submit_new'
+#: ui_main.reports_submit_new
+msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
 msgstr "Tunga ripoti mpya"
 
-#: $lang->'reports_time'
-msgctxt "$lang->'reports_time'"
+#: ui_main.reports_time
+msgctxt "ui_main.reports_time"
 msgid "Time"
 msgstr "Wakati"
 
-#: $lang->'reports_timeline'
+#: ui_main.reports_timeline
+msgctxt "ui_main.reports_timeline"
 msgid "Timeline"
 msgstr "Wakati"
 
-#: $lang->'reports_title'
-msgctxt "$lang->'reports_title'"
+#: ui_main.reports_title
+msgctxt "ui_main.reports_title"
 msgid "Report Title"
 msgstr "Jina la ripoti"
 
-#: $lang->'reports_video'
+#: ui_main.reports_video
+msgctxt "ui_main.reports_video"
 msgid "Video link"
 msgstr "Kiungo cha video"
 
-#: $lang->'report_an_incident'
+#: ui_main.report_an_incident
+msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
 msgstr "Ripoti tukio"
 
-#: $lang->'report_details'
+#: ui_main.report_details
+msgctxt "ui_main.report_details"
 msgid "Report Details"
 msgstr "Maelezo ya ripoti"
 
-#: $lang->'report_option_1'
+#: ui_main.report_option_1
+msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
 msgstr "Kwa kutuma ujumbe kwa"
 
-#: $lang->'report_option_2'
+#: ui_main.report_option_2
+msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
 msgstr "Kwa kutuma barua pepe kwa "
 
-#: $lang->'report_option_3'
+#: ui_main.report_option_3
+msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
 msgstr "Kwa kutuma tweet na hashtag/s"
 
-#: $lang->'report_option_4'
+#: ui_main.report_option_4
+msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
 msgstr "Kwa kujaza fomu"
 
-#: $lang->'report_option_external_apps'
+#: ui_main.report_option_external_apps
+msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
 msgstr ""
 
-#: $lang->'report_saved'
+#: ui_main.report_saved
+msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
 msgstr "Ripoti yako imehifadhiwa"
 
-#: $lang->'report_title'
-msgctxt "$lang->'report_title'"
+#: ui_main.report_title
+msgctxt "ui_main.report_title"
 msgid "Report Title"
 msgstr "Jina la ripoti"
 
-#: $lang->'request_information'
+#: ui_main.request_information
+msgctxt "ui_main.request_information"
 msgid "Request more information"
 msgstr "Omba maelezo zaidi"
 
-#: $lang->'request_location'
+#: ui_main.request_location
+msgctxt "ui_main.request_location"
 msgid "Request location"
 msgstr "Omba eneo"
 
-#: $lang->'required'
+#: ui_main.required
+msgctxt "ui_main.required"
 msgid "Required"
 msgstr ""
 
-#: $lang->'requirements'
+#: ui_main.requirements
+msgctxt "ui_main.requirements"
 msgid "Requirements"
 msgstr "Mahitaji"
 
-#: $lang->'resend_confirm_email'
+#: ui_main.resend_confirm_email
+msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
 msgstr ""
 
-#: $lang->'reset'
+#: ui_main.reset
+msgctxt "ui_main.reset"
 msgid "Reset"
 msgstr ""
 
-#: $lang->'reset_all_filters'
+#: ui_main.reset_all_filters
+msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
 msgstr ""
 
-#: $lang->'reset_password'
+#: ui_main.reset_password
+msgctxt "ui_main.reset_password"
 msgid "Reset Password"
 msgstr "Rudia nywila"
 
-#: $lang->'retrieve_city_names'
+#: ui_main.retrieve_city_names
+msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
 msgstr "Pata majina ya miji ya nchi iliochaguliwa"
 
-#: $lang->'riverid_information'
+#: ui_main.riverid_information
+msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
 msgstr ""
 
-#: $lang->'role'
+#: ui_main.role
+msgctxt "ui_main.role"
 msgid "Role"
 msgstr ""
 
-#: $lang->'rss'
+#: ui_main.rss
+msgctxt "ui_main.rss"
 msgid "RSS"
 msgstr "RSS"
 
-#: $lang->'save'
+#: ui_main.save
+msgctxt "ui_main.save"
 msgid "Save"
 msgstr "Hifadhi"
 
-#: $lang->'saved'
+#: ui_main.saved
+msgctxt "ui_main.saved"
 msgid "Saved"
 msgstr "Imehifadhiwa"
 
-#: $lang->'save_add_new'
+#: ui_main.save_add_new
+msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
 msgstr ""
 
-#: $lang->'save_close'
+#: ui_main.save_close
+msgctxt "ui_main.save_close"
 msgid "Save & Close"
 msgstr "Hifadhi & Funga"
 
-#: $lang->'save_report'
+#: ui_main.save_report
+msgctxt "ui_main.save_report"
 msgid "Save Report"
 msgstr "Hifadhi ripoti"
 
-#: $lang->'schedule'
+#: ui_main.schedule
+msgctxt "ui_main.schedule"
 msgid "Schedule"
 msgstr ""
 
-#: $lang->'scheduler'
+#: ui_main.scheduler
+msgctxt "ui_main.scheduler"
 msgid "Scheduler"
 msgstr ""
 
-#: $lang->'scheduler_day'
+#: ui_main.scheduler_day
+msgctxt "ui_main.scheduler_day"
 msgid "Day"
 msgstr ""
 
-#: $lang->'scheduler_hour'
+#: ui_main.scheduler_hour
+msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
 msgstr ""
 
-#: $lang->'scheduler_log'
+#: ui_main.scheduler_log
+msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
 msgstr ""
 
-#: $lang->'scheduler_minute'
+#: ui_main.scheduler_minute
+msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
 msgstr ""
 
-#: $lang->'scheduler_weekday'
+#: ui_main.scheduler_weekday
+msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
 msgstr ""
 
-#: $lang->'search'
+#: ui_main.search
+msgctxt "ui_main.search"
 msgid "SEARCH"
 msgstr "TAFUTA"
 
-#: $lang->'search_results'
+#: ui_main.search_results
+msgctxt "ui_main.search_results"
 msgid "Search Results"
 msgstr "Matokeo ya kutafuta"
 
-#: $lang->'security_code'
-msgctxt "$lang->'security_code'"
+#: ui_main.security_code
+msgctxt "ui_main.security_code"
 msgid "Security Code"
 msgstr "Ishara ya usalama"
 
-#: $lang->'select_all'
+#: ui_main.select_all
+msgctxt "ui_main.select_all"
 msgid "Select All"
 msgstr "Chagua zote"
 
-#: $lang->'select_field_type'
+#: ui_main.select_field_type
+msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
 msgstr "Chagua aina ya uga"
 
-#: $lang->'select_form_type'
+#: ui_main.select_form_type
+msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
 msgstr "Chagua aina ya fomu"
 
-#: $lang->'select_in_map'
+#: ui_main.select_in_map
+msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
 msgstr "Chagua kwa ramani"
 
-#: $lang->'select_multiple'
+#: ui_main.select_multiple
+msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
 msgstr "Chagua nyingi iwezekanavo"
 
-#: $lang->'select_one'
+#: ui_main.select_one
+msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
 msgstr "Tafadhali thibitisha umetiki kipengele"
 
-#: $lang->'select_theme'
+#: ui_main.select_theme
+msgctxt "ui_main.select_theme"
 msgid "Select Theme"
 msgstr "Chagua mandhari"
 
-#: $lang->'send'
+#: ui_main.send
+msgctxt "ui_main.send"
 msgid "Send"
 msgstr "Tuma"
 
-#: $lang->'send_confirmation'
+#: ui_main.send_confirmation
+msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
 msgstr ""
 
-#: $lang->'sending_to'
+#: ui_main.sending_to
+msgctxt "ui_main.sending_to"
 msgid "Sending To"
 msgstr "Tuma kwa"
 
-#: $lang->'sent'
+#: ui_main.sent
+msgctxt "ui_main.sent"
 msgid "Sent"
 msgstr "Imetumwa"
 
-#: $lang->'sent_by'
+#: ui_main.sent_by
+msgctxt "ui_main.sent_by"
 msgid "Sent by"
 msgstr "Imetumwa na"
 
-#: $lang->'server_address'
+#: ui_main.server_address
+msgctxt "ui_main.server_address"
 msgid "Server address"
 msgstr "Anwani ya server"
 
-#: $lang->'server_type'
+#: ui_main.server_type
+msgctxt "ui_main.server_type"
 msgid "Server type"
 msgstr "Aina ya server"
 
-#: $lang->'service'
+#: ui_main.service
+msgctxt "ui_main.service"
 msgid "Service"
 msgstr "Huduma"
 
-#: $lang->'service_username'
+#: ui_main.service_username
+msgctxt "ui_main.service_username"
 msgid "Service Username"
 msgstr "Jina la mtumizi wa huduma"
 
-#: $lang->'service_user_id'
+#: ui_main.service_user_id
+msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
 msgstr "User ID ya huduma"
 
-#: $lang->'share'
+#: ui_main.share
+msgctxt "ui_main.share"
 msgid "Share"
 msgstr "Shiriki"
 
-#: $lang->'shared_data'
+#: ui_main.shared_data
+msgctxt "ui_main.shared_data"
 msgid "Shared data"
 msgstr "Data ilioshirikishwa"
 
-#: $lang->'share_has_been'
+#: ui_main.share_has_been
+msgctxt "ui_main.share_has_been"
 msgid "The share has been"
 msgstr "Ushirikiano "
 
-#: $lang->'sharing'
+#: ui_main.sharing
+msgctxt "ui_main.sharing"
 msgid "Sharing"
 msgstr "Kushiriki"
 
-#: $lang->'show'
+#: ui_main.show
+msgctxt "ui_main.show"
 msgid "Show"
 msgstr "Onyesha"
 
-#: $lang->'show_all'
+#: ui_main.show_all
+msgctxt "ui_main.show_all"
 msgid "Show all"
 msgstr "Onyesha zote"
 
-#: $lang->'show_messages'
+#: ui_main.show_messages
+msgctxt "ui_main.show_messages"
 msgid "Show Messages"
 msgstr ""
 
-#: $lang->'showing_reports_from'
-msgid "Showing Reports From"
+#: ui_main.showing_reports_from
+msgctxt "ui_main.showing_reports_from"
+msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
 msgstr ""
 
-#: $lang->'site'
+#: ui_main.site
+msgctxt "ui_main.site"
 msgid "Website"
 msgstr "Tovuti"
 
-#: $lang->'site_email_address'
+#: ui_main.site_email_address
+msgctxt "ui_main.site_email_address"
 msgid "site email address"
 msgstr "Anwani ya barua pepe ya tovuti"
 
-#: $lang->'site_url'
+#: ui_main.site_url
+msgctxt "ui_main.site_url"
 msgid "Site URL"
 msgstr "Anwani ya tovuti"
 
-#: $lang->'sms'
+#: ui_main.sms
+msgctxt "ui_main.sms"
 msgid "SMS"
 msgstr "SMS"
 
-#: $lang->'sorry_no_badges'
+#: ui_main.sorry_no_badges
+msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
 msgstr ""
 
-#: $lang->'source'
+#: ui_main.source
+msgctxt "ui_main.source"
 msgid "Source"
 msgstr "Asili"
 
-#: $lang->'source_name'
+#: ui_main.source_name
+msgctxt "ui_main.source_name"
 msgid "Source name"
 msgstr "Jina la asili"
 
-#: $lang->'source_url'
+#: ui_main.source_url
+msgctxt "ui_main.source_url"
 msgid "Source URL"
 msgstr "Anwani ya asili"
 
-#: $lang->'spam'
+#: ui_main.spam
+msgctxt "ui_main.spam"
 msgid "Spam"
 msgstr "Spam"
 
-#: $lang->'ssl_support'
+#: ui_main.ssl_support
+msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
 msgstr "Inatumia SSL?"
 
-#: $lang->'start_point'
-msgctxt "$lang->'start_point'"
+#: ui_main.start_point
+msgctxt "ui_main.start_point"
 msgid "From"
 msgstr "Kutoka"
 
-#: $lang->'step'
+#: ui_main.step
+msgctxt "ui_main.step"
 msgid "Step"
 msgstr "Hatua"
 
-#: $lang->'submit'
+#: ui_main.submit
+msgctxt "ui_main.submit"
 msgid "Submit a Report"
 msgstr "Tunga tukio"
 
-#: $lang->'submitted_by'
+#: ui_main.submitted_by
+msgctxt "ui_main.submitted_by"
 msgid "Submitted By"
 msgstr "Imepitishwa na"
 
-#: $lang->'submit_sms'
+#: ui_main.submit_sms
+msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
 msgstr "Tunga kupitia SMS"
 
-#: $lang->'submit_sms1'
+#: ui_main.submit_sms1
+msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
 msgstr "Tuma SMS yako kwa"
 
-#: $lang->'submit_sms2'
+#: ui_main.submit_sms2
+msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
 msgstr "kwenye simu yako"
 
-#: $lang->'success'
+#: ui_main.success
+msgctxt "ui_main.success"
 msgid "Success!"
 msgstr ""
 
-#: $lang->'successfuly_imported'
+#: ui_main.successfuly_imported
+msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
 msgstr "Imefanikiwa kuingiza"
 
-#: $lang->'surname'
+#: ui_main.surname
+msgctxt "ui_main.surname"
 msgid "Surname"
 msgstr "Jina la mwisho"
 
-#: $lang->'survey'
+#: ui_main.survey
+msgctxt "ui_main.survey"
 msgid "新开线路"
 msgstr ""
 
-#: $lang->'system'
+#: ui_main.system
+msgctxt "ui_main.system"
 msgid "System"
 msgstr "System"
 
-#: $lang->'tcp_port'
+#: ui_main.tcp_port
+msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
 msgstr "Port ya TCP"
 
-#: $lang->'themes'
+#: ui_main.themes
+msgctxt "ui_main.themes"
 msgid "Themes"
 msgstr "Mandhari"
 
-#: $lang->'theme_default'
+#: ui_main.theme_default
+msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
 msgstr "Mandhari ya Ushahidi ya awali"
 
-#: $lang->'theme_settings'
+#: ui_main.theme_settings
+msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
 msgstr "Vipimo vya mandhari"
 
-#: $lang->'this'
+#: ui_main.this
+msgctxt "ui_main.this"
 msgid "This"
 msgstr "Hii"
 
-#: $lang->'this_day'
-msgctxt "$lang->'this_day'"
+#: ui_main.this_day
+msgctxt "ui_main.this_day"
 msgid "Today"
 msgstr "Leo"
 
-#: $lang->'this_month'
+#: ui_main.this_month
+msgctxt "ui_main.this_month"
 msgid "This Month"
 msgstr "Mwezi huu"
 
-#: $lang->'this_week'
+#: ui_main.this_week
+msgctxt "ui_main.this_week"
 msgid "This Week"
 msgstr ""
 
-#: $lang->'this_year'
+#: ui_main.this_year
+msgctxt "ui_main.this_year"
 msgid "This Year"
 msgstr "Mwaka huu"
 
-#: $lang->'this_is_your_profile'
+#: ui_main.this_is_your_profile
+msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
 msgstr ""
 
-#: $lang->'through'
-msgid "through"
-msgstr ""
-
-#: $lang->'time'
-msgctxt "$lang->'time'"
+#: ui_main.time
+msgctxt "ui_main.time"
 msgid "Time"
 msgstr "wakati"
 
-#: $lang->'title'
+#: ui_main.title
+msgctxt "ui_main.title"
 msgid "Title "
 msgstr "JINA "
 
-#: $lang->'to'
-msgctxt "$lang->'to'"
+#: ui_main.to
+msgctxt "ui_main.to"
 msgid "to"
 msgstr "kwa"
 
-#: $lang->'today'
-msgctxt "$lang->'today'"
+#: ui_main.today
+msgctxt "ui_main.today"
 msgid "Today"
 msgstr "Leo"
 
-#: $lang->'today_at'
+#: ui_main.today_at
+msgctxt "ui_main.today_at"
 msgid "Today at"
 msgstr "Leo saa"
 
-#: $lang->'token'
+#: ui_main.token
+msgctxt "ui_main.token"
 msgid "Token"
 msgstr ""
 
-#: $lang->'total_reports'
+#: ui_main.total_reports
+msgctxt "ui_main.total_reports"
 msgid "Total Reports"
 msgstr ""
 
-#: $lang->'translated'
+#: ui_main.translated
+msgctxt "ui_main.translated"
 msgid "Translated"
 msgstr "Imetafsiriwa"
 
-#: $lang->'translated_description'
+#: ui_main.translated_description
+msgctxt "ui_main.translated_description"
 msgid "Translated Description"
 msgstr "Maelezoo yaliotafsiriwa"
 
-#: $lang->'translated_title'
+#: ui_main.translated_title
+msgctxt "ui_main.translated_title"
 msgid "Translated Title"
 msgstr "Jina liliotafsiriwa"
 
-#: $lang->'translate_to'
+#: ui_main.translate_to
+msgctxt "ui_main.translate_to"
 msgid "Translate to"
 msgstr "Tafsiri kwa"
 
-#: $lang->'translation'
+#: ui_main.translation
+msgctxt "ui_main.translation"
 msgid "Translation"
 msgstr "Tafsiri"
 
-#: $lang->'translation_saved'
+#: ui_main.translation_saved
+msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
 msgstr "Tafsiri imehifadhiwa"
 
-#: $lang->'type'
+#: ui_main.type
+msgctxt "ui_main.type"
 msgid "Type"
 msgstr ""
 
-#: $lang->'twitter'
+#: ui_main.twitter
+msgctxt "ui_main.twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: $lang->'unable_send_email'
+#: ui_main.unable_send_email
+msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
 msgstr ""
 
-#: $lang->'uncategorized_reports'
+#: ui_main.uncategorized_reports
+msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
 msgstr ""
 
-#: $lang->'unread'
+#: ui_main.unread
+msgctxt "ui_main.unread"
 msgid "unread"
 msgstr "La Haijsomwa"
 
-#: $lang->'unverified'
+#: ui_main.unverified
+msgctxt "ui_main.unverified"
 msgid "Unverified"
 msgstr ""
 
-#: $lang->'update_feeds'
+#: ui_main.update_feeds
+msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
 msgstr "Sasisha tawanyiko"
 
-#: $lang->'upload'
+#: ui_main.upload
+msgctxt "ui_main.upload"
 msgid "Upload"
 msgstr "Pakia"
 
-#: $lang->'upload_file'
+#: ui_main.upload_file
+msgctxt "ui_main.upload_file"
 msgid "File to upload"
 msgstr "Faili ya kupakiwa"
 
-#: $lang->'upload_reports'
+#: ui_main.upload_reports
+msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
 msgstr "Pakia ripoti"
 
-#: $lang->'upload_reports_detail_1'
+#: ui_main.upload_reports_detail_1
+msgctxt "ui_main.upload_reports_detail_1"
 msgid "With the form below, you can import incidents into the Ushahidi engine."
 msgstr "Na fomu inayofuata, unaeza kuingiza tukio kwenye Ushahidi"
 
-#: $lang->'upload_reports_detail_2'
+#: ui_main.upload_reports_detail_2
+msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be upladed in CSV format."
 msgstr "Ripoti lazma zipakiwe kwa njia ya CSV"
 
-#: $lang->'upload_reports_detail_3'
-msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
-msgstr ""
-"Kama ID ya tukio limehifadhiwa tayari, tukio lilo ndani ya CSV "
-"litadharauliwa"
+#: ui_main.upload_reports_detail_3
+msgctxt "ui_main.upload_reports_detail_3"
+msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgstr "Kama ID ya tukio limehifadhiwa tayari, tukio lilo ndani ya CSV litadharauliwa"
 
-#: $lang->'upload_reports_detail_4'
+#: ui_main.upload_reports_detail_4
+msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
 msgstr "Inafaa kuwa na angalau Jina la Tukio na Tarehe ya Tukio"
 
-#: $lang->'upload_reports_detail_4b'
-msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
+#: ui_main.upload_reports_detail_4b
+msgctxt "ui_main.upload_reports_detail_4b"
+msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
 msgstr ""
 
-#: $lang->'upload_reports_detail_5'
+#: ui_main.upload_reports_detail_5
+msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
 msgstr "Sampuli ya repoti ya CSV"
 
-#: $lang->'upload_reports_detail_6'
-msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
-"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
-"\",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />\n"
-"\t\t\t\t\t\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
-"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES"
+#: ui_main.upload_reports_detail_6
+msgctxt "ui_main.upload_reports_detail_6"
+msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />\n\t\t\t\t\t\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES"
 
-#: $lang->'upload_reports_detail_7'
-msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO"
+#: ui_main.upload_reports_detail_7
+msgctxt "ui_main.upload_reports_detail_7"
+msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO"
 
-#: $lang->'upload_successful'
+#: ui_main.upload_successful
+msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
 msgstr "Imefaulu kupakia"
 
-#: $lang->'upload_video'
+#: ui_main.upload_video
+msgctxt "ui_main.upload_video"
 msgid "Upload Video"
 msgstr ""
 
-#: $lang->'url'
+#: ui_main.url
+msgctxt "ui_main.url"
 msgid "URL"
 msgstr ""
 
-#: $lang->'user'
+#: ui_main.user
+msgctxt "ui_main.user"
 msgid "User"
 msgstr "Mtumizi"
 
-#: $lang->'username'
+#: ui_main.username
+msgctxt "ui_main.username"
 msgid "Username"
 msgstr "Jina la mtumizi"
 
-#: $lang->'ushahidi_admin'
+#: ui_main.ushahidi_admin
+msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
 msgstr "Meneja ya Ushahidi"
 
-#: $lang->'verification'
+#: ui_main.verification
+msgctxt "ui_main.verification"
 msgid "Verification"
 msgstr ""
 
-#: $lang->'verified'
+#: ui_main.verified
+msgctxt "ui_main.verified"
 msgid "Verified"
 msgstr "Imethibitishwa"
 
-#: $lang->'verified_reports'
+#: ui_main.verified_reports
+msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
 msgstr "Ripoti zilothibitishwa"
 
-#: $lang->'verify'
+#: ui_main.verify
+msgctxt "ui_main.verify"
 msgid "Verify"
 msgstr "Thibitisha"
 
-#: $lang->'verify_this_report'
+#: ui_main.verify_this_report
+msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
 msgstr "Thibithisha ripoti hii"
 
-#: $lang->'version'
+#: ui_main.version
+msgctxt "ui_main.version"
 msgid "Version"
 msgstr "Version"
 
-#: $lang->'via'
+#: ui_main.via
+msgctxt "ui_main.via"
 msgid "via"
 msgstr "via"
 
-#: $lang->'video'
+#: ui_main.video
+msgctxt "ui_main.video"
 msgid "Video"
 msgstr "Video"
 
-#: $lang->'view'
+#: ui_main.view
+msgctxt "ui_main.view"
 msgid "View"
 msgstr "Angalia"
 
-#: $lang->'views'
+#: ui_main.views
+msgctxt "ui_main.views"
 msgid "Views"
 msgstr "Maoni"
 
-#: $lang->'view_all'
+#: ui_main.view_all
+msgctxt "ui_main.view_all"
 msgid "View All"
 msgstr "Angalia zote"
 
-#: $lang->'view_all_feeds'
+#: ui_main.view_all_feeds
+msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
 msgstr "Angalia tawanyiko zote"
 
-#: $lang->'view_all_reports'
+#: ui_main.view_all_reports
+msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
 msgstr "Angalia ripoti zote"
 
-#: $lang->'view_items'
+#: ui_main.view_items
+msgctxt "ui_main.view_items"
 msgid "View Items"
 msgstr "Angalia vipengee"
 
-#: $lang->'view_more'
+#: ui_main.view_more
+msgctxt "ui_main.view_more"
 msgid "View More"
 msgstr ""
 
-#: $lang->'view_public_profile'
+#: ui_main.view_public_profile
+msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
 msgstr ""
 
-#: $lang->'view_report'
+#: ui_main.view_report
+msgctxt "ui_main.view_report"
 msgid "View Report"
 msgstr "Angalia ripoti"
 
-#: $lang->'view_reports'
+#: ui_main.view_reports
+msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "Angalia ripoti"
 
-#: $lang->'visible'
+#: ui_main.visible
+msgctxt "ui_main.visible"
 msgid "Visible"
 msgstr "Inaonekana"
 
-#: $lang->'waiting_approval'
+#: ui_main.waiting_approval
+msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
 msgstr "Inangojea kupitishwa"
 
-#: $lang->'waiting_verification'
+#: ui_main.waiting_verification
+msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
 msgstr "Inangojea kuthibitishwa"
 
-#: $lang->'web_form'
+#: ui_main.web_form
+msgctxt "ui_main.web_form"
 msgid "Web Form"
 msgstr ""
 
-#: $lang->'weight'
+#: ui_main.weight
+msgctxt "ui_main.weight"
 msgid "Weight"
 msgstr "Uzito"
 
-#: $lang->'yes'
+#: ui_main.yes
+msgctxt "ui_main.yes"
 msgid "Yes"
 msgstr "Ndio"
 
-#: $lang->'yesterday'
+#: ui_main.yesterday
+msgctxt "ui_main.yesterday"
 msgid "Yesterday"
 msgstr "Jana"
 
-#: $lang->'your_dashboard'
+#: ui_main.your_dashboard
+msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
 msgstr ""
 
-#: $lang->'your_file'
+#: ui_main.your_file
+msgctxt "ui_main.your_file"
 msgid "Your file"
 msgstr ""
 
-#: $lang->'zoom_in'
+#: ui_main.zoom_in
+msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
 msgstr ""
 
-#: $lang->'zoom_out'
+#: ui_main.zoom_out
+msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr ""
+

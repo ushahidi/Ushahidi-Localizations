@@ -3,294 +3,316 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: ko_KR\n"
 
-#: $lang->'comments_form_error'
+#: report.comments_form_error
+msgctxt "report.comments_form_error"
 msgid "error!"
 msgstr "에러!"
 
-#: 'country_name'->'single_country'
-msgid ""
-"This deployment spans within one country only. Please make sure the report "
-"location is within the country '.ORM::factory('country"
+#: report.country_name.single_country
+msgctxt "report.country_name.single_country"
+msgid "This deployment spans within one country only. Please make sure the report location is within the country %s."
 msgstr ""
 
-#: 'custom_field'->'values'
+#: report.custom_field.values
+msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for one of your custom form items."
 msgstr "사용자 지정폼에 정확한 값을 입력하세요."
 
-#: 'data_include'->'between'
-msgctxt "'data_include'->'between'"
+#: report.data_include.between
+msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
 msgstr "다운로드할 정확한 아이템을 선택하세요."
 
-#: 'data_include'->'numeric'
-msgctxt "'data_include'->'numeric'"
+#: report.data_include.numeric
+msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
 msgstr "다운로드할 정확한 아이템을 선택하세요."
 
-#: 'data_active'->'between'
-msgctxt "'data_active'->'between'"
-msgid ""
-"Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
+#: report.data_active.between
+msgctxt "report.data_active.between"
+msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
 msgstr ""
 
-#: 'data_active'->'numeric'
-msgctxt "'data_active'->'numeric'"
-msgid ""
-"Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
+#: report.data_active.numeric
+msgctxt "report.data_active.numeric"
+msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
 msgstr ""
 
-#: 'data_active'->'required'
-msgctxt "'data_active'->'required'"
-msgid ""
-"Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
+#: report.data_active.required
+msgctxt "report.data_active.required"
+msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
 msgstr ""
 
-#: 'data_verified'->'between'
-msgctxt "'data_verified'->'between'"
-msgid ""
-"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+#: report.data_verified.between
+msgctxt "report.data_verified.between"
+msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
 msgstr ""
 
-#: 'data_verified'->'numeric'
-msgctxt "'data_verified'->'numeric'"
-msgid ""
-"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+#: report.data_verified.numeric
+msgctxt "report.data_verified.numeric"
+msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
 msgstr ""
 
-#: 'data_verified'->'required'
-msgctxt "'data_verified'->'required'"
-msgid ""
-"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+#: report.data_verified.required
+msgctxt "report.data_verified.required"
+msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
 msgstr ""
 
-#: 'data_point'->'between'
-msgctxt "'data_point'->'between'"
+#: report.data_point.between
+msgctxt "report.data_point.between"
 msgid "Please select a valid type of report to download."
 msgstr "다운로드할 정확한 타입의 리포트를 선택하세요."
 
-#: 'data_point'->'numeric'
-msgctxt "'data_point'->'numeric'"
+#: report.data_point.numeric
+msgctxt "report.data_point.numeric"
 msgid "Please select a valid type of report to download."
 msgstr "다운로드할 정확한 타입의 리포트를 선택하세요."
 
-#: 'data_point'->'required'
-msgctxt "'data_point'->'required'"
+#: report.data_point.required
+msgctxt "report.data_point.required"
 msgid "Please select a valid type of report to download."
 msgstr "다운로드할 정확한 타입의 리포트를 선택하세요."
 
-#: 'from_date'->'date_mmddyyyy'
+#: report.from_date.date_mmddyyyy
+msgctxt "report.from_date.date_mmddyyyy"
 msgid "The FROM date field does not appear to contain a valid date."
 msgstr "정확한 시작 날짜를 입력하세요."
 
-#: 'from_date'->'range'
+#: report.from_date.range
+msgctxt "report.from_date.range"
 msgid "Please enter a valid FROM date. It cannot be greater than today."
 msgstr "시작 날짜를 입력하세요. 오늘 날짜보다 미래일 수 없습니다."
 
-#: 'incident_active'->'between'
-msgctxt "'incident_active'->'between'"
+#: report.incident_active.between
+msgctxt "report.incident_active.between"
 msgid "Please enter a valid value for Approve This Report"
 msgstr "이 리포트 승인을 위해 정확한 값을 입력하세요."
 
-#: 'incident_active'->'required'
-msgctxt "'incident_active'->'required'"
+#: report.incident_active.required
+msgctxt "report.incident_active.required"
 msgid "Please enter a valid value for Approve This Report"
 msgstr "이 리포트 승인을 위해 정확한 값을 입력하세요."
 
-#: 'incident_ampm'->'validvalues'
+#: report.incident_ampm.validvalues
+msgctxt "report.incident_ampm.validvalues"
 msgid "The am/pm field does not appear to contain a valid value."
 msgstr "am/pm을 정확히 입력해주세요."
 
-#: 'incident_category'->'numeric'
+#: report.incident_category.numeric
+msgctxt "report.incident_category.numeric"
 msgid "The \"Categories\" field does not appear to contain a valid category."
 msgstr "카테고리를 정확히 입력해주세요."
 
-#: 'incident_category'->'required'
+#: report.incident_category.required
+msgctxt "report.incident_category.required"
 msgid "The \"Categories\" field is required."
 msgstr "카테고리를 입력해주세요."
 
-#: 'incident_date'->'date_ddmmyyyy'
-msgctxt "'incident_date'->'date_ddmmyyyy'"
+#: report.incident_date.date_ddmmyyyy
+msgctxt "report.incident_date.date_ddmmyyyy"
 msgid "The date field does not appear to contain a valid date."
 msgstr "날짜를 정확히 입력해주세요."
 
-#: 'incident_date'->'date_mmddyyyy'
-msgctxt "'incident_date'->'date_mmddyyyy'"
+#: report.incident_date.date_mmddyyyy
+msgctxt "report.incident_date.date_mmddyyyy"
 msgid "The date field does not appear to contain a valid date."
 msgstr "날짜를 정확히 입력해주세요."
 
-#: 'incident_date'->'required'
+#: report.incident_date.required
+msgctxt "report.incident_date.required"
 msgid "The date field is required."
 msgstr "날짜를 입력해주세요."
 
-#: 'incident_description'->'required'
+#: report.incident_description.required
+msgctxt "report.incident_description.required"
 msgid "The \"Description\" field is required."
 msgstr "상세설명을 입력해주세요."
 
-#: 'incident_hour'->'between'
+#: report.incident_hour.between
+msgctxt "report.incident_hour.between"
 msgid "The hour field does not appear to contain a valid hour."
 msgstr "정확한 시간을 입력해주세요."
 
-#: 'incident_hour'->'required'
+#: report.incident_hour.required
+msgctxt "report.incident_hour.required"
 msgid "The hour field is required."
 msgstr "시간을 입력해주세요."
 
-#: 'incident_information'->'alpha'
-msgctxt "'incident_information'->'alpha'"
+#: report.incident_information.alpha
+msgctxt "report.incident_information.alpha"
 msgid "Please enter a valid value for Information Probability."
 msgstr "정보 확률의 정확한 값을 입력해주세요."
 
-#: 'incident_information'->'length'
-msgctxt "'incident_information'->'length'"
+#: report.incident_information.length
+msgctxt "report.incident_information.length"
 msgid "Please enter a valid value for Information Probability."
 msgstr "정보 확률의 정확한 값을 입력해주세요."
 
-#: 'incident_minute'->'between'
+#: report.incident_minute.between
+msgctxt "report.incident_minute.between"
 msgid "The minute field does not appear to contain a valid value."
 msgstr "정확한 분을 입력해주세요."
 
-#: 'incident_minute'->'required'
+#: report.incident_minute.required
+msgctxt "report.incident_minute.required"
 msgid "The minute field is required."
 msgstr "분을 입력해주세요."
 
-#: 'incident_news'->'url'
+#: report.incident_news.url
+msgctxt "report.incident_news.url"
 msgid "The news source links field does not appear to contain a valid URL."
 msgstr "정확한 뉴스 소스 URL을 입력해주세요."
 
-#: 'incident_photo'->'size'
+#: report.incident_photo.size
+msgctxt "report.incident_photo.size"
 msgid "Please ensure that photo upload sizes are limited to 2MB."
 msgstr "사진 사이즈의 최대크기는 2MB입니다."
 
-#: 'incident_photo'->'type'
-msgid ""
-"The Upload Photos field does not appear to contain a valid image. The only "
-"accepted formats are .JPG, .PNG and .GIF."
+#: report.incident_photo.type
+msgctxt "report.incident_photo.type"
+msgid "The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
 msgstr "사용가능한 파일포맷은 .JPG, .PNG and .GIF. 입니다. 이 외의 파일포맷은 사용할 수 없습니다."
 
-#: 'incident_photo'->'valid'
+#: report.incident_photo.valid
+msgctxt "report.incident_photo.valid"
 msgid "The Upload Photos field does not appear to contain a valid file."
 msgstr "허용되지 않은 파일포맷의 경우 사진이 나타나지 않습니다."
 
-#: 'incident_source'->'alpha'
-msgctxt "'incident_source'->'alpha'"
+#: report.incident_source.alpha
+msgctxt "report.incident_source.alpha"
 msgid "Please enter a valid value for Source Reliability."
 msgstr "소스 신뢰도의 정확한 값을 입력해주세요."
 
-#: 'incident_source'->'length'
-msgctxt "'incident_source'->'length'"
+#: report.incident_source.length
+msgctxt "report.incident_source.length"
 msgid "Please enter a valid value for Source Reliability."
 msgstr "소스 신뢰도의 정확한 값을 입력해주세요."
 
-#: 'incident_title'->'length'
-msgid ""
-"The \"Report Title\" field must be at least 3 and no more 200 characters long."
+#: report.incident_title.length
+msgctxt "report.incident_title.length"
+msgid "The \"Report Title\" field must be at least 3 and no more 200 characters long."
 msgstr "제목은 최소3자이상 200자이하이어야 합니다."
 
-#: 'incident_title'->'required'
+#: report.incident_title.required
+msgctxt "report.incident_title.required"
 msgid "The \"Report Title\" field is required."
 msgstr "제목을 입력해주세요."
 
-#: 'incident_title'->'csrf'
-msgid ""
-"Possible CSRF attack. Did you really mean to create/edit a report?'\n"
-"\t),\n"
-"\t\t'between' => 'Please enter a valid value for Verify This Report."
+#: report.incident_title.csrf
+msgctxt "report.incident_title.csrf"
+msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
 msgstr ""
 
-#: 'incident_verified'->'required'
+#: report.incident_verified.between
+msgctxt "report.incident_verified.between"
 msgid "Please enter a valid value for Verify This Report."
 msgstr "이 리포트 확인을 위해 정확한 값을 입력해주세요."
 
-#: 'incident_video'->'url'
+#: report.incident_verified.required
+msgctxt "report.incident_verified.required"
+msgid "Please enter a valid value for Verify This Report."
+msgstr "이 리포트 확인을 위해 정확한 값을 입력해주세요."
+
+#: report.incident_video.url
+msgctxt "report.incident_video.url"
 msgid "The video links field does not appear to contain a valid URL."
 msgstr "비디오 링크 URL을 정확히 입력해주세요."
 
-#: 'latitude'->'between'
+#: report.latitude.between
+msgctxt "report.latitude.between"
 msgid "The latitude field does not appear to contain a valid latitude."
 msgstr "위도값을 정확히 입력해주세요."
 
-#: 'latitude'->'required'
-msgid ""
-"The latitude field is required. Please click on the map to pinpoint a "
-"location."
+#: report.latitude.required
+msgctxt "report.latitude.required"
+msgid "The latitude field is required. Please click on the map to pinpoint a location."
 msgstr "위도값을 입력해주세요. 지도상의 포인트를 클릭하세요."
 
-#: 'locale'->'alpha_dash'
-msgctxt "'locale'->'alpha_dash'"
+#: report.locale.alpha_dash
+msgctxt "report.locale.alpha_dash"
 msgid "The locale field has an incorrect value. "
 msgstr "로컬 필드 값이 잘못되었습니다."
 
-#: 'locale'->'exists'
+#: report.locale.exists
+msgctxt "report.locale.exists"
 msgid "This report already has a translation for this language."
 msgstr "이 리포트는 이미 해당 언어로 번역되었습니다."
 
-#: 'locale'->'length'
-msgctxt "'locale'->'length'"
+#: report.locale.length
+msgctxt "report.locale.length"
 msgid "The locale field has an incorrect value. "
 msgstr "로컬 필드 값이 잘못되었습니다."
 
-#: 'locale'->'locale'
-msgid ""
-"The Original Report and the Translation have the same locale (language)."
+#: report.locale.locale
+msgctxt "report.locale.locale"
+msgid "The Original Report and the Translation have the same locale (language)."
 msgstr "원본 리포트와 번역본이 동일한 로컬(언어)입니다."
 
-#: 'locale'->'required'
+#: report.locale.required
+msgctxt "report.locale.required"
 msgid "The locale is required."
 msgstr "로컬값을 입력해주세요."
 
-#: 'location_name'->'length'
-msgid ""
-"The \"Refine Location Name\" field must be at least 3 and no more 200 "
-"characters long."
+#: report.location_name.length
+msgctxt "report.location_name.length"
+msgid "The \"Location Name\" field must be at least 3 and no more 200 characters long."
 msgstr "위치 이름은 최소 3자이상 200자이하 이어야 합니다."
 
-#: 'location_name'->'required'
-msgid "The \"Refine Location Name\" field is required."
+#: report.location_name.required
+msgctxt "report.location_name.required"
+msgid "The \"Location Name\" field is required."
 msgstr "위치 이름을 입력해주세요."
 
-#: 'longitude'->'between'
+#: report.longitude.between
+msgctxt "report.longitude.between"
 msgid "The longitude field does not appear to contain a valid longitude."
 msgstr "정확한 경도값을 입력해주세요."
 
-#: 'longitude'->'required'
-msgid ""
-"The longitude field is required. Please click on the map to pinpoint a "
-"location."
+#: report.longitude.required
+msgctxt "report.longitude.required"
+msgid "The longitude field is required. Please click on the map to pinpoint a location."
 msgstr "경도값을 입력해주세요. 지도상의 포인트를 클릭하세요."
 
-#: 'person_email'->'email'
+#: report.person_email.email
+msgctxt "report.person_email.email"
 msgid "The email field does not appear to contain a valid email address."
 msgstr "정확한 이메일 주소를 입력해주세요."
 
-#: 'person_email'->'length'
+#: report.person_email.length
+msgctxt "report.person_email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
 msgstr "이메일은 최소 4자이상 64자 미만이어야 합니다."
 
-#: 'person_first'->'length'
-msgid ""
-"The first name field must be at least 3 and no more 100 characters long."
+#: report.person_first.length
+msgctxt "report.person_first.length"
+msgid "The first name field must be at least 3 and no more 100 characters long."
 msgstr "이름은 최소 3자이상 100자 미만이어야 합니다."
 
-#: 'person_last'->'length'
+#: report.person_last.length
+msgctxt "report.person_last.length"
 msgid "The last name field must be at least 2 and no more 100 characters long."
 msgstr "성은 최소 3자이상 100자 미만이어야 합니다."
 
-#: 'to_date'->'date_mmddyyyy'
+#: report.to_date.date_mmddyyyy
+msgctxt "report.to_date.date_mmddyyyy"
 msgid "The TO date field does not appear to contain a valid date."
 msgstr "정확한 마감 일자를 입력해주세요."
 
-#: 'to_date'->'range'
+#: report.to_date.range
+msgctxt "report.to_date.range"
 msgid "Please enter a valid TO date. It cannot be greater than today."
 msgstr "마감 일자를 입력해주세요. 오늘 날짜보다 미래일 수 없습니다."
 
-#: 'to_date'->'range_greater'
+#: report.to_date.range_greater
+msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
 msgstr "시작일이 마감일 이 후 일 수 없습니다."
+

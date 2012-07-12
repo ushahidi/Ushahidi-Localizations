@@ -3,2407 +3,2901 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: ko_KR\n"
 
-#: $lang->'about'
+#: ui_main.about
+msgctxt "ui_main.about"
 msgid "About "
 msgstr "About "
 
-#: $lang->'access'
+#: ui_main.access
+msgctxt "ui_main.access"
 msgid "Access"
 msgstr "접속"
 
-#: $lang->'access_limits'
+#: ui_main.access_limits
+msgctxt "ui_main.access_limits"
 msgid "Access Limits"
 msgstr "접속 제한"
 
-#: $lang->'account_name'
+#: ui_main.account_name
+msgctxt "ui_main.account_name"
 msgid "Account Name"
 msgstr "계정이름"
 
-#: $lang->'actions'
+#: ui_main.actions
+msgctxt "ui_main.actions"
 msgid "Actions"
 msgstr "적용"
 
-#: $lang->'action_confirm'
+#: ui_main.action_confirm
+msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
 msgstr "되돌릴 수 없는 적용입니다. 진행하시겠습니까?"
 
-#: $lang->'activate'
+#: ui_main.activate
+msgctxt "ui_main.activate"
 msgid "Activate"
 msgstr "활성화"
 
-#: $lang->'active'
+#: ui_main.active
+msgctxt "ui_main.active"
 msgid "Active"
 msgstr "활동"
 
-#: $lang->'add'
+#: ui_main.add
+msgctxt "ui_main.add"
 msgid "Add"
 msgstr "추가"
 
-#: $lang->'added_by'
+#: ui_main.added_by
+msgctxt "ui_main.added_by"
 msgid "Added By"
 msgstr "Added By"
 
-#: $lang->'additional_data'
+#: ui_main.additional_data
+msgctxt "ui_main.additional_data"
 msgid "Additional Data"
 msgstr "추가 데이터"
 
-#: $lang->'additional_reports'
+#: ui_main.additional_reports
+msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
 msgstr "추가 리포트"
 
-#: $lang->'add_edit'
+#: ui_main.add_edit
+msgctxt "ui_main.add_edit"
 msgid "Add/Edit"
 msgstr "수정"
 
-#: $lang->'add_field'
+#: ui_main.add_field
+msgctxt "ui_main.add_field"
 msgid "Add a Field"
 msgstr "필드추가"
 
-#: $lang->'add_language'
+#: ui_main.add_language
+msgctxt "ui_main.add_language"
 msgid "Add Language"
 msgstr "언어추가"
 
-#: $lang->'add_new'
+#: ui_main.add_new
+msgctxt "ui_main.add_new"
 msgid "Add New"
 msgstr "새로만들기"
 
-#: $lang->'add_new_category'
+#: ui_main.add_new_category
+msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
 msgstr "카테고리추가"
 
-#: $lang->'add_translation'
+#: ui_main.add_translation
+msgctxt "ui_main.add_translation"
 msgid "Add Translation"
 msgstr "번역추가"
 
-#: $lang->'admin'
+#: ui_main.admin
+msgctxt "ui_main.admin"
 msgid "Administration"
 msgstr "관리"
 
-#: $lang->'alerts'
-msgctxt "$lang->'alerts'"
+#: ui_main.alerts
+msgctxt "ui_main.alerts"
 msgid "Get Alerts"
 msgstr "알람설정"
 
-#: $lang->'alerts_alert_me'
+#: ui_main.alerts_alert_me
+msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
 msgstr "리포트 발생 시 알람:"
 
-#: $lang->'alerts_btn_send'
+#: ui_main.alerts_btn_send
+msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
 msgstr "알람저장"
 
-#: $lang->'alerts_email'
+#: ui_main.alerts_email
+msgctxt "ui_main.alerts_email"
 msgid "Email address:"
 msgstr "이메일주소:"
 
-#: $lang->'alerts_enter_email'
+#: ui_main.alerts_enter_email
+msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
 msgstr "이메일 주소 입력"
 
-#: $lang->'alerts_enter_mobile'
+#: ui_main.alerts_enter_mobile
+msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
 msgstr "국가코드를 포함한 휴대폰 번호입력"
 
-#: $lang->'alerts_get'
-msgctxt "$lang->'alerts_get'"
+#: ui_main.alerts_get
+msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
 msgstr "알람설정"
 
-#: $lang->'alerts_mobile_phone'
+#: ui_main.alerts_mobile_phone
+msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
 msgstr "휴대폰번호:"
 
-#: $lang->'alerts_place_spot'
-msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
+#: ui_main.alerts_place_spot
+msgctxt "ui_main.alerts_place_spot"
+msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
 msgstr "지도위에 기준점을 표시하면, 반경 20KM이내 리포트가 발생할 경우 알려줍니다."
 
-#: $lang->'alerts_place_spot2'
-msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
+#: ui_main.alerts_place_spot2
+msgctxt "ui_main.alerts_place_spot2"
+msgid "If you can\'t find your location, please click on the map to pinpoint the correct location."
 msgstr "위치를 찾을 수 없을 경우 지도위에 정확한 위치를 클릭하세요."
 
-#: $lang->'alerts_rss'
+#: ui_main.alerts_rss
+msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
 msgstr "RSS Feeds (copy the URL below)"
 
-#: $lang->'alerts_select_city'
+#: ui_main.alerts_select_city
+msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
 msgstr "도시"
 
-#: $lang->'alerts_step1_select_city'
+#: ui_main.alerts_step1_select_city
+msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
 msgstr "<strong>스텝 1:</strong>도시와 위치 선택:"
 
-#: $lang->'alerts_step2_send_alerts'
+#: ui_main.alerts_step2_send_alerts
+msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
 msgstr "<strong>스텝 2:</strong> 알람 방식 선택:"
 
-#: $lang->'alerts_step3_select_catgories'
+#: ui_main.alerts_step3_select_catgories
+msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
 msgstr "<strong>스텝 3 (Optional):</strong> 카테고리 선택"
 
-#: $lang->'alert_confirm_previous'
+#: ui_main.alert_confirm_previous
+msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
 msgstr "알람 요청을 확인"
 
-#: $lang->'alert_saved'
+#: ui_main.alert_saved
+msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
 msgstr "알람 저장 완료!"
 
-#: $lang->'all'
+#: ui_main.all
+msgctxt "ui_main.all"
 msgid "All"
 msgstr "전체"
 
-#: $lang->'allowed'
+#: ui_main.allowed
+msgctxt "ui_main.allowed"
 msgid "Allowed"
 msgstr "승인"
 
-#: $lang->'all_categories'
+#: ui_main.all_categories
+msgctxt "ui_main.all_categories"
 msgid "All Categories"
 msgstr "모든 카테고리"
 
-#: $lang->'all_time'
+#: ui_main.all_time
+msgctxt "ui_main.all_time"
 msgid "All Time"
 msgstr "전체"
 
-#: $lang->'and'
+#: ui_main.and
+msgctxt "ui_main.and"
 msgid "and"
 msgstr "그리고"
 
-#: $lang->'api'
+#: ui_main.api
+msgctxt "ui_main.api"
 msgid "API"
 msgstr "API"
 
-#: $lang->'approve'
+#: ui_main.approve
+msgctxt "ui_main.approve"
 msgid "Approve"
 msgstr "승인"
 
-#: $lang->'approved'
+#: ui_main.approved
+msgctxt "ui_main.approved"
 msgid "Approved"
 msgstr "승인됨"
 
-#: $lang->'approved_reports'
+#: ui_main.approved_reports
+msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
 msgstr "승인된 리포트"
 
-#: $lang->'approve_this_report'
+#: ui_main.approve_this_report
+msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
 msgstr "리포트 승인"
 
-#: $lang->'approximate'
+#: ui_main.approximate
+msgctxt "ui_main.approximate"
 msgid "Approximate"
 msgstr "Approximate(대강)"
 
-#: $lang->'archive'
+#: ui_main.archive
+msgctxt "ui_main.archive"
 msgid "Archive"
 msgstr "아카이브"
 
-#: $lang->'archived'
+#: ui_main.archived
+msgctxt "ui_main.archived"
 msgid "Archived"
 msgstr "아카이브"
 
-#: $lang->'at'
+#: ui_main.at
+msgctxt "ui_main.at"
 msgid "at"
 msgstr "at"
 
-#: $lang->'author'
+#: ui_main.author
+msgctxt "ui_main.author"
 msgid "Author"
 msgstr "작가"
 
-#: $lang->'auto_checkin'
+#: ui_main.auto_checkin
+msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
 msgstr "자동 체크인"
 
-#: $lang->'avg_reports_per_day'
+#: ui_main.avg_reports_per_day
+msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
 msgstr "1일 평균 리포트"
 
-#: $lang->'awaiting_approval'
+#: ui_main.awaiting_approval
+msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
 msgstr "대기중"
 
-#: $lang->'awaiting_verification'
+#: ui_main.awaiting_verification
+msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
 msgstr "확인중"
 
-#: $lang->'badge'
+#: ui_main.badge
+msgctxt "ui_main.badge"
 msgid "Badge"
 msgstr "배지"
 
-#: $lang->'badges'
+#: ui_main.badges
+msgctxt "ui_main.badges"
 msgid "Badges"
 msgstr "배지"
 
-#: $lang->'badge_image'
+#: ui_main.badge_image
+msgctxt "ui_main.badge_image"
 msgid "Badge Image"
 msgstr "배지 이미지"
 
-#: $lang->'badge_image_upload_your_own'
+#: ui_main.badge_image_upload_your_own
+msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
 msgstr "고유한 배지 이미지를 올릴 수 있습니다."
 
-#: $lang->'badge_pack'
+#: ui_main.badge_pack
+msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
 msgstr "배지 꾸러미"
 
-#: $lang->'badge_select'
+#: ui_main.badge_select
+msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
 msgstr "배지 선택"
 
-#: $lang->'blog'
+#: ui_main.blog
+msgctxt "ui_main.blog"
 msgid "Blog"
 msgstr "블로그"
 
-#: $lang->'browse_profiles'
+#: ui_main.browse_profiles
+msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
 msgstr "프로파일 검색"
 
-#: $lang->'cancel'
+#: ui_main.cancel
+msgctxt "ui_main.cancel"
 msgid "Cancel"
 msgstr "취소"
 
-#: $lang->'categories'
-msgctxt "$lang->'categories'"
+#: ui_main.categories
+msgctxt "ui_main.categories"
 msgid "Categories"
 msgstr "카테고리"
 
-#: $lang->'category'
+#: ui_main.category
+msgctxt "ui_main.category"
 msgid "Category"
 msgstr "카테고리"
 
-#: $lang->'category_filter'
+#: ui_main.category_filter
+msgctxt "ui_main.category_filter"
 msgid "Category Filter"
 msgstr "카테고리 필터"
 
-#: $lang->'category_has_been'
+#: ui_main.category_has_been
+msgctxt "ui_main.category_has_been"
 msgid "The category has been "
 msgstr "존재하는 카테고리"
 
-#: $lang->'category_name'
+#: ui_main.category_name
+msgctxt "ui_main.category_name"
 msgid "Category Name"
 msgstr "카테고리 이름"
 
-#: $lang->'change_date_range'
+#: ui_main.change_date_range
+msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
 msgstr "기간 변경"
 
-#: $lang->'change_password'
+#: ui_main.change_password
+msgctxt "ui_main.change_password"
 msgid "Change Password"
 msgstr "암호 변경"
 
-#: $lang->'change_picture'
+#: ui_main.change_picture
+msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
 msgstr "내사진 변경"
 
-#: $lang->'choose'
+#: ui_main.choose
+msgctxt "ui_main.choose"
 msgid "Choose a"
 msgstr "선택"
 
-#: $lang->'choose_data_points'
+#: ui_main.choose_data_points
+msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
 msgstr "데이터 다운로드 시점 선택"
 
-#: $lang->'choose_date_range'
+#: ui_main.choose_date_range
+msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
 msgstr "데이터 다운로드 기간 선택"
 
-#: $lang->'choose_field_type'
+#: ui_main.choose_field_type
+msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
 msgstr "필드 선택"
 
-#: $lang->'cleanurl'
+#: ui_main.cleanurl
+msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
 msgstr "URL 초기화"
 
-#: $lang->'clear'
+#: ui_main.clear
+msgctxt "ui_main.clear"
 msgid "Clear"
 msgstr "초기화"
 
-#: $lang->'clear_map'
+#: ui_main.clear_map
+msgctxt "ui_main.clear_map"
 msgid "Clear Map"
 msgstr "Map 초기화"
 
-#: $lang->'close'
+#: ui_main.close
+msgctxt "ui_main.close"
 msgid "Close"
 msgstr "닫기"
 
-#: $lang->'clusters'
+#: ui_main.clusters
+msgctxt "ui_main.clusters"
 msgid "clusters"
 msgstr "모아보기"
 
-#: $lang->'color'
-msgctxt "$lang->'color'"
+#: ui_main.color
+msgctxt "ui_main.color"
 msgid "Color"
 msgstr "색상"
 
-#: $lang->'comment'
+#: ui_main.comment
+msgctxt "ui_main.comment"
 msgid "Comment"
 msgstr "코멘트"
 
-#: $lang->'comments'
-msgctxt "$lang->'comments'"
+#: ui_main.comments
+msgctxt "ui_main.comments"
 msgid "Comments"
 msgstr "코멘트"
 
-#: $lang->'comment_details'
+#: ui_main.comment_details
+msgctxt "ui_main.comment_details"
 msgid "Comment Details"
 msgstr "상세 코멘트"
 
-#: $lang->'configuration_saved'
+#: ui_main.configuration_saved
+msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
 msgstr "저장완료!"
 
-#: $lang->'configure'
+#: ui_main.configure
+msgctxt "ui_main.configure"
 msgid "Configure"
 msgstr "수정"
 
-#: $lang->'confirm_email_successful'
+#: ui_main.confirm_email_successful
+msgctxt "ui_main.confirm_email_successful"
 msgid "You have successfully confirmed your email address! Please login below."
 msgstr "이메일 확인이 완료되었습니다. 로그인 시 사용하세요."
 
-#: $lang->'contact'
+#: ui_main.contact
+msgctxt "ui_main.contact"
 msgid "Contact Us"
 msgstr "문의"
 
-#: $lang->'contact_code'
-msgctxt "$lang->'contact_code'"
+#: ui_main.contact_code
+msgctxt "ui_main.contact_code"
 msgid "Security Code"
 msgstr "Security Code"
 
-#: $lang->'contact_email'
+#: ui_main.contact_email
+msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
 msgstr "이메일 주소"
 
-#: $lang->'contact_message'
-msgctxt "$lang->'contact_message'"
+#: ui_main.contact_message
+msgctxt "ui_main.contact_message"
 msgid "Message"
 msgstr "메시지"
 
-#: $lang->'contact_message_has_send'
+#: ui_main.contact_message_has_send
+msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
 msgstr "메시지 발송이 완료되었습니다!"
 
-#: $lang->'contact_name'
+#: ui_main.contact_name
+msgctxt "ui_main.contact_name"
 msgid "Your Name"
 msgstr "이름"
 
-#: $lang->'contact_phone'
+#: ui_main.contact_phone
+msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
 msgstr "휴대폰 번호"
 
-#: $lang->'contact_send'
+#: ui_main.contact_send
+msgctxt "ui_main.contact_send"
 msgid "Send Message"
 msgstr "보내기"
 
-#: $lang->'contact_subject'
+#: ui_main.contact_subject
+msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
 msgstr "제목"
 
-#: $lang->'copyright'
+#: ui_main.copyright
+msgctxt "ui_main.copyright"
 msgid "Copyright ©"
 msgstr "Copyright ©"
 
-#: $lang->'create'
+#: ui_main.create
+msgctxt "ui_main.create"
 msgid "Create"
 msgstr "Create"
 
-#: $lang->'create_edit'
+#: ui_main.create_edit
+msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
 msgstr "수정"
 
-#: $lang->'create_new'
+#: ui_main.create_new
+msgctxt "ui_main.create_new"
 msgid "Create New"
 msgstr "Create New"
 
-#: $lang->'create_new_password'
+#: ui_main.create_new_password
+msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
 msgstr "새 암호"
 
-#: $lang->'create_report'
+#: ui_main.create_report
+msgctxt "ui_main.create_report"
 msgid "Create Report"
 msgstr "새 리포트"
 
-#: $lang->'credibility'
+#: ui_main.credibility
+msgctxt "ui_main.credibility"
 msgid "Credibility"
 msgstr "Credibility"
 
-#: $lang->'current_password'
+#: ui_main.current_password
+msgctxt "ui_main.current_password"
 msgid "Current Password"
 msgstr "현재 암호"
 
-#: $lang->'custom_fields'
+#: ui_main.custom_fields
+msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
 msgstr "커스텀 필드"
 
-#: $lang->'data'
+#: ui_main.data
+msgctxt "ui_main.data"
 msgid "Information"
 msgstr "정보"
 
-#: $lang->'date'
-msgctxt "$lang->'date'"
+#: ui_main.date
+msgctxt "ui_main.date"
 msgid "Date"
 msgstr "기간"
 
-#: $lang->'date_format'
+#: ui_main.date_format
+msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
 msgstr "(mm/dd/yyyy)"
 
-#: $lang->'date_time'
+#: ui_main.date_time
+msgctxt "ui_main.date_time"
 msgid "Date & Time"
 msgstr "날짜 & 시간"
 
-#: $lang->'day'
+#: ui_main.day
+msgctxt "ui_main.day"
 msgid "day"
 msgstr "날짜"
 
-#: $lang->'deactivate'
+#: ui_main.deactivate
+msgctxt "ui_main.deactivate"
 msgid "Deactivate"
 msgstr "비활성화"
 
-#: $lang->'default_location_name'
+#: ui_main.default_location_name
+msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
 msgstr "Nairobi, Kenya"
 
-#: $lang->'delete'
+#: ui_main.delete
+msgctxt "ui_main.delete"
 msgid "Delete"
 msgstr "삭제"
 
-#: $lang->'deleted'
+#: ui_main.deleted
+msgctxt "ui_main.deleted"
 msgid "Deleted"
 msgstr "삭제"
 
-#: $lang->'deletes'
+#: ui_main.deletes
+msgctxt "ui_main.deletes"
 msgid "Deletes"
 msgstr "삭제"
 
-#: $lang->'delete_disabled'
+#: ui_main.delete_disabled
+msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
 msgstr "Delete Disabled"
 
-#: $lang->'delete_last'
+#: ui_main.delete_last
+msgctxt "ui_main.delete_last"
 msgid "Delete Last"
 msgstr "최근 삭제"
 
-#: $lang->'delete_report'
+#: ui_main.delete_report
+msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
 msgstr "리포트 삭제"
 
-#: $lang->'delete_selected'
+#: ui_main.delete_selected
+msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
 msgstr "선택 삭제"
 
-#: $lang->'delete_spam'
+#: ui_main.delete_spam
+msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
 msgstr "스팸 삭제"
 
-#: $lang->'demo'
+#: ui_main.demo
+msgctxt "ui_main.demo"
 msgid "Demo"
 msgstr "데모"
 
-#: $lang->'description'
-msgctxt "$lang->'description'"
+#: ui_main.description
+msgctxt "ui_main.description"
 msgid "Description"
 msgstr "상세설명"
 
-#: $lang->'detailed_location_example'
+#: ui_main.detailed_location_example
+msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
 msgstr "예: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
 
-#: $lang->'details'
+#: ui_main.details
+msgctxt "ui_main.details"
 msgid "Details"
 msgstr "상세"
 
-#: $lang->'direct_report'
+#: ui_main.direct_report
+msgctxt "ui_main.direct_report"
 msgid "Direct Report"
 msgstr "리포트"
 
-#: $lang->'disabled'
+#: ui_main.disabled
+msgctxt "ui_main.disabled"
 msgid "Disabled"
 msgstr "비활성화"
 
-#: $lang->'disapprove'
+#: ui_main.disapprove
+msgctxt "ui_main.disapprove"
 msgid "Unapprove"
 msgstr "미승인"
 
-#: $lang->'download_reports'
+#: ui_main.download_reports
+msgctxt "ui_main.download_reports"
 msgid "Download Reports"
 msgstr "리포트 다운로드"
 
-#: $lang->'edit'
+#: ui_main.edit
+msgctxt "ui_main.edit"
 msgid "Edit"
 msgstr "수정"
 
-#: $lang->'edit_form_fields'
+#: ui_main.edit_form_fields
+msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
 msgstr "폼필드 수정"
 
-#: $lang->'edit_report'
+#: ui_main.edit_report
+msgctxt "ui_main.edit_report"
 msgid "Edit Report"
 msgstr "리포트 수정"
 
-#: $lang->'email'
-msgctxt "$lang->'email'"
+#: ui_main.email
+msgctxt "ui_main.email"
 msgid "Email"
 msgstr "이메일"
 
-#: $lang->'email_address'
+#: ui_main.email_address
+msgctxt "ui_main.email_address"
 msgid "Email Address"
 msgstr "이메일 주소"
 
-#: $lang->'email_configuration'
+#: ui_main.email_configuration
+msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
 msgstr "메일서버 셋팅"
 
-#: $lang->'email_server_host'
+#: ui_main.email_server_host
+msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
 msgstr "메일서버 호스트"
 
-#: $lang->'email_server_password'
+#: ui_main.email_server_password
+msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
 msgstr "메일서버 암호"
 
-#: $lang->'email_server_port'
+#: ui_main.email_server_port
+msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
 msgstr "메일서버 포트"
 
-#: $lang->'email_server_ssl_support'
+#: ui_main.email_server_ssl_support
+msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
 msgstr "메일서버 SSL 지원"
 
-#: $lang->'email_server_type'
+#: ui_main.email_server_type
+msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
 msgstr "메일서버 타입"
 
-#: $lang->'email_server_username'
+#: ui_main.email_server_username
+msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
 msgstr "메일서버 Username"
 
-#: $lang->'email_settings_comment_0'
+#: ui_main.email_settings_comment_0
+msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
 msgstr "so your settings have to be associated with this email address"
 
-#: $lang->'email_settings_comment_00'
-msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
-msgstr ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
+#: ui_main.email_settings_comment_00
+msgctxt "ui_main.email_settings_comment_00"
+msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgstr "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
 
-#: $lang->'email_settings_comment_1'
+#: ui_main.email_settings_comment_1
+msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
 msgstr "Some servers require a complete email address"
 
-#: $lang->'email_settings_comment_2'
+#: ui_main.email_settings_comment_2
+msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
 msgstr "Email account password"
 
-#: $lang->'email_settings_comment_3'
+#: ui_main.email_settings_comment_3
+msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 msgstr "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
-#: $lang->'email_settings_comment_4'
+#: ui_main.email_settings_comment_4
+msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 msgstr "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
-#: $lang->'email_settings_comment_5'
+#: ui_main.email_settings_comment_5
+msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
 msgstr "Examples: pop3, imap"
 
-#: $lang->'email_settings_comment_6'
+#: ui_main.email_settings_comment_6
+msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
 msgstr "Enable or disable SSL connections"
 
-#: $lang->'empty'
+#: ui_main.empty
+msgctxt "ui_main.empty"
 msgid "---EMPTY---"
 msgstr "---EMPTY---"
 
-#: $lang->'end_point'
-msgctxt "$lang->'end_point'"
+#: ui_main.end_point
+msgctxt "ui_main.end_point"
 msgid "to"
 msgstr "to"
 
-#: $lang->'error'
+#: ui_main.error
+msgctxt "ui_main.error"
 msgid "Error!"
 msgstr "에러!"
 
-#: $lang->'example'
+#: ui_main.example
+msgctxt "ui_main.example"
 msgid "Example"
 msgstr "예시"
 
-#: $lang->'example_country'
+#: ui_main.example_country
+msgctxt "ui_main.example_country"
 msgid "Kenya"
 msgstr "Kenya"
 
-#: $lang->'external_apps'
+#: ui_main.external_apps
+msgctxt "ui_main.external_apps"
 msgid "External Apps"
 msgstr "앱"
 
-#: $lang->'external_video_link'
+#: ui_main.external_video_link
+msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
 msgstr "외부 비디오 링크"
 
-#: $lang->'feed'
+#: ui_main.feed
+msgctxt "ui_main.feed"
 msgid "Feed"
 msgstr "피드"
 
-#: $lang->'feedback'
+#: ui_main.feedback
+msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
 msgstr "피드백"
 
-#: $lang->'feedback_reports'
-msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+#: ui_main.feedback_reports
+msgctxt "ui_main.feedback_reports"
+msgid "Please give us feedback about your experience by clicking on the button below."
 msgstr "사용하면서 불편한 점은 우리에게 알려주세요."
 
-#: $lang->'feeds'
+#: ui_main.feeds
+msgctxt "ui_main.feeds"
 msgid "Feeds"
 msgstr "피드"
 
-#: $lang->'feed_has_been'
+#: ui_main.feed_has_been
+msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
 msgstr "기존 피드"
 
-#: $lang->'feed_items'
+#: ui_main.feed_items
+msgctxt "ui_main.feed_items"
 msgid "Feed Items"
 msgstr "피드아이템"
 
-#: $lang->'feed_name'
+#: ui_main.feed_name
+msgctxt "ui_main.feed_name"
 msgid "Feed Name"
 msgstr "피드이름"
 
-#: $lang->'feed_url'
+#: ui_main.feed_url
+msgctxt "ui_main.feed_url"
 msgid "Feed URL"
 msgstr "피드 URL"
 
-#: $lang->'field_unused'
+#: ui_main.field_unused
+msgctxt "ui_main.field_unused"
 msgid "Unused field"
 msgstr "사용되지 않는 필드"
 
-#: $lang->'file'
+#: ui_main.file
+msgctxt "ui_main.file"
 msgid "File"
 msgstr "파일"
 
-#: $lang->'file_over_max_allowed'
+#: ui_main.file_over_max_allowed
+msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
 msgstr "허용된 파일크기를 넘습니다."
 
-#: $lang->'filters'
+#: ui_main.filters
+msgctxt "ui_main.filters"
 msgid "Filters"
 msgstr "필터"
 
-#: $lang->'filter_reports'
+#: ui_main.filter_reports
+msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
 msgstr "필터 리포트"
 
-#: $lang->'filter_reports_by'
+#: ui_main.filter_reports_by
+msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
 msgstr "필터 리포트"
 
-#: $lang->'filter_reports_contain'
+#: ui_main.filter_reports_contain
+msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
 msgstr "필터 리포트는"
 
-#: $lang->'find'
+#: ui_main.find
+msgctxt "ui_main.find"
 msgid "Find"
 msgstr "검색"
 
-#: $lang->'find_location'
+#: ui_main.find_location
+msgctxt "ui_main.find_location"
 msgid "Find Location"
 msgstr "위치 검색"
 
-#: $lang->'first_name'
-msgctxt "$lang->'first_name'"
+#: ui_main.first_name
+msgctxt "ui_main.first_name"
 msgid "First Name"
 msgstr "이름"
 
-#: $lang->'force_run_scheduler'
+#: ui_main.force_run_scheduler
+msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
 msgstr "스케줄러 작동"
 
-#: $lang->'forgot_password'
-msgctxt "$lang->'forgot_password'"
+#: ui_main.forgot_password
+msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
 msgstr "암호를 잊으셨습니까?"
 
-#: $lang->'form'
+#: ui_main.form
+msgctxt "ui_main.form"
 msgid "Form"
 msgstr "폼"
 
-#: $lang->'forms'
+#: ui_main.forms
+msgctxt "ui_main.forms"
 msgid "Forms"
 msgstr "폼"
 
-#: $lang->'form_description'
+#: ui_main.form_description
+msgctxt "ui_main.form_description"
 msgid "Form Description"
 msgstr "폼 설명"
 
-#: $lang->'form_edit'
+#: ui_main.form_edit
+msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
 msgstr "폼 수정"
 
-#: $lang->'form_has_been'
+#: ui_main.form_has_been
+msgctxt "ui_main.form_has_been"
 msgid "The form has been"
 msgstr "기존 폼"
 
-#: $lang->'form_title'
+#: ui_main.form_title
+msgctxt "ui_main.form_title"
 msgid "Form Title"
 msgstr "폼 제목"
 
-#: $lang->'from'
-msgctxt "$lang->'from'"
+#: ui_main.from
+msgctxt "ui_main.from"
 msgid "From"
 msgstr "From"
 
-#: $lang->'full_name'
+#: ui_main.full_name
+msgctxt "ui_main.full_name"
 msgid "Full Name"
 msgstr "전체이름"
 
-#: $lang->'geolocation_available'
+#: ui_main.geolocation_available
+msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
 msgstr "GeoLocation Available"
 
-#: $lang->'geometry_color'
-msgctxt "$lang->'geometry_color'"
+#: ui_main.geometry_color
+msgctxt "ui_main.geometry_color"
 msgid "Color"
 msgstr "색상"
 
-#: $lang->'geometry_comments'
-msgctxt "$lang->'geometry_comments'"
+#: ui_main.geometry_comments
+msgctxt "ui_main.geometry_comments"
 msgid "Comments"
 msgstr "코멘트"
 
-#: $lang->'geometry_label'
+#: ui_main.geometry_label
+msgctxt "ui_main.geometry_label"
 msgid "Label"
 msgstr "라벨"
 
-#: $lang->'geometry_strokewidth'
+#: ui_main.geometry_strokewidth
+msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
 msgstr "Stroke Width"
 
-#: $lang->'go'
+#: ui_main.go
+msgctxt "ui_main.go"
 msgid "Go"
 msgstr "Go"
 
-#: $lang->'hashtag'
+#: ui_main.hashtag
+msgctxt "ui_main.hashtag"
 msgid "Hashtag"
 msgstr "해쉬태그"
 
-#: $lang->'has_been'
+#: ui_main.has_been
+msgctxt "ui_main.has_been"
 msgid "Has Been"
 msgstr "Has Been"
 
-#: $lang->'help'
+#: ui_main.help
+msgctxt "ui_main.help"
 msgid "How to Help"
 msgstr "How to Help"
 
-#: $lang->'hidden'
+#: ui_main.hidden
+msgctxt "ui_main.hidden"
 msgid "Hidden"
 msgstr "Hidden"
 
-#: $lang->'hide'
+#: ui_main.hide
+msgctxt "ui_main.hide"
 msgid "Hide"
 msgstr "Hide"
 
-#: $lang->'hide_this_message'
+#: ui_main.hide_this_message
+msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
 msgstr "hide this message"
 
-#: $lang->'home'
+#: ui_main.home
+msgctxt "ui_main.home"
 msgid "Home"
 msgstr "홈"
 
-#: $lang->'how_to_report'
+#: ui_main.how_to_report
+msgctxt "ui_main.how_to_report"
 msgid "How to Report"
 msgstr "리포트 하는 방법"
 
-#: $lang->'https'
+#: ui_main.https
+msgctxt "ui_main.https"
 msgid "HTTPS"
 msgstr "HTTPS"
 
-#: $lang->'id'
+#: ui_main.id
+msgctxt "ui_main.id"
 msgid "ID"
 msgstr "ID"
 
-#: $lang->'identify_you'
+#: ui_main.identify_you
+msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
 msgstr "다른 유저가 당신을 찾거나 구분하는데 사용합니다."
 
-#: $lang->'image'
+#: ui_main.image
+msgctxt "ui_main.image"
 msgid "Image"
 msgstr "사진"
 
-#: $lang->'images'
+#: ui_main.images
+msgctxt "ui_main.images"
 msgid "Images"
 msgstr "사진"
 
-#: $lang->'image_icon'
+#: ui_main.image_icon
+msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
 msgstr "아이콘"
 
-#: $lang->'inactive'
+#: ui_main.inactive
+msgctxt "ui_main.inactive"
 msgid "Inactive"
 msgstr "비활성화"
 
-#: $lang->'inbox'
+#: ui_main.inbox
+msgctxt "ui_main.inbox"
 msgid "Inbox"
 msgstr "받은함"
 
-#: $lang->'incident'
+#: ui_main.incident
+msgctxt "ui_main.incident"
 msgid "Incident"
 msgstr "사건"
 
-#: $lang->'incidents_nearby'
+#: ui_main.incidents_nearby
+msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
 msgstr "근처 사건"
 
-#: $lang->'incident_location'
+#: ui_main.incident_location
+msgctxt "ui_main.incident_location"
 msgid "Incident Location"
 msgstr "사건 위치"
 
-#: $lang->'include'
+#: ui_main.include
+msgctxt "ui_main.include"
 msgid "Include"
 msgstr "포함"
 
-#: $lang->'include_categories'
+#: ui_main.include_categories
+msgctxt "ui_main.include_categories"
 msgid "Include Categories"
 msgstr "카테고리 포함"
 
-#: $lang->'include_custom_fields'
+#: ui_main.include_custom_fields
+msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
 msgstr "커스텀 필드 포함"
 
-#: $lang->'include_description'
+#: ui_main.include_description
+msgctxt "ui_main.include_description"
 msgid "Include Description"
 msgstr "상세설명 포함"
 
-#: $lang->'include_detail'
+#: ui_main.include_detail
+msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
 msgstr "가능한 자세하게 설명해주세요."
 
-#: $lang->'include_latitude'
+#: ui_main.include_latitude
+msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
 msgstr "위도 포함"
 
-#: $lang->'include_location_information'
+#: ui_main.include_location_information
+msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
 msgstr "위치 정보 포함"
 
-#: $lang->'include_longitude'
+#: ui_main.include_longitude
+msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
 msgstr "경도 포함"
 
-#: $lang->'incoming_media'
+#: ui_main.incoming_media
+msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
 msgstr "미디어"
 
-#: $lang->'information_evaluation'
+#: ui_main.information_evaluation
+msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
 msgstr "정보 평가"
 
-#: $lang->'input_location'
+#: ui_main.input_location
+msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
 msgstr "정확한 위치 입력"
 
-#: $lang->'insufficient_role'
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
-msgstr ""
-" Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
+#: ui_main.insufficient_role
+msgctxt "ui_main.insufficient_role"
+msgid "Your account doesn\'t have the proper permission to fully log you in. Please contact the administrator."
+msgstr " Your account doesn\'t have the proper permission to fully log you in. Please contact the administrator."
 
-#: $lang->'in_response_to'
+#: ui_main.in_response_to
+msgctxt "ui_main.in_response_to"
 msgid "In response to"
 msgstr "In response to"
 
-#: $lang->'ip_address'
+#: ui_main.ip_address
+msgctxt "ui_main.ip_address"
 msgid "IP Address"
 msgstr "IP Address"
 
-#: $lang->'is_this_your_profile'
+#: ui_main.is_this_your_profile
+msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
 msgstr "당신의 프로파일인가요?"
 
-#: $lang->'item'
+#: ui_main.item
+msgctxt "ui_main.item"
 msgid "item"
 msgstr "아이템"
 
-#: $lang->'items'
+#: ui_main.items
+msgctxt "ui_main.items"
 msgid "items"
 msgstr "아이템"
 
-#: $lang->'item_details'
+#: ui_main.item_details
+msgctxt "ui_main.item_details"
 msgid "item_details"
 msgstr "아이템 설명"
 
-#: $lang->'item_title'
+#: ui_main.item_title
+msgctxt "ui_main.item_title"
 msgid "Item Title"
 msgstr "제목"
 
-#: $lang->'key'
+#: ui_main.key
+msgctxt "ui_main.key"
 msgid "Key"
 msgstr "키"
 
-#: $lang->'kml_kmz_file'
+#: ui_main.kml_kmz_file
+msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
 msgstr "KMZ/KML 파일"
 
-#: $lang->'kml_kmz_upload'
+#: ui_main.kml_kmz_upload
+msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
 msgstr "업로드 KMZ/KML 파일"
 
-#: $lang->'kml_url'
+#: ui_main.kml_url
+msgctxt "ui_main.kml_url"
 msgid "KML URL"
 msgstr "KML URL"
 
-#: $lang->'laconica'
+#: ui_main.laconica
+msgctxt "ui_main.laconica"
 msgid "Laconica"
 msgstr "Laconica"
 
-#: $lang->'language'
+#: ui_main.language
+msgctxt "ui_main.language"
 msgid "Language"
 msgstr "언어"
 
-#: $lang->'last'
+#: ui_main.last
+msgctxt "ui_main.last"
 msgid "Last"
 msgstr "최근"
 
-#: $lang->'last_month'
+#: ui_main.last_month
+msgctxt "ui_main.last_month"
 msgid "Last Month"
 msgstr "최근 달"
 
-#: $lang->'last_name'
-msgctxt "$lang->'last_name'"
+#: ui_main.last_name
+msgctxt "ui_main.last_name"
 msgid "Last Name"
 msgstr "성"
 
-#: $lang->'last_year'
+#: ui_main.last_year
+msgctxt "ui_main.last_year"
 msgid "Last Year"
 msgstr "최근 년도"
 
-#: $lang->'latitude'
+#: ui_main.latitude
+msgctxt "ui_main.latitude"
 msgid "Latitude"
 msgstr "위도"
 
-#: $lang->'layers'
+#: ui_main.layers
+msgctxt "ui_main.layers"
 msgid "Layers"
 msgstr "레이어"
 
-#: $lang->'layers_filter'
+#: ui_main.layers_filter
+msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
 msgstr "다른 레이어"
 
-#: $lang->'layer_has_been'
+#: ui_main.layer_has_been
+msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
 msgstr "기존 레이어"
 
-#: $lang->'layer_name'
+#: ui_main.layer_name
+msgctxt "ui_main.layer_name"
 msgid "Layer Name"
 msgstr "레이어 이름"
 
-#: $lang->'layer_url'
+#: ui_main.layer_url
+msgctxt "ui_main.layer_url"
 msgid "Layer URL"
 msgstr "레이어 URL"
 
-#: $lang->'leave_a_comment'
+#: ui_main.leave_a_comment
+msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
 msgstr "Leave a Comment"
 
-#: $lang->'less_information'
+#: ui_main.less_information
+msgctxt "ui_main.less_information"
 msgid "Less Information"
 msgstr "적은 정보"
 
-#: $lang->'level'
+#: ui_main.level
+msgctxt "ui_main.level"
 msgid "Level"
 msgstr "레벨"
 
-#: $lang->'level_has_been'
+#: ui_main.level_has_been
+msgctxt "ui_main.level_has_been"
 msgid "This level has been"
 msgstr "This level has been"
 
-#: $lang->'level_name'
+#: ui_main.level_name
+msgctxt "ui_main.level_name"
 msgid "Level Name"
 msgstr "레벨 이름"
 
-#: $lang->'limited'
+#: ui_main.limited
+msgctxt "ui_main.limited"
 msgid "Limited"
 msgstr "Limited"
 
-#: $lang->'link'
+#: ui_main.link
+msgctxt "ui_main.link"
 msgid "Link"
 msgstr "링크"
 
-#: $lang->'list'
+#: ui_main.list
+msgctxt "ui_main.list"
 msgid "List"
 msgstr "리스트"
 
-#: $lang->'loading_reports'
+#: ui_main.loading_reports
+msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
 msgstr "Loading Reports"
 
-#: $lang->'location'
+#: ui_main.location
+msgctxt "ui_main.location"
 msgid "Location"
 msgstr "위치"
 
-#: $lang->'locations'
+#: ui_main.locations
+msgctxt "ui_main.locations"
 msgid "Locations"
 msgstr "위치"
 
-#: $lang->'location_example'
+#: ui_main.location_example
+msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
 msgstr "도시, 주 또는 국가"
 
-#: $lang->'login'
+#: ui_main.login
+msgctxt "ui_main.login"
 msgid "Login"
 msgstr "로그인"
 
-#: $lang->'login_account_creation_successful'
+#: ui_main.login_account_creation_successful
+msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
 msgstr "계정 생성이 완료되었습니다. 지금 로그인 할 수 있습니다."
 
-#: $lang->'login_confirmation_sent'
+#: ui_main.login_confirmation_sent
+msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "확인 메일이 입력하신 이메일 주소로 발송되었습니다."
 
-#: $lang->'login_email_doesnt_exist'
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
+#: ui_main.login_email_doesnt_exist
+msgctxt "ui_main.login_email_doesnt_exist"
+msgid "Email address doesn\'t exist. Try a different address or create an account."
 msgstr "사용할 수 없는 이메일 주소입니다. 다른 주소 혹은 계정을 만들어주세요."
 
-#: $lang->'login_select_openid'
+#: ui_main.login_select_openid
+msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
 msgstr "오픈ID 계정의 공급자를 선택해주세요."
 
-#: $lang->'login_with'
+#: ui_main.login_with
+msgctxt "ui_main.login_with"
 msgid "Login with"
 msgstr "로그인"
 
-#: $lang->'login_userpass'
+#: ui_main.login_userpass
+msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
 msgstr "이메일 과 암호"
 
-#: $lang->'login_openid'
+#: ui_main.login_openid
+msgctxt "ui_main.login_openid"
 msgid "OpenID"
 msgstr "OpenID"
 
-#: $lang->'login_signup'
+#: ui_main.login_signup
+msgctxt "ui_main.login_signup"
 msgid "Sign Up"
 msgstr "가입"
 
-#: $lang->'login_signup_click'
+#: ui_main.login_signup_click
+msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
 msgstr "계정 생성"
 
-#: $lang->'login_signup_confirmation_message'
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
+#: ui_main.login_signup_confirmation_message
+msgctxt "ui_main.login_signup_confirmation_message"
+msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
 msgstr "%s에 가입해주셔서 감사합니다. 이메일 주소를 확인해주세요. URL: %s"
 
-#: $lang->'login_signup_confirmation_subject'
+#: ui_main.login_signup_confirmation_subject
+msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "가입완료"
 
-#: $lang->'login_signup_text'
+#: ui_main.login_signup_text
+msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
 msgstr "계정을 만드시면 더 많은 혜택과 기능을 사용할 수 있습니다."
 
-#: $lang->'longitude'
+#: ui_main.longitude
+msgctxt "ui_main.longitude"
 msgid "Longitude"
 msgstr "경도"
 
-#: $lang->'map'
+#: ui_main.map
+msgctxt "ui_main.map"
 msgid "Map"
 msgstr "지도"
 
-#: $lang->'mark_read'
+#: ui_main.mark_read
+msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
 msgstr "읽음표시"
 
-#: $lang->'mark_unread'
+#: ui_main.mark_unread
+msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
 msgstr "읽지않음표시"
 
-#: $lang->'maximum_filesize'
+#: ui_main.maximum_filesize
+msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
 msgstr "최대 파일크기"
 
-#: $lang->'media'
+#: ui_main.media
+msgctxt "ui_main.media"
 msgid "Media"
 msgstr "미디어"
 
-#: $lang->'media_filter'
+#: ui_main.media_filter
+msgctxt "ui_main.media_filter"
 msgid "Media Filter"
 msgstr "미디어 필터"
 
-#: $lang->'members'
+#: ui_main.members
+msgctxt "ui_main.members"
 msgid "Members"
 msgstr "회원"
 
-#: $lang->'manage_your_account'
+#: ui_main.manage_your_account
+msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
 msgstr "내계정 관리"
 
-#: $lang->'message'
-msgctxt "$lang->'message'"
+#: ui_main.message
+msgctxt "ui_main.message"
 msgid "Message"
 msgstr "메시지"
 
-#: $lang->'messages'
+#: ui_main.messages
+msgctxt "ui_main.messages"
 msgid "Messages"
 msgstr "메시지"
 
-#: $lang->'message_details'
+#: ui_main.message_details
+msgctxt "ui_main.message_details"
 msgid "Message Details"
 msgstr "상세 메시지"
 
-#: $lang->'message_non_numeric_source'
+#: ui_main.message_non_numeric_source
+msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
 msgstr "Message from a non-numeric source:"
 
-#: $lang->'mobile'
+#: ui_main.mobile
+msgctxt "ui_main.mobile"
 msgid "Mobile"
 msgstr "휴대폰"
 
-#: $lang->'modify'
+#: ui_main.modify
+msgctxt "ui_main.modify"
 msgid "Modify"
 msgstr "수정"
 
-#: $lang->'modify_date'
+#: ui_main.modify_date
+msgctxt "ui_main.modify_date"
 msgid "Modify Date"
 msgstr "날짜 수정"
 
-#: $lang->'month'
+#: ui_main.month
+msgctxt "ui_main.month"
 msgid "month"
 msgstr "달"
 
-#: $lang->'more'
+#: ui_main.more
+msgctxt "ui_main.more"
 msgid "More"
 msgstr "More"
 
-#: $lang->'more_information'
+#: ui_main.more_information
+msgctxt "ui_main.more_information"
 msgid "More Information"
 msgstr "More Information"
 
-#: $lang->'multi_country_instance'
+#: ui_main.multi_country_instance
+msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
 msgstr "Does this Ushahidi Deployment Span Multiple Countries"
 
-#: $lang->'must_confirm_email_address'
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
-msgstr ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
+#: ui_main.must_confirm_email_address
+msgctxt "ui_main.must_confirm_email_address"
+msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
+msgstr "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
 
-#: $lang->'name'
+#: ui_main.name
+msgctxt "ui_main.name"
 msgid "Name"
 msgstr "이름"
 
-#: $lang->'nearby_report'
+#: ui_main.nearby_report
+msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
 msgstr "근처 리포트"
 
-#: $lang->'new'
+#: ui_main.new
+msgctxt "ui_main.new"
 msgid "New"
 msgstr "new"
 
-#: $lang->'news'
+#: ui_main.news
+msgctxt "ui_main.news"
 msgid "News"
 msgstr "뉴스"
 
-#: $lang->'news_feeds'
+#: ui_main.news_feeds
+msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
 msgstr "뉴스 피드"
 
-#: $lang->'news_source'
+#: ui_main.news_source
+msgctxt "ui_main.news_source"
 msgid "News Source"
 msgstr "뉴스 출처"
 
-#: $lang->'new_category'
+#: ui_main.new_category
+msgctxt "ui_main.new_category"
 msgid "New Category"
 msgstr "새 카테고리"
 
-#: $lang->'new_password'
+#: ui_main.new_password
+msgctxt "ui_main.new_password"
 msgid "New Password"
 msgstr "새 암호"
 
-#: $lang->'new_report'
+#: ui_main.new_report
+msgctxt "ui_main.new_report"
 msgid "New Report"
 msgstr "새 리포트"
 
-#: $lang->'next'
+#: ui_main.next
+msgctxt "ui_main.next"
 msgid "Next"
 msgstr "다음"
 
-#: $lang->'no'
+#: ui_main.no
+msgctxt "ui_main.no"
 msgid "No"
 msgstr "No"
 
-#: $lang->'no_checkins'
+#: ui_main.no_checkins
+msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
 msgstr "No checkins to display."
 
-#: $lang->'no_data'
+#: ui_main.no_data
+msgctxt "ui_main.no_data"
 msgid "No data"
 msgstr "No data"
 
-#: $lang->'none'
+#: ui_main.none
+msgctxt "ui_main.none"
 msgid "None"
 msgstr "None"
 
-#: $lang->'notices'
+#: ui_main.notices
+msgctxt "ui_main.notices"
 msgid "Notices"
 msgstr "Notices"
 
-#: $lang->'not_approved'
-msgctxt "$lang->'not_approved'"
+#: ui_main.not_approved
+msgctxt "ui_main.not_approved"
 msgid "Not Approved"
 msgstr "승인되지 않음"
 
-#: $lang->'not_approved_singular'
-msgctxt "$lang->'not_approved_singular'"
+#: ui_main.not_approved_singular
+msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
 msgstr "승인되지 않음"
 
-#: $lang->'not_selected'
+#: ui_main.not_selected
+msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
 msgstr "---선택되지 않음---"
 
-#: $lang->'not_spam'
+#: ui_main.not_spam
+msgctxt "ui_main.not_spam"
 msgid "not spam"
 msgstr "스팸아님"
 
-#: $lang->'not_specified'
+#: ui_main.not_specified
+msgctxt "ui_main.not_specified"
 msgid "Not Specified"
 msgstr "명확하지 않음"
 
-#: $lang->'no_reports'
+#: ui_main.no_reports
+msgctxt "ui_main.no_reports"
 msgid "There are no reports"
 msgstr "리포트 없음"
 
-#: $lang->'no_results'
+#: ui_main.no_results
+msgctxt "ui_main.no_results"
 msgid "There are no results"
 msgstr "결과 없음"
 
-#: $lang->'off'
+#: ui_main.off
+msgctxt "ui_main.off"
 msgid "Off"
 msgstr "Off"
 
-#: $lang->'official_news'
+#: ui_main.official_news
+msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
 msgstr "공식&주요일간지 뉴스"
 
-#: $lang->'on'
+#: ui_main.on
+msgctxt "ui_main.on"
 msgid "On"
 msgstr "On"
 
-#: $lang->'option'
+#: ui_main.option
+msgctxt "ui_main.option"
 msgid "Option"
 msgstr "Option"
 
-#: $lang->'optional'
+#: ui_main.optional
+msgctxt "ui_main.optional"
 msgid "Optional"
 msgstr "Optional"
 
-#: $lang->'options'
+#: ui_main.options
+msgctxt "ui_main.options"
 msgid "Options"
 msgstr "Options"
 
-#: $lang->'organization'
+#: ui_main.organization
+msgctxt "ui_main.organization"
 msgid "Organization"
 msgstr "단체"
 
-#: $lang->'organizations'
+#: ui_main.organizations
+msgctxt "ui_main.organizations"
 msgid "Organizations"
 msgstr "단체"
 
-#: $lang->'organization_description'
+#: ui_main.organization_description
+msgctxt "ui_main.organization_description"
 msgid "Organization Description"
 msgstr "단체 설명"
 
-#: $lang->'organization_email'
+#: ui_main.organization_email
+msgctxt "ui_main.organization_email"
 msgid "Organization Email"
 msgstr "단체 이메일"
 
-#: $lang->'organization_has_been'
+#: ui_main.organization_has_been
+msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
 msgstr "The Organization Has Been"
 
-#: $lang->'organization_name'
+#: ui_main.organization_name
+msgctxt "ui_main.organization_name"
 msgid "Organization Name"
 msgstr "단체 이름"
 
-#: $lang->'organization_phone_1'
+#: ui_main.organization_phone_1
+msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
 msgstr "단체 전화1"
 
-#: $lang->'organization_phone_2'
+#: ui_main.organization_phone_2
+msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
 msgstr "단체 전화2"
 
-#: $lang->'organization_website'
+#: ui_main.organization_website
+msgctxt "ui_main.organization_website"
 msgid "Organization Website"
 msgstr "단체 웹사이트"
 
-#: $lang->'original'
+#: ui_main.original
+msgctxt "ui_main.original"
 msgid "Original"
 msgstr "오리지날"
 
-#: $lang->'original_description'
+#: ui_main.original_description
+msgctxt "ui_main.original_description"
 msgid "Original Description"
 msgstr "오리지날 설명"
 
-#: $lang->'original_title'
+#: ui_main.original_title
+msgctxt "ui_main.original_title"
 msgid "Original Title"
 msgstr "오리지날 제목"
 
-#: $lang->'other_ushahidi_instances'
+#: ui_main.other_ushahidi_instances
+msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
 msgstr "Other Deployments"
 
-#: $lang->'outbox'
+#: ui_main.outbox
+msgctxt "ui_main.outbox"
 msgid "Outbox"
 msgstr "보낸함"
 
-#: $lang->'outgoing'
+#: ui_main.outgoing
+msgctxt "ui_main.outgoing"
 msgid "Outgoing"
 msgstr "Outgoing"
 
-#: $lang->'page'
+#: ui_main.page
+msgctxt "ui_main.page"
 msgid "Page"
 msgstr "페이지"
 
-#: $lang->'pages'
+#: ui_main.pages
+msgctxt "ui_main.pages"
 msgid "Pages"
 msgstr "페이지"
 
-#: $lang->'page_description'
+#: ui_main.page_description
+msgctxt "ui_main.page_description"
 msgid "Page Description"
 msgstr "페이지 설명"
 
-#: $lang->'page_has_been'
+#: ui_main.page_has_been
+msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
 msgstr "The Page Has Been"
 
-#: $lang->'page_tab_name'
+#: ui_main.page_tab_name
+msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
 msgstr "페이지 탭 이름"
 
-#: $lang->'page_title'
+#: ui_main.page_title
+msgctxt "ui_main.page_title"
 msgid "Page Title"
 msgstr "페이지 제목"
 
-#: $lang->'parent_category'
+#: ui_main.parent_category
+msgctxt "ui_main.parent_category"
 msgid "Parent Category"
 msgstr "상위 카테고리"
 
-#: $lang->'password'
+#: ui_main.password
+msgctxt "ui_main.password"
 msgid "Password"
 msgstr "암호"
 
-#: $lang->'password_again'
+#: ui_main.password_again
+msgctxt "ui_main.password_again"
 msgid "Verify Password"
 msgstr "암호확인"
 
-#: $lang->'password_changed_successfully'
+#: ui_main.password_changed_successfully
+msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
 msgstr "암호가 성공적으로 바뀌었습니다."
 
-#: $lang->'password_forgot'
-msgctxt "$lang->'password_forgot'"
+#: ui_main.password_forgot
+msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
 msgstr "암호를 잊었나요?"
 
-#: $lang->'password_reset_confirm'
+#: ui_main.password_reset_confirm
+msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
 msgstr "이메일을 통해 새암호를 확인하세요."
 
-#: $lang->'password_save'
+#: ui_main.password_save
+msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
 msgstr "이 컴퓨터로 로그인을 유지하길 원하세요?"
 
-#: $lang->'past_month'
+#: ui_main.past_month
+msgctxt "ui_main.past_month"
 msgid "Past Month"
 msgstr "Past Month"
 
-#: $lang->'past_year'
+#: ui_main.past_year
+msgctxt "ui_main.past_year"
 msgid "Past Year"
 msgstr "Past Year"
 
-#: $lang->'pending'
+#: ui_main.pending
+msgctxt "ui_main.pending"
 msgid "Pending"
 msgstr "검토중"
 
-#: $lang->'per'
+#: ui_main.per
+msgctxt "ui_main.per"
 msgid "per"
 msgstr "per"
 
-#: $lang->'personal_information'
+#: ui_main.personal_information
+msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
 msgstr "개인정보 <span>Optional.</span>"
 
-#: $lang->'phone'
+#: ui_main.phone
+msgctxt "ui_main.phone"
 msgid "Phone"
 msgstr "전화"
 
-#: $lang->'photos'
+#: ui_main.photos
+msgctxt "ui_main.photos"
 msgid "Photos"
 msgstr "사진"
 
-#: $lang->'pictures'
+#: ui_main.pictures
+msgctxt "ui_main.pictures"
 msgid "Pictures"
 msgstr "사진"
 
-#: $lang->'pictures_and_videos'
+#: ui_main.pictures_and_videos
+msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
 msgstr "사진 & 비디오"
 
-#: $lang->'pinpoint_location'
-msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
+#: ui_main.pinpoint_location
+msgctxt "ui_main.pinpoint_location"
+msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
 msgstr "* 당신의 위치를 위도, 경도를 통해서 찾거나 (예시: 38.19, 85.61) 지도상에 위치를 클릭하세요."
 
-#: $lang->'play'
+#: ui_main.play
+msgctxt "ui_main.play"
 msgid "Play"
 msgstr "PLAY"
 
-#: $lang->'please_note'
+#: ui_main.please_note
+msgctxt "ui_main.please_note"
 msgid "Please Note"
 msgstr "메모"
 
-#: $lang->'plugins'
+#: ui_main.plugins
+msgctxt "ui_main.plugins"
 msgid "Plugins"
 msgstr "플러그인"
 
-#: $lang->'plugin_url'
+#: ui_main.plugin_url
+msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
 msgstr "플러그인 웹사이트"
 
-#: $lang->'public_profile'
+#: ui_main.public_profile
+msgctxt "ui_main.public_profile"
 msgid "Public Profile"
 msgstr "공개프로파일"
 
-#: $lang->'public_profile_url'
+#: ui_main.public_profile_url
+msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
 msgstr "공개프로파일 URL"
 
-#: $lang->'preview'
+#: ui_main.preview
+msgctxt "ui_main.preview"
 msgid "Preview"
 msgstr "미리보기"
 
-#: $lang->'preview_item'
+#: ui_main.preview_item
+msgctxt "ui_main.preview_item"
 msgid "Preview Item"
 msgstr "아이템 미리보기"
 
-#: $lang->'preview_message'
+#: ui_main.preview_message
+msgctxt "ui_main.preview_message"
 msgid "Preview Message"
 msgstr "메시지 미리보기"
 
-#: $lang->'previous'
+#: ui_main.previous
+msgctxt "ui_main.previous"
 msgid "Previous"
 msgstr "Previous"
 
-#: $lang->'private'
+#: ui_main.private
+msgctxt "ui_main.private"
 msgid "Private"
 msgstr "Private"
 
-#: $lang->'profile_color'
+#: ui_main.profile_color
+msgctxt "ui_main.profile_color"
 msgid "Profile Color"
 msgstr "프로파일 색상"
 
-#: $lang->'profile_saved'
+#: ui_main.profile_saved
+msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
 msgstr "프로파일이 저장되었습니다."
 
-#: $lang->'quick_stats'
+#: ui_main.quick_stats
+msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
 msgstr "요약 통계"
 
-#: $lang->'rating'
+#: ui_main.rating
+msgctxt "ui_main.rating"
 msgid "Rating"
 msgstr "평가"
 
-#: $lang->'read'
+#: ui_main.read
+msgctxt "ui_main.read"
 msgid "Read"
 msgstr "Read"
 
-#: $lang->'receive'
+#: ui_main.receive
+msgctxt "ui_main.receive"
 msgid "Receive"
 msgstr "Receive"
 
-#: $lang->'receive_from'
+#: ui_main.receive_from
+msgctxt "ui_main.receive_from"
 msgid "Receive from"
 msgstr "Receive from"
 
-#: $lang->'receive_notifications'
+#: ui_main.receive_notifications
+msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
 msgstr "Receive Notifications"
 
-#: $lang->'recent_reports'
+#: ui_main.recent_reports
+msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
 msgstr "최근 리포트"
 
-#: $lang->'refresh_news_feeds'
+#: ui_main.refresh_news_feeds
+msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
 msgstr "뉴스피드 리프레쉬"
 
-#: $lang->'registered_email'
+#: ui_main.registered_email
+msgctxt "ui_main.registered_email"
 msgid "Registered Email"
 msgstr "Registered Email"
 
-#: $lang->'remove'
+#: ui_main.remove
+msgctxt "ui_main.remove"
 msgid "Remove"
 msgstr "삭제"
 
-#: $lang->'reply'
+#: ui_main.reply
+msgctxt "ui_main.reply"
 msgid "Reply"
 msgstr "답장"
 
-#: $lang->'report'
+#: ui_main.report
+msgctxt "ui_main.report"
 msgid "Report"
 msgstr "리포트"
 
-#: $lang->'reports_listed'
+#: ui_main.reports_listed
+msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
 msgstr "리포트 <span>(시간순)</span>"
 
-#: $lang->'reporter'
+#: ui_main.reporter
+msgctxt "ui_main.reporter"
 msgid "Reporter"
 msgstr "리포터"
 
-#: $lang->'reporters'
+#: ui_main.reporters
+msgctxt "ui_main.reporters"
 msgid "Reporters"
 msgstr "리포터"
 
-#: $lang->'reporter_date'
+#: ui_main.reporter_date
+msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
 msgstr "리포트 날짜"
 
-#: $lang->'reporter_email'
+#: ui_main.reporter_email
+msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
 msgstr "리포터 이메일"
 
-#: $lang->'reporter_first_name'
+#: ui_main.reporter_first_name
+msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
 msgstr "리포터 이름"
 
-#: $lang->'reporter_has_been'
+#: ui_main.reporter_has_been
+msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
 msgstr "The Reporter Has Been"
 
-#: $lang->'reporter_ip'
+#: ui_main.reporter_ip
+msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
 msgstr "리포터 IP Address"
 
-#: $lang->'reporter_last_name'
+#: ui_main.reporter_last_name
+msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
 msgstr "리포터 성"
 
-#: $lang->'reporter_level'
+#: ui_main.reporter_level
+msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
 msgstr "리포터 레벨"
 
-#: $lang->'reporter_levels'
+#: ui_main.reporter_levels
+msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
 msgstr "리포터 레벨"
 
-#: $lang->'reporter_phone'
+#: ui_main.reporter_phone
+msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
 msgstr "리포터 휴대폰"
 
-#: $lang->'reports'
+#: ui_main.reports
+msgctxt "ui_main.reports"
 msgid "Reports"
 msgstr "리포트"
 
-#: $lang->'reports_btn_browse'
+#: ui_main.reports_btn_browse
+msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
 msgstr "검색"
 
-#: $lang->'reports_btn_submit'
+#: ui_main.reports_btn_submit
+msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
 msgstr "제출"
 
-#: $lang->'reports_by_this_user'
+#: ui_main.reports_by_this_user
+msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
 msgstr "Reports By This User"
 
-#: $lang->'reports_categories'
-msgctxt "$lang->'reports_categories'"
+#: ui_main.reports_categories
+msgctxt "ui_main.reports_categories"
 msgid "Categories"
 msgstr "카테고리"
 
-#: $lang->'reports_date'
-msgctxt "$lang->'reports_date'"
+#: ui_main.reports_count
+msgctxt "ui_main.reports_count"
+msgid "%d Reports"
+msgstr ""
+
+#: ui_main.reports_date
+msgctxt "ui_main.reports_date"
 msgid "Date"
 msgstr "날짜"
 
-#: $lang->'reports_description'
-msgctxt "$lang->'reports_description'"
+#: ui_main.reports_description
+msgctxt "ui_main.reports_description"
 msgid "Description"
 msgstr "설명"
 
-#: $lang->'reports_download_csv'
+#: ui_main.reports_download_csv
+msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
 msgstr "리포트는 CSV 포맷으로 다운로드 됩니다."
 
-#: $lang->'reports_email'
-msgctxt "$lang->'reports_email'"
+#: ui_main.reports_email
+msgctxt "ui_main.reports_email"
 msgid "Email"
 msgstr "이메일"
 
-#: $lang->'reports_features'
+#: ui_main.reports_features
+msgctxt "ui_main.reports_features"
 msgid "Features"
 msgstr "기능"
 
-#: $lang->'reports_find_location'
+#: ui_main.reports_find_location
+msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
 msgstr "근처 위치 찾기"
 
-#: $lang->'reports_first'
-msgctxt "$lang->'reports_first'"
+#: ui_main.reports_first
+msgctxt "ui_main.reports_first"
 msgid "First Name"
 msgstr "이름"
 
-#: $lang->'reports_last'
-msgctxt "$lang->'reports_last'"
+#: ui_main.reports_last
+msgctxt "ui_main.reports_last"
 msgid "Last Name"
 msgstr "성"
 
-#: $lang->'reports_location_name'
-msgid "Refine Location Name"
+#: ui_main.reports_location_name
+msgctxt "ui_main.reports_location_name"
+msgid "Location Name"
 msgstr "정확한 위치명"
 
-#: $lang->'reports_news'
+#: ui_main.reports_news
+msgctxt "ui_main.reports_news"
 msgid "News Source Link"
 msgstr "뉴스출처 링크"
 
-#: $lang->'reports_optional'
+#: ui_main.reports_optional
+msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
 msgstr "추가 정보"
 
-#: $lang->'reports_photos'
+#: ui_main.reports_photos
+msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
 msgstr "사진 업로드"
 
-#: $lang->'reports_return'
+#: ui_main.reports_return
+msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
 msgstr "리포트 페이지로 돌아가기"
 
-#: $lang->'reports_select_city'
+#: ui_main.reports_select_city
+msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
 msgstr "도시선택"
 
-#: $lang->'reports_submitted'
-msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
+#: ui_main.reports_submitted
+msgctxt "ui_main.reports_submitted"
+msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
 msgstr "리포트가 제출되어 staff가 검토중입니다. 최대한 빠른 시간안에 진행하겠습니다."
 
-#: $lang->'reports_submit_new'
+#: ui_main.reports_submit_new
+msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
 msgstr "리포트 제출"
 
-#: $lang->'reports_time'
-msgctxt "$lang->'reports_time'"
+#: ui_main.reports_time
+msgctxt "ui_main.reports_time"
 msgid "Time"
 msgstr "시간"
 
-#: $lang->'reports_timeline'
+#: ui_main.reports_timeline
+msgctxt "ui_main.reports_timeline"
 msgid "Timeline"
 msgstr "타임라인"
 
-#: $lang->'reports_title'
-msgctxt "$lang->'reports_title'"
+#: ui_main.reports_title
+msgctxt "ui_main.reports_title"
 msgid "Report Title"
 msgstr "리포트 제목"
 
-#: $lang->'reports_video'
+#: ui_main.reports_video
+msgctxt "ui_main.reports_video"
 msgid "Video link"
 msgstr "비디오 링크"
 
-#: $lang->'report_an_incident'
+#: ui_main.report_an_incident
+msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
 msgstr "사건 리포트"
 
-#: $lang->'report_details'
+#: ui_main.report_details
+msgctxt "ui_main.report_details"
 msgid "Report Details"
 msgstr "리포트 상세"
 
-#: $lang->'report_option_1'
+#: ui_main.report_option_1
+msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
 msgstr "By sending a message to"
 
-#: $lang->'report_option_2'
+#: ui_main.report_option_2
+msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
 msgstr "이메일"
 
-#: $lang->'report_option_3'
+#: ui_main.report_option_3
+msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
 msgstr "By sending a tweet with the hashtag/s"
 
-#: $lang->'report_option_4'
+#: ui_main.report_option_4
+msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
 msgstr "지금 제출"
 
-#: $lang->'report_option_external_apps'
+#: ui_main.report_option_external_apps
+msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
 msgstr "앱"
 
-#: $lang->'report_saved'
+#: ui_main.report_saved
+msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
 msgstr "리포트가 저장되었습니다."
 
-#: $lang->'report_title'
-msgctxt "$lang->'report_title'"
+#: ui_main.report_title
+msgctxt "ui_main.report_title"
 msgid "Report Title"
 msgstr "리포트 제목"
 
-#: $lang->'request_information'
+#: ui_main.request_information
+msgctxt "ui_main.request_information"
 msgid "Request more information"
 msgstr "추가정보요청"
 
-#: $lang->'request_location'
+#: ui_main.request_location
+msgctxt "ui_main.request_location"
 msgid "Request location"
 msgstr "위치요청"
 
-#: $lang->'required'
+#: ui_main.required
+msgctxt "ui_main.required"
 msgid "Required"
 msgstr "필수"
 
-#: $lang->'requirements'
+#: ui_main.requirements
+msgctxt "ui_main.requirements"
 msgid "Requirements"
 msgstr "필수조건"
 
-#: $lang->'resend_confirm_email'
+#: ui_main.resend_confirm_email
+msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
 msgstr "확인메일 재발송"
 
-#: $lang->'reset'
+#: ui_main.reset
+msgctxt "ui_main.reset"
 msgid "Reset"
 msgstr "초기화"
 
-#: $lang->'reset_all_filters'
+#: ui_main.reset_all_filters
+msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
 msgstr "모든 필터 초기화"
 
-#: $lang->'reset_password'
+#: ui_main.reset_password
+msgctxt "ui_main.reset_password"
 msgid "Reset Password"
 msgstr "암호 초기화"
 
-#: $lang->'retrieve_city_names'
+#: ui_main.retrieve_city_names
+msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
 msgstr "Retrieve city names for the selected country"
 
-#: $lang->'riverid_information'
+#: ui_main.riverid_information
+msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
 msgstr "Accounts managed by the %s service."
 
-#: $lang->'role'
+#: ui_main.role
+msgctxt "ui_main.role"
 msgid "Role"
 msgstr "Role"
 
-#: $lang->'rss'
+#: ui_main.rss
+msgctxt "ui_main.rss"
 msgid "RSS"
 msgstr "RSS"
 
-#: $lang->'save'
+#: ui_main.save
+msgctxt "ui_main.save"
 msgid "Save"
 msgstr "Save"
 
-#: $lang->'saved'
+#: ui_main.saved
+msgctxt "ui_main.saved"
 msgid "Saved"
 msgstr "Saved"
 
-#: $lang->'save_add_new'
+#: ui_main.save_add_new
+msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
 msgstr "저장 & 추가"
 
-#: $lang->'save_close'
+#: ui_main.save_close
+msgctxt "ui_main.save_close"
 msgid "Save & Close"
 msgstr "저장 & 닫기"
 
-#: $lang->'save_report'
+#: ui_main.save_report
+msgctxt "ui_main.save_report"
 msgid "Save Report"
 msgstr "리포트 저장"
 
-#: $lang->'schedule'
+#: ui_main.schedule
+msgctxt "ui_main.schedule"
 msgid "Schedule"
 msgstr "스케줄"
 
-#: $lang->'scheduler'
+#: ui_main.scheduler
+msgctxt "ui_main.scheduler"
 msgid "Scheduler"
 msgstr "스케줄러"
 
-#: $lang->'scheduler_day'
+#: ui_main.scheduler_day
+msgctxt "ui_main.scheduler_day"
 msgid "Day"
 msgstr "Day"
 
-#: $lang->'scheduler_hour'
+#: ui_main.scheduler_hour
+msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
 msgstr "Hour"
 
-#: $lang->'scheduler_log'
+#: ui_main.scheduler_log
+msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
 msgstr "스케줄러 로그"
 
-#: $lang->'scheduler_minute'
+#: ui_main.scheduler_minute
+msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
 msgstr "Minute"
 
-#: $lang->'scheduler_weekday'
+#: ui_main.scheduler_weekday
+msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
 msgstr "Day of the Week"
 
-#: $lang->'search'
+#: ui_main.search
+msgctxt "ui_main.search"
 msgid "SEARCH"
 msgstr "검색"
 
-#: $lang->'search_results'
+#: ui_main.search_results
+msgctxt "ui_main.search_results"
 msgid "Search Results"
 msgstr "검색결과"
 
-#: $lang->'security_code'
-msgctxt "$lang->'security_code'"
+#: ui_main.security_code
+msgctxt "ui_main.security_code"
 msgid "Security Code"
 msgstr "확인코드"
 
-#: $lang->'select_all'
+#: ui_main.select_all
+msgctxt "ui_main.select_all"
 msgid "Select All"
 msgstr "전체선택"
 
-#: $lang->'select_field_type'
+#: ui_main.select_field_type
+msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
 msgstr "필드타입선택"
 
-#: $lang->'select_form_type'
+#: ui_main.select_form_type
+msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
 msgstr "폼타입선택"
 
-#: $lang->'select_in_map'
+#: ui_main.select_in_map
+msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
 msgstr "Select in the map"
 
-#: $lang->'select_multiple'
+#: ui_main.select_multiple
+msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
 msgstr "카테고리는 1개 이상 선택해주세요."
 
-#: $lang->'select_one'
+#: ui_main.select_one
+msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
 msgstr "Please verify that you have checked an item"
 
-#: $lang->'select_theme'
+#: ui_main.select_theme
+msgctxt "ui_main.select_theme"
 msgid "Select Theme"
 msgstr "테마 선택"
 
-#: $lang->'send'
+#: ui_main.send
+msgctxt "ui_main.send"
 msgid "Send"
 msgstr "Send"
 
-#: $lang->'send_confirmation'
+#: ui_main.send_confirmation
+msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
 msgstr "Send Confirmation"
 
-#: $lang->'sending_to'
+#: ui_main.sending_to
+msgctxt "ui_main.sending_to"
 msgid "Sending To"
 msgstr "Sending To"
 
-#: $lang->'sent'
+#: ui_main.sent
+msgctxt "ui_main.sent"
 msgid "Sent"
 msgstr "Sent"
 
-#: $lang->'sent_by'
+#: ui_main.sent_by
+msgctxt "ui_main.sent_by"
 msgid "Sent by"
 msgstr "Sent by"
 
-#: $lang->'server_address'
+#: ui_main.server_address
+msgctxt "ui_main.server_address"
 msgid "Server address"
 msgstr "Server address"
 
-#: $lang->'server_type'
+#: ui_main.server_type
+msgctxt "ui_main.server_type"
 msgid "Server type"
 msgstr "Server type"
 
-#: $lang->'service'
+#: ui_main.service
+msgctxt "ui_main.service"
 msgid "Service"
 msgstr "Service"
 
-#: $lang->'service_username'
+#: ui_main.service_username
+msgctxt "ui_main.service_username"
 msgid "Service Username"
 msgstr "Service Username"
 
-#: $lang->'service_user_id'
+#: ui_main.service_user_id
+msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
 msgstr "Service User ID"
 
-#: $lang->'share'
+#: ui_main.share
+msgctxt "ui_main.share"
 msgid "Share"
 msgstr "Share"
 
-#: $lang->'shared_data'
+#: ui_main.shared_data
+msgctxt "ui_main.shared_data"
 msgid "Shared data"
 msgstr "Shared data"
 
-#: $lang->'share_has_been'
+#: ui_main.share_has_been
+msgctxt "ui_main.share_has_been"
 msgid "The share has been"
 msgstr "The share has been"
 
-#: $lang->'sharing'
+#: ui_main.sharing
+msgctxt "ui_main.sharing"
 msgid "Sharing"
 msgstr "Sharing"
 
-#: $lang->'show'
+#: ui_main.show
+msgctxt "ui_main.show"
 msgid "Show"
 msgstr "Show"
 
-#: $lang->'show_all'
+#: ui_main.show_all
+msgctxt "ui_main.show_all"
 msgid "Show all"
 msgstr "전체보기"
 
-#: $lang->'show_messages'
+#: ui_main.show_messages
+msgctxt "ui_main.show_messages"
 msgid "Show Messages"
 msgstr "메시지 보기"
 
-#: $lang->'showing_reports_from'
-msgid "Showing Reports From"
+#: ui_main.showing_reports_from
+msgctxt "ui_main.showing_reports_from"
+msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
 msgstr "전체 리포트 : "
 
-#: $lang->'site'
+#: ui_main.site
+msgctxt "ui_main.site"
 msgid "Website"
 msgstr "웹사이트"
 
-#: $lang->'site_email_address'
+#: ui_main.site_email_address
+msgctxt "ui_main.site_email_address"
 msgid "site email address"
 msgstr "사이트 이메일 주소"
 
-#: $lang->'site_url'
+#: ui_main.site_url
+msgctxt "ui_main.site_url"
 msgid "Site URL"
 msgstr "사이트 URL"
 
-#: $lang->'sms'
+#: ui_main.sms
+msgctxt "ui_main.sms"
 msgid "SMS"
 msgstr "문자"
 
-#: $lang->'sorry_no_badges'
+#: ui_main.sorry_no_badges
+msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
 msgstr "죄송합니다. 당신은 배지가 없습니다."
 
-#: $lang->'source'
+#: ui_main.source
+msgctxt "ui_main.source"
 msgid "Source"
 msgstr "출처"
 
-#: $lang->'source_name'
+#: ui_main.source_name
+msgctxt "ui_main.source_name"
 msgid "Source name"
 msgstr "출처 이름"
 
-#: $lang->'source_url'
+#: ui_main.source_url
+msgctxt "ui_main.source_url"
 msgid "Source URL"
 msgstr "출처 URL"
 
-#: $lang->'spam'
+#: ui_main.spam
+msgctxt "ui_main.spam"
 msgid "Spam"
 msgstr "스팸"
 
-#: $lang->'ssl_support'
+#: ui_main.ssl_support
+msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
 msgstr "SSL을 지원하나요?"
 
-#: $lang->'start_point'
-msgctxt "$lang->'start_point'"
+#: ui_main.start_point
+msgctxt "ui_main.start_point"
 msgid "From"
 msgstr "From"
 
-#: $lang->'step'
+#: ui_main.step
+msgctxt "ui_main.step"
 msgid "Step"
 msgstr "Step"
 
-#: $lang->'submit'
+#: ui_main.submit
+msgctxt "ui_main.submit"
 msgid "Submit a Report"
 msgstr "리포트 제출"
 
-#: $lang->'submitted_by'
+#: ui_main.submitted_by
+msgctxt "ui_main.submitted_by"
 msgid "Submitted By"
 msgstr "Submitted By"
 
-#: $lang->'submit_sms'
+#: ui_main.submit_sms
+msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
 msgstr "Submit via SMS"
 
-#: $lang->'submit_sms1'
+#: ui_main.submit_sms1
+msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
 msgstr "Send your SMS to"
 
-#: $lang->'submit_sms2'
+#: ui_main.submit_sms2
+msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
 msgstr "on your phone"
 
-#: $lang->'success'
+#: ui_main.success
+msgctxt "ui_main.success"
 msgid "Success!"
 msgstr "성공!"
 
-#: $lang->'successfuly_imported'
+#: ui_main.successfuly_imported
+msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
 msgstr "Succesfully imported"
 
-#: $lang->'surname'
+#: ui_main.surname
+msgctxt "ui_main.surname"
 msgid "Surname"
 msgstr "성"
 
-#: $lang->'survey'
+#: ui_main.survey
+msgctxt "ui_main.survey"
 msgid "新开线路"
 msgstr "新开线路"
 
-#: $lang->'system'
+#: ui_main.system
+msgctxt "ui_main.system"
 msgid "System"
 msgstr "시스템"
 
-#: $lang->'tcp_port'
+#: ui_main.tcp_port
+msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
 msgstr "TCP Port"
 
-#: $lang->'themes'
+#: ui_main.themes
+msgctxt "ui_main.themes"
 msgid "Themes"
 msgstr "테마"
 
-#: $lang->'theme_default'
+#: ui_main.theme_default
+msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
 msgstr "우샤히디 기본 테마"
 
-#: $lang->'theme_settings'
+#: ui_main.theme_settings
+msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
 msgstr "테마 세팅"
 
-#: $lang->'this'
+#: ui_main.this
+msgctxt "ui_main.this"
 msgid "This"
 msgstr "이것"
 
-#: $lang->'this_day'
-msgctxt "$lang->'this_day'"
+#: ui_main.this_day
+msgctxt "ui_main.this_day"
 msgid "Today"
 msgstr "오늘"
 
-#: $lang->'this_month'
+#: ui_main.this_month
+msgctxt "ui_main.this_month"
 msgid "This Month"
 msgstr "이번달"
 
-#: $lang->'this_week'
+#: ui_main.this_week
+msgctxt "ui_main.this_week"
 msgid "This Week"
 msgstr "이번주"
 
-#: $lang->'this_year'
+#: ui_main.this_year
+msgctxt "ui_main.this_year"
 msgid "This Year"
 msgstr "올해"
 
-#: $lang->'this_is_your_profile'
+#: ui_main.this_is_your_profile
+msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
 msgstr "이것은 당신의 프로파일입니다."
 
-#: $lang->'through'
-msgid "through"
-msgstr "부터"
-
-#: $lang->'time'
-msgctxt "$lang->'time'"
+#: ui_main.time
+msgctxt "ui_main.time"
 msgid "Time"
 msgstr "시간"
 
-#: $lang->'title'
+#: ui_main.title
+msgctxt "ui_main.title"
 msgid "Title "
 msgstr "제목 "
 
-#: $lang->'to'
-msgctxt "$lang->'to'"
+#: ui_main.to
+msgctxt "ui_main.to"
 msgid "to"
 msgstr "to"
 
-#: $lang->'today'
-msgctxt "$lang->'today'"
+#: ui_main.today
+msgctxt "ui_main.today"
 msgid "Today"
 msgstr "Today"
 
-#: $lang->'today_at'
+#: ui_main.today_at
+msgctxt "ui_main.today_at"
 msgid "Today at"
 msgstr "Today at"
 
-#: $lang->'token'
+#: ui_main.token
+msgctxt "ui_main.token"
 msgid "Token"
 msgstr "Token"
 
-#: $lang->'total_reports'
+#: ui_main.total_reports
+msgctxt "ui_main.total_reports"
 msgid "Total Reports"
 msgstr "전체 리포트"
 
-#: $lang->'translated'
+#: ui_main.translated
+msgctxt "ui_main.translated"
 msgid "Translated"
 msgstr "번역"
 
-#: $lang->'translated_description'
+#: ui_main.translated_description
+msgctxt "ui_main.translated_description"
 msgid "Translated Description"
 msgstr "번역 설명"
 
-#: $lang->'translated_title'
+#: ui_main.translated_title
+msgctxt "ui_main.translated_title"
 msgid "Translated Title"
 msgstr "번역 제목"
 
-#: $lang->'translate_to'
+#: ui_main.translate_to
+msgctxt "ui_main.translate_to"
 msgid "Translate to"
 msgstr "번역 to"
 
-#: $lang->'translation'
+#: ui_main.translation
+msgctxt "ui_main.translation"
 msgid "Translation"
 msgstr "번역"
 
-#: $lang->'translation_saved'
+#: ui_main.translation_saved
+msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
 msgstr "번역이 저장 되었습니다."
 
-#: $lang->'type'
+#: ui_main.type
+msgctxt "ui_main.type"
 msgid "Type"
 msgstr "유형"
 
-#: $lang->'twitter'
+#: ui_main.twitter
+msgctxt "ui_main.twitter"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: $lang->'unable_send_email'
+#: ui_main.unable_send_email
+msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
 msgstr "사용할 수 없는 이메일"
 
-#: $lang->'uncategorized_reports'
+#: ui_main.uncategorized_reports
+msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
 msgstr "카테고리에 등록되지 않은 리포트"
 
-#: $lang->'unread'
+#: ui_main.unread
+msgctxt "ui_main.unread"
 msgid "unread"
 msgstr "읽지않음"
 
-#: $lang->'unverified'
+#: ui_main.unverified
+msgctxt "ui_main.unverified"
 msgid "Unverified"
 msgstr "미확인"
 
-#: $lang->'update_feeds'
+#: ui_main.update_feeds
+msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
 msgstr "업로드 피드"
 
-#: $lang->'upload'
+#: ui_main.upload
+msgctxt "ui_main.upload"
 msgid "Upload"
 msgstr "업로드"
 
-#: $lang->'upload_file'
+#: ui_main.upload_file
+msgctxt "ui_main.upload_file"
 msgid "File to upload"
 msgstr "파일 업로드"
 
-#: $lang->'upload_reports'
+#: ui_main.upload_reports
+msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
 msgstr "업로드 리포트"
 
-#: $lang->'upload_reports_detail_1'
+#: ui_main.upload_reports_detail_1
+msgctxt "ui_main.upload_reports_detail_1"
 msgid "With the form below, you can import incidents into the Ushahidi engine."
 msgstr "With the form below, you can import incidents into the Ushahidi engine."
 
-#: $lang->'upload_reports_detail_2'
+#: ui_main.upload_reports_detail_2
+msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be upladed in CSV format."
 msgstr "리포트는 반드시 CSV 포맷으로 업로드되어야 합니다."
 
-#: $lang->'upload_reports_detail_3'
-msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
-msgstr ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
+#: ui_main.upload_reports_detail_3
+msgctxt "ui_main.upload_reports_detail_3"
+msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgstr "When incident ID already exists in the database, the entry in the CSV file will be ignored."
 
-#: $lang->'upload_reports_detail_4'
+#: ui_main.upload_reports_detail_4
+msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
 msgstr "It must contain at least Incident Title and Incident Date."
 
-#: $lang->'upload_reports_detail_4b'
-msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
-msgstr ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
+#: ui_main.upload_reports_detail_4b
+msgctxt "ui_main.upload_reports_detail_4b"
+msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
+msgstr "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
 
-#: $lang->'upload_reports_detail_5'
+#: ui_main.upload_reports_detail_5
+msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
 msgstr "A Sample CSV Report"
 
-#: $lang->'upload_reports_detail_6'
-msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
-"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
-"\",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three "
-"cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, "
-"\",YES,YES,\"-1.287\",\"36.821\""
+#: ui_main.upload_reports_detail_6
+msgctxt "ui_main.upload_reports_detail_6"
+msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 
-#: $lang->'upload_reports_detail_7'
-msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+#: ui_main.upload_reports_detail_7
+msgctxt "ui_main.upload_reports_detail_7"
+msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 
-#: $lang->'upload_successful'
+#: ui_main.upload_successful
+msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
 msgstr "업로드 성공"
 
-#: $lang->'upload_video'
+#: ui_main.upload_video
+msgctxt "ui_main.upload_video"
 msgid "Upload Video"
 msgstr "업로드 비디오"
 
-#: $lang->'url'
+#: ui_main.url
+msgctxt "ui_main.url"
 msgid "URL"
 msgstr "URL"
 
-#: $lang->'user'
+#: ui_main.user
+msgctxt "ui_main.user"
 msgid "User"
 msgstr "유저"
 
-#: $lang->'username'
+#: ui_main.username
+msgctxt "ui_main.username"
 msgid "Username"
 msgstr "유저이름"
 
-#: $lang->'ushahidi_admin'
+#: ui_main.ushahidi_admin
+msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
 msgstr "우샤히디 관리자"
 
-#: $lang->'verification'
+#: ui_main.verification
+msgctxt "ui_main.verification"
 msgid "Verification"
 msgstr "확인"
 
-#: $lang->'verified'
+#: ui_main.verified
+msgctxt "ui_main.verified"
 msgid "Verified"
 msgstr "확인"
 
-#: $lang->'verified_reports'
+#: ui_main.verified_reports
+msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
 msgstr "확인된 리포트"
 
-#: $lang->'verify'
+#: ui_main.verify
+msgctxt "ui_main.verify"
 msgid "Verify"
 msgstr "확인"
 
-#: $lang->'verify_this_report'
+#: ui_main.verify_this_report
+msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
 msgstr "리포트 확인"
 
-#: $lang->'version'
+#: ui_main.version
+msgctxt "ui_main.version"
 msgid "Version"
 msgstr "버전"
 
-#: $lang->'via'
+#: ui_main.via
+msgctxt "ui_main.via"
 msgid "via"
 msgstr "via"
 
-#: $lang->'video'
+#: ui_main.video
+msgctxt "ui_main.video"
 msgid "Video"
 msgstr "비디오"
 
-#: $lang->'view'
+#: ui_main.view
+msgctxt "ui_main.view"
 msgid "View"
 msgstr "보기"
 
-#: $lang->'views'
+#: ui_main.views
+msgctxt "ui_main.views"
 msgid "Views"
 msgstr "보기"
 
-#: $lang->'view_all'
+#: ui_main.view_all
+msgctxt "ui_main.view_all"
 msgid "View All"
 msgstr "전체 보기"
 
-#: $lang->'view_all_feeds'
+#: ui_main.view_all_feeds
+msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
 msgstr "전체 피드"
 
-#: $lang->'view_all_reports'
+#: ui_main.view_all_reports
+msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
 msgstr "전체 리포트"
 
-#: $lang->'view_items'
+#: ui_main.view_items
+msgctxt "ui_main.view_items"
 msgid "View Items"
 msgstr "아이템 보기"
 
-#: $lang->'view_more'
+#: ui_main.view_more
+msgctxt "ui_main.view_more"
 msgid "View More"
 msgstr "더보기"
 
-#: $lang->'view_public_profile'
+#: ui_main.view_public_profile
+msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
 msgstr "공개 프로파일 보기"
 
-#: $lang->'view_report'
+#: ui_main.view_report
+msgctxt "ui_main.view_report"
 msgid "View Report"
 msgstr "리포트 보기"
 
-#: $lang->'view_reports'
+#: ui_main.view_reports
+msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "리포트 보기"
 
-#: $lang->'visible'
+#: ui_main.visible
+msgctxt "ui_main.visible"
 msgid "Visible"
 msgstr "Visible"
 
-#: $lang->'waiting_approval'
+#: ui_main.waiting_approval
+msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
 msgstr "승인대기"
 
-#: $lang->'waiting_verification'
+#: ui_main.waiting_verification
+msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
 msgstr "확인대기"
 
-#: $lang->'web_form'
+#: ui_main.web_form
+msgctxt "ui_main.web_form"
 msgid "Web Form"
 msgstr "웹 폼"
 
-#: $lang->'weight'
+#: ui_main.weight
+msgctxt "ui_main.weight"
 msgid "Weight"
 msgstr "무게"
 
-#: $lang->'yes'
+#: ui_main.yes
+msgctxt "ui_main.yes"
 msgid "Yes"
 msgstr "Yes"
 
-#: $lang->'yesterday'
+#: ui_main.yesterday
+msgctxt "ui_main.yesterday"
 msgid "Yesterday"
 msgstr "어제"
 
-#: $lang->'your_dashboard'
+#: ui_main.your_dashboard
+msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
 msgstr "내 상황판"
 
-#: $lang->'your_file'
+#: ui_main.your_file
+msgctxt "ui_main.your_file"
 msgid "Your file"
 msgstr "내 파일"
 
-#: $lang->'zoom_in'
+#: ui_main.zoom_in
+msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
 msgstr "Zoom In"
 
-#: $lang->'zoom_out'
+#: ui_main.zoom_out
+msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr "Zoom Out"
+

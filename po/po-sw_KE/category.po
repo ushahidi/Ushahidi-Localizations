@@ -3,75 +3,86 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: sw_KE\n"
 
-#: 'category_color'->'length'
+#: category.category_color.length
+msgctxt "category.category_color.length"
 msgid "The color field must be 6 characters long."
 msgstr "Sehemu ya rangi lazma iwe herufi 6."
 
-#: 'category_color'->'required'
+#: category.category_color.required
+msgctxt "category.category_color.required"
 msgid "The color field is required."
 msgstr "Sehemu ya rangi inahitajika."
 
-#: 'category_description'->'required'
+#: category.category_description.required
+msgctxt "category.category_description.required"
 msgid "The description field is required."
 msgstr "Sehemu ya elezo inahitajika."
 
-#: 'category_image'->'size'
+#: category.category_image.size
+msgctxt "category.category_image.size"
 msgid "Please ensure that image uploads sizes are limited to 50KB."
 msgstr "Tafadhali hakikisha faili ya picha haipiti 50KB."
 
-#: 'category_image'->'type'
-msgid ""
-"The image field does not appear to contain a valid image. The only accepted "
-"formats are .JPG, .PNG and .GIF."
-msgstr ""
-"Sehemu ya picha inaonekana haina faili ilio sawa. Picha zinazokubalika ni za "
-".JPG, .PNG na .GIF."
+#: category.category_image.type
+msgctxt "category.category_image.type"
+msgid "The image field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgstr "Sehemu ya picha inaonekana haina faili ilio sawa. Picha zinazokubalika ni za .JPG, .PNG na .GIF."
 
-#: 'category_image'->'valid'
+#: category.category_image.valid
+msgctxt "category.category_image.valid"
 msgid "The image field does not appear to contain a valid file"
 msgstr "Sehemu ya picha inaonekana haina faili ilio sawa"
 
-#: 'category_title'->'length'
+#: category.category_title.length
+msgctxt "category.category_title.length"
 msgid "The title field must be at least 3 and no more 80 characters long."
 msgstr "Jina la jamii lazima liwe baina ya herifi 3 na 80."
 
-#: 'category_title'->'required'
+#: category.category_title.required
+msgctxt "category.category_title.required"
 msgid "The title field is required."
 msgstr "Jina la jamii linahitajika."
 
-#: 'parent_id'->'already_parent'
+#: category.parent_id.already_parent
+msgctxt "category.parent_id.already_parent"
 msgid "You cannot subcategorize a category with subcategories."
 msgstr ""
 
-#: 'parent_id'->'exists'
+#: category.parent_id.exists
+msgctxt "category.parent_id.exists"
 msgid "The parent category does not exist."
 msgstr "Jamii mzazi uliotupatia haipo."
 
-#: 'parent_id'->'numeric'
+#: category.parent_id.numeric
+msgctxt "category.parent_id.numeric"
 msgid "The parent category field must be numeric."
 msgstr "Jamii mzazi lazma iwe nambari."
 
-#: 'parent_id'->'parent_trusted'
+#: category.parent_id.parent_trusted
+msgctxt "category.parent_id.parent_trusted"
 msgid "The parent category cannot be a special category"
 msgstr ""
 
-#: 'parent_id'->'required'
+#: category.parent_id.required
+msgctxt "category.parent_id.required"
 msgid "The parent category field is required."
 msgstr "Jamii mzazi inatakikana."
 
-#: 'parent_id'->'same'
+#: category.parent_id.same
+msgctxt "category.parent_id.same"
 msgid "The category and the parent category cannot be the same."
 msgstr "Jamii pamoja na jamii mzazi haziezi kuwa sawa."
 
-#: 'parent_id'->'special'
+#: category.parent_id.special
+msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
 msgstr ""
+

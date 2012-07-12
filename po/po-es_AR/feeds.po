@@ -3,43 +3,46 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:42+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-07-12 03:50+0000\n"
+"PO-Revision-Date: 2012-07-12 03:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: es_AR\n"
 
-#: $lang->'date'
+#: feeds.date
+msgctxt "feeds.date"
 msgid "DATE"
 msgstr "FECHA"
 
-#: 'feed_name'->'length'
-msgid ""
-"The feed name field must be at least 3 and no more \n"
-"\t\t\t70 characters long."
-msgstr ""
-"El campo nombre de feed debe tener por lo menos y no más de 70 caracteres de "
-"largo."
+#: feeds.feed_name.length
+msgctxt "feeds.feed_name.length"
+msgid "The feed name field must be at least 3 and no more \n\t\t\t70 characters long."
+msgstr "El campo nombre de feed debe tener por lo menos y no más de 70 caracteres de largo."
 
-#: 'feed_name'->'required'
+#: feeds.feed_name.required
+msgctxt "feeds.feed_name.required"
 msgid "Please enter the name of the feed."
 msgstr "Por favor ingrese el nombre del feed."
 
-#: 'feed_url'->'required'
-msgid "Please enter feed's URL."
+#: feeds.feed_url.required
+msgctxt "feeds.feed_url.required"
+msgid "Please enter feed\'s URL."
 msgstr "Por favor ingrese la URL del feed."
 
-#: 'feed_url'->'url'
+#: feeds.feed_url.url
+msgctxt "feeds.feed_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
 msgstr "Por favor ingrese una URL válida. Ej: http://www.ushahidi.com"
 
-#: 'feed_url'->'source'
+#: feeds.source
+msgctxt "feeds.source"
 msgid "SOURCE"
 msgstr "FUENTE"
 
-#: 'feed_url'->'title'
+#: feeds.title
+msgctxt "feeds.title"
 msgid "Title"
 msgstr "Título"
+
