@@ -22,7 +22,7 @@
 	'upgrade_text_4' => '<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Just in case something goes wrong, it\'s recommended you make an entire backup of your Ushahidi deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the downloaded zip file</dd><dd>- Depending on the operating system running the web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to the webserver and replace the contents of all the folders with the newest from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- First determine your database schema version by looking at the <strong>db_version</strong> value in the settings table or look at the Ushahidi upgrade information at the top of this page. </dd><dd>- If you are at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With your database client, upgrade the database by executing the appropriate upgradex-x.sql file.</dd></dl>',
     'upgrade_tables' => '<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. Manuall run the upgrade<xx>-<xx>.sql file starting from the current db version of your install through to the final sql upgrade file.',
     'upgrade_text_5' => '<strong>Step 4:</strong> Click on the <strong>"Continue"</strong> button to upgrade the necessary tables.',
-	'upgrade_text_6' => 'For automatic upgrade, click on the button below.',
+		
     'upgrade_title_text_1' => 'You are currently using Ushahidi v',
     'upgrade_title_text_2' => 'with database version ',
 	'upgrade_title_text_3' => 'running on',
