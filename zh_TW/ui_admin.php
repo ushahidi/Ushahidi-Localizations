@@ -138,7 +138,7 @@
 	'page' => '頁',
 	'pages' => '頁',
 	'page_not_found' => '找不到網頁',
-	'page_not_found_message' => '抱歉，你要找的網頁不存在<p><strong>請問你是否收到某個來自本站的連結呢？</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>',
+	'page_not_found_message' => '抱歉，你要找的網頁不存在<p><strong>請問你是否收到某個來自本站的連結呢？</strong><br />If you reached this page from another part of our site, please <a href="#">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href="#">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>',
 	'parameters_used' => 'Parameters Used',
 	'password' => '密碼',
 	'password_reset' => '重設密碼',
