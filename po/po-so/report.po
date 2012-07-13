@@ -1,15 +1,18 @@
-#. extracted from en_US/report.php, so/report.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:48+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: so\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
@@ -18,7 +21,9 @@ msgstr "so_SO:"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
-msgid "This deployment spans within one country only. Please make sure the report location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the report "
+"location is within the country %s."
 msgstr ""
 
 #: report.custom_field.values
@@ -53,17 +58,23 @@ msgstr ""
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_point.between
@@ -178,7 +189,9 @@ msgstr "Fadlan hubi in sawirka aad gelinayso uusan ka weyneyn 2MB."
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
-msgid "The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The Upload Photos field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
 msgstr "Sawirku ma ahan mid sax ah. waxaa la ogol yahay oo kaliya JPG, .PNG, iyo .GIF."
 
 #: report.incident_photo.valid
@@ -198,7 +211,9 @@ msgstr "Fadlan geli qiime sax ah."
 
 #: report.incident_title.length
 msgctxt "report.incident_title.length"
-msgid "The \"Report Title\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Report Title\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "Cinwaanka Qoraalka waa inuu ahaadaa ugu yaran 3 xaraf ugu badnaana 200 xaraf."
 
 #: report.incident_title.required
@@ -233,7 +248,9 @@ msgstr "Xarriiqda loolku ma ahan mid sax ah."
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Waxaa loo baahan yahay xariiqda loolka. Fadlan ka guji khariiradda meel si aad u tilmaantid goob.   "
 
 #: report.locale.alpha_dash
@@ -253,7 +270,8 @@ msgstr "Goobtu ma lahan qiime sax ah."
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
-msgid "The Original Report and the Translation have the same locale (language)."
+msgid ""
+"The Original Report and the Translation have the same locale (language)."
 msgstr "Warbixinta hore iyo turjumiddu waa hal luuqad."
 
 #: report.locale.required
@@ -263,7 +281,9 @@ msgstr "Goobta ayaa loo bahan."
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
-msgid "The \"Location Name\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Location Name\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "Magaca goobtu waa inuu ugu yaraan ahaadaa 3 xaraf ugu badnaana 200 xaraf."
 
 #: report.location_name.required
@@ -278,7 +298,9 @@ msgstr "Qiime sax ah kuma jiro."
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Goobta Longitude ayaa loo baahan yahay. Fadlan guji khariidada si aad u doorato goob ka mid ah khariidada."
 
 #: report.person_email.email
@@ -293,12 +315,14 @@ msgstr "Email-ku waa inuu ahaadaa ugu yaraan 4 xaraf ugu badnaana 64 xaraf"
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
-msgid "The first name field must be at least 3 and no more 100 characters long."
+msgid ""
+"The first name field must be at least 3 and no more 100 characters long."
 msgstr "Magaca hore waa inuu ahaadaa ugu yaraan 3 xaraf ugu badnaana 10 xaraf."
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
-msgid "The last name field must be at least 2 and no more 100 characters long."
+msgid ""
+"The last name field must be at least 2 and no more 100 characters long."
 msgstr "Magaca dambe waa inuu ahaadaa ugu yaraan 3 xaraf ugu badnaana 100 xaraf."
 
 #: report.to_date.date_mmddyyyy
@@ -315,4 +339,3 @@ msgstr "Fadlan geli waqtiga loo direy oo sax ah. Yeysan noqon maanta mid dhaafsi
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
 msgstr "Waqtiga soo diray waa inuusan ka waynayn waqtiga loo diray"
-

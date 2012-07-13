@@ -1,15 +1,18 @@
-#. extracted from en_US/stats.php, es_AR/stats.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:53+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -28,7 +31,10 @@ msgstr "Por Categorías"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
 msgstr "Este gráfico presenta una vista linear de los reportes, clasificados por categoría. Desplácese de un lado a otro para comparar las diferentes categorías. Mueva el puntero sobre el gráfico para más detalles"
 
 #: stats.choose_date_range
@@ -53,7 +59,9 @@ msgstr "Por País"
 
 #: stats.description
 msgctxt "stats.description"
-msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
 msgstr "Esta es la sección de estadísticas. Use los enlaces para obtener diferentes vistas de la información recolectada"
 
 #: stats.error
@@ -153,7 +161,11 @@ msgstr "Visitantes"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
 msgstr "Es la cantidad de personas que han visitado este sitio, y se determina utilizando cookies. Si el navegador del visitante no acepta cookies, la visita es registrada utilizando su dirección de IP, el navegador, plugins instalados, sistema operativo, etc."
 
 #: stats.unverified
@@ -178,6 +190,7 @@ msgstr "Visitas"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
 msgstr "Una \"visita\" es un visitante al sitio que hace al menos 30 minutos que no mira una página de esta sitio"
-

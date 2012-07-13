@@ -1,15 +1,18 @@
-#. extracted from en_US/report.php, ko_KR/report.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:47+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
@@ -18,7 +21,9 @@ msgstr "에러!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
-msgid "This deployment spans within one country only. Please make sure the report location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the report "
+"location is within the country %s."
 msgstr ""
 
 #: report.custom_field.values
@@ -53,17 +58,23 @@ msgstr ""
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_point.between
@@ -178,7 +189,9 @@ msgstr "사진 사이즈의 최대크기는 2MB입니다."
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
-msgid "The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The Upload Photos field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
 msgstr "사용가능한 파일포맷은 .JPG, .PNG and .GIF. 입니다. 이 외의 파일포맷은 사용할 수 없습니다."
 
 #: report.incident_photo.valid
@@ -198,7 +211,9 @@ msgstr "소스 신뢰도의 정확한 값을 입력해주세요."
 
 #: report.incident_title.length
 msgctxt "report.incident_title.length"
-msgid "The \"Report Title\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Report Title\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "제목은 최소3자이상 200자이하이어야 합니다."
 
 #: report.incident_title.required
@@ -233,7 +248,9 @@ msgstr "위도값을 정확히 입력해주세요."
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "위도값을 입력해주세요. 지도상의 포인트를 클릭하세요."
 
 #: report.locale.alpha_dash
@@ -253,7 +270,8 @@ msgstr "로컬 필드 값이 잘못되었습니다."
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
-msgid "The Original Report and the Translation have the same locale (language)."
+msgid ""
+"The Original Report and the Translation have the same locale (language)."
 msgstr "원본 리포트와 번역본이 동일한 로컬(언어)입니다."
 
 #: report.locale.required
@@ -263,7 +281,9 @@ msgstr "로컬값을 입력해주세요."
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
-msgid "The \"Location Name\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Location Name\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "위치 이름은 최소 3자이상 200자이하 이어야 합니다."
 
 #: report.location_name.required
@@ -278,7 +298,9 @@ msgstr "정확한 경도값을 입력해주세요."
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "경도값을 입력해주세요. 지도상의 포인트를 클릭하세요."
 
 #: report.person_email.email
@@ -293,12 +315,14 @@ msgstr "이메일은 최소 4자이상 64자 미만이어야 합니다."
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
-msgid "The first name field must be at least 3 and no more 100 characters long."
+msgid ""
+"The first name field must be at least 3 and no more 100 characters long."
 msgstr "이름은 최소 3자이상 100자 미만이어야 합니다."
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
-msgid "The last name field must be at least 2 and no more 100 characters long."
+msgid ""
+"The last name field must be at least 2 and no more 100 characters long."
 msgstr "성은 최소 3자이상 100자 미만이어야 합니다."
 
 #: report.to_date.date_mmddyyyy
@@ -315,4 +339,3 @@ msgstr "마감 일자를 입력해주세요. 오늘 날짜보다 미래일 수 �
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
 msgstr "시작일이 마감일 이 후 일 수 없습니다."
-

@@ -1,15 +1,18 @@
-#. extracted from en_US/form.php, bg_BG/form.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:36+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: bg_BG\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -18,7 +21,8 @@ msgstr ""
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid "The Field Name must be at least 3 and no more than 200 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "Полето Име трябва да е между 3 и 200 символа."
 
 #: form.field_height.between
@@ -38,7 +42,8 @@ msgstr "Моля изберете Да или Не за полето Дата"
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "Полето Име трябва да е между 3 и 100 символа."
 
 #: form.field_name.required
@@ -93,11 +98,11 @@ msgstr "Моля изберете към кой формуляр да се до�
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid "The form name field must be at least 3 and no more than 100 characters long."
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
 msgstr "Името на формуляра трябва да е между 3 и 100 символа."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Моля въведете име на формуляра."
-

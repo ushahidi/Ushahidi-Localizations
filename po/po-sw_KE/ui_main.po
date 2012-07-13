@@ -1,15 +1,18 @@
-#. extracted from en_US/ui_main.php, sw_KE/ui_main.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:57+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sw_KE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: ui_main.about
 msgctxt "ui_main.about"
@@ -148,12 +151,16 @@ msgstr "Simu ya rununu:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
-msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
 msgstr "Ama, eka alama kwa ramani ifuatayo, na tutakutanabahisha ripoti ikitungwa ndani ya kilomita 20."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
-msgid "If you can't find your location, please click on the map to pinpoint the correct location."
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
 msgstr ""
 
 #: ui_main.alerts_rss
@@ -448,7 +455,8 @@ msgstr "Sanidi"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
-msgid "You have successfully confirmed your email address! Please login below."
+msgid ""
+"You have successfully confirmed your email address! Please login below."
 msgstr ""
 
 #: ui_main.contact
@@ -723,7 +731,9 @@ msgstr "kwahivyo vipimo vyako vitahusishwa na anwani ya barua pepe hiyo"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
-msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
 msgstr "Ili uweze kupata ripoti kwa barua pepe, tafadhali weka vipimo vya akaunti yako ya barua pepe kwa nafasi ifuatayo. Tafadhali kumbuka kuwa zitatumwa kwa"
 
 #: ui_main.email_settings_comment_1
@@ -803,7 +813,9 @@ msgstr "Tujibishe"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
-msgid "Please give us feedback about your experience by clicking on the button below."
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
 msgstr "Tafadhali tujibishe kuhusu mazoea yako kwa kubonya button inayofuata."
 
 #: ui_main.feeds
@@ -1113,7 +1125,9 @@ msgstr "Andika sehemu yako sahihi"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
-msgid "Your account doesn't have the proper permission to fully log you in. Please contact the administrator."
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
 msgstr ""
 
 #: ui_main.in_response_to
@@ -1308,7 +1322,8 @@ msgstr ""
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
-msgid "Email address doesn't exist. Try a different address or create an account."
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
 msgstr ""
 
 #: ui_main.login_select_openid
@@ -1343,7 +1358,9 @@ msgstr ""
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
-msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
 msgstr ""
 
 #: ui_main.login_signup_confirmation_subject
@@ -1458,7 +1475,9 @@ msgstr "Je Ushahidi hii imetumika kwa nchi nyingi?"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
-msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
 msgstr ""
 
 #: ui_main.name
@@ -1788,7 +1807,10 @@ msgstr "Picha na video"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
-msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
 msgstr "* Tafuta eneo lako, Au bonya kwa ramani kuashiria eneo lako"
 
 #: ui_main.play
@@ -2078,7 +2100,9 @@ msgstr "Chagua mji"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
-msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
 msgstr "Ripoti yako imetungwa na wafanyakazi wetu wataipitia. Tutakurudia punde si punde kama inahitajika."
 
 #: ui_main.reports_submit_new
@@ -2688,7 +2712,8 @@ msgstr "Pakia ripoti"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
-msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgid ""
+"With the form below, you can import incidents into the Ushahidi engine."
 msgstr "Na fomu inayofuata, unaeza kuingiza tukio kwenye Ushahidi"
 
 #: ui_main.upload_reports_detail_2
@@ -2698,7 +2723,9 @@ msgstr "Ripoti lazma zipakiwe kwa njia ya CSV"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
-msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
 msgstr "Kama ID ya tukio limehifadhiwa tayari, tukio lilo ndani ya CSV litadharauliwa"
 
 #: ui_main.upload_reports_detail_4
@@ -2708,7 +2735,9 @@ msgstr "Inafaa kuwa na angalau Jina la Tukio na Tarehe ya Tukio"
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
-msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
 msgstr ""
 
 #: ui_main.upload_reports_detail_5
@@ -2718,12 +2747,20 @@ msgstr "Sampuli ya repoti ya CSV"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
-msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
+"01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
+"Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />\n\t\t\t\t\t\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES"
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
-msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
+"\",YES,NO,\"5.55\",\"-0.2166667\""
 msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO"
 
 #: ui_main.upload_successful
@@ -2900,4 +2937,3 @@ msgstr ""
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr ""
-

@@ -1,15 +1,18 @@
-#. extracted from en_US/mhi.php, pt_BR/mhi.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:44+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: mhi.contact_captcha.default
 msgctxt "mhi.contact_captcha.default"
@@ -45,4 +48,3 @@ msgstr "O campo assunto deve ter pelo menos 3 caracteres"
 msgctxt "mhi.contact_subject.required"
 msgid "The subject field is required."
 msgstr "É necessário preencher o campo assunto."
-

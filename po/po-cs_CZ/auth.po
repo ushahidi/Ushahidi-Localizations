@@ -1,15 +1,18 @@
-#. extracted from en_US/auth.php, cs_CZ/auth.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:24+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: auth.email.email
 msgctxt "auth.email.email"
@@ -68,12 +71,16 @@ msgstr ""
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
-msgid "The current password you entered for your account is incorrect. Please try again."
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
 msgstr ""
 
 #: auth.new_password.length
@@ -98,7 +105,9 @@ msgstr ""
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password.default
@@ -133,7 +142,9 @@ msgstr ""
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password_confirm.matches
@@ -198,7 +209,9 @@ msgstr "Je nám líto, tento login už používá jiný uživatel/ka"
 
 #: auth.username.length
 msgctxt "auth.username.length"
-msgid "The public profile URL field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr "Položka uživatelský login musí mít méně než 2 a více než 16 znaků"
 
 #: auth.username.login error
@@ -220,4 +233,3 @@ msgstr "Roli super admina není možné upravit"
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
 msgstr ""
-

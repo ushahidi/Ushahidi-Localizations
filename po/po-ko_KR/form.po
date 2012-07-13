@@ -1,15 +1,18 @@
-#. extracted from en_US/form.php, ko_KR/form.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:37+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -18,7 +21,8 @@ msgstr "입력한 기본값이 잘못되었습니다."
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid "The Field Name must be at least 3 and no more than 200 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "필드 이름은 최소 3자이상 200자이하로 입력해주세요."
 
 #: form.field_height.between
@@ -38,7 +42,8 @@ msgstr "Yes 또는 No를 선택해주세요."
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "필드 이름은 최소 3자이상 100자이하로 입력해주세요."
 
 #: form.field_name.required
@@ -93,11 +98,11 @@ msgstr "추가할 폼을 선택해주세요."
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid "The form name field must be at least 3 and no more than 100 characters long."
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
 msgstr "폼 이름은 최소 3자이상 100자이하로 입력해주세요."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "폼 이름을 입력해주세요."
-

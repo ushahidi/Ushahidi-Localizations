@@ -1,15 +1,18 @@
-#. extracted from en_US/stats.php, so/stats.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:53+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: so\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -28,7 +31,10 @@ msgstr "Saameynta qeybaha."
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
 msgstr "Jadwalkan wuxuu kuu sahlayaa inaad daalacatid warbixinnada waqtiyadii gudbay adigoo ku salaynaya qeyb qeyb, hoos u daji xarriijinta adigoo ka bilaabaya dhanka bidix aadayana dhanka midig si aad u daalacatid qeybaha kale ee la midka ah, Mouse-ka dul saar si aad faahfaahin dheeri ah uga heshid."
 
 #: stats.choose_date_range
@@ -53,7 +59,9 @@ msgstr "Qeybaha wadanka."
 
 #: stats.description
 msgctxt "stats.description"
-msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
 msgstr "Hoodi! halkani waa qeybta tiro koobka, Faahfaahin guud ayaa halkan kasoo socota, Haddase daalaco adigoo isticmaalaya qeybaha kore."
 
 #: stats.error
@@ -153,7 +161,11 @@ msgstr "Soo booqdayaasha gaarka ah."
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
 msgstr "Tirada shakhsiyaadka kusoo biiraya rakibitaankaaga: Soo booqdayaasha gaarka ah waxaa lagu go'aansadaa iyadoo la isticmaalo Cookies, haddii isticmaalaha uusan u shaqeyneyn Cookies-ku waxaa lagu ogaanayaa iyadoo la isticaalo heuristic iyadoo lala socdo IP address-ka, resolution, browser, plugins, OS, iyo wixii la mida"
 
 #: stats.unverified
@@ -178,6 +190,7 @@ msgstr "Booqashada."
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
 msgstr "Visit waa rikoodhka sheega booqdayaasha boggaaga, kuwaasoo in ka badan 30 daqiiqo ku waara daawashada bogga."
-

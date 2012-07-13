@@ -1,15 +1,18 @@
-#. extracted from en_US/reporters.php, de_DE/reporters.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:49+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: reporters.latitude.between
 msgctxt "reporters.latitude.between"
@@ -18,7 +21,9 @@ msgstr "Das Feld 'Breitengrad' enthält einen ungültigen Wert."
 
 #: reporters.latitude.required
 msgctxt "reporters.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Das Feld 'Breitengrad' ist notwendig. Klicken Sie auf die Karte um eine Position auszuwählen."
 
 #: reporters.level_id.numeric
@@ -33,7 +38,8 @@ msgstr "Das Reporterlevel scheint ungültig zu sein."
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
-msgid "The location name field must be at least 3 and no more 200 characters long."
+msgid ""
+"The location name field must be at least 3 and no more 200 characters long."
 msgstr "Das Feld 'Name' des Ortes muss zwischen 3 und 200 Zeichen lang sein."
 
 #: reporters.location_name.required
@@ -48,7 +54,9 @@ msgstr "Das Feld 'Längengrad' enthält einen ungültigen Wert."
 
 #: reporters.longitude.required
 msgctxt "reporters.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Das Feld 'Längengrad' ist notwendig. Klicken Sie auf die Karte um eine Position auszuwählen."
 
 #: reporters.reporter_id.numeric
@@ -60,4 +68,3 @@ msgstr "Ungültiger Reporter"
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
 msgstr "Ungültiger Reporter"
-

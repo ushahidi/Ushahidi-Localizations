@@ -1,15 +1,18 @@
-#. extracted from en_US/feeds.php, sv_SE/feeds.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:35+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: feeds.date
 msgctxt "feeds.date"
@@ -18,7 +21,9 @@ msgstr "DATUM"
 
 #: feeds.feed_name.length
 msgctxt "feeds.feed_name.length"
-msgid "The feed name field must be at least 3 and no more \n\t\t\t70 characters long."
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
 msgstr "Fl&ouml;desnamnet m&aring;ste vara mellan 3 och 70 tecken."
 
 #: feeds.feed_name.required
@@ -45,4 +50,3 @@ msgstr "K&Auml;LLA"
 msgctxt "feeds.title"
 msgid "Title"
 msgstr "RUBRIK"
-

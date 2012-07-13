@@ -1,15 +1,18 @@
-#. extracted from en_US/feeds.php, ar/feeds.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:35+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: feeds.date
 msgctxt "feeds.date"
@@ -18,7 +21,9 @@ msgstr "التاريخ"
 
 #: feeds.feed_name.length
 msgctxt "feeds.feed_name.length"
-msgid "The feed name field must be at least 3 and no more \n\t\t\t70 characters long."
+msgid ""
+"The feed name field must be at least 3 and no more \n"
+"\t\t\t70 characters long."
 msgstr "حقل التغذية المرجعية يجب أن يحتوى على الأقل 3 حروف \n\t\t\tولا يزيد عن 70 حرف"
 
 #: feeds.feed_name.required
@@ -45,4 +50,3 @@ msgstr "المصدر"
 msgctxt "feeds.title"
 msgid "Title"
 msgstr "العنوان"
-

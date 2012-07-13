@@ -1,15 +1,18 @@
-#. extracted from en_US/settings.php, pt_BR/settings.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"PO-Revision-Date: 2012-07-12 21:50+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
@@ -108,7 +111,8 @@ msgstr "O campo cache parece não conter dados válidos."
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
-msgid "The cache pages lifetime field does not appear to contain a valid value."
+msgid ""
+"The cache pages lifetime field does not appear to contain a valid value."
 msgstr "O campo cache parece não conter dados válidos."
 
 #: settings.cache_pages_lifetime.required
@@ -118,12 +122,19 @@ msgstr "É necessário preencher o campo vida útil do cache."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
-msgid "It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">this forum post</a>"
+msgid ""
+"It looks like your server is not configured to handle clean URLs. You will "
+"need to change the configuration of your server before you can enable clean "
+"URLs. See more info on how to enable clean URLs at <a "
+"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
+"rewrite\" target=\"_blank\">this forum post</a>"
 msgstr "O servidor parece não estar configurado para lidar com URLs amigáveis. É preciso alterar essa configuração no servidor antes de habilitar URLs amigáveis. Veja mais informações sobre URLs amigáveis no <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">fórum</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
-msgid "This option makes Ushahidi to be accessed via \"clean\" URLs (without \"index.php\" in the URL)."
+msgid ""
+"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
+"\"index.php\" in the URL)."
 msgstr "Essa opção torna o Ushahidi acessível via \"URLs amigáveis\", sem \"index.php\" na URL."
 
 #: settings.cleanurl.enable_clean_url
@@ -148,7 +159,9 @@ msgstr "É necessário fornecer um número de API Clickatell."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
-msgid "The Clickatell Password field must be at least 5 and no more 50 characters long."
+msgid ""
+"The Clickatell Password field must be at least 5 and no more 50 characters "
+"long."
 msgstr "A senha do Clickatell deve ter pelo menos 5 e no máximo 50 caracteres."
 
 #: settings.clickatell_password.required
@@ -218,7 +231,9 @@ msgstr "A porta do servidor só pode conter números."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
-msgid "The Mail Server Password field must be at least 5 and no more 50 characters long."
+msgid ""
+"The Mail Server Password field must be at least 5 and no more 50 characters "
+"long."
 msgstr "A senha do servidor do email deve ter pelo menos 5 e no máximo 50 caracteres."
 
 #: settings.email_password.required
@@ -263,7 +278,9 @@ msgstr ""
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
-msgid "To get the information below you will need to create a new Facebook application at"
+msgid ""
+"To get the information below you will need to create a new Facebook "
+"application at"
 msgstr ""
 
 #: settings.facebook.app_id
@@ -278,7 +295,9 @@ msgstr ""
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
-msgid "The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX."
+msgid ""
+"The Google Analytics field must contain a valid Web Property ID in the "
+"format UA-XXXXX-XX."
 msgstr "O campo Google Analytics deve conter um Web Property ID válido no formato UA-XXXXX-XX."
 
 #: settings.https.enable_https
@@ -288,12 +307,16 @@ msgstr ""
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
-msgid "This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> \"https://\" in the URL prefix"
+msgid ""
+"This option makes Ushahidi be accessed in unsecure mode; "
+"<strong>without</strong> \"https://\" in the URL prefix"
 msgstr ""
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
-msgid "This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix"
+msgid ""
+"This option makes Ushahidi be accessed in secure mode; with "
+"<strong>https</strong> in the URL prefix"
 msgstr ""
 
 #: settings.https.title
@@ -303,7 +326,9 @@ msgstr ""
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
-msgid "The items per page (Frontend) field does not appear to contain a valid value."
+msgid ""
+"The items per page (Frontend) field does not appear to contain a valid "
+"value."
 msgstr "O campo de itens por página (no site) parece não conter dados válidos."
 
 #: settings.items_per_page.required
@@ -313,7 +338,8 @@ msgstr "É necessário preencherr o campo de itens por página (no site)."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
-msgid "The items per page (Admin) field does not appear to contain a valid value."
+msgid ""
+"The items per page (Admin) field does not appear to contain a valid value."
 msgstr "O campo de itens por página (Admin) parece não conter dados válidos."
 
 #: settings.items_per_page_admin.required
@@ -323,7 +349,9 @@ msgstr "É necessário preencher o campo de itens por página (Admin)."
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
-msgid "Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider's site, and enter the API key."
+msgid ""
+"Setting up your map provider is a straight- forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
 msgstr "Configurar o provedor de mapa é um processo simples. Escolha um provedor, obtenha uma chave API do provedor do site, e digite a chave API."
 
 #: settings.map.zoom
@@ -348,7 +376,9 @@ msgstr "Consiga uma chave API"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
-msgid "Setting up your map provider is a straight-forward process. Select a provider, obtain an API key from the provider's site, and enter the API key."
+msgid ""
+"Setting up your map provider is a straight-forward process. Select a "
+"provider, obtain an API key from the provider's site, and enter the API key."
 msgstr "Configurar o provedor de mapa é um processo simples. Escolha um provedor, obtenha uma chave API do provedor do site, e digite a chave API."
 
 #: settings.map_provider.name
@@ -478,7 +508,9 @@ msgstr "Alertas por email"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
-msgid "<span>In order to receive reports by email, please configure your email account settings.</span>"
+msgid ""
+"<span>In order to receive reports by email, please configure your email "
+"account settings.</span>"
 msgstr "<span>Para receber alertas por email, configure sua conta de email.</span>"
 
 #: settings.site.email_site
@@ -508,7 +540,11 @@ msgstr "Itens por página - Admin"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
-msgid "Prevent comment spam using <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com user account</a>"
+msgid ""
+"Prevent comment spam using <a href=\"http://akismet.com/\" "
+"target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
+"key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
+"target=\"_blank\">WordPress.com user account</a>"
 msgstr "Previna spam nos comentários usando <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> do Automattic. <BR />Você receberá uma chave API ao registrar-se com o seu <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">nome de usuário no WordPress.com</a>."
 
 #: settings.site.laconica_configuration
@@ -593,7 +629,8 @@ msgstr "O campo do email parece não conter um endereço de email válido."
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
-msgid "The site email field must be at least 4 and no more 100 characters long."
+msgid ""
+"The site email field must be at least 4 and no more 100 characters long."
 msgstr "O campo de email do site deve ter pelo menos 4 e no máximo 100 caracteres."
 
 #: settings.site_name.length
@@ -638,7 +675,10 @@ msgstr "Senha no Clickatell"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
-msgid "Sign up for Clickatells service by <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicking here</a>"
+msgid ""
+"Sign up for Clickatells service by <a "
+"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
+"target=\"_blank\">clicking here</a>"
 msgstr "Inscreva-se no serviço Clickatells <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicando aqui</a>."
 
 #: settings.sms.clickatell_text_2
@@ -653,7 +693,12 @@ msgstr "Nome de usuário no Clickatell"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
-msgid "FrontlineSMS is free open source software that turns a laptop and a mobile phone into a central communications hub. Once installed, the program enables users to send and receive text messages with large groups of people through mobile phones. Click on the grey box to request a download from FrontlineSMS.com"
+msgid ""
+"FrontlineSMS is free open source software that turns a laptop and a mobile "
+"phone into a central communications hub. Once installed, the program enables"
+" users to send and receive text messages with large groups of people through"
+" mobile phones. Click on the grey box to request a download from "
+"FrontlineSMS.com"
 msgstr "FrontlineSMS é um software gratuito de código livre que transforma um laptop e um telefone celular em um hub de uma central de comunicações. Depois de instalado, o programa permite que usuários enviem e recebam mensagem de texto para grupos de pessoas por meio do celular. Clique na caixa cinza para solicitar o download do FrontlineSMS.com."
 
 #: settings.sms.flsms_download
@@ -663,7 +708,12 @@ msgstr "Baixe e instale o Frontline SMS no seu computador"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
-msgid "Messages received into a FrontlineSMS hub can be synched with Ushahidi. Detailed instructions on how to sync can be found <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will require the key and link below to set up the sync with FrontlineSMS"
+msgid ""
+"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
+"Detailed instructions on how to sync can be found <strong><a "
+"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
+"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
+" require the key and link below to set up the sync with FrontlineSMS"
 msgstr "As mensagens recebidas por meio do hub do FrontlineSMS podem ser sincronizadas com o Ushahidi. Instruções detalhadas sobre como fazer essa sincronização podem ser encontradas <strong><a href=\"http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi\" target=\"_blank\">aqui</a></strong>. Será necessário ter em mãos a chave e o link abaixo para sincronizar com o FrontlineSMS."
 
 #: settings.sms.flsms_key
@@ -735,4 +785,3 @@ msgstr "O 3º campo do número de telefone é muito longo."
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
 msgstr "O 3º campo do número de telefone deve conter apenas números."
-
