@@ -46,11 +46,6 @@ file_filter = po/po-<lang>/datetime.po
 source_file = po/po-en_US/datetime.pot
 source_lang = en_US
 
-[ushahidi-localizations.feedback]
-file_filter = po/po-<lang>/feedback.po
-source_file = po/po-en_US/feedback.pot
-source_lang = en_US
-
 [ushahidi-localizations.feeds]
 file_filter = po/po-<lang>/feeds.po
 source_file = po/po-en_US/feeds.pot
@@ -74,11 +69,6 @@ source_lang = en_US
 [ushahidi-localizations.installer]
 file_filter = po/po-<lang>/installer.po
 source_file = po/po-en_US/installer.pot
-source_lang = en_US
-
-[ushahidi-localizations.json]
-file_filter = po/po-<lang>/json.po
-source_file = po/po-en_US/json.pot
 source_lang = en_US
 
 [ushahidi-localizations.layer]
