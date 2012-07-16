@@ -345,7 +345,7 @@
 	'password_changed_successfully' => 'Se ha cambiado la contraseña',
 	'password_forgot' => 'Olvidó su Clave?',
 	'password_reset_confirm' => 'Mire su e-mail por una nueva clave.',
-	'password_save' => 'Desea guardar la clave en este ordenador?',
+	'password_save' => 'Mantener la sesión abierta',
 	'past_month' => 'Mes Pasado',
 	'past_year' => 'Año Pasado',
 	'pending' => 'Pendientes',
