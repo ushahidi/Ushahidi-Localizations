@@ -277,7 +277,7 @@
 	'media' => 'Fotos y Vídeos',
 	'media_filter' => 'Filtro',
 	'members' => 'Members',
-	'manage_your_account' => 'Manage Your Account',
+	'manage_your_account' => 'Administre su Cuenta',
 	'message' => 'Mensaje',
 	'messages' => 'Mensajes',
 	'message_details' => 'Ver Mensaje',
