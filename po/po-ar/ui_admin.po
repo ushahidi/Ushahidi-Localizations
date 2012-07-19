@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-07-19 06:03+0000\n"
-"PO-Revision-Date: 2012-07-18 23:42+0000\n"
+"POT-Creation-Date: 2012-07-19 12:03+0000\n"
+"PO-Revision-Date: 2012-07-19 17:48+0000\n"
 "Last-Translator: Farid Boushra <>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -208,7 +208,7 @@ msgstr "مربعات"
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr ""
+msgstr "الموضوع"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
@@ -399,17 +399,17 @@ msgstr "عطل"
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "مقسم البداية"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "مقسم النهاية"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -449,7 +449,7 @@ msgstr "البريد الإلكتروني"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "كامل الجماعية"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -484,7 +484,7 @@ msgstr "كل 12 ساعة"
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "اختيارى"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
@@ -529,7 +529,7 @@ msgstr "جافا"
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "العلامات"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -564,7 +564,7 @@ msgstr "اسم الحقل"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "تبديل"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -809,7 +809,7 @@ msgstr "أضف / تعديل مستخدم"
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "علامة كـ"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
@@ -884,7 +884,7 @@ msgstr "تم تعديله"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "تغيير اعدادات النطاق الزمنى"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -909,7 +909,7 @@ msgstr "نتبيهاتى"
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "سجل دخولى"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -924,7 +924,7 @@ msgstr "تقاريرى"
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr ""
+msgstr "التصويت"
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
@@ -967,7 +967,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "هذة الفئة الخاصة لن تظهر حينما يقوم المستخدمين بادخال تقارير. ولكنها تستخدم لوضع التقارير فى حالة انتظار ما لم تضعها فى فئة (تقارير غير مصنفة)"
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1151,7 +1151,7 @@ msgstr "قائمة للعامة"
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "تصنيفات"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1186,7 +1186,7 @@ msgstr "التقارير"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "نقاط قوة"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1211,7 +1211,7 @@ msgstr "النتائج"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "سحب"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1238,19 +1238,19 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "لا يزال مفتاح التشفير معين على إلى القيمة الافتراضية. هذا غير أمن، ويجب تغييرها."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "الموقع يخدم ببروتوكول HTTP. ويجب ان يكون HTTPS لزيادة الامان."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "التعليمات متاحة فى الويكى:"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1323,7 +1323,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "هذه هي الفئة الخاصة التي لن تظهر على شكل تقديم تقرير للمستخدمين تقديم التقارير. ويستخدم هذا بالتزامن مع ميزة \"تقارير موثوقة\" ."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"

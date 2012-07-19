@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-07-19 06:03+0000\n"
-"PO-Revision-Date: 2012-07-12 21:51+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-07-19 12:03+0000\n"
+"PO-Revision-Date: 2012-07-19 18:00+0000\n"
+"Last-Translator: Farid Boushra <>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,12 +39,12 @@ msgstr "The include feed field is required."
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "حقل التنبيهات المسموحة لن تظهر لاحتوائها على قيمة خاطئة."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "حقل التنبيهات المسموحة مطلوب."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -68,17 +69,17 @@ msgstr "The stat sharing field is required."
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "Default number of records to be fetched per API request"
 
 #: settings.api.maximum_record_limit
 msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Maximum number of records to be fetched per API request"
 
 #: settings.api.maximum_requests_per_ip_address
 msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Maximum number of API requests per IP address"
 
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
@@ -93,22 +94,22 @@ msgstr "The Akismet field does not appear to contain a valid value?"
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "هناك خطأ حدث مع رفع صورة البانر"
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "حجم البانر المرفوع اكبر من الحجم المسموح بة"
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr ""
+msgstr "حقل صفحات الكاش مطلوبة."
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "حقل صفحات الكاس لن تظهر لاحتوائها على قيمة خاطئة"
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
@@ -275,24 +276,24 @@ msgstr "يجب ملء حقل اسم المستخدم لخادم البريد"
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "خيارات الفيس بوك"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "لكى تحصل على المعلومات بالاسفل يجب ان تنشئ تطبيق للفيس بوك على"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebook App Secret"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -304,26 +305,26 @@ msgstr "حقل تحليات جوجل يجب ان تحتوى على هوية صح
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Enable HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> \"https://\" in the URL prefix"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -390,7 +391,7 @@ msgstr "موفر الخرائط"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "سجل احداث الخريطة"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -430,7 +431,7 @@ msgstr "السماح بإرسال آخر الأخبار بنظام آر إس إ�
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "اسمع بالمستخدمين باستقبال التنبيهات"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -445,22 +446,22 @@ msgstr "Akismet Key"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "بانر الموقع"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "المربعات بالصفوف"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
 msgid "Cache Pages"
-msgstr ""
+msgstr "صفحات الكاش"
 
 #: settings.site.cache_pages_lifetime
 msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
-msgstr ""
+msgstr "اسمح بسجل الدخول"
 
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
@@ -470,7 +471,7 @@ msgstr ""
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "موقف حقوق الملكية بالموقع"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
@@ -480,17 +481,17 @@ msgstr "وضع لون أساسى لكل الفئات"
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "ايقونة لكل الفئات الافتراضية"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "امسح صورة البانر"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "امسح الايقونى الافتراضية"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -566,12 +567,12 @@ msgstr "لغة الموقع"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "وافق على المستخدمين يدوى"
 
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "رسالة الموقع"
 
 #: settings.site.name
 msgctxt "settings.site.name"
@@ -581,17 +582,17 @@ msgstr "اسم الموقع"
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "جعل التطبيق خاص"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "مطلوب تأكيد البريد الاليكترونى للمستخدم"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "ارسل تقرير"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
