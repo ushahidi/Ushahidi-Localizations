@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-07-18 12:03+0000\n"
-"PO-Revision-Date: 2012-07-12 21:53+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-07-18 18:04+0000\n"
+"PO-Revision-Date: 2012-07-18 23:23+0000\n"
+"Last-Translator: Farid Boushra <>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,19 +22,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "ويضيف هذا التقرير إلى فئات إضافية. إذا قمت بتحديد الفئة 1 هنا والتقرير بالفعل الفئة 2 مرفقة به، فإن التقرير سوف يكون بعد ذلك كل من الفئة 1 والفئة 2."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "يوافق على تقرير أم لا. إذا تمت الموافقة عليها، سوف تظهر على الملأ."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "هل سيكون قادرا على تعيين شارة للمستخدم مما اثار. اختيار شارة أن يحصل على تعيين هنا."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -44,7 +45,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "هذه هي المدى من الساعات و / أو الدقائق بين الوقتين في شكل 24 ساعة. إذا كنت إدخال وقت سابق في الحقل الثاني، سيكون انقلبت مع الأولى. يجب أن تكون هذه الأوقات في غضون يوم واحد. أيضا، يتم فحص هذه المرة ضد الوقت الذي تم تكوينه على موقع الويب الخاص بك في إعدادات موقع و <strong> لا </ strong> وبالضرورة خط الزمن للمستخدم التفاعل مع النشر الخاصة بك. اترك هذا في 0:00 حتي 00:00 لتجاهل هذه التصفيات."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -67,12 +68,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "موضوع البريد الذى تقوم بارسالة"
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "عنوان البريد الذى ستقوم بارسالة"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -106,7 +107,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "هذا هو العنوان الافتراضى الذى يضاف للتقرير"
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -154,7 +155,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "علم على التقرير ان كان موثق ام لا"
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -166,7 +167,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "افصل كل قيمة باستخدام الفاصلة. مثال value1, value2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -179,22 +180,22 @@ msgstr ""
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "افصل كل بند مختار باستخدام الفاصلة. مثال Item 1, Item 2."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "ابدا بالكتابة لقائمة الاعضاء"
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "عنوان الرسالة الخاصة"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "رسالة خاصة"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -256,7 +257,7 @@ msgstr ""
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "هذا هو العنوان الذى ستجد ملف الشخصى بة"
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -281,7 +282,7 @@ msgstr "سيتم إرسال تنبيهات البريد الإليكترونى �
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "اسمح للمستخدمين بالاشتراك فى التنبيهات من خلال الويب"
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -330,7 +331,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "عدد المربعات التى سوف تظهر فى كل واحد."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -370,7 +371,7 @@ msgstr "حدد كود لونى واحد لكل الفئات على الموقع"
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "استخدام رمز لجميع الفئات على الموقع"
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"

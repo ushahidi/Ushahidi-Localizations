@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-07-18 12:03+0000\n"
-"PO-Revision-Date: 2012-07-12 21:24+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-07-18 18:04+0000\n"
+"PO-Revision-Date: 2012-07-18 23:50+0000\n"
+"Last-Translator: Farid Boushra <>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,68 +54,68 @@ msgstr ".حقل اسم المستخدم يحتوى على رموز غير مسم
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "كلمة المرور يجب ان لا تقل عن 8 حروف."
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "برجاء التاكد من ادخال كلمة مرور وبريد اليكترونى صحيح"
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "برجاء كتابة كلمة المرور فى الحقلين المخصصين لكلمة المرور"
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "حقل كلمة المرور مطلوب"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "حقل كلمة المرور يجب ان يتكون من حروف و # و @ كرموز و ارقام و _ و / فقط."
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "كلمة المرور التى ادخلتها لهذا الحساب غير صحيحة. اعد المحاولة."
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "كلمة المرور يجب ان لا تقل عن 8 حروف."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "برجاء التاكد من ادخال كلمة مرور وبريد اليكترونى صحيح"
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "برجاء كتابة كلمة المرور فى الحقلين المخصصين لكلمة المرور"
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "حقل كلمة المرور مطلوب"
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "حقل كلمة المرور يجب ان يتكون من حروف و # و @ كرموز و ارقام و _ و / فقط."
 
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "هناك خطأ اثناء عملية الدخول"
 
 #: auth.password.length
 msgctxt "auth.password.length"
@@ -139,14 +140,14 @@ msgstr ".يجب ملء حقل كلمة المرور"
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
-msgstr ""
+msgstr "هناك مشكلة فى السيرفير. أعد المحاولة"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "حقل كلمة المرور يجب ان يتكون من حروف و # و @ كرموز و ارقام و _ و / فقط."
 
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
@@ -171,7 +172,7 @@ msgstr ".يجب ملء حقل البريد الإلكتروني"
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "سوبر ادمن فقط يستطيع تعديل مستخدم سوبر ادمن او اعطاء صلاحية ادمن."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
@@ -201,7 +202,7 @@ msgstr ".لا يمكن تعديل مهمة اسم المستخدم الإدار�
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "الملف الشخصى العام يجب ان يحتوى على ارقام وحروف فقط."
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
@@ -233,4 +234,4 @@ msgstr ".لا يمكن تعديل مهمة المسئول الإداري الأ�
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "هل تعنى حقا تعديل/أنشا مستخدم؟"
