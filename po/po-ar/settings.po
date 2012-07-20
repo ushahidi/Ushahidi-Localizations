@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-07-19 12:03+0000\n"
-"PO-Revision-Date: 2012-07-19 18:00+0000\n"
+"POT-Creation-Date: 2012-07-19 18:03+0000\n"
+"PO-Revision-Date: 2012-07-19 18:10+0000\n"
 "Last-Translator: Farid Boushra <>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -115,12 +115,12 @@ msgstr "حقل صفحات الكاس لن تظهر لاحتوائها على ق�
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr ""
+msgstr "حقل مدة صفحات الكاش لن تظهر لاحتوائها على قيمة خاطئة"
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "حقل مدة صفحات الكاش مطلوب"
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -466,7 +466,7 @@ msgstr "اسمح بسجل الدخول"
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "اسمح بسجل الدخول"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -607,7 +607,7 @@ msgstr "سطر الوسم"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "الطاق الزمنى"
 
 #: settings.site.title
 msgctxt "settings.site.title"

@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-07-19 12:03+0000\n"
-"PO-Revision-Date: 2012-07-19 17:48+0000\n"
+"POT-Creation-Date: 2012-07-19 18:03+0000\n"
+"PO-Revision-Date: 2012-07-19 18:16+0000\n"
 "Last-Translator: Farid Boushra <>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -1151,7 +1151,7 @@ msgstr "قائمة للعامة"
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr "تصنيفات"
+msgstr "تصفيات"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1265,12 +1265,12 @@ msgstr "حدد بند"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "يجب ان تختار تريجير قبل انت تختار الاستجابة"
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "يجب ان تختار تريجير قبل انت تختار تصفيات"
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1413,17 +1413,17 @@ msgstr "ترجمة التقارير"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "تريجير"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "تريجير مستخدم"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "تريجيرز"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
