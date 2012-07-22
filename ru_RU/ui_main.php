@@ -251,7 +251,7 @@
 	'login_signin_userpass' => 'Войти введя логин и пароль',
 	'login_signin_openid' => 'Войти через OpenID',
 	'login_signup_click' => 'Зарегистрироваться',
-	'login_signup_confirmation_message' => 'Подтвердите свой e-mail адрес: %s',
+	'login_signup_confirmation_message' => 'Благодарим за регистрацию на %s. Чтобы подтвердить свой адрес электронной почты, перейдите по следующей ссылке: %s',
 	'login_signup_confirmation_subject' => 'Подтверждение регистрации',
 	'login_signup_text' => 'Зарегистрируйтесь, чтобы использовать все возможности сайта.',
 	'login_userpass' => 'E-mail и пароль',
