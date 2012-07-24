@@ -154,7 +154,7 @@
 	'logout' => 'Salir',
 	'logs' => 'Bitácora',
 	'manage' => 'Administrar',
-	'manage_your' => 'Administre Su',
+	'manage_public_listing' => 'Administrar Vista Pública',
 	'manage_roles' => 'Administrar Roles y Permisos',
 	'manage_users' => 'Ver Usuarios',
 	'manage_users_edit' => 'Agregar/Editar Usuarios',
