@@ -124,6 +124,7 @@
 		'name' => 'Proveedor de Mapas',
 	),
 	'map_settings' => 'Configuración del Mapa',
+    'map_timeline' => 'Línea de Tiempo',
 	'multiple_countries' => '¿Este sistema se utiliza en múltiples países?',
 	'select_default_location' => 'Por favor escoja el país predeterminado',
 	'set_location' => 'Seleccione la ubicación exacta en el mapa',
