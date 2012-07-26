@@ -85,6 +85,7 @@
 	'include_detail' => 'Inclure autant de détails que possible',
 	'information_evaluation' => 'Évaluation de l\'information',
 	'last_name' => 'Nom de famille',
+	'layers' => 'Couches',
 	'layers_filter' => 'd\'autres couches',
 	'leave_a_comment' => 'Laisser un commentaire',
 	'list' => 'Liste',
