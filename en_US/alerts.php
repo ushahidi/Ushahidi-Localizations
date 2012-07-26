@@ -7,7 +7,7 @@
 		'required' => 'The Email field is required if the checkbox is checked.',
 	),
 	'alert_country' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country %s.'
 	),
 	'alert_lat' => array(
 		'between' => 'You have not selected a valid location on the map.',
@@ -27,7 +27,10 @@
 	'alert_radius' => array(
 		'in_array' => 'You have not set a valid radius on the map.',
 		'required' => 'You have not set your radius on the map.',
-	),
+  ),
+  'alert_recipient' => array(
+    'required' => 'You have not set a recipient for alerts.'
+  ),
 	'alerts_subscribed' => 'You have subscribed for alerts with the following categories',
 	'code_already_verified' => 'This code has been verified before!',
 	'code_not_found' => 'This verification code was not found! Please confirm that you have the correct URL.',

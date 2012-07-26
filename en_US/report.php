@@ -2,7 +2,7 @@
 	$lang = array(
 	'comments_form_error' => 'error!',
 	'country_name' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country %s.'
 	),
 	'custom_field' => array(
 		'values' => 'Please enter a valid value for one of your custom form items.',
@@ -97,8 +97,8 @@
 		'required' => 'The locale is required.',
 	),
 	'location_name' => array(
-		'length' => 'The "Refine Location Name" field must be at least 3 and no more 200 characters long.',
-		'required' => 'The "Refine Location Name" field is required.',
+		'length' => 'The "Location Name" field must be at least 3 and no more 200 characters long.',
+		'required' => 'The "Location Name" field is required.',
 	),
 	'longitude' => array(
 		'between' => 'The longitude field does not appear to contain a valid longitude.',
