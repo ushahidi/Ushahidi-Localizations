@@ -154,6 +154,7 @@
 	'logout' => 'Logout',
 	'logs' => 'Logs',
 	'manage' => 'Manage',
+	'manage_public_listing' => 'Manage Public Listing',
 	'manage_roles' => 'Manage Roles & Permissions',
 	'manage_users' => 'View Users',
 	'manage_users_edit' => 'Add/Edit Users',

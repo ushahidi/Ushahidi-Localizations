@@ -19,3 +19,4 @@
 		"admin_ui" => "Access Admin UI",
 		"member_ui" => "Access Members UI"
 	);
+

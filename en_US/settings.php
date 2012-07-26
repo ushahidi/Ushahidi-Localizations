@@ -124,6 +124,7 @@
 		'name' => 'Map provider',
 	),
 	'map_settings' => 'Map Settings',
+    'map_timeline' => 'Map Timeline',
 	'multiple_countries' => 'Does this Ushahidi Deployment span multiple countries?',
 	'select_default_location' => 'Please select a default country',
 	'set_location' => 'Click and drag the map to set your exact location',

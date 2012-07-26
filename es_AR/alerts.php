@@ -6,6 +6,9 @@
 		'length' => 'El campo correo electrónico debe tener entre 4 y 64 caracteres.',
 		'required' => 'El campo correo electrónico es obligatorio si el checkbox está marcado.',
 	),
+	'alert_country' => array(
+		'single_country' => 'Por favor seleccione una ubicación dentro de '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'alert_lat' => array(
 		'between' => 'No ha seleccionado una ubicación valida en el mapa.',
 		'required' => 'No ha seleccionado una ubicación valida en el mapa.',
@@ -25,6 +28,7 @@
 		'in_array' => 'No ha seleccionado un radio válido en el mapa.',
 		'required' => 'No ha configurado su radio en el mapa.',
 	),
+	'alerts_subscribed' => 'Está subscripto a las alertas para las categorías siguientes',
 	'code_already_verified' => '¡Este código ya ha sido verificado anteriormente!',
 	'code_not_found' => '¡Este código de verificación  no ha sido encontrado! Por favor confirme que lo ha ingresado correctamente. Puede usar el formulario que está mas abajo para re-ingresar su código de verificación:',
 	'code_verified' => 'Su código fue verificado correctamente. Ahora usted va a recibir alertas sobre incidentes que vayan sucediendo.',
@@ -43,6 +47,7 @@
 	'unsubscribe' => 'Usted ha recibido este correo electrónico porque está suscrito para recibir alertas. Si no quiere seguir recibiendo alertas vaya a',
 	'unsubscribed' => 'Ya no recibirá alertas de ',
 	'unsubscribe_failed' => 'No pudimos eliminar su suscripción. Por favor confirme que tiene la URL correcta.',
+	'verification_email_subject' => 'alertas - verificación',
 	'verify_code' => 'Usted no va a recibir alertas en esta ubicación hasta que confirme su pedido.',
 	);
 ?>

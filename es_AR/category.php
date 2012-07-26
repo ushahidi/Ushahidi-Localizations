@@ -17,9 +17,12 @@
 		'required' => 'El campo título es obligatorio.',
 	),
 	'parent_id' => array(
+		'already_parent' => 'Esta categoría ya tiene sub-categorías.',
 		'exists' => 'La categoría padre no existe.',
 		'numeric' => 'El campo categoría padre debe ser un número.',
+		'parent_trusted' => 'No puede utilizar una categoría especial como nivel superior',
 		'required' => 'El campo categoría padre es obligatorio.',
 		'same' => 'La categoría y la categoría padre no pueden ser iguales.',
+		'special' => 'Las categorías especial no pueden tener sub-categorías',
 	));
 ?>

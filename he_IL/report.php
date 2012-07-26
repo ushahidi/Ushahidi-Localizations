@@ -1,12 +1,25 @@
 <?php
 	$lang = array(
 	'comments_form_error' => 'שגיאה!',
+	'country_name' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'custom_field' => array(
 		'values' => 'אנא הכנס ערך תקין עבור אחד מפרטי הטופס המותאמים אישית',
 	),
 	'data_include' => array(
 		'between' => 'אנא בחר פריט תקין על מנת לכלול אותו בהורדה',
 		'numeric' => 'אנא בחר פריט תקין על מנת לכלול אותו בהורדה',
+	),
+	'data_active' => array(
+		'between' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+	),
+	'data_verified' => array(
+		'between' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
 	),
 	'data_point' => array(
 		'between' => 'אנא בחר סוג תקין של דיווח לצורך הורדתו',
@@ -63,6 +76,7 @@
 	'incident_title' => array(
 		'length' => 'על שדה הכותרת להכיל בין 3 ל- 200 תווים בדיוק.',
 		'required' => 'חובה למלא את שדה הכותרת.',
+		'csrf' => 'Possible CSRF attack. Did you really mean to create/edit a report?'
 	),
 	'incident_verified' => array(
 		'between' => 'אנא הזן ערך תקין לאימות הדיווח',

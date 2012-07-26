@@ -500,7 +500,7 @@
 	'success' => 'Success!',
 	'successfuly_imported' => 'Succesfully imported',
 	'surname' => 'Surname',
-	'survey' => '新开线路',
+	'survey' => 'Survey',
 	'system' => 'System',
 	'tcp_port' => 'TCP Port',
 	'themes' => 'Themes',
