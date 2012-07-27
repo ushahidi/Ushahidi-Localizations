@@ -7,7 +7,7 @@
 		'required' => '체크박스 체크 시  이메일 입력은 필수입니다.',
 	),
 	'alert_country' => array(
-		'single_country' => '이 배치는 한 국가에만 해당됩니다. 알림 위치가 국가 내부인지 확인해주세요. This deployment spans within one country only. Please make sure the alert location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+		'single_country' => '이 배치는 한 국가에만 해당됩니다. 알림 위치가 국가 내부인지 확인해주세요. This deployment spans within one country only. Please make sure the alert location is within the country %s.'
 	),
 	'alert_lat' => array(
 		'between' => '지도에서 유효한 위치를 선택하지 않았습니다.',
