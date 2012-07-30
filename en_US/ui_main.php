@@ -501,7 +501,7 @@
 	'success' => 'Success!',
 	'successfuly_imported' => 'Succesfully imported',
 	'surname' => 'Surname',
-	'survey' => 'Survey',
+	'survey' => '新开线路',
 	'system' => 'System',
 	'tcp_port' => 'TCP Port',
 	'themes' => 'Themes',
