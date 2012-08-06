@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-06 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:39+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-06 06:05+0000\n"
+"PO-Revision-Date: 2012-08-06 08:45+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -84,7 +85,7 @@ msgstr "Inschakelen"
 #: installer.error_summary
 msgctxt "installer.error_summary"
 msgid "Listed below is a summary of the errors we encountered."
-msgstr ""
+msgstr "Hieronder zie je een lijst van de fouten die we tegenkwamen."
 
 #: installer.files_location_text
 msgctxt "installer.files_location_text"
@@ -178,32 +179,32 @@ msgstr "Mail server adres"
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Voorbeelden: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Paswoord voor de mailserver"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr ""
+msgstr "Het paswoord dat je gewoonlijk gebruikt om in te loggen op je e-mail"
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Poort voor de mailserver"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Veel gebruikte poorten: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Type mailserver"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -216,7 +217,7 @@ msgstr ""
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Gebruikersnaam voor de mailserver"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
@@ -256,7 +257,7 @@ msgstr "Wachtwoord"
 #: installer.password_description
 msgctxt "installer.password_description"
 msgid "Your database password"
-msgstr ""
+msgstr "Het paswoord voor je database"
 
 #: installer.previous
 msgctxt "installer.previous"
@@ -266,7 +267,7 @@ msgstr "Vorige"
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr ""
+msgstr "Geleive je Apache server te herstarten."
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
