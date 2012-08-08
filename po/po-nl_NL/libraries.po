@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-08 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:41+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-08 06:05+0000\n"
+"PO-Revision-Date: 2012-08-08 11:48+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,7 +31,7 @@ msgctxt "libraries.api_library_not_found"
 msgid ""
 "The API library: <strong>%s</strong> for the <strong>%s</strong> class could"
 " not be found. Please check your API task routing table."
-msgstr ""
+msgstr "De API-bibliotheek: <strong>%s</strong> voor de <strong>%s</strong> klasse is niet gevonden. Gelieve je API taakrouteringstabel na te kijken."
 
 #: libraries.askimet_invalid_apikey
 msgctxt "libraries.askimet_invalid_apikey"
@@ -73,7 +74,7 @@ msgstr "Unsupported sending method!"
 msgctxt "libraries.invalid_api_library"
 msgid ""
 "The API library %s is invalid. All API libraries must be subclasses of %s."
-msgstr ""
+msgstr "De API-bibliotheek %s is ongeldig. Alle API-bibliotheken moeten subklasses zijn van %s."
 
 #: libraries.upgrade_directory_not_deleted
 msgctxt "libraries.upgrade_directory_not_deleted"
@@ -114,4 +115,4 @@ msgstr "The downloaded ushahidi zip file <code>%s</code>, could not be written"
 #: libraries.riverid_variable_not_available
 msgctxt "libraries.riverid_variable_not_available"
 msgid "%s is not available in the RiverID class."
-msgstr ""
+msgstr "%s is niet beschikbaar in de RiverID klasse."

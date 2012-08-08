@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-08 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:29+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-08 06:05+0000\n"
+"PO-Revision-Date: 2012-08-08 11:49+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr "Geef een geldige veiligheidscode"
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "Gelieve een geldige beveiligingscode in te geven."
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -73,4 +74,4 @@ msgstr "Onderwerp is verplicht."
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "Er was een fout bij het verzenden van je bericht."
