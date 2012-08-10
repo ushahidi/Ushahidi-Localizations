@@ -1,14 +1,14 @@
 <?php
 	$lang = array(
 	'page_title' => array(
-		'required' => 'Please enter a Page Title.',
-		'length' => 'Page Title must be at least 3 and no more than 150 characters long.'
+		'required' => 'Ве молиме внесете наслов на страницата.',
+		'length' => 'Насловот на страницата мора да биде најмалку 3 а не повеќе од 150 карактери.'
 	),
 	'page_tab' => array(
-		'required' => 'Please enter a Page Tab Name.'
+		'required' => 'Ве молиме внесете име за табот на страницата.'
 	),
 	'page_description' => array(
-		'required' => 'Please enter a Page Description.'
+		'required' => 'Ве молиме внесете опис на страницата.'
 	)
 	);
 
