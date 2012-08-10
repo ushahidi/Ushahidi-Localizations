@@ -1,30 +1,30 @@
 <?php
 	$lang = array(
-	'admin_footer' => 'This message was sent from your website.',
-	'admin_login_url' => 'Administrator Login',
+	'admin_footer' => 'Оваа порака е пратена од вашата страница.',
+	'admin_login_url' => 'Администраторско најавување',
 	'admin_new_comment' => array(
-		'message' => 'A new comment has been submitted to your website in response to:',
-		'subject' => 'New Comment',
+		'message' => 'Нов коментар е оставен на вашата страница како одговор на:',
+		'subject' => 'Нов коментар',
 	),
 	'admin_new_email' => array(
-		'message' => 'A new email message has been submitted to your website.',
-		'subject' => 'New Email Message',
+		'message' => 'Нова email порака е оставена на вашата страница.',
+		'subject' => 'Нова email порака',
 	),
 	'admin_new_report' => array(
-		'message' => 'A new report has been submitted to your website.',
-		'subject' => 'New Report',
+		'message' => 'Нова пријава е оставена на вашата страница.',
+		'subject' => 'Нова пријава',
 	),
 	'admin_new_sms' => array(
-		'message' => 'A new text message has been submitted to your website.',
-		'subject' => 'New Text Message',
+		'message' => 'Нова текстуална порака е оставена на вашата страница.',
+		'subject' => 'Нова текстуална порака',
 	),
 	'member_new_alert' => array(
-		'message' => 'You Have Received a New Alert',
-		'subject' => 'New Alert!'
+		'message' => 'Примивте ново предупредување',
+		'subject' => 'Ново предупредување!'
 	),
 	'member_new_message' => array(
-		'message' => 'You Have Received a Private Message',
-		'subject' => 'New Private Message',
-		'footer' => 'To Reply Please Go To: '
+		'message' => 'Имате приватна порака',
+		'subject' => 'Нова приватна порака',
+		'footer' => 'За да одговорите ве молиме одете на: '
 	));
 ?>

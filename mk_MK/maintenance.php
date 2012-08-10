@@ -1,5 +1,5 @@
 <?php
 	$lang = array(
-	'message' => 'Sorry, our site is currently down for maintenance. Please try again in a few minutes.'
+	'message' => 'Се извинуваме, нашата страница е во моментов не достапна поради одржување. Ве молиме обидете се повторно за неколку минути.'
 	);
 ?>

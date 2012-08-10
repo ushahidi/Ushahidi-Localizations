@@ -1,16 +1,16 @@
 <?php
 	$lang = array(
-	'date' => 'DATE',
+	'date' => 'ДАТУМ',
 	'feed_name' => array(
-		'length' => 'The feed name field must be at least 3 and no more 
-			70 characters long.',
-		'required' => 'Please enter the name of the feed.',
+		'length' => 'Полето за име треба содржи најмалу 3 а не повеќе од
+			70 карактери.',
+		'required' => 'Ве молиме внесете го името на новостите.',
 	),
 	'feed_url' => array(
-		'required' => 'Please enter feed\'s URL.',
-		'url' => 'Please enter a valid URL, e.g. http://www.ushahidi.com',
+		'required' => 'Ве молиме внесете го URL на новостите.',
+		'url' => 'Ве молиме внесете валидно URL, пр. http://www.ushahidi.com',
 	),
-	'source' => 'SOURCE',
-	'title' => 'Title',
+	'source' => 'ИЗВОР',
+	'title' => 'Наслов',
 	);
 ?>

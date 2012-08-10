@@ -1,8 +1,8 @@
 <?php
 	$lang = array(
-	'comments_form_error' => 'error!',
+	'comments_form_error' => 'грешка!',
 	'country_name' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+		'single_country' => 'Оваа инстанца се протега само низ една држава. Ве молиме осигурајте се дека локацијата на пријавата е во рамките на таа држава '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
 	),
 	'custom_field' => array(
 		'values' => 'Please enter a valid value for one of your custom form items.',

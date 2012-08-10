@@ -1,18 +1,18 @@
 <?php
 	$lang = array(
 	'contact_captcha' => array(
-		'default' => 'Please enter a valid security code.',
-		'required' => 'Please enter the security code.',
+		'default' => 'Ве молиме внесете валиден сигурносен код.',
+		'required' => 'Ве молиме внесете го сигурносниот код.',
 	),
 	'contact_email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address.',
-		'required' => 'Please provide a valid email address.',
+		'email' => 'Email полето не изгледа како да содржи валидна email адреса?',
+		'required' => 'Ве молиме внесете валидна email адреса.',
 	),
 	'contact_message' => array(
-		'required' => 'The message field is required.',
+		'required' => 'Пораката е задолжителна.',
 	),
 	'contact_subject' => array(
-		'length' => 'The subject field must be at least 3 characters long.',
-		'required' => 'The subject field is required.',
+		'length' => 'Насловот на пораката мора да е барем 3 карактери долг.',
+		'required' => 'Насловот на пораката е задолжително поле',
 	));
 ?>

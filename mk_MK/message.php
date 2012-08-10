@@ -1,22 +1,22 @@
 <?php
 	$lang = array(
 	'captcha' => array(
-		'default' => 'Please enter a valid security code.',
-		'required' => 'Please enter the security code.',
+		'default' => 'Ве молиме внесете валиден сигурносен код.',
+		'required' => 'Ве молиме внесете го сигурносниот код.',
 	),
 	'email' => array(
-		'email' => 'The Email field does not appear to contain a valid email address.',
-		'length' => 'The Email field must be at least 4 and no more 64 characters long.',
-		'required' => 'The Email field is required if the checkbox is checked.',
+		'email' => 'Email полето не изгледа како да содржи валидна email адреса?',
+		'length' => 'Email полето мора да биде најмалку 4 а не подолго 64 карактери.',
+		'required' => 'Email полето е задолжително ако сте штиклирале.',
 	),
 	'message' => array(
-		'required' => 'The comments field is required.',
+		'required' => 'Полето со коментари е задолжително',
 	),
 	'name' => array(
-		'length' => 'The name field must be at least 3 characters long.',
-		'required' => 'The name field is required.',
+		'length' => 'Името мора да е барем 3 карактери долго.',
+		'required' => 'Полето со име е задолжително.',
 	),
 	'phone' => array(
-		'length' => 'The phone field is not valid.',
+		'length' => 'Полето за телефон не е валидно',
 	));
 ?>
