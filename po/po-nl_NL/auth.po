@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-09 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:24+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-09 18:05+0000\n"
+"PO-Revision-Date: 2012-08-09 20:16+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,22 +54,22 @@ msgstr "De gebruikersnaam bevat ongeldige tekens"
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Het paswoordveld moet minstens 8 tekens lang zijn."
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Gelieve na te kijken of je het juiste e-mailadres en paswoord hebt ingevuld."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Gelieve hetzelfde paswoord in te vullen in beide paswoordvelden."
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Het paswoordveld is verplicht."
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
@@ -87,22 +88,22 @@ msgstr ""
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Het paswoordveld moet minstens 8 tekens lang zijn."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Gelieve na te kijken of je het juiste e-mailadres en paswoord hebt ingevuld."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Gelieve hetzelfde paswoord in te vullen in beide paswoordvelden."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Het paswoordveld is verplicht."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
@@ -114,7 +115,7 @@ msgstr ""
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "Er is een fout opgetreden bij de poging om je in te loggen."
 
 #: auth.password.length
 msgctxt "auth.password.length"
@@ -233,4 +234,4 @@ msgstr "De SUPER ADMIN rol kan niet worden gewijzigd."
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "Mogelijke CSRF-aanval. Wou je echt een gebruiker aanmaken/bewerken?"
