@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-11 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:55+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-11 06:05+0000\n"
+"PO-Revision-Date: 2012-08-11 06:13+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,7 @@ msgstr "Acties"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Toevoegen aan categorie"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -87,12 +88,12 @@ msgstr "Anonymous"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Iedereen"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Overal"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
@@ -107,7 +108,7 @@ msgstr "API Logs"
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "API instellingen"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
@@ -152,7 +153,7 @@ msgstr ""
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr ""
+msgstr "Ben je zeker dat je deze foto wil verwijderen?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
@@ -162,7 +163,7 @@ msgstr ""
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Toewijzen"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
@@ -267,7 +268,7 @@ msgstr "Code version out of sync."
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Kleur"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
@@ -287,7 +288,7 @@ msgstr "The User Has Been"
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Aantal"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
@@ -312,7 +313,7 @@ msgstr ""
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
@@ -393,7 +394,7 @@ msgstr "Description"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Uitgeschakeld"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -483,7 +484,7 @@ msgstr "Every Twelve Hours"
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimenteel"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
@@ -508,7 +509,7 @@ msgstr "feeds"
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr ""
+msgstr "Keuzelijst"
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
@@ -518,12 +519,12 @@ msgstr "Default Value"
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "Datatype"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
@@ -533,7 +534,7 @@ msgstr ""
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr ""
+msgstr "Numeriek"
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
@@ -548,7 +549,7 @@ msgstr "Height (In Rows)"
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "Verborgen veld"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
@@ -563,12 +564,12 @@ msgstr "Field Name"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "Afwisselen"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "Nee"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
@@ -608,7 +609,7 @@ msgstr "Text Area Field (Free Text)"
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "Datumveld"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
@@ -986,7 +987,7 @@ msgstr "Niet gevonden"
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr ""
+msgstr "Geen gegevens. Er zijn geen resultaten om weer te geven."
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
@@ -1011,7 +1012,7 @@ msgstr ""
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID's"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1115,32 +1116,32 @@ msgstr "Data was not sent by post method"
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Voorvertonen"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Bericht"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Privéberichten"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Privébericht verzonden"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Onderwerp"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "Aan"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
@@ -1200,7 +1201,7 @@ msgstr "Reset"
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Antwoord"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1210,7 +1211,7 @@ msgstr "Resultaten"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "Intrekken"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1279,7 +1280,7 @@ msgstr "Sender"
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "Sturen naar"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
@@ -1289,7 +1290,7 @@ msgstr "This message was sent from your website at "
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Servertijd"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"

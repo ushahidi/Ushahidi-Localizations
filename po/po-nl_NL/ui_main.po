@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-11 00:05+0000\n"
-"PO-Revision-Date: 2012-08-10 18:14+0000\n"
+"POT-Creation-Date: 2012-08-11 06:05+0000\n"
+"PO-Revision-Date: 2012-08-11 06:22+0000\n"
 "Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgstr "Toegevoegd door"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Bijkomende gegevens"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -448,7 +448,7 @@ msgstr "Details van de opmerking"
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
-msgstr ""
+msgstr "Je instellingen zijn bewaard!"
 
 #: ui_main.configure
 msgctxt "ui_main.configure"
@@ -484,7 +484,7 @@ msgstr "Bericht"
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "Je bericht is verstuurd!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
@@ -519,7 +519,7 @@ msgstr "Aanmaken"
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
-msgstr ""
+msgstr "Aanmaken/bewerken"
 
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
@@ -654,7 +654,7 @@ msgstr "Direct bericht"
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Uitgeschakeld"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
@@ -669,12 +669,12 @@ msgstr "Downloaden"
 #: ui_main.edit
 msgctxt "ui_main.edit"
 msgid "Edit"
-msgstr ""
+msgstr "Bewerken"
 
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr ""
+msgstr "Formuliervelden bewerken"
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
@@ -694,7 +694,7 @@ msgstr "e-mail adres"
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr ""
+msgstr "Instellingen mailserver"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
@@ -704,12 +704,12 @@ msgstr ""
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Paswoord mailserver"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Mailserverpoort"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
@@ -719,7 +719,7 @@ msgstr ""
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Soort mailserver"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
@@ -751,17 +751,17 @@ msgstr ""
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Veelgebruikte poorten: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Voorbeelden: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "Voorbeelden: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
@@ -771,12 +771,12 @@ msgstr ""
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---LEEG---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr ""
+msgstr "tot"
 
 #: ui_main.error
 msgctxt "ui_main.error"
@@ -1255,7 +1255,7 @@ msgstr "Opmerkingen"
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Minder informatie"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1336,27 +1336,27 @@ msgstr ""
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Inloggen met"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "e-mail en paswoord"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Inschrijven"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Een account aanmaken"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
@@ -1368,7 +1368,7 @@ msgstr ""
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Bevestiging van inschrijving"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
@@ -1398,7 +1398,7 @@ msgstr "Markeren als ongelezen"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Maximum bestandsgrootte"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1413,7 +1413,7 @@ msgstr "Media filter"
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Leden"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
@@ -1545,12 +1545,12 @@ msgstr ""
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Geen gegevens"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Geen"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1595,7 +1595,7 @@ msgstr "Geen resultaten"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Uit"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1605,7 +1605,7 @@ msgstr "Officieel &amp; openbaar nieuws"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "Aan"
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1780,7 +1780,7 @@ msgstr ""
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "per"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1795,7 +1795,7 @@ msgstr "Telefoon"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "Foto's"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
@@ -1873,7 +1873,7 @@ msgstr ""
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "Profielkleur"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
