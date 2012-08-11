@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-10 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:57+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-10 18:05+0000\n"
+"PO-Revision-Date: 2012-08-10 18:14+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr "Over "
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr ""
+msgstr "Toegang"
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
@@ -217,7 +218,7 @@ msgstr "Alle berichten"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "Ooit"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -227,7 +228,7 @@ msgstr "en"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -252,7 +253,7 @@ msgstr "Dit bericht goedkeuren"
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
 msgid "Approximate"
-msgstr ""
+msgstr "Ongeveer"
 
 #: ui_main.archive
 msgctxt "ui_main.archive"
@@ -372,12 +373,12 @@ msgstr ""
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "Paswoord veranderen"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Mijn afbeelding wijzigen"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -397,7 +398,7 @@ msgstr ""
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "Veldtype kiezen"
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
@@ -407,12 +408,12 @@ msgstr ""
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "Leegmaken"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "Kaart leegmaken"
 
 #: ui_main.close
 msgctxt "ui_main.close"
@@ -432,7 +433,7 @@ msgstr "Kleur"
 #: ui_main.comment
 msgctxt "ui_main.comment"
 msgid "Comment"
-msgstr ""
+msgstr "Opmerking"
 
 #: ui_main.comments
 msgctxt "ui_main.comments"
@@ -442,7 +443,7 @@ msgstr "Commentaren"
 #: ui_main.comment_details
 msgctxt "ui_main.comment_details"
 msgid "Comment Details"
-msgstr ""
+msgstr "Details van de opmerking"
 
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
@@ -468,17 +469,17 @@ msgstr "Contact"
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "Beveiligingscode"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "Je e-mailadres"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "Bericht"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
@@ -488,22 +489,22 @@ msgstr ""
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr ""
+msgstr "Je naam"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr ""
+msgstr "Je telefoonnummer"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr ""
+msgstr "Bericht sturen"
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr ""
+msgstr "Onderwerp van bericht"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
@@ -513,7 +514,7 @@ msgstr "Copyright © 2010 Ushahidi.com. Alle rechten voorbehouden."
 #: ui_main.create
 msgctxt "ui_main.create"
 msgid "Create"
-msgstr ""
+msgstr "Aanmaken"
 
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
@@ -528,7 +529,7 @@ msgstr "Nieuwe maken"
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "Nieuw paswoord aanmaken"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -543,12 +544,12 @@ msgstr ""
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "Huidig paswoord"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Eigen velden"
 
 #: ui_main.data
 msgctxt "ui_main.data"
@@ -573,7 +574,7 @@ msgstr "Datum &amp; tijd"
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr ""
+msgstr "dag"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
