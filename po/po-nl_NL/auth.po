@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-13 00:05+0000\n"
-"PO-Revision-Date: 2012-08-09 20:16+0000\n"
+"POT-Creation-Date: 2012-08-13 06:05+0000\n"
+"PO-Revision-Date: 2012-08-13 07:53+0000\n"
 "Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -83,7 +83,7 @@ msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "Het huidig paswoord dat je invoerde voor je account is onjuist. Gelieve nog een keer te proberen."
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
@@ -172,7 +172,7 @@ msgstr "E-mail is verplicht."
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "Alleen een superbeheerder mag een superbeheerder wijzigen of een gebruiker promoveren tot beheerder."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"

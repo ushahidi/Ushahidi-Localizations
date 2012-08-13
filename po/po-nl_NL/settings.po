@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-13 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:51+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-13 06:05+0000\n"
+"PO-Revision-Date: 2012-08-13 07:59+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -93,12 +94,12 @@ msgstr "The Akismet field does not appear to contain a valid value?"
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "Er is iets misgegaan bij het uploaden van je vlagafbeelding"
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "De afmeting van je vlag overschrijdt de limiet voor deze upload."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -304,7 +305,7 @@ msgstr "The Google Analytics field must contain a valid Web Property ID in the f
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "HTTPS inschakelen"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -323,7 +324,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -390,7 +391,7 @@ msgstr "Map provider"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Tijdlijn van de kaart"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -445,7 +446,7 @@ msgstr "Akismet Key"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Sitevlag"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -470,7 +471,7 @@ msgstr ""
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "Auteursrechtenverklaring van de site"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
@@ -485,12 +486,12 @@ msgstr ""
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Vlagafbeelding verwijderen"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Standaardpictogram verwijderen"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -566,7 +567,7 @@ msgstr "Site Language"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Gebruikers handmatig goedkeuring"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -606,7 +607,7 @@ msgstr "Site Tagline"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Tijdzone"
 
 #: settings.site.title
 msgctxt "settings.site.title"

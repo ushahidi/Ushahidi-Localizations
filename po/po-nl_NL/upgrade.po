@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-13 00:05+0000\n"
-"PO-Revision-Date: 2012-08-06 08:49+0000\n"
+"POT-Creation-Date: 2012-08-13 06:05+0000\n"
+"PO-Revision-Date: 2012-08-13 08:24+0000\n"
 "Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "Automatisch upgraden"
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "Beschikbare updates"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
@@ -44,12 +44,12 @@ msgstr "Upgrade"
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr ""
+msgstr "Ik zal dus je database upgraden van versie"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr ""
+msgstr "naar de nieuwste databaseversie"
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
@@ -83,7 +83,7 @@ msgstr "De upgrade is niet gelukt"
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "Handmatige upgrade"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
@@ -146,7 +146,7 @@ msgstr ""
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "Klik de knop hieronder voor automatisch upgraden"
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
@@ -184,7 +184,7 @@ msgstr "FTP gebruikersnaam:"
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "Je hebt de meest recente versie van Ushahidi."
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
@@ -204,7 +204,7 @@ msgstr ""
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "Database:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
@@ -224,7 +224,7 @@ msgstr ""
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "Logbestand"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded "
@@ -234,7 +234,7 @@ msgstr ""
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "Het downloaden is mislukt."
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
@@ -244,7 +244,7 @@ msgstr ""
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "Het uitpakken is mislukt."
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"

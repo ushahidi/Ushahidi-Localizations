@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-13 00:05+0000\n"
-"PO-Revision-Date: 2012-08-11 06:22+0000\n"
+"POT-Creation-Date: 2012-08-13 06:05+0000\n"
+"PO-Revision-Date: 2012-08-13 08:06+0000\n"
 "Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -29,12 +29,12 @@ msgstr "Toegang"
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr ""
+msgstr "Toegangslimieten"
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr ""
+msgstr "Accountnaam"
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
@@ -333,7 +333,7 @@ msgstr "Blog"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Profielen doorbladeren"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -368,7 +368,7 @@ msgstr "Categorie naam"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Datumbereik wijzigen"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
@@ -393,7 +393,7 @@ msgstr ""
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "Of kies je eigen datumbereik"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
@@ -539,7 +539,7 @@ msgstr "Bericht maken"
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
 msgid "Credibility"
-msgstr ""
+msgstr "Geloofwaardigheid"
 
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
@@ -609,7 +609,7 @@ msgstr "Verwijderen niet mogelijk"
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "Laatste verwijderen"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
@@ -619,7 +619,7 @@ msgstr "Verwijder dit bericht"
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "Geselecteerde verwijderen"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -724,7 +724,7 @@ msgstr "Soort mailserver"
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Gebruikersnaam voor de mailserver"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
@@ -741,7 +741,7 @@ msgstr ""
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "Sommige servers eisen een volledig e-mailadres"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
@@ -796,12 +796,12 @@ msgstr "Nederland"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Externe programma's"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Externe videolink"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -868,12 +868,12 @@ msgstr "Filters"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Verslagen filteren"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Verslagen filteren op"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
@@ -923,12 +923,12 @@ msgstr ""
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr ""
+msgstr "Dit formulier bewerken"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr ""
+msgstr "Het formulier is"
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
@@ -948,7 +948,7 @@ msgstr "Volledige naam"
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr ""
+msgstr "Geolocatie beschikbaar"
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
@@ -973,7 +973,7 @@ msgstr ""
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Uitvoeren"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -993,7 +993,7 @@ msgstr "Meehelpen"
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "Verborgen"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
@@ -1018,7 +1018,7 @@ msgstr "Hoe plaats ik een bericht?"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
