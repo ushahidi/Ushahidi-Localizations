@@ -1,5 +1,11 @@
 #!/bin/bash
 # Run full sync
+# Pulls translations from Transifex and converts to PHP
+# Converts source strings to POT files and pushes to transifex
+#
+# This assumes there is a Ushahidi deployment on the same level
+# as the Ushahidi-Localization repo, with the kohana-i18n-manager
+# module enabled. (https://github.com/rjmackay/kohana-i18n-manager)
 
 cd `dirname $0`/..
 
