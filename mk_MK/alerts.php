@@ -5,7 +5,4 @@
 // I18n generated at: 2012-08-15 04:42+0000
 // PO revision date:  2012-08-15 04:40+0000
 $lang = array(
-	'alert_country' => array(
-		'single_country' => 'This deployment spans within one country only. Please make sure the alert location is within the country Haiti.',
-	) ,
 );
