@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/alerts.php, ru_RU/alerts.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:23+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ru_RU\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -21,9 +18,7 @@ msgstr "E-mail адрес введен неверно."
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid ""
-"That Email address has already been registered to receive alerts for that "
-"location."
+msgid "That Email address has already been registered to receive alerts for that location."
 msgstr "Этот e-mail уже подписан для оповещений по данной локации"
 
 #: alerts.alert_email.length
@@ -38,9 +33,7 @@ msgstr "Требуется адрес e-mail, или уберите галочк
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid ""
-"This deployment spans within one country only. Please make sure the alert "
-"location is within the country %s."
+msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
 msgstr ""
 
 #: alerts.alert_lat.between
@@ -65,22 +58,17 @@ msgstr "Вы неправильно выбрали местоположение 
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid ""
-"The Mobile Phone field does not seem to contain the right amount of digits."
+msgid "The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr "Похоже, мобильный номер введен неправильно, введите правильный номер."
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid ""
-"That Mobile Phone Number has already been registered to receive alerts for "
-"that location."
+msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
 msgstr "Этот номер уже подписан для оповещений по данной локации"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid ""
-"The Mobile Phone field does not appear to contain a valid phone. Please "
-"input numbers only including Country Code."
+msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
 msgstr "Номер телефона введен неправильно, введите только цифры с кодом страны."
 
 #: alerts.alert_mobile.one_required
@@ -120,16 +108,12 @@ msgstr "Этот код уже был использован!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid ""
-"This verification code was not found! Please confirm that you have the "
-"correct URL."
+msgid "This verification code was not found! Please confirm that you have the correct URL."
 msgstr "Код подтверждения не был найден. Введите правильный URL."
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid ""
-" Your code was verified correctly. You will now receive alerts about "
-"incidents as they happen."
+msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
 msgstr "Ваш код подтвержден. Теперь вы будете получать оповещения о событиях."
 
 #: alerts.confirm_request
@@ -144,9 +128,7 @@ msgstr "Назад, для создания подписок."
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid ""
-"Your Email Alert request has been created and verification message has been "
-"sent to "
+msgid "Your Email Alert request has been created and verification message has been sent to "
 msgstr "Запрос на оповещения по e-mail был создан, через некоторое время вы получите письмо с кодом подтверждения на адрес "
 
 #: alerts.email_code
@@ -171,16 +153,12 @@ msgstr "Не удалось обработать код подтверждени
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid ""
-"Your Mobile Alert request has been created and verification message has been"
-" sent to "
+msgid "Your Mobile Alert request has been created and verification message has been sent to "
 msgstr "Запрос на подписку по SMS был создан, через некоторое время вы получите SMS с кодом подтверждения"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid ""
-"Please enter the SMS confirmation code you received on your mobile phone "
-"below: "
+msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
 msgstr "Введите код подтверждения который был отправлен на SMS: "
 
 #: alerts.mobile_error_head
@@ -200,9 +178,7 @@ msgstr "Карта настроена неверно для того, чтобы
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid ""
-"You have received this email because you subscribed to receive alerts. If "
-"you do not wish to receive future alerts go to "
+msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
 msgstr "Вы получили это письмо т. к. подписались на оповещения Ушахиди. Если вы хотите отписаться от них, зайдите: "
 
 #: alerts.unsubscribed
@@ -212,9 +188,7 @@ msgstr "Вы больше не будете получать оповещени�
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid ""
-"We were not able to unsubscribe you. Please confirm that you have the "
-"correct URL."
+msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
 msgstr "Мы не смогли отписать вас от оповещений. Пожалуйста, проверьте адрес."
 
 #: alerts.verification_email_subject
@@ -224,6 +198,6 @@ msgstr "Подтверждение на подписку оповещений Us
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid ""
-"You will not receive alerts on this location until you confirm your request."
+msgid "You will not receive alerts on this location until you confirm your request."
 msgstr "Вы не сможете получать оповещения по данной локации, пока не введете код подтверждения."
+

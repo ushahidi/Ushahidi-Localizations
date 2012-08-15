@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/stats.php, bg_BG/stats.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg_BG\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: bg_BG\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -31,10 +28,7 @@ msgstr "Значение на категорията"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid ""
-"This chart gives you a linear view of the reports by category over time.  "
-"Scroll from left to right to see a comparative view of the different "
-"categories. Mouse over the graph for more details."
+msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
 msgstr "Тази графика показва промяната на броя сигнали в различните категории през времето. Минете отляво надясно за да видите сравнителен преглед на различните категории. Когато минете с мишката отгоре ще видите повече подробности"
 
 #: stats.choose_date_range
@@ -59,9 +53,7 @@ msgstr "Разбивка по държави"
 
 #: stats.description
 msgctxt "stats.description"
-msgid ""
-"This is the statistics section and will contain a general description here "
-"soon. For now, browse around using the sub category links above."
+msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
 msgstr "Здравейте, това е секцията за статистика. Скоро ще има обща информация тук. За сега разгледайте като изберете категории горе вляво"
 
 #: stats.error
@@ -161,11 +153,7 @@ msgstr "Уникални посетители"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid ""
-"The number of individuals coming to your deployment. Unique visitors are "
-"determined using cookies. Visitors that do not have cookies enabled will be "
-"identified using a simple heuristic taking into account IP address, "
-"resolution, browser, plugins, OS, etc."
+msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
 msgstr "Броя хора, които са посетили сайта. Уникалните посетители се засичат с cookie-а. Когато посетителя не е включил cookie-тата, разпознаването става по IP адрес, резолюция, операционна система и прочие."
 
 #: stats.unverified
@@ -190,7 +178,6 @@ msgstr "Посещения"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid ""
-"A visit is a record of a unique visitor coming to the site more than 30 "
-"minutes past his/her last pageview."
+msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
 msgstr "Посещението е запис на един потребител, който се влиза в сайта поне 30 минути след последното си влизане."
+

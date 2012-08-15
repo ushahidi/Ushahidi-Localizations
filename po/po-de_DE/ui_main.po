@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/ui_main.php, de_DE/ui_main.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:57+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de_DE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: de_DE\n"
 
 #: ui_main.about
 msgctxt "ui_main.about"
@@ -22,17 +19,17 @@ msgstr "Über"
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr "Access"
+msgstr ""
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr "Access Limits"
+msgstr ""
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr "Account Name"
+msgstr ""
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
@@ -107,7 +104,7 @@ msgstr "Übersetzung hinzufügen"
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr "Administration"
+msgstr ""
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
@@ -144,6 +141,11 @@ msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
 msgstr "Empfange Alarme"
 
+#: ui_main.alert_has_been
+msgctxt "ui_main.alert_has_been"
+msgid "Alert has been"
+msgstr ""
+
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
@@ -151,16 +153,12 @@ msgstr "Mobiltelefon:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
-msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
+msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
 msgstr "oder positionieren Sie einen Spot auf der Karte um Alarme zu empfangen, wenn sich im Umkreis des eingestellten Bereiches etwas ereignet."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
-msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
+msgid "If you can't find your location, please click on the map to pinpoint the correct location."
 msgstr ""
 
 #: ui_main.alerts_rss
@@ -226,7 +224,7 @@ msgstr "und"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr "API"
+msgstr ""
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -326,7 +324,7 @@ msgstr ""
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr "Blog"
+msgstr ""
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
@@ -455,8 +453,7 @@ msgstr "Konfiguriere"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
-msgid ""
-"You have successfully confirmed your email address! Please login below."
+msgid "You have successfully confirmed your email address! Please login below."
 msgstr ""
 
 #: ui_main.contact
@@ -552,7 +549,7 @@ msgstr ""
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr "Information"
+msgstr ""
 
 #: ui_main.date
 msgctxt "ui_main.date"
@@ -562,7 +559,7 @@ msgstr "Datum"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr "(mm/dd/yyyy)"
+msgstr ""
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -627,7 +624,7 @@ msgstr "Löschen Spam"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr "Demo"
+msgstr ""
 
 #: ui_main.description
 msgctxt "ui_main.description"
@@ -642,7 +639,7 @@ msgstr "Bsp: Ecke Kaufhaus, Hauptstr Kreuzung Jobweg"
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr "Details"
+msgstr ""
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
@@ -662,7 +659,7 @@ msgstr "Ungeprüft"
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr "Download Reports"
+msgstr ""
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -682,7 +679,7 @@ msgstr "Meldungen bearbeiten"
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
@@ -697,7 +694,7 @@ msgstr "Mail Server Einstellungen"
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr "Mail Server Host"
+msgstr ""
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
@@ -707,7 +704,7 @@ msgstr "Mail Server Passwort"
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "Mail Server Port"
+msgstr ""
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
@@ -731,9 +728,7 @@ msgstr "Ihre Einstelungen müssen im Zusammenhang stehen mit Ihrer EMail-Adresse
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
-msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
+msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
 msgstr "Um Berichte per Mail zu empfangen, geben Sie bitte Ihre Account-Einstellungen unten ein. Beachten Sie das Ihre EMails empfangen werden von: "
 
 #: ui_main.email_settings_comment_1
@@ -804,7 +799,7 @@ msgstr ""
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr "Feed"
+msgstr ""
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
@@ -813,15 +808,13 @@ msgstr "Feedback abgeben"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
-msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+msgid "Please give us feedback about your experience by clicking on the button below."
 msgstr "Bite geben Sie uns Ihre Erfahrungen weiter indem Sie den Button anklicken."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr "Feeds"
+msgstr ""
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
@@ -836,12 +829,12 @@ msgstr "Feed-Elemente"
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr "Feed Name"
+msgstr ""
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr "Feed URL"
+msgstr ""
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
@@ -976,7 +969,7 @@ msgstr ""
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr "Hashtag"
+msgstr ""
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1021,7 +1014,7 @@ msgstr ""
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1125,9 +1118,7 @@ msgstr "Geben Sie Ihre genaue Position ein"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
+msgid "Your account doesn't have the proper permission to fully log you in. Please contact the administrator."
 msgstr ""
 
 #: ui_main.in_response_to
@@ -1168,27 +1159,27 @@ msgstr "Titel des Eintrages"
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr "Key"
+msgstr ""
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr "KMZ/KML File"
+msgstr ""
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr "Upload KMZ/KML File"
+msgstr ""
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr "KML URL"
+msgstr ""
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr "Laconica"
+msgstr ""
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1238,12 +1229,12 @@ msgstr "Der Layer wurde"
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr "Layer Name"
+msgstr ""
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr "Layer URL"
+msgstr ""
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
@@ -1258,7 +1249,7 @@ msgstr ""
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr "Level"
+msgstr ""
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
@@ -1268,7 +1259,7 @@ msgstr "Dieses Level wurde"
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr "Level Name"
+msgstr ""
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
@@ -1278,7 +1269,7 @@ msgstr "begrenzt"
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr "Link"
+msgstr ""
 
 #: ui_main.list
 msgctxt "ui_main.list"
@@ -1308,7 +1299,7 @@ msgstr "Stadt Staat und/oder Land"
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr "Login"
+msgstr ""
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
@@ -1322,8 +1313,7 @@ msgstr ""
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
+msgid "Email address doesn't exist. Try a different address or create an account."
 msgstr ""
 
 #: ui_main.login_select_openid
@@ -1358,9 +1348,7 @@ msgstr ""
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
+msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
 msgstr ""
 
 #: ui_main.login_signup_confirmation_subject
@@ -1401,12 +1389,12 @@ msgstr ""
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr "Media"
+msgstr ""
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr "Media Filter"
+msgstr ""
 
 #: ui_main.members
 msgctxt "ui_main.members"
@@ -1475,15 +1463,13 @@ msgstr "Umfasst diese Ushahidi Deployment mehrere Länder"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
+msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
 msgstr ""
 
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
@@ -1498,12 +1484,12 @@ msgstr "Neu"
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr "News"
+msgstr ""
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr "News Feeds"
+msgstr ""
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
@@ -1608,12 +1594,12 @@ msgstr ""
 #: ui_main.option
 msgctxt "ui_main.option"
 msgid "Option"
-msgstr "Option"
+msgstr ""
 
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr "Optional"
+msgstr ""
 
 #: ui_main.options
 msgctxt "ui_main.options"
@@ -1668,7 +1654,7 @@ msgstr "Organisation Website"
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr "Original"
+msgstr ""
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
@@ -1778,7 +1764,7 @@ msgstr "unerledigt"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr "per"
+msgstr ""
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1807,16 +1793,13 @@ msgstr "Bilder und Videos"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
-msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
+msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
 msgstr "* Suchen Sie nach Ihrem Standort oder klicken Sie auf die Karte"
 
 #: ui_main.play
 msgctxt "ui_main.play"
 msgid "Play"
-msgstr "Play"
+msgstr ""
 
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
@@ -1826,7 +1809,7 @@ msgstr "Bitte beachten"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Plugins"
+msgstr ""
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
@@ -1886,7 +1869,7 @@ msgstr "Kurzstatistik"
 #: ui_main.rating
 msgctxt "ui_main.rating"
 msgid "Rating"
-msgstr "Rating"
+msgstr ""
 
 #: ui_main.read
 msgctxt "ui_main.read"
@@ -1946,7 +1929,7 @@ msgstr ""
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr "Reporter"
+msgstr ""
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
@@ -1956,7 +1939,7 @@ msgstr "Melder"
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr "Reporter Date"
+msgstr ""
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
@@ -1986,12 +1969,12 @@ msgstr "Nachname des Melder"
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr "Reporter Level"
+msgstr ""
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr "Reporter Levels"
+msgstr ""
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
@@ -2006,7 +1989,7 @@ msgstr "Meldungen"
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr "Browse"
+msgstr ""
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
@@ -2046,7 +2029,7 @@ msgstr "Meldungen werden im CSV Format exportiert"
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
@@ -2100,9 +2083,7 @@ msgstr "Wähle eine Stadt"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
-msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
+msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
 msgstr "Ihre Meldung wurde übertragen. Wir melden uns zeitnah bei Rückfragen."
 
 #: ui_main.reports_submit_new
@@ -2128,7 +2109,7 @@ msgstr "Meldungs-Title"
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
 msgid "Video link"
-msgstr "Video link"
+msgstr ""
 
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
@@ -2193,7 +2174,7 @@ msgstr ""
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
 msgid "Requirements"
-msgstr "Requirements"
+msgstr ""
 
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
@@ -2233,7 +2214,7 @@ msgstr "Rolle"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr "RSS"
+msgstr ""
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2263,7 +2244,7 @@ msgstr "Speichern"
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr "Schedule"
+msgstr ""
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
@@ -2288,7 +2269,7 @@ msgstr "Terminplaner Log"
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
-msgstr "Minute"
+msgstr ""
 
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
@@ -2373,7 +2354,7 @@ msgstr "Gesendet von"
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr "Server address"
+msgstr ""
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
@@ -2383,37 +2364,37 @@ msgstr "Servertyp"
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr "Service"
+msgstr ""
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr "Service Username"
+msgstr ""
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr "Service User ID"
+msgstr ""
 
 #: ui_main.share
 msgctxt "ui_main.share"
 msgid "Share"
-msgstr "Share"
+msgstr ""
 
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr "Shared data"
+msgstr ""
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr "The share has been"
+msgstr ""
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr "Sharing"
+msgstr ""
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2438,12 +2419,12 @@ msgstr ""
 #: ui_main.site
 msgctxt "ui_main.site"
 msgid "Website"
-msgstr "Website"
+msgstr ""
 
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
 msgid "site email address"
-msgstr "site email address"
+msgstr ""
 
 #: ui_main.site_url
 msgctxt "ui_main.site_url"
@@ -2453,7 +2434,7 @@ msgstr "Seiten URL"
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr "SMS"
+msgstr ""
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
@@ -2478,7 +2459,7 @@ msgstr "URL der Quelle"
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr "Spam"
+msgstr ""
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
@@ -2537,18 +2518,18 @@ msgstr "Nachname"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
-msgid "新开线路"
+msgid "Survey"
 msgstr ""
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr "System"
+msgstr ""
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr "TCP Port"
+msgstr ""
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2568,7 +2549,7 @@ msgstr "Einstellungen des Layouts"
 #: ui_main.this
 msgctxt "ui_main.this"
 msgid "This"
-msgstr "This"
+msgstr ""
 
 #: ui_main.this_day
 msgctxt "ui_main.this_day"
@@ -2668,7 +2649,7 @@ msgstr ""
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
@@ -2693,12 +2674,12 @@ msgstr "unkontrolliert"
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr "Update feeds"
+msgstr ""
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr "Upload"
+msgstr ""
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2708,12 +2689,11 @@ msgstr "Datei zum Upload"
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr "Upload Reports"
+msgstr ""
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
-msgid ""
-"With the form below, you can import incidents into the Ushahidi engine."
+msgid "With the form below, you can import incidents into the Ushahidi engine."
 msgstr "Mit diesem Formular können Sie Ereignisse/Meldungen in das System importieren"
 
 #: ui_main.upload_reports_detail_2
@@ -2723,9 +2703,7 @@ msgstr "Berichte müssen im CSV Format vorliegen"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
-msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
+msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
 msgstr "Wenn die Ereignis ID schon in der Datenbank vorhanden ist, wird der Eintrag der CSV Dtei ignoriert."
 
 #: ui_main.upload_reports_detail_4
@@ -2735,9 +2713,7 @@ msgstr "Es muss der Ereignis Titel und das Datum enthalten sein."
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
-msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
+msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
 msgstr ""
 
 #: ui_main.upload_reports_detail_5
@@ -2747,20 +2723,12 @@ msgstr "Beispiel für CSV-Datei"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
-msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
-"01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
-"Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES"
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
-msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
-"\",YES,NO,\"5.55\",\"-0.2166667\""
+msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO"
 
 #: ui_main.upload_successful
@@ -2791,7 +2759,7 @@ msgstr "Benutzername"
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr "Ushahidi Admin"
+msgstr ""
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
@@ -2821,17 +2789,17 @@ msgstr "Können Sie diese Information bestätigen? "
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr "via"
+msgstr ""
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 #: ui_main.view
 msgctxt "ui_main.view"
@@ -2841,7 +2809,7 @@ msgstr "Zeige"
 #: ui_main.views
 msgctxt "ui_main.views"
 msgid "Views"
-msgstr "Views"
+msgstr ""
 
 #: ui_main.view_all
 msgctxt "ui_main.view_all"
@@ -2937,3 +2905,4 @@ msgstr ""
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr ""
+

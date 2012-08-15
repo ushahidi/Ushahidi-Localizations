@@ -1,32 +1,24 @@
-# 
-# Translators:
+#. extracted from en_US/ui_admin.php, zh_CN/ui_admin.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-13 05:13+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: zh_CN\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "拒绝登入。您的证书无效，或您的请求被拒绝。"
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 msgstr "拒绝登入。您的请求已收到，但由于登入限制（如时间）原因，该请求已被拒绝。请稍后再试。"
 
 #: ui_admin.access_level
@@ -326,8 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -690,6 +681,11 @@ msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr "对事件的反馈"
 
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
+
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
@@ -805,6 +801,11 @@ msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
 msgstr "添加/编辑用户"
 
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
+msgstr ""
+
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
@@ -853,7 +854,7 @@ msgstr "您的信息已发送！"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr "MHI"
+msgstr ""
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -962,10 +963,7 @@ msgstr "否"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without"
-" categories(uncategorized reports) as a result of category deletion."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
@@ -1030,17 +1028,7 @@ msgstr "页面无法找到"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
-" a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
-" can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 msgstr ""
 
 #: ui_admin.parameters_used
@@ -1061,7 +1049,7 @@ msgstr "重置密码"
 #: ui_admin.password_reset_from
 msgctxt "ui_admin.password_reset_from"
 msgid "no-reply@ushahidi.com"
-msgstr "no-reply@ushahidi.com"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
@@ -1075,16 +1063,12 @@ msgstr "我们收到了重置密码的请求，发送自"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
 msgstr "如果要修改您的密码，请点击下面的链接（或将其复制粘贴到您的浏览器地址栏）"
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
 msgstr "根据您的请求，您的密码将被重置。可以在下面的地址查看详细信息："
 
 #: ui_admin.password_reset_subject
@@ -1234,16 +1218,12 @@ msgstr "搜索："
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
@@ -1318,10 +1298,7 @@ msgstr "特殊分类"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
 msgstr "这是一个特殊分类，将不会在用户提交的报告表单中显示。该分类需与“可信的报告者”一起使用"
 
 #: ui_admin.specific_area
@@ -1482,7 +1459,7 @@ msgstr "用户"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr "Ushahidi"
+msgstr ""
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1543,3 +1520,4 @@ msgstr "是"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "您的搜索"
+

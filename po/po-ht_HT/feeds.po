@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/feeds.php, ht_HT/feeds.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:35+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ht_HT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ht_HT\n"
 
 #: feeds.date
 msgctxt "feeds.date"
@@ -21,20 +18,18 @@ msgstr ""
 
 #: feeds.feed_name.length
 msgctxt "feeds.feed_name.length"
-msgid ""
-"The feed name field must be at least 3 and no more \n"
-"\t\t\t70 characters long."
+msgid "The feed name field must be at least 3 and no more \n\t\t\t70 characters long."
 msgstr "The feed name field must be at least 3 and no more \n\t\t\t\t70 characters long."
 
 #: feeds.feed_name.required
 msgctxt "feeds.feed_name.required"
 msgid "Please enter the name of the feed."
-msgstr "Please enter the name of the feed."
+msgstr ""
 
 #: feeds.feed_url.required
 msgctxt "feeds.feed_url.required"
 msgid "Please enter feed's URL."
-msgstr "Please enter feed's URL."
+msgstr ""
 
 #: feeds.feed_url.url
 msgctxt "feeds.feed_url.url"
@@ -50,3 +45,4 @@ msgstr ""
 msgctxt "feeds.title"
 msgid "Title"
 msgstr ""
+

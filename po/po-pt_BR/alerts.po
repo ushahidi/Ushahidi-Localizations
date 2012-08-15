@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/alerts.php, pt_BR/alerts.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:22+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: pt_BR\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -21,9 +18,7 @@ msgstr "O campo do email parece não conter um endereço de email válido."
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid ""
-"That Email address has already been registered to receive alerts for that "
-"location."
+msgid "That Email address has already been registered to receive alerts for that location."
 msgstr "Esse email já foi registrado para o recebimento de alertas sobre este local."
 
 #: alerts.alert_email.length
@@ -38,9 +33,7 @@ msgstr "É necessário preencher o campo do email se a caixa de seleção tiver 
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid ""
-"This deployment spans within one country only. Please make sure the alert "
-"location is within the country %s."
+msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
 msgstr ""
 
 #: alerts.alert_lat.between
@@ -65,22 +58,17 @@ msgstr "Você não selecionou um local válido no mapa."
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid ""
-"The Mobile Phone field does not seem to contain the right amount of digits."
+msgid "The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr "O campo do número do celular não parece conter a quantidade correta de dígitos."
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid ""
-"That Mobile Phone Number has already been registered to receive alerts for "
-"that location."
+msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
 msgstr "Este número de celular já foi registrado para o recebimento de alertas sobre este local."
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid ""
-"The Mobile Phone field does not appear to contain a valid phone. Please "
-"input numbers only including Country Code."
+msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
 msgstr "O campo do número do celular não parece conter um número válido. Digite apenas números, incluindo o código do país."
 
 #: alerts.alert_mobile.one_required
@@ -120,16 +108,12 @@ msgstr "Esse código já foi verificado."
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid ""
-"This verification code was not found! Please confirm that you have the "
-"correct URL."
+msgid "This verification code was not found! Please confirm that you have the correct URL."
 msgstr "O código de verificação não foi encontrado. Confirme se a URL está correta."
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid ""
-" Your code was verified correctly. You will now receive alerts about "
-"incidents as they happen."
+msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
 msgstr "O código foi verificado corretamente. A partir de agora, os alertas serão enviados a medida que os eventos aconteçam."
 
 #: alerts.confirm_request
@@ -144,9 +128,7 @@ msgstr "Volte à página de alertas para criar outras notificações."
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid ""
-"Your Email Alert request has been created and verification message has been "
-"sent to "
+msgid "Your Email Alert request has been created and verification message has been sent to "
 msgstr "Foi criada uma solicitação de alerta por email, e uma mensagem de verificação foi enviada para "
 
 #: alerts.email_code
@@ -171,16 +153,12 @@ msgstr "Não foi possível processar sua confirmação."
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid ""
-"Your Mobile Alert request has been created and verification message has been"
-" sent to "
+msgid "Your Mobile Alert request has been created and verification message has been sent to "
 msgstr "Foi criada uma solicitação de alerta por celular, e uma mensagem de verificação foi enviada para  "
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid ""
-"Please enter the SMS confirmation code you received on your mobile phone "
-"below: "
+msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
 msgstr "Digite o código de confirmação recebido via mensagem de SMS abaixo: "
 
 #: alerts.mobile_error_head
@@ -200,9 +178,7 @@ msgstr "Essa versão não está configurada para processar alertas corretamente.
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid ""
-"You have received this email because you subscribed to receive alerts. If "
-"you do not wish to receive future alerts go to "
+msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
 msgstr "Você recebeu este email porque se cadastrou para receber alertas. Caso não queira receber alertas no futuro, acesse "
 
 #: alerts.unsubscribed
@@ -212,9 +188,7 @@ msgstr "Não serão mais enviados alertas de "
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid ""
-"We were not able to unsubscribe you. Please confirm that you have the "
-"correct URL."
+msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
 msgstr "Não foi possível cancelar a sua inscrição. Confirme se a URL está correta."
 
 #: alerts.verification_email_subject
@@ -224,6 +198,6 @@ msgstr "Alertas - Verificação"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid ""
-"You will not receive alerts on this location until you confirm your request."
+msgid "You will not receive alerts on this location until you confirm your request."
 msgstr "Não serão enviados alertas sobre essa localidade até que a solicitação tenha sido confirmada."
+

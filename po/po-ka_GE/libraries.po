@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/libraries.php, ka_GE/libraries.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:42+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ka_GE\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ka_GE\n"
 
 #: libraries.akismet_cannot_connect
 msgctxt "libraries.akismet_cannot_connect"
@@ -26,9 +23,7 @@ msgstr "Akismet–დან პასუხი ვერ იქნა მიღ�
 
 #: libraries.api_library_not_found
 msgctxt "libraries.api_library_not_found"
-msgid ""
-"The API library: <strong>%s</strong> for the <strong>%s</strong> class could"
-" not be found. Please check your API task routing table."
+msgid "The API library: <strong>%s</strong> for the <strong>%s</strong> class could not be found. Please check your API task routing table."
 msgstr "The API library: <strong>%s</strong>, for the <strong>%s</strong> კლასი ვერ იქნა აღმოჩენილი. შეამოწმეთ თქვენი API დავალებების განმსაზღვრელი ცხრილი."
 
 #: libraries.askimet_invalid_apikey
@@ -38,9 +33,7 @@ msgstr "თქვენი Akismet API გასაღებიი არ არ
 
 #: libraries.clickatell_fopen_error
 msgctxt "libraries.clickatell_fopen_error"
-msgid ""
-"Error while executing fopen sending method!<br>Please check whether PHP has "
-"OpenSSL support and whether the PHP version is greater than 5.2."
+msgid "Error while executing fopen sending method!<br>Please check whether PHP has OpenSSL support and whether the PHP version is greater than 5.2."
 msgstr "შეცდომა გაგზავნის მეთოდის შესრულებაში!<br>გთხოვთ, შემოწმოთ PHP–მ თუ გახსნა SSL დახმარებადა შეამოწმეთ  PHP ვერსია თუ არის 5.2–ზე დიდი"
 
 #: libraries.clickatell_message_too_long
@@ -70,8 +63,7 @@ msgstr "მხარდაუჭერელი გაგზავნის მ�
 
 #: libraries.invalid_api_library
 msgctxt "libraries.invalid_api_library"
-msgid ""
-"The API library %s is invalid. All API libraries must be subclasses of %s."
+msgid "The API library %s is invalid. All API libraries must be subclasses of %s."
 msgstr "API ბიბლიოთეკა %s არასწორია. All API ბიბლიოთეკები უნდა იყვნენ %s–ის ქვეკლასები"
 
 #: libraries.upgrade_directory_not_deleted
@@ -106,11 +98,11 @@ msgstr "Ushahidi სკრიპტის განახლება"
 
 #: libraries.upgrade_zip_error
 msgctxt "libraries.upgrade_zip_error"
-msgid ""
-"The downloaded Ushahidi zip file <code>%s</code>, could not be written."
+msgid "The downloaded Ushahidi zip file <code>%s</code>, could not be written."
 msgstr "გადმოწერილი ushahidi zip ფაილი <code>%s</code>, ჩაწერა შეუძლებელია"
 
 #: libraries.riverid_variable_not_available
 msgctxt "libraries.riverid_variable_not_available"
 msgid "%s is not available in the RiverID class."
 msgstr ""
+

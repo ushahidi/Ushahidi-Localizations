@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/stats.php, hu_HU/stats.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:53+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: hu_HU\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -32,10 +28,7 @@ msgstr "Kategória Hatás"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid ""
-"This chart gives you a linear view of the reports by category over time.  "
-"Scroll from left to right to see a comparative view of the different "
-"categories. Mouse over the graph for more details."
+msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
 msgstr "Ez az ábra időben lineáris nézetét adja a riportoknak. Balról jobbra gördítve összehasonlíthatod a különböző kategóriákat. Az egérrel az ábrák fölé állva részletesebb információkat kapsz."
 
 #: stats.choose_date_range
@@ -60,9 +53,7 @@ msgstr ""
 
 #: stats.description
 msgctxt "stats.description"
-msgid ""
-"This is the statistics section and will contain a general description here "
-"soon. For now, browse around using the sub category links above."
+msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
 msgstr "Hello, ez a statisztikai szekció. Általános leírás a későbbiekben lesz. Most böngészd az alkategóriák linkjeit fent!"
 
 #: stats.error
@@ -162,11 +153,7 @@ msgstr "Egyedi Látogató"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid ""
-"The number of individuals coming to your deployment. Unique visitors are "
-"determined using cookies. Visitors that do not have cookies enabled will be "
-"identified using a simple heuristic taking into account IP address, "
-"resolution, browser, plugins, OS, etc."
+msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
 msgstr ""
 
 #: stats.unverified
@@ -191,7 +178,6 @@ msgstr "Látogatások"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid ""
-"A visit is a record of a unique visitor coming to the site more than 30 "
-"minutes past his/her last pageview."
+msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
 msgstr "A látogatás az egyedi látogatók rögzítése, akik legalább 30 perce nem jártak az oldalon"
+

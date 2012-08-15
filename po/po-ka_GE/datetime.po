@@ -1,28 +1,25 @@
-# 
-# Translators:
+#. extracted from en_US/datetime.php, ka_GE/datetime.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:33+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ka_GE\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ka_GE\n"
 
 #: datetime.am
 msgctxt "datetime.am"
 msgid "am"
-msgstr "am"
+msgstr ""
 
 #: datetime.friday.abbv
 msgctxt "datetime.friday.abbv"
 msgid "Fri"
-msgstr "Fri"
+msgstr ""
 
 #: datetime.friday.full
 msgctxt "datetime.friday.full"
@@ -32,7 +29,7 @@ msgstr "არასკევი"
 #: datetime.monday.abbv
 msgctxt "datetime.monday.abbv"
 msgid "Mon"
-msgstr "Mon"
+msgstr ""
 
 #: datetime.monday.full
 msgctxt "datetime.monday.full"
@@ -42,12 +39,12 @@ msgstr "ორშაბათი"
 #: datetime.pm
 msgctxt "datetime.pm"
 msgid "pm"
-msgstr "pm"
+msgstr ""
 
 #: datetime.saturday.abbv
 msgctxt "datetime.saturday.abbv"
 msgid "Sat"
-msgstr "Sat"
+msgstr ""
 
 #: datetime.saturday.full
 msgctxt "datetime.saturday.full"
@@ -57,7 +54,7 @@ msgstr "შაბათი"
 #: datetime.sunday.abbv
 msgctxt "datetime.sunday.abbv"
 msgid "Sun"
-msgstr "Sun"
+msgstr ""
 
 #: datetime.sunday.full
 msgctxt "datetime.sunday.full"
@@ -67,7 +64,7 @@ msgstr "კვირა"
 #: datetime.thursday.abbv
 msgctxt "datetime.thursday.abbv"
 msgid "Thu"
-msgstr "Thu"
+msgstr ""
 
 #: datetime.thursday.full
 msgctxt "datetime.thursday.full"
@@ -77,7 +74,7 @@ msgstr "ხუთშაბათი"
 #: datetime.tuesday.abbv
 msgctxt "datetime.tuesday.abbv"
 msgid "Tue"
-msgstr "Tue"
+msgstr ""
 
 #: datetime.tuesday.full
 msgctxt "datetime.tuesday.full"
@@ -87,7 +84,7 @@ msgstr "სამშაბათი"
 #: datetime.wednesday.abbv
 msgctxt "datetime.wednesday.abbv"
 msgid "Wed"
-msgstr "Wed"
+msgstr ""
 
 #: datetime.wednesday.full
 msgctxt "datetime.wednesday.full"
@@ -213,3 +210,4 @@ msgstr ""
 msgctxt "datetime.december.full"
 msgid "December"
 msgstr ""
+

@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/mhi.php, ko_KR/mhi.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:44+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ko_KR\n"
 
 #: mhi.contact_captcha.default
 msgctxt "mhi.contact_captcha.default"
@@ -48,3 +45,4 @@ msgstr "제목은 최소3자 이상이어야 합니다."
 msgctxt "mhi.contact_subject.required"
 msgid "The subject field is required."
 msgstr "제목을 입력해주세요."
+

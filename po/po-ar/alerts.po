@@ -1,20 +1,15 @@
-# 
-# Translators:
-# Farid Boushra <>, 2012.
+#. extracted from en_US/alerts.php, ar/alerts.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-17 16:34+0000\n"
-"Last-Translator: Farid Boushra <>\n"
-"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ar\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ar\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -23,9 +18,7 @@ msgstr ".يبدو أن العنوان المُدرج في حقل البريد ا
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid ""
-"That Email address has already been registered to receive alerts for that "
-"location."
+msgid "That Email address has already been registered to receive alerts for that location."
 msgstr "عنوان البريد الإلكتروني مسجل بالفعل لإستقبال التنبيهات لهذه المنطقة"
 
 #: alerts.alert_email.length
@@ -40,9 +33,7 @@ msgstr ".يجب ملء حقل البريد الإلكتروني اذا تم اخ
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid ""
-"This deployment spans within one country only. Please make sure the alert "
-"location is within the country %s."
+msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
 msgstr "هذا الانتشار يمتد داخل دولة واحدة فقط. من فضلك تأكد من موقع التنبيه داخل البلاد %s."
 
 #: alerts.alert_lat.between
@@ -67,22 +58,17 @@ msgstr ".لم تختر موقع صحيح على الخريطة"
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid ""
-"The Mobile Phone field does not seem to contain the right amount of digits."
+msgid "The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr ".يبدو أن حقل رقم الهاتف المحمول لا يحتوى على العدد المناسب من الأرقام"
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid ""
-"That Mobile Phone Number has already been registered to receive alerts for "
-"that location."
+msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
 msgstr ".هذا الرقم مسجل بالفعل لإستقبال تنبيهات لهذه المنطقة"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid ""
-"The Mobile Phone field does not appear to contain a valid phone. Please "
-"input numbers only including Country Code."
+msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
 msgstr ".يبدو أن الرقم المُدرج في حقل رقم الهاتف المحمول غير سليم. برجاء إدخال الرقم ورمز الدولة"
 
 #: alerts.alert_mobile.one_required
@@ -122,16 +108,12 @@ msgstr "!لقد تم التحقق من هذا الرمز سابقاً"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid ""
-"This verification code was not found! Please confirm that you have the "
-"correct URL."
+msgid "This verification code was not found! Please confirm that you have the correct URL."
 msgstr ".لم يتم العثور على رمز التحقق! يجب التأكد من أن لديك الرابط الصحيح"
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid ""
-" Your code was verified correctly. You will now receive alerts about "
-"incidents as they happen."
+msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
 msgstr " لقد تم التحقق من الرمز الخاص بك. الآن ستتلقى التنبيهات الخاصة بالأحداث فور حدوثها"
 
 #: alerts.confirm_request
@@ -146,9 +128,7 @@ msgstr "العودة إلى صفحة التنبيهات لإنشاء المزي�
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid ""
-"Your Email Alert request has been created and verification message has been "
-"sent to "
+msgid "Your Email Alert request has been created and verification message has been sent to "
 msgstr "طلبك باستقبال تنبيهات على البريد الإليكتروني تم انشاءه وتم إرسال رسالة للتحقق إلى"
 
 #: alerts.email_code
@@ -173,16 +153,12 @@ msgstr "!لم يتمكن النظام من إجراء طلبك للتحقق"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid ""
-"Your Mobile Alert request has been created and verification message has been"
-" sent to "
+msgid "Your Mobile Alert request has been created and verification message has been sent to "
 msgstr "طلبك باستقبال تنبيهات على الهاتف المحمول تم إنشاءه وتم إرسال رسالة للتحقق إلى "
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid ""
-"Please enter the SMS confirmation code you received on your mobile phone "
-"below: "
+msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
 msgstr ":برجاء إدخال رمز التحقق الذى استلمته على هاتفك المحمول"
 
 #: alerts.mobile_error_head
@@ -202,9 +178,7 @@ msgstr "هذه الخريطة غير مُعدة بصورة صحيحة لإجرا
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid ""
-"You have received this email because you subscribed to receive alerts. If "
-"you do not wish to receive future alerts go to "
+msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
 msgstr "لقد استلمت هذه الرسالة لأنك اشتركت فى خدمة استقبال التنبيهات. إذا رغبت فى عدم تلقي تنبيهات مستقبلية إذهب إلى "
 
 #: alerts.unsubscribed
@@ -214,9 +188,7 @@ msgstr "لن تستقبل أية تنبيهات بعد الآن من"
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid ""
-"We were not able to unsubscribe you. Please confirm that you have the "
-"correct URL."
+msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
 msgstr ".لم نتمكن من إلغاء اشتراكك. برجاء التأكد من أن لديك الرابط الصحيح"
 
 #: alerts.verification_email_subject
@@ -226,6 +198,6 @@ msgstr "تنبيهات - تحقق"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid ""
-"You will not receive alerts on this location until you confirm your request."
+msgid "You will not receive alerts on this location until you confirm your request."
 msgstr ".لن تستقبل تنبيهات من هذه المنطقة حتى تقوم بالتأكيد على هذا الطلب"
+

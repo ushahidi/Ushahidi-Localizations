@@ -1,20 +1,15 @@
-# 
-# Translators:
-#   <ivan.schepens@wynns.be>, 2012.
+#. extracted from en_US/notifications.php, nl_NL/notifications.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-08-08 11:56+0000\n"
-"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
-"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl_NL\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: nl_NL\n"
 
 #: notifications.admin_footer
 msgctxt "notifications.admin_footer"
@@ -24,47 +19,47 @@ msgstr "This message was sent from your website"
 #: notifications.admin_login_url
 msgctxt "notifications.admin_login_url"
 msgid "Administrator Login"
-msgstr "Administrator Login"
+msgstr ""
 
 #: notifications.admin_new_comment.message
 msgctxt "notifications.admin_new_comment.message"
 msgid "A new comment has been submitted to your website in response to:"
-msgstr "A new comment has been submitted to your website in response to:"
+msgstr ""
 
 #: notifications.admin_new_comment.subject
 msgctxt "notifications.admin_new_comment.subject"
 msgid "New Comment"
-msgstr "New Comment"
+msgstr ""
 
 #: notifications.admin_new_email.message
 msgctxt "notifications.admin_new_email.message"
 msgid "A new email message has been submitted to your website."
-msgstr "A new email message has been submitted to your website."
+msgstr ""
 
 #: notifications.admin_new_email.subject
 msgctxt "notifications.admin_new_email.subject"
 msgid "New Email Message"
-msgstr "New Email Message"
+msgstr ""
 
 #: notifications.admin_new_report.message
 msgctxt "notifications.admin_new_report.message"
 msgid "A new report has been submitted to your website."
-msgstr "A new report has been submitted to your website."
+msgstr ""
 
 #: notifications.admin_new_report.subject
 msgctxt "notifications.admin_new_report.subject"
 msgid "New Report"
-msgstr "New Report"
+msgstr ""
 
 #: notifications.admin_new_sms.message
 msgctxt "notifications.admin_new_sms.message"
 msgid "A new text message has been submitted to your website."
-msgstr "A new text message has been submitted to your website."
+msgstr ""
 
 #: notifications.admin_new_sms.subject
 msgctxt "notifications.admin_new_sms.subject"
 msgid "New Text Message"
-msgstr "New Text Message"
+msgstr ""
 
 #: notifications.member_new_alert.message
 msgctxt "notifications.member_new_alert.message"
@@ -90,3 +85,4 @@ msgstr "Nieuw privébericht"
 msgctxt "notifications.member_new_message.footer"
 msgid "To Reply Please Go To: "
 msgstr "Om te antwoorden ga naar:"
+

@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/notifications.php, ko_KR/notifications.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:45+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ko_KR\n"
 
 #: notifications.admin_footer
 msgctxt "notifications.admin_footer"
@@ -88,3 +85,4 @@ msgstr "새 비공개 메시지"
 msgctxt "notifications.member_new_message.footer"
 msgid "To Reply Please Go To: "
 msgstr "비공개 메시지 응답은 : "
+

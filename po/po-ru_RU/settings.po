@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/settings.php, ru_RU/settings.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ru_RU\n"
 
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
@@ -102,7 +99,7 @@ msgstr "Уменьшите размер баннера."
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr "The cache pages field is required."
+msgstr ""
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
@@ -111,8 +108,7 @@ msgstr "The cache pages field does not appear to contain a valid value?"
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
-msgid ""
-"The cache pages lifetime field does not appear to contain a valid value."
+msgid "The cache pages lifetime field does not appear to contain a valid value."
 msgstr "Поле \"Время жизни кеша\" заполено неверно."
 
 #: settings.cache_pages_lifetime.required
@@ -122,19 +118,12 @@ msgstr "Укажите время жизни кеша."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
-msgid ""
-"It looks like your server is not configured to handle clean URLs. You will "
-"need to change the configuration of your server before you can enable clean "
-"URLs. See more info on how to enable clean URLs at <a "
-"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
-"rewrite\" target=\"_blank\">this forum post</a>"
+msgid "It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">this forum post</a>"
 msgstr "Сервер не настроен для \"красивой\" адресной строки. <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">Подробнее</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
-msgid ""
-"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
-"\"index.php\" in the URL)."
+msgid "This option makes Ushahidi to be accessed via \"clean\" URLs (without \"index.php\" in the URL)."
 msgstr "Эта опция позволит заходить на Ushahidi без \"index.php\" в адресной строке."
 
 #: settings.cleanurl.enable_clean_url
@@ -159,9 +148,7 @@ msgstr "Введите Clickatell API номер"
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
-msgid ""
-"The Clickatell Password field must be at least 5 and no more 50 characters "
-"long."
+msgid "The Clickatell Password field must be at least 5 and no more 50 characters long."
 msgstr "Длина пароля Clickatell не должна превышать 50 символов"
 
 #: settings.clickatell_password.required
@@ -231,9 +218,7 @@ msgstr ""
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
-msgid ""
-"The Mail Server Password field must be at least 5 and no more 50 characters "
-"long."
+msgid "The Mail Server Password field must be at least 5 and no more 50 characters long."
 msgstr "Длина пароля сервера почты не должна превышать 50 символов"
 
 #: settings.email_password.required
@@ -278,26 +263,22 @@ msgstr "Настройки Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
-msgid ""
-"To get the information below you will need to create a new Facebook "
-"application at"
+msgid "To get the information below you will need to create a new Facebook application at"
 msgstr "To get the information below you will need to create a new facebook application at"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr "Facebook App ID"
+msgstr ""
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr "Facebook App Secret"
+msgstr ""
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
-msgid ""
-"The Google Analytics field must contain a valid Web Property ID in the "
-"format UA-XXXXX-XX."
+msgid "The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX."
 msgstr "Поле Google Analytics должно содержать действующий Web Property ID в формате UA-XXXXX-XX."
 
 #: settings.https.enable_https
@@ -307,28 +288,22 @@ msgstr "Включить HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
-msgid ""
-"This option makes Ushahidi be accessed in unsecure mode; "
-"<strong>without</strong> \"https://\" in the URL prefix"
+msgid "This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> \"https://\" in the URL prefix"
 msgstr "Эта опция включит доступ к Ushahidi в обычном режиме <strong>без https</strong> в префиксе URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
-msgid ""
-"This option makes Ushahidi be accessed in secure mode; with "
-"<strong>https</strong> in the URL prefix"
+msgid "This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix"
 msgstr "Эта опция включит доступ к Ushahidi в зашифрованном режиме с <strong>https</strong> в префиксе URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr "HTTPS"
+msgstr ""
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
-msgid ""
-"The items per page (Frontend) field does not appear to contain a valid "
-"value."
+msgid "The items per page (Frontend) field does not appear to contain a valid value."
 msgstr "Поле \"Количество элементов на странице (Главной)\" заполнено в неправильном формате"
 
 #: settings.items_per_page.required
@@ -338,8 +313,7 @@ msgstr "Заполните поле \"Количество элементов н
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
-msgid ""
-"The items per page (Admin) field does not appear to contain a valid value."
+msgid "The items per page (Admin) field does not appear to contain a valid value."
 msgstr "Поле \"Количество элементов на странице  (Admin)\" заполнено в неправильном формате"
 
 #: settings.items_per_page_admin.required
@@ -349,9 +323,7 @@ msgstr "Заполните поле \"Количество элементов н
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
-msgid ""
-"Setting up your map provider is a straight- forward process. Select a "
-"provider, obtain an API key from the provider's site, and enter the API key."
+msgid "Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider's site, and enter the API key."
 msgstr "Картографический материал загружается напрямую. Выберите провайдера, получите API-ключ и введите его."
 
 #: settings.map.zoom
@@ -376,9 +348,7 @@ msgstr "Получите API-ключ"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
-msgid ""
-"Setting up your map provider is a straight-forward process. Select a "
-"provider, obtain an API key from the provider's site, and enter the API key."
+msgid "Setting up your map provider is a straight-forward process. Select a provider, obtain an API key from the provider's site, and enter the API key."
 msgstr "Настройка провайдера карты — простой процесс: выберите провайдера, получите API-ключ, введите ключ на сайте"
 
 #: settings.map_provider.name
@@ -508,9 +478,7 @@ msgstr "E-mail для оповещений"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
-msgid ""
-"<span>In order to receive reports by email, please configure your email "
-"account settings.</span>"
+msgid "<span>In order to receive reports by email, please configure your email account settings.</span>"
 msgstr "<span> Чтобы получить отчёты по почте, пожалуйста, настройте параметры вашего e-mail-аккаунта.</span>"
 
 #: settings.site.email_site
@@ -521,7 +489,7 @@ msgstr "E-mail сайта"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr "Google Analytics"
+msgstr ""
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -540,11 +508,7 @@ msgstr "Количество элементов на страницу - Admin"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
-msgid ""
-"Prevent comment spam using <a href=\"http://akismet.com/\" "
-"target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
-"key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
-"target=\"_blank\">WordPress.com user account</a>"
+msgid "Prevent comment spam using <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com user account</a>"
 msgstr "Защититесь от спама с помощью <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> от Automattic.<BR />Получить бесплатный API-ключ в <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com</a>"
 
 #: settings.site.laconica_configuration
@@ -629,8 +593,7 @@ msgstr "E-mail веб-сайта введен неправильно"
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
-msgid ""
-"The site email field must be at least 4 and no more 100 characters long."
+msgid "The site email field must be at least 4 and no more 100 characters long."
 msgstr "Длина e-mail веб-сайта должна быть от 4 до 100 символов"
 
 #: settings.site_name.length
@@ -675,10 +638,7 @@ msgstr "Введите ваш Clickatell пароль"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
-msgid ""
-"Sign up for Clickatells service by <a "
-"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
-"target=\"_blank\">clicking here</a>"
+msgid "Sign up for Clickatells service by <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicking here</a>"
 msgstr "Подключитесь к услуге Clickatell в <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicking here</a>"
 
 #: settings.sms.clickatell_text_2
@@ -693,12 +653,7 @@ msgstr "Введите ваше Clickatell имя пользователя"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
-msgid ""
-"FrontlineSMS is free open source software that turns a laptop and a mobile "
-"phone into a central communications hub. Once installed, the program enables"
-" users to send and receive text messages with large groups of people through"
-" mobile phones. Click on the grey box to request a download from "
-"FrontlineSMS.com"
+msgid "FrontlineSMS is free open source software that turns a laptop and a mobile phone into a central communications hub. Once installed, the program enables users to send and receive text messages with large groups of people through mobile phones. Click on the grey box to request a download from FrontlineSMS.com"
 msgstr "FrontlineSMS — бесплатная программа, которая позволяет превратить ноутбук или мобильный телефон в центр управления. Установленная программа позволяет пользователям отправлять и получать SMS для большой группы через мобильные телефоны. Нажмите на кнопку для установки с FrontlineSMS.com"
 
 #: settings.sms.flsms_download
@@ -708,12 +663,7 @@ msgstr "Скачайте Frontline SMS и установите на ваш ко�
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
-msgid ""
-"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a "
-"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
-"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
-" require the key and link below to set up the sync with FrontlineSMS"
+msgid "Messages received into a FrontlineSMS hub can be synched with Ushahidi. Detailed instructions on how to sync can be found <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will require the key and link below to set up the sync with FrontlineSMS"
 msgstr "Сообщения, полученные в FrontlineSMS можно синхронизировать с Ushahidi. Информацию о том, как это сделать, можно найти в <strong><a href=\"http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi\" target=\"_blank\">here</a></strong>. Вы должны получить ключ по ссылке, чтобы синхронизироваться с FrontlineSMS"
 
 #: settings.sms.flsms_key
@@ -785,3 +735,4 @@ msgstr "Телефон 3 содержит неверные значения"
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
 msgstr "Телефон 3 должен содержать только цифры"
+

@@ -1,32 +1,24 @@
-# 
-# Translators:
+#. extracted from en_US/ui_admin.php, hu_HU/ui_admin.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-13 05:14+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: hu_HU\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "Hozzáférés elutasítva. Vagy az azonosításod nem megfelelő, vagy a kérésed lett visszautasítva."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 msgstr "Hozzáférés elutasítva. A kérésed kiszolgálási korlátba ütközött ( idő, vagy egyéb ).Próbáld meg később!"
 
 #: ui_admin.access_level
@@ -112,12 +104,12 @@ msgstr ""
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr "UNBAN"
+msgstr ""
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr "UNBAN ALL"
+msgstr ""
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
@@ -326,8 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -383,7 +374,7 @@ msgstr ""
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr "Demo"
+msgstr ""
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -443,7 +434,7 @@ msgstr "Szerkesztési log"
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -598,7 +589,7 @@ msgstr "Ez a form nem létezik"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr "Forum"
+msgstr ""
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -658,7 +649,7 @@ msgstr "Hozzáadás/szerkesztés"
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
@@ -689,6 +680,11 @@ msgstr "Óránkénti"
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr "esemény folyama"
+
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -805,6 +801,11 @@ msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
 msgstr "Felhasználók hozzáadása/szerkesztése"
 
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
+msgstr ""
+
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
@@ -853,7 +854,7 @@ msgstr "Az üzeneted elküldve!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr "MHI"
+msgstr ""
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -962,10 +963,7 @@ msgstr "Nem "
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without"
-" categories(uncategorized reports) as a result of category deletion."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
@@ -1001,7 +999,7 @@ msgstr "Nincs megjeleníthető eredmény!"
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr "of"
+msgstr ""
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
@@ -1030,17 +1028,7 @@ msgstr "Az oldal nem található"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
-" a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
-" can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 msgstr "Sajnálom, de a keresett oldal itt nem található<p><strong>Külső linket követtél, vagy a mi oldalunkról származót?</strong><br />Ha ezt az oldalt a mi portálunk egy más részéről érted el, kérlek <a href=\"#\">vedd fel velünk a kapcsolatot</a> így ki tudjuk javítani a hibánkat.</p><p><strong>Egy más oldalról való linkről érkeztél?</strong><br />A más oldalról származó linkek néha rosszul betűzöttek.<a href=\"#\">Mondd el</a>"
 
 #: ui_admin.parameters_used
@@ -1075,16 +1063,12 @@ msgstr "Megkaptuk a jelszó törlési kérést"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
 msgstr "A jelszó változtatáshoz, klikkeljen az alábbi linkre ( vagy másolja be a böngészőjébe )"
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
 msgstr "A jelszó a kérésnek megfelelően törölve lett. Az Ön részletes adatai a következők"
 
 #: ui_admin.password_reset_subject
@@ -1234,16 +1218,12 @@ msgstr "keresem"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
@@ -1318,10 +1298,7 @@ msgstr ""
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
 msgstr ""
 
 #: ui_admin.specific_area
@@ -1482,7 +1459,7 @@ msgstr "Felhasználók"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr "Ushahidi"
+msgstr ""
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1532,7 +1509,7 @@ msgstr "Üdvözlégy,"
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr "Wiki"
+msgstr ""
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
@@ -1543,3 +1520,4 @@ msgstr "Igen"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "A keresésed"
+

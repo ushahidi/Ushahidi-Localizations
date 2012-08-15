@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/reporters.php, ka_GE/reporters.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:49+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ka_GE\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ka_GE\n"
 
 #: reporters.latitude.between
 msgctxt "reporters.latitude.between"
@@ -21,9 +18,7 @@ msgstr "სიგანის ველი სავარაუდოდ არ
 
 #: reporters.latitude.required
 msgctxt "reporters.latitude.required"
-msgid ""
-"The latitude field is required. Please click on the map to pinpoint a "
-"location."
+msgid "The latitude field is required. Please click on the map to pinpoint a location."
 msgstr "სიგანის ველი სავალდებულოა. გთხოვთ დააჭიროთ რუკას, რათა ზუსტად განისაზღვროს ადგილმდებარეობა."
 
 #: reporters.level_id.numeric
@@ -38,8 +33,7 @@ msgstr "მომხსენებლის დონის ველი სა
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
-msgid ""
-"The location name field must be at least 3 and no more 200 characters long."
+msgid "The location name field must be at least 3 and no more 200 characters long."
 msgstr "ადგილმდებარეობის სახელის ველი უნდა შედგებოდეს არანაკლებ 3 და არაუმეტეს 200 სიმბოლოსგან."
 
 #: reporters.location_name.required
@@ -54,9 +48,7 @@ msgstr "სიგრძის ველი სავარაუდოდ არ
 
 #: reporters.longitude.required
 msgctxt "reporters.longitude.required"
-msgid ""
-"The longitude field is required. Please click on the map to pinpoint a "
-"location."
+msgid "The longitude field is required. Please click on the map to pinpoint a location."
 msgstr "სიგრძის ველი სავალდებულოა. გთხოვთ, დააჭიროთ რუკას, რათა ზუსტად განისაზღვროს ადგილმდებარეობა."
 
 #: reporters.reporter_id.numeric
@@ -68,3 +60,4 @@ msgstr "არასწორი მომხსენებელი"
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
 msgstr "არასწორი მომხსენებელი"
+

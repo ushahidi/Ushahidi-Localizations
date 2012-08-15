@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/ui_main.php, pt_BR/ui_main.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:56+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt_BR\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: pt_BR\n"
 
 #: ui_main.about
 msgctxt "ui_main.about"
@@ -144,6 +141,11 @@ msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
 msgstr "Receber alertas"
 
+#: ui_main.alert_has_been
+msgctxt "ui_main.alert_has_been"
+msgid "Alert has been"
+msgstr ""
+
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
@@ -151,16 +153,12 @@ msgstr "Telefone celular:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
-msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
+msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
 msgstr "Ou defina um local no mapa abaixo, e você receberá um alerta quando forem feitos relatos em um raio de 20 quilômetros."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
-msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
+msgid "If you can't find your location, please click on the map to pinpoint the correct location."
 msgstr "Caso você não consiga encontrar o local desejado, clique no mapa para apontar a localização correta."
 
 #: ui_main.alerts_rss
@@ -226,7 +224,7 @@ msgstr "e"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr "API"
+msgstr ""
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -326,7 +324,7 @@ msgstr ""
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr "Blog"
+msgstr ""
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
@@ -455,8 +453,7 @@ msgstr "Configurar"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
-msgid ""
-"You have successfully confirmed your email address! Please login below."
+msgid "You have successfully confirmed your email address! Please login below."
 msgstr ""
 
 #: ui_main.contact
@@ -627,7 +624,7 @@ msgstr "Apagar spam"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr "Demo"
+msgstr ""
 
 #: ui_main.description
 msgctxt "ui_main.description"
@@ -682,7 +679,7 @@ msgstr "Editar relatos"
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
@@ -731,9 +728,7 @@ msgstr "portanto os dados devem ser associados a esse e-mail"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
-msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
+msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
 msgstr "Para receber relatos por email, forneça as configurações de seu e-mail abaixo. Lembre-se que os alertas serão recebidos em"
 
 #: ui_main.email_settings_comment_1
@@ -804,7 +799,7 @@ msgstr ""
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr "Feed"
+msgstr ""
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
@@ -813,15 +808,13 @@ msgstr "Enviar comentários"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
-msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+msgid "Please give us feedback about your experience by clicking on the button below."
 msgstr "Conte para a gente como foi a sua experiência clicando no botão abaixo."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr "Feeds"
+msgstr ""
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
@@ -976,7 +969,7 @@ msgstr ""
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr "Hashtag"
+msgstr ""
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1021,7 +1014,7 @@ msgstr ""
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1051,7 +1044,7 @@ msgstr "Inativo"
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr "Inbox"
+msgstr ""
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
@@ -1125,9 +1118,7 @@ msgstr "Forneça o local exato"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
+msgid "Your account doesn't have the proper permission to fully log you in. Please contact the administrator."
 msgstr ""
 
 #: ui_main.in_response_to
@@ -1148,7 +1139,7 @@ msgstr ""
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr "item"
+msgstr ""
 
 #: ui_main.items
 msgctxt "ui_main.items"
@@ -1188,7 +1179,7 @@ msgstr "URL KML"
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr "Laconica"
+msgstr ""
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1218,7 +1209,7 @@ msgstr "Último ano"
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr "Latitude"
+msgstr ""
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
@@ -1278,7 +1269,7 @@ msgstr "Limitado"
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr "Link"
+msgstr ""
 
 #: ui_main.list
 msgctxt "ui_main.list"
@@ -1308,7 +1299,7 @@ msgstr "Cidade, estado e/ou país"
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr "Login"
+msgstr ""
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
@@ -1322,8 +1313,7 @@ msgstr ""
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
+msgid "Email address doesn't exist. Try a different address or create an account."
 msgstr ""
 
 #: ui_main.login_select_openid
@@ -1358,9 +1348,7 @@ msgstr ""
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
+msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
 msgstr ""
 
 #: ui_main.login_signup_confirmation_subject
@@ -1376,7 +1364,7 @@ msgstr ""
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr "Longitude"
+msgstr ""
 
 #: ui_main.map
 msgctxt "ui_main.map"
@@ -1475,9 +1463,7 @@ msgstr "Essa versão do Ushahidi será usada em múltiplos países?"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
+msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
 msgstr ""
 
 #: ui_main.name
@@ -1668,7 +1654,7 @@ msgstr "Site da organização"
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr "Original"
+msgstr ""
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
@@ -1807,10 +1793,7 @@ msgstr "Fotos e vídeos"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
-msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
+msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
 msgstr "* Procure o local usando o nome do lugar, as coordenadas de latitude e longitude (formato: 38.19,-85.61), ou clique sob o local para apontar o ponto exato no mapa."
 
 #: ui_main.play
@@ -1826,7 +1809,7 @@ msgstr "Observação"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Plugins"
+msgstr ""
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
@@ -2046,7 +2029,7 @@ msgstr "Os relatos serão baixados em formato CSV"
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
@@ -2100,9 +2083,7 @@ msgstr "Selecionar a cidade"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
-msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
+msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
 msgstr "Seu relato foi enviado para revisão. Nossa equipe entrará em contato em breve, se necessário."
 
 #: ui_main.reports_submit_new
@@ -2233,7 +2214,7 @@ msgstr "Perfil"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr "RSS"
+msgstr ""
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2453,7 +2434,7 @@ msgstr "URL do site"
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr "SMS"
+msgstr ""
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
@@ -2478,7 +2459,7 @@ msgstr "URL da fonte"
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr "Spam"
+msgstr ""
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
@@ -2537,7 +2518,7 @@ msgstr "Sobrenome"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
-msgid "新开线路"
+msgid "Survey"
 msgstr ""
 
 #: ui_main.system
@@ -2548,7 +2529,7 @@ msgstr "Sistema"
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr "TCP Port"
+msgstr ""
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2668,7 +2649,7 @@ msgstr ""
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
@@ -2712,8 +2693,7 @@ msgstr "Importar relatos"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
-msgid ""
-"With the form below, you can import incidents into the Ushahidi engine."
+msgid "With the form below, you can import incidents into the Ushahidi engine."
 msgstr "Usando o formulário abaixo, é possível importar incidentes no sistema Ushahidi"
 
 #: ui_main.upload_reports_detail_2
@@ -2723,9 +2703,7 @@ msgstr "Relatos devem ser enviados em formato CSV"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
-msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
+msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
 msgstr "Se já houver uma identificação do relato na base de dados, a entrada no arquivo de CSV será ignorada"
 
 #: ui_main.upload_reports_detail_4
@@ -2735,9 +2713,7 @@ msgstr "É necessário fornecer pelo menos um título e uma data para o relato"
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
-msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
+msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
 msgstr ""
 
 #: ui_main.upload_reports_detail_5
@@ -2747,20 +2723,12 @@ msgstr "Exemplo de relato CSV"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
-msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
-"01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
-"Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 msgstr "#,TÍTULO DO RELATO,DATA DO RELATO,LOCAL,DESCRIÇÃO,CATEGORIA,APROVADO,VERIFICADO<br />\"1\",\"Denúncia de compra de voto em São Paulo\",\"2010-10-03 10:06:00\",\"São Paulo\",\"Candidato fulano oferece um sapato para quem votar nele\",\"COMPRA DE VOTOS, ELEIÇÕES ESTADUAIS, \",SIM,SIM"
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
-msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
-"\",YES,NO,\"5.55\",\"-0.2166667\""
+msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 msgstr "\"2\",\"Atos de Intimidação\",\"2010-10-03 10:10:00\",\"Rio de Janeiro\",\"Atos de Intimidação acontecendo na porta das seções eleitorais\",\"ATOS DE INTIMIDAÇÃO, COAÇÃO, ELEIÇÕES MAJORITÁRIAS, \",SIM,NÃO"
 
 #: ui_main.upload_successful
@@ -2826,7 +2794,7 @@ msgstr "Versão"
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr "via"
+msgstr ""
 
 #: ui_main.video
 msgctxt "ui_main.video"
@@ -2937,3 +2905,4 @@ msgstr "Aproximar zoom"
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr "Afastar zoom"
+

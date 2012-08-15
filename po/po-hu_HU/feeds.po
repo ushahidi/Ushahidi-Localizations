@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/feeds.php, hu_HU/feeds.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-13 04:50+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: hu_HU\n"
 
 #: feeds.date
 msgctxt "feeds.date"
@@ -22,9 +18,7 @@ msgstr "DÁTUM"
 
 #: feeds.feed_name.length
 msgctxt "feeds.feed_name.length"
-msgid ""
-"The feed name field must be at least 3 and no more \n"
-"\t\t\t70 characters long."
+msgid "The feed name field must be at least 3 and no more \n\t\t\t70 characters long."
 msgstr "A feed neve legalább 3 és maximum 70 karakter hosszú lehet."
 
 #: feeds.feed_name.required
@@ -51,3 +45,4 @@ msgstr "FORRÁS"
 msgctxt "feeds.title"
 msgid "Title"
 msgstr "CÍM"
+

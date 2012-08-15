@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/layer.php, bg_BG/layer.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:40+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: bg_BG\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: bg_BG\n"
 
 #: layer.layer_color.length
 msgctxt "layer.layer_color.length"
@@ -26,9 +23,7 @@ msgstr "Цветът се изисква."
 
 #: layer.layer_file.type
 msgctxt "layer.layer_file.type"
-msgid ""
-"The file field does not appear to contain a valid file. The only accepted "
-"formats are .KMZ and .KML."
+msgid "The file field does not appear to contain a valid file. The only accepted formats are .KMZ and .KML."
 msgstr "Файлът не изглежда да е с валиден формат. Приетите формати са само .KMZ, .KML."
 
 #: layer.layer_file.valid
@@ -60,3 +55,4 @@ msgstr "Не може да зададете KML файл и адрес едно�
 msgctxt "layer.layer_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com/layerl.kml"
 msgstr "Моля въведете правилен адрес. Например: http://www.ushahidi.com/layerl.kml"
+

@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/settings.php, tr_TR/settings.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:51+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: tr_TR\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: tr_TR\n"
 
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
@@ -112,8 +108,7 @@ msgstr "Önbellek sayfasında geçerli bir değer görünmüyor?"
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
-msgid ""
-"The cache pages lifetime field does not appear to contain a valid value."
+msgid "The cache pages lifetime field does not appear to contain a valid value."
 msgstr "Önbellek ömrü kısmında geçerli bir değer görünmüyor?"
 
 #: settings.cache_pages_lifetime.required
@@ -123,19 +118,12 @@ msgstr "Önbellek ömrü kısmı boş bırakılamaz."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
-msgid ""
-"It looks like your server is not configured to handle clean URLs. You will "
-"need to change the configuration of your server before you can enable clean "
-"URLs. See more info on how to enable clean URLs at <a "
-"href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
-"rewrite\" target=\"_blank\">this forum post</a>"
+msgid "It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">this forum post</a>"
 msgstr "Görünüşe göre sunucu kısa bağlantıyla görülebilecek şekilde ayarlanmamış. Kısa bağlantıları aktif etmeden önce sunucunuzu ayarlamanız gerekiyor. Daha fazla bilgi ve kısa bağlantıları aktif etmek için <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">tıkla (İngilizce)</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
-msgid ""
-"This option makes Ushahidi to be accessed via \"clean\" URLs (without "
-"\"index.php\" in the URL)."
+msgid "This option makes Ushahidi to be accessed via \"clean\" URLs (without \"index.php\" in the URL)."
 msgstr "Bu ayar Ushahidinin kısa bağlantıyla erişilmesine izin verir. (Bağlantıda \"index.php\" olmadan.)"
 
 #: settings.cleanurl.enable_clean_url
@@ -160,9 +148,7 @@ msgstr "The Clickatell API Numara kısmı boş bırakılamaz."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
-msgid ""
-"The Clickatell Password field must be at least 5 and no more 50 characters "
-"long."
+msgid "The Clickatell Password field must be at least 5 and no more 50 characters long."
 msgstr "Clickatell Şifre kısmı en az 5, en fazla 50 karakter uzunluğunda olmalıdır."
 
 #: settings.clickatell_password.required
@@ -232,9 +218,7 @@ msgstr "E-posta sunucusu port kısmı sadece rakamlardan oluşmalıdır."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
-msgid ""
-"The Mail Server Password field must be at least 5 and no more 50 characters "
-"long."
+msgid "The Mail Server Password field must be at least 5 and no more 50 characters long."
 msgstr "E-posta Sunucu Şifresi en az 5, en fazla 60 karakter uzunluğunda olmalıdır."
 
 #: settings.email_password.required
@@ -279,9 +263,7 @@ msgstr "Facebook Kurulum Ayarları"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
-msgid ""
-"To get the information below you will need to create a new Facebook "
-"application at"
+msgid "To get the information below you will need to create a new Facebook application at"
 msgstr "Aşağıdaki bilgileri almak için (link here) adlı adresten yeni bir facebook uygulaması yaratmanız gerekir"
 
 #: settings.facebook.app_id
@@ -296,9 +278,7 @@ msgstr "Facebook Uygulama Gizliliği"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
-msgid ""
-"The Google Analytics field must contain a valid Web Property ID in the "
-"format UA-XXXXX-XX."
+msgid "The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX."
 msgstr "Google Analytics kısmı geçerli bir bölge kimliği içermesi gerekir. (UA-XXXXX-XX şeklinde) "
 
 #: settings.https.enable_https
@@ -308,28 +288,22 @@ msgstr "HTTPSyi Aktif Et"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
-msgid ""
-"This option makes Ushahidi be accessed in unsecure mode; "
-"<strong>without</strong> \"https://\" in the URL prefix"
+msgid "This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> \"https://\" in the URL prefix"
 msgstr "Bu ayar Ushahidiye güvenli olmayan bir şekilde erişilmesini sağlar; bağlantının başında \"https://\" <strong>olmadan</strong>."
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
-msgid ""
-"This option makes Ushahidi be accessed in secure mode; with "
-"<strong>https</strong> in the URL prefix"
+msgid "This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix"
 msgstr "Bu ayar Ushahidiye güvenli bir şekilde erişilmesini sağlar; bağlantının başında <strong>https</strong> olur."
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr "HTTPS"
+msgstr ""
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
-msgid ""
-"The items per page (Frontend) field does not appear to contain a valid "
-"value."
+msgid "The items per page (Frontend) field does not appear to contain a valid value."
 msgstr "Sayfa başına haber sayısı (Görülebilir) kısmında geçerli bir değer görünmüyor?"
 
 #: settings.items_per_page.required
@@ -339,8 +313,7 @@ msgstr "Sayfa başına haber sayısı (Görülebilir) kısmı boş bırakılamaz
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
-msgid ""
-"The items per page (Admin) field does not appear to contain a valid value."
+msgid "The items per page (Admin) field does not appear to contain a valid value."
 msgstr "Sayfa başına haber sayısı (Admin) kısmında geçerli bir değer görünmüyor?"
 
 #: settings.items_per_page_admin.required
@@ -350,9 +323,7 @@ msgstr "Sayfa başına haber sayısı (Admin) kısmı boş bırakılamaz."
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
-msgid ""
-"Setting up your map provider is a straight- forward process. Select a "
-"provider, obtain an API key from the provider's site, and enter the API key."
+msgid "Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider's site, and enter the API key."
 msgstr "Harita sağlayıcı seçmek ve düzenlemek kolay bir iştir. Sağlayıcıyı seçin, sağlayıcının kendi sitesinden API anahtarını alın ve API anahtarını girin"
 
 #: settings.map.zoom
@@ -377,9 +348,7 @@ msgstr "API Anahtarı Al"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
-msgid ""
-"Setting up your map provider is a straight-forward process. Select a "
-"provider, obtain an API key from the provider's site, and enter the API key."
+msgid "Setting up your map provider is a straight-forward process. Select a provider, obtain an API key from the provider's site, and enter the API key."
 msgstr "Harita sağlayıcı seçmek ve düzenlemek kolay bir iştir. Sağlayıcıyı seçin, sağlayıcının kendi sitesinden API anahtarını alın ve API anahtarını girin"
 
 #: settings.map_provider.name
@@ -509,9 +478,7 @@ msgstr "E-posta Adresi Uyarıları"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
-msgid ""
-"<span>In order to receive reports by email, please configure your email "
-"account settings.</span>"
+msgid "<span>In order to receive reports by email, please configure your email account settings.</span>"
 msgstr "<span>Raporları e-posta aracılığıyla almak istiyorsanız lütfen e-posta hesabı ayarlarını tamamlayın.</span>"
 
 #: settings.site.email_site
@@ -522,7 +489,7 @@ msgstr "Sitenin E-posta Adresi"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr "Google Analytics"
+msgstr ""
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -541,11 +508,7 @@ msgstr "Sayfa başına düşen Haberler - Admin"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
-msgid ""
-"Prevent comment spam using <a href=\"http://akismet.com/\" "
-"target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
-"key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
-"target=\"_blank\">WordPress.com user account</a>"
+msgid "Prevent comment spam using <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com user account</a>"
 msgstr "Yorumlardaki spam olayını engellemek için <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> adlı sistemi ziyaret edin. <BR /><a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com kullanıcı hesabı</a>na kayıt olarak ücretsiz API anahtarı alabilirsiniz."
 
 #: settings.site.laconica_configuration
@@ -556,7 +519,7 @@ msgstr "Laconica Referansları"
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr "Laconica Site "
+msgstr ""
 
 #: settings.site.language
 msgctxt "settings.site.language"
@@ -630,8 +593,7 @@ msgstr "Sitenin e-posta kısmına geçerli bir değer girilmemiş?"
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
-msgid ""
-"The site email field must be at least 4 and no more 100 characters long."
+msgid "The site email field must be at least 4 and no more 100 characters long."
 msgstr "Sitenin e-posta kısmı en az 4, en fazla 100 karakterden oluşmalıdır."
 
 #: settings.site_name.length
@@ -676,10 +638,7 @@ msgstr "Clickatell Şifreniz"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
-msgid ""
-"Sign up for Clickatells service by <a "
-"href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
-"target=\"_blank\">clicking here</a>"
+msgid "Sign up for Clickatells service by <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicking here</a>"
 msgstr "Clickatell servisine kayıt olmak için <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">buraya tıklayın</a>"
 
 #: settings.sms.clickatell_text_2
@@ -694,12 +653,7 @@ msgstr "Clickatell Kullanıcı Adınız"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
-msgid ""
-"FrontlineSMS is free open source software that turns a laptop and a mobile "
-"phone into a central communications hub. Once installed, the program enables"
-" users to send and receive text messages with large groups of people through"
-" mobile phones. Click on the grey box to request a download from "
-"FrontlineSMS.com"
+msgid "FrontlineSMS is free open source software that turns a laptop and a mobile phone into a central communications hub. Once installed, the program enables users to send and receive text messages with large groups of people through mobile phones. Click on the grey box to request a download from FrontlineSMS.com"
 msgstr "FrontlineSMS (ücretsiz servis) dizüstü bilgisayarınızı ve cep telefonunuzu genel iletişim ağına çevirir. Yüklendiğinde, yazılım, kullanıcıların büyük gruplara sms göndermelerine veya (gruplardan) almalarına izin verir. Yazılımı yüklemek istiyorsanız lütfen gri kutucuğu işaretleyin."
 
 #: settings.sms.flsms_download
@@ -709,12 +663,7 @@ msgstr "Frontline SMS uygulamasını indir ve yükle"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
-msgid ""
-"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a "
-"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
-"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
-" require the key and link below to set up the sync with FrontlineSMS"
+msgid "Messages received into a FrontlineSMS hub can be synched with Ushahidi. Detailed instructions on how to sync can be found <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will require the key and link below to set up the sync with FrontlineSMS"
 msgstr "Frontline SMS adlı uygulamaya gelen mesajlar Ushahidi ile eşleştirilebilir. \"Nasıl eşleştirebilirim?\" diyorsanız <strong><a href=\"http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi\" target=\"_blank\">buraya tıklayın (ingilizce)</a></strong>. Frontline SMS adlı uygulamayı eşleştirmek için anahtara gerek duyacaksınız"
 
 #: settings.sms.flsms_key
@@ -755,7 +704,7 @@ msgstr "Seçenek 2: Global SMS Gateway Kullan"
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr "SMS Setup Options"
+msgstr ""
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
@@ -786,3 +735,4 @@ msgstr "Telefon 3 kısmı çok uzun"
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
 msgstr "Telefon 3 kısmı sadece rakamlardan oluşmalıdır."
+

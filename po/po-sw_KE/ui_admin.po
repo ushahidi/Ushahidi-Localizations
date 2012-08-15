@@ -1,31 +1,24 @@
-# 
-# Translators:
+#. extracted from en_US/ui_admin.php, sw_KE/ui_admin.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:55+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sw_KE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: sw_KE\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "Umekataliwa kupita. Aidha sifa ulizoweka si za halali au ombi lako limekataliwa"
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 msgstr "Umekataliwa kupita. Ombi lako limefahamika, lakini kukatalika juu ya masharti kama nyakati. Jaribu tena baadae"
 
 #: ui_admin.access_level
@@ -76,7 +69,7 @@ msgstr ""
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr "AM"
+msgstr ""
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -261,7 +254,7 @@ msgstr "ishara"
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr "Code version out of sync."
+msgstr ""
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
@@ -325,8 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -337,12 +329,12 @@ msgstr "Kila siku"
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr "Dashboard"
+msgstr ""
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
 msgid "database"
-msgstr "database"
+msgstr ""
 
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
@@ -357,7 +349,7 @@ msgstr ""
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr "DB version out of sync."
+msgstr ""
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
@@ -597,12 +589,12 @@ msgstr "Fomu hiyo haipatikani!"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr "Forum"
+msgstr ""
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr "Text Area Field (Free Text)"
+msgstr ""
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
@@ -637,7 +629,7 @@ msgstr "Kutoka"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr "Geonames Timeout Error"
+msgstr ""
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -689,25 +681,30 @@ msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr "Twanyiko la tukio"
 
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
+
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr "Instance"
+msgstr ""
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr "Instances"
+msgstr ""
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr "Instance Details"
+msgstr ""
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
-msgstr "Invalid Parameter"
+msgstr ""
 
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
@@ -804,6 +801,11 @@ msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
 msgstr ""
 
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
+msgstr ""
+
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
@@ -852,7 +854,7 @@ msgstr "Ujumbe wako umetumwa!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr "MHI"
+msgstr ""
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -897,7 +899,7 @@ msgstr "songeza juu"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr "Multiple Hosted Instances"
+msgstr ""
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -961,10 +963,7 @@ msgstr "La"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without"
-" categories(uncategorized reports) as a result of category deletion."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
@@ -975,7 +974,7 @@ msgstr "Uonyo"
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr "This is not case sensitive."
+msgstr ""
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
@@ -1029,17 +1028,7 @@ msgstr "Kurasa haijapatikana"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
-" a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
-" can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 msgstr "Pole, kurasa unayojaribu kuiangalia haipo.<p><strong>Ulifuata kiungo kilichokuwa kwa tovuti yetu?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Ungo kutoka kwa tovuti zegine zinaweza kuwa si sahihi. <a href=\"#\">Tujulishe</a> umetoka wapi ili tujaribu kurekebisha.</p><p><strong>Uliandika wewe anwani? </strong><br />Inawezekana umekosea anwani. hakikisha umeandika kwa njia sahihi. </p>"
 
 #: ui_admin.parameters_used
@@ -1060,36 +1049,32 @@ msgstr "Rudia nywila"
 #: ui_admin.password_reset_from
 msgctxt "ui_admin.password_reset_from"
 msgid "no-reply@ushahidi.com"
-msgstr "no-reply@ushahidi.com"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr "Dear"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr "We received a request to reset the password for"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
-msgstr "To change your password, please click on the link below (or copy and paste it into your browser)."
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
+msgstr ""
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
-msgstr "As you requested, your password has now been reset. Your new details are as follows"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
+msgstr ""
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr "Ushahidi password reset"
+msgstr ""
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
@@ -1104,12 +1089,12 @@ msgstr ""
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
 msgid "PM"
-msgstr "PM"
+msgstr ""
 
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr "Data was not sent by post method"
+msgstr ""
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1154,7 +1139,7 @@ msgstr ""
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr "read"
+msgstr ""
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
@@ -1233,16 +1218,12 @@ msgstr "inatafuta"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
@@ -1317,10 +1298,7 @@ msgstr ""
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
 msgstr ""
 
 #: ui_admin.specific_area
@@ -1351,7 +1329,7 @@ msgstr "Stat Collection Failed! Either your stat_id or stat_key in the settings 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
 msgid "Stat Collection Failed!"
-msgstr "Stat Collection Failed!"
+msgstr ""
 
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
@@ -1366,7 +1344,7 @@ msgstr ""
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr "Super Admin"
+msgstr ""
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
@@ -1376,7 +1354,7 @@ msgstr "Kazi imefanywa"
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
 msgid "Text Field"
-msgstr "Text Field"
+msgstr ""
 
 #: ui_admin.theme_name
 msgctxt "ui_admin.theme_name"
@@ -1481,7 +1459,7 @@ msgstr "Watumizi"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr "Ushahidi"
+msgstr ""
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1496,7 +1474,7 @@ msgstr ""
 #: ui_admin.version
 msgctxt "ui_admin.version"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
@@ -1531,7 +1509,7 @@ msgstr "Karibu, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr "Wiki"
+msgstr ""
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
@@ -1542,3 +1520,4 @@ msgstr "Ndio"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "Kutauta"
+

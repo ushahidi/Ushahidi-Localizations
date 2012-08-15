@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/imap.php, ar/imap.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:38+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ar\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ar\n"
 
 #: imap.imap_stream_not_opened
 msgctxt "imap.imap_stream_not_opened"
@@ -24,3 +20,4 @@ msgstr "IMAP Stream لم نتمكن من تشغيل"
 msgctxt "imap.unsupported_service"
 msgid "The email service is not supported."
 msgstr "خدمات البريد الإليكترونى غير متوفرة"
+

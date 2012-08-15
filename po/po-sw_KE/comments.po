@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/comments.php, sw_KE/comments.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:28+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sw_KE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: sw_KE\n"
 
 #: comments.captcha.default
 msgctxt "comments.captcha.default"
@@ -58,3 +55,4 @@ msgstr "Anwani ya barua pepe lazima iwe baina ya herufi 4 na 64."
 msgctxt "comments.comment_email.required"
 msgid "The Email field is required if the checkbox is checked."
 msgstr "Anwani ya barua pepe inahitajika kama kisanduku tiki chake kimewekwa tiki."
+

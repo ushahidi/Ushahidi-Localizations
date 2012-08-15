@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/form.php, zh_TW/form.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-13 04:51+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: zh_TW\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -22,8 +18,7 @@ msgstr "之前所提供的欄位預設值為無效資料."
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid ""
-"The Field Name must be at least 3 and no more than 200 characters long."
+msgid "The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "欄位名稱不得超過200個字元"
 
 #: form.field_height.between
@@ -43,8 +38,7 @@ msgstr "請確認是否新增日期欄位"
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid ""
-"The Field Name must be at least 3 and no more than 100 characters long."
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "欄位名稱需為3～100個字元"
 
 #: form.field_name.required
@@ -99,11 +93,11 @@ msgstr "請選擇欲增加欄位的表格"
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid ""
-"The form name field must be at least 3 and no more than 100 characters long."
+msgid "The form name field must be at least 3 and no more than 100 characters long."
 msgstr "表格名稱需為3~100個字元"
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "請輸入表格名稱"
+

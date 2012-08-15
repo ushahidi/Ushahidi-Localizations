@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/stats.php, sv_SE/stats.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:53+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: sv_SE\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -31,10 +28,7 @@ msgstr "Kategoriaktivitet"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid ""
-"This chart gives you a linear view of the reports by category over time.  "
-"Scroll from left to right to see a comparative view of the different "
-"categories. Mouse over the graph for more details."
+msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
 msgstr "Denna graf visar en linj&auml;r vy &ouml;ver rapporter per kategori &ouml;ver tid.  Bl&auml;ddra fr&aring;n v&auml;nster till h&ouml;ger f&ouml;r att se en j&auml;mf&ouml;rande vy f&ouml;r de olika kategorierna. Peka p&aring grafen f&ouml;r mer detaljer"
 
 #: stats.choose_date_range
@@ -59,9 +53,7 @@ msgstr "Nedbrytning av land"
 
 #: stats.description
 msgctxt "stats.description"
-msgid ""
-"This is the statistics section and will contain a general description here "
-"soon. For now, browse around using the sub category links above."
+msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
 msgstr "Detta &auml;r statistiksektionen. Allm&auml;n information kommer fram&ouml;ver. F&ouml;r tillf&auml;llet kan du bl&auml;ddra genom l&auml;nkarna till underkategorierna ovan"
 
 #: stats.error
@@ -82,7 +74,7 @@ msgstr "Sammanfattning tr&auml;ffar"
 #: stats.legend
 msgctxt "stats.legend"
 msgid "Legend"
-msgstr "Legend"
+msgstr ""
 
 #: stats.pageviews
 msgctxt "stats.pageviews"
@@ -161,11 +153,7 @@ msgstr "Unika bes&ouml;kare"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid ""
-"The number of individuals coming to your deployment. Unique visitors are "
-"determined using cookies. Visitors that do not have cookies enabled will be "
-"identified using a simple heuristic taking into account IP address, "
-"resolution, browser, plugins, OS, etc."
+msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
 msgstr "Antalet bes&ouml;kare till din upps&auml;ttning; Unika bes&ouml;kare best&auml;ms genom cookies. Om en bes&ouml;kare inte har aktiverat cookies, kommer de att identifieras genom en enkel metod d&auml;r man tar h&auml;nsyn till IP adress, uppl&ouml;sning, webbl&auml;sare, plugins, operativsystem, etc"
 
 #: stats.unverified
@@ -190,7 +178,6 @@ msgstr "Bes&ouml;k"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid ""
-"A visit is a record of a unique visitor coming to the site more than 30 "
-"minutes past his/her last pageview."
+msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
 msgstr "Ett bes&ouml;k registreras f&ouml;r en unik bes&ouml;kare som &aring;terkommer till sajten efter mer &auml;n 30 minuter sedan senaste sidvisningen"
+

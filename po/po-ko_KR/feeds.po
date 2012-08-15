@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/feeds.php, ko_KR/feeds.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:34+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ko_KR\n"
 
 #: feeds.date
 msgctxt "feeds.date"
@@ -21,9 +18,7 @@ msgstr "날짜"
 
 #: feeds.feed_name.length
 msgctxt "feeds.feed_name.length"
-msgid ""
-"The feed name field must be at least 3 and no more \n"
-"\t\t\t70 characters long."
+msgid "The feed name field must be at least 3 and no more \n\t\t\t70 characters long."
 msgstr "feed 제목은 최소 3자이상 70자이하로 입력되어야 합니다."
 
 #: feeds.feed_name.required
@@ -50,3 +45,4 @@ msgstr "소스"
 msgctxt "feeds.title"
 msgid "Title"
 msgstr "제목"
+

@@ -1,29 +1,25 @@
-# 
-# Translators:
+#. extracted from en_US/mhi.php, nl_NL/mhi.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:44+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl_NL\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: nl_NL\n"
 
 #: mhi.contact_captcha.default
 msgctxt "mhi.contact_captcha.default"
 msgid "Please enter a valid security code."
-msgstr "Please enter a valid security code."
+msgstr ""
 
 #: mhi.contact_captcha.required
 msgctxt "mhi.contact_captcha.required"
 msgid "Please enter the security code."
-msgstr "Please enter the security code."
+msgstr ""
 
 #: mhi.contact_email.email
 msgctxt "mhi.contact_email.email"
@@ -38,14 +34,15 @@ msgstr "Please provide a valid email address"
 #: mhi.contact_message.required
 msgctxt "mhi.contact_message.required"
 msgid "The message field is required."
-msgstr "The message field is required."
+msgstr ""
 
 #: mhi.contact_subject.length
 msgctxt "mhi.contact_subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr "The subject field must be at least 3 characters long."
+msgstr ""
 
 #: mhi.contact_subject.required
 msgctxt "mhi.contact_subject.required"
 msgid "The subject field is required."
-msgstr "The subject field is required."
+msgstr ""
+

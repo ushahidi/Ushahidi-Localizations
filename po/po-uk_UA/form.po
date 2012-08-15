@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/form.php, uk_UA/form.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:37+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: uk_UA\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: uk_UA\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -21,8 +18,7 @@ msgstr ""
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid ""
-"The Field Name must be at least 3 and no more than 200 characters long."
+msgid "The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "Ім'я поля має бути довжиною не менше 3 і не більше 200 символів."
 
 #: form.field_height.between
@@ -42,8 +38,7 @@ msgstr "Будь ласка, виберіть Так або Ні для поля
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid ""
-"The Field Name must be at least 3 and no more than 100 characters long."
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "Ім'я поля має бути довжиною не менше 3 і не більше 200 символів."
 
 #: form.field_name.required
@@ -98,11 +93,11 @@ msgstr "Будь ласка, виберіть, до якої форми це п�
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid ""
-"The form name field must be at least 3 and no more than 100 characters long."
+msgid "The form name field must be at least 3 and no more than 100 characters long."
 msgstr "Поле назви форми має бути довжиною не менше 3 і не більше 200 символів."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Будь ласка, введіть назву форми."
+

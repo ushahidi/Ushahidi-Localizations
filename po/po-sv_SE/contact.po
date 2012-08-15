@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/contact.php, sv_SE/contact.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:29+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: sv_SE\n"
 
 #: contact.captcha.default
 msgctxt "contact.captcha.default"
@@ -73,3 +70,4 @@ msgstr "Rubrikf&auml;ltet m&aring;ste fyllas i."
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
 msgstr ""
+

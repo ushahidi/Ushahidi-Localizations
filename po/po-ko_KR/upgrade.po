@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,6 +64,16 @@ msgstr ""
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
 msgid "Ushahidi database upgrade"
+msgstr ""
+
+#: upgrade.upgrade_db_info
+msgctxt "upgrade.upgrade_db_info"
+msgid "Ushahidi has been updated! Before you continue, you need to update your database to the newest version (%s)."
+msgstr ""
+
+#: upgrade.upgrade_db_up_to_date
+msgctxt "upgrade.upgrade_db_up_to_date"
+msgid "Your database version is up to date."
 msgstr ""
 
 #: upgrade.upgrade_failed
@@ -149,6 +159,11 @@ msgstr ""
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
+msgstr ""
+
+#: upgrade.upgrade_status_info_2
+msgctxt "upgrade.upgrade_status_info_2"
+msgid "You do not need to upgrade."
 msgstr ""
 
 #: upgrade.upgrade_db_version

@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/form.php, hu_HU/form.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-13 04:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu_HU\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: hu_HU\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -22,8 +18,7 @@ msgstr ""
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid ""
-"The Field Name must be at least 3 and no more than 200 characters long."
+msgid "The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "A mező neve legalább 3 és legfeljebb 200 karakterből állhat."
 
 #: form.field_height.between
@@ -43,8 +38,7 @@ msgstr "Kérem, válasszon az IGEN vagy NEM közül a dátum mező engedélyezé
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid ""
-"The Field Name must be at least 3 and no more than 100 characters long."
+msgid "The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "A mező neve legalabb 3 és legfeljebb 200 karakterből állhat."
 
 #: form.field_name.required
@@ -99,11 +93,11 @@ msgstr "Kérem, válassza ki, melyik űrlaphoz tartozik ez a mező."
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid ""
-"The form name field must be at least 3 and no more than 100 characters long."
+msgid "The form name field must be at least 3 and no more than 100 characters long."
 msgstr "Az űrlap neve legalább 3 és legfeljebb 200 karakterből állhat."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Kérem, adja meg az űrlap nevét."
+

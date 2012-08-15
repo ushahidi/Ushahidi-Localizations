@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/comments.php, ko_KR/comments.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:27+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ko_KR\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ko_KR\n"
 
 #: comments.captcha.default
 msgctxt "comments.captcha.default"
@@ -58,3 +55,4 @@ msgstr "이메일은 최소 4~64자가 입력되어야 합니다."
 msgctxt "comments.comment_email.required"
 msgid "The Email field is required if the checkbox is checked."
 msgstr "체크박스 체크 시 이메일 입력은 필수입니다."
+

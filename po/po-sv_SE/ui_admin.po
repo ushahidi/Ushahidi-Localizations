@@ -1,31 +1,24 @@
-# 
-# Translators:
+#. extracted from en_US/ui_admin.php, sv_SE/ui_admin.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:55+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: sv_SE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: sv_SE\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "Nekat tilltr&auml;de. Antingen &auml;r dina inloggningsuppgifter fel, eller s&aring har din beg&auml;ran nekats"
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 msgstr "Nekat tilltr&auml;de. Din beg&auml;ran har mottagits, men nekad p&aring grund av tilltr&auml;desbegr&auml;nsningar, t.ex. tid. F&ouml;rs&ouml;k igen senare"
 
 #: ui_admin.access_level
@@ -61,7 +54,7 @@ msgstr ""
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr "Admin"
+msgstr ""
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
@@ -76,7 +69,7 @@ msgstr ""
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr "AM"
+msgstr ""
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -96,7 +89,7 @@ msgstr ""
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr "API Banned"
+msgstr ""
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
@@ -325,8 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -382,7 +374,7 @@ msgstr ""
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr "Demo"
+msgstr ""
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -597,7 +589,7 @@ msgstr "Formul&auml;ret finns inte!"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr "Forum"
+msgstr ""
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -689,6 +681,11 @@ msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr "H&auml;ndelse-fl&ouml;de f&ouml;r"
 
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
+
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
@@ -772,7 +769,7 @@ msgstr "Lager"
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr "Moderator"
+msgstr ""
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
@@ -802,6 +799,11 @@ msgstr "Hantera anv&auml;ndare"
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
+msgstr ""
+
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
 msgstr ""
 
 #: ui_admin.mark_as
@@ -837,12 +839,12 @@ msgstr "Meddelanden"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr "Laconica Messages"
+msgstr ""
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr "Twitter Messages"
+msgstr ""
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
@@ -852,7 +854,7 @@ msgstr "Ditt meddelande har skickats!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr "MHI"
+msgstr ""
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -961,10 +963,7 @@ msgstr "Nej"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without"
-" categories(uncategorized reports) as a result of category deletion."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
@@ -1029,17 +1028,7 @@ msgstr "Sidan hittades inte"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
-" a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
-" can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 msgstr "Sidan hittas inte.<p><strong>Om du kom hit fr&aring;n en l&auml;nk p&aring v&aring;r sajt?</strong><br />Om du kom hit fr&aring;n en annan sida p&aring v&aring;r sajt, v&auml;nligen <a href=\"#\">kontakta oss</a> s&aring vi kan r&auml;tta felet.</p><p><strong>F&ouml;ljde du en l&auml;nk fr&aring;n en annan sajt? </strong><br />L&auml;nkar fr&aring;n andra sajter kan ibland vara gamla och felaktiga. <a href=\"#\">Ber&auml;tta f&ouml;r oss</a> var du kom fr&aring;n, s&aring ska vi f&ouml;rs&ouml;ka kontakta den andra sajten f&ouml;r att r&auml;tta till problemet.</p><p><strong>Skrev du sj&auml;lv in URL:en? </strong><br />Du kan ha skrivit in adressen fel. Kontrollera att du skrivit r&auml;tt. </p>"
 
 #: ui_admin.parameters_used
@@ -1060,7 +1049,7 @@ msgstr "&Aringterst&auml;ll l&ouml;senord"
 #: ui_admin.password_reset_from
 msgctxt "ui_admin.password_reset_from"
 msgid "no-reply@ushahidi.com"
-msgstr "no-reply@ushahidi.com"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
@@ -1074,16 +1063,12 @@ msgstr "Vi har f&aring;tt en beg&auml;ran att &aringterst&auml;lla l&ouml;senord
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
 msgstr "F&ouml;r att &auml;ndra l&ouml;senordet, klicka p&aring l&auml;nken nedan (eller kopiera in den i en webbl&auml;sare)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
 msgstr "Som du beg&auml;rt, s&aring &auml;r ditt l&ouml;senord nu &aringterst&auml;llt. Ditt nya l&ouml;senord &auml;r"
 
 #: ui_admin.password_reset_subject
@@ -1104,7 +1089,7 @@ msgstr ""
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
 msgid "PM"
-msgstr "PM"
+msgstr ""
 
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
@@ -1233,16 +1218,12 @@ msgstr "s&ouml;ker efter"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
@@ -1317,10 +1298,7 @@ msgstr ""
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
 msgstr ""
 
 #: ui_admin.specific_area
@@ -1366,7 +1344,7 @@ msgstr ""
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr "Super Admin"
+msgstr ""
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
@@ -1481,7 +1459,7 @@ msgstr "Anv&auml;ndare"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr "Ushahidi"
+msgstr ""
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1496,7 +1474,7 @@ msgstr ""
 #: ui_admin.version
 msgctxt "ui_admin.version"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
@@ -1531,7 +1509,7 @@ msgstr "W&auml;lkommen, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr "Wiki"
+msgstr ""
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
@@ -1542,3 +1520,4 @@ msgstr "Ja"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "Din s&ouml;kning efter"
+

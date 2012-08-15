@@ -1,0 +1,58 @@
+#. extracted from en_US/roles.php, sq_AL/roles.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: sq_AL\n"
+
+#: roles.description.length
+msgctxt "roles.description.length"
+msgid "The Description field must be at least 3 and no more 100 characters long."
+msgstr "Hap&euml;sira e p&euml;rshkrimit duhet t&euml; p&euml;rmbaj&euml; 3 deri n&euml; 100 karaktere."
+
+#: roles.description.required
+msgctxt "roles.description.required"
+msgid "The Description field is required."
+msgstr " Informacioni n&euml; hap&euml;sir&euml;n e p&euml;rshkrimit &euml;sht&euml; i detyruesh&euml;m p&euml;r tu plot&euml;suar."
+
+#: roles.name.alpha_numeric
+msgctxt "roles.name.alpha_numeric"
+msgid "The Name field must only contain letters or numbers."
+msgstr "Emri duhet t&euml; p&euml;rmbaj&euml; vet&euml;m shkronja dhe numra ."
+
+#: roles.name.length
+msgctxt "roles.name.length"
+msgid "The Name field must be at least 2 and no more than 30 characters long."
+msgstr "Emri duhet t&euml; p&euml;rmbaj&euml;  2 deri n&euml; 30 karaktere."
+
+#: roles.name.nomodify
+msgctxt "roles.name.nomodify"
+msgid "SuperAdmin Role Cannot Be Modified."
+msgstr " Roli i Krye Administratorit nuk mund t&euml; modifikohet."
+
+#: roles.name.required
+msgctxt "roles.name.required"
+msgid "The Name field is required."
+msgstr "Informacioni p&euml;r emrin &euml;sht&euml; i detyruesh&euml;m p&euml;r tu plot&euml;suar."
+
+#: roles.access_level.numeric
+msgctxt "roles.access_level.numeric"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr "Niveli i aksesit duhet t&euml; jet&euml; nj&euml; num&euml;r nga 0 deri n&euml; 100."
+
+#: roles.access_level.required
+msgctxt "roles.access_level.required"
+msgid "Access Level field must be a number between 0 - 100."
+msgstr "Niveli i aksesit duhet t&euml; jet&euml; nj&euml; num&euml;r nga 0 deri n&euml; 100."
+
+#: roles.permissions.numeric
+msgctxt "roles.permissions.numeric"
+msgid "Permissions field must be a number between 0 - 100."
+msgstr ""
+

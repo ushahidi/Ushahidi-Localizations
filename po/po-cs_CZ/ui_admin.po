@@ -1,37 +1,30 @@
-# 
-# Translators:
+#. extracted from en_US/ui_admin.php, cs_CZ/ui_admin.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:55+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cs_CZ\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: cs_CZ\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "Přístup zamítnut. Buď jste nezadal správné ověřovací údaje anebo došlo k zamítnutí Vaší žádosti. "
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 msgstr "Přístup zamítnut. Váš požadavek byl systémem pochopen, ale zamítnut kvůli přístupovým omezením (např. časovým)."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr "Access Level"
+msgstr ""
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
@@ -41,7 +34,7 @@ msgstr "Akce"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr "Add to Category"
+msgstr ""
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -61,17 +54,17 @@ msgstr "doplňky"
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr "Admin"
+msgstr ""
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr "Alerts"
+msgstr ""
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr "Alerts Received"
+msgstr ""
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -86,12 +79,12 @@ msgstr "anonymní"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr "Anyone"
+msgstr ""
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr "Anywhere"
+msgstr ""
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
@@ -106,7 +99,7 @@ msgstr "API Logs/záznamy"
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr "API Settings"
+msgstr ""
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
@@ -141,7 +134,7 @@ msgstr "archivované"
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr "Are you sure you want to"
+msgstr ""
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
@@ -161,17 +154,17 @@ msgstr "Are you sure you want to switch forms"
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr "Assign"
+msgstr ""
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr "Assignments"
+msgstr ""
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr "Assign Badge"
+msgstr ""
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -191,22 +184,22 @@ msgstr "zpět"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr "Ban IP"
+msgstr ""
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr "Between Times"
+msgstr ""
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr "Blocks"
+msgstr ""
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr "Body"
+msgstr ""
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
@@ -241,12 +234,12 @@ msgstr "Zkontrolujte nastavení SMS"
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr "Checkin Details"
+msgstr ""
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr "Checkins"
+msgstr ""
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
@@ -261,12 +254,12 @@ msgstr "kód"
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr "Code version out of sync."
+msgstr ""
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr "Color"
+msgstr ""
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
@@ -286,7 +279,7 @@ msgstr "Uživatel byl:"
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr "Count"
+msgstr ""
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
@@ -306,27 +299,26 @@ msgstr "Nová zpráva"
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr "Critical Upgrade"
+msgstr ""
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr "CSV"
+msgstr ""
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr "Currently Active"
+msgstr ""
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr "Currently Inactive"
+msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -352,12 +344,12 @@ msgstr "Datum a čas"
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr "Days of the week"
+msgstr ""
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr "DB version out of sync."
+msgstr ""
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
@@ -377,12 +369,12 @@ msgstr "Smazat vše"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr "Delete Badge"
+msgstr ""
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr "Demo"
+msgstr ""
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -392,22 +384,22 @@ msgstr "Popis"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr "Disabled"
+msgstr ""
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr "Divider Start"
+msgstr ""
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr "Divider End"
+msgstr ""
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr "div class"
+msgstr ""
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -417,7 +409,7 @@ msgstr "Stáhnout zprávy"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr "Dropdown Choices"
+msgstr ""
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
@@ -437,22 +429,22 @@ msgstr "Editovat"
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr "Edit Log"
+msgstr ""
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr "Entire Collective"
+msgstr ""
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
 msgid "Error in geocoding! HTTP error"
-msgstr "Error in geocoding! HTTP error"
+msgstr ""
 
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
@@ -482,12 +474,12 @@ msgstr "každých dvanáct hodin"
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr "Experimental"
+msgstr ""
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
 msgid "FAQ's"
-msgstr "FAQ's"
+msgstr ""
 
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
@@ -507,7 +499,7 @@ msgstr "Monitoring tisku (rss kanály)"
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr "List of Choices"
+msgstr ""
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
@@ -517,27 +509,27 @@ msgstr "předem nastavená hodnota (default value)"
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr "Data Type"
+msgstr ""
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr "Javascript"
+msgstr ""
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr "Markup"
+msgstr ""
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr "Numeric"
+msgstr ""
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr "Free Text"
+msgstr ""
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -547,7 +539,7 @@ msgstr "Výška (v řádcích)"
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr "Hidden Field"
+msgstr ""
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
@@ -562,22 +554,22 @@ msgstr "Název políčka"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr "Toggle"
+msgstr ""
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr "No"
+msgstr ""
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr "Yes, Closed by default"
+msgstr ""
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr "Yes, Open by default"
+msgstr ""
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -597,7 +589,7 @@ msgstr "Tento formulář neexistuje! (That Form Does Not Exist!)"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr "Forum"
+msgstr ""
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -607,22 +599,22 @@ msgstr "Místo pro text (Text Area Field - Free Text)"
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr "Date Field"
+msgstr ""
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr "Radio Buttons Field"
+msgstr ""
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
-msgstr "Checkboxes Field"
+msgstr ""
 
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr "Dropdown Field"
+msgstr ""
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -637,7 +629,7 @@ msgstr "od"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr "Geonames Timeout Error"
+msgstr ""
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -657,7 +649,7 @@ msgstr "Přidat/upravit"
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
@@ -688,6 +680,11 @@ msgstr "Každou hodinu"
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr "Kanál zpráv pro (incident feed for)"
+
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -722,22 +719,22 @@ msgstr "Jedná se o políčko pro vyplnění data?"
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr "Who Can View Answers"
+msgstr ""
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr "Who Can Submit Answers"
+msgstr ""
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr "Keyword"
+msgstr ""
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr "Keywords"
+msgstr ""
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
@@ -804,10 +801,15 @@ msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
 msgstr "Přidat/upravit uživatele"
 
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
+msgstr ""
+
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr "Mark As"
+msgstr ""
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
@@ -852,7 +854,7 @@ msgstr "Zpráva byla odeslána!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr "MHI"
+msgstr ""
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -882,7 +884,7 @@ msgstr "pozměněné"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr "Modify Timezone Setting"
+msgstr ""
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -897,17 +899,17 @@ msgstr "posunout nahoru"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr "Multiple Hosted Instances"
+msgstr ""
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr "My Alerts"
+msgstr ""
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr "My Checkins"
+msgstr ""
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -917,37 +919,37 @@ msgstr "Můj profil"
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr "My Reports"
+msgstr ""
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr "Votes Cast"
+msgstr ""
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
 msgid "Positive"
-msgstr "Positive"
+msgstr ""
 
 #: ui_admin.my_votes_down
 msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
-msgstr "Negative"
+msgstr ""
 
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr "Name"
+msgstr ""
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr "Create New Alert"
+msgstr ""
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr "Create New Message"
+msgstr ""
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
@@ -961,10 +963,7 @@ msgstr "Ne"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without"
-" categories(uncategorized reports) as a result of category deletion."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
@@ -985,7 +984,7 @@ msgstr "Nenalezeno"
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr "No data. There are no results to show."
+msgstr ""
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
@@ -1005,12 +1004,12 @@ msgstr "z"
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr "On Specific Count"
+msgstr ""
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr "OpenID's"
+msgstr ""
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1029,17 +1028,7 @@ msgstr "Stránka nenalezena"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
-" a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
-" can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 msgstr "Je nám líto, ale stránka, kterou jste chtěl zobrazit, nebyla nalezena.<p><strong>Dostal jste se sem kliknutím na odkaz z jiné stránky?</strong><br />Pokud jste se dostal na tuto stránku z jiné části našeho webu, tak nás, prosím<a href=\"#\">kontaktujte</a>, abychom mohli opravit chybu.</p><p><strong>Dostali jste se sem přes odkaz z jiného webu? </strong><br />Tyto odkazy mohou být zastaralé anebo mohou obsahovat chybu. <a href=\"#\">Dejte nám vědět</a>, odkud jste se na náš web dostal a my budeme následně kontaktovat tento web, aby se opravil odkaz.</p><p><strong>Napsal jste adresu webu přímo vy? </strong><br />Možná jste napsal adresu chybně. Zkontrolujte ji, prosím. </p>"
 
 #: ui_admin.parameters_used
@@ -1060,7 +1049,7 @@ msgstr "Resetovat heslo"
 #: ui_admin.password_reset_from
 msgctxt "ui_admin.password_reset_from"
 msgid "no-reply@ushahidi.com"
-msgstr "no-reply@ushahidi.com"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
@@ -1074,16 +1063,12 @@ msgstr "Obdrželi jsme požadavek na resetování heslo pro "
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
 msgstr "Pro změnu hesla, prosím, klikněte na odkaz níže anebo ho zkopírujte do nového okna prohlížeče."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
 msgstr "Heslo bylo resetováno. Vaše údaje jsou následující"
 
 #: ui_admin.password_reset_subject
@@ -1099,7 +1084,7 @@ msgstr "Telefon"
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr "Please Select"
+msgstr ""
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
@@ -1109,47 +1094,47 @@ msgstr "odpoledne"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr "Data was not sent by post method"
+msgstr ""
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr "Preview"
+msgstr ""
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr "Message"
+msgstr ""
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr "Private Messages"
+msgstr ""
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr "Private Message Sent"
+msgstr ""
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr "Subject"
+msgstr ""
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr "To"
+msgstr ""
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr "Public Listing"
+msgstr ""
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr "Qualifiers"
+msgstr ""
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1159,7 +1144,7 @@ msgstr "Přečíst/přečteno"
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr "Relevance"
+msgstr ""
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
@@ -1184,7 +1169,7 @@ msgstr "Admin zpráv"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr "Reputation Score"
+msgstr ""
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1199,7 +1184,7 @@ msgstr "Resetovat"
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr "Response"
+msgstr ""
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1209,7 +1194,7 @@ msgstr "Výsledky"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr "Revoke"
+msgstr ""
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1233,16 +1218,12 @@ msgstr "vyhledání"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
@@ -1263,12 +1244,12 @@ msgstr "Zvolte položku"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr "You must select a Trigger before you can select a Response."
+msgstr ""
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr "You must select a Trigger before you can define Qualifiers."
+msgstr ""
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1278,7 +1259,7 @@ msgstr "Odesílatel"
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr "Send To"
+msgstr ""
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
@@ -1288,7 +1269,7 @@ msgstr "Tato zpráva byla poslána z vašeho webu v"
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr "Server Time"
+msgstr ""
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1308,30 +1289,27 @@ msgstr "Výsledky vyhledávání"
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr "shown"
+msgstr ""
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr "Special Category"
+msgstr ""
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
-msgstr "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgstr ""
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr "Specific Area"
+msgstr ""
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
 msgid "State"
-msgstr "State"
+msgstr ""
 
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
@@ -1356,12 +1334,12 @@ msgstr "Sběr statistiky byl neúspěšný!"
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr "Specific Days"
+msgstr ""
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr "Subject"
+msgstr ""
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
@@ -1411,17 +1389,17 @@ msgstr "Přeložit zprávy"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr "Trigger"
+msgstr ""
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr "Triggering User"
+msgstr ""
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr "Triggers"
+msgstr ""
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
@@ -1456,12 +1434,12 @@ msgstr "Klikněte zde pro upgrade"
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr "Upgrade Ushahidi"
+msgstr ""
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr "Upgrade Ushahidi Status"
+msgstr ""
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
@@ -1471,7 +1449,7 @@ msgstr "Nahrát zprávy (upload)"
 #: ui_admin.user
 msgctxt "ui_admin.user"
 msgid "User"
-msgstr "User"
+msgstr ""
 
 #: ui_admin.users
 msgctxt "ui_admin.users"
@@ -1481,17 +1459,17 @@ msgstr "Uživatelé"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr "Ushahidi"
+msgstr ""
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr "Verified/Unverified"
+msgstr ""
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr "Verify/Unverify"
+msgstr ""
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
@@ -1511,7 +1489,7 @@ msgstr ""
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
 msgid "Private Messages"
-msgstr "Private Messages"
+msgstr ""
 
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
@@ -1521,7 +1499,7 @@ msgstr "Zobrazit web"
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr "View Report"
+msgstr ""
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
@@ -1531,7 +1509,7 @@ msgstr "Vítejte, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr "Wiki"
+msgstr ""
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
@@ -1542,3 +1520,4 @@ msgstr "Ano"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "Na váš dotaz"
+

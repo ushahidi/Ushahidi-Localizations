@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/ui_main.php, mk_MK/ui_main.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:57+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: mk_MK\n"
-"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: mk_MK\n"
 
 #: ui_main.about
 msgctxt "ui_main.about"
@@ -22,37 +19,37 @@ msgstr "За "
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr "Access"
+msgstr "Пристап"
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr "Access Limits"
+msgstr "Ограничувња на пристап"
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr "Account Name"
+msgstr "Име на сметката"
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr "Actions"
+msgstr "Акции"
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr "This action cannot be undone. Are you sure you want to continue?"
+msgstr "Оваа акција не може да се откаже. Дали сте сигурни дека сакате да продолжите?"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr "Activate"
+msgstr "Активирај"
 
 #: ui_main.active
 msgctxt "ui_main.active"
 msgid "Active"
-msgstr "Active"
+msgstr "Активно"
 
 #: ui_main.add
 msgctxt "ui_main.add"
@@ -112,17 +109,17 @@ msgstr "Администрација"
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "Get Alerts"
+msgstr "Предупредувања"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "Alert me if a report is filed in, or around:"
+msgstr "Предупредиме ако има пријава во, or или околу:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "Save My Alert"
+msgstr "Зачувај го моето предупредување"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
@@ -142,31 +139,32 @@ msgstr "внеси број на мобилен телефон со кодот �
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "Get Alerts"
+msgstr "Предупредувања"
+
+#: ui_main.alert_has_been
+msgctxt "ui_main.alert_has_been"
+msgid "Alert has been"
+msgstr ""
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
-msgstr "Телелефон:"
+msgstr "Телефон:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
-msgid ""
-"Or place a spot on the map below, and we will alert you when a report is "
-"submitted within 20 kilometers."
+msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
 msgstr "Или означете место на мапата доле, и ние ќе ве известиме кога пријава ќе биде додадена на 20 километри."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
-msgid ""
-"If you can't find your location, please click on the map to pinpoint the "
-"correct location."
+msgid "If you can't find your location, please click on the map to pinpoint the correct location."
 msgstr "Ако не можете да ја најдете вашта локација, означете ја на мапата."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr "RSS Feeds (copy the URL below)"
+msgstr "RSS новости (копирај го URL доле)"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
@@ -176,27 +174,27 @@ msgstr "Одбери град"
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr "<strong>Step 1:</strong> Одберете го вашиот град или локација:"
+msgstr "<strong>Чекор 1:</strong> Одберете го вашиот град или локација:"
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>Step 2:</strong> Send alerts to my:"
+msgstr "<strong>Чекор 2:</strong> Пратете го предупредувањата на:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr "<strong>Step 3 (Optional):</strong> Одберете категорија"
+msgstr "<strong>Чекор 3 (Незадолжително):</strong> Одберете категорија"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Confirm A Previous Alert Request"
+msgstr "ПОтврдете побарување за претходно предупредување"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "Your Alert Has Been Saved!"
+msgstr "Вашето предупредување е зачувано!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -226,7 +224,7 @@ msgstr "и"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr "API"
+msgstr ""
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -266,7 +264,7 @@ msgstr "Архивирано"
 #: ui_main.at
 msgctxt "ui_main.at"
 msgid "at"
-msgstr "at"
+msgstr "во"
 
 #: ui_main.author
 msgctxt "ui_main.author"
@@ -276,37 +274,37 @@ msgstr "Автор"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr "Auto Checkin"
+msgstr "Автоматско пријавување"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr "Avg Reports Per Day"
+msgstr "Просечно пријави дненвно"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr "Awaiting Approval"
+msgstr "Се чека одобрување"
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr "Awaiting Verification"
+msgstr "Се чека верификација"
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr "Badge"
+msgstr "Беџ"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr "Badges"
+msgstr "Беџови"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr "Badge Image"
+msgstr "Слика на беџот"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
@@ -316,12 +314,12 @@ msgstr "Или можете да прикачите ваша слика."
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr "Badge Pack"
+msgstr "Група беџови"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr "Select a Badge"
+msgstr "Одбери беџ"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -356,7 +354,7 @@ msgstr "Филтер на категории"
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr "The category has been "
+msgstr "Оваа категорија е "
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
@@ -386,7 +384,7 @@ msgstr "Избери"
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
-msgstr "Choose data points to download"
+msgstr "Одберете што да симнете"
 
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
@@ -401,7 +399,7 @@ msgstr "Одберете тип на поле"
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr "Clean URLs"
+msgstr "Чисти URL"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
@@ -421,7 +419,7 @@ msgstr "Затвори"
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr "clusters"
+msgstr "кластери"
 
 #: ui_main.color
 msgctxt "ui_main.color"
@@ -455,19 +453,18 @@ msgstr "Подеси"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
-msgid ""
-"You have successfully confirmed your email address! Please login below."
+msgid "You have successfully confirmed your email address! Please login below."
 msgstr "Успешно ја потврдивте вашата email адреса! Ве молиме логирајте се подоле."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
 msgid "Contact Us"
-msgstr "Контактирајте не"
+msgstr "Контактирајте нè"
 
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr "Security Code"
+msgstr "Сигурносен код"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
@@ -507,7 +504,7 @@ msgstr "Наслов на пораката"
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr "Copyright ©"
+msgstr ""
 
 #: ui_main.create
 msgctxt "ui_main.create"
@@ -647,12 +644,12 @@ msgstr "Повеќе"
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr "Direct Report"
+msgstr "Директна Пријава"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr "Disabled"
+msgstr "Оневозможено"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
@@ -682,89 +679,87 @@ msgstr "Измени извештај"
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr "Email"
+msgstr "Електронска пошта"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr "Email адреса"
+msgstr "Адреса на електронска пошта"
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr "Mail Server Settings"
+msgstr "Mail Server Подесувања"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr "Mail Server Host"
+msgstr "Mail Server Хост"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "Mail Server Password"
+msgstr "Mail Server Лозинка"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "Mail Server Port"
+msgstr "Mail Server Порта"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr "Mail Server SSL support"
+msgstr "Mail Server SSL поддршка"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr "Mail Server Type"
+msgstr "Mail Server Тип"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr "Mail Server Username"
+msgstr "Mail Server корисничко име"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr "so your settings have to be associated with this email address"
+msgstr "па вашите подесувања мораат да бидат асоцирани со оваа email address"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
-msgid ""
-"In order to receive reports by email, please input your email account "
-"settings below. Please note that emails will be received at your"
-msgstr "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgstr "За да добивате пријави на email, ве молиме внесете ја вашата email адреса во подесувањата доле. Ве молиме имајте во предвид emails пораките ќе бида доставени до вашето"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr "Some servers require a complete email address"
+msgstr "Некои сервери бараат комплетна email адреса"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr "Email account password"
+msgstr "Email лозинка"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr ""
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Примери: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr "Examples: pop3, imap"
+msgstr "Примери: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr "Enable or disable SSL connections"
+msgstr "Овозможи или оневозможи SSL конекции"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
@@ -804,59 +799,57 @@ msgstr "Надворешен видео линк"
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr "Feed"
+msgstr "Новости"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr "Provide Feedback"
+msgstr "Кажете ни ->"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
-msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
-msgstr "Please give us feedback about your experience by clicking on the button below."
+msgid "Please give us feedback about your experience by clicking on the button below."
+msgstr "Што мислите за нашата страница? Кажете ни со кликање на копчето подоле."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr "Feeds"
+msgstr "Новости"
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr "The feed has been"
+msgstr "Овие новости се"
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr "Feed Items"
+msgstr "Новости"
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr "Feed Name"
+msgstr "Име на новостите"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr "Feed URL"
+msgstr "URL на новостите"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr "Unused field"
+msgstr "Неискоритено поле"
 
 #: ui_main.file
 msgctxt "ui_main.file"
 msgid "File"
-msgstr "File"
+msgstr "Документ"
 
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr "Your file is over the maximum allowed filesize."
+msgstr "Вашиот документ е над максимално дозволената големина."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -896,7 +889,7 @@ msgstr "Име"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr "Force Run Scheduler"
+msgstr ""
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -916,22 +909,22 @@ msgstr "Форми"
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr "Form Description"
+msgstr "Опис на формата"
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr "Edit this Form"
+msgstr "Измени ја оваа форма"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr "The form has been"
+msgstr "Оваа форма е"
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr "Form Title"
+msgstr "Наслов на формата"
 
 #: ui_main.from
 msgctxt "ui_main.from"
@@ -946,7 +939,7 @@ msgstr "Име и презиме"
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr "GeoLocation Available"
+msgstr "Геолокација достапна"
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
@@ -961,12 +954,12 @@ msgstr "Коментари"
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr "Label"
+msgstr "Ознака"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr "Stroke Width"
+msgstr ""
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -981,12 +974,12 @@ msgstr "Хаштаг"
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr "Has Been"
+msgstr "Било"
 
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr "How to Help"
+msgstr "Како да помогнете"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
@@ -1016,12 +1009,12 @@ msgstr "Како да пријавам"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr "HTTPS"
+msgstr ""
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr "ID"
+msgstr ""
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1096,7 +1089,7 @@ msgstr "Вклучи колку што е можно повеќе детали"
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr "Include Latitude"
+msgstr "Вклучи латитуда"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
@@ -1106,17 +1099,17 @@ msgstr "Вклучи информација за локацијата"
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr "Include Longitude"
+msgstr "Вклучи лонгитуда"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr "Incoming Media"
+msgstr "Надворешно прикачени материјали"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr "Information Evaluation"
+msgstr "Евалуација на информациите"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
@@ -1125,9 +1118,7 @@ msgstr "Внесете ја вашата прецизна локација"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
-msgid ""
-"Your account doesn't have the proper permission to fully log you in. Please "
-"contact the administrator."
+msgid "Your account doesn't have the proper permission to fully log you in. Please contact the administrator."
 msgstr "Вашата сметка ги нема потребните одобрувања за да се логирате. Ве молиме контактирајте го администраторот."
 
 #: ui_main.in_response_to
@@ -1148,47 +1139,47 @@ msgstr "Дали е ова вашиот профил?"
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr "item"
+msgstr ""
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr "items"
+msgstr ""
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr "item_details"
+msgstr ""
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr "Item Title"
+msgstr ""
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr "Key"
+msgstr "Клуч"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr "KMZ/KML File"
+msgstr ""
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr "Upload KMZ/KML File"
+msgstr "Качи KMZ/KML File"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr "KML URL"
+msgstr ""
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr "Laconica"
+msgstr ""
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1218,32 +1209,32 @@ msgstr "Последната година"
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr "Latitude"
+msgstr "Латитуда"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr "Леери"
+msgstr "Слоеви"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr "Other Layers"
+msgstr "Други слоеви"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr "The Layer Has Been"
+msgstr "Овој слој бил"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr "Layer Name"
+msgstr "Име на слојот"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr "Layer URL"
+msgstr "URL на слојот"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
@@ -1258,22 +1249,22 @@ msgstr "помалку"
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr "Level"
+msgstr "Ниво"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr "This level has been"
+msgstr "Ова ниво било"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr "Level Name"
+msgstr "Име на нивото"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr "Limited"
+msgstr "Ограничени"
 
 #: ui_main.link
 msgctxt "ui_main.link"
@@ -1288,7 +1279,7 @@ msgstr "Листа"
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr "Loading Reports"
+msgstr "Пријавите се вчитуваат"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1322,14 +1313,13 @@ msgstr "Одобрување е пратено на вашата email адре�
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
-msgid ""
-"Email address doesn't exist. Try a different address or create an account."
+msgid "Email address doesn't exist. Try a different address or create an account."
 msgstr "Email адресата не постои. Пробајте различна адреса или креирајте нова."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr "Please click your account provider"
+msgstr "Ве молам кликнете на провајдерот на вашта сметка"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
@@ -1344,7 +1334,7 @@ msgstr "Email и лозинка"
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr "OpenID"
+msgstr ""
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
@@ -1358,9 +1348,7 @@ msgstr "Креирајте профил"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
-msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
+msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
 msgstr "Ви благодариме што се регистриравте на %s. За да ја потврдите вашата email адреса, ве молиме следете го овој линк: %s"
 
 #: ui_main.login_signup_confirmation_subject
@@ -1406,7 +1394,7 @@ msgstr "Слики, видеа, вести"
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr "Media Filter"
+msgstr "Филтер"
 
 #: ui_main.members
 msgctxt "ui_main.members"
@@ -1436,7 +1424,7 @@ msgstr "Детали на пораката"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr "Message from a non-numeric source:"
+msgstr "Порака од не-нумерички извор:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
@@ -1471,14 +1459,12 @@ msgstr "Повеќе информации"
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Дали оваа Ushahidi инстанца се протега низ повеќе држави"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
-msgid ""
-"You must confirm your email address to access this deployment. If you lost "
-"your confirmation email, you can request a new one below."
-msgstr "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
+msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
+msgstr "За да и пристапите на оваа инстанца морате да ја потврдите вашата email адреса. Ако сте го изгубиле потврдниот email, можете да побарате нов подоле."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1503,12 +1489,12 @@ msgstr "Вести"
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr "News Feeds"
+msgstr "Новости"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr "News Source"
+msgstr "Извор на вестите"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
@@ -1538,7 +1524,7 @@ msgstr "Не"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr "No checkins to display."
+msgstr "Нема пријавувања за приказ."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
@@ -1553,7 +1539,7 @@ msgstr "Нема"
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr "Notices"
+msgstr ""
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
@@ -1593,7 +1579,7 @@ msgstr "Нема резултати"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr "Off"
+msgstr ""
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1603,7 +1589,7 @@ msgstr "Официјални и мејнстрим вести"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr "On"
+msgstr ""
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1683,7 +1669,7 @@ msgstr "Првичен наслов"
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr "Other Deployments"
+msgstr "Други Ushahidi инстанци"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
@@ -1693,7 +1679,7 @@ msgstr "Пратени"
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr "Outgoing"
+msgstr "Испратена"
 
 #: ui_main.page
 msgctxt "ui_main.page"
@@ -1718,7 +1704,7 @@ msgstr "Стрницата била"
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr "Page Tab Name"
+msgstr "Наслов на табот"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
@@ -1728,7 +1714,7 @@ msgstr "Наслов на страницата"
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr "Parent Category"
+msgstr "Категорија родител"
 
 #: ui_main.password
 msgctxt "ui_main.password"
@@ -1773,12 +1759,12 @@ msgstr "Изминатата година"
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr "Pending"
+msgstr "Се вчитува"
 
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr "per"
+msgstr ""
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1807,10 +1793,7 @@ msgstr "Слики и видеа"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
-msgid ""
-"* Search for your location using a location name OR latitude,longitude "
-"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
-"correct location."
+msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
 msgstr "* Барајте ја вашата локација користејќи го името ИЛИ координатите латитуда, лонгитуда (формат: 38.19, 85.61), ИЛИ кликнете на мапата за да ја означите точната локација."
 
 #: ui_main.play
@@ -1821,17 +1804,17 @@ msgstr "Пушти"
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr "Please Note"
+msgstr "Ве молиме имајте во предвид"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Plugins"
+msgstr "Плагини"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr "Plugin Website"
+msgstr "Веб страницата на плагинот"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
@@ -1851,7 +1834,7 @@ msgstr "Преглед"
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr "Preview Item"
+msgstr "Прегледај"
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
@@ -1916,7 +1899,7 @@ msgstr "Скорешни пријави"
 #: ui_main.refresh_news_feeds
 msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
-msgstr "Refresh News Feeds"
+msgstr "Освежи новости"
 
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
@@ -1971,7 +1954,7 @@ msgstr "Име на пријавувачот"
 #: ui_main.reporter_has_been
 msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
-msgstr "The Reporter Has Been"
+msgstr ""
 
 #: ui_main.reporter_ip
 msgctxt "ui_main.reporter_ip"
@@ -2046,12 +2029,12 @@ msgstr "Пријавите ќе бидат симнати во CSV формат"
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr "Features"
+msgstr ""
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
@@ -2100,10 +2083,8 @@ msgstr "Одбери град"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
-msgid ""
-"Your Report has been submitted to our staff for review. We will get back to "
-"you shortly if necessary."
-msgstr "Вашата пријава е испратена до нашиот персонал за преглед. Ќе ве контактираме за брзо ако е потребно."
+msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
+msgstr "Вашата пријава е испратена до нашиот персонал за преглед. За подобри резултати, секоја пријава е администрирана. Ви благодариме за трпението."
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
@@ -2118,7 +2099,7 @@ msgstr "Време"
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Timeline"
-msgstr "Timeline"
+msgstr "Времески распоред"
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
@@ -2233,7 +2214,7 @@ msgstr "Улога"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr "RSS"
+msgstr ""
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2268,7 +2249,7 @@ msgstr "Распоред"
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr "Scheduler"
+msgstr "Распоредувач"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
@@ -2283,7 +2264,7 @@ msgstr "Час"
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr "Scheduler Log"
+msgstr "Лог на распоредувачот"
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
@@ -2408,7 +2389,7 @@ msgstr "Споделени податоци"
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr "The share has been"
+msgstr "Споделувањето е"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
@@ -2453,7 +2434,7 @@ msgstr "URL на страницата"
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr "SMS"
+msgstr ""
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
@@ -2537,7 +2518,7 @@ msgstr "Презиме"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
-msgid "新开线路"
+msgid "Survey"
 msgstr "新开线路"
 
 #: ui_main.system
@@ -2548,7 +2529,7 @@ msgstr "Систем"
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr "TCP Port"
+msgstr ""
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2558,7 +2539,7 @@ msgstr "Теми"
 #: ui_main.theme_default
 msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
-msgstr "Default Ushahidi Theme"
+msgstr ""
 
 #: ui_main.theme_settings
 msgctxt "ui_main.theme_settings"
@@ -2668,7 +2649,7 @@ msgstr "Тип"
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
@@ -2693,7 +2674,7 @@ msgstr "Неверифицирани"
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr "Update feeds"
+msgstr "Обнови новости"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
@@ -2712,8 +2693,7 @@ msgstr "Качи пријави"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
-msgid ""
-"With the form below, you can import incidents into the Ushahidi engine."
+msgid "With the form below, you can import incidents into the Ushahidi engine."
 msgstr "Со формата подоле, можете да импортирате инциденти со Ushahidi енџинот."
 
 #: ui_main.upload_reports_detail_2
@@ -2723,45 +2703,33 @@ msgstr "Пријавите мораат да бидат качени во CSV ф
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
-msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
-msgstr "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgstr ""
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr "It must contain at least Incident Title and Incident Date."
+msgstr ""
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
-msgid ""
-"If no latitude and longitude columns are supplied, the location will be "
-"geocoded using the Google Geocoder."
-msgstr "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
+msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
+msgstr ""
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr "A Sample CSV Report"
+msgstr ""
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
-msgid ""
-"#,INCIDENT TITLE,INCIDENT "
-"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
-"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
-"01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
-"Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgstr ""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
-msgid ""
-"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
-"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
-"\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgstr ""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
@@ -2771,12 +2739,12 @@ msgstr "Качувањето успешно"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr "Качи видео"
+msgstr "Прикачи видео"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2826,7 +2794,7 @@ msgstr "Верзија"
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr "via"
+msgstr "од"
 
 #: ui_main.video
 msgctxt "ui_main.video"
@@ -2851,7 +2819,7 @@ msgstr "Види ги сите"
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr "View all feeds"
+msgstr "Види ги сите новости"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
@@ -2937,3 +2905,4 @@ msgstr "Зголеми"
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr "Намали"
+

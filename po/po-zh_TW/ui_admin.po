@@ -1,32 +1,24 @@
-# 
-# Translators:
+#. extracted from en_US/ui_admin.php, zh_TW/ui_admin.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-13 05:11+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: zh_TW\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid ""
-"Access denied. Either your credentials are not valid or your request has "
-"been refused."
+msgid "Access denied. Either your credentials are not valid or your request has been refused."
 msgstr "讀取被拒絕，有可能是你的帳號資料已經無效，或是您的請求曾經被拒絕"
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid ""
-"Access denied. Your request has been understood, but denied due to access "
-"limits like time. Try back later."
+msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 msgstr "讀取被拒絕，有可能是因為頻寬限制，請稍後再試"
 
 #: ui_admin.access_level
@@ -57,7 +49,7 @@ msgstr "已新增/已編輯"
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr "Addons"
+msgstr ""
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
@@ -77,7 +69,7 @@ msgstr ""
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr "AM"
+msgstr ""
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -97,27 +89,27 @@ msgstr ""
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr "API Banned"
+msgstr ""
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr "API Logs"
+msgstr ""
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr "API Settings"
+msgstr ""
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr "UNBAN"
+msgstr ""
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr "UNBAN ALL"
+msgstr ""
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
@@ -137,12 +129,12 @@ msgstr "手動核准"
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
 msgid "Archived"
-msgstr "Archived"
+msgstr ""
 
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr "Are you sure you want to"
+msgstr ""
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
@@ -192,7 +184,7 @@ msgstr "回去"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr "Ban IP"
+msgstr ""
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
@@ -222,7 +214,7 @@ msgstr "目錄"
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr "Error displaying chart"
+msgstr ""
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
@@ -247,12 +239,12 @@ msgstr ""
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr "Checkins"
+msgstr ""
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr "Cities loaded"
+msgstr ""
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
@@ -307,7 +299,7 @@ msgstr "新增一個通報"
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr "Critical Upgrade"
+msgstr ""
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
@@ -326,8 +318,7 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid ""
-"You don't have sufficient permissions to edit the following custom fields."
+msgid "You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -428,7 +419,7 @@ msgstr ""
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr "Edited By"
+msgstr ""
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
@@ -438,12 +429,12 @@ msgstr "編輯"
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr "Edit Log"
+msgstr ""
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -458,12 +449,12 @@ msgstr "地理相關程式有錯誤! HTTP發生錯誤"
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
-msgstr "IMAP PHP Library is not installed"
+msgstr ""
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
@@ -493,7 +484,7 @@ msgstr "問與答"
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
 msgid "feed"
-msgstr "feed"
+msgstr ""
 
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
@@ -503,7 +494,7 @@ msgstr "意見回饋"
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
 msgid "feeds"
-msgstr "feeds"
+msgstr ""
 
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
@@ -638,7 +629,7 @@ msgstr "來自"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr "Geonames Timeout Error"
+msgstr ""
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -658,7 +649,7 @@ msgstr "新增/編輯"
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
@@ -688,27 +679,32 @@ msgstr "每小時"
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr "Incident feed for"
+msgstr ""
+
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr "Instance"
+msgstr ""
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr "Instances"
+msgstr ""
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr "Instance Details"
+msgstr ""
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
-msgstr "Invalid Parameter"
+msgstr ""
 
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
@@ -783,7 +779,7 @@ msgstr "登出"
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
 msgid "Logs"
-msgstr "Logs"
+msgstr ""
 
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
@@ -804,6 +800,11 @@ msgstr "查看使用者"
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
 msgstr "新增/編輯 使用者"
+
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
+msgstr ""
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
@@ -838,7 +839,7 @@ msgstr "訊息"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr "Laconica Messages"
+msgstr ""
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
@@ -853,7 +854,7 @@ msgstr "你的訊息已經送出!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr "MHI"
+msgstr ""
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -863,22 +864,22 @@ msgstr ""
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
 msgid "Minutes"
-msgstr "Minutes"
+msgstr ""
 
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr "Missing Parameter"
+msgstr ""
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr "Moderator"
+msgstr ""
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
 msgid "modified"
-msgstr "modified"
+msgstr ""
 
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
@@ -898,7 +899,7 @@ msgstr "往上移"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr "Multiple Hosted Instances"
+msgstr ""
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -958,25 +959,22 @@ msgstr "新密碼"
 #: ui_admin.no
 msgctxt "ui_admin.no"
 msgid "No"
-msgstr "No"
+msgstr ""
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used to hold reports left without"
-" categories(uncategorized reports) as a result of category deletion."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr "Notification"
+msgstr ""
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr "This is not case sensitive."
+msgstr ""
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
@@ -986,7 +984,7 @@ msgstr "找不到相關資訊"
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr "No data. There are no results to show."
+msgstr ""
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
@@ -1001,7 +999,7 @@ msgstr "沒有結果!"
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr "of"
+msgstr ""
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
@@ -1030,23 +1028,13 @@ msgstr "找不到網頁"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid ""
-"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
-" a link from somewhere else on our site?</strong><br />If you reached this "
-"page from another part of our site, please <a href=\"#\">contact us</a> so "
-"that we can correct our mistake.</p><p><strong>Did you follow a link from "
-"another site? </strong><br />Links from other sites can sometimes be "
-"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
-" can try to contact the other site in order to fix the "
-"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
-"typed the address (URL) incorrectly. Check to make sure you have got the "
-"exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 msgstr "抱歉，你要找的網頁不存在<p><strong>請問你是否收到某個來自本站的連結呢？</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
-msgstr "Parameters Used"
+msgstr ""
 
 #: ui_admin.password
 msgctxt "ui_admin.password"
@@ -1061,12 +1049,12 @@ msgstr "重設密碼"
 #: ui_admin.password_reset_from
 msgctxt "ui_admin.password_reset_from"
 msgid "no-reply@ushahidi.com"
-msgstr "no-reply@ushahidi.com"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr "Dear"
+msgstr ""
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
@@ -1075,16 +1063,12 @@ msgstr "我們收到一個重設密碼的需求for"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid ""
-"To change your password, please click on the link below (or copy and paste "
-"it into your browser)."
+msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
 msgstr "欲修改密碼，請點選以下連結 (或複製以下連結至瀏覽器)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid ""
-"As you requested, your password has now been reset. Your new details are as "
-"follows"
+msgid "As you requested, your password has now been reset. Your new details are as follows"
 msgstr "你的密碼已經重設。詳細資訊如下："
 
 #: ui_admin.password_reset_subject
@@ -1105,12 +1089,12 @@ msgstr ""
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
 msgid "PM"
-msgstr "PM"
+msgstr ""
 
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr "Data was not sent by post method"
+msgstr ""
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1145,7 +1129,7 @@ msgstr ""
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr "Public Listing"
+msgstr ""
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
@@ -1155,12 +1139,12 @@ msgstr ""
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr "read"
+msgstr ""
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr "Relevance"
+msgstr ""
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
@@ -1215,7 +1199,7 @@ msgstr ""
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
-msgstr "Save Settings"
+msgstr ""
 
 #: ui_admin.search
 msgctxt "ui_admin.search"
@@ -1234,16 +1218,12 @@ msgstr "查詢for"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid ""
-"The encryption key is still set to the default value. This is insecure and "
-"must be changed."
+msgid "The encryption key is still set to the default value. This is insecure and must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid ""
-"This site being served over HTTP. This should be set to HTTPS for increased "
-"security."
+msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
@@ -1289,7 +1269,7 @@ msgstr "這則訊息被送出，由你的網站 "
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr "Server Time"
+msgstr ""
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1314,15 +1294,12 @@ msgstr ""
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr "Special Category"
+msgstr ""
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid ""
-"This is a special category that will not show up on the report submission "
-"form for users submitting reports. This is used in conjunction with the "
-"\"Trusted Reporters\" feature."
-msgstr "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgstr ""
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1352,7 +1329,7 @@ msgstr "Stat Collection Failed! Either our stats server is down or something is 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
 msgid "Stat Collection Failed!"
-msgstr "Stat Collection Failed!"
+msgstr ""
 
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
@@ -1372,7 +1349,7 @@ msgstr "超級管理者"
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
-msgstr "Task Performed"
+msgstr ""
 
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
@@ -1392,7 +1369,7 @@ msgstr "管理使用者"
 #: ui_admin.to
 msgctxt "ui_admin.to"
 msgid "to"
-msgstr "to"
+msgstr ""
 
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
@@ -1402,7 +1379,7 @@ msgstr "全部紀錄"
 #: ui_admin.to_date
 msgctxt "ui_admin.to_date"
 msgid "to"
-msgstr "to"
+msgstr ""
 
 #: ui_admin.translate_reports
 msgctxt "ui_admin.translate_reports"
@@ -1482,7 +1459,7 @@ msgstr "使用者"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr "Ushahidi"
+msgstr ""
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1532,14 +1509,15 @@ msgstr "歡迎, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr "Wiki"
+msgstr ""
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
 msgid "Yes"
-msgstr "Yes"
+msgstr ""
 
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "你查詢"
+

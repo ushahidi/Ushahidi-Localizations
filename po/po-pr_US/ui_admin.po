@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-07-13 04:22+0000\n"
-"PO-Revision-Date: 2012-07-13 04:22+0000\n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -99,7 +99,7 @@ msgstr ""
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr "API Settings"
+msgstr ""
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
@@ -681,6 +681,11 @@ msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
 msgstr ""
 
+#: ui_admin.installer_info
+msgctxt "ui_admin.installer_info"
+msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgstr ""
+
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
@@ -794,6 +799,11 @@ msgstr ""
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
+msgstr ""
+
+#: ui_admin.manage_public_listing
+msgctxt "ui_admin.manage_public_listing"
+msgid "Manage Your Public Listing"
 msgstr ""
 
 #: ui_admin.mark_as

@@ -1,20 +1,15 @@
-# 
-# Translators:
-#   <ivan.schepens@wynns.be>, 2012.
+#. extracted from en_US/alerts.php, nl_NL/alerts.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-08-07 07:13+0000\n"
-"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
-"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nl_NL\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: nl_NL\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -23,9 +18,7 @@ msgstr "Het e-mail adres wordt niet geaccepteerd, controleer het e-mail adres"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid ""
-"That Email address has already been registered to receive alerts for that "
-"location."
+msgid "That Email address has already been registered to receive alerts for that location."
 msgstr "Het e-mail adres is al geconfigureerd om notificaties te ontvangen voor deze locatie"
 
 #: alerts.alert_email.length
@@ -40,9 +33,7 @@ msgstr "Je hebt aangegeven e-mail te willen ontvangen, geef een geldig e-mail ad
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid ""
-"This deployment spans within one country only. Please make sure the alert "
-"location is within the country %s."
+msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
 msgstr "Deze opstelling bestrijkt maar één land. Zorg dat de plaats van de waarschuwing in het land %s ligt."
 
 #: alerts.alert_lat.between
@@ -67,22 +58,17 @@ msgstr "Selecteer een locatie op de kaart"
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid ""
-"The Mobile Phone field does not seem to contain the right amount of digits."
+msgid "The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr "Het aantal opgegeven cijfers voor het mobiele nummer is ongeldig"
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid ""
-"That Mobile Phone Number has already been registered to receive alerts for "
-"that location."
+msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
 msgstr "Het mobiele nummer is al geconfigureerd om notificaties te ontvangen voor deze locatie"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid ""
-"The Mobile Phone field does not appear to contain a valid phone. Please "
-"input numbers only including Country Code."
+msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
 msgstr "Het opgegeven mobiele nummer lijkt ongeldig. Gebruik alleen cijfers met landcode."
 
 #: alerts.alert_mobile.one_required
@@ -122,16 +108,12 @@ msgstr "Deze code is al eerder geverifieerd"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid ""
-"This verification code was not found! Please confirm that you have the "
-"correct URL."
+msgid "This verification code was not found! Please confirm that you have the correct URL."
 msgstr "De verificatiecode kon niet worden gevonden.Controleer of de gebruikte URL correct is"
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid ""
-" Your code was verified correctly. You will now receive alerts about "
-"incidents as they happen."
+msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
 msgstr " De code is geverifieerd. Je ontvangt nu notificaties wanneer er berichten zijn."
 
 #: alerts.confirm_request
@@ -146,9 +128,7 @@ msgstr "Ga naar de notificaties pagina om meer notificaties te maken"
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid ""
-"Your Email Alert request has been created and verification message has been "
-"sent to "
+msgid "Your Email Alert request has been created and verification message has been sent to "
 msgstr "Je e-mail notificaties verzoek is aangemaakt. Een verificatie bericht is verzonden naar "
 
 #: alerts.email_code
@@ -173,16 +153,12 @@ msgstr "Het systeem is niet instaat om je bevestiging te verwerken!"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid ""
-"Your Mobile Alert request has been created and verification message has been"
-" sent to "
+msgid "Your Mobile Alert request has been created and verification message has been sent to "
 msgstr "Je mobiele notificaties verzoek  is aangemaakt. Een verificatie bericht is verzonden naar "
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid ""
-"Please enter the SMS confirmation code you received on your mobile phone "
-"below: "
+msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
 msgstr "Vul de per SMS ontvangen verificatiecode in: "
 
 #: alerts.mobile_error_head
@@ -202,9 +178,7 @@ msgstr "De installatie is niet correct ingesteld om notificaties te verwerken. N
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid ""
-"You have received this email because you subscribed to receive alerts. If "
-"you do not wish to receive future alerts go to "
+msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
 msgstr "Je ontvangt deze e-mail omdat je hebt aangegeven notificaties te willen ontvangen. Indien je in de toekomst geen notificaties meer wilt ontvangen, ga dan naar "
 
 #: alerts.unsubscribed
@@ -214,9 +188,7 @@ msgstr "Je zult niet langer notificaties ontvangen van "
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid ""
-"We were not able to unsubscribe you. Please confirm that you have the "
-"correct URL."
+msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
 msgstr "Het systeem kan je niet uitschrijven voor notificaties. Controleer of je de juiste URL hebt opgegeven."
 
 #: alerts.verification_email_subject
@@ -226,6 +198,6 @@ msgstr "notificaties - verificatie"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid ""
-"You will not receive alerts on this location until you confirm your request."
+msgid "You will not receive alerts on this location until you confirm your request."
 msgstr "Je zult geen notificaties ontvangen tot je verzoek bevestigd is."
+

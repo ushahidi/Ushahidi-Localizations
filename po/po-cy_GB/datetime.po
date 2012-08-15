@@ -1,23 +1,20 @@
-# 
-# Translators:
+#. extracted from en_US/datetime.php, cy_GB/datetime.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:32+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:39+0000\n"
+"PO-Revision-Date: 2012-08-15 04:39+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: cy_GB\n"
-"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: cy_GB\n"
 
 #: datetime.am
 msgctxt "datetime.am"
 msgid "am"
-msgstr "am"
+msgstr ""
 
 #: datetime.friday.abbv
 msgctxt "datetime.friday.abbv"
@@ -42,7 +39,7 @@ msgstr "Llun"
 #: datetime.pm
 msgctxt "datetime.pm"
 msgid "pm"
-msgstr "pm"
+msgstr ""
 
 #: datetime.saturday.abbv
 msgctxt "datetime.saturday.abbv"
@@ -87,12 +84,12 @@ msgstr "Mawrth"
 #: datetime.wednesday.abbv
 msgctxt "datetime.wednesday.abbv"
 msgid "Wed"
-msgstr "Wed"
+msgstr ""
 
 #: datetime.wednesday.full
 msgctxt "datetime.wednesday.full"
 msgid "Wednesday"
-msgstr "Wednesday"
+msgstr ""
 
 #: datetime.january.abbv
 msgctxt "datetime.january.abbv"
@@ -213,3 +210,4 @@ msgstr "Rhag"
 msgctxt "datetime.december.full"
 msgid "December"
 msgstr "Rhagfyr"
+

@@ -1,18 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/alerts.php, ro_RO/alerts.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-14 18:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:22+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-15 04:40+0000\n"
+"PO-Revision-Date: 2012-08-15 04:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ro_RO\n"
-"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1))\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: ro_RO\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -21,9 +18,7 @@ msgstr "Adresa e-mail incorectă"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid ""
-"That Email address has already been registered to receive alerts for that "
-"location."
+msgid "That Email address has already been registered to receive alerts for that location."
 msgstr "Această adresă de e-mail a fost deja înregistrată pentru a primi alerte pentru această locație."
 
 #: alerts.alert_email.length
@@ -38,9 +33,7 @@ msgstr "Câmpul adresa e-mail este obligatoriu daca este pusă bifa."
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid ""
-"This deployment spans within one country only. Please make sure the alert "
-"location is within the country %s."
+msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
 msgstr ""
 
 #: alerts.alert_lat.between
@@ -65,22 +58,17 @@ msgstr "Nu ați selectat o locație validă pe hartă."
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid ""
-"The Mobile Phone field does not seem to contain the right amount of digits."
+msgid "The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr "Câmpul pentru telefon mobil nu conține numarul corespunzător de cifre."
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid ""
-"That Mobile Phone Number has already been registered to receive alerts for "
-"that location."
+msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
 msgstr "Acest număr de telefon a fost înregistrat deja pentru primirea alertelor legate de acea locaţie"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid ""
-"The Mobile Phone field does not appear to contain a valid phone. Please "
-"input numbers only including Country Code."
+msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
 msgstr "Câmpul Telefon Mobil nu pare să conţină un telefon valabil. Vă rugăm să introduceţi numerul, indicînd codul ţării."
 
 #: alerts.alert_mobile.one_required
@@ -120,16 +108,12 @@ msgstr "Acest cod a fost deja verificat!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid ""
-"This verification code was not found! Please confirm that you have the "
-"correct URL."
+msgid "This verification code was not found! Please confirm that you have the correct URL."
 msgstr "Acest cod de verificare nu a fost găsit! Verifica adresa URL."
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid ""
-" Your code was verified correctly. You will now receive alerts about "
-"incidents as they happen."
+msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
 msgstr "Codul a fost validat. Acum vei primi alerte despre incidentele care au loc."
 
 #: alerts.confirm_request
@@ -144,9 +128,7 @@ msgstr "întoarcete la pagina Alerte pentru a crea mai multe alerte."
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid ""
-"Your Email Alert request has been created and verification message has been "
-"sent to "
+msgid "Your Email Alert request has been created and verification message has been sent to "
 msgstr "Cererea dumneavoastră a fost creată şi mesajul de verificare a fost trimis"
 
 #: alerts.email_code
@@ -171,16 +153,12 @@ msgstr "Sistemul nu a procesat cererea dumneavoastră de confirmare!"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid ""
-"Your Mobile Alert request has been created and verification message has been"
-" sent to "
+msgid "Your Mobile Alert request has been created and verification message has been sent to "
 msgstr "Cererea dumneavoastră Mobile Alert a fost creată şi mesajul de verificare a fost trimis"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid ""
-"Please enter the SMS confirmation code you received on your mobile phone "
-"below: "
+msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
 msgstr "Vă rog să introduceţi codul de confirmare SMS mai jos:"
 
 #: alerts.mobile_error_head
@@ -200,9 +178,7 @@ msgstr "Această implementare nu este configurată pentru a procesa corect alert
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid ""
-"You have received this email because you subscribed to receive alerts. If "
-"you do not wish to receive future alerts go to "
+msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
 msgstr "Ai primit acest email pentru că te-ai înscris să primești alerte. Dacă nu mai dorești să primești alerte, mergi la"
 
 #: alerts.unsubscribed
@@ -212,9 +188,7 @@ msgstr "Nu vei mai primi alerte de la"
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid ""
-"We were not able to unsubscribe you. Please confirm that you have the "
-"correct URL."
+msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
 msgstr "Nu am fost în stare să vă dezabonăm. Vă rugăm să confirmaţi faptul că aveţi URL-ul corect."
 
 #: alerts.verification_email_subject
@@ -224,6 +198,6 @@ msgstr "alerte - verificare"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid ""
-"You will not receive alerts on this location until you confirm your request."
+msgid "You will not receive alerts on this location until you confirm your request."
 msgstr "Nu vei primi alerte despre acestă locație pană când nu confirmi cererea."
+
