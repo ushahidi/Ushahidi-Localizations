@@ -22,9 +22,11 @@ $lang = array(
 		'required' => 'שדה הכותרת הינו שדה חובה.',
 	) ,
 	'parent_id' => array(
+		'already_parent' => 'You cannot subcategorize a category with subcategories.',
 		'exists' => 'קטגורית-על אינה קיימת',
 		'numeric' => 'ניתן להזין אך ורק מספרים בשדה קטגורית-על.',
 		'required' => 'שדה קטגורית-על הינו שדה חובה.',
+		'parent_trusted' => 'The parent category cannot be a special category',
 		'same' => 'הקטגוריה וקטגורית העל אינן יכולות להיות זהות.',
 	) ,
 );

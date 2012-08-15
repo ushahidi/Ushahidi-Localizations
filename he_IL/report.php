@@ -6,6 +6,9 @@
 // PO revision date:  2012-07-12 21:48+0000
 $lang = array(
 	'comments_form_error' => 'שגיאה!',
+	'country_name' => array(
+		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country '.ORM::factory('country', Kohana::config('settings.default_country'))->country.'.'
+	),
 	'custom_field' => array(
 		'values' => 'אנא הכנס ערך תקין עבור אחד מפרטי הטופס המותאמים אישית',
 	) ,

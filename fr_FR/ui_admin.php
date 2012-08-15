@@ -47,6 +47,7 @@ $lang = array(
 	'edited_by' => 'Modifié par',
 	'edit_action' => 'Modifier',
 	'edit_log' => 'Voir les changements',
+	'edited_by' => 'Modifié par',
 	'email' => 'Email',
 	'error_geocoding' => 'Erreur de géocodage! Erreur HTTP',
 	'error_msg' => 'Erreur',

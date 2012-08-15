@@ -6,9 +6,9 @@
 // PO revision date:  2012-07-12 21:26+0000
 $lang = array(
 	'category_color' => array(
-		'length' => 'The color field must be 6 characters long.',
-		'required' => 'The color field is required.',
-	) ,
+		'length' => 'Бојата мора да е најмалку 6 карактери долга.',
+		'required' => 'Полето за боја е задолжително.',
+	),
 	'category_description' => array(
 		'required' => 'Описот е задолжителен.',
 	) ,

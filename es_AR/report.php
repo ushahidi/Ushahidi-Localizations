@@ -5,13 +5,27 @@
 // I18n generated at: 2012-08-15 00:05+0000
 // PO revision date:  2012-07-12 21:48+0000
 $lang = array(
+	'comments_form_error' => 'error!',
+	'country_name' => array
+		'single_country' => 'La ubicación del reporte debe estar dentro del país seleccionado en la configuración del sistema %s.'
+	),
 	'custom_field' => array(
 		'values' => 'Por favor ingrese un valor válido para uno de sus items de formulario customizados',
 	) ,
 	'data_include' => array(
 		'between' => 'Por favor seleccionar  un item válido para incluir en la descarga',
 		'numeric' => 'Por favor seleccionar un item válido para incluir en la descarga',
-	) ,
+	),
+	'data_active' => array(
+		'between' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Approval" or "Approved Reports" or both.',
+	),
+	'data_verified' => array(
+		'between' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'numeric' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+		'required' => 'Please select "Reports Awaiting Verification" or "Verified Reports" or both.',
+	),
 	'data_point' => array(
 		'between' => 'Por favor seleccionar un tipo válido de informe a descargar',
 		'numeric' => 'Por favor seleccionar un tipo válido de informe a descargar',
