@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+$lang = array(
 	'about' => 'About ',
 	'access' => 'Access',
 	'access_limits' => 'Access Limits',
@@ -74,7 +74,7 @@
 	'change_picture' => 'Change My Picture',
 	'choose' => 'Choose a',
 	'choose_data_points' => 'Choose data points to download',
-    'choose_date_range' => 'Or choose your own date range',
+	'choose_date_range' => 'Or choose your own date range',
 	'choose_field_type' => 'Choose field type',
 	'cleanurl' => 'Clean URLs',
 	'clear' => 'Clear',
@@ -168,8 +168,8 @@
 	'file' => 'File',
 	'file_over_max_allowed' => 'Your file is over the maximum allowed filesize.',
 	'filters' => 'Filters',
-    'filter_reports' => 'Filter Reports',
-    'filter_reports_by' => 'Filter Reports By',
+	'filter_reports' => 'Filter Reports',
+	'filter_reports_by' => 'Filter Reports By',
 	'filter_reports_contain' => 'Filter reports that contain',
 	'find' => 'Find',
 	'find_location' => 'Find Location',
@@ -281,7 +281,7 @@
 	'message' => 'Message',
 	'messages' => 'Messages',
 	'message_details' => 'Message Details',
-	'message_non_numeric_source'=>"Message from a non-numeric source:",
+	'message_non_numeric_source' => "Message from a non-numeric source:",
 	'mobile' => 'Mobile',
 	'modify' => 'Modify',
 	'modify_date' => 'Modify Date',
@@ -578,5 +578,5 @@
 	'your_file' => 'Your file',
 	'zoom_in' => 'Zoom In',
 	'zoom_out' => 'Zoom Out',
-	);
+);
 ?>

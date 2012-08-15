@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+$lang = array(
 	'access_denied_credentials' => 'Access denied. Either your credentials are not valid or your request has been refused.',
 	'access_denied_others' => 'Access denied. Your request has been understood, but denied due to access limits like time. Try back later.',
 	'access_level' => 'Access Level',
@@ -188,7 +188,7 @@
 	'new_private' => 'Create New Message',
 	'new_password' => 'New Password',
 	'no' => 'No',
-	'none_category_explanation'=>'This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion.',
+	'none_category_explanation' => 'This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion.',
 	'notification' => 'Notification',
 	'not_case_sensitive' => 'This is not case sensitive.',
 	'not_found' => 'Not Found',
@@ -253,7 +253,7 @@
 	'settings' => 'Settings',
 	'showing_page' => 'Showing page',
 	'showing_results' => 'Showing results',
-	'shown'=>'shown',
+	'shown' => 'shown',
 	'special_category' => 'Special Category',
 	'special_category_explanation' => 'This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the "Trusted Reporters" feature.',
 	'specific_area' => 'Specific Area',
@@ -300,5 +300,5 @@
 	'wiki' => 'Wiki',
 	'yes' => 'Yes',
 	'your_search_for' => 'Your search for',
-	);
+);
 ?>

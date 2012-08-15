@@ -1,8 +1,8 @@
 <?php
-	$lang = array(
+$lang = array(
 	'upgrade' => array(
 		'between' => 'Invalid input data. It can either be 0 for No or 1 for Yes.',
-	),
+	) ,
 	'upgrade_automatic' => 'Automatic Upgrade',
 	'upgrade_available' => 'Available Updates',
 	'upgrade_continue_btn_text' => 'Continue',
@@ -38,7 +38,7 @@
 	'beta' => 'BETA!',
 	'download' => 'Downloading latest version of ushahidi...',
 	'log_file' => 'Log File',
-	'successfully_downloaded '=> 'Successfully Downloaded. Unpacking...',
+	'successfully_downloaded ' => 'Successfully Downloaded. Unpacking...',
 	'failed_downloading' => 'Failed downloading.',
 	'successfully_unpacked' => 'Successfully Unpacked. Copying files...',
 	'failed_unpacking' => 'Failed unpacking.',

@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+$lang = array(
 	'config' => 'config file',
 	'controller' => 'controller',
 	'driver' => 'driver',
@@ -26,5 +26,5 @@
 	'uncaught_exception' => 'Uncaught %s: %s in file %s on line %s',
 	'view' => 'view',
 	'view_set_filename' => 'You must set the the view filename before calling render.',
-	);
+);
 ?>

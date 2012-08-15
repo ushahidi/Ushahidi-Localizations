@@ -1,128 +1,128 @@
 <?php
-	$lang = array(
+$lang = array(
 	'allow_comments' => array(
 		'between' => 'The allow comments field does not appear to contain a valid value.',
 		'required' => 'The allow comments field is required.',
-	),
+	) ,
 	'allow_feed' => array(
 		'between' => 'The include feed field does not appear to contain a valid value.',
 		'required' => 'The include feed field is required.',
-	),
+	) ,
 	'allow_alerts' => array(
 		'between' => 'The allow alerts field does not appear to contain a valid value.',
 		'required' => 'The allow alerts field is required.',
-	),
+	) ,
 	'allow_reports' => array(
 		'between' => 'The allow reports field does not appear to contain a valid value.',
 		'required' => 'The allow reports field is required.',
-	),
+	) ,
 	'allow_stat_sharing' => array(
 		'between' => 'The stat sharing field does not appear to contain a valid value.',
 		'required' => 'The stat sharing field is required.',
-	),
+	) ,
 	'api' => array(
 		'default_record_limit' => 'Default number of records to be fetched per API request',
 		'maximum_record_limit' => 'Maximum number of records to be fetched per API request',
 		'maximum_requests_per_ip_address' => 'Maximum number of API requests per IP address',
-	),
+	) ,
 	'api_akismet' => array(
 		'alpha_numeric' => 'The Akismet field does not appear to contain a valid value.',
 		'length' => 'The Akismet field does not appear to contain a valid value.',
-	),
+	) ,
 	'banner_image' => array(
 		'default' => 'Something went wrong with your banner image upload.',
 		'size' => 'The size of your banner exceeds the size limit for this upload.',
-	),
+	) ,
 	'cache_pages' => array(
 		'between' => 'The cache pages field is required.',
 		'required' => 'The cache pages field does not appear to contain a valid value.',
-	),
+	) ,
 	'cache_pages_lifetime' => array(
 		'in_array' => 'The cache pages lifetime field does not appear to contain a valid value.',
 		'required' => 'The cache pages lifetime field is required.',
-	),
+	) ,
 	'cleanurl' => array(
 		'clean_url_disabled' => 'It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at <a href="http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite" target="_blank">this forum post</a>',
 		'clean_url_enabled' => 'This option makes Ushahidi to be accessed via "clean" URLs (without "index.php" in the URL).',
 		'enable_clean_url' => 'Enable Clean URLs',
 		'title' => 'Clean URLs',
-	),
+	) ,
 	'clickatell_api' => array(
 		'length' => 'The Clickatell API number field must be no more 20 characters long.',
 		'required' => 'The Clickatell API number field is required.',
-	),
+	) ,
 	'clickatell_password' => array(
 		'length' => 'The Clickatell Password field must be at least 5 and no more 50 characters long.',
 		'required' => 'The Clickatell Password field is required.',
-	),
+	) ,
 	'clickatell_username' => array(
 		'length' => 'The Clickatell Username field must be no more 50 characters long.',
 		'required' => 'The Clickatell Username field is required.',
-	),
+	) ,
 	'configure_map' => 'Configure Map',
 	'default_location' => 'Default Location',
 	'default_map_all' => array(
 		'alpha_numeric' => 'The color feed field does not appear to contain a valid value.',
 		'length' => 'The color field must be no more 6 characters long.',
 		'required' => 'The color field is required.',
-	),
+	) ,
 	'default_map_view' => 'Default Map View',
 	'default_zoom_level' => 'Default Zoom Level',
 	'download_city_list' => 'Retrieve Cities From Geonames',
 	'email_host' => array(
 		'length' => 'The Mail server port field is too long.',
 		'numeric' => 'The Mail server port field should contain numbers only.',
-	),
+	) ,
 	'email_password' => array(
 		'length' => 'The Mail Server Password field must be at least 5 and no more 50 characters long.',
 		'required' => 'The Mail Server Password field is required.',
-	),
+	) ,
 	'email_port' => array(
 		'length' => 'The Mail server port field is too long.',
 		'numeric' => 'The Mail server port field should contain numbers only.',
-	),
+	) ,
 	'email_servertype' => array(
 		'length' => 'The Mail server port field is too long.',
 		'required' => 'The Mail Server Type field is required.',
-	),
+	) ,
 	'email_username' => array(
 		'length' => 'The Mail Server Username field must be no more 50 characters long.',
 		'required' => 'The Mail Server Username field is required.',
-	),
+	) ,
 	'facebook' => array(
 		'title' => 'Facebook Setup Options',
 		'description' => 'To get the information below you will need to create a new Facebook application at',
 		'app_id' => 'Facebook App ID',
 		'app_secret' => 'Facebook App Secret',
-	),
+	) ,
 	'google_analytics' => array(
 		'length' => 'The Google Analytics field must contain a valid Web Property ID in the format UA-XXXXX-XX.',
-	),
+	) ,
 	'https' => array(
-	   'enable_https' => 'Enable HTTPS',
-	   'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
-	   'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
-	   'title' => 'HTTPS',
-	),
+		'enable_https' => 'Enable HTTPS',
+		'https_disabled' => 'This option makes Ushahidi be accessed in unsecure mode; <strong>without</strong> "https://" in the URL prefix',
+		'https_enabled' => 'This option makes Ushahidi be accessed in secure mode; with <strong>https</strong> in the URL prefix',
+		'title' => 'HTTPS',
+	) ,
 	'items_per_page' => array(
 		'between' => 'The items per page (Frontend) field does not appear to contain a valid value.',
 		'required' => 'The items per page (Frontend) field is required.',
-	),
+	) ,
 	'items_per_page_admin' => array(
 		'between' => 'The items per page (Admin) field does not appear to contain a valid value.',
 		'required' => 'The items per page (Admin) field is required.',
-	),
+	) ,
 	'map' => array(
 		'default_location' => 'Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider\'s site, and enter the API key.',
 		'zoom' => 'Zoom Level',
-	),
+	) ,
 	'map_provider' => array(
 		'choose' => 'Select a Map Provider',
 		'enter_api' => 'Enter the new API Key',
 		'get_api' => 'Get an API Key',
 		'info' => 'Setting up your map provider is a straight-forward process. Select a provider, obtain an API key from the provider\'s site, and enter the API key.',
 		'name' => 'Map provider',
-	),
+	) ,
 	'map_timeline' => 'Map Timeline',
 	'map_settings' => 'Map Settings',
 	'multiple_countries' => 'Does this Ushahidi Deployment span multiple countries?',
@@ -170,19 +170,19 @@
 		'title' => 'Site Settings',
 		'twitter_configuration' => 'Twitter Search Terms',
 		'twitter_hashtags' => 'Hashtags - Separate with commas ',
-	),
+	) ,
 	'site_email' => array(
 		'email' => 'The site email field does not appear to contain a valid email address.',
 		'length' => 'The site email field must be at least 4 and no more 100 characters long.',
-	),
+	) ,
 	'site_name' => array(
 		'length' => 'The site name field must be at least 3 and no more 50 characters long.',
 		'required' => 'The site name field is required.',
-	),
+	) ,
 	'site_tagline' => array(
 		'length' => 'The tagline field must be at least 3 and no more 100 characters long.',
 		'required' => 'The tagline field is required.',
-	),
+	) ,
 	'sms' => array(
 		'clickatell_api' => 'Your Clickatell API Number',
 		'clickatell_check_balance' => 'Check Your Clickatell Credit Balance',
@@ -202,17 +202,18 @@
 		'option_1' => 'Option 1: Use Frontline SMS',
 		'option_2' => 'Option 2: Use a Global SMS Gateway',
 		'title' => 'SMS Setup Options',
-	),
+	) ,
 	'sms_no1' => array(
 		'length' => 'The phone 1 field does not appear to contain a valid value.',
 		'numeric' => 'The phone 1 field should contain numbers only.',
-	),
+	) ,
 	'sms_no2' => array(
 		'length' => 'The phone 2 field is too long.',
 		'numeric' => 'The phone 2 field should contain numbers only.',
-	),
+	) ,
 	'sms_no3' => array(
 		'length' => 'The phone 3 field is too long.',
 		'numeric' => 'The phone 3 field should contain numbers only.',
-	));
+	)
+);
 ?>

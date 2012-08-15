@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+$lang = array(
 	'approved' => 'Approved',
 	'categories' => 'Categories',
 	'category_impact' => 'Category Impact',
@@ -34,5 +34,5 @@
 	'visitor_summary' => 'Visitor Summary',
 	'visits' => 'Visits',
 	'visits_description' => 'A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview.',
-	);
+);
 ?>

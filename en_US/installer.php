@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+$lang = array(
 	'base_path' => 'Base Path',
 	'database' => 'Database',
 	'database_host' => 'Database Host',
@@ -25,7 +25,7 @@
 		'basic_installation_description' => 'Simple and fast. All you need is your website\'s root directory and your database information. Choose this option if you want to get up and running quickly, and you can always configure everything else later.',
 		'proceed' => 'Proceed',
 		'welcome' => 'Welcome to the Ushahidi server install process.  Choose which type of installation you would like to use below.',
-	),
+	) ,
 	'installation_successful' => 'Installation Successful',
 	'mail_server' => 'Mail Server',
 	'mail_server_host' => 'Mail Server Host',
@@ -66,7 +66,7 @@
         </ul>',
 		'text_3' => 'Before you get started, you will need to make sure the following files and folders are writable by your webserver. This involves changing file permissions.',
 		'text_4' => 'For the installation process, please have the following bits of information on hand.',
-	),
+	) ,
 	'table_prefix' => 'Table Prefix',
 	'table_prefix_description' => 'Normally you would not change the table prefix. However, if you want to run multiple Ushahidi installations from a single database, you can do that by changing the prefix here.',
 	'title' => 'Title',
@@ -76,5 +76,5 @@
 	'username_description' => 'Your database username',
 	'use_credentials' => 'and use the following credentials',
 	'view_site' => 'View your website',
-	);
+);
 ?>

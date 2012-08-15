@@ -1,5 +1,5 @@
 <?php
-	$lang = array(
+$lang = array(
 	'actions' => array(
 		'add_to_category' => 'This adds the report to additional categories. If you select Category 1 here and the report already has Category 2 attached to it, the report will then have both Category 1 and Category 2.',
 		'approve' => 'Approves a report or not. If approved, it will show up publicly.',
@@ -19,7 +19,7 @@
 		'trigger' => 'The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one.',
 		'user' => 'The user can be anyone or a specific user. If you would only like specific users to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as "anyone" since most triggers are set up for all users interacting with the system',
 		'verify' => 'Marks a report as verified or not.',
-	),
+	) ,
 	'change_picture' => 'Profile pages on this site use Gravatar. By clicking on your image, you will be taken to the Gravatar website where you can change your profile picture.',
 	'default_value' => 'Separate each value with a comma, e.g. value1, value2.',
 	'radio_choices' => 'Separate each value with a comma, e.g. value1, value2. In case you want to set a default value, end your list of options with :: e.g If you want to make value3 the default, it will be value1, value2, value3::value3',
@@ -77,7 +77,7 @@
 	'settings_server_type' => 'This is required to retrieve e-mails from the host server.',
 	'settings_server_username' => 'This is the email address that receives reports.',
 	'settings_share_site_stats' => 'Hit statistics are stored on a server controlled by Ushahidi. By enabling this option, you gain access to hit statistics directly in your admin panel. By disabling it, you will stop collecting statistics and will be unable to recover traffic stats collected while this is turned off.',
-	'settings_site_copyright_statement' =>'Do others have the right to republish text, images, video and/or design themes that you and your users create? Go to https://creativecommons.org/choose/ if you are interested in specifying what others are able to do with your work. And remember to be specific about what elements of the site you are licensing!',
+	'settings_site_copyright_statement' => 'Do others have the right to republish text, images, video and/or design themes that you and your users create? Go to https://creativecommons.org/choose/ if you are interested in specifying what others are able to do with your work. And remember to be specific about what elements of the site you are licensing!',
 	'settings_site_email' => 'This is the email address that will receive email reports and messages from the contact form.',
 	'settings_site_message' => 'This is text that will appear above the map on the homepage. This is useful for giving important information to visitors on the site. To remove the box, simply delete the message here.',
 	'settings_site_name' => 'This is the name of the site that appears at the top of the main site.',
@@ -85,5 +85,5 @@
 	'settings_site_tagline' => 'In a few words, explain what this site is about.',
 	'settings_site_timezone' => 'This is the timezone that your site will operate on. This has an impact on any actions you have set up that utilize time and date, as well as the default current time for reports on the front and back end of the site.',
 	'settings_twitter_configuration' => 'Set the twitter hashtag that will be used on a tweet',
-	);
+);
 ?>
