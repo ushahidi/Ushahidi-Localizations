@@ -81,6 +81,11 @@ file_filter = po/po-<lang>/libraries.po
 source_file = po/po-en_US/libraries.pot
 source_lang = en_US
 
+[ushahidi-localizations.maintenance]
+file_filter = po/po-<lang>/maintenance.po
+source_file = po/po-en_US/maintenance.pot
+source_lang = en_US
+
 [ushahidi-localizations.message]
 file_filter = po/po-<lang>/message.po
 source_file = po/po-en_US/message.pot
@@ -101,6 +106,11 @@ file_filter = po/po-<lang>/page.po
 source_file = po/po-en_US/page.pot
 source_lang = en_US
 
+[ushahidi-localizations.permissions]
+file_filter = po/po-<lang>/permissions.po
+source_file = po/po-en_US/permissions.pot
+source_lang = en_US
+
 [ushahidi-localizations.report]
 file_filter = po/po-<lang>/report.po
 source_file = po/po-en_US/report.pot
@@ -109,6 +119,11 @@ source_lang = en_US
 [ushahidi-localizations.reporters]
 file_filter = po/po-<lang>/reporters.po
 source_file = po/po-en_US/reporters.pot
+source_lang = en_US
+
+[ushahidi-localizations.reports]
+file_filter = po/po-<lang>/reports.po
+source_file = po/po-en_US/reports.pot
 source_lang = en_US
 
 [ushahidi-localizations.roles]
