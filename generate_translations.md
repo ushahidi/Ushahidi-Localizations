@@ -54,12 +54,16 @@ The new language will be picked up automatically when cron runs.
 2. Convert the php files to po using kohana-i18n-manager.
 Run this in the web root (swapping xy_ZW for the language code):
 
-    php index.php "i18n/php2po?lang=xy_ZW"
+  ```
+  php index.php "i18n/php2po?lang=xy_ZW"
+  ```
 
 3. Commit the new php and po files to github    
 4. Push the translations to transifex
 
-    tx push -t --skip -l xy_ZW
+  ```
+  tx push -t --skip -l xy_ZW
+  ```
 
 5. The translations from now on should be edited in the Transifex client
 and will sync to github automatically.
@@ -72,20 +76,25 @@ When a new file is added to the PHP source files we need to tell transifex about
 1. Create the new php file in en_US (for example en_US/incident.php)
 2. Create a pot file to get started
 
-    php index.php "i18n/php2po?lang=en_US&group=incident"
+  ```
+  php index.php "i18n/php2po?lang=en_US&group=incident"
+  ```
 
 3. Edit .tx/config and add the resource to the end of the file
 (You can do this using the tx client but its safer to edit the .tx/config file manually)
 
-    [ushahidi-localizations.incident]
-    file_filter = po/po-<lang>/incident.po
-    source_file = po/po-en_US/incident.pot
-    source_lang = en_US
-
+  ```
+  [ushahidi-localizations.incident]
+  file_filter = po/po-<lang>/incident.po
+  source_file = po/po-en_US/incident.pot
+  source_lang = en_US
+  type = PO
+  ```
 4. Push the file to transifex
 
-    tx push -s -r ushahidi-localizations.incident
-
+  ```
+  tx push -s -r ushahidi-localizations.incident
+  ```
 
 Converting PHP files to PO and back
 -----------------------------------
