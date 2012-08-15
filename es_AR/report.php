@@ -6,7 +6,7 @@
 // PO revision date:  2012-07-12 21:48+0000
 $lang = array(
 	'comments_form_error' => 'error!',
-	'country_name' => array
+	'country_name' => array(
 		'single_country' => 'La ubicación del reporte debe estar dentro del país seleccionado en la configuración del sistema %s.'
 	),
 	'custom_field' => array(
