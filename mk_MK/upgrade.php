@@ -4,6 +4,4 @@
 // Updates should be made through Transifex
 // I18n generated at: 2012-08-17 06:40+0000
 // PO revision date:  2012-08-15 04:40+0000
-$lang = array(
-	'upgrade_db_version' => 'Database version: ',
-);
+$lang = array();
