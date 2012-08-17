@@ -153,6 +153,7 @@ $lang = array(
 	'update_link' => ' Cliquer ici pour mettre à jour',
 	'upgrade_ushahidi' => 'Mettre Ushahidi à jour',
 	'upgrade_ushahidi_status' => 'Mettre à jour le statut d\'Ushahidi',
+	'upload_reports' => 'Charger des rapports',
 	'users' => 'Utilisateurs',
 	'verify_unverify' => 'Vérifié / Non Vérifié',
 	'version_available' => ' is disponible.',

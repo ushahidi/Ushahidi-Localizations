@@ -17,6 +17,7 @@ $lang = array(
 		'standard_text' => 'Le nom d\'utilisateur comporte des caractères invalides.',
 	) ,
 	'password' => array(
+		'alpha_numeric' => 'Le mot de passe doit être composé uniquement de lettres et de chiffres.',
 		'length' => 'Le mot de passe doit comporter entre 5 et 16 caractères.',
 		'login error' => 'Veuillez vérifier le mot de passe.',
 		'required' => 'Veuillez entrer un mot de passe.',
@@ -30,6 +31,7 @@ $lang = array(
 	) ,
 	'username' => array(
 		'admin' => 'The role de l\'administrateur ne peut être modifié.',
+		'alpha' => 'Le nom d\'utilisateur doit être composé de lettres uniquement.',
 		'exists' => 'Ce nom d\'utilisateur est déjà pris.',
 		'length' => 'Le nom d\'utilisateur doit comporter entre 2 et 16 caractères.',
 		'login error' => 'Veuillez vérifier que le nom d\'utilisateur est correct.',
