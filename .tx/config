@@ -133,6 +133,12 @@ source_file = po/po-en_US/permissions.pot
 source_lang = en_US
 type = PO
 
+[ushahidi-localizations.private_message]
+file_filter = po/po-<lang>/private_message.po
+source_file = po/po-en_US/private_message.pot
+source_lang = en_US
+type = PO
+
 [ushahidi-localizations.report]
 file_filter = po/po-<lang>/report.po
 source_file = po/po-en_US/report.pot
