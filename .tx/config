@@ -163,6 +163,12 @@ source_file = po/po-en_US/settings.pot
 source_lang = en_US
 type = PO
 
+[ushahidi-localizations.sharing]
+file_filter = po/po-<lang>/sharing.po
+source_file = po/po-en_US/sharing.pot
+source_lang = en_US
+type = PO
+
 [ushahidi-localizations.stats]
 file_filter = po/po-<lang>/stats.po
 source_file = po/po-en_US/stats.pot

@@ -3,55 +3,66 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-06-08 09:43+1300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-08-17 06:51+0000\n"
+"PO-Revision-Date: 2012-08-17 06:51+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: ushahidi-i18n-manager\n"
+"Language: tr_TR\n"
 
-#: $lang->'date'
+#: sharing.date
+msgctxt "sharing.date"
 msgid "Ingress date"
 msgstr "Giriş tarihi"
 
-#: $lang->'date_added'
+#: sharing.date_added
+msgctxt "sharing.date_added"
 msgid "Date Added"
 msgstr "Tarih Eklendi"
 
-#: $lang->'last_access'
+#: sharing.last_access
+msgctxt "sharing.last_access"
 msgid "Last Access"
 msgstr "Son Erişim"
 
-#: 'sharing_color'->'length'
+#: sharing.sharing_color.length
+msgctxt "sharing.sharing_color.length"
 msgid "The color field must be 6 characters long."
 msgstr "Renk ismi en az 6 karakter uzunluğunda olmalı."
 
-#: 'sharing_color'->'required'
+#: sharing.sharing_color.required
+msgctxt "sharing.sharing_color.required"
 msgid "The color field is required."
 msgstr "Renk alanı boş bırakılamaz."
 
-#: 'sharing_name'->'length'
+#: sharing.sharing_name.length
+msgctxt "sharing.sharing_name.length"
 msgid "The Sharing name does not appear to be valid."
 msgstr "Paylaşım ismi geçerli değil"
 
-#: 'sharing_name'->'required'
+#: sharing.sharing_name.required
+msgctxt "sharing.sharing_name.required"
 msgid "A Sharing name is required."
 msgstr "Paylaşım ismi boş bırakılamaz."
 
-#: 'sharing_url'->'exists'
+#: sharing.sharing_url.exists
+msgctxt "sharing.sharing_url.exists"
 msgid "The site URL already exists."
 msgstr "Bu URL adresi zaten var."
 
-#: 'sharing_url'->'length'
+#: sharing.sharing_url.length
+msgctxt "sharing.sharing_url.length"
 msgid "The site URL does not appear to be valid."
 msgstr "Bu URL adresi geçerli değil"
 
-#: 'sharing_url'->'required'
+#: sharing.sharing_url.required
+msgctxt "sharing.sharing_url.required"
 msgid "The site URL is required."
 msgstr "URL adresi boş bırakılamaz"
 
-#: 'sharing_url'->'url'
+#: sharing.sharing_url.url
+msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
 msgstr "Bu URL adresi geçerli değil"
+

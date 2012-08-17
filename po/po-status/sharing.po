@@ -1,4 +1,4 @@
-#. extracted from en_US/sharing.php, uk_UA/sharing.php
+#. extracted from en_US/sharing.php, status/sharing.php
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -9,32 +9,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: ushahidi-i18n-manager\n"
-"Language: uk_UA\n"
+"Language: status\n"
 
 #: sharing.date
 msgctxt "sharing.date"
 msgid "Ingress date"
-msgstr "Дата реєстрації"
+msgstr ""
 
 #: sharing.date_added
 msgctxt "sharing.date_added"
 msgid "Date Added"
-msgstr "Дата додана"
+msgstr ""
 
 #: sharing.last_access
 msgctxt "sharing.last_access"
 msgid "Last Access"
-msgstr "Останній доступ"
+msgstr ""
 
 #: sharing.sharing_color.length
 msgctxt "sharing.sharing_color.length"
 msgid "The color field must be 6 characters long."
-msgstr "Довжина кольору має бути 6-значною"
+msgstr ""
 
 #: sharing.sharing_color.required
 msgctxt "sharing.sharing_color.required"
 msgid "The color field is required."
-msgstr "Введіть колір."
+msgstr ""
 
 #: sharing.sharing_name.length
 msgctxt "sharing.sharing_name.length"
@@ -49,20 +49,20 @@ msgstr ""
 #: sharing.sharing_url.exists
 msgctxt "sharing.sharing_url.exists"
 msgid "The site URL already exists."
-msgstr "URL сайта вже існує"
+msgstr ""
 
 #: sharing.sharing_url.length
 msgctxt "sharing.sharing_url.length"
 msgid "The site URL does not appear to be valid."
-msgstr "Адреса сайта введена невірно"
+msgstr ""
 
 #: sharing.sharing_url.required
 msgctxt "sharing.sharing_url.required"
 msgid "The site URL is required."
-msgstr "Введіть url сайта"
+msgstr ""
 
 #: sharing.sharing_url.url
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
-msgstr "Адреса сайта введена невірно"
+msgstr ""
 
