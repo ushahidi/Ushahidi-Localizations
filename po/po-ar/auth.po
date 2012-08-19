@@ -1,15 +1,20 @@
-#. extracted from en_US/auth.php, ar/auth.php
+# 
+# Translators:
+# Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-18 23:50+0000\n"
+"Last-Translator: Farid Boushra <>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: auth.email.email
 msgctxt "auth.email.email"
@@ -68,12 +73,16 @@ msgstr "حقل كلمة المرور مطلوب"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr "حقل كلمة المرور يجب ان يتكون من حروف و # و @ كرموز و ارقام و _ و / فقط."
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
-msgid "The current password you entered for your account is incorrect. Please try again."
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
 msgstr "كلمة المرور التى ادخلتها لهذا الحساب غير صحيحة. اعد المحاولة."
 
 #: auth.new_password.length
@@ -98,7 +107,9 @@ msgstr "حقل كلمة المرور مطلوب"
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr "حقل كلمة المرور يجب ان يتكون من حروف و # و @ كرموز و ارقام و _ و / فقط."
 
 #: auth.password.default
@@ -133,7 +144,9 @@ msgstr "هناك مشكلة فى السيرفير. أعد المحاولة"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr "حقل كلمة المرور يجب ان يتكون من حروف و # و @ كرموز و ارقام و _ و / فقط."
 
 #: auth.password_confirm.matches
@@ -198,7 +211,9 @@ msgstr ".عفواً، هذا اسم قيد الاستخدام"
 
 #: auth.username.length
 msgctxt "auth.username.length"
-msgid "The public profile URL field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr ".حقل اسم المستخدم يجب ألا يقل عن رمزين وألا يزيد على 16 رمز"
 
 #: auth.username.login error
@@ -220,4 +235,3 @@ msgstr ".لا يمكن تعديل مهمة المسئول الإداري الأ�
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
 msgstr "هل تعنى حقا تعديل/أنشا مستخدم؟"
-

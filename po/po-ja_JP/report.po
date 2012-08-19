@@ -1,15 +1,18 @@
-#. extracted from en_US/report.php, ja_JP/report.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:48+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
@@ -18,7 +21,9 @@ msgstr "エラーが発生しました。"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
-msgid "This deployment spans within one country only. Please make sure the report location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the report "
+"location is within the country %s."
 msgstr ""
 
 #: report.custom_field.values
@@ -53,17 +58,23 @@ msgstr ""
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_point.between
@@ -178,7 +189,9 @@ msgstr "アップロードする写真の最大サイズは2MB以下であるこ
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
-msgid "The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The Upload Photos field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
 msgstr "アップロードされた写真は有効な画像フォーマットではないようです。アップロード可能なフォーマットは .JPG、 .PNG、.GIFのみです。"
 
 #: report.incident_photo.valid
@@ -198,7 +211,9 @@ msgstr "ソースの信用性の有効な値を入力してください。"
 
 #: report.incident_title.length
 msgctxt "report.incident_title.length"
-msgid "The \"Report Title\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Report Title\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "タイトルフィールドは最低3文字、最高200文字以下でなければいけません。"
 
 #: report.incident_title.required
@@ -233,7 +248,9 @@ msgstr "緯度フィールドに有効な緯度の値が入ってい内容です
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "緯度フィールドは必須です。地図をクリックし、場所の選択をしてください。"
 
 #: report.locale.alpha_dash
@@ -253,7 +270,8 @@ msgstr "ロケールフィールドに無効な値が入っています。"
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
-msgid "The Original Report and the Translation have the same locale (language)."
+msgid ""
+"The Original Report and the Translation have the same locale (language)."
 msgstr "オリジナルレポートと、翻訳は同じロケール（言語）です。"
 
 #: report.locale.required
@@ -263,7 +281,9 @@ msgstr "ロケールは必須です。"
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
-msgid "The \"Location Name\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Location Name\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "ロケール名は最低3文字、最高200文字以下でなければいけません。"
 
 #: report.location_name.required
@@ -278,7 +298,9 @@ msgstr "経度フィールドに有効な経度の値が入っていないよう
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "経度フィールドは必須です。地図をクリックし、場所を選択してください。"
 
 #: report.person_email.email
@@ -293,12 +315,14 @@ msgstr "メールフィールドは最低4文字以上、最高64文字以下で
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
-msgid "The first name field must be at least 3 and no more 100 characters long."
+msgid ""
+"The first name field must be at least 3 and no more 100 characters long."
 msgstr "名前は最低3文字以上、最高100文字以下でなければいけません（カタカナで書く事をおすすめします）。"
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
-msgid "The last name field must be at least 2 and no more 100 characters long."
+msgid ""
+"The last name field must be at least 2 and no more 100 characters long."
 msgstr "名字は最低3文字以上、最高100文字以下でなければいけません（カタカナで書く事をおすすめします）。"
 
 #: report.to_date.date_mmddyyyy
@@ -315,4 +339,3 @@ msgstr "有効なTOの日時を入力してください。今日よりも先の�
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
 msgstr "FROMの日時は、TOの日時よりも先にする事は出来ません。"
-

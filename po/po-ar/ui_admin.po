@@ -1,24 +1,33 @@
-#. extracted from en_US/ui_admin.php, ar/ui_admin.php
+# 
+# Translators:
+# Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 21:18+0000\n"
-"PO-Revision-Date: 2012-08-17 21:18+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-19 22:41+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid "Access denied. Either your credentials are not valid or your request has been refused."
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
 msgstr "ممنوع الدخول. إما بيانات اعتمادك غير سليمة أو تم رفض طلبك"
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
 msgstr "ممنوع الدخول. تم تمرير طلبك، لكن تم منعه بسبب محدودية الدخول مثل الوقت. حاول لاحقاً"
 
 #: ui_admin.access_level
@@ -318,7 +327,8 @@ msgstr "الحالة الحالية غير مفعلة"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid "You don't have sufficient permissions to edit the following custom fields."
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
 msgstr "ليس لديك صلاحيات لتعديل الحقوق المخصصة التالية"
 
 #: ui_admin.daily
@@ -693,7 +703,9 @@ msgstr "تغذية عن الحدث لـ"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
-msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgid ""
+"The installer folder still exists. Delete the installer folder. It is a "
+"potential security vulnerability."
 msgstr ""
 
 #: ui_admin.instance
@@ -973,7 +985,10 @@ msgstr "نعم"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without"
+" categories(uncategorized reports) as a result of category deletion."
 msgstr "هذة الفئة الخاصة لن تظهر حينما يقوم المستخدمين بادخال تقارير. ولكنها تستخدم لوضع التقارير فى حالة انتظار ما لم تضعها فى فئة (تقارير غير مصنفة)"
 
 #: ui_admin.notification
@@ -1038,7 +1053,17 @@ msgstr "لم يتم العثور على الصفحة"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
+" a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
+" can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
 msgstr "الصفحة التى تحاول الإطلاع عليها ليست هنا.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
 
 #: ui_admin.parameters_used
@@ -1073,12 +1098,16 @@ msgstr "قد تسلمنا طلب لإعادة تعيين كلمة مرور لأ�
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
 msgstr "لتغيير كلمة المرور, أنقر على الرابط التالى (أو قم بالنسخ واللصق في المتصفح الخاص )بك"
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid "As you requested, your password has now been reset. Your new details are as follows"
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
 msgstr "بناء على طلبك, تم إعادة تعيين كلمة المرور الخاصة بك. التفاصيل الخاصة بك هى كالآتى"
 
 #: ui_admin.password_reset_subject
@@ -1228,12 +1257,16 @@ msgstr "البحث عن"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid "The encryption key is still set to the default value. This is insecure and must be changed."
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
 msgstr "لا يزال مفتاح التشفير معين على إلى القيمة الافتراضية. هذا غير أمن، ويجب تغييرها."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
 msgstr "الموقع يخدم ببروتوكول HTTP. ويجب ان يكون HTTPS لزيادة الامان."
 
 #: ui_admin.security_info_instructions
@@ -1308,7 +1341,10 @@ msgstr "فئة خاصة"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
 msgstr "هذه هي الفئة الخاصة التي لن تظهر على شكل تقديم تقرير للمستخدمين تقديم التقارير. ويستخدم هذا بالتزامن مع ميزة \"تقارير موثوقة\" ."
 
 #: ui_admin.specific_area
@@ -1530,4 +1566,3 @@ msgstr "نعم"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "بحثك عن"
-

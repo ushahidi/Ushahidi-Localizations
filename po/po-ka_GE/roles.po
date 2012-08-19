@@ -1,19 +1,23 @@
-#. extracted from en_US/roles.php, ka_GE/roles.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:50+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ka_GE\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: roles.description.length
 msgctxt "roles.description.length"
-msgid "The Description field must be at least 3 and no more 100 characters long."
+msgid ""
+"The Description field must be at least 3 and no more 100 characters long."
 msgstr "აღწერის ველი უნდა შედგებოდეს არანაკლებ 3 და არაუმეტეს 100 სიმბოლოსგან."
 
 #: roles.description.required
@@ -55,4 +59,3 @@ msgstr ""
 msgctxt "roles.permissions.numeric"
 msgid "Permissions field must be a number between 0 - 100."
 msgstr ""
-

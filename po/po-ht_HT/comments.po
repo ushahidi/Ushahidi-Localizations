@@ -1,15 +1,18 @@
-#. extracted from en_US/comments.php, ht_HT/comments.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-19 22:49+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ht_HT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: comments.captcha.default
 msgctxt "comments.captcha.default"
@@ -55,4 +58,3 @@ msgstr ""
 msgctxt "comments.comment_email.required"
 msgid "The Email field is required if the checkbox is checked."
 msgstr ""
-

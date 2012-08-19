@@ -1,19 +1,25 @@
-#. extracted from en_US/tooltips.php, he_IL/tooltips.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:54+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: tooltips.actions.add_to_category
 msgctxt "tooltips.actions.add_to_category"
-msgid "This adds the report to additional categories. If you select Category 1 here and the report already has Category 2 attached to it, the report will then have both Category 1 and Category 2."
+msgid ""
+"This adds the report to additional categories. If you select Category 1 here"
+" and the report already has Category 2 attached to it, the report will then "
+"have both Category 1 and Category 2."
 msgstr "זה מוסיף את הדוח לקטגוריות נוספות. אם תבחר להוסיף את קטגוריה 1 לדיווח, כאשר הדיווח כבר משוייך לקטגוריה 2, אזי הדיווח ישוייך גם לקטגוריה 1 ולקטגוריה 2."
 
 #: tooltips.actions.approve
@@ -23,22 +29,38 @@ msgstr ""
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
-msgid "You will be able to assign a badge to the triggering user. Pick the badge that gets assigned here."
+msgid ""
+"You will be able to assign a badge to the triggering user. Pick the badge "
+"that gets assigned here."
 msgstr "תוכל להקצות תג למשתמש המדווח. בחר את התג אשר יוקצה כאן"
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
-msgid "This is a range of hours and/or minutes between two times in 24 hour format. If you input an earlier time in the second field, it will be flipped with the first. These times must be within a single day. Also, this time is checked against the time you have configured on your site in site settings and <strong>not</strong> necessarily the timezone of the user interacting with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
+msgid ""
+"This is a range of hours and/or minutes between two times in 24 hour format."
+" If you input an earlier time in the second field, it will be flipped with "
+"the first. These times must be within a single day. Also, this time is "
+"checked against the time you have configured on your site in site settings "
+"and <strong>not</strong> necessarily the timezone of the user interacting "
+"with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
 msgstr "זהו טווח של שעות ו / או דקות בין שני זמנים בפורמט של 24 שעות. אם הזנת זמן מוקדם יותר בשדה השני, הזמן יוחלף בזמן שבשדה הראשון. הזמנים שהוזנו צריכים להיות בטווח של יום אחד. כמו כן, הזמן שהוזן מושווה כנגד הזמן שהגדרת בהגדרות האתר, ולאו דווקא למול אזור הזמן של המשתמש אשר משתמש במערכת. השאר את השדות ב 0:00 עד 00:00 בכדי להתעלם מהגדרה זו."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
-msgid "If you would like to activate triggers only when a certain category is being used, you can set that here. This will allow a trigger to be activated if only one of the categories is used. For instace, if you select Category 1 and Category 2 here and a report is submitted using Category 2 and Category 3, it will pass the test."
+msgid ""
+"If you would like to activate triggers only when a certain category is being"
+" used, you can set that here. This will allow a trigger to be activated if "
+"only one of the categories is used. For instace, if you select Category 1 "
+"and Category 2 here and a report is submitted using Category 2 and Category "
+"3, it will pass the test."
 msgstr "באפשרותך להגדיר כאן, אם ברצונך שטריגרים יופעלו רק כאשר נעשה שימוש בקטגוריה מסוימת. זה יאפשר לטריגר להיות מופעל אם, ורק אם, יעשה שימוש באחת הקטגוריות. לדוגמא, אם תבחר בקטגוריות 1 ו-2 ולאחר מכן יוגש דיווח אשר ישוייך לקטגוריות 2 ו- 3, הדיווח יעבור  את המבחן."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
-msgid "If these actions happen on certain days of the week, set that here. Keep in mind the day is determined by the timezone configured on your deployment. Hold shift, command, or control for multiple day selection."
+msgid ""
+"If these actions happen on certain days of the week, set that here. Keep in "
+"mind the day is determined by the timezone configured on your deployment. "
+"Hold shift, command, or control for multiple day selection."
 msgstr "אם פעולות אלו מתרחשות בימים מסוימים בשבוע. זכור שהיום נקבע לפי אזור-הזמן שהוגדר בהתקנת המערכת. לסימון של מספר ימים לחץ על Shift או Command ואז בחר את הימים."
 
 #: tooltips.actions.email_body
@@ -53,17 +75,31 @@ msgstr "הנושא של הודעת הדואר-האלקטרוני שתישלח."
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
-msgid "You can choose to leave this blank if you do not want to check against keywords. If you add words here, you will need to separate them with a comma (,). For example, if you want to activate a trigger when someone mentions \"love\" or \"peace\" in their message, you will want to add \"love, peace\" in the keywords box."
+msgid ""
+"You can choose to leave this blank if you do not want to check against "
+"keywords. If you add words here, you will need to separate them with a comma"
+" (,). For example, if you want to activate a trigger when someone mentions "
+"\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
+" in the keywords box."
 msgstr "אתה יכול לבחור להשאיר את השדה הזה ריק אם אתה לא מעוניין לבדוק את הקלט מול מילות המפתח. אם תוסיף כאן מילים, תצטרך להפריד ביניהם באמצעות פסיק (,). לדוגמה, אם אתה רוצה להפעיל טריגר כאשר מישהו מזכיר את המילים \"אהבה\" או \"שלום\" במסר שלהם, יהיה עליך להוסיף \"אהבה, שלום\" בתיבת מילות המפתח."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
-msgid "You can either select anywhere or a specific location. If you select a specific location, you will be asked to draw a box around the area that qualifies an action. For example, if you want this trigger to be activated when someone submits a report in Brazil, you will select \"specific area\" and then draw the box around Brazil. You can make these boxes as small or as large as you would like. You can also draw multiple boxes."
+msgid ""
+"You can either select anywhere or a specific location. If you select a "
+"specific location, you will be asked to draw a box around the area that "
+"qualifies an action. For example, if you want this trigger to be activated "
+"when someone submits a report in Brazil, you will select \"specific area\" "
+"and then draw the box around Brazil. You can make these boxes as small or as"
+" large as you would like. You can also draw multiple boxes."
 msgstr "באפשרותך לבחור כל מקום או מיקום ספציפי. אם בחרת מיקום מסוים, תתבקש לסמן מלבן מסביב לאזור אשר מתאים לפעולה. לדוגמה, אם אתה רוצה שהטריגר הזה יופעל כאשר מישהו מגיש דיווח בברזיל, עליך לבחור \"אזור מסוים\" ולאחר מכן לסמן את המלבן מסביב לברזיל. אתה יכול לצייר מלבנים קטנים או גדולים לפי רצונך. ניתן גם לסמן מספר מלבנים שונים במשולב."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
-msgid "This qualifier will activate the trigger on the N-th count either for the entire collective user base or for each individual user. Leave this blank to ignore it."
+msgid ""
+"This qualifier will activate the trigger on the N-th count either for the "
+"entire collective user base or for each individual user. Leave this blank to"
+" ignore it."
 msgstr "המאשרר הזה מפעיל את הטריגר בספירה ה-N-ית, או עבור בסיס המשתמשים כולו, או עבור כל משתמש יחיד. השאר את השדה ריק כדי להתעלם ממנו."
 
 #: tooltips.actions.report_title
@@ -73,27 +109,45 @@ msgstr ""
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
-msgid "If all of the qualifiers above are passed, the trigger will initiate a response. This can range from approving a report to emailing a user. Select the response here to activate additional options for the specific responses."
+msgid ""
+"If all of the qualifiers above are passed, the trigger will initiate a "
+"response. This can range from approving a report to emailing a user. Select "
+"the response here to activate additional options for the specific responses."
 msgstr "אם כל המאשרר מעל מאושרים, הטריגר יפעיל את התגובה. התגובה יכולה לנוע בין אישור הדיווח לבין משלוח דואר אלקטרוני למשתמש. בחר את התגובה הרצוייה לך כאן כדי להפעיל אפשרויות נוספות עבור התגובות הספציפיות."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
-msgid "If you select \"Triggering User\", the email will be sent to the user who performed the action. If you select the radio button next to the input box, you will be able to enter a custom email address. This is useful if you are setting up triggers to notify people when certain parts of the map are seeing reports, check ins or some other activity."
+msgid ""
+"If you select \"Triggering User\", the email will be sent to the user who "
+"performed the action. If you select the radio button next to the input box, "
+"you will be able to enter a custom email address. This is useful if you are "
+"setting up triggers to notify people when certain parts of the map are "
+"seeing reports, check ins or some other activity."
 msgstr "אם תבחר \"משתמש טריגר\", דואר אלקטרוני ישלח אל המשתמש שביצע את הפעולה. באפשרותך להזין כתובת דואר אלקטרוני אישית, על ידי בחירת לחצן האפשרויות שלצד תיבת הקלט. אפשרות זו שימושית אם אתה מגדיר טריגרים על מנת להודיע ​​לאנשים כאשר מתקבלים דיווחים, אישרור-הגעה או פעילויות אחרות, בחלקים מסוימים של המפה."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
-msgid "You can select multiple days here. Dates are determined by your deployment timezone setting. In order to default to all dates, do not select any dates."
+msgid ""
+"You can select multiple days here. Dates are determined by your deployment "
+"timezone setting. In order to default to all dates, do not select any dates."
 msgstr "באפשרותך לבחור פה מספר ימים. תאריכים נקבעים לפי הגדרת איזור הזמן של המערכת שלך. על מנת להפעיל את ברירת המחדל עבור כלל התאריכים, אל תסמן כאן אף תאריך."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
-msgid "The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one."
+msgid ""
+"The trigger is the core component of setting up your Action Triggers. This "
+"is where you determine if you would like something to happen when someone "
+"submits a report, performs a check in, etc. You will be able to filter "
+"responses to these actions after selecting one."
 msgstr "הטריגר הוא המרכיב המרכזי בהגדרת טריגרי הפעולה שלך. זה המקום שבו אתה קובע אם אתה רוצה שמשהו יקרה כאשר מישהו מגיש דיווח, מבצעת אישרור-הגעה, וכן הלאה. באפשרותך לסנן תגובות לפעולות אלה לאחר הבחירה של אחד מהם."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
-msgid "The user can be anyone or a specific user. If you would only like specific users to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as \"anyone\" since most triggers are set up for all users interacting with the system"
+msgid ""
+"The user can be anyone or a specific user. If you would only like specific "
+"users to activate a trigger, you will want to select them here. Otherwise, "
+"you will want to leave this as \"anyone\" since most triggers are set up for"
+" all users interacting with the system"
 msgstr "המשתמש יכול להיות כל אחד או משתמש מסוים. אם אתה רוצה שרק למשתמשים מסוימים יפעילו את הטריגר, עליך לבחור אותם כאן. אחרת, עליך להשאיר את ההגדרה כאן בתור \"כל-אחד\", שכן רוב הטריגרים מוגדרים עבור כלל המשתמשים אשר משתמשים במערכת"
 
 #: tooltips.actions.verify
@@ -103,7 +157,9 @@ msgstr "מסמן דיווח כמאומת או לא"
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
-msgid "Profile pages on this site use Gravatar. By clicking on your image, you will be taken to the Gravatar website where you can change your profile picture."
+msgid ""
+"Profile pages on this site use Gravatar. By clicking on your image, you will"
+" be taken to the Gravatar website where you can change your profile picture."
 msgstr "תמונות הפרופילים של דפי המשתמש באתר זה, עושים שימוש במערכת הגראווטר (Gravatar). על ידי לחיצה על התמונה שלך, תועבר לאתר Gravatar שבו תוכל לשנות את תמונת הפרופיל שלך."
 
 #: tooltips.default_value
@@ -113,7 +169,10 @@ msgstr "הפרד כל ערך באמצעות פסיק. לדוגמא: ערך 1, ע
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
-msgid "Separate each value with a comma, e.g. value1, value2. In case you want to set a default value, end your list of options with :: e.g If you want to make value3 the default, it will be value1, value2, value3::value3"
+msgid ""
+"Separate each value with a comma, e.g. value1, value2. In case you want to "
+"set a default value, end your list of options with :: e.g If you want to "
+"make value3 the default, it will be value1, value2, value3::value3"
 msgstr ""
 
 #: tooltips.dropdown_choices
@@ -138,7 +197,10 @@ msgstr "הודעה פרטית"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
-msgid "You can select a color that will show up under your profile picture on your public profile. This color will also be the color dot that shows up on the map for your checkins."
+msgid ""
+"You can select a color that will show up under your profile picture on your "
+"public profile. This color will also be the color dot that shows up on the "
+"map for your checkins."
 msgstr "אתה יכול לבחור צבע אשר יופיע מתחת לתמונת הפרופיל שלך בעמוד הפרופיל הציבורי שלך. צבע זה יהיה גם ישמש כנקודת הצבע אשר תופיע על המפה עבור אישרורי-ההגעה שלך."
 
 #: tooltips.profile_email
@@ -148,32 +210,46 @@ msgstr "כתובת האימייל שלך"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
-msgid "This is one of the ways that you are identified on the website. Keep in mind that this is public!"
+msgid ""
+"This is one of the ways that you are identified on the website. Keep in mind"
+" that this is public!"
 msgstr "שמך המלא"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
-msgid "If set, this will be your new password. Leave this field blank if you wish to keep your current password."
+msgid ""
+"If set, this will be your new password. Leave this field blank if you wish "
+"to keep your current password."
 msgstr ""
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
-msgid "This is a requirement when creating a new user and will be the users password. You should inform your new user to change their password after logging in for the first time."
+msgid ""
+"This is a requirement when creating a new user and will be the users "
+"password. You should inform your new user to change their password after "
+"logging in for the first time."
 msgstr ""
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
-msgid "Selecting YES lets you get alerts via email when new reports or comments are posted on your website."
+msgid ""
+"Selecting YES lets you get alerts via email when new reports or comments are"
+" posted on your website."
 msgstr "בחירת \"כן\" תאפשר קבלת התרעות באימייל עם הופעת תגובות או דיווחים חדשים באתר שלך"
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
-msgid "Your current password. We require you enter your password to prevent any unauthorized changes to your account."
+msgid ""
+"Your current password. We require you enter your password to prevent any "
+"unauthorized changes to your account."
 msgstr "הסיסמה שלך. כדי לשמור על הסיסמה הנוכחית, נא להשאיר את השדה ריק."
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
-msgid "Your profile can be viewed by anyone on the Internet if you check this option. This is also the easiest way to show off the reports you've submitted, your checkins, badges, etc all on one page."
+msgid ""
+"Your profile can be viewed by anyone on the Internet if you check this "
+"option. This is also the easiest way to show off the reports you've "
+"submitted, your checkins, badges, etc all on one page."
 msgstr "הפרופיל שלך יהיה פתוח לצפייה על ידי כלל גולשי האינטרנט, באם תסמן באפשרות זו. זוהי גם הדרך הקלה ביותר להציג לראווה את הדיווחים אשר העלית לאתר, את אישרורי ההגעה שלך, האותות שלך וכן הלאה - כולם בדף אחד."
 
 #: tooltips.profile_public_url
@@ -188,7 +264,12 @@ msgstr "אי-אפשר לשנות את שם המשתמש"
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
-msgid "Access Levels are used to restrict access to custom form field data. Higher access levels can access fields from lower levels. Superadmin has the highest access level (100). Public data is displayed at the lowest access level (0). Members have access level 10. Admin is access level 90 by default."
+msgid ""
+"Access Levels are used to restrict access to custom form field data. Higher "
+"access levels can access fields from lower levels. Superadmin has the "
+"highest access level (100). Public data is displayed at the lowest access "
+"level (0). Members have access level 10. Admin is access level 90 by "
+"default."
 msgstr "רמות הרשאה משמשים כדי להגביל גישה לנתונים בשדות אשר מותאמים אישית. משתמשים ברמות הרשאה גבוהות יכולים לגשת לשדות אשר משוייכים לרמות נמוכות יותר. למפעיל-על יש את רמת ההרשאה הגבוהה ביותר - 100. נתונים ציבוריים מוצגים ברמת ההרשאה הנמוכה ביותר - 0."
 
 #: tooltips.settings_alert_email
@@ -238,7 +319,11 @@ msgstr "מספר קריאות API מקסימלי לכתובת IP"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
-msgid "The site banner shows up at the top of the front end of your website if the theme you are using supports it. The recommended size for this banner will depend on the theme you are using. Keep in mind that this will replace the site title and tagline at the top of the page."
+msgid ""
+"The site banner shows up at the top of the front end of your website if the "
+"theme you are using supports it. The recommended size for this banner will "
+"depend on the theme you are using. Keep in mind that this will replace the "
+"site title and tagline at the top of the page."
 msgstr "הבאנר של האתר מופיע בחלק העליון של החלק הפתוח-לציבור של אתר האינטרנט שלך, בהינתן שערכת העיצוב בה אתה משתמש תומכת בכך. הגודל המומלץ עבור הבאנר יהיה תלוי בערכת העיצוב בה אתה משתמש. זכור, הבאנר יחליף את כותרת וכותרת-המשנה של האתר אשר מופיעים כעת בחלק העליון של הדף."
 
 #: tooltips.settings_blocks_per_row
@@ -248,7 +333,11 @@ msgstr "מספר איזורי העמודות אשר יוצגו בכל שורה"
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
-msgid "Enable or disable page caching. This makes pages display faster by cutting response times. We recommend using caching on high traffic sites. **Remember that reports will be populated on the front end based on the schedule you set below (Cache Lifetime)."
+msgid ""
+"Enable or disable page caching. This makes pages display faster by cutting "
+"response times. We recommend using caching on high traffic sites. **Remember"
+" that reports will be populated on the front end based on the schedule you "
+"set below (Cache Lifetime)."
 msgstr "הפעלה או ביטול של שמירת דפים בזכרון מטמון (Caching). אפשרות זו מקצרת את זמני התגובה וכך מאיצה את הצגת הדפים. מומלץ לשימוש באתרים בהם נפח פעילות גבוה. ** חשוב לזכור שהדיווחים יוצגו למשתמש על בסיס לוח הזמנים שמוגדר מטה (Cache Lifetime)"
 
 #: tooltips.settings_cache_pages_lifetime
@@ -258,7 +347,13 @@ msgstr "הגדרת משך הזמן לשמירת זכרון המטמון"
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
-msgid "This setting enables checkins on your deployment. This is a simplified report type that is not moderated before it goes on the homepage and requires your site to be configured a certain way. When you enable this, make sure your timezone setting is on UTC and your theme supports checkins. When you enable this, checkin-only themes will become enabled under your addons/themes settings page."
+msgid ""
+"This setting enables checkins on your deployment. This is a simplified "
+"report type that is not moderated before it goes on the homepage and "
+"requires your site to be configured a certain way. When you enable this, "
+"make sure your timezone setting is on UTC and your theme supports checkins. "
+"When you enable this, checkin-only themes will become enabled under your "
+"addons/themes settings page."
 msgstr "הגדרה זו מאפשרת אישרור-הגעה (checkins) באתר שלך. זהו סוג דיווח פשוט יותר, אשר איננו עובר סינון לפני שהוא עולה לעמוד הבית, ואשר דורש שהאתר שלך יהיה מוגדר בצורה מסוימת. כאשר אתה מאפשר את זה, יש לוודא הגדרת אזור הזמן שלך הוא על UTC ושערכת העיצוב שלך תומכת באישרורי-הגעה. כאשר אתה מאפשר את האופציה הזו, רק ערכות-עיצוב אשר תומכות באישרורי-הגעה יהפכו מופעלות תחת עמודי הגדרות הערכות-עיצוב/תוספים."
 
 #: tooltips.settings_configure_map
@@ -298,7 +393,8 @@ msgstr "מספר הדיווחים המוצג בכל עמוד באתר הראשי
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
-msgid "This is the number of reports displayed per page on the admin Back End."
+msgid ""
+"This is the number of reports displayed per page on the admin Back End."
 msgstr "מספר הדיווחים המוצג בכל עמוד בממשק הניהול של האתר."
 
 #: tooltips.settings_flsms_download
@@ -328,7 +424,10 @@ msgstr "הגדר את השפה של האתר."
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
-msgid "If you set this option to yes, you must approve every individual user who creates an account on your site by assigning them roles (ie. Member, Admin, Superadmin)."
+msgid ""
+"If you set this option to yes, you must approve every individual user who "
+"creates an account on your site by assigning them roles (ie. Member, Admin, "
+"Superadmin)."
 msgstr ""
 
 #: tooltips.settings_map_provider
@@ -338,17 +437,24 @@ msgstr "זה מגדיר באיזו מפה משתמש האתר"
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
-msgid "This shows the timeline based on the date and time reports were submitted"
+msgid ""
+"This shows the timeline based on the date and time reports were submitted"
 msgstr ""
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
-msgid "Setting this value to true or yes will make your deployment private so only users with accounts that you specify will be able to access the deployment."
+msgid ""
+"Setting this value to true or yes will make your deployment private so only "
+"users with accounts that you specify will be able to access the deployment."
 msgstr "הגדרת ערך זה לאמת או כן יהפוך את האתר שלך לפרטי, כך שרק משתמשים עם חשבונות שציינת יוכלו לגלוש באתר."
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
-msgid "Users will be emailed with a confirmation link to click before they are allowed to log into the deployment if this is set to yes. If you enable this after your deployment has accepted users, they will be prompted to confirm their account before they will be allowed to continue using it."
+msgid ""
+"Users will be emailed with a confirmation link to click before they are "
+"allowed to log into the deployment if this is set to yes. If you enable this"
+" after your deployment has accepted users, they will be prompted to confirm "
+"their account before they will be allowed to continue using it."
 msgstr ""
 
 #: tooltips.settings_server_host
@@ -363,7 +469,8 @@ msgstr "זוהי הסיסמה עבור כתובת הדואר-האלקטרוני 
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
-msgid "This is required to accept incoming connections from the email address."
+msgid ""
+"This is required to accept incoming connections from the email address."
 msgstr "זה נדרש על מנת לקבל את החיבורים הנכנסים מכתובת הדואר האלקטרוני"
 
 #: tooltips.settings_server_ssl_support
@@ -383,22 +490,36 @@ msgstr "זוהי כתובת הדואר האלקטרונית אשר מקבלת ד
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
-msgid "Hit statistics are stored on a server controlled by Ushahidi. By enabling this option, you gain access to hit statistics directly in your admin panel. By disabling it, you will stop collecting statistics and will be unable to recover traffic stats collected while this is turned off."
+msgid ""
+"Hit statistics are stored on a server controlled by Ushahidi. By enabling "
+"this option, you gain access to hit statistics directly in your admin panel."
+" By disabling it, you will stop collecting statistics and will be unable to "
+"recover traffic stats collected while this is turned off."
 msgstr "סטטיסטיקת כניסות מאוחסנים בשרת אשר נשלט על ידי אושהידי (Ushahidi). על ידי הפעלת אפשרות זו, תזכה בגישה לסטטיסטיקת כניסות ישירות בפאנל הניהול שלך. על ידי ביטול אופציה זו, יופסק איסוף נתונים סטטיסטיים על הגולשים ותמנע ממך האפשרות לשחזר את נתוני התנועה לאתר בזמן שהאופציה הייתה כבויה."
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
-msgid "Do others have the right to republish text, images, video and/or design themes that you and your users create? Go to https://creativecommons.org/choose/ if you are interested in specifying what others are able to do with your work. And remember to be specific about what elements of the site you are licensing!"
+msgid ""
+"Do others have the right to republish text, images, video and/or design "
+"themes that you and your users create? Go to "
+"https://creativecommons.org/choose/ if you are interested in specifying what"
+" others are able to do with your work. And remember to be specific about "
+"what elements of the site you are licensing!"
 msgstr "זה תמיד רעיון טוב להגדיר את זכויות היוצרים על העבודה שלך. לקבלת עזרה בקביעת רישיון אשר יתאים לצרכים שלך, בקר בכתובת: <a href=\"http://creativecommons.org/choose/\">http://creativecommons.org/choose/</a>."
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
-msgid "This is the email address that will receive email reports and messages from the contact form."
+msgid ""
+"This is the email address that will receive email reports and messages from "
+"the contact form."
 msgstr "זוהי כתובת הדואר האלקטרונית שבה יתקבלו דיווחים באימייל והודעות מטופס הצור-קשר."
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
-msgid "This is text that will appear above the map on the homepage. This is useful for giving important information to visitors on the site. To remove the box, simply delete the message here."
+msgid ""
+"This is text that will appear above the map on the homepage. This is useful "
+"for giving important information to visitors on the site. To remove the box,"
+" simply delete the message here."
 msgstr "זהו הטקסט שיופיע מעל המפה בדף הבית. זו שימושי לעדכן את הטקסט לצורך מתן מידע חשוב למבקרים באתר. כדי להסיר את קופסת הטקסט, עליך למחוק את ההודעה שכאן."
 
 #: tooltips.settings_site_name
@@ -408,7 +529,9 @@ msgstr "זהו השם של האתר שמופיע בחלק העליון של הא
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
-msgid "This is a message that will show up on the submit report page. This is good for disclaimers or further instructions for your visitors who are reporting."
+msgid ""
+"This is a message that will show up on the submit report page. This is good "
+"for disclaimers or further instructions for your visitors who are reporting."
 msgstr "זהו המסר אשר יופיע בעמוד הזנת הדיווחים. עידכון הטקסט הזה הוא טוב עבור ציון הסתייגויות או מתן הוראות נוספות עבור המבקרים שלך אשר מוסרים דיווחים."
 
 #: tooltips.settings_site_tagline
@@ -418,11 +541,13 @@ msgstr "במילים ספורות, הסבר במה האתר עוסק."
 
 #: tooltips.settings_site_timezone
 msgctxt "tooltips.settings_site_timezone"
-msgid "This is the timezone that your site will operate on. This has an impact on any actions you have set up that utilize time and date, as well as the default current time for reports on the front and back end of the site."
+msgid ""
+"This is the timezone that your site will operate on. This has an impact on "
+"any actions you have set up that utilize time and date, as well as the "
+"default current time for reports on the front and back end of the site."
 msgstr "זהו אזור הזמן שהאתר שלך יפעל על פיו. הגדרה זו משפיעה על כל פעולה שהגדרת אשר עושה שימוש בזמנים ותאריכים, כמו גם משיעה על זמן ברירת המחדל אשר תיבחר עבור דיווחים שימולאו בחלק הגלוי ובחלק הניהולי של האתר."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
 msgstr "הגדר את ההשטג (hashtag) אשר ישמשו בציוצים בטוויטר"
-

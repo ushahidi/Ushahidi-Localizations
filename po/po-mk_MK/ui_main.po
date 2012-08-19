@@ -1,15 +1,18 @@
-#. extracted from en_US/ui_main.php, mk_MK/ui_main.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 21:18+0000\n"
-"PO-Revision-Date: 2012-08-17 21:18+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-19 22:57+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: mk_MK\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: ui_main.about
 msgctxt "ui_main.about"
@@ -153,12 +156,16 @@ msgstr "Телефон:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
-msgid "Or place a spot on the map below, and we will alert you when a report is submitted within 20 kilometers."
+msgid ""
+"Or place a spot on the map below, and we will alert you when a report is "
+"submitted within 20 kilometers."
 msgstr "Или означете место на мапата доле, и ние ќе ве известиме кога пријава ќе биде додадена на 20 километри."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
-msgid "If you can't find your location, please click on the map to pinpoint the correct location."
+msgid ""
+"If you can't find your location, please click on the map to pinpoint the "
+"correct location."
 msgstr "Ако не можете да ја најдете вашта локација, означете ја на мапата."
 
 #: ui_main.alerts_rss
@@ -453,7 +460,8 @@ msgstr "Подеси"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
-msgid "You have successfully confirmed your email address! Please login below."
+msgid ""
+"You have successfully confirmed your email address! Please login below."
 msgstr "Успешно ја потврдивте вашата email адреса! Ве молиме логирајте се подоле."
 
 #: ui_main.contact
@@ -733,7 +741,9 @@ msgstr "па вашите подесувања мораат да бидат ас
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
-msgid "In order to receive reports by email, please input your email account settings below. Please note that emails will be received at your"
+msgid ""
+"In order to receive reports by email, please input your email account "
+"settings below. Please note that emails will be received at your"
 msgstr "За да добивате пријави на email, ве молиме внесете ја вашата email адреса во подесувањата доле. Ве молиме имајте во предвид emails пораките ќе бида доставени до вашето"
 
 #: ui_main.email_settings_comment_1
@@ -813,7 +823,9 @@ msgstr "Кажете ни ->"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
-msgid "Please give us feedback about your experience by clicking on the button below."
+msgid ""
+"Please give us feedback about your experience by clicking on the button "
+"below."
 msgstr "Што мислите за нашата страница? Кажете ни со кликање на копчето подоле."
 
 #: ui_main.feeds
@@ -1123,7 +1135,9 @@ msgstr "Внесете ја вашата прецизна локација"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
-msgid "Your account doesn't have the proper permission to fully log you in. Please contact the administrator."
+msgid ""
+"Your account doesn't have the proper permission to fully log you in. Please "
+"contact the administrator."
 msgstr "Вашата сметка ги нема потребните одобрувања за да се логирате. Ве молиме контактирајте го администраторот."
 
 #: ui_main.in_response_to
@@ -1318,7 +1332,8 @@ msgstr "Одобрување е пратено на вашата email адре�
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
-msgid "Email address doesn't exist. Try a different address or create an account."
+msgid ""
+"Email address doesn't exist. Try a different address or create an account."
 msgstr "Email адресата не постои. Пробајте различна адреса или креирајте нова."
 
 #: ui_main.login_select_openid
@@ -1353,7 +1368,9 @@ msgstr "Креирајте профил"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
-msgid "Thank you for signing up at %s. To confirm your email address, please go to the following URL: %s"
+msgid ""
+"Thank you for signing up at %s. To confirm your email address, please go to "
+"the following URL: %s"
 msgstr "Ви благодариме што се регистриравте на %s. За да ја потврдите вашата email адреса, ве молиме следете го овој линк: %s"
 
 #: ui_main.login_signup_confirmation_subject
@@ -1468,7 +1485,9 @@ msgstr "Дали оваа Ushahidi инстанца се протега низ �
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
-msgid "You must confirm your email address to access this deployment. If you lost your confirmation email, you can request a new one below."
+msgid ""
+"You must confirm your email address to access this deployment. If you lost "
+"your confirmation email, you can request a new one below."
 msgstr "За да и пристапите на оваа инстанца морате да ја потврдите вашата email адреса. Ако сте го изгубиле потврдниот email, можете да побарате нов подоле."
 
 #: ui_main.name
@@ -1798,7 +1817,10 @@ msgstr "Слики и видеа"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
-msgid "* Search for your location using a location name OR latitude,longitude coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the correct location."
+msgid ""
+"* Search for your location using a location name OR latitude,longitude "
+"coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
+"correct location."
 msgstr "* Барајте ја вашата локација користејќи го името ИЛИ координатите латитуда, лонгитуда (формат: 38.19, 85.61), ИЛИ кликнете на мапата за да ја означите точната локација."
 
 #: ui_main.play
@@ -2088,7 +2110,9 @@ msgstr "Одбери град"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
-msgid "Your Report has been submitted to our staff for review. We will get back to you shortly if necessary."
+msgid ""
+"Your Report has been submitted to our staff for review. We will get back to "
+"you shortly if necessary."
 msgstr "Вашата пријава е испратена до нашиот персонал за преглед. За подобри резултати, секоја пријава е администрирана. Ви благодариме за трпението."
 
 #: ui_main.reports_submit_new
@@ -2718,7 +2742,8 @@ msgstr "Качи пријави"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
-msgid "With the form below, you can import incidents into the Ushahidi engine."
+msgid ""
+"With the form below, you can import incidents into the Ushahidi engine."
 msgstr "Со формата подоле, можете да импортирате инциденти со Ushahidi енџинот."
 
 #: ui_main.upload_reports_detail_2
@@ -2728,7 +2753,9 @@ msgstr "Пријавите мораат да бидат качени во CSV ф
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
-msgid "When incident ID already exists in the database, the entry in the CSV file will be ignored."
+msgid ""
+"When incident ID already exists in the database, the entry in the CSV file "
+"will be ignored."
 msgstr ""
 
 #: ui_main.upload_reports_detail_4
@@ -2738,7 +2765,9 @@ msgstr ""
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
-msgid "If no latitude and longitude columns are supplied, the location will be geocoded using the Google Geocoder."
+msgid ""
+"If no latitude and longitude columns are supplied, the location will be "
+"geocoded using the Google Geocoder."
 msgstr ""
 
 #: ui_main.upload_reports_detail_5
@@ -2748,12 +2777,20 @@ msgstr ""
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
-msgid "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
+msgid ""
+"#,INCIDENT TITLE,INCIDENT "
+"DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br "
+"/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
+"01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
+"Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 msgstr ""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
-msgid "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
+msgid ""
+"\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
+"everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
+"\",YES,NO,\"5.55\",\"-0.2166667\""
 msgstr ""
 
 #: ui_main.upload_successful
@@ -2935,4 +2972,3 @@ msgstr "Зголеми"
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
 msgstr "Намали"
-

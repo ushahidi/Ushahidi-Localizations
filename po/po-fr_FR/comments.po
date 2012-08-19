@@ -1,15 +1,19 @@
-#. extracted from en_US/comments.php, fr_FR/comments.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:28+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: comments.captcha.default
 msgctxt "comments.captcha.default"
@@ -55,4 +59,3 @@ msgstr "L'adresse email doit comporter entre 4 et 64 caractères."
 msgctxt "comments.comment_email.required"
 msgid "The Email field is required if the checkbox is checked."
 msgstr "Une adresse email doit être spécifiée si la case est cochée."
-

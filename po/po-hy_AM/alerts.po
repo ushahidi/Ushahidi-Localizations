@@ -1,15 +1,18 @@
-#. extracted from en_US/alerts.php, hy_AM/alerts.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 05:52+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: hy_AM\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -18,7 +21,9 @@ msgstr "Էլ-փոստի դաշտում նշված հասցեն ճիշտ չէ:"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid "That Email address has already been registered to receive alerts for that location."
+msgid ""
+"That Email address has already been registered to receive alerts for that "
+"location."
 msgstr "Այս էլեկտրոնային փոստի հասցեն արդեն գրանցվել է նշված տարածքի վերաբերյալ ծանուցումներ ստանալու համար:"
 
 #: alerts.alert_email.length
@@ -33,7 +38,9 @@ msgstr "Մուտքագրեք էլ-փոստի հասցեն, կամ հանեք վ�
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the alert "
+"location is within the country %s."
 msgstr ""
 
 #: alerts.alert_lat.between
@@ -58,17 +65,22 @@ msgstr "Դուք քարտեզի վրա ճիշտ վայր/տարածք չեք ը�
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid "The Mobile Phone field does not seem to contain the right amount of digits."
+msgid ""
+"The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr "«Բջջային հեռախոս» դաշտում նշված թվերի քանակը ճիշտ չէ:"
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
+msgid ""
+"That Mobile Phone Number has already been registered to receive alerts for "
+"that location."
 msgstr "Այս բջջային հեռախոսահամարն արդեն գրանցվել է նշված տարածքի վերաբերյալ ծանուցումներ ստանալու համար:"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
+msgid ""
+"The Mobile Phone field does not appear to contain a valid phone. Please "
+"input numbers only including Country Code."
 msgstr "«Բջջային հեռախոս» դաշտում նշված հեռախոսահամարը ճիշտ չէ: Խնդրում ենք մուտքագրել միայն թվեր` ներառյալ երկրի կոդը:"
 
 #: alerts.alert_mobile.one_required
@@ -108,12 +120,16 @@ msgstr "Այս կոդն արդեն հաստատվել է նախկինում:"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid "This verification code was not found! Please confirm that you have the correct URL."
+msgid ""
+"This verification code was not found! Please confirm that you have the "
+"correct URL."
 msgstr "Հաստատման այս կոդն անհայտ է: Խնդրում ենք ստուգել ինտերնետային կայքի հասցեն:"
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
+msgid ""
+" Your code was verified correctly. You will now receive alerts about "
+"incidents as they happen."
 msgstr " Ձեր կոդը հաստատված է: Այժմ Դուք ծանուցումներ կստանաք Ձեր նշած տարածքում տեղի ունեցող միջադեպերի վերաբերյալ:"
 
 #: alerts.confirm_request
@@ -128,7 +144,9 @@ msgstr "Վերադարնալ ծանուցումների էջ` ծանուցման
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid "Your Email Alert request has been created and verification message has been sent to "
+msgid ""
+"Your Email Alert request has been created and verification message has been "
+"sent to "
 msgstr "Էլեկտրոնային փոստով ծանուցումներ ստանալու վերաբերյալ Ձեր հայցը ստեղծված է, հաստատման հաղորդագրությունն ուղղարկված է հետևյալ հասցեին` "
 
 #: alerts.email_code
@@ -153,12 +171,16 @@ msgstr "Համակարգը չկարողացավ կատարել հաստատմա�
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid "Your Mobile Alert request has been created and verification message has been sent to "
+msgid ""
+"Your Mobile Alert request has been created and verification message has been"
+" sent to "
 msgstr "Բջջային ծանուցման վերաբերյալ Ձեր հայցը ստեղծված է, հաստատման հաղորդագրությունն ուղղարկված է հետևյալ հասցեին` "
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
+msgid ""
+"Please enter the SMS confirmation code you received on your mobile phone "
+"below: "
 msgstr "Խնդրում ենք մուտքագրել այստեղ հաստատման այն կոդը, որը կարճ հաղորդագրությամբ ստացել եք Ձեր բջջային հեռախոսահամարին: "
 
 #: alerts.mobile_error_head
@@ -178,7 +200,9 @@ msgstr "Համակարգն անկարող է ճիշտ կերպով մշակել 
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
+msgid ""
+"You have received this email because you subscribed to receive alerts. If "
+"you do not wish to receive future alerts go to "
 msgstr "Դուք ստացել եք այս էլեկտրոնային նամակը, քանի որ բաժանորդագրված եք ծանուցումներ ստանալու համար: Եթե չեք ցանկանում հետագայում ևս ծանուցումներ ստանալ, ապա մտեք "
 
 #: alerts.unsubscribed
@@ -188,7 +212,9 @@ msgstr "Դուք այլևս ծանուցումներ չեք ստանա հետև�
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
+msgid ""
+"We were not able to unsubscribe you. Please confirm that you have the "
+"correct URL."
 msgstr "Մեզ չհաջողվեց դադարեցնել Ձեր բաժանորդագրությունը: Խնդրում ենք ստուգել Ձեր կողմից նշված Ինտերնետային կայքի հասցեն:"
 
 #: alerts.verification_email_subject
@@ -198,6 +224,6 @@ msgstr "Ծանուցումներ – հաստատում"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid "You will not receive alerts on this location until you confirm your request."
+msgid ""
+"You will not receive alerts on this location until you confirm your request."
 msgstr "Դուք նշված տարածքի վերաբերյալ ծանուցումներ կստանաք Ձեր հայտի հաստատումից հետո միայն:"
-

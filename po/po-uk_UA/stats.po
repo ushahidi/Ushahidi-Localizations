@@ -1,15 +1,18 @@
-#. extracted from en_US/stats.php, uk_UA/stats.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:52+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: uk_UA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -28,7 +31,10 @@ msgstr "Категорія впливу"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
 msgstr "Ця діаграма дає вам лінійне представлення повідомлень за категоріями протягом довгого часу. Прокрутіть зліва направо, щоб побачити порівняльний огляд різних категорій. Наведіть курсор миші на графік для детальнішої інформації"
 
 #: stats.choose_date_range
@@ -53,7 +59,9 @@ msgstr "Розподіл країн"
 
 #: stats.description
 msgctxt "stats.description"
-msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
 msgstr "Це відділ статистики. Опис скоро буде доданий, поки перегляньте посилання нижче"
 
 #: stats.error
@@ -153,7 +161,11 @@ msgstr "Унікальні відвідувачі"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
 msgstr "Кількість людей, що приходять на ваш сайт; унікальні відвідувачі визначаються за допомогою cookies. У випадку, якщо у відвідувача не включені cookies, то вони будуть визначені з використанням простої евристики з урахуванням IP-адреси, браузера, плагінам, ОС і т.д."
 
 #: stats.unverified
@@ -178,6 +190,7 @@ msgstr "Відвідування"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
 msgstr "Відвідування &mdash; кількість унікальних відвідувачів, що повернулись на сайт більш ніж на 30 хвилин після останнього перегляду сторінки"
-

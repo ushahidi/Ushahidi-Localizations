@@ -1,15 +1,18 @@
-#. extracted from en_US/alerts.php, cs_CZ/alerts.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-19 22:43+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
@@ -18,7 +21,9 @@ msgstr "Uvedl/a jste správně emailovou adresu?"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
-msgid "That Email address has already been registered to receive alerts for that location."
+msgid ""
+"That Email address has already been registered to receive alerts for that "
+"location."
 msgstr "Tato emailová adresa už je zaregistrována k odběru novinek z této oblasti na mapě"
 
 #: alerts.alert_email.length
@@ -33,7 +38,9 @@ msgstr "Zadejte emailovou adresu."
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
-msgid "This deployment spans within one country only. Please make sure the alert location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the alert "
+"location is within the country %s."
 msgstr ""
 
 #: alerts.alert_lat.between
@@ -58,17 +65,22 @@ msgstr "Nevybral/a jste platnou lokalitu na mapě."
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
-msgid "The Mobile Phone field does not seem to contain the right amount of digits."
+msgid ""
+"The Mobile Phone field does not seem to contain the right amount of digits."
 msgstr ""
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
-msgid "That Mobile Phone Number has already been registered to receive alerts for that location."
+msgid ""
+"That Mobile Phone Number has already been registered to receive alerts for "
+"that location."
 msgstr "That Mobile Phone Number has already been registered to receive alerts for that location"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
-msgid "The Mobile Phone field does not appear to contain a valid phone. Please input numbers only including Country Code."
+msgid ""
+"The Mobile Phone field does not appear to contain a valid phone. Please "
+"input numbers only including Country Code."
 msgstr ""
 
 #: alerts.alert_mobile.one_required
@@ -108,12 +120,16 @@ msgstr "Tento kód už byl potvrzen!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
-msgid "This verification code was not found! Please confirm that you have the correct URL."
+msgid ""
+"This verification code was not found! Please confirm that you have the "
+"correct URL."
 msgstr "Tento potvrzovací kód nebyl nalezen! Prosím, uveďte správnou adresu."
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
-msgid " Your code was verified correctly. You will now receive alerts about incidents as they happen."
+msgid ""
+" Your code was verified correctly. You will now receive alerts about "
+"incidents as they happen."
 msgstr " Váš kód byl potvrzen. Na Vaši adresu budou zasílány upozornění o nových zprávách na mapě."
 
 #: alerts.confirm_request
@@ -128,7 +144,9 @@ msgstr "Vraťte se zpět, pokud máte zájem nastavit zasílání novinek z dal�
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
-msgid "Your Email Alert request has been created and verification message has been sent to "
+msgid ""
+"Your Email Alert request has been created and verification message has been "
+"sent to "
 msgstr "Byl odeslán email na adresu "
 
 #: alerts.email_code
@@ -153,12 +171,16 @@ msgstr "Systém nebyl schopen zpracovat Vaši žádost o potvrzení odběru zpr�
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
-msgid "Your Mobile Alert request has been created and verification message has been sent to "
+msgid ""
+"Your Mobile Alert request has been created and verification message has been"
+" sent to "
 msgstr ""
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
-msgid "Please enter the SMS confirmation code you received on your mobile phone below: "
+msgid ""
+"Please enter the SMS confirmation code you received on your mobile phone "
+"below: "
 msgstr ""
 
 #: alerts.mobile_error_head
@@ -178,7 +200,9 @@ msgstr "Chyba nastavení - není možné zasílat novinky"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
-msgid "You have received this email because you subscribed to receive alerts. If you do not wish to receive future alerts go to "
+msgid ""
+"You have received this email because you subscribed to receive alerts. If "
+"you do not wish to receive future alerts go to "
 msgstr "Zasílání novinek z mapy zrušíte tak, že zkopírujete následující internetovou adresu do nového okna prohlížeče:  "
 
 #: alerts.unsubscribed
@@ -188,7 +212,9 @@ msgstr "Už nebudete dostávat novinky z "
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
-msgid "We were not able to unsubscribe you. Please confirm that you have the correct URL."
+msgid ""
+"We were not able to unsubscribe you. Please confirm that you have the "
+"correct URL."
 msgstr "Odhlášení se nezdařilo. Zkontrolujte, že jste správně zadali internetovou adresu."
 
 #: alerts.verification_email_subject
@@ -198,6 +224,6 @@ msgstr "- potvrzení o zasílání novinek z mapy"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
-msgid "You will not receive alerts on this location until you confirm your request."
+msgid ""
+"You will not receive alerts on this location until you confirm your request."
 msgstr " Novinky Vám začnou chodit až po potvrzení Vaší žádosti."
-

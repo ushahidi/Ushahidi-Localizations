@@ -1,15 +1,18 @@
-#. extracted from en_US/category.php, sq_AL/category.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 05:56+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: category.category_color.length
 msgctxt "category.category_color.length"
@@ -33,7 +36,9 @@ msgstr "Sigurohuni q&euml; imazhet e ngarkuara t&euml; mos jen&euml; m&euml; shu
 
 #: category.category_image.type
 msgctxt "category.category_image.type"
-msgid "The image field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
 msgstr "Hap&euml;sira p&euml;r imazhin nuk p&euml;rmban nj&euml; imazh t&euml; vlefsh&euml;m. Formatet e vetme t&euml; pranueshme jan&euml; .JPG, .PNG and .GIF."
 
 #: category.category_image.valid
@@ -85,4 +90,3 @@ msgstr "Kategoria dhe kategoria prind nuk mund t&euml; jen&euml; t&euml; nj&euml
 msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
 msgstr "Kategorit&euml; speciale nuk mund t&euml; ken&euml; n&euml;n kategori."
-

@@ -1,15 +1,20 @@
-#. extracted from en_US/form.php, nl_NL/form.php
+# 
+# Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-07 06:58+0000\n"
+"Last-Translator: Andrea_Pio <ivan.schepens@wynns.be>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -18,7 +23,8 @@ msgstr "De ingegeven standaardwaarde voor dit veld is ongeldig."
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid "The Field Name must be at least 3 and no more than 200 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "De veldnaam moet tenminste 3 en maximaal 100 tekens bevatten."
 
 #: form.field_height.between
@@ -38,7 +44,8 @@ msgstr "Selecteer Ja of Nee voor de datum"
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "De veldnaam moet tenminste 3 en maximaal 100 tekens bevatten."
 
 #: form.field_name.required
@@ -93,11 +100,11 @@ msgstr "Selecteer het formulier voor dit veld."
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid "The form name field must be at least 3 and no more than 100 characters long."
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
 msgstr "De formuliernaam moet tenminste 3 en maximaal 100 tekens bevatten."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Geef het formulier een naam."
-

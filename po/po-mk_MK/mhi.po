@@ -1,15 +1,18 @@
-#. extracted from en_US/mhi.php, mk_MK/mhi.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 06:13+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: mk_MK\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: mhi.contact_captcha.default
 msgctxt "mhi.contact_captcha.default"
@@ -45,4 +48,3 @@ msgstr "Насловот на пораката мора да е барем 3 к�
 msgctxt "mhi.contact_subject.required"
 msgid "The subject field is required."
 msgstr "Насловот на пораката е задолжително поле"
-

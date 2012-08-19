@@ -1,15 +1,18 @@
-#. extracted from en_US/installer.php, bg_BG/installer.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:39+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: bg_BG\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: installer.base_path
 msgctxt "installer.base_path"
@@ -28,7 +31,10 @@ msgstr "Адрес на база данни"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
-msgid "If you are running Ushahidi on your own computer, this will more than likely be \"localhost\". If you are running Ushahidi from a web server, you will get your host information from your web hosting provider."
+msgid ""
+"If you are running Ushahidi on your own computer, this will more than likely"
+" be \"localhost\". If you are running Ushahidi from a web server, you will "
+"get your host information from your web hosting provider."
 msgstr "Ако Ushahidi ще върви на вашия компютър, това най-вероятно ще е \"localhost\". Ако ще върви на сървър, моля попитайте доставчикът си"
 
 #: installer.database_name
@@ -43,7 +49,11 @@ msgstr "Името на базата данни, с която искате Usha
 
 #: installer.db_information_link
 msgctxt "installer.db_information_link"
-msgid "For more information, please check out <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">this article</a> on the wiki that talks about databases in more detail."
+msgid ""
+"For more information, please check out <a "
+"href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
+"target=\"_blank\">this article</a> on the wiki that talks about databases in"
+" more detail."
 msgstr "За повече информация, моля прочетете <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">тази статия</a> във връзка с използването на бази данни"
 
 #: installer.default_language
@@ -53,7 +63,11 @@ msgstr "Език по подразбиране (Локални настройк�
 
 #: installer.default_language_description
 msgctxt "installer.default_language_description"
-msgid "Each deployment of Ushahidi comes with a set of built in language translations. You can also <a href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" target=\"_blank\">add your own</a>."
+msgid ""
+"Each deployment of Ushahidi comes with a set of built in language "
+"translations. You can also <a "
+"href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\""
+" target=\"_blank\">add your own</a>."
 msgstr "Всеки пакет на Ushahidi идва с вградени езици по подразбиране. Може <a href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" target=\"_blank\">да добавите</a> и други"
 
 #: installer.disable
@@ -73,7 +87,11 @@ msgstr "Това е списъка с грешките, които открих�
 
 #: installer.files_location_text
 msgctxt "installer.files_location_text"
-msgid "The location on your server where you placed your Ushahidi files. <strong>We have automatically detected this value, please make sure that it is correct.</strong> If the field is empty, do not worry, it means ushahidi is installed at the top level directory."
+msgid ""
+"The location on your server where you placed your Ushahidi files. <strong>We"
+" have automatically detected this value, please make sure that it is "
+"correct.</strong> If the field is empty, do not worry, it means ushahidi is "
+"installed at the top level directory."
 msgstr "Местоположението на сървъра, където ще се поставят файловете на Ushahidi. <strong>Ние автоматично засякохме това място. Моля проверете дали е вярно.</strong> Ако е празно, значи Ushahidi е инсталиран на най-горната папка"
 
 #: installer.finished
@@ -93,7 +111,10 @@ msgstr "<span>Google</span> API ключ"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
-msgid "Anyone can get an api key. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get yours now</a>"
+msgid ""
+"Anyone can get an api key. <a id=\"api-link\" "
+"href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get "
+"yours now</a>"
 msgstr "Всеки може да получи API ключ. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Получете вашия сега</a>"
 
 #: installer.go_back
@@ -108,7 +129,9 @@ msgstr "Инсталация за напреднали"
 
 #: installer.index.advanced_installation_description
 msgctxt "installer.index.advanced_installation_description"
-msgid "Get all the basic settings completed through this 5-step process.  This includes server, map, site name and contact details."
+msgid ""
+"Get all the basic settings completed through this 5-step process.  This "
+"includes server, map, site name and contact details."
 msgstr "Въведете всички основни настройки в 5 стъпки. Това включва сървъра, картата, името на сайта и контактите."
 
 #: installer.index.basic_installation
@@ -118,7 +141,10 @@ msgstr "Основна инсталация"
 
 #: installer.index.basic_installation_description
 msgctxt "installer.index.basic_installation_description"
-msgid "Simple and fast. All you need is your website's root directory and your database information. Choose this option if you want to get up and running quickly, and you can always configure everything else later."
+msgid ""
+"Simple and fast. All you need is your website's root directory and your "
+"database information. Choose this option if you want to get up and running "
+"quickly, and you can always configure everything else later."
 msgstr "Бърза и лесна. Ще ви трябва само началната директория и информация за базата данни. Изберете тази опция, ако искате да започнете бързо. По-късно може да настроите всичко останало."
 
 #: installer.index.proceed
@@ -128,7 +154,9 @@ msgstr "Продължи"
 
 #: installer.index.welcome
 msgctxt "installer.index.welcome"
-msgid "Welcome to the Ushahidi server install process.  Choose which type of installation you would like to use below."
+msgid ""
+"Welcome to the Ushahidi server install process.  Choose which type of "
+"installation you would like to use below."
 msgstr "Добре дошли в инсталацията на сървъра на Ushahidi. Изберете кой тип инсталация искате:"
 
 #: installer.installation_successful
@@ -178,7 +206,10 @@ msgstr "Тип на Mail сървъра"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
-msgid "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">What is the difference?</a>"
+msgid ""
+"Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
+"href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
+"target=\"_blank\">What is the difference?</a>"
 msgstr "Internet Message Access Protocol (IMAP) или Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Вижте разликата?</a>"
 
 #: installer.mail_server_username
@@ -188,7 +219,9 @@ msgstr "Потребителско име на Mail сървъра"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
-msgid "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address as a username."
+msgid ""
+"If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
+"as a username."
 msgstr "Ако използвате Gmail, Hotmail или Yahoo Mail, въведете целия email адрес като потребителско име."
 
 #: installer.map
@@ -203,7 +236,10 @@ msgstr "Доставчик на картата"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
-msgid "Ushahidi works equally well with any of these three mapping providers: Google, Bing or Open Street Map. Choose the one that has the most detail in your area."
+msgid ""
+"Ushahidi works equally well with any of these three mapping providers: "
+"Google, Bing or Open Street Map. Choose the one that has the most detail in "
+"your area."
 msgstr "Ushahidi работи еднакво добре с тези четири доставчици на карти: Google, Bing, Yahoo и Open Street Map. Изберете тази, които има най-подробни карти във вашия регион."
 
 #: installer.other_steps
@@ -238,7 +274,10 @@ msgstr "Включи/изключи SSL"
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
-msgid "Some mail servers give you the option of using <abbr title=\"Secure Sockets Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it gives you an added level of security."
+msgid ""
+"Some mail servers give you the option of using <abbr title=\"Secure Sockets "
+"Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
+"gives you an added level of security."
 msgstr "Някои mail дават възможност да се използва <abbr title=\"Secure Sockets Layer\">SSL</abbr> когато се прави връзка. Използването на SSL се препоръчва, тъй като ви дава допълнителна сигурност."
 
 #: installer.setup_sms
@@ -258,7 +297,10 @@ msgstr "Email адрес за получаване на сигнали"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
-msgid "When your site visitors sign up for email alerts, they will receive emails from this address. This email address does not have to be the same as the Site Email Address."
+msgid ""
+"When your site visitors sign up for email alerts, they will receive emails "
+"from this address. This email address does not have to be the same as the "
+"Site Email Address."
 msgstr "Когато посетителите ви се абонират за сигнали, ще ги получават от този адрес. Той не е трябва непременно да е същия като мейла на сайта."
 
 #: installer.site_email_description
@@ -288,22 +330,33 @@ msgstr "Съобщението, с което сайта ще посреща п�
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
-msgid "The files and folders listed below need to be writable by your webserver."
+msgid ""
+"The files and folders listed below need to be writable by your webserver."
 msgstr "Файловете и папките отдолу трябва да могат да се променят на сървъра ви"
 
 #: installer.summary.text_2
 msgctxt "installer.summary.text_2"
-msgid "<p>Here are instructions for changing file permissions:</p>\n        <ul>\n            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n        </ul>"
+msgid ""
+"<p>Here are instructions for changing file permissions:</p>\n"
+"        <ul>\n"
+"            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n"
+"            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n"
+"        </ul>"
 msgstr "<p>Ето как да промените правата за писане:</p>\n        <ul>\n            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n        </ul>"
 
 #: installer.summary.text_3
 msgctxt "installer.summary.text_3"
-msgid "Before you get started, you will need to make sure the following files and folders are writable by your webserver. This involves changing file permissions."
+msgid ""
+"Before you get started, you will need to make sure the following files and "
+"folders are writable by your webserver. This involves changing file "
+"permissions."
 msgstr "Преди да започнете, проверете дали тези папки и файлове могат да бъдат променяни на сървъра ви. Това включва промяна на правата за писане."
 
 #: installer.summary.text_4
 msgctxt "installer.summary.text_4"
-msgid "For the installation process, please have the following bits of information on hand."
+msgid ""
+"For the installation process, please have the following bits of information "
+"on hand."
 msgstr "За процеса на инсталация, трябва да разполагате със следната информация:"
 
 #: installer.table_prefix
@@ -313,7 +366,10 @@ msgstr "Префикс на таблиците"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
-msgid "Normally you would not change the table prefix. However, if you want to run multiple Ushahidi installations from a single database, you can do that by changing the prefix here."
+msgid ""
+"Normally you would not change the table prefix. However, if you want to run "
+"multiple Ushahidi installations from a single database, you can do that by "
+"changing the prefix here."
 msgstr "По принцип няма нужда да променяте префикса на таблиците. Понякога обаче, ако искате да инсталирате няколко платформи на един сървър и в една база данни, това е задължително, за да се различават данните една от друга."
 
 #: installer.title
@@ -350,4 +406,3 @@ msgstr "и използвайте тези потребителски данни
 msgctxt "installer.view_site"
 msgid "View your website"
 msgstr "Прегледайте сайта си"
-

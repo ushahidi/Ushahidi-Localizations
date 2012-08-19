@@ -1,15 +1,18 @@
-#. extracted from en_US/stats.php, hy_AM/stats.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 06:25+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: hy_AM\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -28,7 +31,10 @@ msgstr "Կատեգորիաների ազդեցությունը"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
 msgstr "Այս գրաֆիկը հնարավորություն է տալիս նշված ժամանակահատվածում գծայնորեն դիտել ահազանգերը ըստ կատեգորիաների: Տեղաշարժելով ձախից աջ, կարող եք դիտել տարբեր կատեգորիաների համեմատությունը: Տեղաշարժելով մկնիկը գրաֆիկի վրայով, կարող եք դիտել մանրամասները:"
 
 #: stats.choose_date_range
@@ -53,7 +59,9 @@ msgstr "Ըստ երկրների"
 
 #: stats.description
 msgctxt "stats.description"
-msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
 msgstr "Ողջույն: Սա վիճակագրության բաժինն է: Օգտվեք հղումներից համապատասխան վիճակագրությունը դիտելու համար:"
 
 #: stats.error
@@ -153,7 +161,11 @@ msgstr "Ունիկալ Այցելուներ"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
 msgstr "Կայքի այցելուների քանակը: Ունիկալ Այցելուները որոշվում են cookie-ների միջոցով: Եթե այցելուի մոտ cookie-ներ արգելափակված են, ապա նրանք հաշվառվում են օգտագործելով IP հասցեն, դիտարկիչը, օպերացիոն համակարգը և այլն:"
 
 #: stats.unverified
@@ -178,6 +190,7 @@ msgstr "Այցելություններ"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
 msgstr "Այցելությունը ունիկալ այցելուի գրանցումն է իր վերջին էջի դիտումից ավելի քան 30 րոպե հետո:"
-

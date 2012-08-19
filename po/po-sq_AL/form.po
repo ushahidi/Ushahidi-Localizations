@@ -1,15 +1,18 @@
-#. extracted from en_US/form.php, sq_AL/form.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 06:05+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: form.field_default.default
 msgctxt "form.field_default.default"
@@ -18,7 +21,8 @@ msgstr "Vlera q&euml; keni p&euml;rfshir&euml; n&euml; k&euml;t&euml; hap&euml;s
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
-msgid "The Field Name must be at least 3 and no more than 200 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 200 characters long."
 msgstr "Emri i Fush&euml;s duhet t&euml; p&euml;rmbaj&euml; 3 deri n&euml; 200 karaktere."
 
 #: form.field_height.between
@@ -38,7 +42,8 @@ msgstr "Ju lutem zgjidhni PO ose JO p&euml;r hap&euml;sir&euml;n e dat&euml;s"
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
-msgid "The Field Name must be at least 3 and no more than 100 characters long."
+msgid ""
+"The Field Name must be at least 3 and no more than 100 characters long."
 msgstr "Emri i fush&euml;s duhet t&euml; jet&euml; t&euml; pakt&euml;n 3 karaktere por jo m&euml; shum&euml; se 100 karaktere."
 
 #: form.field_name.required
@@ -93,11 +98,11 @@ msgstr "Ju lutem zgjidhni Formularin n&euml; t&euml; cil&euml;n doni t&euml; sht
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
-msgid "The form name field must be at least 3 and no more than 100 characters long."
+msgid ""
+"The form name field must be at least 3 and no more than 100 characters long."
 msgstr "Hap&euml;sira p&euml;r emrin duhet t&euml; jet&euml; t&euml; pakt&euml;n 3 karaktere dhe jo m&euml; shum&euml; se 100 karaktere."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Ju lutem vendosni emrin e Formularit."
-

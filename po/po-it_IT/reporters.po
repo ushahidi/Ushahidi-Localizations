@@ -1,15 +1,18 @@
-#. extracted from en_US/reporters.php, it_IT/reporters.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:48+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: reporters.latitude.between
 msgctxt "reporters.latitude.between"
@@ -18,7 +21,9 @@ msgstr "Il valore inserito nel campo Latitudine non è corretto."
 
 #: reporters.latitude.required
 msgctxt "reporters.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Il campo Latitudine è obbligatorio. Clicca sulla mappa per definire il punto esatto."
 
 #: reporters.level_id.numeric
@@ -33,7 +38,8 @@ msgstr "Il campo Livello Reporter è obbligatorio."
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
-msgid "The location name field must be at least 3 and no more 200 characters long."
+msgid ""
+"The location name field must be at least 3 and no more 200 characters long."
 msgstr "La lunghezza della località deve essere tra 3 e 200 caratteri."
 
 #: reporters.location_name.required
@@ -48,7 +54,9 @@ msgstr "Il valore inserito nel campo Longitudine non è corretto."
 
 #: reporters.longitude.required
 msgctxt "reporters.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Il campo Longitudine è obbligatorio. Clicca sulla mappa per definire il punto esatto."
 
 #: reporters.reporter_id.numeric
@@ -60,4 +68,3 @@ msgstr "ID Reporter non valido."
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
 msgstr "L'ID del Reporter è obbligatorio."
-

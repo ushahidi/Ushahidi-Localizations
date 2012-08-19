@@ -1,15 +1,20 @@
-#. extracted from en_US/report.php, nl_NL/report.php
+# 
+# Translators:
+#   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-19 22:59+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
@@ -18,7 +23,9 @@ msgstr "fout!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
-msgid "This deployment spans within one country only. Please make sure the report location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the report "
+"location is within the country %s."
 msgstr "Deze opstelling bestrijkt maar één land. Gelieve te zorgen dat de plaats van verslag binnen het land %s ligt."
 
 #: report.custom_field.values
@@ -53,17 +60,23 @@ msgstr "Gelieve \"Verslagen in afwachting van goedkeuring\" of \"Goedgekeurde ve
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr "Gelieve \"Verslagen in afwachting van nazicht\" of \"Nageziene verslagen\" te kiezen of beide."
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr "Gelieve \"Verslagen in afwachting van nazicht\" of \"Nageziene verslagen\" te kiezen of beide."
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr "Gelieve \"Verslagen in afwachting van nazicht\" of \"Nageziene verslagen\" te kiezen of beide."
 
 #: report.data_point.between
@@ -178,7 +191,9 @@ msgstr "Please ensure that photo uploads sizes are limited to 2MB."
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
-msgid "The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The Upload Photos field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
 msgstr ""
 
 #: report.incident_photo.valid
@@ -198,7 +213,9 @@ msgstr "Please enter a valid value for Source Reliability"
 
 #: report.incident_title.length
 msgctxt "report.incident_title.length"
-msgid "The \"Report Title\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Report Title\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "The title field must be at least 3 and no more 200 characters long."
 
 #: report.incident_title.required
@@ -233,7 +250,9 @@ msgstr "The latitude field does not appear to contain a valid latitude?"
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr ""
 
 #: report.locale.alpha_dash
@@ -253,7 +272,8 @@ msgstr ""
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
-msgid "The Original Report and the Translation have the same locale (language)."
+msgid ""
+"The Original Report and the Translation have the same locale (language)."
 msgstr "The Original Report and the Translation have the same locale (language)"
 
 #: report.locale.required
@@ -263,7 +283,9 @@ msgstr ""
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
-msgid "The \"Location Name\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Location Name\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "The location name field must be at least 3 and no more 200 characters long."
 
 #: report.location_name.required
@@ -278,7 +300,9 @@ msgstr "The longitude field does not appear to contain a valid longitude?"
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr ""
 
 #: report.person_email.email
@@ -293,12 +317,14 @@ msgstr ""
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
-msgid "The first name field must be at least 3 and no more 100 characters long."
+msgid ""
+"The first name field must be at least 3 and no more 100 characters long."
 msgstr ""
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
-msgid "The last name field must be at least 2 and no more 100 characters long."
+msgid ""
+"The last name field must be at least 2 and no more 100 characters long."
 msgstr "The last name field must be at least 3 and no more 100 characters long."
 
 #: report.to_date.date_mmddyyyy
@@ -315,4 +341,3 @@ msgstr ""
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
 msgstr ""
-

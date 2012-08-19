@@ -1,15 +1,18 @@
-#. extracted from en_US/stats.php, sq_AL/stats.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 06:24+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: stats.approved
 msgctxt "stats.approved"
@@ -28,7 +31,10 @@ msgstr "Impakti i kategoris&euml;"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
-msgid "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details."
+msgid ""
+"This chart gives you a linear view of the reports by category over time.  "
+"Scroll from left to right to see a comparative view of the different "
+"categories. Mouse over the graph for more details."
 msgstr "Ky grafik ofron nj&euml; pamje lineare t&euml; raporteve sipas kategorive n&euml; koh&euml;.  L&euml;viz nga e majta n&euml; t&euml; djatht&euml; p&euml;r t&euml; patur nj&euml; pamje krahasuese midis kategorive t&euml; ndryshme. Vendosni maus-in mbi grafik p&euml;r m&euml; tep&euml;r detaje."
 
 #: stats.choose_date_range
@@ -53,7 +59,9 @@ msgstr "Ndarja e Shtetit"
 
 #: stats.description
 msgctxt "stats.description"
-msgid "This is the statistics section and will contain a general description here soon. For now, browse around using the sub category links above."
+msgid ""
+"This is the statistics section and will contain a general description here "
+"soon. For now, browse around using the sub category links above."
 msgstr " Ky &euml;sht&euml; seksioni i statistikave dhe s&euml; shpejti do t&euml; p&euml;rmbaj&euml; nj&euml; p&euml;rshkrim t&euml; p&euml;rgjithsh&euml;m. P&euml;r momentin p&euml;rdorni informacionin q&euml; keni n&euml; dispozicion."
 
 #: stats.error
@@ -153,7 +161,11 @@ msgstr "Vizitor&euml; Unik"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
-msgid "The number of individuals coming to your deployment. Unique visitors are determined using cookies. Visitors that do not have cookies enabled will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc."
+msgid ""
+"The number of individuals coming to your deployment. Unique visitors are "
+"determined using cookies. Visitors that do not have cookies enabled will be "
+"identified using a simple heuristic taking into account IP address, "
+"resolution, browser, plugins, OS, etc."
 msgstr " Numri i personave q&euml; vizitojn&euml; faqen tuaj. Vizitor&euml;t unik jan&euml; ata q&euml; p&euml;rdorin cookies. Vizitor&euml;t q&euml; nuk kan&euml; t&euml; aktivizuar cookies mund t&euml; identifikohen duke p&euml;rdorur m&euml;nyra t&euml; tjera si p.sh   IP address, rezolucion, browser, plugins, OS, etj."
 
 #: stats.unverified
@@ -178,6 +190,7 @@ msgstr "Vizita"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
-msgid "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview."
+msgid ""
+"A visit is a record of a unique visitor coming to the site more than 30 "
+"minutes past his/her last pageview."
 msgstr "Nj&euml; vizit&euml; &euml;sht&euml; rregjistrimi i nj&euml; vizitori i cili e hap faqen e tij 30 minuta pas aksesit t&euml; tij t&euml; fundit ."
-

@@ -1,15 +1,19 @@
-#. extracted from en_US/reports.php, ar/reports.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-17 21:08+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: reports.incident_id.required
 msgctxt "reports.incident_id.required"
@@ -30,4 +34,3 @@ msgstr ""
 msgctxt "reports.action.permission"
 msgid "You don't have permission to perform this action"
 msgstr ""
-

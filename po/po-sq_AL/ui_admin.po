@@ -1,24 +1,31 @@
-#. extracted from en_US/ui_admin.php, sq_AL/ui_admin.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 21:18+0000\n"
-"PO-Revision-Date: 2012-08-17 21:18+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-19 23:07+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid "Access denied. Either your credentials are not valid or your request has been refused."
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
 msgstr "Aksesi nuk u aprovua. Kredencialet tuaja mund t&euml; jen&euml; t&euml; pavlefshme ose k&euml;rkesa juaj &euml;sht&euml; refuzuar."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
 msgstr "Aksesi nuk u aprovua. K&euml;rkesa juaj &euml;sht&euml; kuptuar, por &euml;sht&euml; refuzuar si pasoj&euml; e aksesit t&euml; kufizuar. Ju lutem provoni m&euml; von&euml;."
 
 #: ui_admin.access_level
@@ -318,7 +325,8 @@ msgstr "Jo aktiv p&euml;r momentin"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid "You don't have sufficient permissions to edit the following custom fields."
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
 msgstr "Ju nuk keni lejen e k&euml;rkuar p&euml;r t&euml; modifikuar fushat e m&euml;poshtme."
 
 #: ui_admin.daily
@@ -693,7 +701,9 @@ msgstr "Lajmi p&euml;r ngjarjet"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
-msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgid ""
+"The installer folder still exists. Delete the installer folder. It is a "
+"potential security vulnerability."
 msgstr ""
 
 #: ui_admin.instance
@@ -973,7 +983,10 @@ msgstr "Jo"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without"
+" categories(uncategorized reports) as a result of category deletion."
 msgstr "Kjo &euml;sht&euml; nj&euml; kategori e veant&euml; q&euml; nuk do t&euml; paraqitet n&euml; raportet p&euml;r p&euml;rdoruesit. Ajo p&euml;rdoret p&euml;r t&euml; mbajtur raportet e pa-kategorizuara, si rezultat i fshirjes s&euml; nj&euml; kategorie."
 
 #: ui_admin.notification
@@ -1038,7 +1051,17 @@ msgstr "Faqja nuk u gjet"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
+" a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"#\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we"
+" can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
 msgstr "Na vjen keq, faqja q&euml; po k&euml;rkoni &euml;sht&euml; zhvendosur.<p><strong> E keni ndjekur k&euml;t&euml; lidhje nga nj&euml; vendndodhje tjet&euml;r n&euml; k&euml;t&euml; faqe?</strong><br />N&euml;se e keni gjetur k&euml;t&euml; faqe nga nj&euml; pjes&euml; e t&euml; nj&euml;jtit website, ju lutem <a href=\"#\">na kontaktoni</a> n&euml; m&euml;nyr&euml; q&euml; t`a korrigjojm&euml; k&euml;t&euml; gabim.</p><p><strong>A e keni ndjekur k&euml;t&euml; lidhje nga nj&euml; website tjeter? </strong><br />Lidhjet nga websitet e tjera mund t&euml; ken&euml; gabime drejt&euml;shkrimi ose t&euml; jen&euml; vjet&euml;ruar. <a href=\"#\">Na tregoni</a> rrug&euml;n q&euml; keni ndjekur p&euml;r t&euml; arritur k&euml;t&euml; faqe dhe ne do lidhemi me websit-in tjet&euml;r p&euml;r ta zgjidhur k&euml;t&euml; problem.</p><p><strong> A e keni sh&euml;nuar URL-n&euml;? </strong><br />Ju mund t&euml; keni sh&euml;nuar gabim adres&euml;n (URL). Kontrolloni p&euml;r tu siguruar se nuk keni b&euml;r&euml; gabime drejt&euml;shkrimi, shkronjat kapitale, etj. </p>"
 
 #: ui_admin.parameters_used
@@ -1073,12 +1096,16 @@ msgstr "Ne mor&euml;m nj&euml; k&euml;rkes&euml; p&euml;r t&euml; ndryshuar fjal
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
 msgstr "P&euml;r t&euml; ndryshuar fjal&euml;kalimin,ju lutem klikloni n&euml; lidhjen e m&euml;poshtme (ose kopjoni linkun dhe vendoseni n&euml; browser-in tuaj)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid "As you requested, your password has now been reset. Your new details are as follows"
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
 msgstr "Sipas k&euml;rkes&euml;s suaj, fjal&euml;kalimi u ndryshua. Detajet e reja jan&euml; si m&euml; posht&euml;"
 
 #: ui_admin.password_reset_subject
@@ -1228,12 +1255,16 @@ msgstr "duke k&euml;rkuar p&euml;r"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid "The encryption key is still set to the default value. This is insecure and must be changed."
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
 msgstr "Kodi i enkriptuar &euml;sht&euml; akoma n&euml; vler&euml;n fillestare. Duhet t&euml; ndryshohet p&euml;r q&euml;llime t&euml; siguris&euml;."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
 msgstr "Kjo faqe p&euml;rdor sh&euml;rbimin HTTP. Ju duhet t&euml; zgjidhni HTTPS p&euml;r t&euml; rritur sigurin&euml; e faqes."
 
 #: ui_admin.security_info_instructions
@@ -1308,7 +1339,10 @@ msgstr "Kategori e veant&euml;"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
 msgstr "&euml;sht&euml; nj&euml; kategori e veant&euml; q&euml; nuk do t&euml; paraqitet n&euml; raportet q&euml; marrin p&euml;rdoruesit. Ajo p&euml;rdoret n&euml; rastet e d&euml;shtimit t&euml; komand&euml;s \"Raportet e besuara\"."
 
 #: ui_admin.specific_area
@@ -1530,4 +1564,3 @@ msgstr "Po"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "Ju po k&euml;rkoni p&euml;r"
-

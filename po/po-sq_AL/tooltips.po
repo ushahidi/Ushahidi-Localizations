@@ -1,19 +1,25 @@
-#. extracted from en_US/tooltips.php, sq_AL/tooltips.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 06:25+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sq_AL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: tooltips.actions.add_to_category
 msgctxt "tooltips.actions.add_to_category"
-msgid "This adds the report to additional categories. If you select Category 1 here and the report already has Category 2 attached to it, the report will then have both Category 1 and Category 2."
+msgid ""
+"This adds the report to additional categories. If you select Category 1 here"
+" and the report already has Category 2 attached to it, the report will then "
+"have both Category 1 and Category 2."
 msgstr "Kjo i shton kategorive t&euml; tjera raportin. N&euml;se ju zgjidhni Kategorin&euml; 1 dhe raporti ka tashm&euml; t&euml; bashk&euml;lidhur Kategorin&euml; 2, m&euml; pas raporti do ti ket&euml; t&euml; dyja kategorit&euml;."
 
 #: tooltips.actions.approve
@@ -23,22 +29,38 @@ msgstr "Aprovoni ose jo raportin. N&euml;se e aprovoni kjo do t&euml; shfaqet pu
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
-msgid "You will be able to assign a badge to the triggering user. Pick the badge that gets assigned here."
+msgid ""
+"You will be able to assign a badge to the triggering user. Pick the badge "
+"that gets assigned here."
 msgstr "Ju do t&euml; jeni n&euml; gjendje t&euml; caktoni nj&euml; shenj&euml; dalluese p&euml;r p&euml;rdoruesin. Zgjidhni simbolin q&euml; caktohet k&euml;tu."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
-msgid "This is a range of hours and/or minutes between two times in 24 hour format. If you input an earlier time in the second field, it will be flipped with the first. These times must be within a single day. Also, this time is checked against the time you have configured on your site in site settings and <strong>not</strong> necessarily the timezone of the user interacting with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
+msgid ""
+"This is a range of hours and/or minutes between two times in 24 hour format."
+" If you input an earlier time in the second field, it will be flipped with "
+"the first. These times must be within a single day. Also, this time is "
+"checked against the time you have configured on your site in site settings "
+"and <strong>not</strong> necessarily the timezone of the user interacting "
+"with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
 msgstr "&euml;sht&euml; nj&euml; varg or&euml;sh ose minutash i kufizuar me dy orare, n&euml; formatin 24 or&euml;sh. N&euml;se ju vendosni nj&euml; koh&euml; m&euml; t&euml; her&euml;shme n&euml; hap&euml;sor&euml;n e dyt&euml;, kjo do t&euml; shnd&euml;rrohet n&euml; hap&euml;sir&euml; t&euml; par&euml;. K&euml;to orare duhet t&euml; jen&euml; br&euml;nda nj&euml; dite t&euml; vetme. Gjithashtu kjo koh&euml; do t&euml; kontrollohet n&euml;se p&euml;rkon me koh&euml;n e konfiguruar n&euml; faqen tuaj n&euml; mund&euml;sit&euml; e faqes  dhe  <strong>nuk</strong> &euml;sht&euml; e nevojshme q&euml; orari i p&euml;rdoruesit t&euml; p&euml;rputhet me vendndodhjen e tij. P&euml;r t&euml; injoruar k&euml;t&euml; mund&euml;si l&euml;reni  afatin kohor  00:00 deri 00:00 ."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
-msgid "If you would like to activate triggers only when a certain category is being used, you can set that here. This will allow a trigger to be activated if only one of the categories is used. For instace, if you select Category 1 and Category 2 here and a report is submitted using Category 2 and Category 3, it will pass the test."
+msgid ""
+"If you would like to activate triggers only when a certain category is being"
+" used, you can set that here. This will allow a trigger to be activated if "
+"only one of the categories is used. For instace, if you select Category 1 "
+"and Category 2 here and a report is submitted using Category 2 and Category "
+"3, it will pass the test."
 msgstr "N&euml;se ju do t&euml; donit t&euml; aktivizonit  Kodin TRIGGER vet&euml;m kur nj&euml; kategori e caktuar &euml;sht&euml; p&euml;rdorur, ju mund t&euml; pozicionoheni aty.  Kjo do t&euml; b&euml;j&euml; t&euml; mundur q&euml; Kodi Trigger t&euml; aktivizohet vet&euml;m kur nj&euml; nga kategorit&euml; &euml;sht&euml; p&euml;rdorur praktikisht. N&euml;se ju zgjidhni  Kategorin&euml; 1 & Kategorin&euml; 2 dhe raporti &euml;sht&euml; pranuar duke p&euml;rdorur  Kategorin 2 & Kategorin 3, ju do t&euml; kaloni testin."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
-msgid "If these actions happen on certain days of the week, set that here. Keep in mind the day is determined by the timezone configured on your deployment. Hold shift, command, or control for multiple day selection."
+msgid ""
+"If these actions happen on certain days of the week, set that here. Keep in "
+"mind the day is determined by the timezone configured on your deployment. "
+"Hold shift, command, or control for multiple day selection."
 msgstr "N&euml;se ky veprim ndodh n&euml; nj&euml; dit&euml; t&euml; caktuar t&euml; jav&euml;s, vendoseni k&euml;tu.  Mbani mend q&euml; dita &euml;sht&euml; vendosur sipas hap&euml;sir&euml;s kohore t&euml; konfiguruar n&euml; vendodhjen tuaj. Klikoni komand&euml;n shift, ose kontrolloni p&euml;r mbivendosjen e dit&euml;ve t&euml; zgjedhura."
 
 #: tooltips.actions.email_body
@@ -53,17 +75,31 @@ msgstr "P&euml;rmbajtja e email-it q&euml; do t&euml; d&euml;rgohet."
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
-msgid "You can choose to leave this blank if you do not want to check against keywords. If you add words here, you will need to separate them with a comma (,). For example, if you want to activate a trigger when someone mentions \"love\" or \"peace\" in their message, you will want to add \"love, peace\" in the keywords box."
+msgid ""
+"You can choose to leave this blank if you do not want to check against "
+"keywords. If you add words here, you will need to separate them with a comma"
+" (,). For example, if you want to activate a trigger when someone mentions "
+"\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
+" in the keywords box."
 msgstr "Ju mund t&euml; zgjidhni ta lini bosh n&euml;se nuk d&euml;shironi t&euml; kontrolloni fjal&euml;t kye. N&euml;se ju vendosni fjal&euml;, do t&euml; ju duhet ti ndani ato me presje (,). P&euml;r shembull, n&euml;se ju doni t&euml; aktivizoni nj&euml; kod trigger, kur dikush p&euml;rm&euml;nd n&euml; mesazhet e tyre termat \"dashuri\" ose \"paqe\", ju do te donit t&euml; shtonit \"dashuri , paqe\" n&euml; kutin&euml; e fjal&euml;ve kyce."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
-msgid "You can either select anywhere or a specific location. If you select a specific location, you will be asked to draw a box around the area that qualifies an action. For example, if you want this trigger to be activated when someone submits a report in Brazil, you will select \"specific area\" and then draw the box around Brazil. You can make these boxes as small or as large as you would like. You can also draw multiple boxes."
+msgid ""
+"You can either select anywhere or a specific location. If you select a "
+"specific location, you will be asked to draw a box around the area that "
+"qualifies an action. For example, if you want this trigger to be activated "
+"when someone submits a report in Brazil, you will select \"specific area\" "
+"and then draw the box around Brazil. You can make these boxes as small or as"
+" large as you would like. You can also draw multiple boxes."
 msgstr "Ju mund t&euml; zgjidhni Kudo ose nj&euml; vendndodhje specifike. N&euml;se ju zgjidhni nj&euml; vendndodhje specifike do ju k&euml;rkohet t&euml; vizatoni nj&euml; kutiz&euml; q&euml; p&euml;rcakton zon&euml;n e veprimit. P&euml;r shembull, n&euml;se ju doni q&euml; kodi Trigger t&euml; aktivizohet kur dikush shton nj&euml; raport n&euml; Tiran&euml;, ju duhet t&euml; zgjidhni nj&euml; zon&euml; specifike dhe m&euml; pas t&euml; vizatoni kutiz&euml;n rreth Tiran&euml;. Ju mund t&euml; ndryshoni madh&euml;sin&euml; e k&euml;tyre kutizave. Gjithashtu ju mund ti shum&euml;fishoni ato."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
-msgid "This qualifier will activate the trigger on the N-th count either for the entire collective user base or for each individual user. Leave this blank to ignore it."
+msgid ""
+"This qualifier will activate the trigger on the N-th count either for the "
+"entire collective user base or for each individual user. Leave this blank to"
+" ignore it."
 msgstr "Ky kriter do t&euml; aktivizoj&euml; kodin trigger n&euml; llogarin&euml; e N-t&euml; p&euml;r p&euml;rdoruesit n&euml; grup ose p&euml;rdoruesit individual&euml;. L&euml;reni bosh n&euml;se doni t`a injoroni at&euml;."
 
 #: tooltips.actions.report_title
@@ -73,27 +109,45 @@ msgstr "Ky &euml;sht&euml; emri fillestar p&euml;r t`i shtuar Raportit."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
-msgid "If all of the qualifiers above are passed, the trigger will initiate a response. This can range from approving a report to emailing a user. Select the response here to activate additional options for the specific responses."
+msgid ""
+"If all of the qualifiers above are passed, the trigger will initiate a "
+"response. This can range from approving a report to emailing a user. Select "
+"the response here to activate additional options for the specific responses."
 msgstr "N&euml;se t&euml; gjitha kualifikimet e m&euml;sip&euml;rme jan&euml; kaluar me sukses, Kodi Trigger do t&euml; nis&euml; nj&euml; p&euml;rgjigje. Kjo mund t&euml; varioj&euml; nga aprovimi i raportit deri n&euml; d&euml;rgimin e email-it. Zgjidhni nj&euml; p&euml;rgjigje p&euml;r t&euml; aktivizuar opsione shtes p&euml;r p&euml;rgjigjet specifike."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
-msgid "If you select \"Triggering User\", the email will be sent to the user who performed the action. If you select the radio button next to the input box, you will be able to enter a custom email address. This is useful if you are setting up triggers to notify people when certain parts of the map are seeing reports, check ins or some other activity."
+msgid ""
+"If you select \"Triggering User\", the email will be sent to the user who "
+"performed the action. If you select the radio button next to the input box, "
+"you will be able to enter a custom email address. This is useful if you are "
+"setting up triggers to notify people when certain parts of the map are "
+"seeing reports, check ins or some other activity."
 msgstr "N&euml;se ju zgjidhni \"Triggering User\", email-i do t`i d&euml;rgohet p&euml;rdoruesit i cili nd&euml;rmori veprimin. N&euml;se ju zgjidhni butonin e radios pasi keni zgjedhur kutin&euml; e input-it, ju do t&euml; jeni n&euml; gjendje t&euml; shtoni adres&euml;n e p&euml;rshtatshme t&euml; email-it. Kjo &euml;sht&euml; e vlefshme kur ju jeni duke p&euml;rdorur Kodet Trigger p&euml;r t&euml; njoftuar njer&euml;zit kur pjes&euml; t&euml; caktuara  t&euml; hart&euml;s po shohin raportet, kontrollo ins ose disa aktivitete t&euml; tjera."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
-msgid "You can select multiple days here. Dates are determined by your deployment timezone setting. In order to default to all dates, do not select any dates."
+msgid ""
+"You can select multiple days here. Dates are determined by your deployment "
+"timezone setting. In order to default to all dates, do not select any dates."
 msgstr "Ju mund t&euml; zgjidhni dit&euml;t k&euml;tu. Dit&euml;t jan&euml; t&euml; p&euml;rcaktuara nga opsionet e zon&euml;s kohore. N&euml;se d&euml;shironi t&euml; p&euml;rfshini t&euml; gjith&euml; datat, at&euml;here mos p&euml;rzgjidhni vet&euml;m nj&euml; prej tyre."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
-msgid "The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one."
+msgid ""
+"The trigger is the core component of setting up your Action Triggers. This "
+"is where you determine if you would like something to happen when someone "
+"submits a report, performs a check in, etc. You will be able to filter "
+"responses to these actions after selecting one."
 msgstr " Kodi  trigger &euml;sht&euml; komponenti kryesor i opsioneve t&euml; veprimeve Triggers. Ky &euml;sht&euml;  vendi ku ju p&euml;rcaktoni n&euml;se d&euml;shironi t&euml; ndodh&euml; dika kur dikush paraqet nj&euml; raport, kryen nj&euml; kontroll , etj.  Ju do t&euml; jeni n&euml; gjendje t&euml; p&euml;rzgjidhni p&euml;rgjigjet e k&euml;tyre nd&euml;rveprimeve pasi keni zgjedhur nj&euml;. "
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
-msgid "The user can be anyone or a specific user. If you would only like specific users to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as \"anyone\" since most triggers are set up for all users interacting with the system"
+msgid ""
+"The user can be anyone or a specific user. If you would only like specific "
+"users to activate a trigger, you will want to select them here. Otherwise, "
+"you will want to leave this as \"anyone\" since most triggers are set up for"
+" all users interacting with the system"
 msgstr " P&euml;rdoruesi mund t&euml; jet&euml; nj&euml; person specific ose dokush tjet&euml;r. N&euml;se ju d&euml;shironi p&euml;rdorues specifik p&euml;r t&euml; aktivizuar nj&euml; kod Trigger , ju duhet ti p&euml;rzgjidhni ato k&euml;tu. P&euml;rndryshe gjith&euml;secili do t&euml; jet&euml; p&euml;rdorues derisa kodet trigger t&euml; jen&euml; t&euml; aksesuesh&euml;m p&euml;r t&euml; gjith&euml; p&euml;rdoruesit q&euml; veprojn&euml; n&euml; sistem."
 
 #: tooltips.actions.verify
@@ -103,7 +157,9 @@ msgstr "Cil&euml;son raportin si t&euml; verifikuar ose jo."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
-msgid "Profile pages on this site use Gravatar. By clicking on your image, you will be taken to the Gravatar website where you can change your profile picture."
+msgid ""
+"Profile pages on this site use Gravatar. By clicking on your image, you will"
+" be taken to the Gravatar website where you can change your profile picture."
 msgstr " Profilet e faqeve  n&euml; siti-n  Gravatar.  Duke klikuar n&euml; imazhin tuaj , ju do t&euml; p&euml;rfshiheni n&euml; web-in  Gravatar ku ju mund t&euml; ndryshoni foton tuaj  t&euml; profilit ."
 
 #: tooltips.default_value
@@ -113,7 +169,10 @@ msgstr "Ndani vlerat me presje nga nj&euml;ra tjetra, p.sh. vlera1, vlera2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
-msgid "Separate each value with a comma, e.g. value1, value2. In case you want to set a default value, end your list of options with :: e.g If you want to make value3 the default, it will be value1, value2, value3::value3"
+msgid ""
+"Separate each value with a comma, e.g. value1, value2. In case you want to "
+"set a default value, end your list of options with :: e.g If you want to "
+"make value3 the default, it will be value1, value2, value3::value3"
 msgstr ""
 
 #: tooltips.dropdown_choices
@@ -138,7 +197,10 @@ msgstr "Mesazh privat"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
-msgid "You can select a color that will show up under your profile picture on your public profile. This color will also be the color dot that shows up on the map for your checkins."
+msgid ""
+"You can select a color that will show up under your profile picture on your "
+"public profile. This color will also be the color dot that shows up on the "
+"map for your checkins."
 msgstr " Ju mund t&euml; zgjidhni nj&euml; ngjyr&euml; q&euml; do t&euml; shfaqet n&euml;n foton tuaj t&euml; profilit n&euml; profilin tuaj publik. Kjo do t&euml; jet&euml; gjithashtu  ngjyra q&euml; do t&euml; shfaqet n&euml; hart&euml; p&euml;r kontrollet tuaja."
 
 #: tooltips.profile_email
@@ -148,32 +210,46 @@ msgstr " Adresa juaj e email-it"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
-msgid "This is one of the ways that you are identified on the website. Keep in mind that this is public!"
+msgid ""
+"This is one of the ways that you are identified on the website. Keep in mind"
+" that this is public!"
 msgstr " Kjo &euml;sht&euml; nj&euml; nga m&euml;nyrat se si ju identifikoheni n&euml; faqen web. Kujtoni q&euml; kjo &euml;sht&euml; publike!"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
-msgid "If set, this will be your new password. Leave this field blank if you wish to keep your current password."
+msgid ""
+"If set, this will be your new password. Leave this field blank if you wish "
+"to keep your current password."
 msgstr "N&euml;se vendoset, ky do t&euml; jet&euml; fjal&euml;kalimi juaj i ri.  L&euml;reni bosh n&euml;se ju d&euml;shironi t&euml; mbani fjal&euml;kalimin aktual. "
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
-msgid "This is a requirement when creating a new user and will be the users password. You should inform your new user to change their password after logging in for the first time."
+msgid ""
+"This is a requirement when creating a new user and will be the users "
+"password. You should inform your new user to change their password after "
+"logging in for the first time."
 msgstr " Kjo &euml;sht&euml; e detyrueshme kur p&euml;rfshihet nj&euml; p&euml;rdorues i ri  dhe ky do t&euml; jet&euml; fjal&euml;kalimi i p&euml;rdoruesit t&euml; ri. Ju duhet t&euml; informoni p&euml;rdoruesit e rinj q&euml; ata t&euml; ndryshojn&euml; fjal&euml;kalimin pasi jan&euml; identifikuar p&euml;r her&euml; t&euml; par&euml;. "
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
-msgid "Selecting YES lets you get alerts via email when new reports or comments are posted on your website."
+msgid ""
+"Selecting YES lets you get alerts via email when new reports or comments are"
+" posted on your website."
 msgstr "Duke zgjedhur PO,  ju do t&euml; merrni sinjale n&euml;p&euml;rmjet email-it n&euml;se raporte ose komente t&euml; reja jan&euml; postuar n&euml; web-in tuaj."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
-msgid "Your current password. We require you enter your password to prevent any unauthorized changes to your account."
+msgid ""
+"Your current password. We require you enter your password to prevent any "
+"unauthorized changes to your account."
 msgstr " Fjal&euml;kalimi juaj aktual. K&euml;rkohet t&euml; vendosni fjal&euml;kalimit p&euml;r t&euml; parandaluar do ndyshim t&euml; paautorizuar n&euml; llogarin&euml; tuaj. "
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
-msgid "Your profile can be viewed by anyone on the Internet if you check this option. This is also the easiest way to show off the reports you've submitted, your checkins, badges, etc all on one page."
+msgid ""
+"Your profile can be viewed by anyone on the Internet if you check this "
+"option. This is also the easiest way to show off the reports you've "
+"submitted, your checkins, badges, etc all on one page."
 msgstr " Profili juaj mund t&euml; shihet nga gjith&euml;secili n&euml; internet n&euml; qoft&euml; se ju zgjidhni k&euml;t&euml; opsion. Kjo &euml;sht&euml; m&euml;nyra m&euml; e thjesht&euml; p&euml;r t&euml; treguar raportet q&euml; ju keni publikuar , kontrollet tuaja, dhe gjithka tjet&euml;r n&euml; faqen tuaj."
 
 #: tooltips.profile_public_url
@@ -188,7 +264,12 @@ msgstr "Emri juaj i p&euml;rdorimit nuk mund t&euml; ndryshohet."
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
-msgid "Access Levels are used to restrict access to custom form field data. Higher access levels can access fields from lower levels. Superadmin has the highest access level (100). Public data is displayed at the lowest access level (0). Members have access level 10. Admin is access level 90 by default."
+msgid ""
+"Access Levels are used to restrict access to custom form field data. Higher "
+"access levels can access fields from lower levels. Superadmin has the "
+"highest access level (100). Public data is displayed at the lowest access "
+"level (0). Members have access level 10. Admin is access level 90 by "
+"default."
 msgstr " Nivelet  e aksesit  jan&euml;  p&euml;rdorur p&euml;r t&euml; kufizuar hyrjen n&euml; t&euml; dh&euml;nat e klient&euml;ve.  Niveli m&euml;  i lart&euml; i aksesit mund t&euml;  lejoj&euml; aksesin n&euml; fusha me nivel m&euml; t&euml; ul&euml;t.  Kryeadministratori ka nivelin m&euml; t&euml; lart&euml; t&euml; aksesit (100). T&euml; dh&euml;nat publike kan&euml; aksesin m&euml; t&euml; ul&euml;t (0)."
 
 #: tooltips.settings_alert_email
@@ -238,7 +319,11 @@ msgstr " Numri maksimal i k&euml;rkesave API p&euml;r do Adres&euml; IP."
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
-msgid "The site banner shows up at the top of the front end of your website if the theme you are using supports it. The recommended size for this banner will depend on the theme you are using. Keep in mind that this will replace the site title and tagline at the top of the page."
+msgid ""
+"The site banner shows up at the top of the front end of your website if the "
+"theme you are using supports it. The recommended size for this banner will "
+"depend on the theme you are using. Keep in mind that this will replace the "
+"site title and tagline at the top of the page."
 msgstr " Sfondi do t&euml; shaqet n&euml; website-n tuaj  n&euml; qoft&euml; se formati i tem&euml;s q&euml; ju keni zgjedhur &euml;sht&euml; i p&euml;rshtatsh&euml;m.  Madh&euml;sia e rekomanduar e k&euml;tij sfondi do t&euml; varet nga tema q&euml; ju po p&euml;rdorni. Kujtoni q&euml; kjo do t&euml; z&euml;vend&euml;soj&euml; titullin e faqes dhe sloganin n&euml; krye t&euml; faqes."
 
 #: tooltips.settings_blocks_per_row
@@ -248,7 +333,11 @@ msgstr " Numri i kolonave t&euml; bllokut q&euml; do t&euml; shfaqet n&euml; do 
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
-msgid "Enable or disable page caching. This makes pages display faster by cutting response times. We recommend using caching on high traffic sites. **Remember that reports will be populated on the front end based on the schedule you set below (Cache Lifetime)."
+msgid ""
+"Enable or disable page caching. This makes pages display faster by cutting "
+"response times. We recommend using caching on high traffic sites. **Remember"
+" that reports will be populated on the front end based on the schedule you "
+"set below (Cache Lifetime)."
 msgstr " Aktivizo ose aktivizo faqet fshehura.  Kjo e b&euml;n faqen m&euml; t&euml; shpejt&euml; duke reduktuar koh&euml;n e p&euml;rgjigjes. Ne rekomandojm&euml; t&euml; p&euml;rdoret caching kur ka ngarkes&euml; t&euml; lart&euml; faqesh. ** Kujtoni q&euml; raportet do t&euml; jen&euml; t&euml; populluara bazuar n&euml; skedulin q&euml; ju keni vendosur."
 
 #: tooltips.settings_cache_pages_lifetime
@@ -258,7 +347,13 @@ msgstr "Vendosni afatin kohor  p&euml;r cache."
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
-msgid "This setting enables checkins on your deployment. This is a simplified report type that is not moderated before it goes on the homepage and requires your site to be configured a certain way. When you enable this, make sure your timezone setting is on UTC and your theme supports checkins. When you enable this, checkin-only themes will become enabled under your addons/themes settings page."
+msgid ""
+"This setting enables checkins on your deployment. This is a simplified "
+"report type that is not moderated before it goes on the homepage and "
+"requires your site to be configured a certain way. When you enable this, "
+"make sure your timezone setting is on UTC and your theme supports checkins. "
+"When you enable this, checkin-only themes will become enabled under your "
+"addons/themes settings page."
 msgstr " Ky opsion ju jep mund&euml;sin&euml; t&euml; kontrolloni vendosjen tuaj. Ky &euml;sht&euml; nj&euml; tip raporti i thjesht&euml;zuar q&euml; nuk &euml;sht&euml; moderuar p&euml;rpara se t&euml; jet&euml; n&euml; faqen kryesore dhe t&euml; detyrohet t&euml; konfigurohet n&euml; nj&euml; m&euml;nyr&euml; t&euml; caktuar.  Kur ju t&euml; jeni n&euml; gjendje ta b&euml;ni k&euml;t&euml; , sigurohuni q&euml; opsionet e afatit tuaj kohor jan&euml; n&euml;n UTC dhe tema juaj suporton kontrollet.  Kur kjo &euml;sht&euml; e mundur, kontrolli i temave do t&euml; kryhet nga opsioni i faqeve t&euml; temave\\ addons. "
 
 #: tooltips.settings_configure_map
@@ -298,7 +393,8 @@ msgstr " Ky &euml;sht&euml; numri i raporteve p&euml;r faqe t&euml; paraqitura n
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
-msgid "This is the number of reports displayed per page on the admin Back End."
+msgid ""
+"This is the number of reports displayed per page on the admin Back End."
 msgstr "Ky &euml;sht&euml; numri i raporteve t&euml; shfaqura p&euml;r faqe n&euml; Back End admin."
 
 #: tooltips.settings_flsms_download
@@ -328,7 +424,10 @@ msgstr "Vendosni gjuh&euml;n q&euml; do t&euml; p&euml;rdoret n&euml; faqe."
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
-msgid "If you set this option to yes, you must approve every individual user who creates an account on your site by assigning them roles (ie. Member, Admin, Superadmin)."
+msgid ""
+"If you set this option to yes, you must approve every individual user who "
+"creates an account on your site by assigning them roles (ie. Member, Admin, "
+"Superadmin)."
 msgstr "N&euml;se zgjidhni opsionin PO,  ju duhet t&euml;  aprovoni  do p&euml;rdorues  q&euml; krijon nj&euml; llogari n&euml; faqen tuaj duke caktuar rolin e tij. (ie. An&euml;tar, Administrator, Superadministrator)."
 
 #: tooltips.settings_map_provider
@@ -338,17 +437,24 @@ msgstr " Kjo p&euml;rcakton se cila hart&euml; duhet t&euml; p&euml;rdoret n&eum
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
-msgid "This shows the timeline based on the date and time reports were submitted"
+msgid ""
+"This shows the timeline based on the date and time reports were submitted"
 msgstr ""
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
-msgid "Setting this value to true or yes will make your deployment private so only users with accounts that you specify will be able to access the deployment."
+msgid ""
+"Setting this value to true or yes will make your deployment private so only "
+"users with accounts that you specify will be able to access the deployment."
 msgstr " Duke vendosur  k&euml;t&euml; vler&euml; E V&euml;rtet&euml; ose Po ju do t&euml; b&euml;ni vendosjen tuaj private, pra vet&euml;m p&euml;rdoruesit me llogari q&euml; ju autorizoni mund t&euml; ken&euml; akses n&euml; vendndodhjen tuaj. "
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
-msgid "Users will be emailed with a confirmation link to click before they are allowed to log into the deployment if this is set to yes. If you enable this after your deployment has accepted users, they will be prompted to confirm their account before they will be allowed to continue using it."
+msgid ""
+"Users will be emailed with a confirmation link to click before they are "
+"allowed to log into the deployment if this is set to yes. If you enable this"
+" after your deployment has accepted users, they will be prompted to confirm "
+"their account before they will be allowed to continue using it."
 msgstr " N&euml;se kjo &euml;sht&euml; plot&euml;suar me PO, p&euml;rdoruesit do t&euml; marrin nj&euml; email me nj&euml; link konfirmimi ku ata t&euml; klikojn&euml; p&euml;rpara se t&euml;  ken&euml; akses n&euml; vendosje. N&euml;se ju e aktivizoni k&euml;t&euml; mbasi t&euml; keni pranuar p&euml;rdorues, ata do duhet t&euml; konfirmojn&euml; llogarin&euml; e tyre p&euml;rpara se t&euml; lejohen ta p&euml;rdorin at&euml;."
 
 #: tooltips.settings_server_host
@@ -363,7 +469,8 @@ msgstr "Ky &euml;sht&euml; fjal&euml;kalimi p&euml;r adres&euml;n e e-mailit ku 
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
-msgid "This is required to accept incoming connections from the email address."
+msgid ""
+"This is required to accept incoming connections from the email address."
 msgstr "Ky &euml;sht&euml; informacion i detyruesh&euml;m p&euml;r t&euml; pranuar lidhjet hyrese n&euml; adres&euml;n e e-mailit."
 
 #: tooltips.settings_server_ssl_support
@@ -383,22 +490,36 @@ msgstr "Kjo &euml;sht&euml; adresa e e-mailit ku d&euml;rgohen raportet."
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
-msgid "Hit statistics are stored on a server controlled by Ushahidi. By enabling this option, you gain access to hit statistics directly in your admin panel. By disabling it, you will stop collecting statistics and will be unable to recover traffic stats collected while this is turned off."
+msgid ""
+"Hit statistics are stored on a server controlled by Ushahidi. By enabling "
+"this option, you gain access to hit statistics directly in your admin panel."
+" By disabling it, you will stop collecting statistics and will be unable to "
+"recover traffic stats collected while this is turned off."
 msgstr "Statistikat jan&euml; ruajtur n&euml; nj&euml; server t&euml; kontrolluar nga Ushahidi. Duke mund&euml;suar k&euml;t&euml; opsion, ju fitoni akses t&euml; drejt&euml;p&euml;rdrejt&euml; tek statistikat n&euml; panelin tuaj t&euml; administrimit. Duke patur k&euml;t&euml; opsion ju nuk do t&euml; mblidhni m&euml; statistika dhe do ta keni t&euml; pamundur t&euml; p&euml;rmir&euml;soni ngarkes&euml;n e statistikave kur kjo t&euml; fiket. Duke aktivizuar k&euml;t&euml; opsion ju fitoni s&euml;risht akses tek statistkat direkt nga paneli juaj."
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
-msgid "Do others have the right to republish text, images, video and/or design themes that you and your users create? Go to https://creativecommons.org/choose/ if you are interested in specifying what others are able to do with your work. And remember to be specific about what elements of the site you are licensing!"
+msgid ""
+"Do others have the right to republish text, images, video and/or design "
+"themes that you and your users create? Go to "
+"https://creativecommons.org/choose/ if you are interested in specifying what"
+" others are able to do with your work. And remember to be specific about "
+"what elements of the site you are licensing!"
 msgstr " A kan&euml; t&euml; tjer&euml;t t&euml; drejt&euml; t&euml; ripublikojn&euml; tekste, mesazhe viedo ose tema  q&euml; juve dhe p&euml;rdoruesit tuaj keni krijuar? Shkoni tek: <a href=\"https://creativecommons.org/choose/\">Hap&euml;sira e krijimeve</a> N&euml;se jeni t&euml; interesuar p&euml;r t&euml; specifikuar far&euml; t&euml; tjer&euml;t jan&euml; n&euml; gjendje t&euml; b&euml;jn&euml; me pun&euml;n tuaj. Kujtoni q&euml; t&euml; jeni t&euml; sakte rreth element&euml;ve t&euml; faqes suaj p&euml;r t&euml; cil&euml;t jeni t&euml; licensuar!"
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
-msgid "This is the email address that will receive email reports and messages from the contact form."
+msgid ""
+"This is the email address that will receive email reports and messages from "
+"the contact form."
 msgstr "Kjo &euml;sht&euml; adresa e e-mailit q&euml; do t&euml; marr&euml; raportet e email-eve dhe mesazhet nga forma e kontaktit."
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
-msgid "This is text that will appear above the map on the homepage. This is useful for giving important information to visitors on the site. To remove the box, simply delete the message here."
+msgid ""
+"This is text that will appear above the map on the homepage. This is useful "
+"for giving important information to visitors on the site. To remove the box,"
+" simply delete the message here."
 msgstr "Ky &euml;sht&euml; teksti q&euml; do t&euml; shfaqet n&euml; hart&euml;n e faqes kryesore. Kjo &euml;sht&euml; e p&euml;rdorshme p&euml;r t dh&euml;n&euml; vizitor&euml;ve t&euml; faqes, informacion t&euml; r&euml;nd&euml;sish&euml;m. P&euml;r t&euml; fshir&euml; kutin&euml; thjesht&euml; fshini mesazhin k&euml;tu."
 
 #: tooltips.settings_site_name
@@ -408,7 +529,9 @@ msgstr "Ky &euml;sht&euml; emri i faqes q&euml; shfaqet n&euml; krye t&euml; faq
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
-msgid "This is a message that will show up on the submit report page. This is good for disclaimers or further instructions for your visitors who are reporting."
+msgid ""
+"This is a message that will show up on the submit report page. This is good "
+"for disclaimers or further instructions for your visitors who are reporting."
 msgstr "Ky &euml;sht&euml; nj&euml; mesazh q&euml; do t&euml; shfaqet n&euml; faqen e raportit t&euml; shtuar. Kjo gj&euml; &euml;sht&euml; e mir&euml; p&euml;r udh&euml;zime p&euml;r vizitor&euml;t q&euml; jan&euml; duke raportuar"
 
 #: tooltips.settings_site_tagline
@@ -418,11 +541,13 @@ msgstr "Shpjego me pak fjal&euml; p&euml;rmbajtjen e faqes suaj."
 
 #: tooltips.settings_site_timezone
 msgctxt "tooltips.settings_site_timezone"
-msgid "This is the timezone that your site will operate on. This has an impact on any actions you have set up that utilize time and date, as well as the default current time for reports on the front and back end of the site."
+msgid ""
+"This is the timezone that your site will operate on. This has an impact on "
+"any actions you have set up that utilize time and date, as well as the "
+"default current time for reports on the front and back end of the site."
 msgstr "Ky &euml;sht&euml; afati kohor ku faqia juaj do t&euml; operoj&euml;. Kjo do t&euml; ndikoje n&euml; veprimet ku do ju duhet t&euml; p&euml;rdorni dat&euml;n si n&euml; raportet direkte ashtu edhe n&euml; ato indirekte."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
 msgstr "Vendosni Fjal&euml;t me simbolin # (hashtag) q&euml; do t&euml; p&euml;rdoren n&euml; tweet"
-

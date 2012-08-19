@@ -1,15 +1,19 @@
-#. extracted from en_US/reporters.php, ar/reporters.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:48+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: reporters.latitude.between
 msgctxt "reporters.latitude.between"
@@ -18,7 +22,9 @@ msgstr "حقل خط العرض يحتوي على قيمة تبدو غير صال
 
 #: reporters.latitude.required
 msgctxt "reporters.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "خط العرض مطلوب. برجاء النقر على الخريطة لتحديد مكان"
 
 #: reporters.level_id.numeric
@@ -33,7 +39,8 @@ msgstr "حقل مستوى المراسل يحتوي على قيمة تبدو غ�
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
-msgid "The location name field must be at least 3 and no more 200 characters long."
+msgid ""
+"The location name field must be at least 3 and no more 200 characters long."
 msgstr ".حقل اسم المكان يجب ألا يقل عن 3 أحرف ولا يزيد عن 200 حرف"
 
 #: reporters.location_name.required
@@ -48,7 +55,9 @@ msgstr "حقل خط الطول يحتوي على قيمة تبدو غير صال
 
 #: reporters.longitude.required
 msgctxt "reporters.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "خط الطول مطلوب. برجاء النقر على الخريطة لتحديد مكان"
 
 #: reporters.reporter_id.numeric
@@ -60,4 +69,3 @@ msgstr "مراسل غير صالح"
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
 msgstr "مراسل غير صالح"
-

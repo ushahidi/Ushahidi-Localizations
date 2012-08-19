@@ -1,15 +1,18 @@
-#. extracted from en_US/report.php, hy_AM/report.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-15 06:18+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: hy_AM\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
@@ -18,7 +21,9 @@ msgstr ""
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
-msgid "This deployment spans within one country only. Please make sure the report location is within the country %s."
+msgid ""
+"This deployment spans within one country only. Please make sure the report "
+"location is within the country %s."
 msgstr ""
 
 #: report.custom_field.values
@@ -53,17 +58,23 @@ msgstr ""
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
-msgid "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or both."
+msgid ""
+"Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
+"both."
 msgstr ""
 
 #: report.data_point.between
@@ -178,7 +189,9 @@ msgstr "Վերբեռնվող նկարի չափը չպետք է գերազանց�
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
-msgid "The Upload Photos field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The Upload Photos field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
 msgstr "Վերբեռնման համար նշված նկարները վնասված են կամ չունեն ճիշտ ձևաչափ: Ընդունելի ձևաչափերն են` .JPG, .PNG և .GIF:"
 
 #: report.incident_photo.valid
@@ -198,7 +211,9 @@ msgstr "Նշեք վավեր արժեք \"Աղբյուրի Հավաստիությ
 
 #: report.incident_title.length
 msgctxt "report.incident_title.length"
-msgid "The \"Report Title\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Report Title\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "Վերնագիրը պետք է պարունակի առնվազն 3 և առավելագույնը` 200 նիշ:"
 
 #: report.incident_title.required
@@ -233,7 +248,9 @@ msgstr "Լայնությունը ճիշտ չէ մուտքագրված:"
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
-msgid "The latitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The latitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Լայնությունը մուտքագրված չէ: Քարտեզի վրա նշեք տեղանքը:"
 
 #: report.locale.alpha_dash
@@ -253,7 +270,8 @@ msgstr "Լեզուն ճիշտ չէ մուտքագրված: "
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
-msgid "The Original Report and the Translation have the same locale (language)."
+msgid ""
+"The Original Report and the Translation have the same locale (language)."
 msgstr "Ահազանգը և նրա թարգմանությունը միևնույն լեզվով են:"
 
 #: report.locale.required
@@ -263,7 +281,9 @@ msgstr "Նշեք լեզուն:"
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
-msgid "The \"Location Name\" field must be at least 3 and no more 200 characters long."
+msgid ""
+"The \"Location Name\" field must be at least 3 and no more 200 characters "
+"long."
 msgstr "Տեղանքի անվանումը պետք է պարունակի առնվազն 3 և առավելագույնը` 200 նիշ:"
 
 #: report.location_name.required
@@ -278,7 +298,9 @@ msgstr "Երկայնությունը ճիշտ չէ մուտքագրված:"
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
-msgid "The longitude field is required. Please click on the map to pinpoint a location."
+msgid ""
+"The longitude field is required. Please click on the map to pinpoint a "
+"location."
 msgstr "Երկայնությունը մուտքագրված չէ: Քարտեզի վրա նշեք տեղանքը:"
 
 #: report.person_email.email
@@ -293,12 +315,14 @@ msgstr "Էլ-փոստի դաշտում կարող եք մուտքագրել առ
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
-msgid "The first name field must be at least 3 and no more 100 characters long."
+msgid ""
+"The first name field must be at least 3 and no more 100 characters long."
 msgstr "Անունը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:"
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
-msgid "The last name field must be at least 2 and no more 100 characters long."
+msgid ""
+"The last name field must be at least 2 and no more 100 characters long."
 msgstr "Ազգանունը պետք է պարունակի առնվազն 3 և առավելագույնը` 100 նիշ:"
 
 #: report.to_date.date_mmddyyyy
@@ -315,4 +339,3 @@ msgstr "Նշեք վավեր ամսաթիվ \"Մինչ\" դաշտի համար: �
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
 msgstr "\"Սկսած\" դաշտում նշված ամսաթիվը չի կարող մեծ լինել \"Մինչ\" դաշտում նշված ամսաթվից:"
-

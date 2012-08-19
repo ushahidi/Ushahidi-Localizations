@@ -1,15 +1,19 @@
-#. extracted from en_US/sharing.php, ar/sharing.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 06:51+0000\n"
-"PO-Revision-Date: 2012-08-17 06:51+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-08-17 21:59+0000\n"
+"Last-Translator: ushbot <henry@ushahidi.com>\n"
+"Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: sharing.date
 msgctxt "sharing.date"
@@ -65,4 +69,3 @@ msgstr ".رابط الموقع حقل مطلوب"
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
 msgstr ".حقل رابط الموقع يحتوي على رابط لا يبدو صالحاً"
-

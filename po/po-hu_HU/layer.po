@@ -1,15 +1,19 @@
-#. extracted from en_US/layer.php, hu_HU/layer.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-13 04:56+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: layer.layer_color.length
 msgctxt "layer.layer_color.length"
@@ -23,7 +27,9 @@ msgstr "A színezett mező kitöltése kötelező. "
 
 #: layer.layer_file.type
 msgctxt "layer.layer_file.type"
-msgid "The file field does not appear to contain a valid file. The only accepted formats are .KMZ and .KML."
+msgid ""
+"The file field does not appear to contain a valid file. The only accepted "
+"formats are .KMZ and .KML."
 msgstr "A fájlmező nem tartalmaz érvényes fájlt. Lehetséges formátumok: .KMZ, .KML."
 
 #: layer.layer_file.valid
@@ -55,4 +61,3 @@ msgstr "Nem adhat meg egyszerre KML fájlt és Url-t."
 msgctxt "layer.layer_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com/layerl.kml"
 msgstr "Kérem, adjon meg egy érvényes URL-t. Például: http://www.ushahidi.com/layerl.kml"
-

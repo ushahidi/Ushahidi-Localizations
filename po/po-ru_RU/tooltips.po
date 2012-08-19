@@ -1,19 +1,25 @@
-#. extracted from en_US/tooltips.php, ru_RU/tooltips.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:54+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: tooltips.actions.add_to_category
 msgctxt "tooltips.actions.add_to_category"
-msgid "This adds the report to additional categories. If you select Category 1 here and the report already has Category 2 attached to it, the report will then have both Category 1 and Category 2."
+msgid ""
+"This adds the report to additional categories. If you select Category 1 here"
+" and the report already has Category 2 attached to it, the report will then "
+"have both Category 1 and Category 2."
 msgstr "Позволяет добавлять дополнительные категории к сообщению. Если вы  отметете \"Категория1\" для сообщения, которое уже находится в \"Категория2\", то сообщение будет привязано к обеим категориям."
 
 #: tooltips.actions.approve
@@ -23,22 +29,38 @@ msgstr ""
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
-msgid "You will be able to assign a badge to the triggering user. Pick the badge that gets assigned here."
+msgid ""
+"You will be able to assign a badge to the triggering user. Pick the badge "
+"that gets assigned here."
 msgstr ""
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
-msgid "This is a range of hours and/or minutes between two times in 24 hour format. If you input an earlier time in the second field, it will be flipped with the first. These times must be within a single day. Also, this time is checked against the time you have configured on your site in site settings and <strong>not</strong> necessarily the timezone of the user interacting with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
+msgid ""
+"This is a range of hours and/or minutes between two times in 24 hour format."
+" If you input an earlier time in the second field, it will be flipped with "
+"the first. These times must be within a single day. Also, this time is "
+"checked against the time you have configured on your site in site settings "
+"and <strong>not</strong> necessarily the timezone of the user interacting "
+"with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
 msgstr ""
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
-msgid "If you would like to activate triggers only when a certain category is being used, you can set that here. This will allow a trigger to be activated if only one of the categories is used. For instace, if you select Category 1 and Category 2 here and a report is submitted using Category 2 and Category 3, it will pass the test."
+msgid ""
+"If you would like to activate triggers only when a certain category is being"
+" used, you can set that here. This will allow a trigger to be activated if "
+"only one of the categories is used. For instace, if you select Category 1 "
+"and Category 2 here and a report is submitted using Category 2 and Category "
+"3, it will pass the test."
 msgstr "Вы можете задать условие активации триггеров при использовании определенных категорий. Например, если вы выбрали условие \"Категория1 и Категория2\", а сообщение привязано к Категория2 и Категория3, то она выполнит заданное условие."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
-msgid "If these actions happen on certain days of the week, set that here. Keep in mind the day is determined by the timezone configured on your deployment. Hold shift, command, or control for multiple day selection."
+msgid ""
+"If these actions happen on certain days of the week, set that here. Keep in "
+"mind the day is determined by the timezone configured on your deployment. "
+"Hold shift, command, or control for multiple day selection."
 msgstr ""
 
 #: tooltips.actions.email_body
@@ -53,17 +75,31 @@ msgstr "Заголовок письма, которое будет отправ�
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
-msgid "You can choose to leave this blank if you do not want to check against keywords. If you add words here, you will need to separate them with a comma (,). For example, if you want to activate a trigger when someone mentions \"love\" or \"peace\" in their message, you will want to add \"love, peace\" in the keywords box."
+msgid ""
+"You can choose to leave this blank if you do not want to check against "
+"keywords. If you add words here, you will need to separate them with a comma"
+" (,). For example, if you want to activate a trigger when someone mentions "
+"\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
+" in the keywords box."
 msgstr "Если вы хотите запускать триггеры по ключевым словам, введите их здесь через запятую."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
-msgid "You can either select anywhere or a specific location. If you select a specific location, you will be asked to draw a box around the area that qualifies an action. For example, if you want this trigger to be activated when someone submits a report in Brazil, you will select \"specific area\" and then draw the box around Brazil. You can make these boxes as small or as large as you would like. You can also draw multiple boxes."
+msgid ""
+"You can either select anywhere or a specific location. If you select a "
+"specific location, you will be asked to draw a box around the area that "
+"qualifies an action. For example, if you want this trigger to be activated "
+"when someone submits a report in Brazil, you will select \"specific area\" "
+"and then draw the box around Brazil. You can make these boxes as small or as"
+" large as you would like. You can also draw multiple boxes."
 msgstr "Вы можете выбрать \"где угодно\" или указать местоположение. Если вы выбрали местоположение, вы можете указать периметр, где происходит действие. Например, если вы хотите активировать триггер, когда кто-либо укажет точку в Смоленской области, вам необходимо выделить данную область одним или несколькими прямоугольниками."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
-msgid "This qualifier will activate the trigger on the N-th count either for the entire collective user base or for each individual user. Leave this blank to ignore it."
+msgid ""
+"This qualifier will activate the trigger on the N-th count either for the "
+"entire collective user base or for each individual user. Leave this blank to"
+" ignore it."
 msgstr "This qualifier will activate the trigger on the N-th count either for the entire collective user base or for each individual user."
 
 #: tooltips.actions.report_title
@@ -73,27 +109,45 @@ msgstr ""
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
-msgid "If all of the qualifiers above are passed, the trigger will initiate a response. This can range from approving a report to emailing a user. Select the response here to activate additional options for the specific responses."
+msgid ""
+"If all of the qualifiers above are passed, the trigger will initiate a "
+"response. This can range from approving a report to emailing a user. Select "
+"the response here to activate additional options for the specific responses."
 msgstr "Если все критерии выше были пройдены, триггер запустит действие - от одобрения сообщения до электронного письма пользователю. Выберите необходимые дополнительные опции."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
-msgid "If you select \"Triggering User\", the email will be sent to the user who performed the action. If you select the radio button next to the input box, you will be able to enter a custom email address. This is useful if you are setting up triggers to notify people when certain parts of the map are seeing reports, check ins or some other activity."
+msgid ""
+"If you select \"Triggering User\", the email will be sent to the user who "
+"performed the action. If you select the radio button next to the input box, "
+"you will be able to enter a custom email address. This is useful if you are "
+"setting up triggers to notify people when certain parts of the map are "
+"seeing reports, check ins or some other activity."
 msgstr "При выборе \"Triggering User\" электроное письмо будет отослано пользователю, выполнившему действие. При использовании радио-кнопки после поля ввода вы сможете ввести любой другой e-mail. Это полезно, когда вы устанавливаете триггеры для уведомления пользователей о произошедших изменениях."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
-msgid "You can select multiple days here. Dates are determined by your deployment timezone setting. In order to default to all dates, do not select any dates."
+msgid ""
+"You can select multiple days here. Dates are determined by your deployment "
+"timezone setting. In order to default to all dates, do not select any dates."
 msgstr ""
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
-msgid "The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one."
+msgid ""
+"The trigger is the core component of setting up your Action Triggers. This "
+"is where you determine if you would like something to happen when someone "
+"submits a report, performs a check in, etc. You will be able to filter "
+"responses to these actions after selecting one."
 msgstr "Триггер является основным элементом для настройки \"Действий по условию\".  Вы можете выбрать какое-либо действие, когда кто-нибудь отправит новое сообщение, зарегистрируется и т. д."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
-msgid "The user can be anyone or a specific user. If you would only like specific users to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as \"anyone\" since most triggers are set up for all users interacting with the system"
+msgid ""
+"The user can be anyone or a specific user. If you would only like specific "
+"users to activate a trigger, you will want to select them here. Otherwise, "
+"you will want to leave this as \"anyone\" since most triggers are set up for"
+" all users interacting with the system"
 msgstr "Пользователем может быть кто угодно или выбранный пользователь."
 
 #: tooltips.actions.verify
@@ -103,7 +157,9 @@ msgstr "Отметить сообщение как проверенное или
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
-msgid "Profile pages on this site use Gravatar. By clicking on your image, you will be taken to the Gravatar website where you can change your profile picture."
+msgid ""
+"Profile pages on this site use Gravatar. By clicking on your image, you will"
+" be taken to the Gravatar website where you can change your profile picture."
 msgstr "Аватары анкет данного сайта используют сервис Gravatar. Нажав на ваш аватар, вы будете переадресованы на их сайт, где сможете изменить изображение."
 
 #: tooltips.default_value
@@ -113,7 +169,10 @@ msgstr "Отделите каждое значение запятой. Напр�
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
-msgid "Separate each value with a comma, e.g. value1, value2. In case you want to set a default value, end your list of options with :: e.g If you want to make value3 the default, it will be value1, value2, value3::value3"
+msgid ""
+"Separate each value with a comma, e.g. value1, value2. In case you want to "
+"set a default value, end your list of options with :: e.g If you want to "
+"make value3 the default, it will be value1, value2, value3::value3"
 msgstr ""
 
 #: tooltips.dropdown_choices
@@ -138,7 +197,10 @@ msgstr "Личное сообщение"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
-msgid "You can select a color that will show up under your profile picture on your public profile. This color will also be the color dot that shows up on the map for your checkins."
+msgid ""
+"You can select a color that will show up under your profile picture on your "
+"public profile. This color will also be the color dot that shows up on the "
+"map for your checkins."
 msgstr "Вы можете выбрать цвет, который будет отображён под вашим аватаром. Этим цветом также будут отображаться сообщения, которые вы отправили.."
 
 #: tooltips.profile_email
@@ -148,32 +210,46 @@ msgstr "Ваш e-mail адрес"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
-msgid "This is one of the ways that you are identified on the website. Keep in mind that this is public!"
+msgid ""
+"This is one of the ways that you are identified on the website. Keep in mind"
+" that this is public!"
 msgstr "Полное имя"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
-msgid "If set, this will be your new password. Leave this field blank if you wish to keep your current password."
+msgid ""
+"If set, this will be your new password. Leave this field blank if you wish "
+"to keep your current password."
 msgstr ""
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
-msgid "This is a requirement when creating a new user and will be the users password. You should inform your new user to change their password after logging in for the first time."
+msgid ""
+"This is a requirement when creating a new user and will be the users "
+"password. You should inform your new user to change their password after "
+"logging in for the first time."
 msgstr ""
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
-msgid "Selecting YES lets you get alerts via email when new reports or comments are posted on your website."
+msgid ""
+"Selecting YES lets you get alerts via email when new reports or comments are"
+" posted on your website."
 msgstr "Выберите \"ДА\" для e-mail оповещений о новых точках или комментариях"
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
-msgid "Your current password. We require you enter your password to prevent any unauthorized changes to your account."
+msgid ""
+"Your current password. We require you enter your password to prevent any "
+"unauthorized changes to your account."
 msgstr "Ваш пароль. Оставьте пустым, если вы не хотите изменять пароль"
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
-msgid "Your profile can be viewed by anyone on the Internet if you check this option. This is also the easiest way to show off the reports you've submitted, your checkins, badges, etc all on one page."
+msgid ""
+"Your profile can be viewed by anyone on the Internet if you check this "
+"option. This is also the easiest way to show off the reports you've "
+"submitted, your checkins, badges, etc all on one page."
 msgstr "Ваша анкета может быть просмотрена кем угодно, если вы отметите эту опцию."
 
 #: tooltips.profile_public_url
@@ -188,7 +264,12 @@ msgstr "Имя пользователя не может быть изменен�
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
-msgid "Access Levels are used to restrict access to custom form field data. Higher access levels can access fields from lower levels. Superadmin has the highest access level (100). Public data is displayed at the lowest access level (0). Members have access level 10. Admin is access level 90 by default."
+msgid ""
+"Access Levels are used to restrict access to custom form field data. Higher "
+"access levels can access fields from lower levels. Superadmin has the "
+"highest access level (100). Public data is displayed at the lowest access "
+"level (0). Members have access level 10. Admin is access level 90 by "
+"default."
 msgstr "Уровень доступа используется для ограничения доступа к пользовательским полям. Обладающий большим уровнем сможет увидеть поля с меньшим уровнем. Суперадмин имеет высший уровень доступа \"100\". Данные, предназначенные для публичного просмотра имеют низший уровень \"0\"."
 
 #: tooltips.settings_alert_email
@@ -238,7 +319,11 @@ msgstr "Максимум API-запросов с одного IP адреса"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
-msgid "The site banner shows up at the top of the front end of your website if the theme you are using supports it. The recommended size for this banner will depend on the theme you are using. Keep in mind that this will replace the site title and tagline at the top of the page."
+msgid ""
+"The site banner shows up at the top of the front end of your website if the "
+"theme you are using supports it. The recommended size for this banner will "
+"depend on the theme you are using. Keep in mind that this will replace the "
+"site title and tagline at the top of the page."
 msgstr "Заставка показывается наверху вашего сайта, если тема её поддерживает. Оптимальный размер зависит от используемой темы. Обратите внимание, что заставка заменит собой название и слоган сайта."
 
 #: tooltips.settings_blocks_per_row
@@ -248,7 +333,11 @@ msgstr "Количество блоков которое будет показы
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
-msgid "Enable or disable page caching. This makes pages display faster by cutting response times. We recommend using caching on high traffic sites. **Remember that reports will be populated on the front end based on the schedule you set below (Cache Lifetime)."
+msgid ""
+"Enable or disable page caching. This makes pages display faster by cutting "
+"response times. We recommend using caching on high traffic sites. **Remember"
+" that reports will be populated on the front end based on the schedule you "
+"set below (Cache Lifetime)."
 msgstr "Разрешить кешировать страницы? Ускоряет загрузку страниц, рекомендуется для сайтов с высоким трафиком. **Помните, что пользователи будут видеть обновленные данные с периодичностью времени жизни кеша."
 
 #: tooltips.settings_cache_pages_lifetime
@@ -258,7 +347,13 @@ msgstr "Время жизни кеша."
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
-msgid "This setting enables checkins on your deployment. This is a simplified report type that is not moderated before it goes on the homepage and requires your site to be configured a certain way. When you enable this, make sure your timezone setting is on UTC and your theme supports checkins. When you enable this, checkin-only themes will become enabled under your addons/themes settings page."
+msgid ""
+"This setting enables checkins on your deployment. This is a simplified "
+"report type that is not moderated before it goes on the homepage and "
+"requires your site to be configured a certain way. When you enable this, "
+"make sure your timezone setting is on UTC and your theme supports checkins. "
+"When you enable this, checkin-only themes will become enabled under your "
+"addons/themes settings page."
 msgstr "Проверка настроек сайта перед запуском платформы (This setting enables checkins on your deployment. This is a simplified report type that is not moderated before it goes on the homepage and requires your site to be configured a certain way. When you enable this, make sure your timezone setting is on UTC and your theme supports checkins. When you enable this, checkin only themes will become enabled under your addons/themes settings page)."
 
 #: tooltips.settings_configure_map
@@ -298,7 +393,8 @@ msgstr "Количество сообщений, которые будут по�
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
-msgid "This is the number of reports displayed per page on the admin Back End."
+msgid ""
+"This is the number of reports displayed per page on the admin Back End."
 msgstr "Количество сообщений, которые будут показаны на одной странице (Admin)."
 
 #: tooltips.settings_flsms_download
@@ -328,7 +424,10 @@ msgstr "Язык веб-сайта"
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
-msgid "If you set this option to yes, you must approve every individual user who creates an account on your site by assigning them roles (ie. Member, Admin, Superadmin)."
+msgid ""
+"If you set this option to yes, you must approve every individual user who "
+"creates an account on your site by assigning them roles (ie. Member, Admin, "
+"Superadmin)."
 msgstr ""
 
 #: tooltips.settings_map_provider
@@ -338,17 +437,24 @@ msgstr "Определяет, какая карта будет использо�
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
-msgid "This shows the timeline based on the date and time reports were submitted"
+msgid ""
+"This shows the timeline based on the date and time reports were submitted"
 msgstr ""
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
-msgid "Setting this value to true or yes will make your deployment private so only users with accounts that you specify will be able to access the deployment."
+msgid ""
+"Setting this value to true or yes will make your deployment private so only "
+"users with accounts that you specify will be able to access the deployment."
 msgstr "Закрытый доступ к карте, только после авторизации."
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
-msgid "Users will be emailed with a confirmation link to click before they are allowed to log into the deployment if this is set to yes. If you enable this after your deployment has accepted users, they will be prompted to confirm their account before they will be allowed to continue using it."
+msgid ""
+"Users will be emailed with a confirmation link to click before they are "
+"allowed to log into the deployment if this is set to yes. If you enable this"
+" after your deployment has accepted users, they will be prompted to confirm "
+"their account before they will be allowed to continue using it."
 msgstr ""
 
 #: tooltips.settings_server_host
@@ -363,7 +469,8 @@ msgstr "Пароль e-mail, который получает сообщения"
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
-msgid "This is required to accept incoming connections from the email address."
+msgid ""
+"This is required to accept incoming connections from the email address."
 msgstr "Порт e-mail сервера"
 
 #: tooltips.settings_server_ssl_support
@@ -383,22 +490,36 @@ msgstr "Имя пользователя E-mail, на который будут �
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
-msgid "Hit statistics are stored on a server controlled by Ushahidi. By enabling this option, you gain access to hit statistics directly in your admin panel. By disabling it, you will stop collecting statistics and will be unable to recover traffic stats collected while this is turned off."
+msgid ""
+"Hit statistics are stored on a server controlled by Ushahidi. By enabling "
+"this option, you gain access to hit statistics directly in your admin panel."
+" By disabling it, you will stop collecting statistics and will be unable to "
+"recover traffic stats collected while this is turned off."
 msgstr "Получение статистики через админку."
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
-msgid "Do others have the right to republish text, images, video and/or design themes that you and your users create? Go to https://creativecommons.org/choose/ if you are interested in specifying what others are able to do with your work. And remember to be specific about what elements of the site you are licensing!"
+msgid ""
+"Do others have the right to republish text, images, video and/or design "
+"themes that you and your users create? Go to "
+"https://creativecommons.org/choose/ if you are interested in specifying what"
+" others are able to do with your work. And remember to be specific about "
+"what elements of the site you are licensing!"
 msgstr "Авторское право см. http://creativecommons.org/choose/"
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
-msgid "This is the email address that will receive email reports and messages from the contact form."
+msgid ""
+"This is the email address that will receive email reports and messages from "
+"the contact form."
 msgstr "E-mail, на который будут отправлены уведомления и сообщения из формы контактов."
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
-msgid "This is text that will appear above the map on the homepage. This is useful for giving important information to visitors on the site. To remove the box, simply delete the message here."
+msgid ""
+"This is text that will appear above the map on the homepage. This is useful "
+"for giving important information to visitors on the site. To remove the box,"
+" simply delete the message here."
 msgstr "Сообщение, которое будет показано над картой на главной странице"
 
 #: tooltips.settings_site_name
@@ -408,7 +529,9 @@ msgstr "Имя сайта в верхней части главной стран
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
-msgid "This is a message that will show up on the submit report page. This is good for disclaimers or further instructions for your visitors who are reporting."
+msgid ""
+"This is a message that will show up on the submit report page. This is good "
+"for disclaimers or further instructions for your visitors who are reporting."
 msgstr "Сообщение, которое будет показываться пользователям на странице заполнения данных о новом сообщении. Возможно использование для информирования о юридической ответственности или других инструкциях."
 
 #: tooltips.settings_site_tagline
@@ -418,11 +541,13 @@ msgstr "Несколько слов о данном веб-сайте"
 
 #: tooltips.settings_site_timezone
 msgctxt "tooltips.settings_site_timezone"
-msgid "This is the timezone that your site will operate on. This has an impact on any actions you have set up that utilize time and date, as well as the default current time for reports on the front and back end of the site."
+msgid ""
+"This is the timezone that your site will operate on. This has an impact on "
+"any actions you have set up that utilize time and date, as well as the "
+"default current time for reports on the front and back end of the site."
 msgstr "Часовой пояс, который будет использовать данный сайт."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
 msgstr "Хэштэг Twitter"
-

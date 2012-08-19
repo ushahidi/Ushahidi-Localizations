@@ -1,15 +1,18 @@
-#. extracted from en_US/category.php, pl_PL/category.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-19 22:28+0000\n"
+"PO-Revision-Date: 2012-07-12 21:26+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: pl_PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: category.category_color.length
 msgctxt "category.category_color.length"
@@ -33,7 +36,9 @@ msgstr "Upewnij się, czy wielkość przesyłanego obrazu nie przekracza 50KB."
 
 #: category.category_image.type
 msgctxt "category.category_image.type"
-msgid "The image field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
+msgid ""
+"The image field does not appear to contain a valid image. The only accepted "
+"formats are .JPG, .PNG and .GIF."
 msgstr "Pole obrazu prawdopodobnie nie zawiera ważnego obrazu. Jedynymi dopuszczalnymi formatami są .JPG, .PNG i .GIF."
 
 #: category.category_image.valid
@@ -85,4 +90,3 @@ msgstr "Pola kategoria i nadrzędna kategoria nie mogą być jednakowe."
 msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
 msgstr ""
-
