@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <jfortunyl@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-20 00:04+0000\n"
-"PO-Revision-Date: 2012-08-20 01:25+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-20 12:04+0000\n"
+"PO-Revision-Date: 2012-08-20 15:28+0000\n"
+"Last-Translator: fortuny <jfortunyl@gmail.com>\n"
 "Language-Team: Catalan (Spain) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ca_ES/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,14 +19,14 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "error!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Aquest desplegament s'estén dins d'un sol país. Assegureu-vos que la ubicació de l'informe es troba al país %s."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -45,38 +46,38 @@ msgstr "Please select a valid item to include in the download"
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Si us plau, seleccioneu \"Informes Pendents d'Aprovació\" o \"Informes Aprovats\" o ambdòs."
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Si us plau, seleccioneu \"Informes Pendents d'Aprovació\" o \"Informes Aprovats\" o ambdòs."
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Si us plau, seleccioneu \"Informes Pendents d'Aprovació\" o \"Informes Aprovats\" o ambdòs."
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Si us plau, seleccioneu \"Informes Pendents de Verificació\" o \"Informes Verificats\" o ambdòs."
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Si us plau, seleccioneu \"Informes Pendents de Verificació\" o \"Informes Verificats\" o ambdòs."
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Si us plau, seleccioneu \"Informes Pendents de Verificació\" o \"Informes Verificats\" o ambdòs."
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
@@ -225,7 +226,7 @@ msgstr "El camp \"Títol del Llistat\" es obligatori."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "Possible atac CSRF. Segur que volieu crear/editar un informe?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"
