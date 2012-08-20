@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 22:47+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 01:46+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,7 +67,7 @@ msgstr "Ingresado por"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Información Adicional"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -1328,23 +1328,23 @@ msgstr "Cuenta creada exitosamente."
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr "Un mensaje de confirmación ha sido enviado a eso dirección de email"
+msgstr "Un correo de confirmación se envió a su dirección"
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr "Esa dirección de email no existe"
+msgstr "Esa dirección de correo no existe. Corríjala, o cree una nueva cuenta"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr "Seleccione su proveedor de cuentas"
+msgstr "Seleccione su proveedor de acceso"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr "Ingresar con:"
+msgstr "Conectarse con"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
@@ -1359,29 +1359,29 @@ msgstr ""
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr "Crear cuenta"
+msgstr "Crear una cuenta"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr "Crear cuenta"
+msgstr "Crear una cuenta"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %s. To confirm your email address, please go to "
 "the following URL: %s"
-msgstr "Gracias por crear su cuenta en %s. Para confirmar su dirección de email, por favor siga este link: %s"
+msgstr "Creamos una cuenta como %s. Para confirmarla por favor diríjase a esta URL: %s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr "Confirmación de nueva cuenta"
+msgstr "Confirmación"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr "Cree una cuenta, o contáctese con el administrador para crearla"
+msgstr "Cree una cuenta para tener acceso a más funciones"
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1488,7 +1488,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr "Debe confirmar su dirección de email para ingresar. Puede solicitar un nuevo email de confirmación debajo"
+msgstr "Su dirección de email debe estar verificada para que pueda ingresar. Si no encuentra el email de verifición, puede pedir uno nuevo."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1498,7 +1498,7 @@ msgstr "Nombre"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr "Reportes cercanos"
+msgstr "Reporte Cercano"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1548,7 +1548,7 @@ msgstr ""
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr "No hay checkins"
+msgstr "No hay checkins para mostrar"
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
@@ -2478,7 +2478,7 @@ msgstr ""
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "No tiene ningún distintivo asignado"
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2821,7 +2821,7 @@ msgstr "Usuario"
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr "Administrador Ushahidi"
+msgstr "Administrador del sistema"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
