@@ -35,4 +35,53 @@ $lang = array(
 		'abbv' => '三',
 		'full' => '星期三',
 	) ,
+	'january' => array(
+		'abbv' => '一月',
+		'full' => '一月',
+	) ,
+	'february' => array(
+		'abbv' => '二月',
+		'full' => '二月',
+	) ,
+	'march' => array(
+		'abbv' => '三月',
+		'full' => '三月',
+	) ,
+	'april' => array(
+		'abbv' => '四月',
+		'full' => '四月',
+	) ,
+	'may' => array(
+		'abbv' => '五月',
+		'full' => '五月',
+	) ,
+	'june' => array(
+		'abbv' => '六月',
+		'full' => '六月',
+	) ,
+	'july' => array(
+		'abbv' => '七月',
+		'full' => '七月',
+	) ,
+	'august' => array(
+		'abbv' => '八月',
+		'full' => '八月',
+	) ,
+	'september' => array(
+		'abbv' => '九月',
+		'full' => '九月',
+	) ,
+	'october' => array(
+		'abbv' => '十月',
+		'full' => '十月',
+	) ,
+	'november' => array(
+		'abbv' => '十一月',
+		'full' => '十一月',
+	) ,
+	'december' => array(
+		'abbv' => '十二月',
+		'full' => '十二月',
+	)
 );
+?>

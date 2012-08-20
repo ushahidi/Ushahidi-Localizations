@@ -6,5 +6,6 @@
 // PO revision date:  2012-07-12 21:31+0000
 $lang = array(
 	'error' => '数据库错误：%s',
-	'table_not_found' => '无法在数据库中找到表"%s"。请确认您正在使用Ushahidi该版本中最新版本的数据库。',
+	'table_not_found' => '无法在数据库中找到表"%s"。请确认您正在使用 Ushahidi 最新版本中的数据库。',
 );
+?>

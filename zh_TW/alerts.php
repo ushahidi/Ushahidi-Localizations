@@ -11,6 +11,9 @@ $lang = array(
 		'length' => '電子郵件信箱必須在4~64字元之間',
 		'required' => '如果勾選了電子信箱，則電子信箱為必填',
 	) ,
+	'alert_country' => array(
+		'single_country' => '您報告的事件地點跨越了本網站部署的國家範圍。請確保事件地點是在 %s 國家或地區範圍內.'
+	) ,
 	'alert_lat' => array(
 		'between' => '請在地圖上選擇正確的地點',
 		'required' => '請在地圖上選擇正確的地點',
@@ -30,6 +33,10 @@ $lang = array(
 		'in_array' => '請在地圖上設定你欲選擇的半徑範圍',
 		'required' => '請在地圖上設定你欲選擇的半徑範圍',
 	) ,
+	'alert_recipient' => array(
+		'required' => '您還沒有設置一個收件人，用來接收本站發布的警示信息。'
+	) ,
+	'alerts_subscribed' => '您已訂閱了本站以下類別的事件報導的警示信息',
 	'code_already_verified' => '這組認證碼已經被使用過',
 	'code_not_found' => '請確認已輸入正確的認證碼',
 	'code_verified' => '認證已經完成，當所選擇的地點有通報事件時,您將會收到通知',
@@ -39,10 +46,12 @@ $lang = array(
 	'email_code' => '請輸入以下電子信箱所收到的認證碼',
 	'email_error_head' => '您的電子信箱事件通知申請並未被儲存!',
 	'email_ok_head' => '您的電子信箱事件通知申請已經被儲存!',
+	'error' => '系統不能處理您的驗證請求!',
 	'mobile_alert_request_created' => '認證申請已完成，認證碼訊息已經送至 ',
 	'mobile_code' => '請輸入以下手機號碼所收到的簡訊認證碼',
 	'mobile_error_head' => '您的手機簡訊事件通知申請並未被儲存',
 	'mobile_ok_head' => '您的手機簡訊事件通知申請已經被儲存',
+	'settings_error' => '系統配置不正確，導致不能處理警示信息',
 	'unsubscribe' => '收到這個訊息是由於您曾經設定事件通知。如果你不想收到事件通知，請到 ',
 	'unsubscribed' => '您將不會再收到事件通知 ',
 	'unsubscribe_failed' => '系統無法處理取消事件通知。請確認已輸入正確的網址',

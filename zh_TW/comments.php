@@ -8,6 +8,7 @@ $lang = array(
 	'captcha' => array(
 		'default' => '請輸入有效的安全碼',
 		'required' => '請輸入安全碼',
+		'valid' => '輸入了錯誤的驗證碼',
 	) ,
 	'comment_author' => array(
 		'length' => '名字至少為3個字元',
