@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-13 04:52+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:01+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,64 +18,64 @@ msgstr ""
 #: form.field_default.default
 msgctxt "form.field_default.default"
 msgid "The default value you have provided for the field is invalid."
-msgstr ""
+msgstr "您提供的该字段的默认值是无效的。"
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 200 characters long."
-msgstr "长度应为3至200个字符"
+msgstr "字段长度为3至200个字符。"
 
 #: form.field_height.between
 msgctxt "form.field_height.between"
 msgid "Please enter a value 0 to 50 for the Field Height."
-msgstr "请选择属性输入框高度，须在0到50之间"
+msgstr "请设置字段控件的高度为0到50之间的值。"
 
 #: form.field_isdate.between
 msgctxt "form.field_isdate.between"
 msgid "You have entered an invalid value for Date Field."
-msgstr "你输入的日期格式不正确"
+msgstr "请在日期字段输入正确的日期。"
 
 #: form.field_isdate.required
 msgctxt "form.field_isdate.required"
 msgid "Please select Yes or No for the Date Field."
-msgstr "请选择是否为必填项"
+msgstr "选择是为必填项，否为非必填"
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 100 characters long."
-msgstr "名称的长度应为3至100个字符"
+msgstr "字段名称的长度应为3至100个字符"
 
 #: form.field_name.required
 msgctxt "form.field_name.required"
 msgid "Please enter Field Name."
-msgstr "请输入属性名称"
+msgstr "请输入字段名称"
 
 #: form.field_required.between
 msgctxt "form.field_required.between"
 msgid "You have entered an invalid value for Field Required."
-msgstr "你输入的内容格式不正确"
+msgstr "您输入了不符合字段格式要求的内容。"
 
 #: form.field_required.required
 msgctxt "form.field_required.required"
 msgid "Please select Yes or No for Field Required."
-msgstr "请选择是否为必填项"
+msgstr "选择是为必填项，否为非必填"
 
 #: form.field_type.numeric
 msgctxt "form.field_type.numeric"
 msgid "Please select a valid Field Type."
-msgstr "请选择一个有效的类型"
+msgstr "请选择一个有效的字段类型"
 
 #: form.field_type.required
 msgctxt "form.field_type.required"
 msgid "Please select a Field Type."
-msgstr "请选择属性类型"
+msgstr "请选择字段类型"
 
 #: form.field_width.between
 msgctxt "form.field_width.between"
 msgid "Please enter a value 0 to 300 for the Field Width."
-msgstr "请选择属性输入框长度，须在0到300之间"
+msgstr "请设置字段控件的长度为0到50之间的值。"
 
 #: form.form_description.required
 msgctxt "form.form_description.required"
@@ -90,12 +90,12 @@ msgstr "默认表单不能删除"
 #: form.form_id.numeric
 msgctxt "form.form_id.numeric"
 msgid "Please select which form to add this field to."
-msgstr "请选择要添加的表单"
+msgstr "请选择要添加字段的表单"
 
 #: form.form_id.required
 msgctxt "form.form_id.required"
 msgid "Please select which form to add this field to."
-msgstr "请选择要添加的表单"
+msgstr "请选择要添加字段的表单"
 
 #: form.form_title.length
 msgctxt "form.form_title.length"

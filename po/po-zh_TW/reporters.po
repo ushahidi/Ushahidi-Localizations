@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:14+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 02:59+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -30,12 +30,12 @@ msgstr "緯度欄位為必填，請在地圖上點選一個位置."
 #: reporters.level_id.numeric
 msgctxt "reporters.level_id.numeric"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr "The Reporter Level field does not appear to contain a valid Level?"
+msgstr "報告者等級無效"
 
 #: reporters.level_id.required
 msgctxt "reporters.level_id.required"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr "The Reporter Level field does not appear to contain a valid Level?"
+msgstr "報告者等級無效"
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
@@ -63,9 +63,9 @@ msgstr "經度欄位為必填，請在地圖上點選一個位置."
 #: reporters.reporter_id.numeric
 msgctxt "reporters.reporter_id.numeric"
 msgid "Invalid Reporter"
-msgstr ""
+msgstr "無效的報告者"
 
 #: reporters.reporter_id.required
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
-msgstr ""
+msgstr "無效的報告者"

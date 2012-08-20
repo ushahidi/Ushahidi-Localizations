@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:45+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:01+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: notifications.admin_footer
 msgctxt "notifications.admin_footer"
 msgid "This message was sent from your website."
-msgstr "该信息已发往您的网站"
+msgstr "这些信息是从您的网站发出的。"
 
 #: notifications.admin_login_url
 msgctxt "notifications.admin_login_url"
@@ -28,7 +28,7 @@ msgstr "管理员登录"
 #: notifications.admin_new_comment.message
 msgctxt "notifications.admin_new_comment.message"
 msgid "A new comment has been submitted to your website in response to:"
-msgstr "新的评论已提交至您的网站。关于："
+msgstr "有新的评论,回应："
 
 #: notifications.admin_new_comment.subject
 msgctxt "notifications.admin_new_comment.subject"
@@ -38,27 +38,27 @@ msgstr "新的评论"
 #: notifications.admin_new_email.message
 msgctxt "notifications.admin_new_email.message"
 msgid "A new email message has been submitted to your website."
-msgstr "新的电子邮件消息已提交至您的网站"
+msgstr "有新的邮件"
 
 #: notifications.admin_new_email.subject
 msgctxt "notifications.admin_new_email.subject"
 msgid "New Email Message"
-msgstr "新的电子邮件消息"
+msgstr "新的邮件"
 
 #: notifications.admin_new_report.message
 msgctxt "notifications.admin_new_report.message"
 msgid "A new report has been submitted to your website."
-msgstr "新的报告已提交至您的网站"
+msgstr "有新的事件报告"
 
 #: notifications.admin_new_report.subject
 msgctxt "notifications.admin_new_report.subject"
 msgid "New Report"
-msgstr "新的报告"
+msgstr "新的事件"
 
 #: notifications.admin_new_sms.message
 msgctxt "notifications.admin_new_sms.message"
 msgid "A new text message has been submitted to your website."
-msgstr "新的文本消息已提交至您的网站"
+msgstr "有新的文本消息"
 
 #: notifications.admin_new_sms.subject
 msgctxt "notifications.admin_new_sms.subject"
@@ -68,24 +68,24 @@ msgstr "新的文本消息"
 #: notifications.member_new_alert.message
 msgctxt "notifications.member_new_alert.message"
 msgid "You Have Received a New Alert"
-msgstr ""
+msgstr "您收到了一个事件警示。"
 
 #: notifications.member_new_alert.subject
 msgctxt "notifications.member_new_alert.subject"
 msgid "New Alert!"
-msgstr ""
+msgstr "新的警示!"
 
 #: notifications.member_new_message.message
 msgctxt "notifications.member_new_message.message"
 msgid "You Have Received a Private Message"
-msgstr ""
+msgstr "您收到了一个私信。"
 
 #: notifications.member_new_message.subject
 msgctxt "notifications.member_new_message.subject"
 msgid "New Private Message"
-msgstr ""
+msgstr "新的私信!"
 
 #: notifications.member_new_message.footer
 msgctxt "notifications.member_new_message.footer"
 msgid "To Reply Please Go To: "
-msgstr ""
+msgstr "回复请转到："

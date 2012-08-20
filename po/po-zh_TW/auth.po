@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:12+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 02:57+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -87,29 +87,29 @@ msgstr ""
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "密碼必須為5~16個字元"
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "請確認你已輸入正確的密碼."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "請在兩個密碼欄位中輸入一樣的密碼."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "密碼為必填欄位."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "密碼只能由字母，數字和符號#，@，_以及-組成"
 
 #: auth.password.default
 msgctxt "auth.password.default"
@@ -146,7 +146,7 @@ msgctxt "auth.password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "密碼只能由字母，數字和符號#，@，_以及-組成"
 
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
@@ -171,12 +171,12 @@ msgstr "email欄位為必填"
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "只有超級管理員可以修改超級管理員或升級用戶到管理員."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
 msgid "Invalid role format."
-msgstr ""
+msgstr "無效的角色."
 
 #: auth.roles.length
 msgctxt "auth.roles.length"
@@ -201,7 +201,7 @@ msgstr "管理者權限無法被修改"
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "公告頁面的URL網址地址只能包含數字和字母."
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
@@ -233,4 +233,4 @@ msgstr "超級管理者權限無法被修改"
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "可能的的CSRF（跨站請求偽造）攻擊。你真的要建立/編輯用戶?"

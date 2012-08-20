@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:13+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 02:58+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -30,12 +30,12 @@ msgctxt "layer.layer_file.type"
 msgid ""
 "The file field does not appear to contain a valid file. The only accepted "
 "formats are .KMZ and .KML."
-msgstr "The file field does not appear to contain a valid file. The only accepted formats are .KMZ, .KML."
+msgstr "文件地址不包含有效的文件。只接受.KMZ，.KML類型的文件"
 
 #: layer.layer_file.valid
 msgctxt "layer.layer_file.valid"
 msgid "The file field does not appear to contain a valid file"
-msgstr ""
+msgstr "文件地址不包含有效的文件"
 
 #: layer.layer_name.length
 msgctxt "layer.layer_name.length"
@@ -55,7 +55,7 @@ msgstr "請至少輸入KML Url 或File"
 #: layer.layer_url.both
 msgctxt "layer.layer_url.both"
 msgid "You can't have both a KML file and a URL."
-msgstr "You can't have both a KML file and a url"
+msgstr "你無法同時使用一個KML文件和URL鏈接"
 
 #: layer.layer_url.url
 msgctxt "layer.layer_url.url"

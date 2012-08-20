@@ -1,19 +1,15 @@
-# 
-# Translators:
+#. extracted from en_US/sharing.php, zh_TW/sharing.php
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
-"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-17 21:59+0000\n"
-"Last-Translator: ushbot <henry@ushahidi.com>\n"
-"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-20 02:52+0000\n"
+"PO-Revision-Date: 2012-08-20 02:52+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
-"Plural-Forms: nplurals=1; plural=0\n"
 "X-Generator: ushahidi-i18n-manager\n"
+"Language: zh_TW\n"
 
 #: sharing.date
 msgctxt "sharing.date"
@@ -69,3 +65,4 @@ msgstr "網址欄位為必填."
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
 msgstr "網址欄位顯示包含無效資料?"
+

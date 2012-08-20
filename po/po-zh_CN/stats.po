@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:52+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:02+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +18,12 @@ msgstr ""
 #: stats.approved
 msgctxt "stats.approved"
 msgid "Approved"
-msgstr "已准许"
+msgstr "已核准"
 
 #: stats.categories
 msgctxt "stats.categories"
 msgid "Categories"
-msgstr "分类"
+msgstr "类别"
 
 #: stats.category_impact
 msgctxt "stats.category_impact"
@@ -98,32 +98,32 @@ msgstr "访问者在您的网站上访问页面的总数量"
 #: stats.reports
 msgctxt "stats.reports"
 msgid "Reports"
-msgstr "报道"
+msgstr "事件报告"
 
 #: stats.reports_categories
 msgctxt "stats.reports_categories"
 msgid "Reports Categories"
-msgstr "报道类型"
+msgstr "事件类型"
 
 #: stats.reports_statistics
 msgctxt "stats.reports_statistics"
 msgid "Reports Statistics"
-msgstr "报道数据"
+msgstr "报告数据"
 
 #: stats.reports_status
 msgctxt "stats.reports_status"
 msgid "Reports Status"
-msgstr "报道状态"
+msgstr "报告状态"
 
 #: stats.report_punchcard
 msgctxt "stats.report_punchcard"
 msgid "Report Punchcard"
-msgstr "报道穿孔卡"
+msgstr "事件报告穿孔卡"
 
 #: stats.report_stats
 msgctxt "stats.report_stats"
 msgid "Report Stats"
-msgstr "报道数据"
+msgstr "报告数据"
 
 #: stats.stats_not_setup
 msgctxt "stats.stats_not_setup"
@@ -153,7 +153,7 @@ msgstr "全部"
 #: stats.unapproved
 msgctxt "stats.unapproved"
 msgid "Unapproved"
-msgstr "未批准的"
+msgstr "未核准"
 
 #: stats.unique_visitors
 msgctxt "stats.unique_visitors"
@@ -167,17 +167,17 @@ msgid ""
 "determined using cookies. Visitors that do not have cookies enabled will be "
 "identified using a simple heuristic taking into account IP address, "
 "resolution, browser, plugins, OS, etc."
-msgstr "访问您的页面的人数；独立访问者的身份标识为其浏览器cookie。如果来访者没有使用cookie，将通过IP地址、协议、浏览器、插件、操作系统等方式来验证其身份。"
+msgstr "访问您的页面的人数；独立访问者的身份标识为其浏览器 cookie。如果来访者没有使用 cookie，将通过IP地址、协议、浏览器、插件、操作系统等方式来验证其身份。"
 
 #: stats.unverified
 msgctxt "stats.unverified"
 msgid "Unverified"
-msgstr "未验证的"
+msgstr "未验证"
 
 #: stats.verified
 msgctxt "stats.verified"
 msgid "Verified"
-msgstr "已验证的"
+msgstr "已验证"
 
 #: stats.visitor_summary
 msgctxt "stats.visitor_summary"

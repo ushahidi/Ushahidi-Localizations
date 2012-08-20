@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:25+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:00+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -28,17 +28,17 @@ msgstr "请输入验证码"
 #: bug.email.email
 msgctxt "bug.email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr "邮件地址格式不正确"
+msgstr "电子邮箱地址格式不正确"
 
 #: bug.email.length
 msgctxt "bug.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr "邮件地址长度须在4至64个字符之间"
+msgstr "电子邮箱地址长度须在4至64个字符之间"
 
 #: bug.email.required
 msgctxt "bug.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "打钩将邮件地址设为必填项"
+msgstr "打钩则电子邮箱地址为必填项"
 
 #: bug.error.required
 msgctxt "bug.error.required"
@@ -48,7 +48,7 @@ msgstr "错误信息是必填项"
 #: bug.subject.length
 msgctxt "bug.subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr "标题长度须不少于3个字母"
+msgstr "标题长度须不少于3个字符"
 
 #: bug.subject.required
 msgctxt "bug.subject.required"
@@ -58,9 +58,9 @@ msgstr "标题是必填项"
 #: bug.yourname.length
 msgctxt "bug.yourname.length"
 msgid "The name field must be at least 3 characters long."
-msgstr "姓名长度须不少于3个字母"
+msgstr "用户名长度须不少于3个字符"
 
 #: bug.yourname.required
 msgctxt "bug.yourname.required"
 msgid "The name field is required."
-msgstr "姓名是必填项"
+msgstr "用户名是必填项"

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:14+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 02:59+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -18,17 +18,17 @@ msgstr ""
 #: stats.approved
 msgctxt "stats.approved"
 msgid "Approved"
-msgstr ""
+msgstr "已核准"
 
 #: stats.categories
 msgctxt "stats.categories"
 msgid "Categories"
-msgstr ""
+msgstr "分類"
 
 #: stats.category_impact
 msgctxt "stats.category_impact"
 msgid "Category Impact"
-msgstr ""
+msgstr "分類影響"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
@@ -36,129 +36,129 @@ msgid ""
 "This chart gives you a linear view of the reports by category over time.  "
 "Scroll from left to right to see a comparative view of the different "
 "categories. Mouse over the graph for more details."
-msgstr "This chart gives you a linear view of the reports by category over time.  Scroll from left to right to see a comparative view of the different categories. Mouse over the graph for more details"
+msgstr "您可以在該表格中看到各類別的報告量隨時間變化的情況。從左到右拖動滾動條可以看到不同分類的情況。將鼠標移到圖片上可以查看詳情。"
 
 #: stats.choose_date_range
 msgctxt "stats.choose_date_range"
 msgid "Choose a date range."
-msgstr "Choose a date range"
+msgstr "選擇日期範圍"
 
 #: stats.countries
 msgctxt "stats.countries"
 msgid "Countries"
-msgstr ""
+msgstr "國別"
 
 #: stats.country
 msgctxt "stats.country"
 msgid "Country"
-msgstr ""
+msgstr "國家"
 
 #: stats.country_breakdown
 msgctxt "stats.country_breakdown"
 msgid "Country Breakdown"
-msgstr ""
+msgstr "國家分佈"
 
 #: stats.description
 msgctxt "stats.description"
 msgid ""
 "This is the statistics section and will contain a general description here "
 "soon. For now, browse around using the sub category links above."
-msgstr "Hello, this is the statistics section. General description going here soon. For now, browse around using the sub category links above"
+msgstr "您好，這是數據部分。總體描述將隨後放出。現在，您可以在上面的分類鏈接中訪問其他頁面"
 
 #: stats.error
 msgctxt "stats.error"
 msgid "Error"
-msgstr ""
+msgstr "錯誤"
 
 #: stats.glossary
 msgctxt "stats.glossary"
 msgid "Glossary"
-msgstr ""
+msgstr "術語表"
 
 #: stats.hit_summary
 msgctxt "stats.hit_summary"
 msgid "Hit Summary"
-msgstr ""
+msgstr "點擊統計"
 
 #: stats.legend
 msgctxt "stats.legend"
 msgid "Legend"
-msgstr ""
+msgstr "圖例"
 
 #: stats.pageviews
 msgctxt "stats.pageviews"
 msgid "Pageviews"
-msgstr ""
+msgstr "頁面訪問"
 
 #: stats.pageviews_description
 msgctxt "stats.pageviews_description"
 msgid "The total number of pages that visitors have viewed on your site"
-msgstr ""
+msgstr "訪問者在您的網站上訪問頁面的總數量"
 
 #: stats.reports
 msgctxt "stats.reports"
 msgid "Reports"
-msgstr ""
+msgstr "事件報告"
 
 #: stats.reports_categories
 msgctxt "stats.reports_categories"
 msgid "Reports Categories"
-msgstr ""
+msgstr "事件分類"
 
 #: stats.reports_statistics
 msgctxt "stats.reports_statistics"
 msgid "Reports Statistics"
-msgstr ""
+msgstr "報告數據"
 
 #: stats.reports_status
 msgctxt "stats.reports_status"
 msgid "Reports Status"
-msgstr ""
+msgstr "報告狀態"
 
 #: stats.report_punchcard
 msgctxt "stats.report_punchcard"
 msgid "Report Punchcard"
-msgstr ""
+msgstr "事件報告穿孔卡"
 
 #: stats.report_stats
 msgctxt "stats.report_stats"
 msgid "Report Stats"
-msgstr ""
+msgstr "報告數據"
 
 #: stats.stats_not_setup
 msgctxt "stats.stats_not_setup"
 msgid "Stats Not Set Up"
-msgstr ""
+msgstr "數據未確定"
 
 #: stats.time_range_1
 msgctxt "stats.time_range_1"
 msgid "1 Month"
-msgstr ""
+msgstr "1個月"
 
 #: stats.time_range_2
 msgctxt "stats.time_range_2"
 msgid "3 Months"
-msgstr ""
+msgstr "3個月"
 
 #: stats.time_range_3
 msgctxt "stats.time_range_3"
 msgid "6 Months"
-msgstr ""
+msgstr "6個月"
 
 #: stats.time_range_all
 msgctxt "stats.time_range_all"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: stats.unapproved
 msgctxt "stats.unapproved"
 msgid "Unapproved"
-msgstr ""
+msgstr "未核准"
 
 #: stats.unique_visitors
 msgctxt "stats.unique_visitors"
 msgid "Unique Visitors"
-msgstr ""
+msgstr "獨立訪問者"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
@@ -167,31 +167,31 @@ msgid ""
 "determined using cookies. Visitors that do not have cookies enabled will be "
 "identified using a simple heuristic taking into account IP address, "
 "resolution, browser, plugins, OS, etc."
-msgstr "The number of individuals coming to your deployment; Unique Visitors are determined using cookies. In the case that a visitor does not have cookies enabled, they will be identified using a simple heuristic taking into account IP address, resolution, browser, plugins, OS, etc"
+msgstr "訪問您的頁面的人數；獨立訪問者的身份標識為其瀏覽器cookie。如果來訪者沒有使用cookie，將通過IP地址、協議、瀏覽器、插件、操作系統等方式來驗證其身份。"
 
 #: stats.unverified
 msgctxt "stats.unverified"
 msgid "Unverified"
-msgstr "未確認"
+msgstr "未驗證"
 
 #: stats.verified
 msgctxt "stats.verified"
 msgid "Verified"
-msgstr "已確認"
+msgstr "已驗證"
 
 #: stats.visitor_summary
 msgctxt "stats.visitor_summary"
 msgid "Visitor Summary"
-msgstr ""
+msgstr "訪客總數"
 
 #: stats.visits
 msgctxt "stats.visits"
 msgid "Visits"
-msgstr ""
+msgstr "訪問數"
 
 #: stats.visits_description
 msgctxt "stats.visits_description"
 msgid ""
 "A visit is a record of a unique visitor coming to the site more than 30 "
 "minutes past his/her last pageview."
-msgstr "A visit is a record of a unique visitor coming to the site more than 30 minutes past his/her last pageview"
+msgstr "在最後一次頁面訪問以後30分鐘後重新登錄的獨立訪問者將被視為一次新的訪問"

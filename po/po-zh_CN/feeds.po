@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-13 04:50+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:00+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -25,27 +25,27 @@ msgctxt "feeds.feed_name.length"
 msgid ""
 "The feed name field must be at least 3 and no more \n"
 "\t\t\t70 characters long."
-msgstr "源名称的长度应在3至70个字符之间"
+msgstr "RSS 名称的长度应在3至70个字符之间"
 
 #: feeds.feed_name.required
 msgctxt "feeds.feed_name.required"
 msgid "Please enter the name of the feed."
-msgstr "请输入源的名称"
+msgstr "请输入RSS的名称"
 
 #: feeds.feed_url.required
 msgctxt "feeds.feed_url.required"
 msgid "Please enter feed's URL."
-msgstr "请输入源的地址"
+msgstr "请输入 RSS 的源地址"
 
 #: feeds.feed_url.url
 msgctxt "feeds.feed_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
-msgstr "请输入一个正确的 URL。比如：http://www.ushahidi.com"
+msgstr "请输入一个正确的URL。比如：http://www.ushahidi.com"
 
 #: feeds.source
 msgctxt "feeds.source"
 msgid "SOURCE"
-msgstr "源"
+msgstr "来源"
 
 #: feeds.title
 msgctxt "feeds.title"

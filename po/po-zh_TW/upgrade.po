@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:14+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 02:59+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "自動更新"
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "可用的更新"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
@@ -38,29 +38,29 @@ msgstr "繼續"
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr "更新"
+msgstr "升級"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr ""
+msgstr "我們將把您的數據庫從版本"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr ""
+msgstr "升級至新的版本"
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
 msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
-msgstr "Click on the \"Upgrade\" button and just chilax as I perform the magic."
+msgstr "點擊“升級”按鈕，在我們升級的過程中您可以放鬆一下。"
 
 #: upgrade.upgrade_db_text_4
 msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr ""
+msgstr "如果您希望我們為您備份數據庫，只需要選中下面的可選框，就可以輕鬆備份了"
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
@@ -72,7 +72,7 @@ msgstr "更新前要備份資料庫嗎？ (<strong style=\"color:#FF0000;\">強�
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
 msgid "Ushahidi database upgrade"
-msgstr "Ushahidi資料庫更新"
+msgstr "Ushahidi 資料庫更新"
 
 #: upgrade.upgrade_db_info
 msgctxt "upgrade.upgrade_db_info"
@@ -89,34 +89,34 @@ msgstr ""
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
 msgid "Upgrade failed at some point"
-msgstr "更新發生問題"
+msgstr "升級失敗"
 
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "手動升級"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr "Ushahidi更新狀態"
+msgstr "Ushahidi 升級狀態"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
 msgid ""
 "The instructions below detail how to manually upgrade your Ushahidi "
 "deploymentl"
-msgstr "The instructions below details how to manually upgrade your Ushahidi deployment"
+msgstr "下面的說明細節如何手動升級你的 Ushahidi 部署程序"
 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr "<strong>Step 1:</strong> Download the most recent ushahidi build from <a href=\"http://download.ushahidi.com/\">http://download.ushahidi.com</a>"
+msgstr "<dl><dt><strong>下載</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr "<strong>Step 2:</strong> Depending on the operating system running the web server, use your preferred tool/mode (i.e: telnet, ftp, ssh) to login to the webserver and replace the contents of all the folders with the newest from the recent build. <strong>All EXCEPT:</strong>"
+msgstr "<dd>- 下載最新的 Ushahidi，"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -137,7 +137,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button to upgrade the necessary tables."
+msgstr "<dt><strong>備份</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- 只是以防萬一, 建議，整個備份 Ushahidi 當前的配置。</dd><dt><strong>複製文件</strong></dt><dd>- 解壓縮下載的文件</dd><dd>- 根据不同的服务器系统，使用您的首选工具/模式(例如 Telnet, FTP, SSH) 登錄到服務器和更換內容的所有文件夾與最新的構建。</dd><dt><strong>升級數據庫</strong></dt><dd>- 首先確定你的數據庫架構版本, 在配置表中的 <strong>db_version</strong> 值或在本頁面最上面查看Ushahidi升級信息。 </dd><dd>- 如果你的版本是version 25, 你需要從25-26, 26-27, 27-28 依次更新到最新的SQL <strong>/sql</strong> 目錄。</dd><dd>- 同時，數據庫客戶端也要通過執行upgradex-x.sql 文件更新。</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -145,19 +145,19 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong>步驟 3:</strong> 查看 <strong>sql</strong> 文件夾，手動運行 upgrade<xx>-<xx>.sql 文件開始從當前數據庫版本更新。"
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr "For automatic upgrade, click on the button below."
+msgstr "<strong>步驟 4:</strong> 點擊 <strong>\"繼續\"</strong> 按鈕更新所需要的數據表。"
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "要自動更新，請點擊下面的按鈕。"
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
@@ -168,34 +168,34 @@ msgstr ""
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "正在升級"
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "繼續簡易升級，要求提供登陸網站託管主機FTP服務器的下列信息，"
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "FTP 主機名: <span>Example: \"localhost\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "FTP 密碼:"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "FTP 賬戶:"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "您已經更新到最新版本 Ushahidi。"
 
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
@@ -205,22 +205,22 @@ msgstr ""
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "數據庫版本: "
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "警告：version.php中的軟件版本和數據庫版本不匹配。"
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "警告：version.php中的數據庫版本與數據庫不匹配"
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "數據庫:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"

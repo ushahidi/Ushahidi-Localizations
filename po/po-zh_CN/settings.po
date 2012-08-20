@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:11+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:02+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -38,12 +38,12 @@ msgstr "包括反馈为必选项"
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "允许警示字段似乎并不包含一个有效的值"
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "允许警示字段为必填项。"
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -53,7 +53,7 @@ msgstr "允许报告栏格式错误"
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr "允许报告为必选项"
+msgstr "允许报告为必填项"
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
@@ -83,22 +83,22 @@ msgstr "每个IP地址最大的API请求数量"
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr "Akismet栏格式错误"
+msgstr "Akismet 栏格式错误"
 
 #: settings.api_akismet.length
 msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr "Akismet栏格式错误"
+msgstr "Akismet 栏格式错误"
 
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "您的横幅图片上传错误"
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "横幅的大小超过此上传大小限制。"
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -129,14 +129,14 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "您的服务器看起来配置为非简洁链接。您将需要更改您的服务器的配置，才可以启用简洁链接。更多信息请参阅如何启用简洁链接的 <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">这个论坛的帖子</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr ""
+msgstr "此选项使 Ushahidi 通过简洁链接的网址（不包括“index.php”的 URL 中）访问。"
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
@@ -151,34 +151,34 @@ msgstr "清除链接"
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr "Clickatell API号码不得长于20个字符"
+msgstr "Clickatell API 号码不得长于20个字符"
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr "Clickatell API号码为必填项"
+msgstr "Clickatell API 号码为必填项"
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "Clickatell密码长度须在5到50个字符之间"
+msgstr "Clickatell 密码长度须在5到50个字符之间"
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr "Clickatell密码为必填项"
+msgstr "Clickatell 密码为必填项"
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr "Clickatell用户名不得长于50个字符"
+msgstr "Clickatell 用户名不得长于50个字符"
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr "Clickatell用户名为必填项"
+msgstr "Clickatell 用户名为必填项"
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
@@ -275,14 +275,14 @@ msgstr "邮件服务器用户名为必填项"
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Facebook 安装选项"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "要获取信息，您将需要创建一个新的 Facebook 的应用"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -299,26 +299,26 @@ msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr "Google Analytics中必须包含有效的网站内容ID，格式为UA-XXXXX-XX"
+msgstr "Google Analytics 中必须包含有效的网站内容 ID，格式为UA-XXXXX-XX"
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "启用 HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "该选项使 Ushahidi 以不安全的模式访问；<strong>不包括</strong> \"https://\" URL 前缀"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "该选项使 Ushahidi 以安全的模式访问；<strong>包括</strong> \"https://\" URL 前缀"
 
 #: settings.https.title
 msgctxt "settings.https.title"
@@ -353,7 +353,7 @@ msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr "设置地图提供商的过程非常简单。选择提供商，从提供商的网站获得API密匙，然后输入该密匙即可。"
+msgstr "设置地图提供商的过程非常简单。选择提供商，从提供商的网站获得 API 密匙，然后输入该密匙即可。"
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
@@ -368,19 +368,19 @@ msgstr "选择地图提供商"
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
-msgstr "输入新的API密匙"
+msgstr "输入新的 API 密匙"
 
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr "获得API密匙"
+msgstr "获得 API 密匙"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr "设置地图提供商的过程非常简单。选择提供商，从提供商的网站获得API密匙，然后输入该密匙即可。"
+msgstr "设置地图提供商的过程非常简单。选择提供商，从提供商的网站获得 API 密匙，然后输入该密匙即可。"
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
@@ -400,7 +400,7 @@ msgstr "地图设置"
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr "该Ushahidi布署是否跨越多个国家"
+msgstr "该 Ushahidi 布署是否跨越多个国家"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -425,12 +425,12 @@ msgstr "允许所有用户对报告进行评论"
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr "包括网站上的RSS新闻源"
+msgstr "包括网站上的 RSS 新闻源"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "允许用户订阅事件报告警示"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -440,17 +440,17 @@ msgstr "允许用户提交报告"
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
-msgstr "Akismet密匙"
+msgstr "Akismet 密匙"
 
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "网站横幅"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "块数每行"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
@@ -465,7 +465,7 @@ msgstr "缓存页保存时间"
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "启用签入"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -480,17 +480,17 @@ msgstr "为所有分类采用默认颜色"
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "类别的默认图标"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "删除横幅图片"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "删除默认图标"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -500,12 +500,12 @@ msgstr "显示联系页面"
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "显示 \"帮助\" 页"
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr "提醒邮件地址"
+msgstr "事件报告警示邮件地址"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -522,7 +522,7 @@ msgstr "网站电子邮件地址"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "谷歌分析"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -546,17 +546,17 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
+msgstr "防止垃圾评论使用 <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> 自动处理. <BR />你可以得到免费的密钥注册一个 <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com 用户账户</a>"
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr "Laconica证书"
+msgstr "Laconica 证书"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr "Laconica网站"
+msgstr "Laconica 网站"
 
 #: settings.site.language
 msgctxt "settings.site.language"
@@ -566,7 +566,7 @@ msgstr "网站语言"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "手动批准用户"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -586,17 +586,17 @@ msgstr "隐私设置"
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "需要用户的电子邮件确认"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "提交事件报告的信息"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr "允许数据存储在Ushahidi的服务器"
+msgstr "允许数据存储在 Ushahidi 的服务器"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
@@ -606,7 +606,7 @@ msgstr "网站标签"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "时区"
 
 #: settings.site.title
 msgctxt "settings.site.title"
@@ -616,12 +616,12 @@ msgstr "网站设置"
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
 msgid "Twitter Search Terms"
-msgstr "推特搜索关键词"
+msgstr "推特(Twitter)搜索关键词"
 
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
-msgstr "标签，以逗号分隔"
+msgstr "标签，以英文逗号分隔"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
@@ -657,12 +657,12 @@ msgstr "标签栏为必选项"
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
 msgid "Your Clickatell API Number"
-msgstr "您的Clickatell API号码"
+msgstr "您的 Clickatell API 号码"
 
 #: settings.sms.clickatell_check_balance
 msgctxt "settings.sms.clickatell_check_balance"
 msgid "Check Your Clickatell Credit Balance"
-msgstr "查看您的Clickatell帐户余额"
+msgstr "查看您的 Clickatell 帐户余额"
 
 #: settings.sms.clickatell_load_balance
 msgctxt "settings.sms.clickatell_load_balance"
@@ -672,7 +672,7 @@ msgstr "读取帐户余额"
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr "您的Clickatell密码"
+msgstr "您的 Clickatell 密码"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -680,17 +680,17 @@ msgid ""
 "Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
-msgstr "<a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">点击这里</a>注册Clickatell服务"
+msgstr "<a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">点击这里</a>注册 Clickatell 服务"
 
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
 msgid "Enter your Clickatell access information below"
-msgstr "在此输入您的Clickatell登录信息"
+msgstr "在此输入您的 Clickatell 登录信息"
 
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr "您的Clickatell用户名"
+msgstr "您的 Clickatell 用户名"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -700,12 +700,12 @@ msgid ""
 " users to send and receive text messages with large groups of people through"
 " mobile phones. Click on the grey box to request a download from "
 "FrontlineSMS.com"
-msgstr "Frontline SMS是一款免费开源软件，可以将笔记本或移动电话变成中央通讯枢纽。安装该软件之后，便可以通过手机向大量用户发送短信。点击灰色按钮开始从FrontlineSMS.com下载软件。"
+msgstr "Frontline SMS 是一款免费开源软件，可以将笔记本或移动电话变成中央通讯枢纽。安装该软件之后，便可以通过手机向大量用户发送短信。点击灰色按钮开始从 FrontlineSMS.com 下载软件。"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download Frontline SMS and install it on your computer"
-msgstr "下载Frontline SMS并在您的计算机上安装"
+msgstr "下载 Frontline SMS 并在您的计算机上安装"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -715,12 +715,12 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
 "up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
 " require the key and link below to set up the sync with FrontlineSMS"
-msgstr ""
+msgstr "消息接收到 Frontline SMS 集线器可以与同步 Ushahidi。详细说明如何同步可以到<strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">这里</a></strong>. 你将需要重点和下面的链接建立同步Front lineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Your Ushahidi Sync Key"
-msgstr "您的Ushahidi同部密匙"
+msgstr "您的 Ushahidi 同部密匙"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
@@ -735,7 +735,7 @@ msgstr "与Ushahidi同步"
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr "在下方输入连入Frontline SMS的电话号码"
+msgstr "在下方输入连入 Frontline SMS 的电话号码"
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
@@ -745,17 +745,17 @@ msgstr "请输入电话号码，不包含“+”和“-”"
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr "选项1：使用Frontline SMS"
+msgstr "选项1：使用 Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr "选项2：使用Global SMS接口"
+msgstr "选项2：使用 Global SMS 接口"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr "SMS设置选项"
+msgstr "SMS 设置选项"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"

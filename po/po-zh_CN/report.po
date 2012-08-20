@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:48+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:01+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -25,73 +25,73 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "您报告的事件地点跨越了本网站部署的国家范围。请确保事件地点是在Uganda国家或地区范围内."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for one of your custom form items."
-msgstr "请为您的一项客户表单项填入有效值"
+msgstr "请在自定义表单里输入正确的值。"
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr "请选择一个有效的项目下载"
+msgstr "请选择一个有效的项目"
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr "请选择一个有效的项目下载"
+msgstr "请选择一个有效的项目"
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "请选择\"等待核准\"或\"已核准\"这两种状态的报告。"
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "请至少选择一个\"等待核准\"或\"已核准\"这两种状态的报告。"
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "请选择一个\"等待核准\"或\"已核准\"这两种状态的报告。"
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "请选择\"等待验证\"或\"已验证”这两种状态的报告。"
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "请至少选择一个\"等待验证\"或\"已验证”这两种状态的报告。"
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "请选择一个\"等待验证\"或\"已验证”这两种状态的报告。"
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
 msgid "Please select a valid type of report to download."
-msgstr "一个选择有效的报告类型进行下载"
+msgstr "一个选择有效的事件报告类型进行下载"
 
 #: report.data_point.numeric
 msgctxt "report.data_point.numeric"
 msgid "Please select a valid type of report to download."
-msgstr "一个选择有效的报告类型进行下载"
+msgstr "一个选择有效的事件报告类型进行下载"
 
 #: report.data_point.required
 msgctxt "report.data_point.required"
 msgid "Please select a valid type of report to download."
-msgstr "一个选择有效的报告类型进行下载"
+msgstr "一个选择有效的事件报告类型进行下载"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
@@ -106,12 +106,12 @@ msgstr "请选择有效的发件日期。不能晚于今天。"
 #: report.incident_active.between
 msgctxt "report.incident_active.between"
 msgid "Please enter a valid value for Approve This Report"
-msgstr "请为“批准该报告”选择一个有效的值"
+msgstr "请为“核准该事件报告”选择一个有效的值"
 
 #: report.incident_active.required
 msgctxt "report.incident_active.required"
 msgid "Please enter a valid value for Approve This Report"
-msgstr "请为“批准该报告”选择一个有效的值"
+msgstr "请为“核准该事件报告”选择一个有效的值"
 
 #: report.incident_ampm.validvalues
 msgctxt "report.incident_ampm.validvalues"
@@ -121,12 +121,12 @@ msgstr "上午/下午格式不正确"
 #: report.incident_category.numeric
 msgctxt "report.incident_category.numeric"
 msgid "The \"Categories\" field does not appear to contain a valid category."
-msgstr "类型栏格式不正确"
+msgstr "类别栏格式不正确"
 
 #: report.incident_category.required
 msgctxt "report.incident_category.required"
 msgid "The \"Categories\" field is required."
-msgstr "类型为必填项"
+msgstr "类别为必填项"
 
 #: report.incident_date.date_ddmmyyyy
 msgctxt "report.incident_date.date_ddmmyyyy"
@@ -225,7 +225,7 @@ msgstr "标题栏为必填项"
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "可能的CSRF(跨站请求伪造)攻击。你真的要创建/编辑一份报告？"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"

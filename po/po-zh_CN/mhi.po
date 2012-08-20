@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:44+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:01+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -18,22 +18,22 @@ msgstr ""
 #: mhi.contact_captcha.default
 msgctxt "mhi.contact_captcha.default"
 msgid "Please enter a valid security code."
-msgstr "请输入有效的安全码"
+msgstr "请输入有效的验证码"
 
 #: mhi.contact_captcha.required
 msgctxt "mhi.contact_captcha.required"
 msgid "Please enter the security code."
-msgstr "请输入安全码"
+msgstr "请输入验证码"
 
 #: mhi.contact_email.email
 msgctxt "mhi.contact_email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr "邮件地址格式不正确"
+msgstr "电子邮箱地址格式不正确"
 
 #: mhi.contact_email.required
 msgctxt "mhi.contact_email.required"
 msgid "Please provide a valid email address."
-msgstr "请提供有效的电子邮件地址"
+msgstr "请提供有效的电子邮箱地址"
 
 #: mhi.contact_message.required
 msgctxt "mhi.contact_message.required"

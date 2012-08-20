@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:11+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:03+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -69,7 +69,7 @@ msgstr "增加"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "附加数据"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -203,7 +203,7 @@ msgstr "验证我之前的申请"
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr ""
+msgstr "您的提醒已经保存!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -283,7 +283,7 @@ msgstr "作者"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "自动签入"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -308,27 +308,27 @@ msgstr ""
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "获得的徽章"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "徽章图像"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "或者你可以上传你自己的徽章图像。"
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "徽章包"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "选择一个徽章"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -338,7 +338,7 @@ msgstr "博客"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "浏览个人资料"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -378,12 +378,12 @@ msgstr "更改日期范围"
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "更改密码"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "修改图像"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -464,7 +464,7 @@ msgstr "设置"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "您已经成功地确认您的电子邮件地址！请在下面登录。"
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -534,7 +534,7 @@ msgstr "新建"
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "创建新密码"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -549,7 +549,7 @@ msgstr "信誉"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "密码"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
@@ -806,12 +806,12 @@ msgstr "肯尼亚"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "外部应用程序"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "外部视频链接"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -868,7 +868,7 @@ msgstr "文件"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "您的文件超过允许的最大大小。"
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -878,7 +878,7 @@ msgstr "过滤器"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "过滤后的报告"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
@@ -1038,7 +1038,7 @@ msgstr ""
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "用于识别您和网站上的其他用户。"
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1093,7 +1093,7 @@ msgstr "含有分类"
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "包括自定义字段"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
@@ -1140,7 +1140,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "您的帐户没有适当的权限登陆，请联系管理员。"
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1155,7 +1155,7 @@ msgstr "IP地址"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "这是您的个人资料吗?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
@@ -1185,12 +1185,12 @@ msgstr "密匙"
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr "KMZ/KML文件"
+msgstr "KMZ/KML 文件"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr "上传KMZ/KML文件"
+msgstr "上传 KMZ/KML 文件"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
@@ -1220,7 +1220,7 @@ msgstr "上个月"
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr "昵称(网上ID)"
+msgstr "昵称(网上 ID)"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
@@ -1265,7 +1265,7 @@ msgstr "评论"
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "信息较少"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1300,7 +1300,7 @@ msgstr ""
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "加载报道"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1325,65 +1325,65 @@ msgstr "登录"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "用户创建成功，您现在可以登录。"
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "一封确认邮件已发送到您注册的电子邮件地址。"
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "电子邮件地址不存在，请尝试不同的 Email，或创建一个帐户。"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "请点击您的帐户提供者。"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "登录"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "电子邮件和密码"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "用户号"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "登录"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "创建账户"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %s. To confirm your email address, please go to "
 "the following URL: %s"
-msgstr ""
+msgstr "谢谢您在％s登录，要确认您的电子邮件地址，请去以下网址：％S。"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "登录确认"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "现在创建一个帐户，享有网站上的更多的功能。"
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1408,7 +1408,7 @@ msgstr "标记为未读"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "最大文件大小"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1423,12 +1423,12 @@ msgstr "媒体过滤"
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "会员"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "管理您的账户"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1448,7 +1448,7 @@ msgstr "短信内容"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "消息自一个非数字的来源："
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
@@ -1483,14 +1483,14 @@ msgstr "更多信息"
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr "该Ushahidi布署是否跨越多个国家"
+msgstr "该 Ushahidi 布署是否跨越多个国家"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "您必须通过确认您的电子邮件地址来访问此部署。如果你失去了你的确认电子邮件，您可以重新发一次。"
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1550,12 +1550,12 @@ msgstr "否"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "没有签入记录显示。"
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "没有数据"
 
 #: ui_main.none
 msgctxt "ui_main.none"
@@ -1580,7 +1580,7 @@ msgstr "未激活"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---未选中---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1755,12 +1755,12 @@ msgstr "重新输入您的密码"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "密码修改成功！请重新登录。"
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr "忘记密码？"
+msgstr "忘记密码了吗？"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
@@ -1823,7 +1823,7 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr "* 搜索你要的位置, 或者点击地图调整你的位置"
+msgstr "* 使用地点名称或纬度，经度坐标（格式：38.19，85.61），或点击地图找准正确的位置来搜索您的位置。"
 
 #: ui_main.play
 msgctxt "ui_main.play"
@@ -1848,12 +1848,12 @@ msgstr "插入网站"
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "公开的个人资料"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "公开的个人资料地址(URL)"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1878,12 +1878,12 @@ msgstr "上一个"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "私人的"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "配置文件的颜色"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
@@ -1933,7 +1933,7 @@ msgstr "刷新报道"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "注册的电子邮件"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -1988,12 +1988,12 @@ msgstr "报道人已经"
 #: ui_main.reporter_ip
 msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
-msgstr "报道人IP地址"
+msgstr "报道人 IP 地址"
 
 #: ui_main.reporter_last_name
 msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
-msgstr "昵称(网络ID)"
+msgstr "昵称(网络 ID)"
 
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
@@ -2028,7 +2028,7 @@ msgstr "提交"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "这些用户发布的报告"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2053,7 +2053,7 @@ msgstr "案例描述"
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr "报告将以CSV形式下载"
+msgstr "报告将以 CSV 形式下载"
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
@@ -2078,7 +2078,7 @@ msgstr "姓名"
 #: ui_main.reports_last
 msgctxt "ui_main.reports_last"
 msgid "Last Name"
-msgstr "昵称(网络ID)"
+msgstr "昵称(网络 ID)"
 
 #: ui_main.reports_location_name
 msgctxt "ui_main.reports_location_name"
@@ -2150,7 +2150,7 @@ msgstr "报道新案例"
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr ""
+msgstr "报告详情"
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
@@ -2175,7 +2175,7 @@ msgstr "在网站上报道新案例"
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "通过使用一个应用程序"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
@@ -2210,12 +2210,12 @@ msgstr "需求"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "重发确认邮件"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr ""
+msgstr "重置"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
@@ -2235,7 +2235,7 @@ msgstr "从选择的国家获取城市名"
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "账户管理由%s提供服务。"
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2245,7 +2245,7 @@ msgstr "角色"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "订阅RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2260,7 +2260,7 @@ msgstr "已保存"
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "保存 & 添加一个"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
@@ -2365,7 +2365,7 @@ msgstr "发送"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "发送确认邮件"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
@@ -2445,7 +2445,7 @@ msgstr "显示所有"
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "显示消息"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
@@ -2480,7 +2480,7 @@ msgstr ""
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "对不起，您还没有任何徽章。"
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2505,7 +2505,7 @@ msgstr "垃圾邮件"
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
-msgstr "SSL支持？"
+msgstr "SSL 支持？"
 
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
@@ -2560,7 +2560,7 @@ msgstr "名字"
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "新开线路"
 
 #: ui_main.system
 msgctxt "ui_main.system"
@@ -2620,7 +2620,7 @@ msgstr "今年"
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "这是您的资料。"
 
 #: ui_main.time
 msgctxt "ui_main.time"
@@ -2705,12 +2705,12 @@ msgstr "推特"
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "无法发送电子邮件。"
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "未分类的报告"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2746,19 +2746,19 @@ msgstr "上传报道"
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr "您可以用以下表格将事件导入Ushahidi的引擎"
+msgstr "您可以用以下表格将事件导入 Ushahidi 的引擎"
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be upladed in CSV format."
-msgstr "报告必须以CSV形式上传"
+msgstr "报告必须以 CSV 形式上传"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV file "
 "will be ignored."
-msgstr "当事件的ID在数据库中已经存在，在CSV文件中的条目将被忽略"
+msgstr "当事件的ID在数据库中已经存在，在 CSV 文件中的条目将被忽略"
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2770,7 +2770,7 @@ msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "如果没有提供经度和纬度列将使用 Google Geocoder 的地理编码，位置。"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2803,7 +2803,7 @@ msgstr "上传成功"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "上传视频"
 
 #: ui_main.url
 msgctxt "ui_main.url"
@@ -2823,7 +2823,7 @@ msgstr "用户名"
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr "Ushahidi管理员"
+msgstr "Ushahidi 管理员"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
@@ -2903,7 +2903,7 @@ msgstr "显示更多"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "查看公开的资料"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -2938,7 +2938,7 @@ msgstr ""
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Web表格"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
@@ -2958,12 +2958,12 @@ msgstr "昨天"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "您的控制面板"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "您的文件"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"

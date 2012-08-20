@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:27+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:00+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "颜色是必填项"
 #: category.category_description.required
 msgctxt "category.category_description.required"
 msgid "The description field is required."
-msgstr "栏目描述是必填项"
+msgstr "类别的描述是必填项"
 
 #: category.category_image.size
 msgctxt "category.category_image.size"
@@ -60,34 +60,34 @@ msgstr "标题是必填项"
 #: category.parent_id.already_parent
 msgctxt "category.parent_id.already_parent"
 msgid "You cannot subcategorize a category with subcategories."
-msgstr ""
+msgstr "要创建的子类别已在父类别中存在"
 
 #: category.parent_id.exists
 msgctxt "category.parent_id.exists"
 msgid "The parent category does not exist."
-msgstr "父栏目不存在"
+msgstr "父类别不存在"
 
 #: category.parent_id.numeric
 msgctxt "category.parent_id.numeric"
 msgid "The parent category field must be numeric."
-msgstr "父栏目必须是数字"
+msgstr "父类别必须是数字"
 
 #: category.parent_id.parent_trusted
 msgctxt "category.parent_id.parent_trusted"
 msgid "The parent category cannot be a special category"
-msgstr ""
+msgstr "父类别不能是一个有特殊性的类别"
 
 #: category.parent_id.required
 msgctxt "category.parent_id.required"
 msgid "The parent category field is required."
-msgstr "父栏目是必填项"
+msgstr "父类别是必填项"
 
 #: category.parent_id.same
 msgctxt "category.parent_id.same"
 msgid "The category and the parent category cannot be the same."
-msgstr "不能与父栏目相同"
+msgstr "要创建的子类别不能与父类别相同"
 
 #: category.parent_id.special
 msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
-msgstr ""
+msgstr "有特殊性的类别不能创建子类别"

@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:43+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:01+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -28,17 +28,17 @@ msgstr "请输入安全码"
 #: message.email.email
 msgctxt "message.email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr "邮件地址格式不正确"
+msgstr "电子邮箱地址格式不正确"
 
 #: message.email.length
 msgctxt "message.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr "邮件地址长度须在4至64个字符之间"
+msgstr "电子邮箱地址长度须在4至64个字符之间"
 
 #: message.email.required
 msgctxt "message.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "打钩将邮件地址设为必填项"
+msgstr "打钩则电子邮箱地址为必填项"
 
 #: message.message.required
 msgctxt "message.message.required"
@@ -48,14 +48,14 @@ msgstr "评论栏为必填项"
 #: message.name.length
 msgctxt "message.name.length"
 msgid "The name field must be at least 3 characters long."
-msgstr "姓名长度须不少于3个字母"
+msgstr "用户名长度须不少于3个字母"
 
 #: message.name.required
 msgctxt "message.name.required"
 msgid "The name field is required."
-msgstr "姓名栏为必填项"
+msgstr "用户名为必填项"
 
 #: message.phone.length
 msgctxt "message.phone.length"
 msgid "The phone field is not valid."
-msgstr "电话号码不可用"
+msgstr "手机号码不正确"

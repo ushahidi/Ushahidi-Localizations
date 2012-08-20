@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-07-12 21:50+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:02+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -29,12 +29,12 @@ msgstr "描述为必填项"
 #: roles.name.alpha_numeric
 msgctxt "roles.name.alpha_numeric"
 msgid "The Name field must only contain letters or numbers."
-msgstr "姓名中只能包含字母和数字"
+msgstr "用户名中只能包含字母和数字"
 
 #: roles.name.length
 msgctxt "roles.name.length"
 msgid "The Name field must be at least 2 and no more than 30 characters long."
-msgstr "姓名的长度应在3到80个字符之间"
+msgstr "用户名的长度应在3到80个字符之间"
 
 #: roles.name.nomodify
 msgctxt "roles.name.nomodify"
@@ -49,12 +49,12 @@ msgstr "姓名为必填项"
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "访问级别必须是0到100之间的数字."
 
 #: roles.access_level.required
 msgctxt "roles.access_level.required"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "访问级别必须输入0到100之间的数字."
 
 #: roles.permissions.numeric
 msgctxt "roles.permissions.numeric"

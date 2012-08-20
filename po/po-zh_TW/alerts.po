@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 23:12+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 02:56+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -42,7 +42,7 @@ msgctxt "alerts.alert_country.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the alert "
 "location is within the country %s."
-msgstr ""
+msgstr "您報告的事件地點跨越了本網站部署的國家範圍。請確保事件地點是在 %s 國家或地區範圍內."
 
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
@@ -107,12 +107,12 @@ msgstr "請在地圖上設定你欲選擇的半徑範圍"
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr ""
+msgstr "您還沒有設置一個收件人，用來接收本站發布的警示信息。"
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr ""
+msgstr "您已訂閱了本站以下類別的事件報導的警示信息"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
@@ -168,7 +168,7 @@ msgstr "您的電子信箱事件通知申請已經被儲存!"
 #: alerts.error
 msgctxt "alerts.error"
 msgid "The system was not able to process your confirmation request!"
-msgstr ""
+msgstr "系統不能處理您的驗證請求!"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
@@ -197,7 +197,7 @@ msgstr "您的手機簡訊事件通知申請已經被儲存"
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr ""
+msgstr "系統配置不正確，導致不能處理警示信息"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
