@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-19 23:23+0000\n"
-"PO-Revision-Date: 2012-08-19 22:56+0000\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-08-20 03:27+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -112,17 +112,17 @@ msgstr "관리"
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "알람설정"
+msgstr "알림설정"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "리포트 발생 시 알람:"
+msgstr "리포트 발생 시 알림:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "알람저장"
+msgstr "알림저장"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
@@ -142,7 +142,7 @@ msgstr "국가코드를 포함한 휴대폰 번호입력"
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "알람설정"
+msgstr "알림설정"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
@@ -186,7 +186,7 @@ msgstr "<strong>스텝 1:</strong>도시와 위치 선택:"
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>스텝 2:</strong> 알람 방식 선택:"
+msgstr "<strong>스텝 2:</strong> 알림 방식 선택:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
@@ -196,12 +196,12 @@ msgstr "<strong>스텝 3 (Optional):</strong> 카테고리 선택"
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "알람 요청을 확인"
+msgstr "알림 요청을 확인"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "알람 저장 완료!"
+msgstr "알림 저장 완료!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -642,7 +642,7 @@ msgstr "상세설명"
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr "예: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
+msgstr "예: 서울특별시, 영등포구, 여의도동 57-5"
 
 #: ui_main.details
 msgctxt "ui_main.details"
@@ -826,7 +826,7 @@ msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by clicking on the button "
 "below."
-msgstr "사용하면서 불편한 점은 우리에게 알려주세요."
+msgstr "사용 중 불편한 점은 언제든지 알려주세요."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -951,7 +951,7 @@ msgstr ""
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
 msgid "Full Name"
-msgstr "전체이름"
+msgstr "이름"
 
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
@@ -1036,7 +1036,7 @@ msgstr ""
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr "다른 유저가 당신을 찾거나 구분하는데 사용합니다."
+msgstr "서비스내에서 쓰이는 당신만의 이름입니다."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1328,7 +1328,7 @@ msgstr "계정 생성이 완료되었습니다. 지금 로그인 할 수 있습�
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr "확인 메일이 입력하신 이메일 주소로 발송되었습니다."
+msgstr "확인 메일을 입력한 이메일 주소로 발송하였습니다."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
@@ -1349,7 +1349,7 @@ msgstr "로그인"
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr "이메일 과 암호"
+msgstr "이메일과 암호를 입력해주세요."
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
@@ -1359,12 +1359,12 @@ msgstr ""
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr "가입"
+msgstr "회원가입"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr "계정 생성"
+msgstr "회원가입"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
@@ -1376,12 +1376,12 @@ msgstr "%s에 가입해주셔서 감사합니다. 이메일 주소를 확인해�
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr "가입완료"
+msgstr "회원가입완료"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr "계정을 만드시면 더 많은 혜택과 기능을 사용할 수 있습니다."
+msgstr "지금 회원가입 하세요. 다양한 기능을 경험해보세요."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1426,7 +1426,7 @@ msgstr "회원"
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr "내계정 관리"
+msgstr "계정 관리"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1768,7 +1768,7 @@ msgstr "이메일을 통해 새암호를 확인하세요."
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr "이 컴퓨터로 로그인을 유지하길 원하세요?"
+msgstr "로그인을 유지"
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
@@ -1821,7 +1821,7 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr "* 당신의 위치를 위도, 경도를 통해서 찾거나 (예시: 38.19, 85.61) 지도상에 위치를 클릭하세요."
+msgstr "*지도상에서 포인터로 위치를 표시하세요.<br/>*연필을 클릭하고 지도를 클릭하면 포인터 사용이 가능합니다."
 
 #: ui_main.play
 msgctxt "ui_main.play"
@@ -1931,7 +1931,7 @@ msgstr "뉴스피드 리프레쉬"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "등록된 이메일"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -2113,7 +2113,7 @@ msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr "리포트가 제출되어 staff가 검토중입니다. 최대한 빠른 시간안에 진행하겠습니다."
+msgstr "리포트 제출이 완료되었습니다. 최대한 빠른 검토를 진행하겠습니다."
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
@@ -2901,7 +2901,7 @@ msgstr "더보기"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr "공개 프로파일 보기"
+msgstr "프로파일"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -2956,7 +2956,7 @@ msgstr "어제"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr "내 상황판"
+msgstr "상황판"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
