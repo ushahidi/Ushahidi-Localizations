@@ -89,6 +89,7 @@ $lang = array(
 	'configuration_saved' => 'Your Settings Have Been Saved!',
 	'configure' => 'Configure',
 	'confirm_email_successful' => 'You have successfully confirmed your email address! Please login below.',
+	'confirm_email_failed' => 'Email confirmation failed! You can request a new email confirmation below.',
 	'contact' => 'Contact Us',
 	'contact_code' => 'Security Code',
 	'contact_email' => 'Your Email Address',
