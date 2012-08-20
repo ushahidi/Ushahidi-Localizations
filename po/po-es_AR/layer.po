@@ -1,15 +1,18 @@
-#. extracted from en_US/layer.php, es_AR/layer.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-20 01:41+0000\n"
-"PO-Revision-Date: 2012-08-20 01:41+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-07-12 21:41+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: layer.layer_color.length
 msgctxt "layer.layer_color.length"
@@ -23,7 +26,9 @@ msgstr "Se requiere un color"
 
 #: layer.layer_file.type
 msgctxt "layer.layer_file.type"
-msgid "The file field does not appear to contain a valid file. The only accepted formats are .KMZ and .KML."
+msgid ""
+"The file field does not appear to contain a valid file. The only accepted "
+"formats are .KMZ and .KML."
 msgstr "El archivo especificado no es v"
 
 #: layer.layer_file.valid
@@ -55,4 +60,3 @@ msgstr "No se puede especificar un URL y un archivo KML. Utilize solamente uno"
 msgctxt "layer.layer_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com/layerl.kml"
 msgstr "Por favor ingrese un URL v"
-

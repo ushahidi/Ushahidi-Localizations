@@ -1,15 +1,19 @@
-#. extracted from en_US/message.php, zh_TW/message.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-20 02:52+0000\n"
-"PO-Revision-Date: 2012-08-20 02:52+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-20 00:04+0000\n"
+"PO-Revision-Date: 2012-07-12 21:42+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: message.captcha.default
 msgctxt "message.captcha.default"
@@ -55,4 +59,3 @@ msgstr "姓名欄位是必填"
 msgctxt "message.phone.length"
 msgid "The phone field is not valid."
 msgstr "電話欄位資料為無效資料."
-
