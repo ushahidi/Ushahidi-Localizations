@@ -209,7 +209,6 @@ $lang = array(
 	'parameters_used' => 'Parameters Used',
 	'password' => 'Password',
 	'password_reset' => 'Password Reset',
-	'password_reset_from' => 'no-reply@ushahidi.com',
 	'password_reset_message_line_1' => 'Dear',
 	'password_reset_message_line_2' => 'We received a request to reset the password for',
 	'password_reset_message_line_3' => 'To change your password, please click on the link below (or copy and paste it into your browser).',
