@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Arthur  <arthurdeputter@hotmail.com>, 2012.
 #   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-21 00:04+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <henry@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-21 12:04+0000\n"
+"PO-Revision-Date: 2012-08-21 17:31+0000\n"
+"Last-Translator: Arthur <arthurdeputter@hotmail.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -119,7 +120,7 @@ msgstr "Ontvang notificaties"
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr ""
+msgstr "Waarschuw mij als er een report is ingevuld of er rond.  "
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
@@ -168,7 +169,7 @@ msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "Als u de plaats niet kan vinden, Klik alstublieft op de map om uw locatie te verbeteren."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -193,7 +194,7 @@ msgstr "<strong>Step 2:</strong> Selecteer hoe je notificaties wilt ontvangen:"
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr ""
+msgstr "<strong>Step 3 (Optional):</strong> Selecteer Categorie"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
@@ -233,7 +234,7 @@ msgstr "en"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -283,12 +284,12 @@ msgstr "Auteur"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Auto Controleren"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "Gem Rapporten per dag"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -303,37 +304,37 @@ msgstr "Wachtend op verificatie"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Badge"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Badges"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "Badge afbeelding"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Of u kunt ook uw eigen badge beeld in plaats."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Badge pakket"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Selecteer uw Badge"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
@@ -393,7 +394,7 @@ msgstr "Selecteer een"
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
-msgstr ""
+msgstr "Kies data punten om te downloaden"
 
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
@@ -408,7 +409,7 @@ msgstr "Veldtype kiezen"
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr "Wis URL's"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
@@ -428,7 +429,7 @@ msgstr "Sluiten"
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr ""
+msgstr "clusters"
 
 #: ui_main.color
 msgctxt "ui_main.color"
@@ -458,13 +459,13 @@ msgstr "Je instellingen zijn bewaard!"
 #: ui_main.configure
 msgctxt "ui_main.configure"
 msgid "Configure"
-msgstr ""
+msgstr "Configureer "
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "Uw e-mail is succesvol bevestig! Log hieronder in."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -575,7 +576,7 @@ msgstr "Datum"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(mm/dd/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -595,7 +596,7 @@ msgstr "Deactiveer"
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "Nairobi, Kenia"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -640,7 +641,7 @@ msgstr "Verwijder spam"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Proef"
 
 #: ui_main.description
 msgctxt "ui_main.description"
@@ -655,7 +656,7 @@ msgstr "B.v.: Op de hoek van de markt, Dorp & Kerkstraat, Willemstad"
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr ""
+msgstr "Details"
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
@@ -715,7 +716,7 @@ msgstr "Instellingen mailserver"
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Mail Server Host"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
@@ -730,7 +731,7 @@ msgstr "Mailserverpoort"
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "Mail Server SSL ondersteuning"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
@@ -745,14 +746,14 @@ msgstr "Gebruikersnaam voor de mailserver"
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "zodat uw instellingen moeten worden gekoppeld aan dit e-mailadres"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "Om rapporten per e-mail te ontvangen, vul alstublief uw e-mailaccount instellingen hieronder. Houd er rekening mee dat e-mails worden ontvangen bij uw"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
@@ -762,7 +763,7 @@ msgstr "Sommige servers eisen een volledig e-mailadres"
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "Email account wachtwoord"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
@@ -782,7 +783,7 @@ msgstr "Voorbeelden: pop3, imap"
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "In-of uitschakelen SSL-verbindingen"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
@@ -822,7 +823,7 @@ msgstr "Externe videolink"
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr ""
+msgstr "onderhoud"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
@@ -839,7 +840,7 @@ msgstr "Geef terugkoppeling over je ervaring door op onderstaande knop te klikke
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr ""
+msgstr "onderhouden"
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
@@ -849,7 +850,7 @@ msgstr "De feed is"
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr ""
+msgstr "onderhouden items"
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
@@ -874,12 +875,12 @@ msgstr "Bestand"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Uw bestand is meer dan de maximaal toegestane bestandsgrootte."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "filters"
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
@@ -894,7 +895,7 @@ msgstr "Verslagen filteren op"
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Filter rapporten met"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -914,7 +915,7 @@ msgstr "Voornaam"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Geldende Uitvoeren Planner"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -934,7 +935,7 @@ msgstr "Formulieren"
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr ""
+msgstr "Beschrijvingsformulier"
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
@@ -979,12 +980,12 @@ msgstr "Opmerkingen"
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "etiket"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "slag Breedte"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -994,12 +995,12 @@ msgstr "Uitvoeren"
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "hashtag"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr ""
+msgstr "Is geweest"
 
 #: ui_main.help
 msgctxt "ui_main.help"
@@ -1024,7 +1025,7 @@ msgstr "Verberg deze melding"
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr ""
+msgstr "Startpagina"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
@@ -1034,17 +1035,17 @@ msgstr "Hoe plaats ik een bericht?"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Wordt gebruikt om u te identificeren op de site voor andere gebruikers."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1074,12 +1075,12 @@ msgstr "Postvak In"
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr ""
+msgstr "Incident "
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
-msgstr ""
+msgstr "Incidenten nabijgelegen"
 
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
@@ -1089,17 +1090,17 @@ msgstr "Locatie"
 #: ui_main.include
 msgctxt "ui_main.include"
 msgid "Include"
-msgstr ""
+msgstr "Inclusief"
 
 #: ui_main.include_categories
 msgctxt "ui_main.include_categories"
 msgid "Include Categories"
-msgstr ""
+msgstr "Inclusief Categorieën"
 
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Inclusief op maat velden"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
@@ -1146,7 +1147,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Uw account beschikt niet over de juiste rechten om volledig te loggen je naar binnen Neem contact op met de beheerder."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"

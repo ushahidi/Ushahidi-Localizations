@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <allnoronha@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-21 00:04+0000\n"
-"PO-Revision-Date: 2012-08-19 23:01+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-21 12:04+0000\n"
+"PO-Revision-Date: 2012-08-21 20:34+0000\n"
+"Last-Translator: allviana <allnoronha@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -37,12 +38,12 @@ msgstr "É necessário preencher o campo inclusão de feed."
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "O campo permitir alertas não parece conter um valor válido."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "O campo permitir alertas é necessário."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -92,12 +93,12 @@ msgstr "O campo Akismet parece não conter dados válidos."
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "Algo está errado com o upload da imagem de seu banner."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "O tamanho de seu banner excede o tamanho limite para este upload."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -274,24 +275,24 @@ msgstr "É necessário fornecer o email do servidor."
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Opções de configuração do Facebook."
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "Para obter as informações abaixo, você precisa criar um novo aplicativo no Facebook."
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebook App Secret"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -303,26 +304,26 @@ msgstr "O campo Google Analytics deve conter um Web Property ID válido no forma
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Habilitar HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "Esta opção faz Ushahidi ser acessado no modo inseguro; <strong> sem</ strong> \"https://\" no prefixo de URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "Esta opção faz Ushahidi ser acessado em modo seguro, com <strong> https </ strong> no prefixo de URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -389,7 +390,7 @@ msgstr "Provedor de mapa"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Mapa da Linha do Tempo"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -429,7 +430,7 @@ msgstr "Incluir feed de notícias de RSS no site"
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Permitir que os usuários de subscrição de alertas"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -444,12 +445,12 @@ msgstr "Chave do Akismet"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Banner do site"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "Blocos por linha"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
@@ -464,7 +465,7 @@ msgstr "Vida útil do cache"
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "Ativar Checkins"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -479,17 +480,17 @@ msgstr "Cor padrão para todas as categorias"
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Ícone padrão para todas as categorias"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Deletar a imagem do Banner"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Deletar ícone Padrão"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -521,7 +522,7 @@ msgstr "E-mail do site"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -565,7 +566,7 @@ msgstr "Idioma do site"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Aprovação manual de usuários"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -585,12 +586,12 @@ msgstr "Plataforma privada"
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Requerer confirmação de Email do usuário"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Enviar mensagem de relatório"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -605,7 +606,7 @@ msgstr "Slogan do site"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Timezone"
 
 #: settings.site.title
 msgctxt "settings.site.title"
