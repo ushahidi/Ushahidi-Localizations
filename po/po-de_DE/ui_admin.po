@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-21 12:04+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <henry@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 00:04+0000\n"
+"PO-Revision-Date: 2012-08-22 10:42+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -31,7 +32,7 @@ msgstr "Zugriff verweigert. Ihre Anforderung wurde verstanden, aber verweigert w
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Zugangslevel"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
@@ -41,7 +42,7 @@ msgstr "Aktionen"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Zur Kategorie hinzufügen"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -56,27 +57,27 @@ msgstr "Hinzugefügt/Bearbeitet"
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Erweiterungen"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Alarme"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Empfangene Alarme"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -86,22 +87,22 @@ msgstr "Anonym"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Jeder"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Überall"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "API gesperrt"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "API Logs"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
@@ -111,7 +112,7 @@ msgstr "API Einstellungen"
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "entsperren"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
@@ -141,37 +142,37 @@ msgstr "Archiviert"
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie diesen Eintrag löschen wollen?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie dieses Foto löschen wollen?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Sind Sie sicher, dass Sie die Formulare austauschen wollen?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Anweisen"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Anweisungen "
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Badge anweisen"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -196,17 +197,17 @@ msgstr "BAN IP"
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Zwischen den Zeiten"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr ""
+msgstr "Body"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
@@ -241,12 +242,12 @@ msgstr "Kontrollieren Sie Ihre SMS-Einstellungen!"
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Checkin Details"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Checkins"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
@@ -266,7 +267,7 @@ msgstr "Code Version nicht synchronisiert."
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Farbe"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
@@ -286,7 +287,7 @@ msgstr "Der Benutzer hat"
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Zähler"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
@@ -311,23 +312,23 @@ msgstr "Kritisches Update"
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Derzeit aktiv"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Derzeit inaktiv"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "Sie haben nicht die vollen Rechte um die folgenden Felder zu bearbeiten."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
@@ -352,7 +353,7 @@ msgstr "Datum + Zeit"
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Tage der Woche"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -377,12 +378,12 @@ msgstr "Alles löschen"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "Badge löschen"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -392,22 +393,22 @@ msgstr "Beschreibung"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Ausgeschaltet"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "Divider Start"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "Divider End"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -417,12 +418,12 @@ msgstr "Download Meldungen"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "Dropdown Auswahl"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "Bearbeitet"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -442,12 +443,12 @@ msgstr "Bearbeitungs-Log"
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "E-Mail"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Gesamte Kollektion"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -482,7 +483,7 @@ msgstr "Alle 12 Stunden"
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
@@ -492,7 +493,7 @@ msgstr "Häufige Fragen"
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
 msgid "feed"
-msgstr ""
+msgstr "Feed"
 
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
@@ -507,7 +508,7 @@ msgstr "Feeds"
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr ""
+msgstr "Auswahlmöglichkeiten"
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
@@ -517,27 +518,27 @@ msgstr "Standardwert"
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "Datentyp"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Markup"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr ""
+msgstr "Numerisch"
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "Freier Text"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -547,7 +548,7 @@ msgstr "Höhe (In Zeilen)"
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "Verstecktes Feld"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
@@ -562,22 +563,22 @@ msgstr "Feldname"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "umschalten"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "Nein"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "Ja, immer geschlossen"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "Ja, immer geöffnet"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -597,7 +598,7 @@ msgstr "Dieses Formular existiert nicht!"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -607,22 +608,22 @@ msgstr "Textfeld (Freitext)"
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "Datumsfeld"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr ""
+msgstr "Radio Buttons Felder"
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
-msgstr ""
+msgstr "Checkbox Felder"
 
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr ""
+msgstr "Dropdown Felder"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -647,12 +648,12 @@ msgstr "Hilfe"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "Mehr Themes"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "Mehr Plugins"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
@@ -667,7 +668,7 @@ msgstr "Hinzufügen/Bearbeiten"
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "E-Mail"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
@@ -704,7 +705,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "Der Installationsordner existiert noch. Bitte löschen Sie den Installationsordner. Er ist ein potentielles Sicherheitsrisiko."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -739,22 +740,22 @@ msgstr "Ist dies ein Datumsfeld?"
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Wer kann Antworten sehen"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Wer kann Antwort einreichen"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "Schlüsselwort"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Schlüsselwörter"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
@@ -789,7 +790,7 @@ msgstr "Ebenen"
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
@@ -799,7 +800,7 @@ msgstr "Abmeldung"
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
 msgid "Logs"
-msgstr ""
+msgstr "Logdateien"
 
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
@@ -824,12 +825,12 @@ msgstr "Hinzufügen/Bearbeiten von Benutzern"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Die öffentlichen Listing verwalten"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Markieren als"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
@@ -874,12 +875,12 @@ msgstr "Ihre Nachricht wurde gesendet!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "Minute"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
@@ -894,7 +895,7 @@ msgstr "Fehlende Parameter"
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
@@ -904,7 +905,7 @@ msgstr "aktualisiert"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "Zeitzone verändern"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -924,12 +925,12 @@ msgstr "Mehrfach gehostete Ereignisse."
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr ""
+msgstr "Meine Alarme"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "Meine Checkins"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -939,37 +940,37 @@ msgstr "Mein Profil"
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr ""
+msgstr "Meine Berichte"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr ""
+msgstr "gezählte Stimmen"
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
 msgid "Positive"
-msgstr ""
+msgstr "positiv"
 
 #: ui_admin.my_votes_down
 msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
-msgstr ""
+msgstr "negativ"
 
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "Neuen Alarm hinzufügen"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "Neue Meldung erstellen"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
@@ -987,7 +988,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "Dies ist eine spezielle Kategorie, die nicht in den eingereichten Berichten erscheinen wird. Hier werden diejenigen Berichte gespeichert, die (bisher) keiner Kategorie zugeordnet werden konnten weil die ursprüngliche Kategorie gelöscht wurde."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1027,12 +1028,12 @@ msgstr "von"
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "Genaue Zählung"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID's"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1116,12 +1117,12 @@ msgstr "Telefon"
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr ""
+msgstr "Bitte auswählen"
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
@@ -1131,42 +1132,42 @@ msgstr "Daten wurden nicht gesendet durch post Methode"
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Vorschau"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Nachricht"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Private Nachricht"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Private Nachricht gesendet"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Betreff"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "An"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "öffentliche Liste"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "Abfragekriterium"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1181,7 +1182,7 @@ msgstr "Relevanz"
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Berichtstitel"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1201,7 +1202,7 @@ msgstr "Meldungen"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "Reputationswert"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1216,7 +1217,7 @@ msgstr "Zurücksetzen"
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Antwort"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1226,7 +1227,7 @@ msgstr "Ergebnisse"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "Aufheben"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1241,7 +1242,7 @@ msgstr "Suche"
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Suche Berichte"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1253,19 +1254,19 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "Der Verschlüsselungsschlüssel wurde noch nicht verändert. Dies ist unsicher und sollte bald geändert werden."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "Diese Seite wird über HTTP ausgeliefert. Die Einstellung sollte auf HTPPS verändert werden, um eine erhöhte Sicherheit zu gewährleisten."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Anleitungen sind im Wiki verfügbar:"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1280,12 +1281,12 @@ msgstr "Wählen Sie einen Eintrag"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "Sie müssen zuerst einen Auslöser auswählen bevor Sie eine Antwort auswählen können."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "Sie müssen zuerst einen Auslöser auswählen bevor Sie ein Abfragekriterium auswählen können."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1295,7 +1296,7 @@ msgstr "Absender"
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "Senden an"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
@@ -1305,7 +1306,7 @@ msgstr "Diese Nachricht wurde gesendet von Ihrer Webseite am"
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Serverzeit"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1325,12 +1326,12 @@ msgstr "Zeige Ergebnisse"
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "gezeigt"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "Spezialkategorie"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1338,17 +1339,17 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "Dies ist eine spezielle Kategorie, die nicht in den eingereichten Berichten erscheinen wird. Dies wird in Kombination mit den \"Vertrauten Berichterstattern\" verwendet."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "Genauer Bereich"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
 msgid "State"
-msgstr ""
+msgstr "Staat"
 
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
@@ -1373,17 +1374,17 @@ msgstr "Sammeln der Statistik fehlgeschlagen!"
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "genaue Tage"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr ""
+msgstr "Betreff"
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr ""
+msgstr "Super Admin"
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
@@ -1398,7 +1399,7 @@ msgstr "Textfeld"
 #: ui_admin.theme_name
 msgctxt "ui_admin.theme_name"
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: ui_admin.title
 msgctxt "ui_admin.title"
@@ -1428,17 +1429,17 @@ msgstr "Übersetze Berichte"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "Auslöser"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "auslösender Benutzer"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "Auslöser"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
@@ -1453,7 +1454,7 @@ msgstr "Unbekannt"
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "unbekannter Fehler"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
@@ -1463,7 +1464,7 @@ msgstr "Ungelesen"
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "Sie werden keine weiteren Alarme bekommen von "
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
@@ -1473,22 +1474,22 @@ msgstr "Klick hier zum Update"
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr ""
+msgstr "Ushahidi aktualisieren"
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr ""
+msgstr "Ushahidi Status aktualisieren"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Berichte hochladen"
 
 #: ui_admin.user
 msgctxt "ui_admin.user"
 msgid "User"
-msgstr ""
+msgstr "Benutzer"
 
 #: ui_admin.users
 msgctxt "ui_admin.users"
@@ -1498,22 +1499,22 @@ msgstr "Benutzer"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr ""
+msgstr "Bestätigt/Unbestätigt"
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr ""
+msgstr "Bestätigen/Unbestätigen"
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
@@ -1523,12 +1524,12 @@ msgstr "ist verfügbar für Update."
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
 msgid "Video Encoding"
-msgstr ""
+msgstr "Videoverschlüsselung"
 
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
 msgid "Private Messages"
-msgstr ""
+msgstr "Private Nachricht"
 
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
@@ -1538,7 +1539,7 @@ msgstr "Zeige Seite"
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Berichte anschauen"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
@@ -1548,7 +1549,7 @@ msgstr "Willkommen, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

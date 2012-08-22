@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <appukonrad@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-21 12:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:29+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 00:04+0000\n"
+"PO-Revision-Date: 2012-08-22 06:55+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +23,7 @@ msgstr "Vložte platný ověřovací kód"
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "Zadejte prosím platný bezpečnostní kód."
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -72,4 +73,4 @@ msgstr "Vyplňte předmět zprávy."
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "Došlo k chybě při odesílání zprávy."

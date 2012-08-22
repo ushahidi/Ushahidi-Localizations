@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <appukonrad@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-21 12:04+0000\n"
-"PO-Revision-Date: 2012-08-19 22:43+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 00:04+0000\n"
+"PO-Revision-Date: 2012-08-22 06:52+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,17 +18,17 @@ msgstr ""
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr ""
+msgstr "Základní cesta"
 
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr ""
+msgstr "Databáze"
 
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr ""
+msgstr "Hostitel databáze"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
@@ -40,7 +41,7 @@ msgstr "If you are running Ushahidi on your own computer, this will more than li
 #: installer.database_name
 msgctxt "installer.database_name"
 msgid "Database Name"
-msgstr ""
+msgstr "Jméno databáze"
 
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
@@ -73,12 +74,12 @@ msgstr "Each deployment of Ushahidi comes with a set of built in language transl
 #: installer.disable
 msgctxt "installer.disable"
 msgid "Disable"
-msgstr ""
+msgstr "Zakázat"
 
 #: installer.enable
 msgctxt "installer.enable"
 msgid "Enable"
-msgstr ""
+msgstr "Povolit"
 
 #: installer.error_summary
 msgctxt "installer.error_summary"
@@ -97,17 +98,17 @@ msgstr "The location on your server where you placed your Ushahidi files. <stron
 #: installer.finished
 msgctxt "installer.finished"
 msgid "Finished"
-msgstr ""
+msgstr "Dokončeno"
 
 #: installer.general
 msgctxt "installer.general"
 msgid "General"
-msgstr ""
+msgstr "Obecné"
 
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API klíč"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
@@ -115,17 +116,17 @@ msgid ""
 "Anyone can get an api key. <a id=\"api-link\" "
 "href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get "
 "yours now</a>"
-msgstr ""
+msgstr "Každý se může dostat API klíč. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">  Získat klíč</a>"
 
 #: installer.go_back
 msgctxt "installer.go_back"
 msgid "Go Back"
-msgstr ""
+msgstr "Vrátit se"
 
 #: installer.index.advanced
 msgctxt "installer.index.advanced"
 msgid "ADVANCED INSTALLATION"
-msgstr ""
+msgstr "POKROČILÁ INSTALACE"
 
 #: installer.index.advanced_installation_description
 msgctxt "installer.index.advanced_installation_description"
@@ -137,7 +138,7 @@ msgstr "Get all the basic settings completed through this 5-step process.  This 
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
 msgid "BASIC INSTALLATION"
-msgstr ""
+msgstr "ZÁKLADNÍ INSTALACE"
 
 #: installer.index.basic_installation_description
 msgctxt "installer.index.basic_installation_description"
@@ -150,7 +151,7 @@ msgstr "Simple and fast. All you need is your website's root directory and your 
 #: installer.index.proceed
 msgctxt "installer.index.proceed"
 msgid "Proceed"
-msgstr ""
+msgstr "Pokračovat"
 
 #: installer.index.welcome
 msgctxt "installer.index.welcome"
@@ -162,47 +163,47 @@ msgstr "Welcome to the Ushahidi server install process.  Choose which type of in
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
 msgid "Installation Successful"
-msgstr ""
+msgstr "Instalace Úspěšná"
 
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr ""
+msgstr "Mail Server"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Hostitel Mail Serveru"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Příklady: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Hselo k Mail Serveru"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr ""
+msgstr "Heslo, které běžně používáte pro přihlášení k e-mailu"
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Port Mail Serveru"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Běžné Porty: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Typ Mail Serveru"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -210,12 +211,12 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Internet Message Access Protocol (IMAP), nebo Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\"> Jaký je rozdíl? </a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Uživatelské jméno k Mail serveru"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
@@ -227,12 +228,12 @@ msgstr "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email addre
 #: installer.map
 msgctxt "installer.map"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: installer.map_provider
 msgctxt "installer.map_provider"
 msgid "Map Provider"
-msgstr ""
+msgstr "Poskytovatel mapy"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
@@ -245,32 +246,32 @@ msgstr "Ushahidi works equally well with any of these four mapping providers: Go
 #: installer.other_steps
 msgctxt "installer.other_steps"
 msgid "Other steps..."
-msgstr ""
+msgstr "Ostatní kroky..."
 
 #: installer.password
 msgctxt "installer.password"
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 #: installer.password_description
 msgctxt "installer.password_description"
 msgid "Your database password"
-msgstr ""
+msgstr "Váše heslo k databázi"
 
 #: installer.previous
 msgctxt "installer.previous"
 msgid "Previous"
-msgstr ""
+msgstr "Předchozí"
 
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr ""
+msgstr "Prosím, restartujte Apache server"
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
 msgid "Enable or disable SSL"
-msgstr ""
+msgstr "Povolit nebo zakázat SSL"
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
@@ -362,7 +363,7 @@ msgstr "For the installation process, please have the following bits of informat
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
 msgid "Table Prefix"
-msgstr ""
+msgstr "Předpona tabulky"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
@@ -380,7 +381,7 @@ msgstr ""
 #: installer.to_login
 msgctxt "installer.to_login"
 msgid "To login, go to"
-msgstr ""
+msgstr "Pro přihlášení, přejít na"
 
 #: installer.upload_data
 msgctxt "installer.upload_data"
@@ -390,12 +391,12 @@ msgstr ""
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "Uživatelské jméno"
 
 #: installer.username_description
 msgctxt "installer.username_description"
 msgid "Your database username"
-msgstr ""
+msgstr "Vaše uživatelské jméno k databázi"
 
 #: installer.use_credentials
 msgctxt "installer.use_credentials"

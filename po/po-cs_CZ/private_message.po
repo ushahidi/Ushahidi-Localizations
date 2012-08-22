@@ -1,15 +1,17 @@
-#. extracted from en_US/private_message.php, cs_CZ/private_message.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 06:26+0000\n"
-"PO-Revision-Date: 2012-08-17 06:26+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-22 00:04+0000\n"
+"PO-Revision-Date: 2012-08-17 21:14+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: private_message.parent_id.numeric
 msgctxt "private_message.parent_id.numeric"
@@ -40,4 +42,3 @@ msgstr ""
 msgctxt "private_message.private_message.required"
 msgid "The message field is required"
 msgstr ""
-

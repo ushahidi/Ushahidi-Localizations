@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-21 12:04+0000\n"
-"PO-Revision-Date: 2012-08-21 22:39+0000\n"
-"Last-Translator: Mipate <monica.ipate@gmail.com>\n"
+"POT-Creation-Date: 2012-08-22 00:04+0000\n"
+"PO-Revision-Date: 2012-08-22 11:18+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -729,79 +729,79 @@ msgstr "Portul Serverului de Mail"
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "Suport SSL pentru serverul de Mail"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Tipul serverului de Mail"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Username pentru serverul de Mail"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "astfel încât setările trebuiesc să fie asociate cu această adresă de email"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "Pentru a putea primi semnălari prin email, vă rugăm să introduceți mai jos setările contului dvs. de email. Rețineți că email-urile vor fi trimise la adresa dvs."
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "Unele servere necesită adresa întreagă de email"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "Parola contului de email"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Porturi uzuale: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Exemple: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "Exemple: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "Activează sau dezactivează conexiunile SSL"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "-----GOL-----"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr ""
+msgstr "către"
 
 #: ui_main.error
 msgctxt "ui_main.error"
 msgid "Error!"
-msgstr ""
+msgstr "Eroare!"
 
 #: ui_main.example
 msgctxt "ui_main.example"
 msgid "Example"
-msgstr ""
+msgstr "Exemplu"
 
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
@@ -811,1016 +811,1016 @@ msgstr "Romania"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Aplicații externe"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Link video extern"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr ""
+msgstr "Feed"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Trimite Feedback"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by clicking on the button "
 "below."
-msgstr ""
+msgstr "Vă rugăm, oferiți-ne feedback despre experienţa dumneavoastră făcând click pe butonul de mai jos."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr ""
+msgstr "Feeds"
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr ""
+msgstr "Acest feed a fost"
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr ""
+msgstr "Elemente Feed"
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr ""
+msgstr "Nume Feed"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr ""
+msgstr "URL Feed"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr ""
+msgstr "Câmp neutilizat"
 
 #: ui_main.file
 msgctxt "ui_main.file"
 msgid "File"
-msgstr ""
+msgstr "Fișier"
 
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Fișierul tău depășește dimensiunea impusă."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "Filtre"
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Filtrează Semnalările"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Filtrează Semnalările după"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Filtrează semnalările ce conțin"
 
 #: ui_main.find
 msgctxt "ui_main.find"
 msgid "Find"
-msgstr ""
+msgstr "Găsește"
 
 #: ui_main.find_location
 msgctxt "ui_main.find_location"
 msgid "Find Location"
-msgstr ""
+msgstr "Găsește locul"
 
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
 msgid "First Name"
-msgstr ""
+msgstr "Prenume"
 
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Forțează Rularea Planificării"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Ai uitat parola?"
 
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr ""
+msgstr "Formular"
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
 msgid "Forms"
-msgstr ""
+msgstr "Formulare"
 
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr ""
+msgstr "Descriere Formular"
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr ""
+msgstr "Editează acest formular"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr ""
+msgstr "Acest formular a fost"
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr ""
+msgstr "Titlu formular"
 
 #: ui_main.from
 msgctxt "ui_main.from"
 msgid "From"
-msgstr ""
+msgstr "De la"
 
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
 msgid "Full Name"
-msgstr ""
+msgstr "Nume și prenume"
 
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr ""
+msgstr "Funcția GeoLocation este disponibilă"
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
 msgid "Color"
-msgstr ""
+msgstr "Culoare"
 
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr ""
+msgstr "Comentarii"
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "Etichetă"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "Lățimea conturului"
 
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Du-te"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr ""
+msgstr "A fost"
 
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "Cum să ajuți"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "Ascuns"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
 msgid "Hide"
-msgstr ""
+msgstr "Ascunde"
 
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr ""
+msgstr "Ascunde acest mesaj"
 
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr ""
+msgstr "Acasă"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr ""
+msgstr "Cum să semnalezi"
 
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Utilizat pentru a vă identifica pe site pentru alți utilizatori."
 
 #: ui_main.image
 msgctxt "ui_main.image"
 msgid "Image"
-msgstr ""
+msgstr "Imagine"
 
 #: ui_main.images
 msgctxt "ui_main.images"
 msgid "Images"
-msgstr ""
+msgstr "Imagini"
 
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr ""
+msgstr "Imagine/Iconiță"
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr ""
+msgstr "Inactiv"
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "Inbox"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr ""
+msgstr "Incident"
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
-msgstr ""
+msgstr "Incidente în apropiere"
 
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
 msgid "Incident Location"
-msgstr ""
+msgstr "Locul incidentului"
 
 #: ui_main.include
 msgctxt "ui_main.include"
 msgid "Include"
-msgstr ""
+msgstr "Include"
 
 #: ui_main.include_categories
 msgctxt "ui_main.include_categories"
 msgid "Include Categories"
-msgstr ""
+msgstr "Include Categoriile"
 
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Include câmpuri personalizate"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr ""
+msgstr "Include Descrierea"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr ""
+msgstr "Include cat mai multe detalii posibile"
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr ""
+msgstr "Include Latitudinea"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr ""
+msgstr "Include informații despre loc"
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr ""
+msgstr "Include Longitudinea"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "Materiale Media pe punctul de a sosi"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr ""
+msgstr "Evaluarea Informației"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
-msgstr ""
+msgstr "Precizează cu exactitate locul tău"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Contul dvs. nu are permisiunile corespunzătoare pentru a vă conecta. Vă rugăm să contactați administratorul."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr ""
+msgstr "Ca răspuns la"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "Adresa IP"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "Este acesta profilul tau?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "element"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "elemente"
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "detalii_element"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "Titlul elementului"
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr ""
+msgstr "Cheie"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "Fișier KMZ/KML"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "Încarcă fișierul KMZ/KML"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "URL-ul KML"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Concis"
 
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 #: ui_main.last
 msgctxt "ui_main.last"
 msgid "Last"
-msgstr ""
+msgstr "Ultimul"
 
 #: ui_main.last_month
 msgctxt "ui_main.last_month"
 msgid "Last Month"
-msgstr ""
+msgstr "Luna trecută"
 
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr "Nume de familie"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
 msgid "Last Year"
-msgstr ""
+msgstr "Anul trecut"
 
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "Latitudine"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "Layere"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "Alte layere"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "Layerul a fost"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "Numele layerului"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "URLul layerului"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Lasă un comentariu"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Mai puține informații"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "Nivel"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "Acest nivel a fost"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "Numele nivelului"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "Limitat"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Listă"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Încărcare Semnalări"
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "Loc"
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "Locuri"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "Oraș, Județ și/sau Sector"
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "Autentificare"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Cont creat cu succe"
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "Un email de confirmare a fost trimis către dvs."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Adresa de email nu există. Vă rugăm să încercați o altă adresă sau să creați un nou cont."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Vă rugăm să faceți click pe providerul de cont"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Autentifică-te cu"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "email și parola"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Autentificare"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Crează un cont"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %s. To confirm your email address, please go to "
 "the following URL: %s"
-msgstr ""
+msgstr "Multumim pentru înregistrarea pe %s. Pentru a confirma înregistrarea de pe această adresa de email, accesați urmatorul link URL: %s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Confirmarea înregistrării"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Crează un cont acum pentru a profita de mai multe funcționalități ale site-ul."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "Longitudine"
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "Harta"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr ""
+msgstr "Machează ca citite"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Machează ca necitite"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Dimensiunea maximă a fișierului"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "Materiale media"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr ""
+msgstr "Filtru materiale media"
 
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Membrii"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "Gestionați contul dvs."
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr ""
+msgstr "Mesaj"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr ""
+msgstr "Mesaje"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr ""
+msgstr "Detalii mesaje"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Mesaje de la o sursă non-numerică:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobil"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr ""
+msgstr "Modifică"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr ""
+msgstr "Modifică data"
 
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr ""
+msgstr "luna"
 
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr ""
+msgstr "Mai mult"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "Mai multe informații"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "Are această implementare de Ushahidi deschidere în mai multe țări"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Trebuie să confirmați adresa dvs. de email pentru a accesa această implementare. Dacă ați pierdut emailul de confirmare, puteți cere un altul mai jos."
 
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "Semnalări prin apropiere"
 
 #: ui_main.new
 msgctxt "ui_main.new"
 msgid "New"
-msgstr ""
+msgstr "Nou"
 
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr ""
+msgstr "Știri"
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "Feeduri Știri"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr ""
+msgstr "Sursă Știri"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "Categorie nouă"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "Parolă nouă"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr ""
+msgstr "Semnalare nouă"
 
 #: ui_main.next
 msgctxt "ui_main.next"
 msgid "Next"
-msgstr ""
+msgstr "Următoarea"
 
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "Nu"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Nu sunt checkinuri de afișat."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Nu există date"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "nimic"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr ""
+msgstr "Notificări"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr ""
+msgstr "Neaprobate"
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr ""
+msgstr "Neaprobate"
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---Neselectate---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr ""
+msgstr "nu e spam"
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "Nespecificat"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr ""
+msgstr "Nu există semnalări"
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
 msgid "There are no results"
-msgstr ""
+msgstr "Nu există rezultate"
 
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Dezactivat"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr ""
+msgstr "Fluxul &amp; de știri oficial"
 
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "Activat"
 
 #: ui_main.option
 msgctxt "ui_main.option"
 msgid "Option"
-msgstr ""
+msgstr "Opțiune"
 
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr ""
+msgstr "Opțional"
 
 #: ui_main.options
 msgctxt "ui_main.options"
 msgid "Options"
-msgstr ""
+msgstr "Opțiuni"
 
 #: ui_main.organization
 msgctxt "ui_main.organization"
 msgid "Organization"
-msgstr ""
+msgstr "Organizația"
 
 #: ui_main.organizations
 msgctxt "ui_main.organizations"
 msgid "Organizations"
-msgstr ""
+msgstr "Organizații"
 
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr ""
+msgstr "Descrierea organizației"
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
 msgid "Organization Email"
-msgstr ""
+msgstr "Adresa de email a organizației"
 
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr ""
+msgstr "Organizația a fost"
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
 msgid "Organization Name"
-msgstr ""
+msgstr "Numele organizației"
 
 #: ui_main.organization_phone_1
 msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
-msgstr ""
+msgstr "Telefonul Organizației 1"
 
 #: ui_main.organization_phone_2
 msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
-msgstr ""
+msgstr "Telefonul Organizației 2"
 
 #: ui_main.organization_website
 msgctxt "ui_main.organization_website"
 msgid "Organization Website"
-msgstr ""
+msgstr "Site-ul Organizației"
 
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr ""
+msgstr "Inițial"
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
 msgid "Original Description"
-msgstr ""
+msgstr "Descrierea inițială"
 
 #: ui_main.original_title
 msgctxt "ui_main.original_title"
 msgid "Original Title"
-msgstr ""
+msgstr "Titlul inițial"
 
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr ""
+msgstr "Alte implementări"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr ""
+msgstr "Trimise"
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr ""
+msgstr "În curs de trimitere"
 
 #: ui_main.page
 msgctxt "ui_main.page"
 msgid "Page"
-msgstr ""
+msgstr "Pagina"
 
 #: ui_main.pages
 msgctxt "ui_main.pages"
 msgid "Pages"
-msgstr ""
+msgstr "Pagini"
 
 #: ui_main.page_description
 msgctxt "ui_main.page_description"
 msgid "Page Description"
-msgstr ""
+msgstr "Descrierea paginii"
 
 #: ui_main.page_has_been
 msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
-msgstr ""
+msgstr "Pagina a fost"
 
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr ""
+msgstr "Nume pentru tab-ul paginii"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
 msgid "Page Title"
-msgstr ""
+msgstr "Titlul paginii"
 
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr ""
+msgstr "Categoria părinte"
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr ""
+msgstr "Verifică parola"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "Parola a fost schimbată cu succes! Autentifică-te mai jos."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Ai uitat parola?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr ""
+msgstr "Verifică-ți emailul pentru noua parolă."
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr ""
+msgstr "Ramâneți autentificat pe computerul acesta?"
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
 msgid "Past Month"
-msgstr ""
+msgstr "Luna trecută"
 
 #: ui_main.past_year
 msgctxt "ui_main.past_year"
 msgid "Past Year"
-msgstr ""
+msgstr "Anul trecut"
 
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr ""
+msgstr "În așteptare"
 
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "per"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr ""
+msgstr "Informații personale <span>Opțional.</span>"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "Poze"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr ""
+msgstr "Imagini"
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
-msgstr ""
+msgstr "Imagini și Video"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
@@ -1828,22 +1828,22 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "* Căutați locația dvs. tastând numele locației SAU coordonatele de latitudine, longitudine (format: 38.19, 85.61) SAU dați click pe hartă pentru a indica locul dorit."
 
 #: ui_main.play
 msgctxt "ui_main.play"
 msgid "Play"
-msgstr ""
+msgstr "Pornește"
 
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr ""
+msgstr "Rețineți"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Plugin-uri"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
