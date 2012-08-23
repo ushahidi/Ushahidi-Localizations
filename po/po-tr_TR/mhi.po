@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <emrahgursel@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 12:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:44+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-23 00:04+0000\n"
+"PO-Revision-Date: 2012-08-23 11:10+0000\n"
+"Last-Translator: emrahgursel <emrahgursel@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,24 +29,24 @@ msgstr "Lütfen güvenlik kodunu giriniz."
 #: mhi.contact_email.email
 msgctxt "mhi.contact_email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr "E-posta adresi geçerli değil."
+msgstr "E-posta adresi geçerli değil gibi görünüyor."
 
 #: mhi.contact_email.required
 msgctxt "mhi.contact_email.required"
 msgid "Please provide a valid email address."
-msgstr "Lütfen geçerli bir e-posta adresi girin"
+msgstr "Lütfen geçerli bir e-posta adresi giriniz."
 
 #: mhi.contact_message.required
 msgctxt "mhi.contact_message.required"
 msgid "The message field is required."
-msgstr "Mesaj kısmı boş bırakılamaz."
+msgstr "Mesaj alanı boş bırakılamaz."
 
 #: mhi.contact_subject.length
 msgctxt "mhi.contact_subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr "Başlık kısmı en az 3 karakterden oluşmalıdır."
+msgstr "Başlık en az 3 karakterden oluşmalıdır."
 
 #: mhi.contact_subject.required
 msgctxt "mhi.contact_subject.required"
 msgid "The subject field is required."
-msgstr "Başlık kısmı boş bırakılamaz."
+msgstr "Başlık alanı boş bırakılamaz."

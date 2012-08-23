@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <emrahgursel@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 12:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:25+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-23 00:04+0000\n"
+"PO-Revision-Date: 2012-08-23 11:24+0000\n"
+"Last-Translator: emrahgursel <emrahgursel@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 #: bug.captcha.default
 msgctxt "bug.captcha.default"
 msgid "Please enter a valid security code."
-msgstr "Lütfen geçerli güvenlik kodunu girin."
+msgstr "Lütfen geçerli bir güvenlik kodu girin."
 
 #: bug.captcha.required
 msgctxt "bug.captcha.required"
@@ -28,7 +29,7 @@ msgstr "Lütfen güvenlik kodunu girin"
 #: bug.email.email
 msgctxt "bug.email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr "E-posta adresinizi girdiğiniz alanda geçerli bir adres gözükmüyor?"
+msgstr "E-posta adresi geçerli değil gibi görünüyor."
 
 #: bug.email.length
 msgctxt "bug.email.length"
@@ -38,29 +39,29 @@ msgstr "E-posta adresi en az 4, en fazla 64 karakterden oluşmalıdır."
 #: bug.email.required
 msgctxt "bug.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "Kullanım koşullarını kabul ettiyseniz mutlaka sisteme bir e-posta adresi girmeniz gereklidir."
+msgstr "Onay kutucuğunu tıkladıysanız,  bir e-posta adresi de girmeniz gereklidir."
 
 #: bug.error.required
 msgctxt "bug.error.required"
 msgid "The error field is required."
-msgstr "Hata bölümü boş bırakılamaz"
+msgstr "Hata alanı boş bırakılamaz"
 
 #: bug.subject.length
 msgctxt "bug.subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr "Başlık kısmı en az 3 karakterden oluşmalıdır."
+msgstr "Başlık alanı en az 3 karakterden oluşmalıdır."
 
 #: bug.subject.required
 msgctxt "bug.subject.required"
 msgid "The subject field is required."
-msgstr "Başlık kısmı boş bırakılamaz."
+msgstr "Başlık alanı boş bırakılamaz."
 
 #: bug.yourname.length
 msgctxt "bug.yourname.length"
 msgid "The name field must be at least 3 characters long."
-msgstr "İsim kısmı en az 3 karakterden oluşmalıdır."
+msgstr "İsim alanı en az 3 karakterden oluşmalıdır."
 
 #: bug.yourname.required
 msgctxt "bug.yourname.required"
 msgid "The name field is required."
-msgstr "İsim kısmı boş bırakılamaz."
+msgstr "İsim alanı boş bırakılamaz."

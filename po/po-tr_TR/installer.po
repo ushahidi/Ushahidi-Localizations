@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <emrahgursel@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 12:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:39+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-23 00:04+0000\n"
+"PO-Revision-Date: 2012-08-23 11:58+0000\n"
+"Last-Translator: emrahgursel <emrahgursel@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,7 +61,7 @@ msgstr "Veritabanı hakkında daha fazla bilgi almak için lütfen <a href=\"htt
 #: installer.default_language
 msgctxt "installer.default_language"
 msgid "Default Language (Locale)"
-msgstr "Varsayılan Dil (Lokal)"
+msgstr "Varsayılan Dil (Yerel)"
 
 #: installer.default_language_description
 msgctxt "installer.default_language_description"
@@ -84,7 +85,7 @@ msgstr "Aktif"
 #: installer.error_summary
 msgctxt "installer.error_summary"
 msgid "Listed below is a summary of the errors we encountered."
-msgstr "Aşağıda listelenen hatalar ile karşılaştık"
+msgstr "Aşağıda listelenen hatalar ile karşılaştık."
 
 #: installer.files_location_text
 msgctxt "installer.files_location_text"
@@ -93,7 +94,7 @@ msgid ""
 " have automatically detected this value, please make sure that it is "
 "correct.</strong> If the field is empty, do not worry, it means ushahidi is "
 "installed at the top level directory."
-msgstr "Bu konum Ushahidi dosyalarının bulunduğu yerdir. <strong>Biz bu konumu otomatik olarak tespit ettik, lütfen bu konumun doğru olduğundan emin olun.</strong>Eğer bu alan boş ise, endişelenmeyin, Ushahidi en üst seviyedeki yere kurulmuştur.(WWW)"
+msgstr "Sunucunuzdaki bu konum Ushahidi dosyalarının bulunduğu yerdir. <strong>Biz bu konumu otomatik olarak tespit ettik, lütfen bu konumun doğru olduğundan emin olun.</strong>Eğer bu alan boş ise, endişelenmeyin, Ushahidi en üst seviyedeki dizine kurulmuştur."
 
 #: installer.finished
 msgctxt "installer.finished"
@@ -158,7 +159,7 @@ msgctxt "installer.index.welcome"
 msgid ""
 "Welcome to the Ushahidi server install process.  Choose which type of "
 "installation you would like to use below."
-msgstr "Ushahidi Sunucusu Yükleme Merkezine hoşgeldiniz. Lütfen aşağıdaki yükleme çeşitlerinden birini seçin"
+msgstr "Ushahidi sunucusu yükleme merkezine hoşgeldiniz. Lütfen aşağıdaki yükleme çeşitlerinden birini seçin."
 
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
@@ -216,14 +217,14 @@ msgstr "Internet Message Access Protocol (IMAP) veya Post Office Protocol (POP).
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr "Posta Sunucu Hesabı"
+msgstr "Posta Sunucusu Kullanıcı Adı"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
 msgid ""
 "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
 "as a username."
-msgstr "Gmail, Hotmail veya Yahoo Mail kullanıyorsanız, hesap adınızı tüm e-posta adresi olarak girin."
+msgstr "Gmail, Hotmail veya Yahoo Mail kullanıyorsanız, kullanıcı adı alanına tüm e-posta adresinizi girin."
 
 #: installer.map
 msgctxt "installer.map"
@@ -241,7 +242,7 @@ msgid ""
 "Ushahidi works equally well with any of these three mapping providers: "
 "Google, Bing or Open Street Map. Choose the one that has the most detail in "
 "your area."
-msgstr "Ushahidi bu sağlayıcılarla neredeyse eşit olarak çalışır: Google, Bing, Yahoo veya Open Street Map. Bulunduğunuz yeri en detaylı olarak gösteren sağlayıcıyı seçmenizde fayda var"
+msgstr "Ushahidi bu haritalama sistemleriyle aşağı yukarı aynı verimlilikte çalışır: Google, Bing, Yahoo veya Open Street Map. Bulunduğunuz yeri en detaylı olarak gösteren haritalama sistemini seçmenizde fayda var."
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
@@ -271,7 +272,7 @@ msgstr "Lütfen Apache sunucusunu baştan başlatın"
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
 msgid "Enable or disable SSL"
-msgstr "SSLi Aktif veya Deaktif et"
+msgstr "SSL'i etkinleştir veya devre dışı bırak."
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
@@ -294,7 +295,7 @@ msgstr "Sitenizin E-posta Adresi"
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr "Sitenizin Uyarılar için Oluşturulan E-posta Adresi"
+msgstr "Sitenizin Uyarılar için E-posta Adresi"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -302,12 +303,12 @@ msgid ""
 "When your site visitors sign up for email alerts, they will receive emails "
 "from this address. This email address does not have to be the same as the "
 "Site Email Address."
-msgstr "Ziyaretçileriniz Uyarı havuzuna abone olduklarında, uyarıları bu e-posta adresinden alacaklar. Tavsiyemiz, bu e-posta adresi ile sitenin genel e-posta adresinin aynı olmamasıdır"
+msgstr "Ziyaretçileriniz uyarı havuzuna abone olduklarında, uyarıları bu e-posta adresinden alacaklar. Bu e-posta adresi ile sitenin genel e-posta adresiyle aynı olmak zorunda değil."
 
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr "Site hakkında gönderilen e-postalar (uyarılar değil) bu e-posta adı altında gönderilecektir"
+msgstr "Site hakkında gönderilen e-postalar bu adresten gönderilecektir."
 
 #: installer.site_name
 msgctxt "installer.site_name"
@@ -327,13 +328,13 @@ msgstr "Site Etiketleri"
 #: installer.site_tagline_description
 msgctxt "installer.site_tagline_description"
 msgid "Your tagline"
-msgstr "Sitenizin arama motorları tarafından bulunmasını sağlar"
+msgstr "Sizin etiketleriniz"
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
 msgid ""
 "The files and folders listed below need to be writable by your webserver."
-msgstr "Düzgün bir kurulum için aşağıda listelenen dosyaların yazılması lazım"
+msgstr "Düzgün bir kurulum için aşağıda listelenen dosya ve klasörler yazılabilir olmalı."
 
 #: installer.summary.text_2
 msgctxt "installer.summary.text_2"
@@ -343,7 +344,7 @@ msgid ""
 "            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n"
 "            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n"
 "        </ul>"
-msgstr "<p>Dosya izinlerinin düzenlenmesi hakkında bilgi (İngilizce):</p>,\n <ul>\n     <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n     <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n</ul>"
+msgstr "<p>Dosya izinlerinin değiştirilmesi hakkında bilgiler (İngilizce):</p>,\n <ul>\n     <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n     <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n</ul>"
 
 #: installer.summary.text_3
 msgctxt "installer.summary.text_3"
@@ -351,14 +352,14 @@ msgid ""
 "Before you get started, you will need to make sure the following files and "
 "folders are writable by your webserver. This involves changing file "
 "permissions."
-msgstr "Yükleme işlemine başlamadan önce belirtilen dosyaların yazılabilir olduğundan emin olmalısınız. Bu konu dosya izinleriyle alakalıdır."
+msgstr "Yükleme işlemine başlamadan önce belirtilen dosya ve klasörlerin yazılabilir olduğundan emin olun. Bu konu dosya izinleriyle alakalıdır."
 
 #: installer.summary.text_4
 msgctxt "installer.summary.text_4"
 msgid ""
 "For the installation process, please have the following bits of information "
 "on hand."
-msgstr "Yükleme kısmı için lütfen belirtilen bilgileri elinizde bulundurun"
+msgstr "Yükleme kısmı için lütfen belirtilen bilgileri elinizde bulundurun."
 
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
@@ -401,7 +402,7 @@ msgstr "Veritabanı kullanıcı adınız"
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
 msgid "and use the following credentials"
-msgstr "ve belirtilen bilgileri kullanın"
+msgstr "ve belirtilen kimlik bilgilerini kullanın"
 
 #: installer.view_site
 msgctxt "installer.view_site"
