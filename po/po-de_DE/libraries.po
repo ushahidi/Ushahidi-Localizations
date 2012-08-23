@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:42+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 12:46+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +30,7 @@ msgctxt "libraries.api_library_not_found"
 msgid ""
 "The API library: <strong>%s</strong> for the <strong>%s</strong> class could"
 " not be found. Please check your API task routing table."
-msgstr "Die API Bibliothek <strong>%s</strong> für die <strong>%s</strong> Klasse wurde nicht gefunden. Bitte kontrolliere Deine API task routing Tabelle."
+msgstr "Die API Bibliothek <strong>%s</strong> für die <strong>%s</strong> Klasse wurde nicht gefunden. Bitte kontrolliere die API task routing Tabelle."
 
 #: libraries.askimet_invalid_apikey
 msgctxt "libraries.askimet_invalid_apikey"
@@ -113,4 +114,4 @@ msgstr "Die heruntergeladene Ushahidi zip-Datei <code>%s</code>, konnte nicht ge
 #: libraries.riverid_variable_not_available
 msgctxt "libraries.riverid_variable_not_available"
 msgid "%s is not available in the RiverID class."
-msgstr ""
+msgstr "%s ist in der RiverID Klasse nicht verfügbar."

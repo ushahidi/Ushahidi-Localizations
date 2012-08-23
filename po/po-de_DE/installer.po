@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-08-19 22:45+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 13:16+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +18,7 @@ msgstr ""
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr ""
+msgstr "Base Path"
 
 #: installer.database
 msgctxt "installer.database"
@@ -107,7 +108,7 @@ msgstr "Allgemein"
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API Key"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
@@ -167,12 +168,12 @@ msgstr "Installation erfolgreich."
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr ""
+msgstr "Mail Server"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Mail Server Host"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
@@ -192,7 +193,7 @@ msgstr "Das Passwort das Du normalerweise benutzt um Dich in Deinen eMail-Konto 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Mail Server Port"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
@@ -202,7 +203,7 @@ msgstr "Standard Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Mail Server Typ"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -288,7 +289,7 @@ msgstr "Setup your SMS server"
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Hauptemailadresse"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"

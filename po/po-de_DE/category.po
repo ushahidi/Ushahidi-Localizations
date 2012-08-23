@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:26+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 13:37+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,7 +60,7 @@ msgstr "Das Titelfeld ist notwendig."
 #: category.parent_id.already_parent
 msgctxt "category.parent_id.already_parent"
 msgid "You cannot subcategorize a category with subcategories."
-msgstr ""
+msgstr "Unterkategorien können nicht weiter unterteilt werden."
 
 #: category.parent_id.exists
 msgctxt "category.parent_id.exists"
@@ -74,7 +75,7 @@ msgstr "Das Feld für die übergeordnete Kategorie darf nur Zahlen enthalten."
 #: category.parent_id.parent_trusted
 msgctxt "category.parent_id.parent_trusted"
 msgid "The parent category cannot be a special category"
-msgstr ""
+msgstr "Die übergeordnete Kategorie kann keine Spezialkategorie sein."
 
 #: category.parent_id.required
 msgctxt "category.parent_id.required"
@@ -89,4 +90,4 @@ msgstr "Die Kategorie und die übergeordnete Kategorie können nicht gleich sein
 #: category.parent_id.special
 msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
-msgstr ""
+msgstr "Spezialkategorien können nicht weiter unterteilt werden."

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:54+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 18:37+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,19 +21,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Dies fügt den Bericht zu weiteren Kategorien hinzu. Wenn Du Kategorie 1 ausgewählt hast und der Bericht bereits mit Kategorie 2 verbunden ist, wird der Bericht beiden Kategorien 1 und 2 zugeordnet."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Bestätigt einen Bericht oder nicht. Falls bestätigt, wird der Bericht veröffentlicht."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "Du wirst die Möglichkeit haben, einem auslösendem Benutzer eine Badge zu vergeben. Wähle eine Badge aus, die hier angezeigt wird."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -43,7 +44,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "Dies ist ein Zeitraum aus Stunden und/oder Minuten zwischen zwei Zeiten, im 24h Format. Wenn Du eine frühere Zeit in das zweite Feld eingibst, wird es mit dem Wert aus dem ersten Feld ersetzt. Diese Zeiten müssen beide innerhalb eines Tages liegen. Ebenso wird der Zeitraum mit der Serverzeit verglichen und <strong>nicht</strong> notwendigerweise mit der Zeitzone des Benutzers, der Deine Ushahidi Installaion verwendet. Lass diesen Wert auf 00:00 bis 00:00 um dieses Kriterium zu deaktivieren."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -53,7 +54,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "Wenn Du bestimmte Auslöser so verwenden möchtest, wenn eine bestimmte Kategorie verwendet wird, kannst Du dies hier einstellen. Dadurch wird der Auslöser nur dann aktiviert, wenn eine bestimmte Kategorie verwendet wird. Wenn Du zum Beispiel Kategorie 1 und Kategorie 2 auswählst und ein eingehender Bericht mit den Kategorien 2 und 3 reinkommt, wird diese Funktion ausgelöst."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -61,17 +62,17 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr ""
+msgstr "Falls diese Aktionen an einem bestimmten Wochentag stattfinden, kannst Du dies hier einstellen. Der Wochentag wird über die Einstellung der Zeitzone auf dem Server bestimmt. Drücke Shift, Command oder Strg um mehrere Tage auszuwählen."
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Text der E-Mail, die verschickt werden soll."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Betreffzeile der E-Mail, die verschickt werden soll."
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -81,7 +82,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "Du kannst dieses Feld leer lassen wenn Du nicht nach Schlüsselwörtern überprüfen lassen möchtest. Wenn Du hier Wörter hinzufügst, musst Du sie mit einem Komma (,) voneinander abtrenen. Wenn Du zum Beispiel einen Auslöser aktivieren möchtest, bei dem jemand die Worte \"Liebe\" oder \"Frieden\" in der Nachricht erwähnt, müssen diese beiden Worte \"Liebe, Frieden\" in dieser Form eingetragen werden."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -92,7 +93,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "Du kannst entweder \"überall\" oder einen bestimmten Ort angeben.  Wenn Du einen bestimmten Ort auswählst, wirst Du vom System danach gefragt, eine Box um das Zielgebiet zu setzen. Wenn Du beispielsweise einen Auslöser für das Land Brasilien erstellen möchtest, musst Du \"genauen Ort\" (\"specific area\") auswählen und eine Box um Brasilien zeichnen. Du kannst diese Boxen klein oder so groß machen wie Du möchtest. Du kannst auch mehrere Kästchen zeichnen."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -100,12 +101,12 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "Dieses Kriterium aktiviert den Auslöser für den n-ten Zähler für die gesamte Benutzerdatenbank oder für jeden einzelnen Benutzer. Lass dieses Feld frei um es nicht zu benutzen."
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Dies ist der Standardtitel für den Bericht."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -113,7 +114,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "Wenn alle Abfagekriterien abgearbeitet sind, wird der Auslöser eine Antwort initiieren. Diese variert von der bloßen Berichtsbestätitung bis hin zu Bestätigungsemails an den Benutzer. Wähle die mögliche Antwortvariante hier aus um weitere Optionen für genauere Antworten zu ermöglichen."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -123,14 +124,14 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "Wenn Du \"auslösender Benutzer\" auswählst, wird die E-Mail an den Benutzer geschickt, der den Bericht eingereicht hat. Wenn Du den Knopf neben dem Eingabefeld auswählst, kannst Du eine eigene E-Mail Adresse eingeben. Dies ist bei der Erstellung von Auslösern hilfreich, die bestimmte Aktivitäten auf der Karte verfolgen."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "Du kannst hier mehrere Tage auswählen. Die Daten werden von der Installation und der verbundenen Zeitzone bestimmt. Um alle Tagezeiten zu aktivieren, gib kein Datum ein."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -139,7 +140,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "Der Auslöser ist die Hauptkomponente des Systems und bestimmt die weitere Handlung. Wenn jemand z.B. einen Bericht einreicht, kann dieser Bericht nach verschiedenen Kriterien gefiltert werden und weitere Handlungsschritte auslösen."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -148,24 +149,24 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr ""
+msgstr "Der Benutzer kann jederman oder ein ganz bestimmter Benutzer sein. Wenn nur ein bestimmter Benutzer einen Auslöser starten soll, kannst Du ihn hier bestimmen. Andernfalls ist das Feld frei zu lassen (\"niemand\") - auch weil die meisten Auslöser auf alle Benutzereingaben reagieren."
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Markiert einen Bericht als bestätigt oder unbestätigt."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr ""
+msgstr "Die Profilseiten verwenden Gravatar. Beim Klicken auf das Bild wirst Du auf die Gravatar Website weitergeleitet, wo Du Dein Profilbild verändern kannst."
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Unterteile jeden Wert mit einem Komma, z.B. Wert1, Wert2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -173,27 +174,27 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "Unterteile jeden Eintrag mit einem Komma, z.B. Wert1, Wert2. Wenn Du einen Standardeintrag erstellen möchtest, beende Deine Auflistung mit :: z.B. falls Wert3 der Standardeintrag sein soll, schreibe Wert1, Wert2, Wert3::Wert3."
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "Unterteile jede Auswahl mit einem Komma, z.B. Wert 1, Wert 2 etc."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Tippe hier zur Anzeige der Mitglieder."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Betreffzeile der privaten Nachricht"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Private Nachricht"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -201,7 +202,7 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "Du kannst eine Farbe auswählen, die unterhalb Deines öffentlichen Profilbildes erscheinen soll. Diese Farbe wird auch für Deine Checkins auf der Karte verwendet."
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
@@ -220,7 +221,7 @@ msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "Falls ausgewählt, wird dies Dein neues Passwort. Lasse dieses Feld leer wenn Du Dein aktuelles Passwort behalten möchtest."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -228,7 +229,7 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "Dies ist eine Voraussetzung bei der Erstellung eines neuen Benutzers und wird das neue Benutzerpasswort. Du solltest Deinen neuen Benutzer informieren, dass er direkt nach dem ersten Login sein Passwort verändert."
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
@@ -250,12 +251,12 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "Dein Profil kann von jedem im Internet angeschaut werden wenn Du diese Option aktivierst. Dies ist auch die einfachste Methode, um Deine eingereichten Berichte, Deine Checkins, Deine Badges, usw. auf einer Seite aufzulisten."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Hier wird die Adresse zu Deinem öffentlichen Profil stehen."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -270,7 +271,7 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr ""
+msgstr "Zugangsebenen werden verwendet, damit der Zugang zu Benutzerdateneingaben kontrolliert werden kann. Höhere Zugangsebenen können die Daten niedrigerer Zugangsebenen einsehen. Der Superadmin hat den höchsten Zugangslevel (100). Öffentliche Daten haben den niedrigsten Level von (0). Einfache Mitglieder haben den Level 10, Administratoren haben den Zugangslevelwert 90."
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
@@ -280,7 +281,7 @@ msgstr "Diese Mailadresse wird genutzt um Ihnen Alarme zuzustellen."
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Erlaube Benutzern, Ereignisse über das Web zu abonnieren."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -324,12 +325,12 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr ""
+msgstr "Der Seitenbanner wird oben auf der Seite angezeigt, sofern das verwendete Layouttheme dies unterstützt. Die empfohlene Größe für diesen Banner hängt vom verwendeten Theme ab. Bitte beachte, dass der Banner den Seitentitel und die Tagline ersetzt."
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Nummer von Blöcken, die in jeder Zeile angezeigt werden."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -369,7 +370,7 @@ msgstr "Legen Sie eine Farbe fest für alle Kategorien auf der Seite."
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Setze ein Icon für alle Kategorien auf der Webseite."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
@@ -428,7 +429,7 @@ msgid ""
 "If you set this option to yes, you must approve every individual user who "
 "creates an account on your site by assigning them roles (ie. Member, Admin, "
 "Superadmin)."
-msgstr ""
+msgstr "Wenn Du diese Option aktivierst, musst Du jeden Benutzer auf der Seite einzeln aktivieren und ihm Benutzerrollen bzw. Zugangsebenen zuweisen (z.B. Mitglied, Administrator, Superadmin)."
 
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
@@ -439,14 +440,14 @@ msgstr "Legt die Karte fest die Sie nutzen."
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "Dies stellt die Timeline so ein, dass Einträge bzw. Ereignisse chronologisch sortiert aufgelistet werden."
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
 msgid ""
 "Setting this value to true or yes will make your deployment private so only "
 "users with accounts that you specify will be able to access the deployment."
-msgstr ""
+msgstr "Die Aktivierung dieser Einstellung führt dazu, dass diese Ushahidi Installation nur für ausgewählte Benutzer mit Benutzerkonten erreichbar ist."
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
@@ -455,7 +456,7 @@ msgid ""
 "allowed to log into the deployment if this is set to yes. If you enable this"
 " after your deployment has accepted users, they will be prompted to confirm "
 "their account before they will be allowed to continue using it."
-msgstr ""
+msgstr "Nach Aktivierung dieser Option wird den Benutzern eine E-Mail mit einem Bestätigungslink geschickt, den sie zuerst anklicken müssen bevor sie sich ins System einloggen können. Wenn Du diese Funktion erst nach der Registrierung von Benutzern aktivierst, müssen sie ihr Benutzerkonto erst bestätigen, bevor sie wie gewohnt weiterarbeiten können."
 
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
@@ -532,7 +533,7 @@ msgctxt "tooltips.settings_site_submit_report_message"
 msgid ""
 "This is a message that will show up on the submit report page. This is good "
 "for disclaimers or further instructions for your visitors who are reporting."
-msgstr ""
+msgstr "Dies ist eine Meldung, die auf der Eingabeseite erscheinen wird. Sie eignet sich gut für Haftungsbeschränkungen oder weitere Anleitungen für die Benutzer, die gerade einen Bericht ausfüllen."
 
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
@@ -545,7 +546,7 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr ""
+msgstr "Dies ist die Zeitzone, in der die Website aktiv sein soll. Sie hat Auswirkungen auf alle Aktionen, die sich nach der Uhrzeit oder einem Datum richten. Dies beinhaltet auch die Standardzeit für Berichte auf dem Front- und Backend dieser Website."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"

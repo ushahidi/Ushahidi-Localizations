@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:24+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 13:46+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,68 +53,68 @@ msgstr "Der Benutzername enthält nicht erlaubte Zeichen"
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Das Passwort muss mindestens 8 Zeichen lang sein."
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Bitte überprüfe, ob Du die korrekte E-Mail Adresse und das richtige Passwort eingegeben hast."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Bitte gib in beiden Felder das gleiche Passwort ein."
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Das Passwort wird benötigt."
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Das Passwort darf nur aus Buchstaben, den # und @ Symbolen, Nummern, Unter- und Bindestrichen bestehen."
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "Das eingegebene Passwort ist nicht korrekt. Bitte versuche es noch einmal."
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Das Passwort muss mindestens 8 Zeichen lang sein."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Bitte überprüfe, ob Du die korrekte E-Mail Adresse und das richtige Passwort eingegeben hast."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Bitte gib in beiden Felder das gleiche Passwort ein."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Das Passwort wird benötigt."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Das Passwort darf nur aus Buchstaben, den # und @ Symbolen, Nummern, Unter- und Bindestrichen bestehen."
 
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "Es gab einen Fehler bei der Anmeldung."
 
 #: auth.password.length
 msgctxt "auth.password.length"
@@ -138,14 +139,14 @@ msgstr "Das Passwortfeld ist notwendig."
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
-msgstr ""
+msgstr "Der Anmeldeserver ist nicht verfügbar. Bitte versuche es später noch einmal."
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Das Passwort darf nur aus Buchstaben, den # und @ Symbolen, Nummern, Unter- und Bindestrichen bestehen."
 
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
@@ -170,7 +171,7 @@ msgstr "Die eMail-Adresse ist notwendig."
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "Nur ein Superadmin darf einen anderen Superadmin einstellen oder einen bestehenden Benutzer zum Admin ernennen."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
@@ -200,7 +201,7 @@ msgstr "Die Admin-Rolle kann nicht verändert werden."
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "Das öffentliche Profil darf nur aus Nummern und Buchstaben bestehen."
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
@@ -232,4 +233,4 @@ msgstr "Die Super-Admin-Rolle kann nicht verändert werden."
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "Mögliche CSRF Attacke. Willst Du wirklich einen Benutzer neu erstellen/bearbeiten?"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:50+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 13:39+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -48,14 +49,14 @@ msgstr "Das Feld Name ist notwendig."
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "Für die Zugangsebene muss eine Nummer zwischen 0 und 100 ausgewählt werden."
 
 #: roles.access_level.required
 msgctxt "roles.access_level.required"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "Für die Zugangsebene muss eine Nummer zwischen 0 und 100 ausgewählt werden."
 
 #: roles.permissions.numeric
 msgctxt "roles.permissions.numeric"
 msgid "Permissions field must be a number between 0 - 100."
-msgstr ""
+msgstr "Für die Zugangsebene muss eine Nummer zwischen 0 und 100 ausgewählt werden."

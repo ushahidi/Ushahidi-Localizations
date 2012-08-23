@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Caner Başaran <basaran.caner@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <henry@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 18:01+0000\n"
+"Last-Translator: Caner Başaran <basaran.caner@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -232,7 +233,7 @@ msgstr "ve"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -282,7 +283,7 @@ msgstr "Yazar"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Otomatik Kontrol"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -337,7 +338,7 @@ msgstr "Ağ Güncesi"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Profillere Gözat"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -372,17 +373,17 @@ msgstr "Kategori İsmi"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Tarih Aralığı Değiştir"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "Şifre Değiştir"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Fotoğrafını Değiştir"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -412,7 +413,7 @@ msgstr "URL'leri temizle"
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "Temizle"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
@@ -463,7 +464,7 @@ msgstr "Yapılandır"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "E-posta adresiniz doğrulandı! Lütfen giriş yapın."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -539,7 +540,7 @@ msgstr "Yeni Oluştur"
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "Yeni Şifre Oluştur"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -569,22 +570,22 @@ msgstr ""
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr ""
+msgstr "Tarih"
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(aa/gg/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "Tarih & Saat"
 
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr ""
+msgstr "gün"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
@@ -594,17 +595,17 @@ msgstr ""
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "Nairobi, Kenya"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 #: ui_main.deleted
 msgctxt "ui_main.deleted"
 msgid "Deleted"
-msgstr ""
+msgstr "Silindi"
 
 #: ui_main.deletes
 msgctxt "ui_main.deletes"
@@ -614,27 +615,27 @@ msgstr ""
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "Silme Devre Dışı"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "Son Silinen"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr ""
+msgstr "Bu Raporu Sil"
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "Seçileni Sil"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
-msgstr ""
+msgstr "İstenmeyenleri Sil"
 
 #: ui_main.demo
 msgctxt "ui_main.demo"
@@ -644,7 +645,7 @@ msgstr ""
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr ""
+msgstr "Tanım"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -654,7 +655,7 @@ msgstr ""
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr ""
+msgstr "Ayrıntılar"
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
@@ -684,7 +685,7 @@ msgstr ""
 #: ui_main.edit
 msgctxt "ui_main.edit"
 msgid "Edit"
-msgstr ""
+msgstr "Düzenle"
 
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
@@ -699,17 +700,17 @@ msgstr ""
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "E-posta"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr ""
+msgstr "E-posta Adresi"
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr ""
+msgstr "Posta Sunucusu Ayarları"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"

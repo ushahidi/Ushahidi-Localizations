@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:47+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 13:22+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,7 +25,7 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Diese Desployment erstreckt sich nur über ein Land. Bitte stelle sicher, dass  sich der Ort des Berichts nur auf das Land %s bezieht."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -44,38 +45,38 @@ msgstr "Bitte wählen Sie einen gültigen Eintrag aus für den Download"
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Bitte wähle \"unbestätigte Berichte\" oder \"bestätigte Berichte\" oder Beides. "
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Bitte wähle \"unbestätigte Berichte\" oder \"bestätigte Berichte\" oder Beides."
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Bitte wähle \"unbestätigte Berichte\" oder \"bestätigte Berichte\" oder Beides."
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Bitte wähle \"unbestätigte Berichte\" oder \"bestätigte Berichte\" oder Beides."
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Bitte wähle \"unbestätigte Berichte\" oder \"bestätigte Berichte\" oder Beides."
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Bitte wähle \"unbestätigte Berichte\" oder \"bestätigte Berichte\" oder Beides."
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
@@ -224,7 +225,7 @@ msgstr "Das Titelfeld ist notwendig."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "Mögliche CSRF Attacke. Möchtest du wirklich einen Bericht erstellen/bearbeiten?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"

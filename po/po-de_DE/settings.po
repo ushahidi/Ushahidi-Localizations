@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-22 00:04+0000\n"
-"PO-Revision-Date: 2012-08-19 22:45+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-22 12:04+0000\n"
+"PO-Revision-Date: 2012-08-22 14:47+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +23,7 @@ msgstr "The allow comments field does not appear to contain a valid value?"
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "Das \"Kommentare erlauben\"-Feld wird benötigt."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
@@ -32,17 +33,17 @@ msgstr "The include feed field does not appear to contain a valid value?"
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr ""
+msgstr "Das \"Feeds beinhalten\"-Feld wird benötigt."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "Das \"Erlaube Alarme\"-Feld beinhaltet keinen Wert."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "Das \"Erlaube-Alarme\"-Feld wird benötigt."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -52,7 +53,7 @@ msgstr "The allow reports field does not appear to contain a valid value?"
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr ""
+msgstr "Das \"Erlaube Berichte\"-Feld wird benötigt."
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
@@ -62,7 +63,7 @@ msgstr "The stat sharing field does not appear to contain a valid value?"
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "Das \"Stat teilen\"-Feld wird benötigt."
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -92,12 +93,12 @@ msgstr "The Akismet field does not appear to contain a valid value?"
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "Etwas ist beim Hochladen des Bannerbildes schief gegangen."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "Die Größe des Banners überschreitet die zulässige Größe für Uploads."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -140,44 +141,44 @@ msgstr "This option makes Ushahidi to be accessed via \"clean\" URLs. Without \"
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Erlaube saubere URLs"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "Saubere URLs"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "Das Clickatell API Nummernfeld darf nicht länger als 20 Zeichen sein."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "Das Clickatell API Nummernfeld wird benötigt. "
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Das Clickatell Passwort Feld muss mindestens 5 bis maximal 50 Zeichen lang sein."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "Das Clickatell Passwort Feld wird benötigt."
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Das Clickatell Benutzernamen Feld darf nicht länger als 50 Zeichen sein. "
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr ""
+msgstr "Das Clickatell Benutzernamen Feld wird benötigt."
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
@@ -197,12 +198,12 @@ msgstr "The color feed field does not appear to contain a valid value?"
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "Die Angabe darf nicht länger als 6 Zeichen lang sein."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "Die Angabe der Farbe wird benötigt."
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
@@ -227,19 +228,19 @@ msgstr "The Mail server port field is too long"
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Die Portangabe für den Mailserver darf nur Nummern beinhalten."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Das Mailserver Passwort muss mindest 5 bis maximal 50 Zeichen lang sein."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "Das Mailserver Passwort wird benötigt."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
@@ -249,7 +250,7 @@ msgstr "The Mail server port field is too long"
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Der Port für den Mailserver wird benötigt."
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
@@ -259,70 +260,70 @@ msgstr "The Mail server port field is too long"
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "Der Mailserver Typ wird benötigt."
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Der Benutzername für den Mailserver darf nicht länger als 50 Zeichen sein."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "Der Benutzername für den Mailserver wird benötigt."
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Facebook Einstellungsoptionen"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "Für die unten stehenden Informationen musst Du eine neue Facebook Anwendung einrichten bei"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebook App Secret"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr ""
+msgstr "Für die Google Analytics Funkion muss die Web Property ID im Format UA-XXXXX-XX vorliegen."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "HTTPS erlauben"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "Diese Option erlaubt den unsicheren Zugang zu Ushahidi; <strong>ohne</strong> \"https://\" im URL Prefix"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "Diese Option erlaubt den sicheren Zugang zu Ushahid; mit <strong>https</strong> im URL Prefix"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -334,7 +335,7 @@ msgstr "The items per page (Frontend) field does not appear to contain a valid v
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
-msgstr ""
+msgstr "Die Angabe zu den Elementen auf der Seite (im Frontend) wird benötigt."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
@@ -345,7 +346,7 @@ msgstr "The items per page (Admin) field does not appear to contain a valid valu
 #: settings.items_per_page_admin.required
 msgctxt "settings.items_per_page_admin.required"
 msgid "The items per page (Admin) field is required."
-msgstr ""
+msgstr "Die Angabe zu den Elementen auf der Seite (als Admin) wird benötigt."
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
@@ -357,7 +358,7 @@ msgstr "Setting up your map provider is a straight- forward process. Select a pr
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "Zoom Level"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
@@ -389,7 +390,7 @@ msgstr "Kartenanbieter"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Kartenhistorie"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -419,17 +420,17 @@ msgstr "Cluster Reports auf Karte"
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr ""
+msgstr "Erlaube Benutzern, Kommentare zu Berichten abzugeben"
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "Erlaube den RSS News Feed auf der Website"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Erlaube Benutzern, Alarme zu abonnieren"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -444,12 +445,12 @@ msgstr "Akismet Schlüssel"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Seitenbanner"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "Blöcke pro Reihe"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
@@ -464,7 +465,7 @@ msgstr "Seitencache Lebenszeit"
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "Erlaube Checkins"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -479,17 +480,17 @@ msgstr "Standardfarbe für alle Kategorien"
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Default Icon für alle Kategorien"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Lösche das Bannerbild"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Lösche das Default Icon"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -521,12 +522,12 @@ msgstr "Seite Emailaddresse"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
 msgid "Web Property ID - Format: UA-XXXXX-XX"
-msgstr ""
+msgstr "Web Property ID - Format: UA-XXXXX-XX"
 
 #: settings.site.items_per_page
 msgctxt "settings.site.items_per_page"
@@ -545,17 +546,17 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
+msgstr "Verhindere Kommentarspam durch den Gebrauch von <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a>, von Automattic. <BR />Du kannst einen kostenlosen API Akismet key bekommen, indem Du bei <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com ein Benutzerkonto anlegst</a> "
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr ""
+msgstr "Laconica Benutzerkennung"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr ""
+msgstr "Laconica Seite"
 
 #: settings.site.language
 msgctxt "settings.site.language"
@@ -565,7 +566,7 @@ msgstr "Sprache der Seite"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Manuell bestätigte Benutzer"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -580,17 +581,17 @@ msgstr "Seitenname"
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "Private Deployment"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Benötige Benutzermailbestätigung"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Schicke Bericht"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -605,7 +606,7 @@ msgstr "Seiten Untertitel"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Zeitzone"
 
 #: settings.site.title
 msgctxt "settings.site.title"
@@ -631,27 +632,27 @@ msgstr "The site email field does not appear to contain a valid email address?"
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr ""
+msgstr "Die E-Mail Adresse für die Website muss mindestens 4 bis maximal 100 Zeichen lang sein."
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "Der Seitentitel muss mindestens 3 bis maximal 50 Zeichen lang sein."
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "Der Seitentitel wird benötigt."
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Die Tagline muss mindestens 3 bis maximal 100 Zeichen lang sein."
 
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
-msgstr ""
+msgstr "Eine Tagline wird benötigt."
 
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
@@ -679,7 +680,7 @@ msgid ""
 "Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
-msgstr ""
+msgstr "Registriere Dich beim Clickatell Dienst indem Du  <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">hier klickst</a>"
 
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
@@ -699,7 +700,7 @@ msgid ""
 " users to send and receive text messages with large groups of people through"
 " mobile phones. Click on the grey box to request a download from "
 "FrontlineSMS.com"
-msgstr ""
+msgstr "FrontlineSMS ist eine freie Open Source Software, die einen Laptop und ein Mobilfunkgerät in einen zentralen Kommunikationshub verwandelt. Einmal installiert erlaubt das Programm den Benutzern, Textnachrichten über Mobilfunkgeräte an große Benutzergruppen zu schicken und von diesen zu empfangen. Klicke auf die graue Box, um einen Download von FrontlineSMS.com anzufordern."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
@@ -724,7 +725,7 @@ msgstr "Ihr Ushahidi Sync Key"
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "FrontlineSMS HTTP Post LINK"
-msgstr ""
+msgstr "FrontlineSMS HTTP Post LINK"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
