@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-08-22 13:38+0000\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 20:26+0000\n"
 "Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -45,7 +45,7 @@ msgctxt "core.errors_disabled"
 msgid ""
 "You can go to the <a href=\"%s\">home page</a> or <a href=\"%s\">try "
 "again</a>."
-msgstr "Sie können auf die <a href=\"%s\">home page</a> gehen oder <a href=\"%s\"> es erneut versuchen</a>."
+msgstr "Du kannst auf die <a href=\"%s\">home page</a> gehen oder <a href=\"%s\"> es erneut versuchen</a>."
 
 #: core.error_file_line
 msgctxt "core.error_file_line"
@@ -86,7 +86,7 @@ msgstr "library"
 #: core.log_dir_unwritable
 msgctxt "core.log_dir_unwritable"
 msgid "The log directory is not writable: %s"
-msgstr "Das log Verzeichnis ist nicht beschreibbar: %s"
+msgstr "Das Log-Verzeichnis ist nicht beschreibbar: %s"
 
 #: core.model
 msgctxt "core.model"
@@ -97,17 +97,17 @@ msgstr "model"
 msgctxt "core.no_controller"
 msgid ""
 "Ushahidi was not able to determine a controller to process this request: %s"
-msgstr "Ushahidi war nicht in der Lage den Controller zu bestimmen für diese Anforderung: %s"
+msgstr "Ushahidi war nicht in der Lage, den Controller für diese Anforderung zu bestimmen: %s"
 
 #: core.no_default_route
 msgctxt "core.no_default_route"
 msgid "Please set a default route in config/routes.php"
-msgstr "Bitte setzen Sie eine Standardroute in config/routes.php"
+msgstr "Bitte setze eine Standardroute in config/routes.php"
 
 #: core.page_not_found
 msgctxt "core.page_not_found"
 msgid "The page you requested, %s, could not be found."
-msgstr "Die angefoderte Seite, %s, konnte nicht gefunden werden."
+msgstr "Die angeforderte Seite, %s, konnte nicht gefunden werden."
 
 #: core.report_bug
 msgctxt "core.report_bug"
@@ -149,4 +149,4 @@ msgstr "Zeige"
 #: core.view_set_filename
 msgctxt "core.view_set_filename"
 msgid "You must set the the view filename before calling render."
-msgstr "Sie müssen den Dateinamen festlegen bevor der Render aufgerufen wird"
+msgstr "Du musst den Dateinamen festlegen bevor der Render aufgerufen wird."

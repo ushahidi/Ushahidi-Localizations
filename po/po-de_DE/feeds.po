@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:35+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 19:53+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -29,7 +30,7 @@ msgstr "Der Name muss zwischen 3 und 70 Zeichen lang sein."
 #: feeds.feed_name.required
 msgctxt "feeds.feed_name.required"
 msgid "Please enter the name of the feed."
-msgstr "Bitte geben Sie den Feed Namen ein."
+msgstr "Bitte gib den Feed Namen ein."
 
 #: feeds.feed_url.required
 msgctxt "feeds.feed_url.required"
@@ -39,7 +40,7 @@ msgstr "Bitte URL eingeben."
 #: feeds.feed_url.url
 msgctxt "feeds.feed_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
-msgstr "Bitte gültige Adresse eingeben. Bsp. http://www.ushahidi.com."
+msgstr "Bitte gültige Adresse eingeben. Z.B. http://www.ushahidi.com."
 
 #: feeds.source
 msgctxt "feeds.source"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <emrahgursel@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:47+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 12:27+0000\n"
+"Last-Translator: emrahgursel <emrahgursel@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +26,7 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Bu harita sadece bir ülkeyi kapsıyor. Lütfen rapor yerinin bu %s. ülkesi içinde olduğunu emin olun."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -45,38 +46,38 @@ msgstr "Karşıdan yüklemeye dahil etmek için lütfen geçerli bir nesne seçi
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Lütfen \"Onay Bekleyen Raporlar\" ya da \"Onaylanan Raporları\" ya da her ikisini de seçin. "
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Lütfen \"Onay Bekleyen Raporlar\" ya da \"Onaylanan Raporları\" ya da her ikisini de seçin. "
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Lütfen \"Onay Bekleyen Raporlar\" ya da \"Onaylanan Raporları\" ya da her ikisini de seçin. "
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Lütfen \"Onay Bekleyen Raporlar\" ya da \"Onaylanan Raporları\" ya da her ikisini de seçin. "
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Lütfen \"Onay Bekleyen Raporlar\" ya da \"Onaylanan Raporları\" ya da her ikisini de seçin. "
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Lütfen \"Onay Bekleyen Raporlar\" ya da \"Onaylanan Raporları\" ya da her ikisini de seçin. "
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
@@ -225,7 +226,7 @@ msgstr "Başlık kısmı boş bırakılamaz."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "CSFR saldırısı ihtimali. Bir rapor oluşturmak/güncellemek mi istiyorsunuz?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"

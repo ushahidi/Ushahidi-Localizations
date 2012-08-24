@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-08-22 13:46+0000\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 20:23+0000\n"
 "Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,27 +18,27 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr "Das eMail-Feld enthält eine ungültige Mailadresse."
+msgstr "Das E-Mail-Feld enthält eine ungültige Mailadresse."
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr "Sorry, diese eMailadresse ist bereits einem Account zugeordnet."
+msgstr "Sorry, diese E-Mailadresse ist bereits einem Konto zugeordnet."
 
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "Die eMail-Adresse muss zwischen 4 und 64 Zeichen lang sein."
+msgstr "Die E-Mail-Adresse muss zwischen 4 und 64 Zeichen lang sein."
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr "Die eMail-Adresse ist ein Pflichtfeld"
+msgstr "Die E-Mail-Adresse ist ein Pflichtfeld"
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr "Die eMail-Adresse muss zwischen 3 und 100 Zeichen lang sein."
+msgstr "Die E-Mail-Adresse muss zwischen 3 und 100 Zeichen lang sein."
 
 #: auth.name.required
 msgctxt "auth.name.required"
@@ -124,12 +124,12 @@ msgstr "Das Passwort muss zwischen 5 und 16 Zeichen lang sein"
 #: auth.password.login error
 msgctxt "auth.password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr "Please check that you entered the correct password."
+msgstr "Bitte überprüfe, ob Du die richtige E-Mail-Adresse und das richtige Passwort eingegeben hast."
 
 #: auth.password.matches
 msgctxt "auth.password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr "Bitte geben Sie zweimal das richtige Passwort ein."
+msgstr "Bitte gib das gleiche Passwort zwei Mal ein."
 
 #: auth.password.required
 msgctxt "auth.password.required"
@@ -151,22 +151,22 @@ msgstr "Das Passwort darf nur aus Buchstaben, den # und @ Symbolen, Nummern, Unt
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr "Bitte geben Sie zweimal das richtige Passwort ein."
+msgstr "Beide eingegeben Passwörter müssen übereinstimmen."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr "Die eMail-Adresse ist ungültig."
+msgstr "Die E-Mail-Adresse ist ungültig."
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr "Sorry, wir finden Ihre eMail-Adresse nicht."
+msgstr "Entschuldigung, wir können Deine E-Mail-Adresse nicht zuordnen."
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr "Die eMail-Adresse ist notwendig."
+msgstr "Die E-Mail-Adresse ist notwendig."
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
@@ -218,7 +218,7 @@ msgstr "Der Benutzername muss zwischen 2 und 16 Zeichen lang sein."
 #: auth.username.login error
 msgctxt "auth.username.login error"
 msgid "Please check that you entered the correct public profile URL."
-msgstr "Please check that you entered the correct username."
+msgstr "Bitte überprüfe, ob Du die korrekte URL für das öffentliche Profil eingegeben hast."
 
 #: auth.username.required
 msgctxt "auth.username.required"

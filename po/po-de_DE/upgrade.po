@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-08-22 15:26+0000\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 19:47+0000\n"
 "Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,7 +43,7 @@ msgstr "Aktualisieren"
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr "So, Ich beginne damit Ihre Datenbank zu upgraden von Version"
+msgstr "So, die Datenbank wird jetzt aktualisiert von Version"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
@@ -53,14 +53,14 @@ msgstr "auf die neueste Datenbank Version"
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
 msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
-msgstr "Klick auf den Update Button und relax während ich das Wunder vollbringe."
+msgstr "Klicke auf den Update Button und relax während ich das Wunder vollbringe."
 
 #: upgrade.upgrade_db_text_4
 msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr "Wen ich das Backup machen soll müssen SIe auf den Button klicken und ich werde mein Bestes geben :-)."
+msgstr "Wen ich das Backup machen soll, musst Du auf den Button klicken und ich werde mein Bestes geben :-)."
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
@@ -106,17 +106,17 @@ msgctxt "upgrade.upgrade_text_1"
 msgid ""
 "The instructions below detail how to manually upgrade your Ushahidi "
 "deploymentl"
-msgstr "Untenstehend ist erklärt, wie Sie Ihre Ushahidi-Instanz manuell aktualisieren können."
+msgstr "Untenstehend ist erklärt, wie Du Deine Ushahidi-Instanz manuell aktualisieren kannst"
 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr "<strong>Schritt 1:</strong> Lade die neueste Ushahidi Version von <a href=\"http://download.ushahidi.com/\">http://download.ushahidi.com</a> herunter"
+msgstr "<dl><dt><strong>Herunterladen</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr "<strong>Schritt 2:</strong> Abhängig von dem Betriebssystem Ihres Webservers nutzen Sie den bevorzugtes/n Werkzeug/Modus (d.h.: telnet, ftp, ssh) um sich auf dem Webserver anzumelden und den Inhalt aller Ordner mit den neuesten Dateien zu ersetzen. <strong>Alle BIS AUF:</strong>"
+msgstr "<dd>- Lade die letzte Ushahidi Version herunter von"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -137,7 +137,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr "Schritt 3: Nutzen Sie ihren bevorzugten Mysql Client (z.B.. phpMyAdmin ), und führen Sie die Datei<code>upgrade.sql</code> aus. Das Script sollten das Update durcführen und die Tabellen aktualisieren."
+msgstr "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Nur für den Fall dass etwas schief gehen könnte, erstelle bitte vorher ein Backup Deiner kompletten Ushahidi Installation</dd><dt><strong>Kopiere Dateien</strong></dt><dd>- Entpacke die heruntergeladene ZIP Datei</dd><dd>- Abhängig vom verwendeten Betriebssystem auf dem Server, kannst Du Dein bevorzugtest Tool (z.B. Telnet, FTP, SSH) zum Einloggen auf dem Server verwenden und alle alten Dateien mit neuen ersetzen.</dd><dt><strong>Aktualisiere Datenbank</strong></dt><dd>- Bestimme zuerst die Version des Datenbank Schemas über den <strong>db_version</strong> Wert in der Einstellungstablle oder schaue nach der Ushahidi Aktualisierunginfo ganz oben auf dieser Seite </dd><dd>- Wenn Du bei Version 25 bist, musst schrittweise upgraden, also von 25-26, 26-27, 27-28 und so weiter bis zur letzten SQL Datei in Deinem<strong>/sql</strong> Verzeichnis.</dd><dd>- Mit Deinem Datenbank Programm aktualisierst Du die Datenbank, indem Du den zugehörigen upgradex-x.sql Befehl in der Datei ausführst.</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -152,7 +152,7 @@ msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr "Für ein automatisches Update klicken Sie auf die Schaltfläche unten."
+msgstr "Für ein automatisches Update, klicke bitte auf die Schaltfläche unten."
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"

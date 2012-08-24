@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Juergen Eichholz <jke@kikuyumoja.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-08-17 07:01+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 19:12+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -42,7 +43,7 @@ msgstr "Die Farbangabe ist notwendig."
 #: sharing.sharing_name.length
 msgctxt "sharing.sharing_name.length"
 msgid "The Sharing name does not appear to be valid."
-msgstr "Der SHARING-NAME ist ungültig?"
+msgstr "Der SHARING-NAME ist ungültig"
 
 #: sharing.sharing_name.required
 msgctxt "sharing.sharing_name.required"
@@ -52,7 +53,7 @@ msgstr "Ein SHARING Name ist notwendig."
 #: sharing.sharing_url.exists
 msgctxt "sharing.sharing_url.exists"
 msgid "The site URL already exists."
-msgstr "Die Seiten URL existiert bereits"
+msgstr "Die Seiten URL existiert bereits."
 
 #: sharing.sharing_url.length
 msgctxt "sharing.sharing_url.length"
@@ -62,9 +63,9 @@ msgstr "Die URL scheint ungültig zu sein."
 #: sharing.sharing_url.required
 msgctxt "sharing.sharing_url.required"
 msgid "The site URL is required."
-msgstr "DIe Seiten URL ist notwendig."
+msgstr "Die Seiten URL ist notwendig."
 
 #: sharing.sharing_url.url
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
-msgstr "Das URL Feld scheint keine gültige URL zu beinhalten?"
+msgstr "Das URL Feld scheint keine gültige URL zu beinhalten."

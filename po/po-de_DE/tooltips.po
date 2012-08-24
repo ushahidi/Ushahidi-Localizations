@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-08-22 18:37+0000\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 19:34+0000\n"
 "Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +33,7 @@ msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr "Du wirst die Möglichkeit haben, einem auslösendem Benutzer eine Badge zu vergeben. Wähle eine Badge aus, die hier angezeigt wird."
+msgstr "Du wirst die Möglichkeit haben, einem auslösendem Benutzer ein Abzeichen zu vergeben. Wähle ein Abzeichen aus, das hier angezeigt wird."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -207,21 +207,21 @@ msgstr "Du kannst eine Farbe auswählen, die unterhalb Deines öffentlichen Prof
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
 msgid "Your email address"
-msgstr "Ihre Email-Adresse"
+msgstr "Deine Email-Adresse"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr "Ihr vollständiger Name"
+msgstr "Dein vollständiger Name"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr "Falls ausgewählt, wird dies Dein neues Passwort. Lasse dieses Feld leer wenn Du Dein aktuelles Passwort behalten möchtest."
+msgstr "Falls ausgewählt, wird dies Dein neues Passwort. Lasse dieses Feld leer, wenn Du Dein aktuelles Passwort behalten möchtest."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -236,14 +236,14 @@ msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr "Wenn Sie JA wählen, bekommen Sie eine Information wenn neue Kommentare oder Ereignisse auf Ihrer Seite gemeldet werden."
+msgstr "Wenn Du JA wählst, bekommst Du eine Information wenn neue Kommentare oder Ereignisse auf Deiner Seite gemeldet werden."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr "Ihr Passwort. Lassen Sie das Feld leer, wenn Sie Ihr jetziges Passwort beibehalten wollen."
+msgstr "Dein Passwort. Lass das Feld leer, wenn Du Dein jetziges Passwort beibehalten möchtest."
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -261,7 +261,7 @@ msgstr "Hier wird die Adresse zu Deinem öffentlichen Profil stehen."
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
 msgid "Your username cannot be changed."
-msgstr "Ihre Benutzername kann nicht geändert werden."
+msgstr "Dein Benutzername kann nicht geändert werden."
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
@@ -276,7 +276,7 @@ msgstr "Zugangsebenen werden verwendet, damit der Zugang zu Benutzerdateneingabe
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr "Diese Mailadresse wird genutzt um Ihnen Alarme zuzustellen."
+msgstr "Diese Mailadresse wird genutzt um Dir Meldungen zuzustellen."
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
@@ -301,7 +301,7 @@ msgstr "Erlaubt die Anzeige von RSS Feeds auf der Hauptseite."
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
 msgid "Allow users to submit information via the web form."
-msgstr "Erlaubt Nutzern die Übermittlung von Informationen via Web-Formular"
+msgstr "Erlaubt Nutzern die Übermittlung von Informationen via Web-Formular."
 
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
@@ -339,7 +339,7 @@ msgid ""
 "response times. We recommend using caching on high traffic sites. **Remember"
 " that reports will be populated on the front end based on the schedule you "
 "set below (Cache Lifetime)."
-msgstr "Erlaube oder verbiete das Zwischenspeichern der Seite. Dies verbessert die Geschwindigkeit beim Seitenaufbau.Wir empfehlen dies bei Seiten die häufig genutzt werden.** Denken Sie daran, dass Meldungen entsprechend Ihrer Einstellung hier im Frontend veröffentlicht werden."
+msgstr "Erlaube oder verbiete das Zwischenspeichern der Seite. Dies verbessert die Geschwindigkeit beim Seitenaufbau.Wir empfehlen dies bei Seiten die häufig genutzt werden.** Denke daran, dass Meldungen entsprechend Deiner Einstellung hier im Frontend veröffentlicht werden."
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
@@ -355,17 +355,17 @@ msgid ""
 "make sure your timezone setting is on UTC and your theme supports checkins. "
 "When you enable this, checkin-only themes will become enabled under your "
 "addons/themes settings page."
-msgstr "Diese Einstellung erlaubt Checkins auf Ihrer Installation. Dies ist ein vereinfachter Report-Typ der nicht moderiert wird bevor er online geht und benötigt einen sicheren Weg. Wenn Sie dies ankreuzen, stellen SIe sicher das Ihre Zeitzone ist auf UTC eingestellt und das Ihr THEME das einloggen erlaubt. "
+msgstr "Diese Einstellung erlaubt Check-Ins auf Deiner Installation. Dies ist ein vereinfachter Report-Typ, der nicht moderiert wird bevor er online geht und benötigt einen sicheren Weg. Wenn Du dies ankreuzt, stelle sicher, dass Deine Zeitzone auf UTC eingestellt ist und das Dein Theme Check-Ins erlaubt. "
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
 msgid "Set the map to cover a specific location."
-msgstr "Setze die Karte um einen spezifischen Ort zu überwachen."
+msgstr "Setze die Karte, um einen spezifischen Ort zu überwachen."
 
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr "Legen Sie eine Farbe fest für alle Kategorien auf der Seite."
+msgstr "Lege eine Farbe fest für alle Kategorien auf der Seite."
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
@@ -375,28 +375,28 @@ msgstr "Setze ein Icon für alle Kategorien auf der Webseite."
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr "Das ist das Land in dem die Seite veröffentlicht wird."
+msgstr "Das ist das Land, in dem die Seite veröffentlicht wird."
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
 msgid "Turn the Contact Tab on or off on the main site."
-msgstr "Ein oder Ausschalten der KONTAKT-Seite"
+msgstr "Ein oder Ausschalten der Kontakt-Seite"
 
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"
 msgid "Turn the How to Help Tab on or off on the main site."
-msgstr "Ein oder Ausschalten der HILFE Seite auf der Hauptseite."
+msgstr "Ein oder Ausschalten der Hilfe Seite auf der Hauptseite."
 
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
 msgid "This is the number of reports displayed per page on the main site."
-msgstr "Dies ist die Anzahl von Meldungen die auf der Hauptseite angezeigt werden."
+msgstr "Dies ist die Anzahl von Meldungen, die auf der Hauptseite angezeigt werden."
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
 msgid ""
 "This is the number of reports displayed per page on the admin Back End."
-msgstr "Dies ist die Anzahl der Berichte die im Back-End angezeigt werden."
+msgstr "Dies ist die Anzahl der Berichte, die im Back-End angezeigt werden."
 
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
@@ -406,17 +406,17 @@ msgstr "Dies ist der Hub für eingehende Nachrichten."
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr "Dieses synchronisiert die Nachrichten im Hub mit der Ushahidi Plattform"
+msgstr "Dieses synchronisiert die Nachrichten im Hub mit der Ushahidi Plattform."
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr "Telefonnummer um die Textnachrichten zu empfangen."
+msgstr "Telefonnummern, um die Textnachrichten zu empfangen."
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
 msgid "Tracks visitors of your site. Get detailed visitor statistics."
-msgstr "Dokumentiert die Besucher Ihrer seite um eine Statistik zu erstellen."
+msgstr "Dokumentiert die Besucher Deiner Seite um eine Statistik zu erstellen."
 
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
@@ -434,7 +434,7 @@ msgstr "Wenn Du diese Option aktivierst, musst Du jeden Benutzer auf der Seite e
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
 msgid "This defines which map is to be used on the site."
-msgstr "Legt die Karte fest die Sie nutzen."
+msgstr "Legt die Karte fest, die Du nutzt."
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
@@ -461,7 +461,7 @@ msgstr "Nach Aktivierung dieser Option wird den Benutzern eine E-Mail mit einem 
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
 msgid "This is where the emails reside"
-msgstr "Das ist wo die Emails liegen."
+msgstr "Hier wird der Speicherort der E-Mails festgelegt."
 
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
@@ -472,7 +472,7 @@ msgstr "Das ist das Passwort für die Emailadresse, welche die Meldungen empfän
 msgctxt "tooltips.settings_server_port"
 msgid ""
 "This is required to accept incoming connections from the email address."
-msgstr "Dies ist notwendig um eingehende Verbindungen von der Mailadresse zu akzeptieren."
+msgstr "Dies ist notwendig, um eingehende Verbindungen von der Mailadresse zu akzeptieren."
 
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
@@ -482,12 +482,12 @@ msgstr "Dies ist notwendig zum Aufbau einer sicheren Verbindung."
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
 msgid "This is required to retrieve e-mails from the host server."
-msgstr "Dies ist notwendig um Mails vom Server zu empfangen."
+msgstr "Dies ist notwendig, um Mails vom Server zu empfangen."
 
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"
 msgid "This is the email address that receives reports."
-msgstr "Diese Emailadresse empfängt die Meldungen"
+msgstr "Diese Emailadresse empfängt die Meldungen."
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
@@ -506,7 +506,7 @@ msgid ""
 "https://creativecommons.org/choose/ if you are interested in specifying what"
 " others are able to do with your work. And remember to be specific about "
 "what elements of the site you are licensing!"
-msgstr "Es ist immer geine gute Idee das Copyright zu sichern für siene Arbeit. Um auch die richtiges Rechte zu bestimmen besuchen Sie http://creativecommons.org/choose/."
+msgstr "Es ist immer eine gute Idee, das Copyright für seine Arbeit zu sichern. Um auch die richtiges Rechte zu bestimmen, besuche https://creativecommons.org/choose/ und beachte, welche Elemte Deiner Seite Du damit lizensierst!"
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
@@ -521,12 +521,12 @@ msgid ""
 "This is text that will appear above the map on the homepage. This is useful "
 "for giving important information to visitors on the site. To remove the box,"
 " simply delete the message here."
-msgstr "Dies ist der Text der oberhalbt der Karte auf der Homepage erscheint. Dies ist hilfreich um wichtige Informationen an die Besucher der Seite weiterzugeben. Um die Box zu löschen, entfernen Sie infach den Text."
+msgstr "Dies ist der Text, der oberhalb der Karte auf der Homepage erscheint. Dies ist hilfreich, um wichtige Informationen an die Besucher der Seite weiterzugeben. Um die Box zu löschen, entferne einfach den Text."
 
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
 msgid "This is the name of the site that appears at the top of the main site."
-msgstr "Das ist der Seitenname der ganz oben auf der Seite erscheint."
+msgstr "Das ist der Seitenname, der ganz oben auf der Seite erscheint."
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
@@ -551,4 +551,4 @@ msgstr "Dies ist die Zeitzone, in der die Website aktiv sein soll. Sie hat Auswi
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
-msgstr "Bestimmen Sie den Twitter hashtag der benutzt werden soll für die Tweets."
+msgstr "Bestimme den Twitter hashtag der für die Tweets verwendet werden soll."

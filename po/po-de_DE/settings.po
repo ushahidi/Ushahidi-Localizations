@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-23 00:04+0000\n"
-"PO-Revision-Date: 2012-08-22 14:47+0000\n"
+"POT-Creation-Date: 2012-08-23 12:07+0000\n"
+"PO-Revision-Date: 2012-08-23 20:35+0000\n"
 "Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +18,7 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr "The allow comments field does not appear to contain a valid value?"
+msgstr "Das \"Kommentare erlauben\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
@@ -28,7 +28,7 @@ msgstr "Das \"Kommentare erlauben\"-Feld wird benötigt."
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr "The include feed field does not appear to contain a valid value?"
+msgstr "Das \"Beinhalte Feed\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
@@ -48,7 +48,7 @@ msgstr "Das \"Erlaube-Alarme\"-Feld wird benötigt."
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr "The allow reports field does not appear to contain a valid value?"
+msgstr "Das \"Erlaube Berichte\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
@@ -58,7 +58,7 @@ msgstr "Das \"Erlaube Berichte\"-Feld wird benötigt."
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr "The stat sharing field does not appear to contain a valid value?"
+msgstr "Das \"Stats teilen\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
@@ -83,12 +83,12 @@ msgstr "Maximale Anzahl an API-Anfragen durch pro IP-Adresse"
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr "The Akismet field does not appear to contain a valid value?"
+msgstr "Das \"Akismet\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.api_akismet.length
 msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr "The Akismet field does not appear to contain a valid value?"
+msgstr "Das \"Akismet\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
@@ -129,7 +129,7 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr "It looks like your server is not configured to handle clean URLs. You will need to change the configuration of your server before you can enable clean URLs. See more info on how to enable clean URLs at this forum <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">post</a>"
+msgstr "Es scheint, dass Dein Server keine sauberen URLs generieren kann. Du musst also erst die Konfiguration Deines Servers ändern, damit er saubere URLs (clean URLs) anbieten kann. Eine Hilfe zur Aktivierung sauberer URLs steht im Forum <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">post</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
@@ -193,7 +193,7 @@ msgstr "Standardposition"
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr "The color feed field does not appear to contain a valid value?"
+msgstr "Das \"Farbe des Feeds\"-Feld scheint keinen gültigen Wert zu haben."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
@@ -208,7 +208,7 @@ msgstr "Die Angabe der Farbe wird benötigt."
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr "Standard Map View"
+msgstr "Standard Kartenansicht"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
@@ -223,7 +223,7 @@ msgstr "Empfange Staedte von Geonames"
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr "The Mail server port field is too long"
+msgstr "Die Angaben beim Mailserver Port sind zu lang."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
@@ -245,7 +245,7 @@ msgstr "Das Mailserver Passwort wird benötigt."
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr "The Mail server port field is too long"
+msgstr "Die Angaben beim Server Port sind zu lang."
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
@@ -255,7 +255,7 @@ msgstr "Der Port für den Mailserver wird benötigt."
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr "The Mail server port field is too long"
+msgstr "Die Angaben beim Server Port sind zu lang."
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
@@ -380,7 +380,7 @@ msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr "Setting up your map provider is a straight- forward process. Select a provider, obtain an API key from the provider's site, and enter the API key"
+msgstr "Die Auswahl des Kartenanbieters ist ein ganz geradliniger Prozess. Wähle einen Anbieter aus, beantrage dort einen sog. \"API key\" und trage diesen API key hier ein."
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
@@ -395,12 +395,12 @@ msgstr "Kartenhistorie"
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr "Karten Einstellungen"
+msgstr "Karteneinstellungen"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr "Does this Ushahidi Deployment Span Multiple Countries"
+msgstr "Umspannt diese Ushahidi Installation mehrere Länder?"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -410,12 +410,12 @@ msgstr "Bitte wählen sie ihr Standardland"
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr "Klicken Sie auf die Karte um Ihre exakte Position zu setzen."
+msgstr "Klicken Sie auf die Karte, um Ihre exakte Position zu setzen."
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
-msgstr "Cluster Reports auf Karte"
+msgstr "Cluster Reports auf der Karte"
 
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
@@ -435,7 +435,7 @@ msgstr "Erlaube Benutzern, Alarme zu abonnieren"
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr "Erlaube Nutzern Meldungen zu erzeugen."
+msgstr "Erlaube Nutzern, Meldungen zu erzeugen."
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
@@ -512,7 +512,7 @@ msgctxt "settings.site.email_notice"
 msgid ""
 "<span>In order to receive reports by email, please configure your email "
 "account settings.</span>"
-msgstr "<span>Zum empfangen von Mails muessen Sie Ihre Email-Einstellungen konfigurieren.</span>"
+msgstr "<span>Zum Empfangen von Mails muessen Sie Ihre Email-Einstellungen konfigurieren.</span>"
 
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
@@ -735,12 +735,12 @@ msgstr "Synchronisiere mit Ushahidi"
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr "Geben Sie die Telefonnummer für die Verbindung zu Frontline SMS ein."
+msgstr "Gib die Telefonnummer für die Verbindung zu Frontline SMS ein."
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
-msgstr "Geben Sie die Nummer ohne + oder Striche ein."
+msgstr "Gib die Nummer ohne + oder Striche ein."
 
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
