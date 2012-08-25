@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-24 00:04+0000\n"
-"PO-Revision-Date: 2012-08-24 11:47+0000\n"
+"POT-Creation-Date: 2012-08-24 12:04+0000\n"
+"PO-Revision-Date: 2012-08-24 20:34+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -186,12 +186,12 @@ msgstr ""
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "Parola FTP:"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "Nume utilizator FTP:"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
@@ -206,7 +206,7 @@ msgstr "Nu este necesar să faci upgrade"
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "Versiunea bazei de date: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
