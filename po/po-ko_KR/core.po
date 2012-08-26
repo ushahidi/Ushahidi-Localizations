@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Seokwon Yang <seokwon@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-25 00:04+0000\n"
-"PO-Revision-Date: 2012-08-19 22:55+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-25 12:05+0000\n"
+"PO-Revision-Date: 2012-08-25 12:44+0000\n"
+"Last-Translator: Seokwon Yang <seokwon@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,7 +50,7 @@ msgstr "<a href=\"%s\">홈페이지</a>에 가거나 <a href=\"%s\">다시 시�
 #: core.error_file_line
 msgctxt "core.error_file_line"
 msgid "<tt>%s <strong>[%s]:</strong></tt>"
-msgstr ""
+msgstr "<tt>%s <strong>[%s]:</strong></tt>"
 
 #: core.generic_error
 msgctxt "core.generic_error"

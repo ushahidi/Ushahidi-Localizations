@@ -1,33 +1,36 @@
-#. extracted from en_US/page.php, ko_KR/page.php
+# 
+# Translators:
+# Seokwon Yang <seokwon@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-20 03:24+0000\n"
-"PO-Revision-Date: 2012-08-20 03:24+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-25 12:05+0000\n"
+"PO-Revision-Date: 2012-08-25 12:29+0000\n"
+"Last-Translator: Seokwon Yang <seokwon@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: page.page_title.required
 msgctxt "page.page_title.required"
 msgid "Please enter a Page Title."
-msgstr ""
+msgstr "페이지의 제목을 입력해 주세요."
 
 #: page.page_title.length
 msgctxt "page.page_title.length"
 msgid "Page Title must be at least 3 and no more than 150 characters long."
-msgstr ""
+msgstr "페이지의 제목은 최소 3자 최대 150자이어야 합니다."
 
 #: page.page_tab.required
 msgctxt "page.page_tab.required"
 msgid "Please enter a Page Tab Name."
-msgstr ""
+msgstr "페이지 탭에 이름을 입력해 주세요."
 
 #: page.page_description.required
 msgctxt "page.page_description.required"
 msgid "Please enter a Page Description."
-msgstr ""
-
+msgstr "페이지를 설명하는 글을 입력해 주세요."

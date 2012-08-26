@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Seokwon Yang <seokwon@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-25 00:04+0000\n"
-"PO-Revision-Date: 2012-07-12 21:27+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-25 12:05+0000\n"
+"PO-Revision-Date: 2012-08-25 12:46+0000\n"
+"Last-Translator: Seokwon Yang <seokwon@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +28,7 @@ msgstr "보안문자를 입력해주세요."
 #: comments.captcha.valid
 msgctxt "comments.captcha.valid"
 msgid "You entered the wrong security code."
-msgstr ""
+msgstr "비밀번호가 맞지 않습니다."
 
 #: comments.comment_author.length
 msgctxt "comments.comment_author.length"
