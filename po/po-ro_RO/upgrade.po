@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-25 12:05+0000\n"
-"PO-Revision-Date: 2012-08-25 06:02+0000\n"
+"POT-Creation-Date: 2012-08-26 00:04+0000\n"
+"PO-Revision-Date: 2012-08-26 03:56+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,12 +80,12 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidi a fost actualizat! Înainte să continui, trebuie să actualizezi baza de date cu cea mai nouă versiune (%s)."
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "Versiunea bazei de date este cea mai recentă."
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
@@ -164,7 +164,7 @@ msgstr ""
 msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%s with database version %d running on %s"
-msgstr ""
+msgstr "Folosiți Ushahidi v%s cu baza de date versiunea %d ce rulează pe %s"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
@@ -271,7 +271,7 @@ msgstr ""
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "Copierea fișierelor a eșuat."
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
@@ -281,7 +281,7 @@ msgstr ""
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "Realizarea unui back-up al bazei de date a eșuat."
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
@@ -291,7 +291,7 @@ msgstr ""
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "Fișierele descărcate se șterg..."
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
