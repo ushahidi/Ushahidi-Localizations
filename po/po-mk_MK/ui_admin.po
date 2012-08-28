@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <aserafim@thoughtworks.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-27 00:04+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-27 12:05+0000\n"
+"PO-Revision-Date: 2012-08-27 16:08+0000\n"
+"Last-Translator: mopkobot <aserafim@thoughtworks.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +20,7 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "Пристапот е одбиен. Или вашите податоци не се валидни или вашето барање е одбиено."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
@@ -41,7 +42,7 @@ msgstr ""
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Додај во категорија"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -61,7 +62,7 @@ msgstr ""
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Администратор"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
@@ -141,17 +142,17 @@ msgstr ""
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr ""
+msgstr "Дали сте сигурни дека сакате"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr ""
+msgstr "Дали сте сигурни дека сакате да ја избришете оваа содржина?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr ""
+msgstr "Дали сте сигурни дека сакате да ја избришете оваа слика?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
@@ -176,12 +177,12 @@ msgstr ""
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr ""
+msgstr "Електронска пошта на авторот"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
@@ -216,7 +217,7 @@ msgstr ""
 #: ui_admin.categories
 msgctxt "ui_admin.categories"
 msgid "Categories"
-msgstr ""
+msgstr "Категории"
 
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
@@ -226,17 +227,17 @@ msgstr ""
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
-msgstr ""
+msgstr "Ве молиме проверете дали вашата порака е валидна."
 
 #: ui_admin.check_number
 msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
-msgstr ""
+msgstr "Ве молиме проверете дали вашиот број е валиден."
 
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
-msgstr ""
+msgstr "Ве молиме проверете ги вашите СМС подесувања."
 
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
@@ -266,12 +267,12 @@ msgstr ""
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Боја"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Коментари"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
@@ -281,7 +282,7 @@ msgstr ""
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "Корисникот е"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -291,7 +292,7 @@ msgstr ""
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "Земјата не е пронајдена"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
@@ -301,7 +302,7 @@ msgstr ""
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr ""
+msgstr "Создадете извештај"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
@@ -316,12 +317,12 @@ msgstr ""
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Моментално Активен"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Моментално Неактивен"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
@@ -332,7 +333,7 @@ msgstr ""
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "Дневно"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
@@ -372,7 +373,7 @@ msgstr ""
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete All"
-msgstr ""
+msgstr "Избриши ги сите"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -387,12 +388,12 @@ msgstr ""
 #: ui_admin.description
 msgctxt "ui_admin.description"
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Исклучено"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -412,7 +413,7 @@ msgstr ""
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Симни извештаи"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
@@ -422,17 +423,17 @@ msgstr ""
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "ИЗМЕНЕТО"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr ""
+msgstr "Изменето од"
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "Измени"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
@@ -442,7 +443,7 @@ msgstr ""
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "Електронска адреса"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -462,22 +463,22 @@ msgstr ""
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr ""
+msgstr "Грешка"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr ""
+msgstr "Грешка, инцидентот не може да биде објавен."
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
 msgid "Every Six Hours"
-msgstr ""
+msgstr "Секои шест часа"
 
 #: ui_admin.every_twelve_hours
 msgctxt "ui_admin.every_twelve_hours"
 msgid "Every Twelve Hours"
-msgstr ""
+msgstr "Секои дванаесет часа"
 
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
@@ -512,7 +513,7 @@ msgstr ""
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr ""
+msgstr "Стандардна вредност"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
@@ -567,7 +568,7 @@ msgstr ""
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "Не"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
@@ -739,12 +740,12 @@ msgstr ""
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Кој ќе може да ги види одговорите"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Кој ќе може да одговори"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
@@ -759,17 +760,17 @@ msgstr ""
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
 msgid "Email Address:"
-msgstr ""
+msgstr "Електронска Адреса:"
 
 #: ui_admin.label_full_name
 msgctxt "ui_admin.label_full_name"
 msgid "Full Name:"
-msgstr ""
+msgstr "Име и презиме:"
 
 #: ui_admin.label_password
 msgctxt "ui_admin.label_password"
 msgid "Password:"
-msgstr ""
+msgstr "Лозинка:"
 
 #: ui_admin.label_role
 msgctxt "ui_admin.label_role"
@@ -779,7 +780,7 @@ msgstr ""
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
 msgid "Username:"
-msgstr ""
+msgstr "Корисничко име:"
 
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
@@ -794,7 +795,7 @@ msgstr ""
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
 msgid "Logout"
-msgstr ""
+msgstr "Одјависе"
 
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
@@ -814,12 +815,12 @@ msgstr ""
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
 msgid "View Users"
-msgstr ""
+msgstr "Види Корисници"
 
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
-msgstr ""
+msgstr "Додај/Промени Корисници"
 
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
@@ -849,12 +850,12 @@ msgstr ""
 #: ui_admin.message
 msgctxt "ui_admin.message"
 msgid "Message"
-msgstr ""
+msgstr "Порака"
 
 #: ui_admin.messages
 msgctxt "ui_admin.messages"
 msgid "Messages"
-msgstr ""
+msgstr "Пораки"
 
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
@@ -864,12 +865,12 @@ msgstr ""
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr ""
+msgstr "Твитер Пораки"
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "Твојата порака е пратена!"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
@@ -879,12 +880,12 @@ msgstr ""
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "Минута"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
 msgid "Minutes"
-msgstr ""
+msgstr "Минути"
 
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
@@ -969,7 +970,7 @@ msgstr ""
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "Создадете нова порака"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
@@ -1072,36 +1073,36 @@ msgstr ""
 #: ui_admin.password
 msgctxt "ui_admin.password"
 msgid "Password"
-msgstr ""
+msgstr "Лозинка"
 
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
+msgstr "Рестартирање на лозинката"
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr ""
+msgstr "Драги"
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "Добивме барање за ресетирање на лозинката за"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr ""
+msgstr "За да ја промените лозинката, кликнете на линкот подолу (или копирајте го и ставете го линкот во вашито прелистувач)"
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "Како што побаравте, вашата лозинка беше ресетирана. Вашите нови детали се следниве"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
@@ -1111,12 +1112,12 @@ msgstr ""
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr ""
+msgstr "Ве молиме изберете"
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
@@ -1131,27 +1132,27 @@ msgstr ""
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Преглед"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Порака"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Приватна Порака"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Приватната порака е испратена"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Наслов"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
@@ -1236,12 +1237,12 @@ msgstr ""
 #: ui_admin.search
 msgctxt "ui_admin.search"
 msgid "Search"
-msgstr ""
+msgstr "Барај"
 
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Барај извештаи"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1275,7 +1276,7 @@ msgstr ""
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
 msgid "Please select an item"
-msgstr ""
+msgstr "Ве молиме изберете содржина"
 
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
@@ -1290,17 +1291,17 @@ msgstr ""
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
 msgid "Sender"
-msgstr ""
+msgstr "Испраќач"
 
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "Испрати до"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "Оваа порака е испратена од твојот веб сајт во"
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
@@ -1310,7 +1311,7 @@ msgstr ""
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
 msgid "Settings"
-msgstr ""
+msgstr "Прилагодувања"
 
 #: ui_admin.showing_page
 msgctxt "ui_admin.showing_page"
@@ -1330,7 +1331,7 @@ msgstr ""
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "Специјална категорија"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1488,12 +1489,12 @@ msgstr ""
 #: ui_admin.user
 msgctxt "ui_admin.user"
 msgid "User"
-msgstr ""
+msgstr "Корисник"
 
 #: ui_admin.users
 msgctxt "ui_admin.users"
 msgid "Users"
-msgstr ""
+msgstr "Корисници"
 
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
@@ -1513,7 +1514,7 @@ msgstr ""
 #: ui_admin.version
 msgctxt "ui_admin.version"
 msgid "Version"
-msgstr ""
+msgstr "Верзија"
 
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
@@ -1543,7 +1544,7 @@ msgstr ""
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
 msgid "Welcome, "
-msgstr ""
+msgstr "Добредојдовте"
 
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
@@ -1553,7 +1554,7 @@ msgstr ""
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Да"
 
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <aserafim@thoughtworks.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-27 00:04+0000\n"
-"PO-Revision-Date: 2012-08-17 22:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-08-27 12:05+0000\n"
+"PO-Revision-Date: 2012-08-27 15:29+0000\n"
+"Last-Translator: mopkobot <aserafim@thoughtworks.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,12 +21,12 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Ова го додава извештајот во дополнителни категории. Ако одберете категорија 1 тука и извештајот веќе има категорија 2 прикачена на него, извештајот тогаш ќе има и Категорија 1 и Категорија 2."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Одобрува или не одобрува извештај. Доколку извештајот е одобрен, ќе биде достапен јавно."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
@@ -66,12 +67,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Содржината на пораката која ќе биде испратена."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Наслов на пораката која ќе биде испратена."
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -105,7 +106,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Ова е стандардниот наслов кој ќе биде додаден на извештај."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -153,7 +154,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Обележува извештај за веруфикуван или не верификуван."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -165,7 +166,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Оделете ја секоја вредност со запирка, на пример: вредност1, вредност2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -188,12 +189,12 @@ msgstr ""
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Наслов на приватна порака"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Содржина на приватна порака"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -206,7 +207,7 @@ msgstr ""
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
 msgid "Your email address"
-msgstr ""
+msgstr "Ваша електронска адреса"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
@@ -260,7 +261,7 @@ msgstr ""
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
 msgid "Your username cannot be changed."
-msgstr ""
+msgstr "Вашето корисничко име може да биде променето."
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
@@ -537,7 +538,7 @@ msgstr ""
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
 msgid "In a few words, explain what this site is about."
-msgstr ""
+msgstr "Во неколку зборови, објаснете што е функцијата на овој сајт."
 
 #: tooltips.settings_site_timezone
 msgctxt "tooltips.settings_site_timezone"

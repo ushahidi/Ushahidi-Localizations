@@ -1,15 +1,19 @@
-#. extracted from en_US/sharing.php, mk_MK/sharing.php
+# 
+# Translators:
+#   <aserafim@thoughtworks.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 06:51+0000\n"
-"PO-Revision-Date: 2012-08-17 06:51+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-08-27 12:05+0000\n"
+"PO-Revision-Date: 2012-08-27 16:27+0000\n"
+"Last-Translator: mopkobot <aserafim@thoughtworks.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: mk_MK\n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: sharing.date
 msgctxt "sharing.date"
@@ -19,22 +23,22 @@ msgstr ""
 #: sharing.date_added
 msgctxt "sharing.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Датум на додавање"
 
 #: sharing.last_access
 msgctxt "sharing.last_access"
 msgid "Last Access"
-msgstr ""
+msgstr "Последно пристапено"
 
 #: sharing.sharing_color.length
 msgctxt "sharing.sharing_color.length"
 msgid "The color field must be 6 characters long."
-msgstr ""
+msgstr "Полето \"Боја\" мора да биде 6 карактери."
 
 #: sharing.sharing_color.required
 msgctxt "sharing.sharing_color.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "Полето \"Боја\" е задолжително."
 
 #: sharing.sharing_name.length
 msgctxt "sharing.sharing_name.length"
@@ -65,4 +69,3 @@ msgstr ""
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
 msgstr ""
-
