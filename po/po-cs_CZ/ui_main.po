@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-08-30 12:05+0000\n"
-"PO-Revision-Date: 2012-08-27 13:23+0000\n"
+"POT-Creation-Date: 2012-08-31 00:05+0000\n"
+"PO-Revision-Date: 2012-08-31 07:24+0000\n"
 "Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -128,7 +128,7 @@ msgstr "Uložit"
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
 msgid "Email address:"
-msgstr " "
+msgstr " E-mailová adresa:"
 
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
@@ -197,7 +197,7 @@ msgstr "<strong>Vyberte kategorie"
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr " "
+msgstr " Potvrdit předešlý požadavek na upozornění"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
@@ -282,7 +282,7 @@ msgstr "autor"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Automatická kontrola"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -302,32 +302,32 @@ msgstr "K ověření"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Značka"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Značky"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "Obrázek značky"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Nebo si můžete místo toho nahrát svůj vlastní obrázek značky."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Balíček značek"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Vybrat zančku"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -337,7 +337,7 @@ msgstr "Blog"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Prohlížet profily"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -372,7 +372,7 @@ msgstr "Název kategorie"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Změna časového období"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
@@ -614,7 +614,7 @@ msgstr "Vymazané"
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "Odstranění zakázáno"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
@@ -664,7 +664,7 @@ msgstr "Přímá zpráva"
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázáno"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
@@ -863,7 +863,7 @@ msgstr ""
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr ""
+msgstr "Nevyužitá pole"
 
 #: ui_main.file
 msgctxt "ui_main.file"
@@ -873,7 +873,7 @@ msgstr "Soubor"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Váš soubor má velikost přes maximální povolenou hodnotu."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -888,7 +888,7 @@ msgstr "Filtr zpráv"
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Filtrovat zprávy od"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
@@ -1098,7 +1098,7 @@ msgstr "Zahrnout kategorie"
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Zahrnout vlastní pole"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
@@ -1145,7 +1145,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Váš účet nemá dostatečná práva, pro plné přihlášení, kontaktujte prosím správce."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1205,7 +1205,7 @@ msgstr "KML URL"
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1453,12 +1453,12 @@ msgstr "Detaily zprávy"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Zpráva z nečíselného zdroje:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobilní"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
@@ -1555,7 +1555,7 @@ msgstr "Ne"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Nezobrazovat žádné kontroly"
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
@@ -1565,7 +1565,7 @@ msgstr "Žádná data"
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Žádné"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1700,7 +1700,7 @@ msgstr "Původní název"
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr "OTHER USHAHIDI DEPLOYMENTS"
+msgstr "Ostatní nasazení"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
@@ -1810,17 +1810,17 @@ msgstr "Telefon"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr "Fotky"
+msgstr "Fotografie"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr "Fotografie"
+msgstr "Obrázky"
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
-msgstr "Fotografie a videa"
+msgstr "Obrázky a videa"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
@@ -1848,7 +1848,7 @@ msgstr "Pluginy"
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Webová stránka Pluginů"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
@@ -1908,7 +1908,7 @@ msgstr "Hodnocení"
 #: ui_main.read
 msgctxt "ui_main.read"
 msgid "Read"
-msgstr "Ledo"
+msgstr "Číst"
 
 #: ui_main.receive
 msgctxt "ui_main.receive"
@@ -1943,7 +1943,7 @@ msgstr "Registrovaný Email"
 #: ui_main.remove
 msgctxt "ui_main.remove"
 msgid "Remove"
-msgstr "odstranit"
+msgstr "Odstranit"
 
 #: ui_main.reply
 msgctxt "ui_main.reply"
@@ -2058,7 +2058,7 @@ msgstr "Popis"
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr "Události se nahrají ve formátu CVS"
+msgstr "Události se nahrají ve formátu CSV"
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
@@ -2170,7 +2170,7 @@ msgstr "Mailem na "
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr "Twítnutím s hashtagem "
+msgstr "Odesláním tweetu s hashtagem/y"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
@@ -2240,12 +2240,12 @@ msgstr "Získat názvy měst pro vybranou zemi"
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Účty sparavuje %s služba."
 
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr ""
+msgstr "Role"
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
@@ -2400,17 +2400,17 @@ msgstr "Typ serveru"
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr ""
+msgstr "Služba"
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr ""
+msgstr "Uživatelské jméno služby"
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr ""
+msgstr "Uživatelské ID služby"
 
 #: ui_main.share
 msgctxt "ui_main.share"
@@ -2485,7 +2485,7 @@ msgstr "SMS"
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "Je nám líto, nemáte žádné značky."
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2550,7 +2550,7 @@ msgstr ""
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr "To se povedlo!"
+msgstr "Úspěch!"
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
@@ -2640,7 +2640,7 @@ msgstr "NÁZEV "
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr ""
+msgstr "do"
 
 #: ui_main.today
 msgctxt "ui_main.today"
@@ -2655,7 +2655,7 @@ msgstr "Dnes v"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2715,7 +2715,7 @@ msgstr "Nelze odeslat e-mail."
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Nezařazené Hlášení"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2756,31 +2756,31 @@ msgstr "Pomocí níže umístěného formuláře můžete nahrát zprávy (into 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be upladed in CSV format."
-msgstr "Zprávy se musí nahrát ve formátu CVS"
+msgstr "Zprávy se musí nahrát ve formátu CSV"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV file "
 "will be ignored."
-msgstr "When incident ID already exists in the database, the entry in the CSV file will be ignored"
+msgstr "Při incidentu již existujícího ID v databázi, bude položka v souboru CSV ignorována."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr "It must contain at least Incident Title and Incident Date"
+msgstr "Musí obsahovat alespoň název a datum incidentu."
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Pokud nejsou zadány sloupce pro zeměpisnou šířku a délku, lze umístit geokódování pomocí Google Geocoder."
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "Ukázka hlášení přes CVS"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
