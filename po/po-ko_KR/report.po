@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Jungkwan Kim <donationsurvey@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-01 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:47+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-01 12:05+0000\n"
+"PO-Revision-Date: 2012-09-01 23:31+0000\n"
+"Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,7 +25,7 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "리포트 배치범위는 한 국가안에서만 가능합니다. 현재 리포트 위치를 %s 안으로만 해주세요."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -44,38 +45,38 @@ msgstr "다운로드할 정확한 아이템을 선택하세요."
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "리포트 승인대기, 리포트승인, 둘다 중 하나를 선택해주세요."
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "리포트 승인대기, 리포트승인, 둘다 중 하나를 선택해주세요."
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "리포트 승인대기, 리포트승인, 둘다 중 하나를 선택해주세요."
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "리포트 확인대기, 리포트확인, 둘다 중 하나를 선택해주세요."
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "리포트 확인대기, 리포트확인, 둘다 중 하나를 선택해주세요."
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "리포트 확인대기, 리포트확인, 둘다 중 하나를 선택해주세요."
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
@@ -224,7 +225,7 @@ msgstr "제목을 입력해주세요."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "CSRF 공격에 노출될 수 있습니다. 리포트를 만들거나 수정하시겠습니까?\n참조 : CSRF 설명 http://goo.gl/gFULR"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"

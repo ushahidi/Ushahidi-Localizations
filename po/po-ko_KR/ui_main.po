@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Jungkwan Kim <donationsurvey@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-01 00:05+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-01 12:05+0000\n"
+"PO-Revision-Date: 2012-09-01 23:58+0000\n"
+"Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +18,7 @@ msgstr ""
 #: ui_main.about
 msgctxt "ui_main.about"
 msgid "About "
-msgstr ""
+msgstr "About"
 
 #: ui_main.access
 msgctxt "ui_main.access"
@@ -62,7 +63,7 @@ msgstr "추가"
 #: ui_main.added_by
 msgctxt "ui_main.added_by"
 msgid "Added By"
-msgstr ""
+msgstr "추가한 사람은"
 
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
@@ -171,7 +172,7 @@ msgstr "위치를 찾을 수 없을 경우 지도위에 정확한 위치를 클�
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr ""
+msgstr "RSS 피드 (아래의 URL을 복사하세요)"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
@@ -231,7 +232,7 @@ msgstr "그리고"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -271,7 +272,7 @@ msgstr "아카이브"
 #: ui_main.at
 msgctxt "ui_main.at"
 msgid "at"
-msgstr ""
+msgstr "at"
 
 #: ui_main.author
 msgctxt "ui_main.author"
@@ -478,7 +479,7 @@ msgstr "문의"
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "보안코드"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
@@ -518,12 +519,12 @@ msgstr "제목"
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr ""
+msgstr "Copyright©"
 
 #: ui_main.create
 msgctxt "ui_main.create"
 msgid "Create"
-msgstr ""
+msgstr "생성"
 
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
@@ -533,7 +534,7 @@ msgstr "수정"
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr ""
+msgstr "생성"
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
@@ -548,7 +549,7 @@ msgstr "새 리포트"
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
 msgid "Credibility"
-msgstr ""
+msgstr "신뢰도"
 
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
@@ -573,7 +574,7 @@ msgstr "기간"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(mm/dd/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -593,7 +594,7 @@ msgstr "비활성화"
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "나이로비, 케냐"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -743,54 +744,54 @@ msgstr "메일서버 Username"
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "이메일주소와 "
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "리포트를 이메일로 받기를 원한다면 아래의 이메일 계정 설정을 해주세요. 리포트는 다음의 이메일로 받게되오니 참고해주세요 : "
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "일부 서버는 완벽한 이메일 주소를 요구합니다."
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "이메일 계정 비밀번호"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "포트: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "예시: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "예시: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "SSL연결을 사용 또는 사용금지"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---비었음---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr ""
+msgstr "to"
 
 #: ui_main.error
 msgctxt "ui_main.error"
@@ -805,7 +806,7 @@ msgstr "예시"
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
 msgid "Kenya"
-msgstr ""
+msgstr "케냐"
 
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
@@ -952,7 +953,7 @@ msgstr "폼 제목"
 #: ui_main.from
 msgctxt "ui_main.from"
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
@@ -962,7 +963,7 @@ msgstr "이름"
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr ""
+msgstr "GeoLocation 사용가능"
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
@@ -987,7 +988,7 @@ msgstr ""
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Go"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -1002,22 +1003,22 @@ msgstr ""
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "도움말"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "숨겨진"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
 msgid "Hide"
-msgstr ""
+msgstr "숨기다."
 
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr ""
+msgstr "이 메시지 숨기기."
 
 #: ui_main.home
 msgctxt "ui_main.home"
@@ -1032,12 +1033,12 @@ msgstr "리포트 하는 방법"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1154,7 +1155,7 @@ msgstr ""
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "IP 주소"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
@@ -1199,12 +1200,12 @@ msgstr "업로드 KMZ/KML 파일"
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1264,7 +1265,7 @@ msgstr "레이어 URL"
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "코멘트를 남겨주세요."
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
@@ -1289,7 +1290,7 @@ msgstr "레벨 이름"
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "제한"
 
 #: ui_main.link
 msgctxt "ui_main.link"
@@ -1304,7 +1305,7 @@ msgstr "리스트"
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "리포트를 읽어오는 중"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1360,7 +1361,7 @@ msgstr "이메일과 암호를 입력해주세요."
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
@@ -1477,24 +1478,24 @@ msgstr "달"
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr ""
+msgstr "더"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "더 많은 정보"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "현재 우샤히디 배치범위가 한 국가 이상입니까?"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "반드시 이 배치에 접속하기 위해서는 이메일을 확인해야 합니다. 만약, 확인된 이메일을 잊어버렸다면, 아래에서 요청할 수 있습니다."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1549,7 +1550,7 @@ msgstr "다음"
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "No!!"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
@@ -2389,47 +2390,47 @@ msgstr ""
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr ""
+msgstr "서버주소"
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
 msgid "Server type"
-msgstr ""
+msgstr "서버타입"
 
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr ""
+msgstr "서비스"
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr ""
+msgstr "서비스 사용자명"
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr ""
+msgstr "서비스 사용자 ID"
 
 #: ui_main.share
 msgctxt "ui_main.share"
 msgid "Share"
-msgstr ""
+msgstr "공유"
 
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr ""
+msgstr "공유된 데이터"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "다음에서 공유되었습니다 : "
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr ""
+msgstr "공유하기"
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
@@ -2439,7 +2440,7 @@ msgstr ""
 #: ui_main.show
 msgctxt "ui_main.show"
 msgid "Show"
-msgstr ""
+msgstr "보여주기"
 
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
@@ -2514,12 +2515,12 @@ msgstr "SSL을 지원하나요?"
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #: ui_main.step
 msgctxt "ui_main.step"
 msgid "Step"
-msgstr ""
+msgstr "스텝"
 
 #: ui_main.submit
 msgctxt "ui_main.submit"
@@ -2529,22 +2530,22 @@ msgstr "리포트 제출"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted By"
-msgstr ""
+msgstr "제출자"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
-msgstr ""
+msgstr "SMS를 통해 제출"
 
 #: ui_main.submit_sms1
 msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
-msgstr ""
+msgstr "SMS 보내기"
 
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr ""
+msgstr "휴대폰에"
 
 #: ui_main.success
 msgctxt "ui_main.success"
@@ -2554,7 +2555,7 @@ msgstr "성공!"
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr ""
+msgstr "임포트 성공"
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
@@ -2579,7 +2580,7 @@ msgstr ""
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "TCP 포트"
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2639,22 +2640,22 @@ msgstr "제목 "
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr ""
+msgstr "to"
 
 #: ui_main.today
 msgctxt "ui_main.today"
 msgid "Today"
-msgstr ""
+msgstr "오늘"
 
 #: ui_main.today_at
 msgctxt "ui_main.today_at"
 msgid "Today at"
-msgstr ""
+msgstr "Today at"
 
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "토큰"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2704,7 +2705,7 @@ msgstr "유형"
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "트위터"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
