@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-01 12:05+0000\n"
-"PO-Revision-Date: 2012-09-01 23:58+0000\n"
+"POT-Creation-Date: 2012-09-02 00:05+0000\n"
+"PO-Revision-Date: 2012-09-02 02:10+0000\n"
 "Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -148,7 +148,7 @@ msgstr "알림설정"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "이전 알림"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -469,7 +469,7 @@ msgstr "이메일 확인이 완료되었습니다. 로그인 시 사용하세요
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "이메일 확인이 실패했습니다. 아래에서 다른 이메일로 확인을 재요청할 수 있습니다."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -614,7 +614,7 @@ msgstr "삭제"
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "사용불가 삭제"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
@@ -679,7 +679,7 @@ msgstr "리포트 다운로드"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "다운로드"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -1150,7 +1150,7 @@ msgstr " Your account doesn't have the proper permission to fully log you in. Pl
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr ""
+msgstr "다음에 답변"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
@@ -1453,7 +1453,7 @@ msgstr "상세 메시지"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "숫자가 아닌 소스에서 온 메시지 :"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
@@ -1555,22 +1555,22 @@ msgstr "No!!"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "표시할 체크인이 없습니다."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "데이터가 없습니다."
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr ""
+msgstr "공지"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
@@ -1610,7 +1610,7 @@ msgstr "결과 없음"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Off"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1620,22 +1620,22 @@ msgstr "공식&주요일간지 뉴스"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "On"
 
 #: ui_main.option
 msgctxt "ui_main.option"
 msgid "Option"
-msgstr ""
+msgstr "옵션"
 
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr ""
+msgstr "선택사항"
 
 #: ui_main.options
 msgctxt "ui_main.options"
 msgid "Options"
-msgstr ""
+msgstr "옵션"
 
 #: ui_main.organization
 msgctxt "ui_main.organization"
@@ -1700,7 +1700,7 @@ msgstr "오리지날 제목"
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr ""
+msgstr "다른 배치"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
@@ -1710,7 +1710,7 @@ msgstr "보낸함"
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr ""
+msgstr "나가는"
 
 #: ui_main.page
 msgctxt "ui_main.page"
@@ -1780,12 +1780,12 @@ msgstr "로그인을 유지"
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
 msgid "Past Month"
-msgstr ""
+msgstr "지난 1개월"
 
 #: ui_main.past_year
 msgctxt "ui_main.past_year"
 msgid "Past Year"
-msgstr ""
+msgstr "지난 1년"
 
 #: ui_main.pending
 msgctxt "ui_main.pending"
@@ -1795,7 +1795,7 @@ msgstr "검토중"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "당"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1878,7 +1878,7 @@ msgstr "메시지 미리보기"
 #: ui_main.previous
 msgctxt "ui_main.previous"
 msgid "Previous"
-msgstr ""
+msgstr "이전의"
 
 #: ui_main.private
 msgctxt "ui_main.private"
@@ -1908,22 +1908,22 @@ msgstr "평가"
 #: ui_main.read
 msgctxt "ui_main.read"
 msgid "Read"
-msgstr ""
+msgstr "읽다"
 
 #: ui_main.receive
 msgctxt "ui_main.receive"
 msgid "Receive"
-msgstr ""
+msgstr "받다"
 
 #: ui_main.receive_from
 msgctxt "ui_main.receive_from"
 msgid "Receive from"
-msgstr ""
+msgstr "수신"
 
 #: ui_main.receive_notifications
 msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
-msgstr ""
+msgstr "공지사항 수신"
 
 #: ui_main.recent_reports
 msgctxt "ui_main.recent_reports"
@@ -2033,7 +2033,7 @@ msgstr "제출"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "리포트한 사용자"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2043,7 +2043,7 @@ msgstr "카테고리"
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d 리포트"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2235,32 +2235,32 @@ msgstr "암호 초기화"
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr ""
+msgstr "선택한 국가의 도시명을 검색합니다."
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "계정은 %s 서비스에 의해 관리."
 
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr ""
+msgstr "역할"
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
 msgid "Save"
-msgstr ""
+msgstr "저장"
 
 #: ui_main.saved
 msgctxt "ui_main.saved"
 msgid "Saved"
-msgstr ""
+msgstr "저장되었습니다"
 
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
@@ -2290,12 +2290,12 @@ msgstr "스케줄러"
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
 msgid "Day"
-msgstr ""
+msgstr "날짜"
 
 #: ui_main.scheduler_hour
 msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
-msgstr ""
+msgstr "시간"
 
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
@@ -2305,12 +2305,12 @@ msgstr "스케줄러 로그"
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
-msgstr ""
+msgstr "분"
 
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr ""
+msgstr "요일"
 
 #: ui_main.search
 msgctxt "ui_main.search"
@@ -2345,7 +2345,7 @@ msgstr "폼타입선택"
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr ""
+msgstr "지도안에서 선택"
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
@@ -2355,7 +2355,7 @@ msgstr "카테고리는 1개 이상 선택해주세요."
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "체크한 아이템을 확인하세요."
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
@@ -2365,27 +2365,27 @@ msgstr "테마 선택"
 #: ui_main.send
 msgctxt "ui_main.send"
 msgid "Send"
-msgstr ""
+msgstr "보내기"
 
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "확인 보내기"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr ""
+msgstr "다음으로 전송"
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
 msgid "Sent"
-msgstr ""
+msgstr "보냄"
 
 #: ui_main.sent_by
 msgctxt "ui_main.sent_by"
 msgid "Sent by"
-msgstr ""
+msgstr "보낸사람"
 
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
@@ -2435,7 +2435,7 @@ msgstr "공유하기"
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "짧은 지도"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2475,7 +2475,7 @@ msgstr "사이트 URL"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "작은 지도"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
@@ -2575,7 +2575,7 @@ msgstr "시스템"
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "큰 지도"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2695,7 +2695,7 @@ msgstr "번역이 저장 되었습니다."
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "신뢰할 수 있는"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2751,7 +2751,7 @@ msgstr "업로드 리포트"
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "아래의 폼에서 사건을 우샤히디로 불러올 수 있습니다."
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
@@ -2763,24 +2763,24 @@ msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV file "
 "will be ignored."
-msgstr ""
+msgstr "사건 ID가 이미 데이터베이스에 존재할 경우, 해당 CSV 항목은 무시됩니다."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr ""
+msgstr "반드시 사건의 제목과 날짜가 포함되어야 합니다."
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "만약, 위도와 경도를 넣지 않으면 위치는 Google Geocoder를 사용하여 정해집니다."
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "CSV 샘플 리포트"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2790,7 +2790,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,사건명,날짜,위치,설명,카테고리,승인,확인,위도,경도<br/>\"1\",\"서울, 사망자 발생 추정\",\"2012-09-02 09:06:00\",\"서울\",\"유사한 케이스가 뉴욕에서 확인되었습니다.\",\"사망,시민\",\"YES\",\"YES\",\"29\"126.974\",\"37.564\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2798,7 +2798,7 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
@@ -2813,7 +2813,7 @@ msgstr "업로드 비디오"
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2863,7 +2863,7 @@ msgstr "버전"
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr ""
+msgstr "via"
 
 #: ui_main.video
 msgctxt "ui_main.video"
@@ -2923,7 +2923,7 @@ msgstr "리포트 보기"
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr ""
+msgstr "보이기"
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
@@ -2938,7 +2938,7 @@ msgstr "확인대기"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "넒은 지도"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
@@ -2953,7 +2953,7 @@ msgstr "무게"
 #: ui_main.yes
 msgctxt "ui_main.yes"
 msgid "Yes"
-msgstr ""
+msgstr "네"
 
 #: ui_main.yesterday
 msgctxt "ui_main.yesterday"
@@ -2973,9 +2973,9 @@ msgstr "내 파일"
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "확대"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "축소"

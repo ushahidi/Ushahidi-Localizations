@@ -1,18 +1,23 @@
-#. extracted from en_US/maintenance.php, ko_KR/maintenance.php
+# 
+# Translators:
+# Jungkwan Kim <donationsurvey@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-20 03:24+0000\n"
-"PO-Revision-Date: 2012-08-20 03:24+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-09-02 00:05+0000\n"
+"PO-Revision-Date: 2012-09-02 02:00+0000\n"
+"Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ko_KR\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: maintenance.message
 msgctxt "maintenance.message"
-msgid "Sorry, our site is currently down for maintenance. Please try again in a few minutes."
-msgstr ""
-
+msgid ""
+"Sorry, our site is currently down for maintenance. Please try again in a few"
+" minutes."
+msgstr "웁스!!! 죄송합니다. 현재, 사이트 오류로 수정작업중입니다. 약 5분후에 다시 접속해주세요. "
