@@ -1,17 +1,18 @@
 # 
 # Translators:
+# Mutie Mule <jmutie09@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-03 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:45+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-03 12:05+0000\n"
+"PO-Revision-Date: 2012-09-03 18:57+0000\n"
+"Last-Translator: Mutie Mule <jmutie09@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sw_KE\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: notifications.admin_footer
@@ -32,7 +33,7 @@ msgstr "Fikira mpya zimeletwa kwa tovuti yako kutokana na:"
 #: notifications.admin_new_comment.subject
 msgctxt "notifications.admin_new_comment.subject"
 msgid "New Comment"
-msgstr "Fikira mpya"
+msgstr "Maoni mapya"
 
 #: notifications.admin_new_email.message
 msgctxt "notifications.admin_new_email.message"
@@ -67,24 +68,24 @@ msgstr "Ujumbe mpya kutoka kwa simu ya rununu"
 #: notifications.member_new_alert.message
 msgctxt "notifications.member_new_alert.message"
 msgid "You Have Received a New Alert"
-msgstr ""
+msgstr "Umepokea tahadhari mpya"
 
 #: notifications.member_new_alert.subject
 msgctxt "notifications.member_new_alert.subject"
 msgid "New Alert!"
-msgstr ""
+msgstr "Tahadhari mpya!"
 
 #: notifications.member_new_message.message
 msgctxt "notifications.member_new_message.message"
 msgid "You Have Received a Private Message"
-msgstr ""
+msgstr "Umepokea ujumbe wa kibinafsi"
 
 #: notifications.member_new_message.subject
 msgctxt "notifications.member_new_message.subject"
 msgid "New Private Message"
-msgstr ""
+msgstr "Ujumbe mpya wa kibinafsi"
 
 #: notifications.member_new_message.footer
 msgctxt "notifications.member_new_message.footer"
 msgid "To Reply Please Go To: "
-msgstr ""
+msgstr "Ili kujibu tafadhali nenda"

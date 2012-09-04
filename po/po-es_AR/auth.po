@@ -1,17 +1,18 @@
 # 
 # Translators:
+#   <audreylingstuyl@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-03 00:05+0000\n"
-"PO-Revision-Date: 2012-08-15 05:53+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-03 12:05+0000\n"
+"PO-Revision-Date: 2012-09-03 14:22+0000\n"
+"Last-Translator: audreylingstuyl <audreylingstuyl@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es_AR\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: auth.email.email
@@ -200,7 +201,7 @@ msgstr "El rol del usuario administrador no puede ser modificado."
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "La URL sólo puede incluir números y letras"
 
 #: auth.username.exists
 msgctxt "auth.username.exists"

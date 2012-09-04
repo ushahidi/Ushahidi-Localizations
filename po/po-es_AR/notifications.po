@@ -1,18 +1,19 @@
 # 
 # Translators:
 #   <asimetriaperfecta@hotmail.es>, 2012.
+#   <audreylingstuyl@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-03 00:05+0000\n"
-"PO-Revision-Date: 2012-08-23 00:25+0000\n"
-"Last-Translator: panic <asimetriaperfecta@hotmail.es>\n"
+"POT-Creation-Date: 2012-09-03 12:05+0000\n"
+"PO-Revision-Date: 2012-09-03 14:17+0000\n"
+"Last-Translator: audreylingstuyl <audreylingstuyl@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es_AR\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: notifications.admin_footer
@@ -48,12 +49,12 @@ msgstr "Nuevo mensaje email"
 #: notifications.admin_new_report.message
 msgctxt "notifications.admin_new_report.message"
 msgid "A new report has been submitted to your website."
-msgstr ""
+msgstr "Su sitio ha recibido un nuevo reporte"
 
 #: notifications.admin_new_report.subject
 msgctxt "notifications.admin_new_report.subject"
 msgid "New Report"
-msgstr ""
+msgstr "Nuevo reporte"
 
 #: notifications.admin_new_sms.message
 msgctxt "notifications.admin_new_sms.message"

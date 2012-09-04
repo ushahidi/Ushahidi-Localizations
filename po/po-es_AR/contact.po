@@ -1,17 +1,18 @@
 # 
 # Translators:
+#   <audreylingstuyl@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-03 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:29+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-03 12:05+0000\n"
+"PO-Revision-Date: 2012-09-03 14:16+0000\n"
+"Last-Translator: audreylingstuyl <audreylingstuyl@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es_AR\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: contact.captcha.default
@@ -22,7 +23,7 @@ msgstr "Por favor ingrese un código de seguridad válido"
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "Por favor introduce un código de seguridad válido"
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -72,4 +73,4 @@ msgstr "El campo asunto es obligatorio."
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "Hubo un error al enviar tu mensaje"

@@ -1,33 +1,34 @@
 # 
 # Translators:
+#   <sun_lion@live.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-03 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:27+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-03 12:05+0000\n"
+"PO-Revision-Date: 2012-09-03 17:10+0000\n"
+"Last-Translator: Damtux <sun_lion@live.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: it_IT\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: comments.captcha.default
 msgctxt "comments.captcha.default"
 msgid "Please enter a valid security code."
-msgstr "Inserisci un codice di sicurezza valido"
+msgstr "Inserisci un codice di sicurezza valido."
 
 #: comments.captcha.required
 msgctxt "comments.captcha.required"
 msgid "Please enter the security code."
-msgstr "Inserisci il codice di sicurezza"
+msgstr "Inserisci il codice di sicurezza."
 
 #: comments.captcha.valid
 msgctxt "comments.captcha.valid"
 msgid "You entered the wrong security code."
-msgstr ""
+msgstr "Hai inserito un codice di sicurezza errato."
 
 #: comments.comment_author.length
 msgctxt "comments.comment_author.length"
@@ -37,24 +38,24 @@ msgstr "Il campo Nome deve essere lungo almeno 3 caratteri."
 #: comments.comment_author.required
 msgctxt "comments.comment_author.required"
 msgid "The name field is required."
-msgstr "Il campo Nome "
+msgstr "Il campo Nome è obbligatorio."
 
 #: comments.comment_description.required
 msgctxt "comments.comment_description.required"
 msgid "The comments field is required."
-msgstr "Il campo Commenti "
+msgstr "Il campo Commenti è obbligatorio."
 
 #: comments.comment_email.email
 msgctxt "comments.comment_email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr "Il campo Email non contiene un indirizzo email valido?"
+msgstr "Il campo Email non contiene un indirizzo email valido."
 
 #: comments.comment_email.length
 msgctxt "comments.comment_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr "Il campo Email deve essere lungo almeno 4 caratteri e non pi"
+msgstr "Il campo Email deve essere lungo almeno 4 caratteri e non più di 64."
 
 #: comments.comment_email.required
 msgctxt "comments.comment_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "Il campo Email "
+msgstr "Il campo Email è obbligatorio se la casella di controllo è selezionata."

@@ -1,33 +1,36 @@
-#. extracted from en_US/page.php, es_AR/page.php
+# 
+# Translators:
+#   <audreylingstuyl@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-20 01:41+0000\n"
-"PO-Revision-Date: 2012-08-20 01:41+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-09-03 12:05+0000\n"
+"PO-Revision-Date: 2012-09-03 14:10+0000\n"
+"Last-Translator: audreylingstuyl <audreylingstuyl@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: es_AR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: page.page_title.required
 msgctxt "page.page_title.required"
 msgid "Please enter a Page Title."
-msgstr ""
+msgstr "Por favor introduce un Título de Página"
 
 #: page.page_title.length
 msgctxt "page.page_title.length"
 msgid "Page Title must be at least 3 and no more than 150 characters long."
-msgstr ""
+msgstr "El Título de la página debe tener entre 3 y 150 caracteres"
 
 #: page.page_tab.required
 msgctxt "page.page_tab.required"
 msgid "Please enter a Page Tab Name."
-msgstr ""
+msgstr "Por favor introduce una etiqueta para la página"
 
 #: page.page_description.required
 msgctxt "page.page_description.required"
 msgid "Please enter a Page Description."
-msgstr ""
-
+msgstr "Por favor introduce una descripción para la página"
