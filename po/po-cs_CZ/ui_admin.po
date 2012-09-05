@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-04 12:05+0000\n"
-"PO-Revision-Date: 2012-08-22 07:56+0000\n"
+"POT-Creation-Date: 2012-09-05 00:05+0000\n"
+"PO-Revision-Date: 2012-09-05 11:13+0000\n"
 "Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +32,7 @@ msgstr "Přístup zamítnut. Váš požadavek byl systémem pochopen, ale zamít
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Úroveň přístupu"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
@@ -67,12 +67,12 @@ msgstr "Admin"
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Upozornění"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Odeslat upozornění"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -267,7 +267,7 @@ msgstr ""
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Barva"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
@@ -353,7 +353,7 @@ msgstr "Datum a čas"
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Dny v týdnu"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -393,7 +393,7 @@ msgstr "Popis"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Zakázáno"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -573,12 +573,12 @@ msgstr ""
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "Ano, Zavřeno ve výchozím nastavení"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "Ano, Otevřeno ve výchozím nastavení"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -598,7 +598,7 @@ msgstr "Tento formulář neexistuje! (That Form Does Not Exist!)"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "Fórum"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -668,7 +668,7 @@ msgstr "Přidat/upravit"
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
@@ -740,22 +740,22 @@ msgstr "Jedná se o políčko pro vyplnění data?"
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Kdo může zobrazit odpovědi"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Kdo může podat odpovědi"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "Klíčové slovo"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Klíčová slova"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
@@ -1033,7 +1033,7 @@ msgstr ""
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1132,12 +1132,12 @@ msgstr ""
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Náhled"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Zpráva"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
@@ -1162,7 +1162,7 @@ msgstr "Komu"
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "Veřejný výpis"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
@@ -1242,7 +1242,7 @@ msgstr "Vyhledat"
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Vyhledat hlášení"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1499,7 +1499,7 @@ msgstr "Uživatelé"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <appukonrad@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-04 12:05+0000\n"
-"PO-Revision-Date: 2012-08-19 22:44+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-05 00:05+0000\n"
+"PO-Revision-Date: 2012-09-05 11:02+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -322,7 +323,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -384,7 +385,7 @@ msgstr "Setting up your map provider is a straight- forward process. Select a pr
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "Poskytovatel map"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
@@ -404,7 +405,7 @@ msgstr "Does this Ushahidi Deployment Span Multiple Countries"
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "Prosím vyberte výchozí zemi"
 
 #: settings.set_location
 msgctxt "settings.set_location"
@@ -424,7 +425,7 @@ msgstr ""
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "Zahrnout RSS News Feed do webových stránek"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -434,17 +435,17 @@ msgstr ""
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr ""
+msgstr "Povolit uživatelům odeslat Hlášení"
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
-msgstr ""
+msgstr "Akismet klíč"
 
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Baner stránky"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -474,37 +475,37 @@ msgstr ""
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr ""
+msgstr "Výchozí barva pro všechny kategorie"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Výchozí ikona pro všechny kategorie"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Odstarnit banerový obrázek"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Odstranit výchozí ikonu"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "Zobrazit kontaktní stránku"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "Zobrazit stránku \"Jak pomoci\""
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "E-mailová adresa pro upozornění"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -516,12 +517,12 @@ msgstr ""
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "E-mailová adresa stránky"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -560,57 +561,57 @@ msgstr ""
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "Jazyk stránky"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Ručně schválovat uživatele"
 
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Zpráva stránky"
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "Název stránky"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "Soukromé nasazení"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Požadovat od uživatele e-mailové potvrzení"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Odeslat zprávu s hlášením"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr ""
+msgstr "Povolit Statistiky (uložené na serveru Ushahidi)"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Slogan stránky"
 
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Časové pásmo"
 
 #: settings.site.title
 msgctxt "settings.site.title"
 msgid "Site Settings"
-msgstr ""
+msgstr "Nastavení stránky"
 
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
@@ -631,47 +632,47 @@ msgstr "The site email field does not appear to contain a valid email address?"
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr ""
+msgstr "Pole e-mail musí být nejméně 4 a ne více 100 znaků dlouhé."
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "Pole název stránky musí být nejméně 3 a ne více 50 znaků dlouhé."
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "Pole název stránky je vyžadované."
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Pole slogan musí být nejméně 3 a ne více 100 znaků dlouhé."
 
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
-msgstr ""
+msgstr "Pole slogan je povinné."
 
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
 msgid "Your Clickatell API Number"
-msgstr ""
+msgstr "Vaše číslo pro Clickatell API"
 
 #: settings.sms.clickatell_check_balance
 msgctxt "settings.sms.clickatell_check_balance"
 msgid "Check Your Clickatell Credit Balance"
-msgstr ""
+msgstr "Zkontrolujte, jaký je váš zůstatek kreditu na Clickatell "
 
 #: settings.sms.clickatell_load_balance
 msgctxt "settings.sms.clickatell_load_balance"
 msgid "Load Credit Balance"
-msgstr ""
+msgstr "Načíst zůstatek kreditu"
 
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "Vače heslo pro Clickatell"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -679,17 +680,17 @@ msgid ""
 "Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
-msgstr ""
+msgstr "Pro zaregistrování  služeb Clickatells<a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">klikněte zde</a>"
 
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
 msgid "Enter your Clickatell access information below"
-msgstr ""
+msgstr "Níže zadejte vaše přístupové informace pro Clikatell"
 
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr ""
+msgstr "Vaše uživatelské jméno pro Clickatell"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -699,12 +700,12 @@ msgid ""
 " users to send and receive text messages with large groups of people through"
 " mobile phones. Click on the grey box to request a download from "
 "FrontlineSMS.com"
-msgstr ""
+msgstr "FrontlineSMS je svobodný open source software, který promění notebook a mobilní telefon na centrální komunikační rozbočovač. Po instalaci, program umožňuje uživatelům komunikovat pomocí textových zpráv s velkou skupinou lidí prostřednictvím mobilních telefonů. Klikněte na šedé políčko pro stažení z FrontlineSMS.com"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download Frontline SMS and install it on your computer"
-msgstr ""
+msgstr "Stáhněte Frontline SMS a nainstalujte jej na vašem počítači"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -719,42 +720,42 @@ msgstr "Messages received into a FrontlineSMS hub can be synched with Ushahidi. 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Your Ushahidi Sync Key"
-msgstr ""
+msgstr "Váš klíč pro synchronizaci s Ushahidi"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "FrontlineSMS HTTP Post LINK"
-msgstr ""
+msgstr "FrontlineSMS HTTP Post LINK"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Sync with Ushahidi"
-msgstr ""
+msgstr "Synchronizace s Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr ""
+msgstr "Níže zadejte v poli(ích) telefonní číslo(a) připojené k Frontline SMS"
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
-msgstr ""
+msgstr "Níže zadejte číslo bez + nebo pomlček"
 
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr ""
+msgstr "Možnost 1: Použít Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr ""
+msgstr "Možnost 2: Použít globální SMS bránu"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "Možnosti nastavení SMS"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
@@ -764,7 +765,7 @@ msgstr "The phone 1 field does not appear to contain a valid value?"
 #: settings.sms_no1.numeric
 msgctxt "settings.sms_no1.numeric"
 msgid "The phone 1 field should contain numbers only."
-msgstr ""
+msgstr "Pole telefon 1 by mělo obsahovat pouze čísla."
 
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
@@ -774,7 +775,7 @@ msgstr "The phone 2 field is too long"
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr ""
+msgstr "Pole telefon 2 by mělo obsahovat pouze čísla."
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
@@ -784,4 +785,4 @@ msgstr "The phone 3 field is too long"
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr ""
+msgstr "Pole telefon 3 by mělo obsahovat pouze čísla."

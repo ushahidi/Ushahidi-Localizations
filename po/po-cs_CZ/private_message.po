@@ -1,11 +1,13 @@
 # 
 # Translators:
+#   <appukonrad@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-04 12:05+0000\n"
-"PO-Revision-Date: 2012-08-17 21:14+0000\n"
+"POT-Creation-Date: 2012-09-05 00:05+0000\n"
+"PO-Revision-Date: 2012-09-05 10:17+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +18,7 @@ msgstr ""
 #: private_message.parent_id.numeric
 msgctxt "private_message.parent_id.numeric"
 msgid "Parent ID must be numeric"
-msgstr ""
+msgstr "Zdrojové ID musí být číslo"
 
 #: private_message.private_to.required
 msgctxt "private_message.private_to.required"
@@ -31,14 +33,14 @@ msgstr ""
 #: private_message.private_subject.required
 msgctxt "private_message.private_subject.required"
 msgid "The subject field is required"
-msgstr ""
+msgstr "Pole předmět je vyžadováno"
 
 #: private_message.private_subject.length
 msgctxt "private_message.private_subject.length"
 msgid "Subject must be between 3 and 150 characters"
-msgstr ""
+msgstr "Předmět musí mít mezi 3 a 150 znaky"
 
 #: private_message.private_message.required
 msgctxt "private_message.private_message.required"
 msgid "The message field is required"
-msgstr ""
+msgstr "Pole zprávy je vyžadováno"

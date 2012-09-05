@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-04 12:05+0000\n"
-"PO-Revision-Date: 2012-08-31 21:52+0000\n"
+"POT-Creation-Date: 2012-09-05 00:05+0000\n"
+"PO-Revision-Date: 2012-09-05 06:22+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,12 +211,12 @@ msgstr "Versiunea bazei de date: %d"
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "Atenție: Versiunea software din version.php și din baza de date nu corespund."
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "Atenție: Versiunea bazei de date din version.php și din baza de date nu corespund."
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"

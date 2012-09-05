@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-04 12:05+0000\n"
-"PO-Revision-Date: 2012-08-22 06:52+0000\n"
+"POT-Creation-Date: 2012-09-05 00:05+0000\n"
+"PO-Revision-Date: 2012-09-05 10:32+0000\n"
 "Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,7 +46,7 @@ msgstr "Jméno databáze"
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
 msgid "The name of the database you want to run Ushahidi in"
-msgstr ""
+msgstr "Název databáze, ve které chcete spustit Ushahidi"
 
 #: installer.db_information_link
 msgctxt "installer.db_information_link"
@@ -289,12 +289,12 @@ msgstr "Setup your SMS server"
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "E-mailová aderesa stránky"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "E-mailová adresa stránky pro upozornění"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -307,27 +307,27 @@ msgstr "When your site visitors sign up for email alerts, they will recieve emai
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr ""
+msgstr "E-mailová adresa stránky, přes kterou bude proudit širší komunikace"
 
 #: installer.site_name
 msgctxt "installer.site_name"
 msgid "Site Name"
-msgstr ""
+msgstr "Nízev stránky"
 
 #: installer.site_name_description
 msgctxt "installer.site_name_description"
 msgid "The name of your site"
-msgstr ""
+msgstr "Název vaší stránky"
 
 #: installer.site_tagline
 msgctxt "installer.site_tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Slogan stránky"
 
 #: installer.site_tagline_description
 msgctxt "installer.site_tagline_description"
 msgid "Your tagline"
-msgstr ""
+msgstr "Váš slogan"
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
