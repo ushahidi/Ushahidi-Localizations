@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <goingdriftless@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-05 00:05+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-05 12:05+0000\n"
+"PO-Revision-Date: 2012-09-05 17:18+0000\n"
+"Last-Translator: lbell <goingdriftless@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -573,7 +574,7 @@ msgstr "Tanggal"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(bb/hh/tttt)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -623,12 +624,12 @@ msgstr ""
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr ""
+msgstr "Mnghapus Laporan Ini "
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "Menghapus Terpilih"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -653,7 +654,7 @@ msgstr ""
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr ""
+msgstr "Detil"
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
@@ -882,17 +883,17 @@ msgstr ""
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Menyaring Laporan"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Menyaring Laporan Oleh"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Menyaring laporan yang berisi"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -1102,12 +1103,12 @@ msgstr ""
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr ""
+msgstr "Harap Sertakan Deskripsi"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr ""
+msgstr "Harapan sertakan rincian lengkap"
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
@@ -1117,12 +1118,12 @@ msgstr "Termasuk Latitude"
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr ""
+msgstr "Harap sertakan informasi lokasi"
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr ""
+msgstr "Sertakan bujur"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1442,7 +1443,7 @@ msgstr ""
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr ""
+msgstr "Pesan"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
@@ -1529,7 +1530,7 @@ msgstr ""
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "Kategori Baru"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
@@ -2027,7 +2028,7 @@ msgstr ""
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
-msgstr ""
+msgstr "Kirim"
 
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
@@ -2124,7 +2125,7 @@ msgstr ""
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
-msgstr ""
+msgstr "Kirim Laporan Baru"
 
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
@@ -2449,7 +2450,7 @@ msgstr "Tayangkan Semua "
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "Tampilkan Pesan"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
@@ -2852,7 +2853,7 @@ msgstr ""
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr ""
+msgstr "Verifikasi Laporan Ini"
 
 #: ui_main.version
 msgctxt "ui_main.version"
