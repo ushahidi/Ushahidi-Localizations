@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Jungkwan Kim <donationsurvey@gmail.com>, 2012.
+# Seokwon Yang <seokwon@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-06 00:05+0000\n"
-"PO-Revision-Date: 2012-09-02 04:09+0000\n"
-"Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
+"POT-Creation-Date: 2012-09-06 12:05+0000\n"
+"PO-Revision-Date: 2012-09-06 14:24+0000\n"
+"Last-Translator: Seokwon Yang <seokwon@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,7 +34,7 @@ msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "사용자에게 배지를 지정할 수 있습니다. 지정할 배지를 선택하세요."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -54,7 +55,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "만약에 특정 카테고리가 사용이 될 때 트리거를 활성화하고자 한다면 여기서 설정을 할 수 있습니다. 카테고리 중의 하나가 사용될 경우에만 활성화 될 것입니다. 예를 들면 카테고리 1과 카테고리 2를 선택하고 리포트가 카테고리 2와 카테고리 3에 등록되면, 그것은 테스트를 통과 할 것입니다."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -131,7 +132,7 @@ msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "복수일을 이곳에서 지정할 수 있습니다. 날짜는 개발 시간대에 의해 정해집니다. 모든 일 선택을 기본으로 하기 위해서는 어떤 날짜도 선택하지 마세요."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -140,7 +141,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "The trigger is the core component of setting up your Action Triggers. This is where you determine if you would like something to happen when someone submits a report, performs a check in, etc. You will be able to filter responses to these actions after selecting one."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
