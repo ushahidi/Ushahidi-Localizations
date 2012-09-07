@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-06 12:05+0000\n"
-"PO-Revision-Date: 2012-09-02 13:00+0000\n"
+"POT-Creation-Date: 2012-09-07 00:05+0000\n"
+"PO-Revision-Date: 2012-09-07 03:48+0000\n"
 "Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -222,7 +222,7 @@ msgstr "카테고리"
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "차트 표시 오류"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
@@ -252,17 +252,17 @@ msgstr "체크인"
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "도시 불러오기 완료"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "코드"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr ""
+msgstr "코드버전 동기화"
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
@@ -333,7 +333,7 @@ msgstr "커스텀 필드를 수정하는데 필요한 권한이 없습니다."
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "매일"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
@@ -353,12 +353,12 @@ msgstr "날짜 & 시간"
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "요일"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr ""
+msgstr "DB 버전 동기화"
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
@@ -393,7 +393,7 @@ msgstr "설명"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "사용안함"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -408,7 +408,7 @@ msgstr ""
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -418,7 +418,7 @@ msgstr "리포트 다운로드"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "목록 선택"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
@@ -453,12 +453,12 @@ msgstr ""
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
 msgid "Error in geocoding! HTTP error"
-msgstr ""
+msgstr "지오코딩 에러! HTTP 에러!"
 
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
-msgstr ""
+msgstr "IMAP PHP 라이브러리가 설치되지 않았어요."
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -518,17 +518,17 @@ msgstr "기본값"
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "데이터 타입"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Markup"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -553,32 +553,32 @@ msgstr ""
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
-msgstr ""
+msgstr "최대 문자 길이"
 
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
 msgid "Field Name"
-msgstr ""
+msgstr "필드이름"
 
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "Toggle"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "네, 기본설정닫기"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "네, 기본설정열기"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -598,7 +598,7 @@ msgstr "존재하지 않는 Form 입니다."
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "포럼"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -628,17 +628,17 @@ msgstr "Dropdown"
 #: ui_admin.from
 msgctxt "ui_admin.from"
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #: ui_admin.from_date
 msgctxt "ui_admin.from_date"
 msgid "From"
-msgstr ""
+msgstr "From"
 
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr ""
+msgstr "Geonames 시간초과 에러"
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -658,7 +658,7 @@ msgstr "플러그인 더보기"
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
@@ -993,7 +993,7 @@ msgstr ""
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr ""
+msgstr "공지"
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
@@ -1013,17 +1013,17 @@ msgstr "데이터가 없습니다. "
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "에러가 아니에요."
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr ""
+msgstr "보여줄 결과가 없습니다."
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr ""
+msgstr "of"
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
@@ -1068,7 +1068,7 @@ msgstr ""
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
-msgstr ""
+msgstr "Parameters Used"
 
 #: ui_admin.password
 msgctxt "ui_admin.password"
@@ -1157,7 +1157,7 @@ msgstr "제목"
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "To"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
@@ -1212,7 +1212,7 @@ msgstr ""
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
 msgid "Reset"
-msgstr ""
+msgstr "재설정"
 
 #: ui_admin.response
 msgctxt "ui_admin.response"
@@ -1227,7 +1227,7 @@ msgstr "결과"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "취소"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1291,7 +1291,7 @@ msgstr ""
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
 msgid "Sender"
-msgstr ""
+msgstr "발송인"
 
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
@@ -1409,7 +1409,7 @@ msgstr "사용자 관리"
 #: ui_admin.to
 msgctxt "ui_admin.to"
 msgid "to"
-msgstr ""
+msgstr "to"
 
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
@@ -1419,7 +1419,7 @@ msgstr "전체 기록"
 #: ui_admin.to_date
 msgctxt "ui_admin.to_date"
 msgid "to"
-msgstr ""
+msgstr "to"
 
 #: ui_admin.translate_reports
 msgctxt "ui_admin.translate_reports"
