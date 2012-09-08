@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-07 00:05+0000\n"
-"PO-Revision-Date: 2012-08-30 06:50+0000\n"
+"POT-Creation-Date: 2012-09-07 12:08+0000\n"
+"PO-Revision-Date: 2012-09-07 16:40+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,14 +21,14 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "Accesul interzis. Ori nu ai suficiente drepturi , ori cererea a fost refuzată."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr ""
+msgstr "Accesul interzis. Cererea a fost procesată, dar respinsă datorită unor limitări cum ar fi timpul. Încercați mai târziu."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -113,12 +113,12 @@ msgstr "Setări API"
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "Ridică interdicția"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "Ridică interdicția pentru toți"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
@@ -163,17 +163,17 @@ msgstr "Ești sigur că vrei să schimbi formularele?"
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Atribuie"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Atribuții"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Atribuie insignă (badge)"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -193,17 +193,17 @@ msgstr "Înapoi"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "Interzice IP"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Între timpi"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Blocuri"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
@@ -223,7 +223,7 @@ msgstr "Categorii"
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Eroare la afișarea hărții"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
