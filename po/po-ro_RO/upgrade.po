@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-08 12:05+0000\n"
-"PO-Revision-Date: 2012-09-08 19:41+0000\n"
+"POT-Creation-Date: 2012-09-09 00:05+0000\n"
+"PO-Revision-Date: 2012-09-09 11:53+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,7 +68,7 @@ msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr ""
+msgstr "Faceți un Backup la baza de date înainte de upgrade? (<strong style=\"color:#FF0000;\">Foarte recomandat</strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
@@ -117,7 +117,7 @@ msgstr "<dl><dt><strong>Descarcă</strong></dt>"
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr ""
+msgstr "<dd>- Descarcă cel mai recent build Ushahidi de la"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -138,7 +138,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr ""
+msgstr "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- În cazul în care ceva este greșit, se recomandă un backup total al implementării Ushahidi.</dd><dt><strong>Copiază fișierele</strong></dt><dd>- Extrage fișierele zip descărcate</dd><dd>- În funcție de sistemul de operare al serverului de web, utilizați tool-urile/mod-ul preferat (e.g. Telnet, FTP, SSH) de login la webserver și înlocuiți conținutul tuturor directoarelor cu cele mai noi din build-ul recent.</dd><dt><strong>Upgrade baza de date</strong></dt><dd>- Determină în primul rând versiunea schemei bazei de date prin aflarea valorii  <strong>db_version</strong> din tabelul de setări sau uită-te la informațiile de upgrade Ushahidi din partea de sus a acestei pagini. </dd><dd>- Dacă ești la versiunea 25, trebuie să upgradezi de la 25-26, 26-27, 27-28 și așa mai departe până la ultimul fișier SQL din directorul <strong>/sql</strong> .</dd><dd>- Folosind clientul bazei de date, upgradeaza baza de date prin executarea fișierului de upgrade x.sql adecvat.</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -146,7 +146,7 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong>Pasul 3:</strong> Uită-te în directorul <strong>sql</strong>. Execută manual fișierul upgrade<xx>-<xx>.sql pornind de la versiunea curentă a bazei de date instalate până la utimul fișer sql de upgrade."
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
@@ -158,7 +158,7 @@ msgstr "<strong>Pasul 4:</strong> Click pe butonul <strong>\"Continuă\"</strong
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "Pentru upgrade automat, apasă pe butonul de mai jos."
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
@@ -176,12 +176,12 @@ msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "Pentru a continua cu un upgrade simplu, următoarele informații sunt necesare serverului FTP pe care website-ul tău este găzduit."
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "FTP Hostname: <span>Exemplu: \"localhost\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
@@ -236,7 +236,7 @@ msgstr "BETA!"
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "Descarcă ultima versiune de ushahidi..."
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
@@ -246,27 +246,27 @@ msgstr "Fișierul jurnal"
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded "
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "Descărcat cu succes. Dezarhivează..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "Descărcarea a eșuat."
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "Dezarhivat cu succez. Copiază fișierele..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "Dezarhivarea a eșuat."
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "Copiat cu succes. Upgradeaza baza de date..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
@@ -276,7 +276,7 @@ msgstr "Copierea fișierelor a eșuat."
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "Backup bază de date și upgrade efectuat cu succes."
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
@@ -286,7 +286,7 @@ msgstr "Realizarea unui back-up al bazei de date a eșuat."
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "Upgrade bază de date efectuat cu succes."
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
@@ -296,4 +296,4 @@ msgstr "Fișierele descărcate se șterg..."
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "UPGRADE EFECTUAT CU SUCCES. Vizualizează <a href=\"%s\" target=\"_blank\">Fișerul Jurnal</a>"
