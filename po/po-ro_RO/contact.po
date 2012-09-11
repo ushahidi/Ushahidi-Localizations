@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-10 12:05+0000\n"
-"PO-Revision-Date: 2012-09-05 20:36+0000\n"
+"POT-Creation-Date: 2012-09-11 00:05+0000\n"
+"PO-Revision-Date: 2012-09-11 10:31+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,44 +33,44 @@ msgstr "Vă rugăm să introduceți un cod de securitate."
 #: contact.contact_email.email
 msgctxt "contact.contact_email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "Câmpul email nu pare să conțină o adresă validă de email."
 
 #: contact.contact_email.length
 msgctxt "contact.contact_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Câmpul email trebuie să fie de cel puțin 4 caractere și nu mai mult de 64 de caractere lungime."
 
 #: contact.contact_email.required
 msgctxt "contact.contact_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "Câmpul email este necesar dacă checkbox-ul este bifat."
 
 #: contact.contact_message.required
 msgctxt "contact.contact_message.required"
 msgid "The message field is required."
-msgstr ""
+msgstr "Câmpul e conține mesajul este necesar."
 
 #: contact.contact_name.length
 msgctxt "contact.contact_name.length"
 msgid "The name field must be at least 3 characters long."
-msgstr ""
+msgstr "Câmpul ce conține numele trebuie să fie de cel puțin 3 caractere lungime."
 
 #: contact.contact_name.required
 msgctxt "contact.contact_name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "Câmpul ce conține numele este necesar."
 
 #: contact.contact_subject.length
 msgctxt "contact.contact_subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr ""
+msgstr "Câmpul ce conține subiectul trebuie să fie de cel puțin 3 caractere lungime."
 
 #: contact.contact_subject.required
 msgctxt "contact.contact_subject.required"
 msgid "The subject field is required."
-msgstr ""
+msgstr "Câmpul ce conține subiectul este necesar."
 
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "A apărut o eroare la trimiterea mesajului."
