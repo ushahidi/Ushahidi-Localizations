@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <televizor.by@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-11 00:05+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-11 12:05+0000\n"
+"PO-Revision-Date: 2012-09-11 14:30+0000\n"
+"Last-Translator: televizor <televizor.by@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -311,7 +312,7 @@ msgstr "Критически важное обновление"
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
@@ -327,7 +328,7 @@ msgstr "Неактивно"
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "У вас недостаточно прав для редактирования следующих полей."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
@@ -647,12 +648,12 @@ msgstr "Ресурсы"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "Дополнительные темы"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "Дополнительные плагины"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
@@ -704,7 +705,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "Папка с дистрибутивом всё ещё присутствует на сервере. Удалите папку инсталляции, это потенциальная угроза беопасности."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -824,7 +825,7 @@ msgstr "Добавить/редактировать пользователей"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Управлять размещением в публичном каталоге"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
@@ -1181,7 +1182,7 @@ msgstr "Важность"
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Заголовок отчёта"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1241,7 +1242,7 @@ msgstr "Поиск"
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Искать отчёты"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1253,14 +1254,14 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "Ключ шифрования всё ещё установлен в значение по умолчанию. Это небезопасно, ключ должен быть изменён."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "Этот сайт работает по протоколу HTTP. Стоит переключить на HTTPS для повышенной безопасности."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
@@ -1453,7 +1454,7 @@ msgstr "Неизвестно"
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "Неизвестная ошибка"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
@@ -1463,7 +1464,7 @@ msgstr "Не прочитано"
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "Вы больше не будете получать уведомлений от"
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"

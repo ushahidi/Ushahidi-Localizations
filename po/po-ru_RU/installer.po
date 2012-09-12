@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <televizor.by@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-11 00:05+0000\n"
-"PO-Revision-Date: 2012-08-19 23:05+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-11 12:05+0000\n"
+"PO-Revision-Date: 2012-09-11 14:41+0000\n"
+"Last-Translator: televizor <televizor.by@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,12 +23,12 @@ msgstr ""
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr ""
+msgstr "База данных"
 
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr ""
+msgstr "Хост базы данных"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
@@ -40,12 +41,12 @@ msgstr "If you are running Ushahidi on your own computer, this will more than li
 #: installer.database_name
 msgctxt "installer.database_name"
 msgid "Database Name"
-msgstr ""
+msgstr "Имя базы данных"
 
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
 msgid "The name of the database you want to run Ushahidi in"
-msgstr ""
+msgstr "Имя базы данных, в которую вы хотите установить Ushahidi"
 
 #: installer.db_information_link
 msgctxt "installer.db_information_link"
@@ -59,7 +60,7 @@ msgstr "For more information, please check out <a href=\"http://wiki.ushahidi.co
 #: installer.default_language
 msgctxt "installer.default_language"
 msgid "Default Language (Locale)"
-msgstr ""
+msgstr "Язык по умолчанию (Локализация)"
 
 #: installer.default_language_description
 msgctxt "installer.default_language_description"
@@ -73,12 +74,12 @@ msgstr "Each deployment of Ushahidi comes with a set of built in language transl
 #: installer.disable
 msgctxt "installer.disable"
 msgid "Disable"
-msgstr ""
+msgstr "Отключить"
 
 #: installer.enable
 msgctxt "installer.enable"
 msgid "Enable"
-msgstr ""
+msgstr "Включить"
 
 #: installer.error_summary
 msgctxt "installer.error_summary"
@@ -125,7 +126,7 @@ msgstr ""
 #: installer.index.advanced
 msgctxt "installer.index.advanced"
 msgid "ADVANCED INSTALLATION"
-msgstr ""
+msgstr "Продвинутая установка"
 
 #: installer.index.advanced_installation_description
 msgctxt "installer.index.advanced_installation_description"
@@ -137,7 +138,7 @@ msgstr "Get all the basic settings completed through this 5-step process.  This 
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
 msgid "BASIC INSTALLATION"
-msgstr ""
+msgstr "Простая установка"
 
 #: installer.index.basic_installation_description
 msgctxt "installer.index.basic_installation_description"
@@ -162,22 +163,22 @@ msgstr "Welcome to the Ushahidi server install process.  Choose which type of in
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
 msgid "Installation Successful"
-msgstr ""
+msgstr "Установка успешно завершена"
 
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr ""
+msgstr "Почтоый сервер"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Имя хоста почтового сервера"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Например, mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
@@ -270,7 +271,7 @@ msgstr ""
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
 msgid "Enable or disable SSL"
-msgstr ""
+msgstr "Включить или отключить SSL"
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
