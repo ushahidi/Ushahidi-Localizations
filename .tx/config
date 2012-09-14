@@ -1,5 +1,6 @@
 [main]
 host = https://www.transifex.net
+lang_map = en:en_US
 
 [ushahidi-localizations.alerts]
 file_filter = po/po-<lang>/alerts.po
