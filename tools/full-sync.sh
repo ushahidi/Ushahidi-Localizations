@@ -16,7 +16,7 @@ git pull
 
 echo "Pulling changes from transifex"
 # might need --force and --skip
-tx pull --force
+tx pull --force --all
 
 # generate the php files from transifex po files
 echo "Generating php files from translations..."
