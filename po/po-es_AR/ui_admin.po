@@ -2,13 +2,14 @@
 # Translators:
 #   <asimetriaperfecta@hotmail.es>, 2012.
 #   <audreylingstuyl@gmail.com>, 2012.
+# Nicolas Pereyra Molinas <pereyra@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-17 00:05+0000\n"
-"PO-Revision-Date: 2012-09-03 14:36+0000\n"
-"Last-Translator: audreylingstuyl <audreylingstuyl@gmail.com>\n"
+"POT-Creation-Date: 2012-09-17 12:04+0000\n"
+"PO-Revision-Date: 2012-09-17 14:19+0000\n"
+"Last-Translator: Nicolas Pereyra Molinas <pereyra@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -706,7 +707,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "La carpeta installer todavía existe. Borre la carpeta installer. Esto es una vulnerabilidad potencial de seguridad."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -1029,7 +1030,7 @@ msgstr "de"
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "Sobre Conteo Específico"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
@@ -1188,7 +1189,7 @@ msgstr "Denunciar título"
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Reporteros"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
@@ -1203,7 +1204,7 @@ msgstr "Reportes"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "Nivel de Reputación"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1228,7 +1229,7 @@ msgstr "Resultado"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "Revocar"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1255,14 +1256,14 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "La clave de encriptación será establecido al valor por defecto. Esto es inseguro y deberá ser cambiada."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "Este sitio está siendo servido sobre HTTP. Debería ser puesto a HTTPS para incrementar la seguridad."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
@@ -1272,7 +1273,7 @@ msgstr "Las instrucciones están disponibles en el Wiki"
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
-msgstr ""
+msgstr "--- Seleccione un tipo de campo ---"
 
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
@@ -1282,12 +1283,12 @@ msgstr "Por favor selecciona un ítem"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "Deberá seleccionar un Trigger antes que pueda seleccionar una Respuesta."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "Deberá seleccionar un Trigger antes que pueda definir Calificadores."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1302,7 +1303,7 @@ msgstr "Enviar a"
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "Este mensaje fue enviado desde su sitio web en "
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
@@ -1327,7 +1328,7 @@ msgstr "Mostrando resultados"
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "Mostrando"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
