@@ -1,13 +1,14 @@
 # 
 # Translators:
 #   <audreylingstuyl@gmail.com>, 2012.
+# Nicolas Pereyra Molinas <pereyra@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-16 00:05+0000\n"
-"PO-Revision-Date: 2012-09-03 14:18+0000\n"
-"Last-Translator: audreylingstuyl <audreylingstuyl@gmail.com>\n"
+"POT-Creation-Date: 2012-09-19 12:05+0000\n"
+"PO-Revision-Date: 2012-09-18 17:47+0000\n"
+"Last-Translator: Nicolas Pereyra Molinas <pereyra@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,7 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Esto agrega el reporte a categorías adicional. Si aquí selecciona Categoría 1 y el reporte ya tiene Categoría 2 agregado a él, el reporte entonces tendrá Categoría 1 y Categoría 2."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
@@ -33,7 +34,7 @@ msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "Será capaz de asignar una medalla al usuario siendo activado.  Indique la medalla que será asignada aquí."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -44,7 +45,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "Este es un rango de horas y/o minutos entre dos tiempos en format 24 horas. Si ingresa un tiempo anterior en el segundo campo, este será intercambiado con el primero. Este tiempo deberá estar en un simple día. Además, este tiempo es chequeado nuevamente la veces que haya configurado en el área de ajustes de su sitio y <strong>no</strong> necesariamente la zona horaria del usuario interactuando con su instalación. Dejar esto en 00:00 a 00:00 para ignorar este cualificador."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -67,12 +68,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "El cuerpo del email que será enviado."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Título del email que será enviado."
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -106,7 +107,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Este es el título por defecto para agregar al reporte."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -154,7 +155,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Marque un reporte como verificado o no."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -166,7 +167,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Separe cada valor con una coma. Ejemplo: valor1, valor2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -174,27 +175,27 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "Separe cada valor con una coma. Ejemplo: valor1, valor2. En caso que quiera establecer una valor por defecto, finalice la lista de opciones con ::. Ejemplo: Si quiere hacer valor3 el valor por defecto, entonces deberá ser: valor1, valor2, valor3::valor3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "Serpare cada item de elección con coma. Ejemplo Item 1, Item 2, etc."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Comenzar escribiendo la lista de miembros."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Título del mensaje privado"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Mensaje Privado"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -256,7 +257,7 @@ msgstr ""
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Esta es la dirección donde su perfil público puede ser encontrado."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -281,7 +282,7 @@ msgstr "Esta es la dirección de correo electrónico que será usada para enviar
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Permite a los usuarios suscribirse a alertas vía la web."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -330,7 +331,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Número de columnas Bloques que será desplegado en cada fila."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -365,12 +366,12 @@ msgstr "Configura el mapa para cubrir un lugar en particular"
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr ""
+msgstr "Establecer un código de color para todas las categorías en el sitio."
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Establecer un ícono para todas las categorías en el sitio."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
@@ -380,12 +381,12 @@ msgstr "País en que el sitio está funcionando"
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
 msgid "Turn the Contact Tab on or off on the main site."
-msgstr ""
+msgstr "Muestra o no la pestaña de Contacto en el sitio principal."
 
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"
 msgid "Turn the How to Help Tab on or off on the main site."
-msgstr ""
+msgstr "Muestra o no la pestaña de Ayuda en el sitio principal."
 
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
@@ -401,17 +402,17 @@ msgstr "Número de reportes mostrados por página en el Back End de administraci
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
 msgid "This is the hub for incoming messages."
-msgstr ""
+msgstr "Este es el hub para mensajes entrantes."
 
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr ""
+msgstr "Sincroniza los mensajes en el hub con la plataforma Ushahidi."
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr ""
+msgstr "Números de teléfonos donde los mensajes de texto son recibidos."
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
@@ -440,7 +441,7 @@ msgstr "Define qué mapa será usado en el sitio"
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "Muestra la línea de tiempo basada en la fecha y hora en que los reportes fueron entregados."
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
@@ -461,7 +462,7 @@ msgstr ""
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
 msgid "This is where the emails reside"
-msgstr ""
+msgstr "Esto es donde los e-mails residen."
 
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
@@ -482,7 +483,7 @@ msgstr "Requerido para permitir una conexión segura"
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
 msgid "This is required to retrieve e-mails from the host server."
-msgstr ""
+msgstr "Esto es requerido para recibir e-mails desde el servidor."
 
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"

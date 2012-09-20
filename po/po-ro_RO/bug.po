@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-16 00:05+0000\n"
-"PO-Revision-Date: 2012-09-13 00:09+0000\n"
+"POT-Creation-Date: 2012-09-19 12:05+0000\n"
+"PO-Revision-Date: 2012-09-16 16:26+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,27 +28,27 @@ msgstr "Vă rugăm introduceți un cod de securitate."
 #: bug.email.email
 msgctxt "bug.email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr ""
+msgstr "Câmpul email nu pare să conțină o adresă validă de email?"
 
 #: bug.email.length
 msgctxt "bug.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Câmpul email trebuie să fie de cel puțin 4 caractere și nu mai mult de 64 de caractere lungime."
 
 #: bug.email.required
 msgctxt "bug.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "Câmpul email este necesar dacă checkbox-ul este bifat."
 
 #: bug.error.required
 msgctxt "bug.error.required"
 msgid "The error field is required."
-msgstr ""
+msgstr "Câmpul ce conține eroarea este necesar."
 
 #: bug.subject.length
 msgctxt "bug.subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr ""
+msgstr "Câmpul ce conține subiectul trebuie să fie de cel puțin 3 caractere lungime."
 
 #: bug.subject.required
 msgctxt "bug.subject.required"
@@ -58,9 +58,9 @@ msgstr "Câmpul subiect este necesar."
 #: bug.yourname.length
 msgctxt "bug.yourname.length"
 msgid "The name field must be at least 3 characters long."
-msgstr ""
+msgstr "Câmpul ce conține numele trebuie să fie de cel puțin 3 caractere lungime."
 
 #: bug.yourname.required
 msgctxt "bug.yourname.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "Câmpul ce conține numele este necesar."

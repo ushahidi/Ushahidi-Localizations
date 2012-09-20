@@ -1,12 +1,13 @@
 # 
 # Translators:
 #   <monica.ipate@gmail.com>, 2012.
+# Monica Ipate <monica.ipate@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-16 00:05+0000\n"
-"PO-Revision-Date: 2012-08-21 21:27+0000\n"
+"POT-Creation-Date: 2012-09-19 12:05+0000\n"
+"PO-Revision-Date: 2012-09-16 17:55+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,12 +34,12 @@ msgstr "driver"
 #: core.driver_implements
 msgctxt "core.driver_implements"
 msgid "The %s driver for the %s library must implement the %s interface."
-msgstr ""
+msgstr "Driver-ul %s pentru biblioteca %s trebuie să implementeze interfața %s."
 
 #: core.driver_not_found
 msgctxt "core.driver_not_found"
 msgid "The %s driver for the %s library could not be found."
-msgstr ""
+msgstr "Driver-ul %s pentru biblioteca %s nu a putut fi găsit."
 
 #: core.errors_disabled
 msgctxt "core.errors_disabled"
@@ -50,7 +51,7 @@ msgstr ""
 #: core.error_file_line
 msgctxt "core.error_file_line"
 msgid "<tt>%s <strong>[%s]:</strong></tt>"
-msgstr ""
+msgstr "<tt>%s <strong>[%s]:</strong></tt>"
 
 #: core.generic_error
 msgctxt "core.generic_error"

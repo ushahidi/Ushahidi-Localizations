@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-16 00:05+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
+"POT-Creation-Date: 2012-09-19 12:05+0000\n"
+"PO-Revision-Date: 2012-09-17 00:01+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2528,8 +2528,8 @@ msgstr "שלח דיווח"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
-msgid "Submitted By"
-msgstr "דווח על ידי"
+msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
+msgstr ""
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
