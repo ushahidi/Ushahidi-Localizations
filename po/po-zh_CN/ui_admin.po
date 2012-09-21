@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 00:05+0000\n"
-"PO-Revision-Date: 2012-08-21 00:02+0000\n"
+"POT-Creation-Date: 2012-09-20 12:05+0000\n"
+"PO-Revision-Date: 2012-09-20 12:02+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -73,6 +73,11 @@ msgstr "提醒"
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
 msgstr "收到提醒"
+
+#: ui_admin.all
+msgctxt "ui_admin.all"
+msgid "All"
+msgstr ""
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
