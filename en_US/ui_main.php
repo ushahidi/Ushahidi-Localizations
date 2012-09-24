@@ -220,6 +220,7 @@ $lang = array(
 	'include_latitude' => 'Include Latitude',
 	'include_location_information' => 'Include Location Information',
 	'include_longitude' => 'Include Longitude',
+	'include_personal_info' => 'Include Personal Information',
 	'incoming_media' => 'Incoming Media',
 	'information_evaluation' => 'Information Evaluation',
 	'input_location' => 'Enter your precise location',
