@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-24 12:05+0000\n"
-"PO-Revision-Date: 2012-09-17 00:01+0000\n"
+"POT-Creation-Date: 2012-09-25 00:05+0000\n"
+"PO-Revision-Date: 2012-09-25 00:01+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
@@ -1124,6 +1124,11 @@ msgstr "adja meg a helyszín információit!"
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
 msgstr "Csatold a hosszúsági fokot!"
+
+#: ui_main.include_personal_info
+msgctxt "ui_main.include_personal_info"
+msgid "Include Personal Information"
+msgstr ""
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
