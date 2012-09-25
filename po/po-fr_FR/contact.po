@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <tayachi.wajdi@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:29+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-24 12:05+0000\n"
+"PO-Revision-Date: 2012-09-22 12:59+0000\n"
+"Last-Translator: vanhalen <tayachi.wajdi@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr "Veuillez entrer un code de sécurité valide"
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "Veuillez entrer un code de sécurité valide."
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -73,4 +74,4 @@ msgstr "Veuillez indiquer un object."
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "Il y avais une erreur d'envoi de votre message."

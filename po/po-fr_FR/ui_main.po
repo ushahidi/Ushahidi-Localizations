@@ -2,13 +2,14 @@
 # Translators:
 #   <rjmackay@gmail.com>, 2012.
 # Robbie MacKay <robbie@ushahidi.com>, 2012.
+#   <tayachi.wajdi@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 00:05+0000\n"
-"PO-Revision-Date: 2012-09-17 00:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-24 12:05+0000\n"
+"PO-Revision-Date: 2012-09-22 17:37+0000\n"
+"Last-Translator: vanhalen <tayachi.wajdi@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,47 +26,47 @@ msgstr "à propos de"
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr ""
+msgstr "accès"
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr ""
+msgstr "Limites d'accès"
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr ""
+msgstr "Nom du compte"
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "Cette action ne peut pas être annulée. Êtes-vous sûr de vouloir continuer?"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr ""
+msgstr "activer"
 
 #: ui_main.active
 msgctxt "ui_main.active"
 msgid "Active"
-msgstr ""
+msgstr "actif"
 
 #: ui_main.add
 msgctxt "ui_main.add"
 msgid "Add"
-msgstr ""
+msgstr "ajouter"
 
 #: ui_main.added_by
 msgctxt "ui_main.added_by"
 msgid "Added By"
-msgstr ""
+msgstr "ajouté par"
 
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
@@ -80,37 +81,37 @@ msgstr "Rapports supplémentaires"
 #: ui_main.add_edit
 msgctxt "ui_main.add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "Ajouter / Modifier"
 
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr ""
+msgstr "Ajouter un champ"
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
 msgid "Add Language"
-msgstr ""
+msgstr "Ajouter une langue"
 
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr ""
+msgstr "Ajouter un nouveau"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr ""
+msgstr "Ajouter une nouvelle catégorie"
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
 msgid "Add Translation"
-msgstr ""
+msgstr "Ajouter Traduction"
 
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr ""
+msgstr "Administration"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
@@ -204,7 +205,7 @@ msgstr "Confirmer une demande précédente d'alerte"
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr ""
+msgstr "Votre alerte a été sauvegardée!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -224,7 +225,7 @@ msgstr "Toutes catégories"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "tous Les Temps"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -234,7 +235,7 @@ msgstr "et"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -259,37 +260,37 @@ msgstr "Approuver ce rapport"
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
 msgid "Approximate"
-msgstr ""
+msgstr "approximatif"
 
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr ""
+msgstr "Archives"
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Archivé"
 
 #: ui_main.at
 msgctxt "ui_main.at"
 msgid "at"
-msgstr ""
+msgstr "à"
 
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr ""
+msgstr "auteur"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Vérification Auto"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "Moyenne des Rapports par jour"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -304,42 +305,42 @@ msgstr "En attente de vérification"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "badge"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "badges"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "image Badge"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Ou vous pouvez télécharger votre  propre image de badge à la place."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "pack Badge"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Sélectionnez un badge"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Parcourir les profils"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -364,12 +365,12 @@ msgstr "Filtre des catégories"
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr ""
+msgstr "La catégorie a été"
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr ""
+msgstr "Nom de la catégorie"
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
@@ -379,17 +380,17 @@ msgstr "Modifier la période visée"
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "changer le mot de passe"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Changer ma photo"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
 msgid "Choose a"
-msgstr ""
+msgstr "Choisissez un"
 
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
@@ -399,17 +400,17 @@ msgstr "Choisissez les données à télécharger"
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "Ou choisissez votre propre période"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "Choisissez le type de champ"
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr "URL propre"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
@@ -434,12 +435,12 @@ msgstr "Groupes"
 #: ui_main.color
 msgctxt "ui_main.color"
 msgid "Color"
-msgstr ""
+msgstr "couleur"
 
 #: ui_main.comment
 msgctxt "ui_main.comment"
 msgid "Comment"
-msgstr ""
+msgstr "commenter"
 
 #: ui_main.comments
 msgctxt "ui_main.comments"
@@ -454,18 +455,18 @@ msgstr "Détails des commentaires"
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
-msgstr ""
+msgstr "Vos paramètres ont été sauvegardés!"
 
 #: ui_main.configure
 msgctxt "ui_main.configure"
 msgid "Configure"
-msgstr ""
+msgstr "configurer"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "Vous avez réussi à confirmer votre adresse e-mail! S'il vous plaît connecter ci-dessous."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -481,42 +482,42 @@ msgstr "Contactez-nous"
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "code de sécurité"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "Votre adresse e-mail"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "Votre Message a été envoyé"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr ""
+msgstr "Votre Nom"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr ""
+msgstr "Votre Numéro de téléphone"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr ""
+msgstr "Envoyer Message"
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr ""
+msgstr "Sujet du message"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
@@ -526,22 +527,22 @@ msgstr "Copyright © 2010 Ushahidi.com. Tous droits réservés."
 #: ui_main.create
 msgctxt "ui_main.create"
 msgid "Create"
-msgstr ""
+msgstr "Créer"
 
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
-msgstr ""
+msgstr "Créer/éditer"
 
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr ""
+msgstr "Créer nouveau"
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "Créer un nouveau mot de passe"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -556,7 +557,7 @@ msgstr "Crédibilité"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "Mot de passe actuel"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
@@ -566,17 +567,17 @@ msgstr "Champs personnalisés"
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(mm/jj/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -586,17 +587,17 @@ msgstr "Date & Heure"
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr ""
+msgstr "Jour"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
 msgid "Deactivate"
-msgstr ""
+msgstr "Désactiver"
 
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "Nairobi, Kenya"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -606,17 +607,17 @@ msgstr "Effacer"
 #: ui_main.deleted
 msgctxt "ui_main.deleted"
 msgid "Deleted"
-msgstr ""
+msgstr "Supprimé"
 
 #: ui_main.deletes
 msgctxt "ui_main.deletes"
 msgid "Deletes"
-msgstr ""
+msgstr "Supprimés"
 
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "Supprimer désactivé"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
@@ -626,7 +627,7 @@ msgstr "Supprimer la dernière entrée"
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr ""
+msgstr "supprimer ce rapport"
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
@@ -636,17 +637,17 @@ msgstr "Supprimer la sélection"
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
-msgstr ""
+msgstr "supprimer SPAM"
 
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Démo"
 
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -656,17 +657,17 @@ msgstr "Exemple: Avenue du Martyr, Bangui"
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr ""
+msgstr "Détails"
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr ""
+msgstr "Rapport direct"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Inactif"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
@@ -691,7 +692,7 @@ msgstr "Modifier"
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr ""
+msgstr "Editer les champs du formulaire"
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
@@ -701,7 +702,7 @@ msgstr "Modifier la rapport"
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "Courrier électronique"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
@@ -711,109 +712,109 @@ msgstr "Adresse e-mail"
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr ""
+msgstr "Configuration Serveur Email"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Host Serveur Email"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Mot de passe Serveur Email"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Port Serveur Email"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "Support SSl Serveur Email"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Type Serveur Email"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "nom d'utilisateur Serveur Email"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "donc vos réglages doivent être associés à cette adresse e-mail"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "Afin de recevoir des informations par e-mail,veuillez entrer vos paramètres de compte email ci-dessous. S'il vous plaît noter que les courriels seront reçus à votre"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "Certains serveurs nécessitent une adresse email complète"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "Mot de passe du compte de messagerie"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "ports habituels: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Exemples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "Exemples: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "Activer ou désactiver les connexions SSL"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---VIDE---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr ""
+msgstr "à"
 
 #: ui_main.error
 msgctxt "ui_main.error"
 msgid "Error!"
-msgstr ""
+msgstr "Erreur!"
 
 #: ui_main.example
 msgctxt "ui_main.example"
 msgid "Example"
-msgstr ""
+msgstr "Exemple"
 
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
 msgid "Kenya"
-msgstr ""
+msgstr "Kenya"
 
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Applications Externes"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
@@ -2532,7 +2533,7 @@ msgstr "Soumettre un événement"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
-msgstr ""
+msgstr "Présenté par <strong>%s</strong> via <strong>%s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
