@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <ictsupport@pbi-nepal.org>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-25 12:05+0000\n"
-"PO-Revision-Date: 2012-09-25 23:14+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-26 00:05+0000\n"
+"PO-Revision-Date: 2012-09-26 10:22+0000\n"
+"Last-Translator: PBI <ictsupport@pbi-nepal.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,22 +23,22 @@ msgstr "हाम्रो बारेमा"
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr ""
+msgstr "पहुँच"
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr ""
+msgstr "सीमित पहुँच"
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr ""
+msgstr "खाताको नाम"
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr ""
+msgstr "कार्य"
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
@@ -47,17 +48,17 @@ msgstr ""
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr ""
+msgstr "Activate गर्नुहोस्"
 
 #: ui_main.active
 msgctxt "ui_main.active"
 msgid "Active"
-msgstr ""
+msgstr "सक्रिय"
 
 #: ui_main.add
 msgctxt "ui_main.add"
 msgid "Add"
-msgstr "जोड्नु"
+msgstr "जोड्नुहोस्"
 
 #: ui_main.added_by
 msgctxt "ui_main.added_by"
@@ -67,12 +68,12 @@ msgstr ""
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "अतिरिक्त डाटा"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
-msgstr ""
+msgstr "अतिरिक्त प्रतिवेदनहरु"
 
 #: ui_main.add_edit
 msgctxt "ui_main.add_edit"
@@ -82,17 +83,17 @@ msgstr ""
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr ""
+msgstr "फिल्ड थप्नुहोस्"
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
 msgid "Add Language"
-msgstr ""
+msgstr "भाषा थप्नुहोस्"
 
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr ""
+msgstr "नयाँ थप्नुहोस्"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
@@ -112,7 +113,7 @@ msgstr ""
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "अधिसूचनाहरु प्राप्त गर्नु"
+msgstr "अधिसूचनाहरु प्राप्त गर्नुहोस्"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
@@ -142,7 +143,7 @@ msgstr ""
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "अधिसूचनाहरु प्राप्त गर्नु"
+msgstr "अधिसूचनाहरु प्राप्त गर्नुहोस्"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
@@ -2164,7 +2165,7 @@ msgstr ""
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr "sms बाटा \"report\"+ गा.वि.सा./ नगरपालिका / वाडा न./ नाम/पता टाईप गरेर 18771555 मा पठाउन सकिन्छ"
+msgstr "sms बाटा मा पठाउन सकिन्छ"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
@@ -2529,7 +2530,7 @@ msgstr ""
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr "प्रतिवेदन बुझाउनु"
+msgstr "प्रतिवेदन बुझाउनुहोस्"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
