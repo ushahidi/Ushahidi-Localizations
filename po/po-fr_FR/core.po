@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <tayachi.wajdi@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-26 00:05+0000\n"
-"PO-Revision-Date: 2012-08-17 21:10+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-09-26 12:05+0000\n"
+"PO-Revision-Date: 2012-09-26 22:06+0000\n"
+"Last-Translator: vanhalen <tayachi.wajdi@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,39 +19,39 @@ msgstr ""
 #: core.config
 msgctxt "core.config"
 msgid "config file"
-msgstr ""
+msgstr "fichier config"
 
 #: core.controller
 msgctxt "core.controller"
 msgid "controller"
-msgstr ""
+msgstr "controleur"
 
 #: core.driver
 msgctxt "core.driver"
 msgid "driver"
-msgstr ""
+msgstr "driver"
 
 #: core.driver_implements
 msgctxt "core.driver_implements"
 msgid "The %s driver for the %s library must implement the %s interface."
-msgstr ""
+msgstr "le %s driver de la librairie %s doit implémenter l’interface %s."
 
 #: core.driver_not_found
 msgctxt "core.driver_not_found"
 msgid "The %s driver for the %s library could not be found."
-msgstr ""
+msgstr "le %s driver de la librairie %s n'a pas pu être trouvé."
 
 #: core.errors_disabled
 msgctxt "core.errors_disabled"
 msgid ""
 "You can go to the <a href=\"%s\">home page</a> or <a href=\"%s\">try "
 "again</a>."
-msgstr ""
+msgstr "vous pouvez aller à la <a href=\"%s\">page d’accueil </a> ou <a href=\"%s\"> réessayer</a>."
 
 #: core.error_file_line
 msgctxt "core.error_file_line"
 msgid "<tt>%s <strong>[%s]:</strong></tt>"
-msgstr ""
+msgstr "<tt>%s <strong>[%s]:</strong></tt>"
 
 #: core.generic_error
 msgctxt "core.generic_error"
