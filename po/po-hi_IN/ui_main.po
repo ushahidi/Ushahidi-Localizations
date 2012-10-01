@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-30 00:05+0000\n"
-"PO-Revision-Date: 2012-09-28 07:40+0000\n"
+"POT-Creation-Date: 2012-09-30 12:05+0000\n"
+"PO-Revision-Date: 2012-09-30 19:41+0000\n"
 "Last-Translator: Rishab Arora <ra.rishab@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -283,12 +283,12 @@ msgstr "लेखक"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "ऑटो उपस्थिति"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "प्रति दिन औसत रिपोर्ट"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -298,7 +298,7 @@ msgstr "स्वीकृति के लिए प्रतीक्षा �
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr ""
+msgstr "सत्यापन का इंतजार है"
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
@@ -323,42 +323,42 @@ msgstr "या आप अपना बैज चित्र अपलोड क
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "बैज समूह"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "बैज चुनें"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "ब्लॉग"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "प्रोफाइलें देखें"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द करें"
 
 #: ui_main.categories
 msgctxt "ui_main.categories"
 msgid "Categories"
-msgstr ""
+msgstr "श्रेणियां"
 
 #: ui_main.category
 msgctxt "ui_main.category"
 msgid "Category"
-msgstr ""
+msgstr "श्रेणी"
 
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
 msgid "Category Filter"
-msgstr ""
+msgstr "श्रेणी छन्ना"
 
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
@@ -368,12 +368,12 @@ msgstr ""
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr ""
+msgstr "श्रेणी का नाम"
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "तिथि सीमा बदलें"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
@@ -398,27 +398,27 @@ msgstr "डाउनलोड करने के डेटा बिंदु�
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "या अपनी तिथि सीमा का चयन करें"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "फ़ील्ड प्रकार का चयन करें"
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr "URL साफ़ करें"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "साफ़ करें"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "नक्षा साफ़ करें"
 
 #: ui_main.close
 msgctxt "ui_main.close"
@@ -443,7 +443,7 @@ msgstr "टिप्पणी"
 #: ui_main.comments
 msgctxt "ui_main.comments"
 msgid "Comments"
-msgstr ""
+msgstr "टिप्पणियाँ"
 
 #: ui_main.comment_details
 msgctxt "ui_main.comment_details"
@@ -458,13 +458,13 @@ msgstr "आपकी सेटिंग्स अंकित हो गई ह�
 #: ui_main.configure
 msgctxt "ui_main.configure"
 msgid "Configure"
-msgstr ""
+msgstr "कॉन्फ़िगर"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "आपने सफलतापूर्वक अपने ईमेल पते की पुष्टि की है!कृपया नीचे लॉगिन करें|"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -475,32 +475,32 @@ msgstr ""
 #: ui_main.contact
 msgctxt "ui_main.contact"
 msgid "Contact Us"
-msgstr ""
+msgstr "हमसे संपर्क करें"
 
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "सुरक्षा कोड"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "आपका ईमेल पता"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "संदेश"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "आपका संदेश भेज दिया गया है!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr ""
+msgstr "आपका नाम"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
