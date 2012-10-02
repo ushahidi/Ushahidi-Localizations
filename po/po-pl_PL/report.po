@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-01 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:47+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-02 00:05+0000\n"
+"PO-Revision-Date: 2012-10-02 10:06+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,14 +18,14 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "błąd!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Ta mapa jest ograniczona do obszaru jednego kraju. Proszę się upewnić, że raport znajduje się na terytorium kraju: %s."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -34,7 +35,7 @@ msgstr "Proszę wypełnij wszystkie wymagane pola."
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Proszę wybrać właściwy obiekt do pobrania."
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
@@ -44,38 +45,38 @@ msgstr "Wybierz właściwe elementy do pobrania"
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Proszę wybrać \"Oczekujące akceptacji\", \"Zaakceptowane\" lub wszystkie. "
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Proszę wybrać \"Oczekujące akceptacji\", \"Zaakceptowane\" lub wszystkie. "
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Proszę wybrać \"Oczekujące akceptacji\", \"Zaakceptowane\" lub wszystkie. "
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Proszę wybrać \"Oczekujące weryfikacji\", \"Zweryfikowane\" lub wszystkie. "
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Proszę wybrać \"Oczekujące weryfikacji\", \"Zweryfikowane\" lub wszystkie. "
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Proszę wybrać \"Oczekujące weryfikacji\", \"Zweryfikowane\" lub wszystkie. "
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
@@ -224,7 +225,7 @@ msgstr "Tutuł alertu jest wymagany."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "Podejrzenie ataku CSRF! Czy rzeczywiście chcesz utworzyć/edytować raport?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"

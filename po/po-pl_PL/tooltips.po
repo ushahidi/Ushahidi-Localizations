@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-01 12:05+0000\n"
-"PO-Revision-Date: 2012-09-20 12:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-02 00:05+0000\n"
+"PO-Revision-Date: 2012-10-02 10:54+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,19 +21,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Dodaje raport do dodatkowych kategorii."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Zatwierdza (bądź nie) raport. Jeśli zostanie zatwierdzony, będzie widoczny publicznie."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "Możesz przypisać odznakę, którą otrzyma użytkownik. Wybierz odpowiednią odznakę."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -43,7 +44,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "To jest zakres czasu"
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -66,12 +67,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Treść e-mail."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Temat e-mail."
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -271,7 +272,7 @@ msgstr ""
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Adres, pod którym można znaleźć profil publiczny."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -286,52 +287,52 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr ""
+msgstr "Poziomy dostępu są używane dla kontroli dostępu do dodatkowych danych. Superadministrator ma najwyższy poziom równy 100, administrator - 90, członkowie - 10. Dane dostępne publicznie to poziom 0."
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr ""
+msgstr "Adres e-mail, na który będą wysyłane raporty."
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Zezwól użytkownikom na subskrypcje"
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
 msgid "This allows bundling of similar reports into a single dot on the map"
-msgstr ""
+msgstr "Agreguj podobne raporty do jednej kropki na mapie"
 
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
 msgid "Allow users to comment on reports on the main site."
-msgstr ""
+msgstr "Zezwól na umieszczanie komentarzy na stronie głównej."
 
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
-msgstr ""
+msgstr "Zezwól na wyświetlanie kanałów RSS na stronie głównej."
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
 msgid "Allow users to submit information via the web form."
-msgstr ""
+msgstr "Zezwól użytkownikom na wysyłanie informacji przez formularz."
 
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "Domyślna liczba wierszy dostarczana na zapytanie do API"
 
 #: tooltips.settings_api_max_record_limit
 msgctxt "tooltips.settings_api_max_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Maksymalna liczba wierszy dostarczana na zapytanie do API"
 
 #: tooltips.settings_api_max_requests_per_ip
 msgctxt "tooltips.settings_api_max_requests_per_ip"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Maksymalna liczba zapytań do API na jeden adres IP"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
@@ -340,12 +341,12 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr ""
+msgstr "Banner pokazuje się w górnej części strony głównej, jeśli Twój szablon pozwala na jego używanie. Rozmiar bannera zależy od szablonu. Pamiętaj, że banner zastępuje tytuł i podpis strony."
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Liczba kolumn na każdy wiersz."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -354,12 +355,12 @@ msgid ""
 "response times. We recommend using caching on high traffic sites. **Remember"
 " that reports will be populated on the front end based on the schedule you "
 "set below (Cache Lifetime)."
-msgstr ""
+msgstr "Włącz lub wyłącz pamięć podręczną. Zalecane do stron o dużym natężeniu ruchu - skraca czas ładowania."
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
 msgid "Set the lifetime of the cache."
-msgstr ""
+msgstr "Ustaw czas przechowywania pamięci podręcznej."
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
@@ -370,32 +371,32 @@ msgid ""
 "make sure your timezone setting is on UTC and your theme supports checkins. "
 "When you enable this, checkin-only themes will become enabled under your "
 "addons/themes settings page."
-msgstr ""
+msgstr "Włącza \"check-in\" na tej stronie. To jest uproszczony typ raportu, który nie jest moderowany przed upublicznieniem i wymaga odpowiedniej konfiguracji strony. Jeśli włączasz tą opcję, upewnij się, że strefa czasowa jest ustawiona na UTC i używany przez Ciebie szablon obsługuje check-in. Po włączeniu tej opcji dodatkowe szablony, wykorzystujące wyłącznie check-in, zostaną pokazane w panelu administracyjnym."
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
 msgid "Set the map to cover a specific location."
-msgstr ""
+msgstr "Ustaw mapę, by pokazywała właściwy obszar."
 
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr ""
+msgstr "Przypisz jeden kolor wszystkim kategoriom."
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Przypisz jedną ikonę wszystkim kategoriom."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr ""
+msgstr "Kraj, którego dotyczy strona."
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
 msgid "Turn the Contact Tab on or off on the main site."
-msgstr ""
+msgstr "Włącza lub wyłącza zakładkę \"Kontakt\""
 
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"

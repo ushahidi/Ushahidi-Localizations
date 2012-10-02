@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-01 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-02 00:05+0000\n"
+"PO-Revision-Date: 2012-10-02 11:13+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +36,7 @@ msgid ""
 "This chart gives you a linear view of the reports by category over time.  "
 "Scroll from left to right to see a comparative view of the different "
 "categories. Mouse over the graph for more details."
-msgstr ""
+msgstr "To jest wykres liniowy dla raportów według kategorii w czasie. Przewiń w prawo by obejrzeć porównanie różnych kategorii. Najedź myszką, by uzyskać więcej informacji."
 
 #: stats.choose_date_range
 msgctxt "stats.choose_date_range"
@@ -62,7 +63,7 @@ msgctxt "stats.description"
 msgid ""
 "This is the statistics section and will contain a general description here "
 "soon. For now, browse around using the sub category links above."
-msgstr ""
+msgstr "To jest sekcja statystyczna i niedługo będzie zawierała ogólny opis. Tymczasem możesz przejrzeć podkategorie korzystając z powyższych linków."
 
 #: stats.error
 msgctxt "stats.error"
@@ -72,12 +73,12 @@ msgstr "Błąd"
 #: stats.glossary
 msgctxt "stats.glossary"
 msgid "Glossary"
-msgstr ""
+msgstr "Słowniczek"
 
 #: stats.hit_summary
 msgctxt "stats.hit_summary"
 msgid "Hit Summary"
-msgstr ""
+msgstr "Podsumowanie"
 
 #: stats.legend
 msgctxt "stats.legend"
@@ -92,7 +93,7 @@ msgstr "Odsłony"
 #: stats.pageviews_description
 msgctxt "stats.pageviews_description"
 msgid "The total number of pages that visitors have viewed on your site"
-msgstr ""
+msgstr "Całkowita liczba podstron, jakie odwiedzili goście tej strony"
 
 #: stats.reports
 msgctxt "stats.reports"
@@ -117,7 +118,7 @@ msgstr "Status Raportów"
 #: stats.report_punchcard
 msgctxt "stats.report_punchcard"
 msgid "Report Punchcard"
-msgstr ""
+msgstr "Karta raportów"
 
 #: stats.report_stats
 msgctxt "stats.report_stats"
@@ -127,7 +128,7 @@ msgstr "Statystyki Raportów"
 #: stats.stats_not_setup
 msgctxt "stats.stats_not_setup"
 msgid "Stats Not Set Up"
-msgstr ""
+msgstr "Statystyki nie ustawione"
 
 #: stats.time_range_1
 msgctxt "stats.time_range_1"
@@ -193,4 +194,4 @@ msgctxt "stats.visits_description"
 msgid ""
 "A visit is a record of a unique visitor coming to the site more than 30 "
 "minutes past his/her last pageview."
-msgstr ""
+msgstr "Jako wizyta traktowane są odwiedziny unikalnego użytkownika, które nastąpiły w odstępie nie mniejszym niż 30 minut."
