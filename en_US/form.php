@@ -14,6 +14,7 @@ $lang = array(
 	'field_name' => array(
 		'length' => 'The Field Name must be at least 3 and no more than 100 characters long.',
 		'required' => 'Please enter Field Name.',
+		'duplicate' => 'The field name you entered already exists. Please enter another one.',
 	) ,
 	'field_required' => array(
 		'between' => 'You have entered an invalid value for Field Required.',

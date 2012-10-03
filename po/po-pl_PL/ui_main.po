@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-27 12:05+0000\n"
-"PO-Revision-Date: 2012-09-25 00:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-03 00:06+0000\n"
+"PO-Revision-Date: 2012-10-02 10:35+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,7 +68,7 @@ msgstr "Dodane przez"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Dodatkowe dane"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -137,7 +138,7 @@ msgstr "podaj adres email"
 #: ui_main.alerts_enter_mobile
 msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
-msgstr "podaj numer telefonu z kodem krau (+48)"
+msgstr "podaj numer telefonu z kodem kraju (+48)"
 
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
@@ -147,7 +148,7 @@ msgstr "Zamów alerty"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Alert został"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -221,7 +222,7 @@ msgstr "Wszystkie kategorie"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "Dowolny czas"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -231,7 +232,7 @@ msgstr "i"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -281,7 +282,7 @@ msgstr "Autor"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Automatyczny"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -301,42 +302,42 @@ msgstr "Oczekujące weryfikacji"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Odznaka"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Odznaki"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "Obraz odznaki"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Lub załaduj własny obraz odznaki:"
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Zestaw odznak"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Wybierz odznakę"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Przeglądaj profile"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -371,17 +372,17 @@ msgstr "Nazwa kategorii"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Zmień zakres czasu"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "Zmień hasło"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Zmień obraz"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -396,7 +397,7 @@ msgstr "Wybierz punkty do pobrania"
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "Lub wybierz własny zakres czasu"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
@@ -411,12 +412,12 @@ msgstr "Przyjazne URLe"
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "Wyczyść"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "Wyczyść mapę"
 
 #: ui_main.close
 msgctxt "ui_main.close"
@@ -462,13 +463,13 @@ msgstr "Skonfiguruj"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "Adres e-mail został prawidłowo potwierdzony, możesz się zalogować!"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "Potwierdzenie adresu nie powiodło się. Możesz spróbować jeszcze raz."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -538,7 +539,7 @@ msgstr "Dodaj nowy"
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "Utwórz nowe hasło"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -553,12 +554,12 @@ msgstr "Wiarygodność"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "Aktualne hasło"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Pola użytkownika"
 
 #: ui_main.data
 msgctxt "ui_main.data"
@@ -618,7 +619,7 @@ msgstr "Kasowanie wyłączone"
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "Skasuj ostatni"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
@@ -628,7 +629,7 @@ msgstr "Skasuj ten alert"
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "Skasuj zaznaczone"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -638,7 +639,7 @@ msgstr "Skasuj Spam"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_main.description
 msgctxt "ui_main.description"
@@ -678,7 +679,7 @@ msgstr "Pobierz alerty"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "Pobierz"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -698,7 +699,7 @@ msgstr "Edytuj alert"
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
@@ -785,7 +786,7 @@ msgstr "Włączy lub wyłącz połączenia SSL"
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---PUSTY---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
@@ -810,12 +811,12 @@ msgstr "Polska"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Zewnętrzne aplikacje"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Zewnętrzne wideo"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -872,7 +873,7 @@ msgstr "Plik"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Rozmiar pliku jest za duży!"
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -882,17 +883,17 @@ msgstr "Filtry"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Filtruj"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Filtruj według"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Filtruj zawierające"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -967,32 +968,32 @@ msgstr "Dostępne dane Geolokalizacyjne"
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
 msgid "Color"
-msgstr ""
+msgstr "Kolor"
 
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr ""
+msgstr "Komentarze"
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "Etykieta"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "Grubość linii"
 
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Idź"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1007,7 +1008,7 @@ msgstr "Chcę pomóc"
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "Ukryty"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
@@ -1032,17 +1033,17 @@ msgstr "Jak zgłaszać alerty"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Używane, by zidentyfikować Ciebie na tej stronie."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1097,7 +1098,7 @@ msgstr "Podaj kategorię"
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Dołącz pola użytkownika"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
@@ -1112,7 +1113,7 @@ msgstr "Podaj jak najwięcej szczegółów"
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr "Podaj Szerokość Geo."
+msgstr "Podaj szerokość geograficzną"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
@@ -1122,12 +1123,12 @@ msgstr "Podaj dane lokalizacji"
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr "Podaj Długość Geo."
+msgstr "Podaj długość geograficzną"
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Dołącz dane personalne"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1149,7 +1150,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Twoje konto nie posiada uprawnień do prawidłowego zalogowania. Proszę skontaktować się z administratorem."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1164,7 +1165,7 @@ msgstr "Adres IP"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "Czy to Twój profil?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
@@ -1209,7 +1210,7 @@ msgstr "URL KML"
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1274,7 +1275,7 @@ msgstr "Dodaj komentarz"
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Mniej informacji"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1299,17 +1300,17 @@ msgstr "Limit"
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Ładowanie"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1329,70 +1330,70 @@ msgstr "Miasto, stan i/lub kraj"
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "Login"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Konto utworzone! Możesz się zalogować."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "Potwierdzenie zostało wysłane na podany adres e-mail."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Ten adres nie istnieje lub nie działa. Spróbuj zarejestrować się z użyciem innego adresu."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Kliknij Twojego dostawcę konta"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Zaloguj przez"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "Email i hasło"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Zarejestruj się"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Utwórz konto"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %s. To confirm your email address, please go to "
 "the following URL: %s"
-msgstr ""
+msgstr "Dziękujemy za zarejestrowanie się w %s. Aby potwierdzić, kliknij ten link: %s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Potwierdzenie rejestracji"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Utwórz konto, aby w pełni wykorzystać możliwości tej strony."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1417,12 +1418,12 @@ msgstr "Oznacz jako nieprzeczytane"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Maksymalny rozmiar pliku"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "Multimedia"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
@@ -1432,12 +1433,12 @@ msgstr "Filtr mediów"
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Członkowie"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "Zarządzanie kontem"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1457,12 +1458,12 @@ msgstr "Treść wiadomości"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Wiadomość z źródła nie-cyfrowego:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobilny"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
@@ -1487,7 +1488,7 @@ msgstr "Więcej"
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "Więcej informacji"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
@@ -1499,7 +1500,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Musisz potwierdzić swój adres e-mail by uzyskać dostęp. Jeśli wiadomość z potwierdzeniem zginęła, możesz uzyskać nową poniżej."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1559,17 +1560,17 @@ msgstr "Nie"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Brak check-in do wyświetlenia."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Brak danych"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1589,7 +1590,7 @@ msgstr "Nie zaakceptowane"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---Nie zaznaczony---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1599,12 +1600,12 @@ msgstr "nie spam"
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "Nie sprecyzowany"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr ""
+msgstr "Brak raportów"
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
@@ -1614,7 +1615,7 @@ msgstr "Nie ma rezultatów"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Wyłączony"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1624,7 +1625,7 @@ msgstr "Wiadomości"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "Włączony"
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1764,7 +1765,7 @@ msgstr "Powtórz hasło"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "Hasło zmienione poprawnie! Zaloguj się poniżej."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
@@ -1814,7 +1815,7 @@ msgstr "Telefon"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "Zdjęcia"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
@@ -1857,12 +1858,12 @@ msgstr "Strona wtyczki"
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "Profil publiczny"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "URL profilu publicznego"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1887,12 +1888,12 @@ msgstr "Poprzedni"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "Prywatny"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "Kolor profilu"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
@@ -1942,7 +1943,7 @@ msgstr "Odśwież źródła newsów"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "Zarejestrowany e-mail"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -1962,27 +1963,27 @@ msgstr "Raport"
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr ""
+msgstr "Raporty <span>(z mapy, kolejność chronologiczna)</span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr ""
+msgstr "Zgłaszający"
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
 msgid "Reporters"
-msgstr "Reporterzy"
+msgstr "Zgłaszający"
 
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr "Data Reportera"
+msgstr "Data zgłaszającego"
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
-msgstr "Email Reportera"
+msgstr "Email zgłaszającego"
 
 #: ui_main.reporter_first_name
 msgctxt "ui_main.reporter_first_name"
@@ -1992,32 +1993,32 @@ msgstr "Imię zgłaszającego"
 #: ui_main.reporter_has_been
 msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
-msgstr "Reporter został"
+msgstr "Zgłaszający został"
 
 #: ui_main.reporter_ip
 msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
-msgstr "IP Reportera"
+msgstr "IP Zgłaszającego"
 
 #: ui_main.reporter_last_name
 msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
-msgstr "Nazwisko Reportera"
+msgstr "Nazwisko Zgłaszającego"
 
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr "Poziom Reportera"
+msgstr "Poziom Zgłaszającego"
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr "Poziomy Reporterów"
+msgstr "Poziomy Zgłaszających"
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
-msgstr "Telefon Reportera"
+msgstr "Telefon Zgłaszającego"
 
 #: ui_main.reports
 msgctxt "ui_main.reports"
@@ -2037,7 +2038,7 @@ msgstr "Wyślij"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "Raporty tego użytkownika"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2047,7 +2048,7 @@ msgstr "Kategorie"
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d raportów"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2067,12 +2068,12 @@ msgstr "Raporty zostaną pobrane w formacie CSV"
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr ""
+msgstr "Właściwości"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
@@ -2184,7 +2185,7 @@ msgstr "Przez wysłanie niniejszego formularza"
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "Używając aplikacji"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
@@ -2209,7 +2210,7 @@ msgstr "Poproś o lokalizację"
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "Wymagane"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
@@ -2219,17 +2220,17 @@ msgstr "Wymagania"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "Ponownie wyślij"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Zresetuj"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "Zresetuj wszystkie filtry"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
@@ -2244,7 +2245,7 @@ msgstr "Pobierz nazwy miast z wybranego kraju"
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Konta zarządzane przez usługę %s"
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2254,7 +2255,7 @@ msgstr "Rola"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2269,7 +2270,7 @@ msgstr "Zapisane"
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "Zapisz i dodaj nowe"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
@@ -2284,12 +2285,12 @@ msgstr "Zapisz alert"
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr ""
+msgstr "Harmonogram"
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr ""
+msgstr "Scheduler"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
@@ -2374,7 +2375,7 @@ msgstr "Wyślij"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Wyślij potwierdzenie"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
@@ -2424,7 +2425,7 @@ msgstr "Udostępnij"
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr "Dabe udostępniane"
+msgstr "Dane udostępniane"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
@@ -2439,7 +2440,7 @@ msgstr "Udostępnianie"
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Niższa mapa"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2454,12 +2455,12 @@ msgstr "Pokaż wszystkie"
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "Pokaż wiadomości"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
-msgstr ""
+msgstr "Pokazuje raporty od <span class=\"time-period\">%s do %s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2479,17 +2480,17 @@ msgstr "URL"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Mniejsza mapa"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "Nie masz w tej chwili żadnych odznak."
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2509,7 +2510,7 @@ msgstr "URL źródła"
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
@@ -2534,7 +2535,7 @@ msgstr "Dodaj alert"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
-msgstr ""
+msgstr "Wysłane przez <strong>%s</strong> z użyciem <strong>%s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2569,17 +2570,17 @@ msgstr "Nazwisko"
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "Ankieta"
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Wyższa mapa"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2619,7 +2620,7 @@ msgstr "Ten miesiąc"
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr ""
+msgstr "Ten tydzień"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
@@ -2629,7 +2630,7 @@ msgstr "Ten rok"
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "To jest Twój profil."
 
 #: ui_main.time
 msgctxt "ui_main.time"
@@ -2659,7 +2660,7 @@ msgstr "Dziś o"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2699,27 +2700,27 @@ msgstr "Tłumaczenie zostało zapisane"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Zaufany"
 
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "Nie można wysłać wiadomości!"
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Bez kategorii"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2779,7 +2780,7 @@ msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Jeśli nie podasz współrzędnych, lokalizacje zostaną ustalone za pomocą usługi geokodowania Google"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2812,12 +2813,12 @@ msgstr "Dodawanie powiodło się"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "Załaduj wideo"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2837,7 +2838,7 @@ msgstr "Admin Ushahidi"
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "Weryfikacja"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
@@ -2912,7 +2913,7 @@ msgstr "Zobacz więcej"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Obejrzyj profil publiczny"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -2942,12 +2943,12 @@ msgstr "Oczekujące weryfikacji"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Szersza mapa"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Formularz"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
@@ -2967,19 +2968,19 @@ msgstr "Wczoraj"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Twoja konsola"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "Twój plik"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "Przybliż"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Oddal"

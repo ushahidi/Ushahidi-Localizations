@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-27 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:37+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-03 00:06+0000\n"
+"PO-Revision-Date: 2012-10-03 00:02+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,7 +18,7 @@ msgstr ""
 #: form.field_default.default
 msgctxt "form.field_default.default"
 msgid "The default value you have provided for the field is invalid."
-msgstr ""
+msgstr "Domyślna wartość wprowadzona dla pola jest nieprawidłowa."
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
@@ -50,6 +51,11 @@ msgstr "Nazwa pola musi zawierać co najmniej 3 i nie więcej niż 100 znaków."
 msgctxt "form.field_name.required"
 msgid "Please enter Field Name."
 msgstr "Wprowadź nazwę pola."
+
+#: form.field_name.duplicate
+msgctxt "form.field_name.duplicate"
+msgid "The field name you entered already exists. Please enter another one."
+msgstr ""
 
 #: form.field_required.between
 msgctxt "form.field_required.between"

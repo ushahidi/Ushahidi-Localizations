@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-27 12:05+0000\n"
-"PO-Revision-Date: 2012-08-19 23:00+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-03 00:06+0000\n"
+"PO-Revision-Date: 2012-10-02 10:09+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -41,7 +42,7 @@ msgctxt "alerts.alert_country.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the alert "
 "location is within the country %s."
-msgstr ""
+msgstr "Ta mapa jest ograniczona do jednego kraju. Proszę się upewnić, że raport znajduje się na terytorium kraju: %s."
 
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
@@ -106,12 +107,12 @@ msgstr "Proszę zaznaczyć promień alertów na mapie."
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr ""
+msgstr "Nie ustawiono odbiorcy alertów!"
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr ""
+msgstr "Utworzono subskrypcję dla następujących kategorii"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
@@ -174,24 +175,24 @@ msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr ""
+msgstr "Zgłoszenie zostało przyjęte, kod SMS został wysłany na"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr ""
+msgstr "Proszę wpisać otrzymany kod SMS:"
 
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "Zgłoszenie NIE zostało zapisane!"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr ""
+msgstr "Zgłoszenie zostało zapisane!"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-27 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:41+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-03 00:06+0000\n"
+"PO-Revision-Date: 2012-10-02 09:57+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -113,4 +114,4 @@ msgstr "Pobrany plik zip Ushahidi <code>%s</code>, nie może zostać zapisany"
 #: libraries.riverid_variable_not_available
 msgctxt "libraries.riverid_variable_not_available"
 msgid "%s is not available in the RiverID class."
-msgstr ""
+msgstr "%s nie jest dostępny w klasie RiverID."
