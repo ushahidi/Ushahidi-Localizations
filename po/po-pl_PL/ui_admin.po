@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-03 12:05+0000\n"
-"PO-Revision-Date: 2012-10-02 14:05+0000\n"
-"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
+"POT-Creation-Date: 2012-10-04 00:05+0000\n"
+"PO-Revision-Date: 2012-10-04 00:02+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -354,6 +354,16 @@ msgstr "baza danych"
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
 msgstr "Data i czas"
+
+#: ui_admin.date_added
+msgctxt "ui_admin.date_added"
+msgid "Date Added"
+msgstr ""
+
+#: ui_admin.date_modified
+msgctxt "ui_admin.date_modified"
+msgid "Date Modified"
+msgstr ""
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -1193,6 +1203,11 @@ msgstr "Istotność"
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
 msgstr "Tytuł"
+
+#: ui_admin.report_date
+msgctxt "ui_admin.report_date"
+msgid "Report Date"
+msgstr ""
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"

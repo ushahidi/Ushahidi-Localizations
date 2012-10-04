@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-03 12:05+0000\n"
-"PO-Revision-Date: 2012-10-03 12:02+0000\n"
+"POT-Creation-Date: 2012-10-04 00:05+0000\n"
+"PO-Revision-Date: 2012-10-04 00:02+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -267,6 +267,11 @@ msgstr "Arkivo"
 msgctxt "ui_main.archived"
 msgid "Archived"
 msgstr "E arkivuar"
+
+#: ui_main.ascending
+msgctxt "ui_main.ascending"
+msgid "Ascending"
+msgstr ""
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -644,6 +649,11 @@ msgstr "Demostrative"
 msgctxt "ui_main.description"
 msgid "Description"
 msgstr "Pershkrim"
+
+#: ui_main.descending
+msgctxt "ui_main.descending"
+msgid "Descending"
+msgstr ""
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -2500,6 +2510,16 @@ msgstr "Burimi"
 msgctxt "ui_main.source_name"
 msgid "Source name"
 msgstr "Emri i burimit"
+
+#: ui_main.sort
+msgctxt "ui_main.sort"
+msgid "Sort"
+msgstr ""
+
+#: ui_main.sort_by
+msgctxt "ui_main.sort_by"
+msgid "Sort By"
+msgstr ""
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"

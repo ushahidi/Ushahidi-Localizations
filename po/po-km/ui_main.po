@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-03 12:05+0000\n"
-"PO-Revision-Date: 2012-10-03 12:02+0000\n"
+"POT-Creation-Date: 2012-10-04 00:05+0000\n"
+"PO-Revision-Date: 2012-10-04 00:02+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -268,6 +268,11 @@ msgstr ""
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
+msgstr ""
+
+#: ui_main.ascending
+msgctxt "ui_main.ascending"
+msgid "Ascending"
 msgstr ""
 
 #: ui_main.at
@@ -645,6 +650,11 @@ msgstr ""
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
+msgstr ""
+
+#: ui_main.descending
+msgctxt "ui_main.descending"
+msgid "Descending"
 msgstr ""
 
 #: ui_main.detailed_location_example
@@ -2501,6 +2511,16 @@ msgstr ""
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
+msgstr ""
+
+#: ui_main.sort
+msgctxt "ui_main.sort"
+msgid "Sort"
+msgstr ""
+
+#: ui_main.sort_by
+msgctxt "ui_main.sort_by"
+msgid "Sort By"
 msgstr ""
 
 #: ui_main.source_url
