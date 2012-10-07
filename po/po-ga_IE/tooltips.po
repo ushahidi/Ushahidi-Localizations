@@ -1,10 +1,11 @@
-#. extracted from en_US/tooltips.php, ga_IE/tooltips.php
+#. extracted from en_US/tooltips.php, ga_IE/tooltips.php#
+# Translators: 
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-10-07 20:46+0000\n"
+"PO-Revision-Date: 2012-10-07 20:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -49,6 +50,16 @@ msgstr ""
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
+msgstr ""
+
+#: tooltips.actions.feed_id
+msgctxt "tooltips.actions.feed_id"
+msgid "The feed can be all feeds or a specific feeds. If you would only like specific feeds to activate a trigger, you will want to select them here. Otherwise, you will want to leave this as \"all\""
+msgstr ""
+
+#: tooltips.actions.from
+msgctxt "tooltips.actions.from"
+msgid "Twitter author username (or multiple usernames separated by commas). If you would like to activate triggers only for twitter messages from a particular user, enter their username here (not including @)"
 msgstr ""
 
 #: tooltips.actions.keywords

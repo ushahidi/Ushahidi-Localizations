@@ -1,10 +1,11 @@
-#. extracted from en_US/ui_admin.php, ga_IE/ui_admin.php
+#. extracted from en_US/ui_admin.php, ga_IE/ui_admin.php#
+# Translators: 
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-17 21:18+0000\n"
-"PO-Revision-Date: 2012-08-17 21:18+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-10-07 20:46+0000\n"
+"PO-Revision-Date: 2012-10-07 20:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,6 +65,11 @@ msgstr ""
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
+msgstr ""
+
+#: ui_admin.all
+msgctxt "ui_admin.all"
+msgid "All"
 msgstr ""
 
 #: ui_admin.am
@@ -339,6 +345,16 @@ msgstr ""
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
+msgstr ""
+
+#: ui_admin.date_added
+msgctxt "ui_admin.date_added"
+msgid "Date Added"
+msgstr ""
+
+#: ui_admin.date_modified
+msgctxt "ui_admin.date_modified"
+msgid "Date Modified"
 msgstr ""
 
 #: ui_admin.days_of_the_week
@@ -1036,9 +1052,14 @@ msgctxt "ui_admin.page_not_found"
 msgid "Page Not Found"
 msgstr ""
 
+#: ui_admin.page_not_found_message_with_contact
+msgctxt "ui_admin.page_not_found_message_with_contact"
+msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"%s\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"%s\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
+msgstr ""
+
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here."
 msgstr ""
 
 #: ui_admin.parameters_used
@@ -1054,11 +1075,6 @@ msgstr ""
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
-
-#: ui_admin.password_reset_from
-msgctxt "ui_admin.password_reset_from"
-msgid "no-reply@ushahidi.com"
 msgstr ""
 
 #: ui_admin.password_reset_message_line_1
@@ -1159,6 +1175,11 @@ msgstr ""
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
+msgstr ""
+
+#: ui_admin.report_date
+msgctxt "ui_admin.report_date"
+msgid "Report Date"
 msgstr ""
 
 #: ui_admin.reporters
