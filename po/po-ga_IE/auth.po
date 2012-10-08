@@ -1,50 +1,53 @@
-#. extracted from en_US/auth.php, ga_IE/auth.php
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-10-07 12:05+0000\n"
+"PO-Revision-Date: 2012-10-07 20:47+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ga_IE\n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "Tá an chosúlacht nach seoladh ríomhphoist bailí atá sa réimse ríomhphoist?"
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr ""
+msgstr "Ár leithscéal, tá Cuntas Úsáideora ann cheana féin don seoladh ríomhphoist seo."
 
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Ní mór don réimse ríomhphoist a bheith 4 charachtar ar fhad ar a laghad agus gan a bheith níos mó ná 64 carachtar."
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "Tá an réimse ríomhphoist ag teastáil."
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Ní mór don réimse ainm a bheith 3 charachtar ar fhad ar a laghad agus gan a bheith níos mó ná 100 carachtar."
 
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "Tá an réimse ainm ag teastáil."
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr ""
+msgstr "Tá carachtar san ainm úsáideora nach bhfuil ceadaithe."
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
@@ -68,12 +71,16 @@ msgstr ""
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
-msgid "The current password you entered for your account is incorrect. Please try again."
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
 msgstr ""
 
 #: auth.new_password.length
@@ -98,7 +105,9 @@ msgstr ""
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password.default
@@ -133,28 +142,30 @@ msgstr ""
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr ""
+msgstr "Caithfidh an réimse deimhnithe phasfhocail meaitseáil leis an réimse pasfhocail."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "Tá an chosúlacht nach seoladh ríomhphoist bailí atá sa réimse ríomhphoist?"
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr ""
+msgstr "Ár leithscéal, níl do sheoladh ríomhphoist againn"
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "Tá an réimse ríomhphoist ag teastáil."
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
@@ -164,27 +175,27 @@ msgstr ""
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
 msgid "Invalid role format."
-msgstr ""
+msgstr "Tá an Ról Formáide neamhbhailí"
 
 #: auth.roles.length
 msgctxt "auth.roles.length"
 msgid "The role field must be at least 5 and no more than 30 characters long."
-msgstr ""
+msgstr "Ní mór don réimse róil a bheith 5 charachtar ar fhad ar a laghad agus gan a bheith níos mó ná 30 carachtar."
 
 #: auth.roles.required
 msgctxt "auth.roles.required"
 msgid "You must define at least one role."
-msgstr ""
+msgstr "Ní mór duit sainmhiniú a thabhairt ról amháin ar a laghad."
 
 #: auth.roles.values
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
-msgstr ""
+msgstr "Roghnaigh ról úsáideora nó riarthóra."
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
-msgstr ""
+msgstr "Ní féidir ról an riarthóra a mhodhnú."
 
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
@@ -194,30 +205,31 @@ msgstr ""
 #: auth.username.exists
 msgctxt "auth.username.exists"
 msgid "Sorry, this public profile URL is already in use."
-msgstr ""
+msgstr "Ár leithscéal, tá an t-ainm úsáideora sin in úsáid cheana féin."
 
 #: auth.username.length
 msgctxt "auth.username.length"
-msgid "The public profile URL field must be at least 2 and no more 100 characters long."
-msgstr ""
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
+msgstr "Ní mór do réimse an ainm úsáideora a bheith 2 charachtar ar fhad ar a laghad agus gan a bheith níos mó ná 16 charachtar."
 
 #: auth.username.login error
 msgctxt "auth.username.login error"
 msgid "Please check that you entered the correct public profile URL."
-msgstr ""
+msgstr "Deimhnigh go bhfuil an t-ainm úsáideora ceart agat."
 
 #: auth.username.required
 msgctxt "auth.username.required"
 msgid "The public profile URL field is required."
-msgstr ""
+msgstr "Tá réimse an ainm úsáideora ag teastáil."
 
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"
 msgid "The super admin role cannot be modified."
-msgstr ""
+msgstr "Ní féidir ról an príomhriarthóra a mhodnú."
 
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
 msgstr ""
-
