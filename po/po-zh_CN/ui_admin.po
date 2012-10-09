@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-03 00:06+0000\n"
-"PO-Revision-Date: 2012-09-28 12:02+0000\n"
+"POT-Creation-Date: 2012-10-09 00:05+0000\n"
+"PO-Revision-Date: 2012-10-04 00:02+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -354,6 +354,16 @@ msgstr "数据库"
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
 msgstr "日期与时间"
+
+#: ui_admin.date_added
+msgctxt "ui_admin.date_added"
+msgid "Date Added"
+msgstr ""
+
+#: ui_admin.date_modified
+msgctxt "ui_admin.date_modified"
+msgid "Date Modified"
+msgstr ""
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -1193,6 +1203,11 @@ msgstr "相关"
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
 msgstr "报告标题"
+
+#: ui_admin.report_date
+msgctxt "ui_admin.report_date"
+msgid "Report Date"
+msgstr ""
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
