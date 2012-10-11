@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-10 00:07+0000\n"
-"PO-Revision-Date: 2012-10-02 10:06+0000\n"
+"POT-Creation-Date: 2012-10-11 00:05+0000\n"
+"PO-Revision-Date: 2012-10-11 09:20+0000\n"
 "Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +25,7 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr "Ta mapa jest ograniczona do obszaru jednego kraju. Proszę się upewnić, że raport znajduje się na terytorium kraju: %s."
+msgstr "Ta mapa jest ograniczona do obszaru jednego kraju. Proszę się upewnić, że raport znajduje się na terytorium kraju %s."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -106,12 +106,12 @@ msgstr "Pole DATA OD zawiera nieprawidłowe dane (nie może być większe od dzi
 #: report.incident_active.between
 msgctxt "report.incident_active.between"
 msgid "Please enter a valid value for Approve This Report"
-msgstr "Proszę podaj właście dane przy akceptacji alertu."
+msgstr "Proszę podaj właściwe dane przy akceptacji alertu."
 
 #: report.incident_active.required
 msgctxt "report.incident_active.required"
 msgid "Please enter a valid value for Approve This Report"
-msgstr "Proszę podaj właście dane przy akceptacji alertu."
+msgstr "Proszę podaj właściwe dane przy akceptacji alertu."
 
 #: report.incident_ampm.validvalues
 msgctxt "report.incident_ampm.validvalues"
@@ -131,22 +131,22 @@ msgstr "Kategoria jest wymagana."
 #: report.incident_date.date_ddmmyyyy
 msgctxt "report.incident_date.date_ddmmyyyy"
 msgid "The date field does not appear to contain a valid date."
-msgstr "Format daty alertu jest nieprawidłowy."
+msgstr "Format daty jest nieprawidłowy."
 
 #: report.incident_date.date_mmddyyyy
 msgctxt "report.incident_date.date_mmddyyyy"
 msgid "The date field does not appear to contain a valid date."
-msgstr "Format daty alertu jest nieprawidłowy."
+msgstr "Format daty jest nieprawidłowy."
 
 #: report.incident_date.required
 msgctxt "report.incident_date.required"
 msgid "The date field is required."
-msgstr "Data alertu jest wymagana."
+msgstr "Data jest wymagana."
 
 #: report.incident_description.required
 msgctxt "report.incident_description.required"
 msgid "The \"Description\" field is required."
-msgstr "Opis alertu jest wymagany."
+msgstr "Opis jest wymagany."
 
 #: report.incident_hour.between
 msgctxt "report.incident_hour.between"
@@ -161,7 +161,7 @@ msgstr "Podaj godzinę!"
 #: report.incident_information.alpha
 msgctxt "report.incident_information.alpha"
 msgid "Please enter a valid value for Information Probability."
-msgstr "Proszę podaj właście dane przy prawdopodobieństwu alertu."
+msgstr "Określ stopień Prawdopodobieństwa Informacji"
 
 #: report.incident_information.length
 msgctxt "report.incident_information.length"
@@ -215,12 +215,12 @@ msgctxt "report.incident_title.length"
 msgid ""
 "The \"Report Title\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr "Tutuł alertu musi mieć min. 3 znaki (max. 200)."
+msgstr "Tutuł raportu musi mieć min. 3 znaki (max. 200)."
 
 #: report.incident_title.required
 msgctxt "report.incident_title.required"
 msgid "The \"Report Title\" field is required."
-msgstr "Tutuł alertu jest wymagany."
+msgstr "Tutuł raportu jest wymagany."
 
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
@@ -230,17 +230,17 @@ msgstr "Podejrzenie ataku CSRF! Czy rzeczywiście chcesz utworzyć/edytować rap
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"
 msgid "Please enter a valid value for Verify This Report."
-msgstr "Proszę podaj właście dane przy weryfikacji alertu"
+msgstr "Proszę podaj właście dane przy weryfikacji raportu"
 
 #: report.incident_verified.required
 msgctxt "report.incident_verified.required"
 msgid "Please enter a valid value for Verify This Report."
-msgstr "Proszę podaj właście dane przy weryfikacji alertu."
+msgstr "Proszę podaj właście dane przy weryfikacji raportu."
 
 #: report.incident_video.url
 msgctxt "report.incident_video.url"
 msgid "The video links field does not appear to contain a valid URL."
-msgstr "Video alertu zwiera nieprawidłowy adres URL."
+msgstr "Video zwiera nieprawidłowy adres URL."
 
 #: report.latitude.between
 msgctxt "report.latitude.between"
@@ -273,7 +273,7 @@ msgstr "Pole locale posiada nieprawidłową długość. "
 msgctxt "report.locale.locale"
 msgid ""
 "The Original Report and the Translation have the same locale (language)."
-msgstr "Orginaly alert oraz tłumaczenie zawierają tą samą wartość locale."
+msgstr "Orginaly raport oraz tłumaczenie zawierają tą samą wartość locale."
 
 #: report.locale.required
 msgctxt "report.locale.required"

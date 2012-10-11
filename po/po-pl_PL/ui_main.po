@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-10 00:07+0000\n"
-"PO-Revision-Date: 2012-10-04 00:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-11 00:05+0000\n"
+"PO-Revision-Date: 2012-10-11 09:12+0000\n"
+"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -48,7 +48,7 @@ msgstr "Czy potwierdzasz akcję (nie będzie później odwrotu)?"
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr "Aktuwyj"
+msgstr "Aktywuj"
 
 #: ui_main.active
 msgctxt "ui_main.active"
@@ -118,7 +118,7 @@ msgstr "Zamów alerty"
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "Powiadom mnie, jeśli zostanie wysłany alert z obszaru:"
+msgstr "Powiadom mnie, jeśli zostanie wysłany raport z obszaru:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
@@ -160,7 +160,7 @@ msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr "Albo umieść maker na mapie, a my powiadomimy Cię, jeżeli zostanie zgłoszony alert w obrębie wybranego przez Ciebie promienia."
+msgstr "Albo umieść maker na mapie, a my powiadomimy Cię, jeżeli zostanie zgłoszony raport w obrębie wybranego przez Ciebie promienia."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
@@ -192,7 +192,7 @@ msgstr "<strong>Krok 2:</strong> Alerty mają być wysłane na adres:"
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr "<strong>Krok 3 (Optional):</strong> Wybierz kategorię"
+msgstr "<strong>Krok 3 (Optional):</strong> Wybierz kategorie"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
@@ -272,7 +272,7 @@ msgstr "Zarchiwizowane"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Rosnąco"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -287,7 +287,7 @@ msgstr "Autor"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr "Automatyczny"
+msgstr "Automatyczny check-in"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -549,7 +549,7 @@ msgstr "Utwórz nowe hasło"
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
 msgid "Create Report"
-msgstr "Dodaj alert"
+msgstr "Dodaj raport"
 
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
@@ -654,7 +654,7 @@ msgstr "Opis"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "Malejąco"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -761,7 +761,7 @@ msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr "W celu uzyskiwania alertów przez email, proszę wprowadź dane swojego konta email. Alerty będą otrzymywane na adres "
+msgstr "W celu uzyskiwania raport przez email, proszę wprowadź dane swojego konta email. "
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
@@ -1073,7 +1073,7 @@ msgstr "Obraz/Ikona"
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr "NIeaktywen"
+msgstr "NIeaktywne"
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
@@ -2515,12 +2515,12 @@ msgstr "Nazwa źródła"
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Sortuj"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Sortuj według"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2775,7 +2775,7 @@ msgstr "Wgraj alerty"
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
 msgid "During custom form field import, ensure that"
-msgstr ""
+msgstr "Podczas importu pól użytkownika, upewnij się że"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2786,7 +2786,7 @@ msgstr "Za pomocą poniższego formualrza możesz importować zdarzenia do silni
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in CSV format."
-msgstr ""
+msgstr "Raporty muszą być wysłane w formacie CSV."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
@@ -2812,21 +2812,21 @@ msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Jeżeli importujesz dodatkowe informacje, takie jak dane personalne lub pola użytkownika"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Co najmniej jedno z pól danych personalnych (imię, nazwisko, email) MUSI być wypełnione. Puste rekordy zostaną pominięte"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Twoje wpisy dla pól formularza zgadzają się z konfiguracją formularza w Twojej instalacji."
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2834,14 +2834,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Opcje do zaznaczenia powinny być rozdzielone przecinkami."
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Wartości pól daty powinny być w formacie: mm/dd/rrrr"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2909,7 +2909,7 @@ msgstr "Zweryfikowane"
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr "Zweryfikowane alerty"
+msgstr "Zweryfikowane raporty"
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
@@ -2919,12 +2919,12 @@ msgstr "Zweryfikuj"
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr "Weryfikuj ten alert"
+msgstr "Weryfikuj ten raport"
 
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr "Wersia"
+msgstr "Wersja"
 
 #: ui_main.via
 msgctxt "ui_main.via"
@@ -2979,12 +2979,12 @@ msgstr "Obejrzyj profil publiczny"
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
 msgid "View Report"
-msgstr "Pokaż alert"
+msgstr "Pokaż raport"
 
 #: ui_main.view_reports
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
-msgstr "Pokaż alerty"
+msgstr "Pokaż raporty"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3014,7 +3014,7 @@ msgstr "Formularz"
 #: ui_main.weight
 msgctxt "ui_main.weight"
 msgid "Weight"
-msgstr "Cieżar"
+msgstr "Ciężar"
 
 #: ui_main.yes
 msgctxt "ui_main.yes"

@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Jai Luthra <jailuthra6sep@gmail.com>, 2012.
+#   <nikhil.js@gmail.com>, 2012.
 # Rishab Arora <ra.rishab@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-10 00:07+0000\n"
-"PO-Revision-Date: 2012-10-04 00:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-11 00:05+0000\n"
+"PO-Revision-Date: 2012-10-11 08:45+0000\n"
+"Last-Translator: nikhilsheth <nikhil.js@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -368,7 +369,7 @@ msgstr "श्रेणी छन्ना"
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr ""
+msgstr "यह वर्ग हो गया है "
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
@@ -535,12 +536,12 @@ msgstr "बनाएँ"
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
-msgstr ""
+msgstr "नया बनाए / बदले "
 
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr ""
+msgstr "नया बनाए "
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
@@ -550,12 +551,12 @@ msgstr "नया पासवर्ड बनाएँ"
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
 msgid "Create Report"
-msgstr ""
+msgstr "रिपोर्ट बनाए "
 
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
 msgid "Credibility"
-msgstr ""
+msgstr "विश्वसनीयता"
 
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
@@ -565,22 +566,22 @@ msgstr "वर्तमान पासवर्ड"
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "अनुकूलित क्षेत्र"
 
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr ""
+msgstr "जानकारी"
 
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr ""
+msgstr "तारीख"
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(माह / तिथि / वर्ष)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -590,7 +591,7 @@ msgstr "दिनांक और समय"
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr ""
+msgstr "दिन"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
@@ -600,7 +601,7 @@ msgstr "निष्क्रिय करें"
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "नैरोबी, केन्या"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -615,27 +616,27 @@ msgstr "हटाए गए"
 #: ui_main.deletes
 msgctxt "ui_main.deletes"
 msgid "Deletes"
-msgstr ""
+msgstr "हटाए गए"
 
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "हटाना निषेध"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "पिछला हटाए"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr ""
+msgstr "यह रिपोर्ट हटाए"
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "चुने हुए हटाए"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -645,12 +646,12 @@ msgstr "स्पैम हटाएँ"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "प्रदर्शन"
 
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr ""
+msgstr "वर्णन"
 
 #: ui_main.descending
 msgctxt "ui_main.descending"
@@ -660,32 +661,32 @@ msgstr ""
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr ""
+msgstr "उदहारण : ३४, माहि बिल्डिंग, मेघ नगर गली क्र. ३, दिल्ली "
 
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr ""
+msgstr "विस्तार"
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr ""
+msgstr "सीधा रिपोर्ट"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "बंद किया हुआ "
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr ""
+msgstr "अनुमोदन वापिस लो"
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "रिपोर्ट करो डाउनलोड"
 
 #: ui_main.download
 msgctxt "ui_main.download"
@@ -695,89 +696,89 @@ msgstr ""
 #: ui_main.edit
 msgctxt "ui_main.edit"
 msgid "Edit"
-msgstr ""
+msgstr "बदले "
 
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr ""
+msgstr "प्रपत्र में क्षेत्र बदले"
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
 msgid "Edit Report"
-msgstr ""
+msgstr "रिपोर्ट बदले"
 
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "ईमेल"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr ""
+msgstr "ईमेल पता"
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr ""
+msgstr "मेल सर्वर की स्थिति"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "मेल सर्वर मेजबान"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "मेल सर्वर पासवर्ड"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "मेल सर्वर द्वार"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "मेल सर्वर एस.एस.एल. के लिए समर्थन"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "मेल सर्वर का प्ररूप"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "मेल सर्वर प्रयोक्ता नाम"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "इस लिए आपके विकल्प इस ईमेल के साथ जुड़े होने चाहिए"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "ईमेल द्वारा रिपोर्ट मिलने के लिए कृपया आपके ईमेल अकाउंट के सेट्टिंग नीचे दीजिए. कृपया ध्यान दें की ईमेल इधर आएँगे :"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "कुछ सर्वर के लिए पूरा ईमेल एड्रेस चाहिए"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "ईमेल अकाउंट का गुप्त शब्द"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "सामान्य द्वार :  25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
