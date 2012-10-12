@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-11 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:28+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-11 12:05+0000\n"
+"PO-Revision-Date: 2012-10-11 15:40+0000\n"
+"Last-Translator: Tony Goodyear <fswitch20@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,7 +23,7 @@ msgstr "Inserisci un codice di sicurezza valido"
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "Inserire un codice di sicurezza valido"
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -72,4 +73,4 @@ msgstr "Il campo Oggetto "
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "Si è verificato un errore durante l'invio del messaggio."
