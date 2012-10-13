@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-12 00:05+0000\n"
-"PO-Revision-Date: 2012-10-11 09:12+0000\n"
+"POT-Creation-Date: 2012-10-12 12:05+0000\n"
+"PO-Revision-Date: 2012-10-12 18:08+0000\n"
 "Last-Translator: michalmacki <michalmacki@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -148,7 +148,7 @@ msgstr "Zamów alerty"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr "Alert został"
+msgstr "Alert raporty"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -629,7 +629,7 @@ msgstr "Skasuj ostatni"
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr "Skasuj ten alert"
+msgstr "Skasuj ten raport"
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
@@ -684,7 +684,7 @@ msgstr "Usuń akceptację"
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr "Pobierz alerty"
+msgstr "Pobierz raporty"
 
 #: ui_main.download
 msgctxt "ui_main.download"
@@ -704,7 +704,7 @@ msgstr "Edytuj pola formularza"
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
 msgid "Edit Report"
-msgstr "Edytuj alert"
+msgstr "Edytuj raport"
 
 #: ui_main.email
 msgctxt "ui_main.email"
@@ -1038,7 +1038,7 @@ msgstr "Strona główna"
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr "Jak zgłaszać alerty"
+msgstr "Jak zgłaszać raporty"
 
 #: ui_main.https
 msgctxt "ui_main.https"
@@ -2123,7 +2123,7 @@ msgstr "Dodaj zdjęcia"
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr "Powróć do strony z alertami"
+msgstr "Powróć do strony z raportami"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
@@ -2140,7 +2140,7 @@ msgstr "Twoje zgłoszeni zostało dodane i oczekuje akceptacji. Nasz zespół sk
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
-msgstr "Wyślij nowy alert"
+msgstr "Wyślij nowy raport"
 
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
@@ -2155,7 +2155,7 @@ msgstr "linia czasu"
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
 msgid "Report Title"
-msgstr "Tytuł alertu"
+msgstr "Tytuł raportu"
 
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
@@ -2165,12 +2165,12 @@ msgstr "Link do video"
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr "Dodaj alert"
+msgstr "Dodaj raport"
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr "Szczegóły alertu"
+msgstr "Szczegóły raportu"
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
@@ -2290,7 +2290,7 @@ msgstr "Zapisz i zamknij"
 #: ui_main.save_report
 msgctxt "ui_main.save_report"
 msgid "Save Report"
-msgstr "Zapisz alert"
+msgstr "Zapisz raport"
 
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
@@ -2550,7 +2550,7 @@ msgstr "Krok"
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr "Dodaj alert"
+msgstr "Dodaj raport"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
@@ -2770,7 +2770,7 @@ msgstr "Plik do wgrania"
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr "Wgraj alerty"
+msgstr "Wgraj raporty"
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
@@ -2959,7 +2959,7 @@ msgstr "Pokaż wszystkie feedy"
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
-msgstr "Pokaż wszystkie alerty"
+msgstr "Pokaż wszystkie raporty"
 
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
