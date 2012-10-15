@@ -243,6 +243,7 @@ $lang = array(
 	'response' => 'Response',
 	'results' => 'Results',
 	'revoke' => 'Revoke',
+	'riverid_exists_admin' => 'This email already has an account managed by CrowdmapID. The user will need to use their existing Crowdmap password to login.',
 	'save_settings' => 'Save Settings',
 	'search' => 'Search',
 	'search_reports' => 'Search Reports',

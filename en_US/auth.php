@@ -33,6 +33,7 @@ $lang = array(
 		'matches' => 'Please enter the same password in the two password fields.',
 		'required' => 'The password field is required.',
 		'riverid server down' => 'The authentication server is down. Please try again later.',
+		'riverid' => '%s',
 		'alpha_dash' => 'The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only',
 	) ,
 	'password_confirm' => array(

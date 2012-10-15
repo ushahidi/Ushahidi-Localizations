@@ -444,6 +444,7 @@ $lang = array(
 	'reset_password' => 'Reset Password',
 	'retrieve_city_names' => 'Retrieve city names for the selected country',
 	'riverid_information' => 'Accounts managed by the %s service.',
+	'riverid_exists_login' => 'You already have an account managed by CrowdmapID! Try using your CrowdmapID email and password to login.',
 	'role' => 'Role',
 	'rss' => 'RSS',
 	'save' => 'Save',
