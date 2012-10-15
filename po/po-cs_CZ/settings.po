@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-09 00:05+0000\n"
-"PO-Revision-Date: 2012-09-05 11:02+0000\n"
+"POT-Creation-Date: 2012-10-14 12:05+0000\n"
+"PO-Revision-Date: 2012-10-12 08:55+0000\n"
 "Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -183,12 +183,12 @@ msgstr ""
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "Konfigurace Mapy"
 
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "Výchozí místo"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
@@ -198,27 +198,27 @@ msgstr "The color feed field does not appear to contain a valid value?"
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "Pole Barva nesmí mít víc než 6 znaků."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "Pole barva je vyžadováno."
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "Výchozí zobrazení mapy"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "Výchozí úroveň přiblížení"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "Načíst města z Geonames"
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
@@ -228,7 +228,7 @@ msgstr "The Mail server port field is too long"
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Pole portu Mail serveru by mělo obsahovat pouze čísla."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
@@ -240,7 +240,7 @@ msgstr ""
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "Pole Heslo pro Mail server je vyžadováno."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
@@ -275,7 +275,7 @@ msgstr ""
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Nastavení možností - Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
@@ -287,7 +287,7 @@ msgstr "To get the information below you will need to create a new facebook appl
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
@@ -304,7 +304,7 @@ msgstr ""
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Povolit HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -358,22 +358,22 @@ msgstr "Setting up your map provider is a straight- forward process. Select a pr
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "Úroveň přiblížení"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
-msgstr ""
+msgstr "Vbrat poskytovatele map"
 
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
-msgstr ""
+msgstr "Zadat nový API klíč"
 
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr ""
+msgstr "Získat API klíč"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
@@ -395,7 +395,7 @@ msgstr ""
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Nastavení map"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"

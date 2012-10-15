@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-09 00:05+0000\n"
-"PO-Revision-Date: 2012-08-19 22:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-14 12:05+0000\n"
+"PO-Revision-Date: 2012-10-11 15:37+0000\n"
+"Last-Translator: Tony Goodyear <fswitch20@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,12 +23,12 @@ msgstr ""
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr ""
+msgstr "Database"
 
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr ""
+msgstr "Indirizzo Database"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
@@ -40,7 +41,7 @@ msgstr "Se stai usando Ushahidi sul tuo computer, questo sarà considerato \"loc
 #: installer.database_name
 msgctxt "installer.database_name"
 msgid "Database Name"
-msgstr ""
+msgstr "Nome Database"
 
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
@@ -107,7 +108,7 @@ msgstr "Generale"
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API Key"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
@@ -167,12 +168,12 @@ msgstr "Installatione avvenuta con successo"
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr ""
+msgstr "Server di Posta"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Indirizzo del Server di Posta"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
@@ -182,7 +183,7 @@ msgstr "Esempio: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Password del Server di Posta"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
@@ -192,17 +193,17 @@ msgstr "la password che usi normalmente per effettuare il login nella tua posta"
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Porta del Server di Posta"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Porte Comuni: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Tipo Server di Posta"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -215,7 +216,7 @@ msgstr "Internet Message Access Protocol (IMAP) o Post Office Protocol (POP). <a
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Nome Utente Server di Posta"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
@@ -227,12 +228,12 @@ msgstr "Se utilizzi Gmail, Hotmail, o Yahoo Mail, inserisci come username l'indi
 #: installer.map
 msgctxt "installer.map"
 msgid "Map"
-msgstr ""
+msgstr "Mappa"
 
 #: installer.map_provider
 msgctxt "installer.map_provider"
 msgid "Map Provider"
-msgstr ""
+msgstr "Fornitore Mappa"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
@@ -250,7 +251,7 @@ msgstr "Ulteriori step..."
 #: installer.password
 msgctxt "installer.password"
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: installer.password_description
 msgctxt "installer.password_description"
@@ -288,12 +289,12 @@ msgstr "Setup il tuo SMS server"
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Indirizzo Email del Sito"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "Indirizzo Email del Sito per gli Avvisi"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -311,7 +312,7 @@ msgstr "Tutta la comunicazione via email del sito verrà effettuata attraverso q
 #: installer.site_name
 msgctxt "installer.site_name"
 msgid "Site Name"
-msgstr ""
+msgstr "Nome Sito"
 
 #: installer.site_name_description
 msgctxt "installer.site_name_description"
@@ -390,7 +391,7 @@ msgstr ""
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "Nome Utente"
 
 #: installer.username_description
 msgctxt "installer.username_description"

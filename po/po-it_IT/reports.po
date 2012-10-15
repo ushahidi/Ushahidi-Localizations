@@ -1,33 +1,36 @@
-#. extracted from en_US/reports.php, it_IT/reports.php
+# 
+# Translators:
+# Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-10-14 12:05+0000\n"
+"PO-Revision-Date: 2012-10-11 15:34+0000\n"
+"Last-Translator: Tony Goodyear <fswitch20@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: it_IT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: reports.incident_id.required
 msgctxt "reports.incident_id.required"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Verifica di aver selezionato un elemento"
 
 #: reports.incident_id.numeric
 msgctxt "reports.incident_id.numeric"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Verifica di aver selezionato un elemento"
 
 #: reports.incident_id.categories_required
 msgctxt "reports.incident_id.categories_required"
 msgid "Reports must be categorized before they can be approved"
-msgstr ""
+msgstr "I report devono appartenere ad una categoria prima di essere approvati"
 
 #: reports.action.permission
 msgctxt "reports.action.permission"
 msgid "You don't have permission to perform this action"
-msgstr ""
-
+msgstr "Non hai i permessi per eseguire questa operazione"

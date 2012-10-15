@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <appukonrad@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-09 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-14 12:05+0000\n"
+"PO-Revision-Date: 2012-10-12 08:59+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -27,7 +28,7 @@ msgstr "Kategorie"
 #: stats.category_impact
 msgctxt "stats.category_impact"
 msgid "Category Impact"
-msgstr "Vliv kategorie"
+msgstr "Kategorie dopadů"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
@@ -40,7 +41,7 @@ msgstr "Tento graf podává přehled o zprávách v čase podle jejich zařazen�
 #: stats.choose_date_range
 msgctxt "stats.choose_date_range"
 msgid "Choose a date range."
-msgstr "Zvolte období"
+msgstr "Vyberte časové období."
 
 #: stats.countries
 msgctxt "stats.countries"
@@ -87,12 +88,12 @@ msgstr "Legenda"
 #: stats.pageviews
 msgctxt "stats.pageviews"
 msgid "Pageviews"
-msgstr "Počet shlédnutých stránek"
+msgstr "Zobrazení stránky"
 
 #: stats.pageviews_description
 msgctxt "stats.pageviews_description"
 msgid "The total number of pages that visitors have viewed on your site"
-msgstr "Celkový počet shlédnutých stránek"
+msgstr "Celkový počet stran, které si návštěvníci prohlédli na vašem webu"
 
 #: stats.reports
 msgctxt "stats.reports"

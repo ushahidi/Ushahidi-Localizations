@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-09 00:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:26+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-14 12:05+0000\n"
+"PO-Revision-Date: 2012-10-11 15:42+0000\n"
+"Last-Translator: Tony Goodyear <fswitch20@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,7 +60,7 @@ msgstr "Il campo titolo "
 #: category.parent_id.already_parent
 msgctxt "category.parent_id.already_parent"
 msgid "You cannot subcategorize a category with subcategories."
-msgstr ""
+msgstr "Non puoi far diventare una sottocategoria una categoria che già contiene delle sottocategorie"
 
 #: category.parent_id.exists
 msgctxt "category.parent_id.exists"
@@ -74,7 +75,7 @@ msgstr "Il campo categoria madre deve essere numerico."
 #: category.parent_id.parent_trusted
 msgctxt "category.parent_id.parent_trusted"
 msgid "The parent category cannot be a special category"
-msgstr ""
+msgstr "La categoria padre non può essere una categoria speciale"
 
 #: category.parent_id.required
 msgctxt "category.parent_id.required"
@@ -89,4 +90,4 @@ msgstr "La categoria e la categoria madre non possono essere uguali."
 #: category.parent_id.special
 msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
-msgstr ""
+msgstr "Le categorie speciali non posso diventare sottocategorie"

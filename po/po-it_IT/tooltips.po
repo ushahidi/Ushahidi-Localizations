@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-09 00:05+0000\n"
-"PO-Revision-Date: 2012-09-20 12:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-14 12:05+0000\n"
+"PO-Revision-Date: 2012-10-11 16:21+0000\n"
+"Last-Translator: Tony Goodyear <fswitch20@hotmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,7 +26,7 @@ msgstr ""
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Approva un reporto o no. Se approvato, sarà visibile pubblicamente."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
@@ -66,12 +67,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Corpo del messaggio che sarà inviata."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Oggetto della mail che sarà inviata."
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -121,7 +122,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Titolo predefinito da aggiungere al report."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -169,7 +170,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Contrassegna come report verificato o no."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -181,7 +182,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Separare ogni calore con una virgola, e.g. valore1,valore2"
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -204,12 +205,12 @@ msgstr ""
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Oggetto messaggio privato."
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Messaggio Privato"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -271,7 +272,7 @@ msgstr ""
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Questo è l'indirizzo dove trovare il tuo profilo pubblico."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -296,7 +297,7 @@ msgstr "Questo è l'indirizzo email che verrà utilizzato per inviare gli alert.
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Permette agli utenti di iscriversi per gli avvisi via web."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -345,7 +346,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Numero di Blocchi visualizzati per ogni riga."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
