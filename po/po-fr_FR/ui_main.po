@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-15 00:05+0000\n"
-"PO-Revision-Date: 2012-10-04 00:02+0000\n"
+"POT-Creation-Date: 2012-10-15 12:05+0000\n"
+"PO-Revision-Date: 2012-10-15 12:01+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -2258,6 +2258,13 @@ msgstr ""
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
+msgstr ""
+
+#: ui_main.riverid_exists_login
+msgctxt "ui_main.riverid_exists_login"
+msgid ""
+"You already have an account managed by CrowdmapID! Try using your CrowdmapID"
+" email and password to login."
 msgstr ""
 
 #: ui_main.role
