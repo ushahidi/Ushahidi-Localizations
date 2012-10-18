@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-17 12:05+0000\n"
-"PO-Revision-Date: 2012-07-12 21:23+0000\n"
+"POT-Creation-Date: 2012-10-18 00:05+0000\n"
+"PO-Revision-Date: 2012-10-18 01:58+0000\n"
 "Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -30,7 +30,7 @@ msgstr "Cette adress email a déjà été enregistrée pour les alertes sur ce l
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Le champ e-mail doit être d'au moins 4 caractères et pas plus de 64 longues."
 
 #: alerts.alert_email.required
 msgctxt "alerts.alert_email.required"
@@ -42,7 +42,7 @@ msgctxt "alerts.alert_country.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the alert "
 "location is within the country %s."
-msgstr ""
+msgstr "Ce déploiement s'étend à l'intérieur d'un seul pays. S'il vous plaît assurez-vous que l'emplacement d'alerte est dans le pays%s."
 
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
@@ -97,134 +97,134 @@ msgstr "Un numéro de téléphone est requis si la case est cochée."
 #: alerts.alert_radius.in_array
 msgctxt "alerts.alert_radius.in_array"
 msgid "You have not set a valid radius on the map."
-msgstr ""
+msgstr "Vous n'avez pas réglé un rayon de validité de la carte."
 
 #: alerts.alert_radius.required
 msgctxt "alerts.alert_radius.required"
 msgid "You have not set your radius on the map."
-msgstr ""
+msgstr "Vous n'avez pas réglé votre rayon sur la carte."
 
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr ""
+msgstr "Vous n'avez pas défini un destinataire pour les alertes."
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr ""
+msgstr "Vous avez souscrit aux alertes avec les catégories suivantes"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
 msgid "This code has been verified before!"
-msgstr ""
+msgstr "Ce code a été vérifiée avant!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
-msgstr ""
+msgstr "Ce code de vérification n'a pas été trouvé! S'il vous plaît confirmer que vous avez l'URL correcte."
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr ""
+msgstr "Votre code a été vérifié correctement. Vous allez maintenant recevoir des alertes sur les incidents dès qu'ils se produisent."
 
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
 msgid "To confirm your alert request, please go to "
-msgstr ""
+msgstr "Pour confirmer votre demande d'alerte, s'il vous plaît aller à"
 
 #: alerts.create_more_alerts
 msgctxt "alerts.create_more_alerts"
 msgid "Return to the Alerts page to create more alerts"
-msgstr ""
+msgstr "Retour à la page Alertes pour créer plus d'alertes"
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
-msgstr ""
+msgstr "Votre demande de Alerte Email a été créé et le message de vérification a été envoyé à"
 
 #: alerts.email_code
 msgctxt "alerts.email_code"
 msgid "Please enter the Email confirmation code you received below: "
-msgstr ""
+msgstr "S'il vous plaît entrez le code de confirmation que vous avez reçu par Email ci-dessous:"
 
 #: alerts.email_error_head
 msgctxt "alerts.email_error_head"
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "Votre demande d' Alerte e-mail n'a PAS été enregistrée!"
 
 #: alerts.email_ok_head
 msgctxt "alerts.email_ok_head"
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr ""
+msgstr "Votre Demande d' Alerte e-mail a été sauvegardée!"
 
 #: alerts.error
 msgctxt "alerts.error"
 msgid "The system was not able to process your confirmation request!"
-msgstr ""
+msgstr "Le système n'a pas pu traiter votre demande de confirmation!"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr ""
+msgstr "Votre demande d'alerte mobile a été créé et le message de vérification a été envoyé à"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr ""
+msgstr "S'il vous plaît entrez le code de confirmation SMS que vous avez reçu sur votre téléphone mobile ci-dessous:"
 
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "Votre demande d'alerte mobile n'a PAS été enregistrée!"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr ""
+msgstr "Votre demande mobile alerte a été sauvegardée!"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr ""
+msgstr "Ce déploiement n'est pas configuré pour traiter correctement les alertes"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
-msgstr ""
+msgstr "Vous avez reçu ce courriel parce que vous vous êtes inscrit pour recevoir des alertes. Si vous ne souhaitez pas recevoir des alertes futurs aller à"
 
 #: alerts.unsubscribed
 msgctxt "alerts.unsubscribed"
 msgid "You will no longer receive alerts from "
-msgstr ""
+msgstr "Vous ne pourrez plus recevoir des alertes de"
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
 msgid ""
 "We were not able to unsubscribe you. Please confirm that you have the "
 "correct URL."
-msgstr ""
+msgstr "Nous n'étions pas capable de vous désabonner. S'il vous plaît confirmer que vous avez l'URL correcte."
 
 #: alerts.verification_email_subject
 msgctxt "alerts.verification_email_subject"
 msgid "alerts - verification"
-msgstr ""
+msgstr "alertes - vérification"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
-msgstr ""
+msgstr "Vous ne recevrez des alertes à cette localisation jusqu'à ce que vous confirmez votre demande."

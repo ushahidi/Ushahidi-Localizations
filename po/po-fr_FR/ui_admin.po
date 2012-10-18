@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-17 12:05+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-18 00:05+0000\n"
+"PO-Revision-Date: 2012-10-18 01:58+0000\n"
+"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +44,7 @@ msgstr "Actions"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr "Ajouter aux Catégories"
+msgstr "Ajouter à Catégorie"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -149,22 +149,22 @@ msgstr "Archivé"
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr "êtes vous sûr de vouloir"
+msgstr "Etes-vous sûr que vous voulez"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr "êtes vous sûr de vouloir effacer cet élément?"
+msgstr "Êtes-vous sûr de vouloir supprimer cet élément?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr "êtes vous sûr de vouloir effacer cette photo?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette photo?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr "êtes vous sûr de vouloir changer les formulaires?"
+msgstr "Etes-vous sûr que vous voulez changer de formes?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
@@ -324,18 +324,18 @@ msgstr "CSV"
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr "actuellement actif"
+msgstr "Actuellement Actif"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr "actuellement inactif"
+msgstr "Actuellement Inactif"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr "Vous n'avez pas les autorisations suffisantes pour modifier les champs personnalisés suivants"
+msgstr "Vous n'avez pas les autorisations suffisantes pour modifier les champs personnalisés suivants."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
@@ -395,7 +395,7 @@ msgstr "Tout effacer"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr "supprimer Badge"
+msgstr "Supprimer Badge"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
@@ -410,17 +410,17 @@ msgstr "description"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr "désactivé"
+msgstr "Désactivé"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr "Début séparateur"
+msgstr "Démarrer Diviseur"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr "Fin séparateur"
+msgstr "Fin Diviseur"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
@@ -705,7 +705,7 @@ msgstr "Utilisateur"
 #: ui_admin.help
 msgctxt "ui_admin.help"
 msgid "help"
-msgstr "aire"
+msgstr "Aide"
 
 #: ui_admin.hourly
 msgctxt "ui_admin.hourly"
@@ -767,12 +767,12 @@ msgstr "Qui peut soumettre des réponses"
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr "Mot-clé"
+msgstr "mot-clé"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr "Mots-clés"
+msgstr "mot-clé"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
@@ -847,7 +847,7 @@ msgstr "Gérer votre Liste publique"
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr "marquer comme"
+msgstr "Marquer Comme"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
