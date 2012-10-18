@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <skolesnyk@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-17 00:05+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-10-17 12:05+0000\n"
+"PO-Revision-Date: 2012-10-17 13:46+0000\n"
+"Last-Translator: skolesnyk <skolesnyk@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,7 +68,7 @@ msgstr "Додано"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Додаткові дані"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -166,7 +167,7 @@ msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "Якщо ви не можете знайти де ви знаходитесь, клацніть на потрібне місце на карті."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -191,7 +192,7 @@ msgstr "<strong>Step 2:</strong> Відправте сповіщення на:"
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr ""
+msgstr "<strong>Крок 3 (необов’язковий):</strong> Виберіть категорії"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
@@ -221,7 +222,7 @@ msgstr "Всі категорії"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "За весь час"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -271,7 +272,7 @@ msgstr "Архівовано"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "За збільшенням"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -653,7 +654,7 @@ msgstr "Опис"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "За зменшенням"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -688,7 +689,7 @@ msgstr "Стягти повідомлення"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "Завантажити"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -1574,12 +1575,12 @@ msgstr ""
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Немає даних"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Жодне"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1599,7 +1600,7 @@ msgstr "Не підтверджений"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---Не обрано---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1624,7 +1625,7 @@ msgstr "Нема результатів"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Вимк."
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1634,7 +1635,7 @@ msgstr "Офіційні та основні новини"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "Увімк."
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1824,7 +1825,7 @@ msgstr "Телефон"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "Фотографії"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
@@ -1857,12 +1858,12 @@ msgstr "Замітка"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Додатки"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Вебсайт додатку"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
@@ -2037,7 +2038,7 @@ msgstr "Звіти"
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr ""
+msgstr "Переглянути"
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
@@ -2219,7 +2220,7 @@ msgstr "Дізнатися про положення"
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "Обов’язково"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
@@ -2456,7 +2457,7 @@ msgstr "Сумісно"
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Коротша карта"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2496,7 +2497,7 @@ msgstr "URL Сайта"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Менша карта"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
@@ -2521,12 +2522,12 @@ msgstr "Назва джерела"
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Сортувати"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Сортувати за"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2606,7 +2607,7 @@ msgstr "Система"
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Вища карта"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2726,7 +2727,7 @@ msgstr "Переклад було збережено"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Перевірено"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2741,12 +2742,12 @@ msgstr ""
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "Неможливо надіслати пошту."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Звіти без категорій"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2905,7 +2906,7 @@ msgstr ""
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "Підтвердження"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
@@ -3010,7 +3011,7 @@ msgstr "Очікування перевірки"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Ширша карта"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
