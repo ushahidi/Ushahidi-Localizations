@@ -1,11 +1,13 @@
 # 
 # Translators:
+#   <haris.alisic@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-18 12:05+0000\n"
-"PO-Revision-Date: 2012-06-01 05:58+0000\n"
+"POT-Creation-Date: 2012-10-24 00:05+0000\n"
+"PO-Revision-Date: 2012-10-24 07:36+0000\n"
+"Last-Translator: harisalisic <haris.alisic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,19 +18,19 @@ msgstr ""
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr ""
+msgstr "Da li ste upisali ispravan email u polje za unos email adrese?"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
 msgid ""
 "That Email address has already been registered to receive alerts for that "
 "location."
-msgstr ""
+msgstr "Navedena email adresa je vec registrovana da prima obavjestenja o toj lokaciji."
 
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Email polje mora imati najmanje 4 a najviše 64 znaka."
 
 #: alerts.alert_email.required
 msgctxt "alerts.alert_email.required"
@@ -45,22 +47,22 @@ msgstr ""
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "Niste izabrali validnu lokaciju na mapi."
 
 #: alerts.alert_lat.required
 msgctxt "alerts.alert_lat.required"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "Niste izabrali validnu lokaciju na mapi."
 
 #: alerts.alert_lon.between
 msgctxt "alerts.alert_lon.between"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "Niste izabrali validnu lokaciju na mapi."
 
 #: alerts.alert_lon.required
 msgctxt "alerts.alert_lon.required"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "Niste izabrali validnu lokaciju na mapi."
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
@@ -85,7 +87,7 @@ msgstr ""
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
 msgid "You must enter either your Mobile Phone Number or your Email Address."
-msgstr ""
+msgstr "Morate unjeti broj vašeg mobitela ili vašu email adresu."
 
 #: alerts.alert_mobile.required
 msgctxt "alerts.alert_mobile.required"
@@ -105,7 +107,7 @@ msgstr ""
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr ""
+msgstr "Niste naveli primaoca upozorenja."
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
