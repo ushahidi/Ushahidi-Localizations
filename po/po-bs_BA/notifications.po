@@ -1,21 +1,24 @@
-#. extracted from en_US/notifications.php, bs_BA/notifications.php#
-# Translators: 
+# 
+# Translators:
+#   <carica83@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 22:16+0000\n"
-"PO-Revision-Date: 2012-09-20 22:16+0000\n"
+"POT-Creation-Date: 2012-10-24 12:05+0000\n"
+"PO-Revision-Date: 2012-10-24 22:08+0000\n"
+"Last-Translator: CcaricaA <carica83@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: bs_BA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: notifications.admin_footer
 msgctxt "notifications.admin_footer"
 msgid "This message was sent from your website."
-msgstr ""
+msgstr "Ova poruka je poslata sa vaše web stranice."
 
 #: notifications.admin_login_url
 msgctxt "notifications.admin_login_url"
@@ -30,7 +33,7 @@ msgstr ""
 #: notifications.admin_new_comment.subject
 msgctxt "notifications.admin_new_comment.subject"
 msgid "New Comment"
-msgstr ""
+msgstr "Novi komentar"
 
 #: notifications.admin_new_email.message
 msgctxt "notifications.admin_new_email.message"
@@ -40,7 +43,7 @@ msgstr ""
 #: notifications.admin_new_email.subject
 msgctxt "notifications.admin_new_email.subject"
 msgid "New Email Message"
-msgstr ""
+msgstr "Nova e-mail poruka"
 
 #: notifications.admin_new_report.message
 msgctxt "notifications.admin_new_report.message"
@@ -50,7 +53,7 @@ msgstr ""
 #: notifications.admin_new_report.subject
 msgctxt "notifications.admin_new_report.subject"
 msgid "New Report"
-msgstr ""
+msgstr "Novi izvještaj"
 
 #: notifications.admin_new_sms.message
 msgctxt "notifications.admin_new_sms.message"
@@ -75,15 +78,14 @@ msgstr ""
 #: notifications.member_new_message.message
 msgctxt "notifications.member_new_message.message"
 msgid "You Have Received a Private Message"
-msgstr ""
+msgstr "Dobili ste privatnu poruku"
 
 #: notifications.member_new_message.subject
 msgctxt "notifications.member_new_message.subject"
 msgid "New Private Message"
-msgstr ""
+msgstr "Nova privatna poruka"
 
 #: notifications.member_new_message.footer
 msgctxt "notifications.member_new_message.footer"
 msgid "To Reply Please Go To: "
 msgstr ""
-
