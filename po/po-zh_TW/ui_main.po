@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 12:05+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
+"POT-Creation-Date: 2012-10-25 00:05+0000\n"
+"PO-Revision-Date: 2012-10-25 00:01+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -1200,6 +1200,11 @@ msgstr "項目標題"
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
+msgstr ""
+
+#: ui_main.keywords
+msgctxt "ui_main.keywords"
+msgid "Keywords"
 msgstr ""
 
 #: ui_main.kml_kmz_file
@@ -3017,6 +3022,11 @@ msgstr ""
 msgctxt "ui_main.web_form"
 msgid "Web Form"
 msgstr "Web 表格"
+
+#: ui_main.web
+msgctxt "ui_main.web"
+msgid "Web"
+msgstr ""
 
 #: ui_main.weight
 msgctxt "ui_main.weight"

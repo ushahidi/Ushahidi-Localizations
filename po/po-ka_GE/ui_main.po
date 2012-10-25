@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 12:05+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
+"POT-Creation-Date: 2012-10-25 00:05+0000\n"
+"PO-Revision-Date: 2012-10-25 00:01+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1200,6 +1200,11 @@ msgstr "საკითხის სათაური"
 msgctxt "ui_main.key"
 msgid "Key"
 msgstr "გასაგები"
+
+#: ui_main.keywords
+msgctxt "ui_main.keywords"
+msgid "Keywords"
+msgstr ""
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -3015,6 +3020,11 @@ msgstr ""
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
+msgstr ""
+
+#: ui_main.web
+msgctxt "ui_main.web"
+msgid "Web"
 msgstr ""
 
 #: ui_main.weight
