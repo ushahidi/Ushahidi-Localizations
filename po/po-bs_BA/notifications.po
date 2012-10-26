@@ -1,13 +1,14 @@
 # 
 # Translators:
+#   <adi.zeljkovic@outlook.com>, 2012.
 #   <carica83@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-25 00:05+0000\n"
-"PO-Revision-Date: 2012-10-24 22:08+0000\n"
-"Last-Translator: CcaricaA <carica83@gmail.com>\n"
+"POT-Creation-Date: 2012-10-25 12:05+0000\n"
+"PO-Revision-Date: 2012-10-25 16:06+0000\n"
+"Last-Translator: ZeljkovicAdi <adi.zeljkovic@outlook.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,12 +24,12 @@ msgstr "Ova poruka je poslata sa vaše web stranice."
 #: notifications.admin_login_url
 msgctxt "notifications.admin_login_url"
 msgid "Administrator Login"
-msgstr ""
+msgstr "Prijava Administratora"
 
 #: notifications.admin_new_comment.message
 msgctxt "notifications.admin_new_comment.message"
 msgid "A new comment has been submitted to your website in response to:"
-msgstr ""
+msgstr "Novi komentar je postavljen na vašoj web stranici kao odgovor na:"
 
 #: notifications.admin_new_comment.subject
 msgctxt "notifications.admin_new_comment.subject"
@@ -38,7 +39,7 @@ msgstr "Novi komentar"
 #: notifications.admin_new_email.message
 msgctxt "notifications.admin_new_email.message"
 msgid "A new email message has been submitted to your website."
-msgstr ""
+msgstr "Nova e-mail poruka je poslana na vašoj web stranici."
 
 #: notifications.admin_new_email.subject
 msgctxt "notifications.admin_new_email.subject"
@@ -48,7 +49,7 @@ msgstr "Nova e-mail poruka"
 #: notifications.admin_new_report.message
 msgctxt "notifications.admin_new_report.message"
 msgid "A new report has been submitted to your website."
-msgstr ""
+msgstr "Novi izvještaj je podnešen na vašoj web stranici"
 
 #: notifications.admin_new_report.subject
 msgctxt "notifications.admin_new_report.subject"
@@ -58,22 +59,22 @@ msgstr "Novi izvještaj"
 #: notifications.admin_new_sms.message
 msgctxt "notifications.admin_new_sms.message"
 msgid "A new text message has been submitted to your website."
-msgstr ""
+msgstr "Nova tekstualna poruka je podnešena na vašoj web stranici."
 
 #: notifications.admin_new_sms.subject
 msgctxt "notifications.admin_new_sms.subject"
 msgid "New Text Message"
-msgstr ""
+msgstr "Nova tekstualna poruka"
 
 #: notifications.member_new_alert.message
 msgctxt "notifications.member_new_alert.message"
 msgid "You Have Received a New Alert"
-msgstr ""
+msgstr "Primiliste ste novo upozorenje"
 
 #: notifications.member_new_alert.subject
 msgctxt "notifications.member_new_alert.subject"
 msgid "New Alert!"
-msgstr ""
+msgstr "Novo upozorenje"
 
 #: notifications.member_new_message.message
 msgctxt "notifications.member_new_message.message"
@@ -88,4 +89,4 @@ msgstr "Nova privatna poruka"
 #: notifications.member_new_message.footer
 msgctxt "notifications.member_new_message.footer"
 msgid "To Reply Please Go To: "
-msgstr ""
+msgstr "Za odgovor molimo idete na:"

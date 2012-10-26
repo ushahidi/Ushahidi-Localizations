@@ -1,16 +1,17 @@
-#. extracted from en_US/auth.php, bs_BA/auth.php#
-# Translators: 
+# 
+# Translators:
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 22:16+0000\n"
-"PO-Revision-Date: 2012-09-20 22:16+0000\n"
+"POT-Creation-Date: 2012-10-25 12:05+0000\n"
+"PO-Revision-Date: 2012-06-01 06:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: bs_BA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: auth.email.email
 msgctxt "auth.email.email"
@@ -69,12 +70,16 @@ msgstr ""
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
-msgid "The current password you entered for your account is incorrect. Please try again."
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
 msgstr ""
 
 #: auth.new_password.length
@@ -99,7 +104,9 @@ msgstr ""
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password.default
@@ -132,9 +139,16 @@ msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
 msgstr ""
 
+#: auth.password.riverid
+msgctxt "auth.password.riverid"
+msgid "%s"
+msgstr ""
+
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password_confirm.matches
@@ -199,7 +213,9 @@ msgstr ""
 
 #: auth.username.length
 msgctxt "auth.username.length"
-msgid "The public profile URL field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr ""
 
 #: auth.username.login error
@@ -221,4 +237,3 @@ msgstr ""
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
 msgstr ""
-
