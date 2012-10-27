@@ -1,13 +1,14 @@
 # 
 # Translators:
+#   <fikretmuratovic@gmail.com>, 2012.
 #   <haris.alisic@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-25 12:05+0000\n"
-"PO-Revision-Date: 2012-10-22 22:12+0000\n"
-"Last-Translator: harisalisic <haris.alisic@gmail.com>\n"
+"POT-Creation-Date: 2012-10-26 00:05+0000\n"
+"PO-Revision-Date: 2012-10-26 15:44+0000\n"
+"Last-Translator: fikret <fikretmuratovic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,12 +24,12 @@ msgstr ""
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
 msgid "Automatic Upgrade"
-msgstr ""
+msgstr "Automatska nadogradnja"
 
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "Raspoložive nadogradnje"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
@@ -38,22 +39,22 @@ msgstr "Nastavi"
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr ""
+msgstr "Nadogradi"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr ""
+msgstr "Spremam se nadograditi vašu bazu podataka sa verzije"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr ""
+msgstr "na novu verziju baze podataka"
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
 msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
-msgstr ""
+msgstr "Klik na dugme \"Nadogradi\" i opusti te se dok se magija dešava"
 
 #: upgrade.upgrade_db_text_4
 msgctxt "upgrade.upgrade_db_text_4"
@@ -84,17 +85,17 @@ msgstr ""
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "Vaša verzija baze podataka je svježa."
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
 msgid "Upgrade failed at some point"
-msgstr ""
+msgstr "Nadogradnja nije uspjela"
 
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "Ručna nadogradnja"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
@@ -168,7 +169,7 @@ msgstr ""
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "Nadograđujem"
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
@@ -200,7 +201,7 @@ msgstr "Imate najnoviju verziju Ushahidija."
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "Nemate potrebe za nadogradnjom."
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
@@ -220,7 +221,7 @@ msgstr ""
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "Baza podataka"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
@@ -255,27 +256,27 @@ msgstr ""
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "Uspješno raspakivanje. Kopiram datoteke..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "Neuspješno raspakivanje."
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "Uspješno kopirane datoteke. Nadograđujem bazu podataka..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "Neuspješno kopiranje datoteka."
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "Uspješno pohranjivanje i nadogradnja baze podataka"
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
@@ -285,7 +286,7 @@ msgstr ""
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "Uspješna nadogradnja baze podataka."
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"

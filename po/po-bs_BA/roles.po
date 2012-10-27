@@ -1,13 +1,14 @@
 # 
 # Translators:
 #   <jasminaha@gmail.com>, 2012.
+#   <samra989@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-25 12:05+0000\n"
-"PO-Revision-Date: 2012-10-25 18:04+0000\n"
-"Last-Translator: JasminaB <jasminaha@gmail.com>\n"
+"POT-Creation-Date: 2012-10-26 00:05+0000\n"
+"PO-Revision-Date: 2012-10-26 23:11+0000\n"
+"Last-Translator: Samrich_ <samra989@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +20,7 @@ msgstr ""
 msgctxt "roles.description.length"
 msgid ""
 "The Description field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Polje opis mora da sadrži najmanje 3 i ne više od 100 karaktera. "
 
 #: roles.description.required
 msgctxt "roles.description.required"
@@ -34,12 +35,12 @@ msgstr "Polje Ime mora sadržavati slova ili brojeve"
 #: roles.name.length
 msgctxt "roles.name.length"
 msgid "The Name field must be at least 2 and no more than 30 characters long."
-msgstr ""
+msgstr "Polje ime mora da sadrži najmanje 2 i ne više od 30 karaktera."
 
 #: roles.name.nomodify
 msgctxt "roles.name.nomodify"
 msgid "SuperAdmin Role Cannot Be Modified."
-msgstr ""
+msgstr "Super Admin uloga se ne može mijenjati."
 
 #: roles.name.required
 msgctxt "roles.name.required"
@@ -49,14 +50,14 @@ msgstr "Polje Ime je neophodno ispuniti"
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "Polje razina pristupa mora biti broj između 0-100."
 
 #: roles.access_level.required
 msgctxt "roles.access_level.required"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "Polje razina pristupa mora biti broj između 0-100."
 
 #: roles.permissions.numeric
 msgctxt "roles.permissions.numeric"
 msgid "Permissions field must be a number between 0 - 100."
-msgstr ""
+msgstr "Polje dozvole mora biti broj između 0-100."

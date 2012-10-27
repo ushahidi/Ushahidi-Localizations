@@ -1,11 +1,13 @@
 # 
 # Translators:
+#   <fikretmuratovic@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-25 12:05+0000\n"
-"PO-Revision-Date: 2012-06-01 06:00+0000\n"
+"POT-Creation-Date: 2012-10-26 00:05+0000\n"
+"PO-Revision-Date: 2012-10-26 16:16+0000\n"
+"Last-Translator: fikret <fikretmuratovic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +23,7 @@ msgstr ""
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr ""
+msgstr "Žao nam je, za Vaš email je već registrovan korisnički račun."
 
 #: auth.email.length
 msgctxt "auth.email.length"
@@ -31,7 +33,7 @@ msgstr ""
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "Polje email je obavezno."
 
 #: auth.name.length
 msgctxt "auth.name.length"
@@ -41,32 +43,32 @@ msgstr ""
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "Polje ime je obavezno."
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr ""
+msgstr "Polje korisničko ime sadrži nedopuštene znakove."
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Vaša šifra mora sadržati najmanje 8 znakova."
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Provjerite da li ste unijeli tačan email i šifru."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Unesite istu šifru u oba polja pod nazivom šifra."
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Polje šifra je obavezna."
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
@@ -80,27 +82,27 @@ msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "Unijeli ste pogrešnu šifru. Molimo Vas pokušajte ponovo."
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Vaša šifra mora sadržati najmanje 8 znakova."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Provjerite da li ste unijeli tačan email i šifru."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Unesite istu šifru u oba polja pod nazivom šifra."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Polje šifra je obavezna."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
@@ -117,7 +119,7 @@ msgstr ""
 #: auth.password.length
 msgctxt "auth.password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Vaša šifra mora sadržati najmanje 8 znakova."
 
 #: auth.password.login error
 msgctxt "auth.password.login error"
@@ -127,12 +129,12 @@ msgstr ""
 #: auth.password.matches
 msgctxt "auth.password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Unesite istu šifru u oba polja pod nazivom šifra."
 
 #: auth.password.required
 msgctxt "auth.password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Polje šifra je obavezna."
 
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
@@ -142,7 +144,7 @@ msgstr ""
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
@@ -154,22 +156,22 @@ msgstr ""
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr ""
+msgstr "Polje potvrdi šifru mora odgovarati polju šifra."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "Email koji ste unijeli nije ispravna email adresa."
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr ""
+msgstr "Žao nam je, unijeli ste nepostojeću email adresu."
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "Polje email je obavezno."
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"

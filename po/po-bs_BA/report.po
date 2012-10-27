@@ -1,11 +1,14 @@
 # 
 # Translators:
+#   <congra_902@yahoo.com>, 2012.
+#   <drazana.lepir@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-25 12:05+0000\n"
-"PO-Revision-Date: 2012-06-07 02:49+0000\n"
+"POT-Creation-Date: 2012-10-26 00:05+0000\n"
+"PO-Revision-Date: 2012-10-26 19:28+0000\n"
+"Last-Translator: sleperka <congra_902@yahoo.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,7 +19,7 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "graška!\n\n\ndetalji prijedlozi istorija"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
@@ -33,12 +36,12 @@ msgstr ""
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Molimo obilježite važeću stavku da je uključite u preuzimanje."
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Molimo obilježite važeću stavku da je uključite u preuzimanje."
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
@@ -79,17 +82,17 @@ msgstr ""
 #: report.data_point.between
 msgctxt "report.data_point.between"
 msgid "Please select a valid type of report to download."
-msgstr ""
+msgstr "Molimo odaberite važeći tip izvještaja za preuzimanje."
 
 #: report.data_point.numeric
 msgctxt "report.data_point.numeric"
 msgid "Please select a valid type of report to download."
-msgstr ""
+msgstr "Molimo odaberite važeći tip oizvještaja za preuzimanje."
 
 #: report.data_point.required
 msgctxt "report.data_point.required"
 msgid "Please select a valid type of report to download."
-msgstr ""
+msgstr "Molimo odaberite važeći tip izvještaja za preuzimanje."
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"

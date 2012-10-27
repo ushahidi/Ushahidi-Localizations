@@ -1,13 +1,17 @@
 # 
 # Translators:
+#   <congra_902@yahoo.com>, 2012.
+#   <haris.alisic@gmail.com>, 2012.
+#   <harisferizovic@gmail.com>, 2012.
+#   <samra989@gmail.com>, 2012.
 # Sara Calkic <sara.calkic@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-25 12:05+0000\n"
-"PO-Revision-Date: 2012-10-25 21:12+0000\n"
-"Last-Translator: Sara Calkic <sara.calkic@gmail.com>\n"
+"POT-Creation-Date: 2012-10-26 00:05+0000\n"
+"PO-Revision-Date: 2012-10-26 23:04+0000\n"
+"Last-Translator: Samrich_ <samra989@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,24 +24,24 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "Pristup odbijen. Ili vaše službene potvrde nisu važeće ili je vaš zahtjev odbijen."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr ""
+msgstr "Pristup odbijen. Vaš zahtjev je prihvaćen, ali je njegovo odobrenje ograničeno vremenom. Molimo pokušajte kasnije. "
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Nivo pristupa"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
 msgid "Actions"
-msgstr ""
+msgstr "Akcije"
 
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
@@ -47,82 +51,82 @@ msgstr "Dodaj u kategoriju"
 #: ui_admin.added
 msgctxt "ui_admin.added"
 msgid "added"
-msgstr ""
+msgstr "Dodano"
 
 #: ui_admin.added_edited
 msgctxt "ui_admin.added_edited"
 msgid "added/edited"
-msgstr ""
+msgstr "Dodano/Ažurirano"
 
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Dodaci"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Upozorenja"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Primljena upozorenja"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "Sve"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
-msgstr ""
+msgstr "Anoniman"
 
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Bilo ko"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Bilo gdje"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "API blokiran"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "API logovi"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "API postavke"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "Dozvoli pristup"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "Dozvoli pristup svima"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
@@ -132,7 +136,7 @@ msgstr "odobreno"
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
-msgstr ""
+msgstr "Odobri automatski"
 
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
@@ -142,12 +146,12 @@ msgstr "Odobri manuelnim putem"
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Arkivirano"
 
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr ""
+msgstr "Da li ste sigurni da želite da"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
@@ -162,42 +166,42 @@ msgstr "Da li ste sigurni da zelite da obrisete ovu fotografiju?"
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Da li ste sigurni da želite zamjeniti formulare?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Dodijeli"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Zadaci"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Dodijeli oznaku"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr ""
+msgstr "Email autora"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
 msgid "Back"
-msgstr ""
+msgstr "Nazad"
 
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "Blokiraj IP"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
@@ -207,7 +211,7 @@ msgstr ""
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Blokovi"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
@@ -217,57 +221,57 @@ msgstr ""
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Otkaži"
 
 #: ui_admin.categories
 msgctxt "ui_admin.categories"
 msgid "Categories"
-msgstr ""
+msgstr "Kategorije"
 
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Grške u prikazivanju grafikona"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
-msgstr ""
+msgstr "Molimo provjerite je li vaša poruka valjana. "
 
 #: ui_admin.check_number
 msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
-msgstr ""
+msgstr "Molimo provjerite je li broj važeći."
 
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
-msgstr ""
+msgstr "Molimo provjerite vaše SMS postavke!"
 
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Detalji prijave"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Prijave"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "Učitani gradovi"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "kod"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr ""
+msgstr "Kodirana verzija nije sinkronizirana. "
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
@@ -277,17 +281,17 @@ msgstr "Boja"
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Komentari"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
-msgstr ""
+msgstr "Vaš kod za potvrdu obavijesti je:"
 
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "Korisnik je"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -297,17 +301,17 @@ msgstr ""
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "Zemlja nije nađena"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
 msgid "created/edited"
-msgstr ""
+msgstr "kreirano/uređivano"
 
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr ""
+msgstr "Kreiraj izvještaj"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
@@ -322,23 +326,23 @@ msgstr ""
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Trenutno aktivan"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Trenutno neaktivan"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "Nemate odgovarajuće dopuštenje da uređujete naredna polja"
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "Dnevno"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
@@ -348,27 +352,27 @@ msgstr ""
 #: ui_admin.database
 msgctxt "ui_admin.database"
 msgid "database"
-msgstr ""
+msgstr "baza podataka"
 
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "Daum i vrijeme"
 
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Datum dodan"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Datum promjenjen"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Dani u sedmici"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -378,17 +382,17 @@ msgstr ""
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr ""
+msgstr "obrisano"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
 msgid "Delete"
-msgstr ""
+msgstr "Obriši"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete All"
-msgstr ""
+msgstr "Obriši sve"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -403,12 +407,12 @@ msgstr ""
 #: ui_admin.description
 msgctxt "ui_admin.description"
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Onemogućeno"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -428,7 +432,7 @@ msgstr ""
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Preuzmi izvještaje"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
@@ -438,17 +442,17 @@ msgstr ""
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "UREĐENO"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr ""
+msgstr "Oredio/la"
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
@@ -458,7 +462,7 @@ msgstr ""
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -478,7 +482,7 @@ msgstr ""
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr ""
+msgstr "Greška"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
@@ -573,7 +577,7 @@ msgstr ""
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
 msgid "Field Name"
-msgstr ""
+msgstr "Polje ime"
 
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
@@ -583,7 +587,7 @@ msgstr ""
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
@@ -618,7 +622,7 @@ msgstr ""
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr ""
+msgstr "Polje za tekst (slobodan tekst)"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
@@ -643,12 +647,12 @@ msgstr ""
 #: ui_admin.from
 msgctxt "ui_admin.from"
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: ui_admin.from_date
 msgctxt "ui_admin.from_date"
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
@@ -663,7 +667,7 @@ msgstr ""
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "Dobij više tema"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
@@ -673,42 +677,42 @@ msgstr ""
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
 msgid "Actions"
-msgstr ""
+msgstr "Akcije"
 
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "Dodaj/uredi"
 
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
 msgid "Manage Users"
-msgstr ""
+msgstr "Upravljanje korisnicima"
 
 #: ui_admin.header_role
 msgctxt "ui_admin.header_role"
 msgid "Role"
-msgstr ""
+msgstr "Uloga"
 
 #: ui_admin.header_user
 msgctxt "ui_admin.header_user"
 msgid "User"
-msgstr ""
+msgstr "Korisnik/ca"
 
 #: ui_admin.help
 msgctxt "ui_admin.help"
 msgid "help"
-msgstr ""
+msgstr "Pomoć"
 
 #: ui_admin.hourly
 msgctxt "ui_admin.hourly"
 msgid "Hourly"
-msgstr ""
+msgstr "Po satu"
 
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
@@ -725,17 +729,17 @@ msgstr ""
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr ""
+msgstr "Primjer"
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr ""
+msgstr "Primjeri"
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr ""
+msgstr "Detalji primjera"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
@@ -745,7 +749,7 @@ msgstr ""
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "IP adresa"
 
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
@@ -755,47 +759,47 @@ msgstr ""
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Ko može vidjeti odgovore"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Ko može dati odgovor"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "Ključna riječ"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Ključne riječi"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
 msgid "Email Address:"
-msgstr ""
+msgstr "Email adresa"
 
 #: ui_admin.label_full_name
 msgctxt "ui_admin.label_full_name"
 msgid "Full Name:"
-msgstr ""
+msgstr "Puno ime"
 
 #: ui_admin.label_password
 msgctxt "ui_admin.label_password"
 msgid "Password:"
-msgstr ""
+msgstr "Šifra"
 
 #: ui_admin.label_role
 msgctxt "ui_admin.label_role"
 msgid "Role:"
-msgstr ""
+msgstr "Uloga"
 
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
 msgid "Username:"
-msgstr ""
+msgstr "Korisničko ime"
 
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
@@ -805,12 +809,12 @@ msgstr ""
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr ""
+msgstr "Moredator"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
 msgid "Logout"
-msgstr ""
+msgstr "Odjava"
 
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
@@ -825,52 +829,52 @@ msgstr ""
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
-msgstr ""
+msgstr "Upravljanje ulogama i dozvolama"
 
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
 msgid "View Users"
-msgstr ""
+msgstr "Vidi korisnike/ce"
 
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
-msgstr ""
+msgstr "dodaj/uredi korisnike/ce"
 
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Upravljaj svojim javnim listingom"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Obilježi kao"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "obilježeno kao da nije spam"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "obilježeno kao spam"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "nije odgovaralo nijednom dokumentu"
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
 msgid "Message"
-msgstr ""
+msgstr "Poruka"
 
 #: ui_admin.messages
 msgctxt "ui_admin.messages"
 msgid "Messages"
-msgstr ""
+msgstr "Poruke"
 
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
@@ -880,12 +884,12 @@ msgstr ""
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr ""
+msgstr "Twitter poruke"
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "Tvoja poruka je poslana!"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
@@ -1083,7 +1087,7 @@ msgstr ""
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Izvini, ali stranica koju tražiš nije ovdje."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1098,46 +1102,46 @@ msgstr ""
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
+msgstr "Reset šifre"
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr ""
+msgstr "Draga/i"
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "Primili smo zahtjev za promjenu šifre u "
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr ""
+msgstr "Da promjenjite šifru, molimo da klikneš na link ispod (ili ga kopiraš i zalijepiš na pretraživač)"
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "Po zahtjevu, tvoja šifra je sada resetovana. Slijede tvoji novi podaci"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr ""
+msgstr "Ushahidi reset šifre"
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr ""
+msgstr "Molim obilježi"
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
@@ -1152,37 +1156,37 @@ msgstr ""
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Pregled"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Poruka"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Privatna poruka"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Privatna poruka poslana"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Naslov"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "Prema"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "Javni spisak"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
@@ -1192,27 +1196,27 @@ msgstr ""
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr ""
+msgstr "čitaj"
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr ""
+msgstr "Relevantnost"
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Naslov izvještaja"
 
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Datum izvještaja"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Repoteri/ke"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
@@ -1222,7 +1226,7 @@ msgstr ""
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
 msgid "Reports"
-msgstr ""
+msgstr "Izvještaji"
 
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
@@ -1232,7 +1236,7 @@ msgstr ""
 #: ui_admin.required
 msgctxt "ui_admin.required"
 msgid "Required"
-msgstr ""
+msgstr "Potrebno"
 
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
@@ -1242,12 +1246,12 @@ msgstr ""
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Odgovor"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
 msgid "Results"
-msgstr ""
+msgstr "Rezultati"
 
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
@@ -1264,22 +1268,22 @@ msgstr ""
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
-msgstr ""
+msgstr "Spasi postavke"
 
 #: ui_admin.search
 msgctxt "ui_admin.search"
 msgid "Search"
-msgstr ""
+msgstr "Traži"
 
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Traži izvještaje"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
 msgid "searching for"
-msgstr ""
+msgstr "tražim"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
@@ -1298,7 +1302,7 @@ msgstr ""
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Upute su dostupne na wiki:"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1308,7 +1312,7 @@ msgstr ""
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
 msgid "Please select an item"
-msgstr ""
+msgstr "Izaberi stavku"
 
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
@@ -1323,47 +1327,47 @@ msgstr ""
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
 msgid "Sender"
-msgstr ""
+msgstr "Šalje"
 
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "Prema"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "Ova poruka je poslana sa tvoje web stranice na"
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Server vrijeme"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
 msgid "Settings"
-msgstr ""
+msgstr "Postavke"
 
 #: ui_admin.showing_page
 msgctxt "ui_admin.showing_page"
 msgid "Showing page"
-msgstr ""
+msgstr "Prikazivanje stranice"
 
 #: ui_admin.showing_results
 msgctxt "ui_admin.showing_results"
 msgid "Showing results"
-msgstr ""
+msgstr "Prikazivanje rezultata"
 
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "Prikazano"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "Posebna kategorija"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1376,7 +1380,7 @@ msgstr ""
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "Posebna oblast"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
@@ -1561,34 +1565,34 @@ msgstr ""
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
 msgid "Private Messages"
-msgstr ""
+msgstr "Privatne poruke"
 
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
 msgid "View Site"
-msgstr ""
+msgstr "Pogledaj stranicu"
 
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Pogledaj izvještaj"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
 msgid "Welcome, "
-msgstr ""
+msgstr "Dobrodošle/i"
 
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Da"
 
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
-msgstr ""
+msgstr "Tvoje pretraživanje za"
