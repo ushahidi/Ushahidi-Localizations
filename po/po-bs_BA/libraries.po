@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Aleksandar  <aleksandar@mozilla.ba>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-28 00:10+0000\n"
-"PO-Revision-Date: 2012-06-07 02:49+0000\n"
+"POT-Creation-Date: 2012-10-28 12:10+0000\n"
+"PO-Revision-Date: 2012-10-28 12:19+0000\n"
+"Last-Translator: Aleksandar <aleksandar@mozilla.ba>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,24 +18,24 @@ msgstr ""
 #: libraries.akismet_cannot_connect
 msgctxt "libraries.akismet_cannot_connect"
 msgid "Could not connect to Akismet server."
-msgstr ""
+msgstr "Nije uspjela konekcija na Aksimet server."
 
 #: libraries.akismet_cannot_retrieve
 msgctxt "libraries.akismet_cannot_retrieve"
 msgid "The response from Akismet could not be retrieved."
-msgstr ""
+msgstr "Odgovor od Aksimet servera nije primljen."
 
 #: libraries.api_library_not_found
 msgctxt "libraries.api_library_not_found"
 msgid ""
 "The API library: <strong>%s</strong> for the <strong>%s</strong> class could"
 " not be found. Please check your API task routing table."
-msgstr ""
+msgstr "API biblioteka: <strong>%s</strong> za <strong>%s</strong> kalsu nije nađena. Molimo provjerite API i njegovu tabelu smjerenja poslova. "
 
 #: libraries.askimet_invalid_apikey
 msgctxt "libraries.askimet_invalid_apikey"
 msgid "Your Akismet API key is not valid."
-msgstr ""
+msgstr "Vaš Aksimet API ključ nije validan."
 
 #: libraries.clickatell_fopen_error
 msgctxt "libraries.clickatell_fopen_error"
@@ -45,22 +47,22 @@ msgstr ""
 #: libraries.clickatell_message_too_long
 msgctxt "libraries.clickatell_message_too_long"
 msgid "Your unicode message is too long! (Current length="
-msgstr ""
+msgstr "Vaša unicode poruka je previše duga! ( Trenutna dužina="
 
 #: libraries.clickatell_no_destination_address
 msgctxt "libraries.clickatell_no_destination_address"
 msgid "Please specify a destination address (TO)!"
-msgstr ""
+msgstr "Molimo definišite destinacijsku adresu (ZA)!"
 
 #: libraries.clickatell_no_sender_address
 msgctxt "libraries.clickatell_no_sender_address"
 msgid "Please specify source address (FROM)!"
-msgstr ""
+msgstr "Molimo definišite adresu izvora (OD)!"
 
 #: libraries.clickatell_unicode_message_too_long
 msgctxt "libraries.clickatell_unicode_message_too_long"
 msgid "Your unicode message is too long! (Current length="
-msgstr ""
+msgstr "Vaša unicode poruka je previše duga! ( Trenutna dužina="
 
 #: libraries.clickatell_unsupported_method
 msgctxt "libraries.clickatell_unsupported_method"

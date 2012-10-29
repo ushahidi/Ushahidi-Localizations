@@ -1,14 +1,15 @@
 # 
 # Translators:
 #   <carica83@gmail.com>, 2012.
+#   <eldar.mandjuka@gmail.com>, 2012.
 #   <haris.alisic@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-28 00:10+0000\n"
-"PO-Revision-Date: 2012-10-27 21:33+0000\n"
-"Last-Translator: harisalisic <haris.alisic@gmail.com>\n"
+"POT-Creation-Date: 2012-10-28 12:10+0000\n"
+"PO-Revision-Date: 2012-10-28 21:27+0000\n"
+"Last-Translator: Eldar <eldar.mandjuka@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -74,12 +75,12 @@ msgstr ""
 #: settings.api.maximum_record_limit
 msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Maksimalni broj zapisa za preuzimanje po API zahtjevu"
 
 #: settings.api.maximum_requests_per_ip_address
 msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Maksimalni broj API zahtjeva po IP adresi"
 
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
@@ -94,12 +95,12 @@ msgstr ""
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "Došlo je do greške u postavljanju baner slike."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "Veličina banera prelazi dozvoljeni limit."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -142,7 +143,7 @@ msgstr ""
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Dozvolite čišćenje URL"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
