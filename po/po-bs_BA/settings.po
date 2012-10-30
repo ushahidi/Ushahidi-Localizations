@@ -4,13 +4,14 @@
 #   <eldar.mandjuka@gmail.com>, 2012.
 #   <fikretmuratovic@gmail.com>, 2012.
 #   <haris.alisic@gmail.com>, 2012.
+#   <jasminaha@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-29 12:10+0000\n"
-"PO-Revision-Date: 2012-10-29 20:08+0000\n"
-"Last-Translator: fikret <fikretmuratovic@gmail.com>\n"
+"POT-Creation-Date: 2012-10-30 00:11+0000\n"
+"PO-Revision-Date: 2012-10-30 10:54+0000\n"
+"Last-Translator: JasminaB <jasminaha@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,7 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr ""
+msgstr "Polje Dozvoli komentare ne sadrži validne vrijednosti"
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
@@ -398,7 +399,7 @@ msgstr ""
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Postavke mape"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -413,7 +414,7 @@ msgstr "Odaberite državu."
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "Kliknite i povucite mapu da postavite svoju tačnu lokaciju"
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
@@ -428,17 +429,17 @@ msgstr "Dozvoli korisnicima komentiranje prijava."
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "Uključi RSS News Feed na web stranici"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Dozvoli korisnicima da se pretplate za obavještenja"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr ""
+msgstr "Dozvoli korisnicima da unesu izvještaje"
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
@@ -448,7 +449,7 @@ msgstr ""
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Baner stranice"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -473,42 +474,42 @@ msgstr ""
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "Izjava o autorskim pravima stranice"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr ""
+msgstr "Osnovna boja za sve kategorije"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Osnovna ikona za sve kategorije"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Obriši sliku banera"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Obriši osnovnu ikonu"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "Prikaži kontakt stranicu"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "Prikaži stranicu \"Kako pomoći\""
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "E-mail adresa za obavještenja"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -520,7 +521,7 @@ msgstr ""
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "E-mail adresa stranice"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
@@ -564,7 +565,7 @@ msgstr ""
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "Jezik stranice"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
@@ -574,12 +575,12 @@ msgstr ""
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Poruka stranice"
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "Ime stranice"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
@@ -589,12 +590,12 @@ msgstr ""
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Potrebna potvrda korisničkog e-maila"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Postavi poruku izvještaja "
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
