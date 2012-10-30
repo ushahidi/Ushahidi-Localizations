@@ -12,8 +12,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-29 00:10+0000\n"
-"PO-Revision-Date: 2012-10-28 20:24+0000\n"
+"POT-Creation-Date: 2012-10-29 12:10+0000\n"
+"PO-Revision-Date: 2012-10-29 19:30+0000\n"
 "Last-Translator: fikret <fikretmuratovic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -155,7 +155,7 @@ msgstr "Primi upozorenja"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Upozorenje je "
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -279,7 +279,7 @@ msgstr "Arhivirano"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Rastuće"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -731,7 +731,7 @@ msgstr "Postavke e-mail servera"
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Mail server host"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
@@ -741,12 +741,12 @@ msgstr "Lozinka e-mail servera"
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Mail server port"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "Mail server SSL podrška"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
@@ -930,7 +930,7 @@ msgstr "Ime"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Prisilno pokreni planer"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -1222,7 +1222,7 @@ msgstr "KMZ/KML datoteka"
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "Ušitaj KMZ/KML datoteku"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
@@ -1480,7 +1480,7 @@ msgstr "Detalji poruke"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Poruka od nenumeričkog izvora:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
@@ -1532,7 +1532,7 @@ msgstr "Ime"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "Obližnji izvještaj"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1582,7 +1582,7 @@ msgstr "Ne"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Nema prijava za prikaz."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
@@ -1827,7 +1827,7 @@ msgstr "po"
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr ""
+msgstr "Osobni podaci"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
@@ -1865,17 +1865,17 @@ msgstr "Pusti"
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr ""
+msgstr "Molimo zabilježite"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Dodaci"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Website za dodatke"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
@@ -2030,12 +2030,12 @@ msgstr "Prezime izvjestitelj*"
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr ""
+msgstr "Nivo izvjestelja/ke"
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "Nivoi izvjestelja/ke"
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
@@ -2187,7 +2187,7 @@ msgstr "Detalji izvještaja"
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr ""
+msgstr "Slanjem poruke prema"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
@@ -2197,7 +2197,7 @@ msgstr "Pošalji email na "
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr ""
+msgstr "Slanjem tweet-a sa jednim ili više hastaga"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
@@ -2242,7 +2242,7 @@ msgstr "Zahtjevi"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "Ponovi slanje odobravajućeg emaila"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
@@ -2262,12 +2262,12 @@ msgstr "Poništi lozinku."
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr ""
+msgstr "Vrati nazive gradova za obilježenu zemlju"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Računima upravlja %s usluga."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
@@ -2319,7 +2319,7 @@ msgstr "Raspored"
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr ""
+msgstr "Planer"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
@@ -2369,7 +2369,7 @@ msgstr "Obilježi sve"
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr ""
+msgstr "Odaberi tip polja"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
@@ -2389,7 +2389,7 @@ msgstr "Obilježi koliko je potrebno"
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Molimo potvrdi da je stavka provjerena"
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
@@ -2459,7 +2459,7 @@ msgstr "Dijeljeni podaci"
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "Podjeljeno je"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
@@ -2489,7 +2489,7 @@ msgstr "Prikaži poruke"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
-msgstr ""
+msgstr "Prikazivanje izvještaja od <span class=\"time-period\">%s to %s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2574,7 +2574,7 @@ msgstr "Izvijestite"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
-msgstr ""
+msgstr "Objavio <stong>%s</strong> sa <strong>%s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2624,7 +2624,7 @@ msgstr "Veća mapa"
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "TCP ulaz"
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2699,7 +2699,7 @@ msgstr "Danas u"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2739,7 +2739,7 @@ msgstr "Prevod je sacuvan"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Provjereno"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2779,22 +2779,22 @@ msgstr ""
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr ""
+msgstr "Učitaj"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
-msgstr ""
+msgstr "Datoteka za učitavanje"
 
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Učitani izvještaji"
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
 msgid "During custom form field import, ensure that"
-msgstr ""
+msgstr "Prilikom unosa u specijalno polje, osigurajte da"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2824,7 +2824,7 @@ msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Ukoliko nisu zadane geografska dužina i širina, lokacija će biti određena korištenjem Google Geocodera."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
@@ -2860,12 +2860,12 @@ msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Format koji se unosi u polje datum: mm/dd/gggg npr. 3. oktobar 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "Uzorak CSV izvještaja"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2888,12 +2888,12 @@ msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr ""
+msgstr "Učitavanje uspješno"
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "Učitavanje videa"
 
 #: ui_main.url
 msgctxt "ui_main.url"
@@ -2973,7 +2973,7 @@ msgstr "Pogledaj sve"
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr ""
+msgstr "Pogledaj sva polja"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
@@ -2983,7 +2983,7 @@ msgstr "Pogledaj sve izvjestaje"
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr ""
+msgstr "Pogledaj stavke"
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
@@ -2993,32 +2993,32 @@ msgstr "Prikaži više"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Pogledaj javni profil"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Pogledaj izvještaj"
 
 #: ui_main.view_reports
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
-msgstr ""
+msgstr "Pogledaj izvještaje"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr ""
+msgstr "Vidljivo"
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr ""
+msgstr "Čeka na odobrenje"
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr ""
+msgstr "Verifikacija čekanja"
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
@@ -3038,7 +3038,7 @@ msgstr "Web"
 #: ui_main.weight
 msgctxt "ui_main.weight"
 msgid "Weight"
-msgstr ""
+msgstr "Težina"
 
 #: ui_main.yes
 msgctxt "ui_main.yes"

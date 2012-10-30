@@ -1,13 +1,14 @@
 # 
 # Translators:
+#   <alma.seper@oneworldsee.org>, 2012.
 #   <congra_902@yahoo.com>, 2012.
 #   <fikretmuratovic@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-29 00:10+0000\n"
-"PO-Revision-Date: 2012-10-28 21:27+0000\n"
+"POT-Creation-Date: 2012-10-29 12:10+0000\n"
+"PO-Revision-Date: 2012-10-29 19:35+0000\n"
 "Last-Translator: sleperka <congra_902@yahoo.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "Email adresa koja je unesena nije validna."
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
@@ -29,7 +30,7 @@ msgstr "Žao nam je, za Vaš email je već registrovan korisnički račun."
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Polje email mora sadžavati najmanje 4, a najviše 64 karaktera."
 
 #: auth.email.required
 msgctxt "auth.email.required"
@@ -39,7 +40,7 @@ msgstr "Polje email je obavezno."
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Polje ime, mora sadržavati najmanje 3, a najviše 100 karaktera."
 
 #: auth.name.required
 msgctxt "auth.name.required"
@@ -76,7 +77,7 @@ msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Polje šifra mora da sadrži jedino alfabetske znakove, # i @simbole, brojeve i crtice"
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
@@ -125,7 +126,7 @@ msgstr "Vaša šifra mora sadržati najmanje 8 znakova."
 #: auth.password.login error
 msgctxt "auth.password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Molimo, provjerite da li ste unijeli ispravan email i šifru."
 
 #: auth.password.matches
 msgctxt "auth.password.matches"

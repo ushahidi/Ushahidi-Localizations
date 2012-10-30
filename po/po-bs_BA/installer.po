@@ -1,14 +1,17 @@
 # 
 # Translators:
+#   <alma.seper@oneworldsee.org>, 2012.
 #   <etrade.ba@gmail.com>, 2012.
+#   <fikretmuratovic@gmail.com>, 2012.
 #   <samra989@gmail.com>, 2012.
+#   <vedran@nardev.org>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-29 00:10+0000\n"
-"PO-Revision-Date: 2012-10-28 17:46+0000\n"
-"Last-Translator: Samrich_ <samra989@gmail.com>\n"
+"POT-Creation-Date: 2012-10-29 12:10+0000\n"
+"PO-Revision-Date: 2012-10-29 19:28+0000\n"
+"Last-Translator: fikret <fikretmuratovic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,7 +22,7 @@ msgstr ""
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr ""
+msgstr "Putanja do baze podataka"
 
 #: installer.database
 msgctxt "installer.database"
@@ -29,7 +32,7 @@ msgstr "Baza podataka "
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr ""
+msgstr "Baza podataka"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
@@ -37,7 +40,7 @@ msgid ""
 "If you are running Ushahidi on your own computer, this will more than likely"
 " be \"localhost\". If you are running Ushahidi from a web server, you will "
 "get your host information from your web hosting provider."
-msgstr ""
+msgstr "Ako koristi te Ushahidi na vašem lokalnom računaru, ovo će najvjerovatnije biti \"localhost\". Ako koristi te Ushahidi sa web servera, onda ćete dobiti podatke od vašeg web server poslužitelja."
 
 #: installer.database_name
 msgctxt "installer.database_name"
@@ -47,7 +50,7 @@ msgstr "Naziv baze podataka "
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
 msgid "The name of the database you want to run Ushahidi in"
-msgstr ""
+msgstr "Naziv baze podataka za Ushahidi koju želi te korititi"
 
 #: installer.db_information_link
 msgctxt "installer.db_information_link"
@@ -56,12 +59,12 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
 "target=\"_blank\">this article</a> on the wiki that talks about databases in"
 " more detail."
-msgstr ""
+msgstr "Za više informacija o bazi podataka molimo provjeri te <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">ovdje</a>."
 
 #: installer.default_language
 msgctxt "installer.default_language"
 msgid "Default Language (Locale)"
-msgstr ""
+msgstr "Osnovni Jezik (lokalni)"
 
 #: installer.default_language_description
 msgctxt "installer.default_language_description"
@@ -70,22 +73,22 @@ msgid ""
 "translations. You can also <a "
 "href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\""
 " target=\"_blank\">add your own</a>."
-msgstr ""
+msgstr "Svaka instalacija Ushahidi-a dolazi sa nekoliko različitih prijevoda. Vi takođe može te <a href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" target=\"_blank\">dodati vaš prijevod</a>."
 
 #: installer.disable
 msgctxt "installer.disable"
 msgid "Disable"
-msgstr ""
+msgstr "Onemogući"
 
 #: installer.enable
 msgctxt "installer.enable"
 msgid "Enable"
-msgstr ""
+msgstr "Omogući"
 
 #: installer.error_summary
 msgctxt "installer.error_summary"
 msgid "Listed below is a summary of the errors we encountered."
-msgstr ""
+msgstr "Ispod su ispisane greške na koje smo naišli."
 
 #: installer.files_location_text
 msgctxt "installer.files_location_text"
@@ -94,7 +97,7 @@ msgid ""
 " have automatically detected this value, please make sure that it is "
 "correct.</strong> If the field is empty, do not worry, it means ushahidi is "
 "installed at the top level directory."
-msgstr ""
+msgstr "Lokacija na vašem serveru gdje ste smjestili Ushahidi datoteke. <strong>Ova vrijednost je automatski detektovana, molimo provjeri te njenu ispravnost.</strong> Ako je polje prazno, to znači da je Ushahidi instaliran u početni direktorij."
 
 #: installer.finished
 msgctxt "installer.finished"
@@ -109,7 +112,7 @@ msgstr "Općenito"
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API Ključ"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
@@ -117,7 +120,7 @@ msgid ""
 "Anyone can get an api key. <a id=\"api-link\" "
 "href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get "
 "yours now</a>"
-msgstr ""
+msgstr "Bilo ko može preuzeti API ključ. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Preuzmi te vaš</a>"
 
 #: installer.go_back
 msgctxt "installer.go_back"
@@ -134,7 +137,7 @@ msgctxt "installer.index.advanced_installation_description"
 msgid ""
 "Get all the basic settings completed through this 5-step process.  This "
 "includes server, map, site name and contact details."
-msgstr ""
+msgstr "Preuzmi sve osnovne postavke koje su unjete u ovom procesu od 5 koraka. To podrazumjeva server, mapu, naziv sajta i kontakt podatke."
 
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
@@ -147,19 +150,19 @@ msgid ""
 "Simple and fast. All you need is your website's root directory and your "
 "database information. Choose this option if you want to get up and running "
 "quickly, and you can always configure everything else later."
-msgstr ""
+msgstr "Jednostavno i brzo. Sve što treba te je početni direktorij vaše web stranice i login za vašu bazu podataka. Izaberi te ovu opciju ako želi te brzo i jednostavno započeti, sve ostalo uvijek može te podesiti naknadno."
 
 #: installer.index.proceed
 msgctxt "installer.index.proceed"
 msgid "Proceed"
-msgstr ""
+msgstr "Nastavi"
 
 #: installer.index.welcome
 msgctxt "installer.index.welcome"
 msgid ""
 "Welcome to the Ushahidi server install process.  Choose which type of "
 "installation you would like to use below."
-msgstr ""
+msgstr "Dobro došli. Ushahidi proces instalacije.\nOdaberi te koju vrstu instalacije želi te koristiti."
 
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
@@ -174,37 +177,37 @@ msgstr "Mail Server"
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Adresa Mail Servera"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Ukoliko koristite Gmail, Hotmail ili Yahoo Mail, unesite puno ime vaše email adrese kao korisničko ime"
 
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Lozinka za Mail Server"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr ""
+msgstr "Lozinka koju obično koristite za prijavu na svoj email"
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Port za Mail Server"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Uobičajeni Portovi: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Vrsta Mail Servera"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -212,19 +215,19 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Internet Message Access Protocol (IMAP) ili Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Šta je razlika?</a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Korisničko ime za Mail Server"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
 msgid ""
 "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
 "as a username."
-msgstr ""
+msgstr "Ukoliko koristite Gmail, Hotmail ili Yahoo Mail, unesite puno ime vase email adrese kao korisničko ime"
 
 #: installer.map
 msgctxt "installer.map"
@@ -234,7 +237,7 @@ msgstr "Mapa"
 #: installer.map_provider
 msgctxt "installer.map_provider"
 msgid "Map Provider"
-msgstr ""
+msgstr "Poslužitelj za Mape"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
@@ -242,7 +245,7 @@ msgid ""
 "Ushahidi works equally well with any of these three mapping providers: "
 "Google, Bing or Open Street Map. Choose the one that has the most detail in "
 "your area."
-msgstr ""
+msgstr "Ushahidi radi podjednako dobro sa bilo kojim od ova tri poslužitelja za mape: Google, Bing or Open Street Map. Odaberi te onaj koji ima najviše detaljnih i tačnih informacija u vašem području."
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
@@ -267,12 +270,12 @@ msgstr "Predhodni"
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr ""
+msgstr "Molimo, restartuj te vaš Apache web server"
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
 msgid "Enable or disable SSL"
-msgstr ""
+msgstr "Omogući te ili onemogući te SSL"
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
@@ -280,22 +283,22 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr ""
+msgstr "Neki mail serveri vam omogućavaju korištenje <abbr title=\"Secure Sockets Layer\">SSL-a</abbr> prilikom konektovanja. Korištenje SSL-a je preporučeno radi višeg stepena sigurnosti."
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
 msgid "Set up your SMS server"
-msgstr ""
+msgstr "Podesi te vaš SMS server"
 
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Sajt Email adresa"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "Sajt Email adresa za obavijesti"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -303,22 +306,22 @@ msgid ""
 "When your site visitors sign up for email alerts, they will receive emails "
 "from this address. This email address does not have to be the same as the "
 "Site Email Address."
-msgstr ""
+msgstr "Posjetioci vašeg web sajta će sa ove email adrese primati obavijesti na koje se prijave. Ova adresa ne mora biti ista kao \"Sajt Email adresa\"."
 
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr ""
+msgstr "Sva email komunikacija će biti preusmjeravana na ovu adresu."
 
 #: installer.site_name
 msgctxt "installer.site_name"
 msgid "Site Name"
-msgstr ""
+msgstr "Naziv sajta"
 
 #: installer.site_name_description
 msgctxt "installer.site_name_description"
 msgid "The name of your site"
-msgstr ""
+msgstr "Puni naziv vašeg sajta"
 
 #: installer.site_tagline
 msgctxt "installer.site_tagline"
@@ -364,7 +367,7 @@ msgstr ""
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
 msgid "Table Prefix"
-msgstr ""
+msgstr "Prefiks table"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
@@ -372,7 +375,7 @@ msgid ""
 "Normally you would not change the table prefix. However, if you want to run "
 "multiple Ushahidi installations from a single database, you can do that by "
 "changing the prefix here."
-msgstr ""
+msgstr "Inače ne bi trebalo mijenjati prefiks table. Ali ako želite nekoliko instalacija Ushahidi na jednoj bazi podataka, onda promijenite prefiks table ovdje."
 
 #: installer.title
 msgctxt "installer.title"
@@ -382,7 +385,7 @@ msgstr "Naslov"
 #: installer.to_login
 msgctxt "installer.to_login"
 msgid "To login, go to"
-msgstr ""
+msgstr "Za prijavu, idi na"
 
 #: installer.upload_data
 msgctxt "installer.upload_data"
@@ -392,12 +395,12 @@ msgstr ""
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "Korisničko ime"
 
 #: installer.username_description
 msgctxt "installer.username_description"
 msgid "Your database username"
-msgstr ""
+msgstr "Korisničko ime vaše baze podataka"
 
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
@@ -407,4 +410,4 @@ msgstr ""
 #: installer.view_site
 msgctxt "installer.view_site"
 msgid "View your website"
-msgstr ""
+msgstr "Poledaj svoju stranicu."

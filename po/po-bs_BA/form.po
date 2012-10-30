@@ -2,13 +2,14 @@
 # Translators:
 #   <congra_902@yahoo.com>, 2012.
 #   <jasminaha@gmail.com>, 2012.
+#   <samra989@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-29 00:10+0000\n"
-"PO-Revision-Date: 2012-10-28 15:05+0000\n"
-"Last-Translator: sleperka <congra_902@yahoo.com>\n"
+"POT-Creation-Date: 2012-10-29 12:10+0000\n"
+"PO-Revision-Date: 2012-10-29 17:30+0000\n"
+"Last-Translator: Samrich_ <samra989@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,7 +26,7 @@ msgstr "Postavljena vrijednost namjenjena za polje je nevažeća."
 msgctxt "form.field_default.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 200 characters long."
-msgstr ""
+msgstr "Polje Ime treba da sadrži najmanje 3 i ne više od 200 karaktera. "
 
 #: form.field_height.between
 msgctxt "form.field_height.between"
@@ -46,70 +47,70 @@ msgstr "Molimo izaberi Da ili Ne za polje Datum."
 msgctxt "form.field_name.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 100 characters long."
-msgstr ""
+msgstr "Polje Ime treba da sadrži najmanje 3 i ne više od 100 karaktera. "
 
 #: form.field_name.required
 msgctxt "form.field_name.required"
 msgid "Please enter Field Name."
-msgstr ""
+msgstr "Molimo unesite ime polja. "
 
 #: form.field_name.duplicate
 msgctxt "form.field_name.duplicate"
 msgid "The field name you entered already exists. Please enter another one."
-msgstr ""
+msgstr "Naziv polja koji ste unijeli već postoji. Molimo odaberite neki drugi naziv. "
 
 #: form.field_required.between
 msgctxt "form.field_required.between"
 msgid "You have entered an invalid value for Field Required."
-msgstr ""
+msgstr "Unijeli ste nevažeću vrijednost za potrebno polje."
 
 #: form.field_required.required
 msgctxt "form.field_required.required"
 msgid "Please select Yes or No for Field Required."
-msgstr ""
+msgstr "Molimo odaberite Da ili Ne za potrebno polje."
 
 #: form.field_type.numeric
 msgctxt "form.field_type.numeric"
 msgid "Please select a valid Field Type."
-msgstr ""
+msgstr "Molimo odaberite valjanu vrstu polja."
 
 #: form.field_type.required
 msgctxt "form.field_type.required"
 msgid "Please select a Field Type."
-msgstr ""
+msgstr "Molimo odaberite vrstu polja."
 
 #: form.field_width.between
 msgctxt "form.field_width.between"
 msgid "Please enter a value 0 to 300 for the Field Width."
-msgstr ""
+msgstr "Unesite vrijednost od 0 do 300 za širinu polja."
 
 #: form.form_description.required
 msgctxt "form.form_description.required"
 msgid "Please enter form's Description."
-msgstr ""
+msgstr "Molimo unesite opis obrasca."
 
 #: form.form_id.default
 msgctxt "form.form_id.default"
 msgid "The default form cannot be deleted."
-msgstr ""
+msgstr "Zadani oblik se ne može izbrisati."
 
 #: form.form_id.numeric
 msgctxt "form.form_id.numeric"
 msgid "Please select which form to add this field to."
-msgstr ""
+msgstr "Molimo odaberite koju formu dodati ovom polju."
 
 #: form.form_id.required
 msgctxt "form.form_id.required"
 msgid "Please select which form to add this field to."
-msgstr ""
+msgstr "Molimo odaberite koju formu dodati ovom polju."
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
 msgid ""
 "The form name field must be at least 3 and no more than 100 characters long."
-msgstr ""
+msgstr "Forma naziva polja mora da sadrži najmanje 3 i ne više od 100 karaktera."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
-msgstr ""
+msgstr "Unesite naziv obrasca."
