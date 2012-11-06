@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-05 00:11+0000\n"
-"PO-Revision-Date: 2012-10-12 08:30+0000\n"
-"Last-Translator: jui <appukonrad@gmail.com>\n"
+"POT-Creation-Date: 2012-11-05 12:12+0000\n"
+"PO-Revision-Date: 2012-11-05 12:07+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -54,8 +54,10 @@ msgstr "Vpište název pole."
 
 #: form.field_name.duplicate
 msgctxt "form.field_name.duplicate"
-msgid "The field name you entered already exists. Please enter another one."
-msgstr "Pole Název, který jste zadali, již existuje. Prosím zadejte jiný."
+msgid ""
+"The field name you entered already exists on this form. Please enter another"
+" one."
+msgstr ""
 
 #: form.field_required.between
 msgctxt "form.field_required.between"
@@ -112,3 +114,8 @@ msgstr "Pole názvu formuláře (the form name field) musí mít ne méně než 
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Napište název formuláře."
+
+#: form.form_title.exists
+msgctxt "form.form_title.exists"
+msgid "A form with that title already exists. Please choose another."
+msgstr ""

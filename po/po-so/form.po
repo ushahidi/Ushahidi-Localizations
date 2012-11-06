@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-05 00:11+0000\n"
-"PO-Revision-Date: 2012-10-03 00:02+0000\n"
+"POT-Creation-Date: 2012-11-05 12:12+0000\n"
+"PO-Revision-Date: 2012-11-05 12:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,7 +53,9 @@ msgstr "Fadlan geli magaca goobta"
 
 #: form.field_name.duplicate
 msgctxt "form.field_name.duplicate"
-msgid "The field name you entered already exists. Please enter another one."
+msgid ""
+"The field name you entered already exists on this form. Please enter another"
+" one."
 msgstr ""
 
 #: form.field_required.between
@@ -111,3 +113,8 @@ msgstr "Magaca foomka ee goobta waa inuu ka kooban yahay ugu yaraan 3 xaraf, ugu
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Fadlan geli magaca foomka"
+
+#: form.form_title.exists
+msgctxt "form.form_title.exists"
+msgid "A form with that title already exists. Please choose another."
+msgstr ""
