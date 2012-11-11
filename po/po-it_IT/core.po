@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <pallicca@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-09 06:12+0000\n"
-"PO-Revision-Date: 2012-08-19 22:52+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-11-10 06:11+0000\n"
+"PO-Revision-Date: 2012-11-10 18:34+0000\n"
+"Last-Translator: past12 <pallicca@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,17 +18,17 @@ msgstr ""
 #: core.config
 msgctxt "core.config"
 msgid "config file"
-msgstr ""
+msgstr "file di configurazione"
 
 #: core.controller
 msgctxt "core.controller"
 msgid "controller"
-msgstr ""
+msgstr "controller"
 
 #: core.driver
 msgctxt "core.driver"
 msgid "driver"
-msgstr ""
+msgstr "driver"
 
 #: core.driver_implements
 msgctxt "core.driver_implements"
@@ -49,7 +50,7 @@ msgstr "Vai alla <a href=\"%s\">home page</a> o <a href=\"%s\">per riprovare</a>
 #: core.error_file_line
 msgctxt "core.error_file_line"
 msgid "<tt>%s <strong>[%s]:</strong></tt>"
-msgstr ""
+msgstr "<tt>%s <strong>[%s]:</strong></tt>"
 
 #: core.generic_error
 msgctxt "core.generic_error"
@@ -59,7 +60,7 @@ msgstr "Non "
 #: core.helper
 msgctxt "core.helper"
 msgid "helper"
-msgstr ""
+msgstr "helper"
 
 #: core.invalid_filetype
 msgctxt "core.invalid_filetype"
@@ -80,7 +81,7 @@ msgstr "La %s propriet"
 #: core.library
 msgctxt "core.library"
 msgid "library"
-msgstr ""
+msgstr "library"
 
 #: core.log_dir_unwritable
 msgctxt "core.log_dir_unwritable"
@@ -121,7 +122,7 @@ msgstr "La risorsa %s richiesta, %s, non "
 #: core.stack_trace
 msgctxt "core.stack_trace"
 msgid "Stack Trace"
-msgstr ""
+msgstr "Analisi dello stack"
 
 #: core.stats_footer
 msgctxt "core.stats_footer"
@@ -138,7 +139,7 @@ msgstr "E' consentita solo un'istanza di Ushahidi per pagina richiesta"
 #: core.uncaught_exception
 msgctxt "core.uncaught_exception"
 msgid "Uncaught %s: %s in file %s on line %s"
-msgstr ""
+msgstr "Non catturata %s: %s nel file %s alla riga %s"
 
 #: core.view
 msgctxt "core.view"
