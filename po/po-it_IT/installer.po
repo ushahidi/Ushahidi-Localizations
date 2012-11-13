@@ -1,13 +1,14 @@
 # 
 # Translators:
+#   <pallicca@gmail.com>, 2012.
 # Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 00:05+0000\n"
-"PO-Revision-Date: 2012-10-11 15:37+0000\n"
-"Last-Translator: Tony Goodyear <fswitch20@hotmail.com>\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-11-10 17:02+0000\n"
+"Last-Translator: past12 <pallicca@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,7 +19,7 @@ msgstr ""
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr ""
+msgstr "Percorso di base"
 
 #: installer.database
 msgctxt "installer.database"
@@ -322,7 +323,7 @@ msgstr "Il nome del tuo sito"
 #: installer.site_tagline
 msgctxt "installer.site_tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Tagline sito"
 
 #: installer.site_tagline_description
 msgctxt "installer.site_tagline_description"
@@ -363,7 +364,7 @@ msgstr "Per procedere con il processo di installazione, tieni a portata di mano 
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
 msgid "Table Prefix"
-msgstr ""
+msgstr "Prefisso tabelle"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
@@ -386,7 +387,7 @@ msgstr "Per effettuare il login, vai a"
 #: installer.upload_data
 msgctxt "installer.upload_data"
 msgid "Upload report data"
-msgstr ""
+msgstr "Carica i dati dei report"
 
 #: installer.username
 msgctxt "installer.username"

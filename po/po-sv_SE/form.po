@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 00:05+0000\n"
-"PO-Revision-Date: 2012-10-03 00:02+0000\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-11-05 12:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,7 +53,9 @@ msgstr "Ange f&auml;ltnamn."
 
 #: form.field_name.duplicate
 msgctxt "form.field_name.duplicate"
-msgid "The field name you entered already exists. Please enter another one."
+msgid ""
+"The field name you entered already exists on this form. Please enter another"
+" one."
 msgstr ""
 
 #: form.field_required.between
@@ -111,3 +113,8 @@ msgstr "Formul&auml;rnamnet m&aring;ste vara mellan 3 och 100 tecken."
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
 msgstr "Formul&auml;rets namn."
+
+#: form.form_title.exists
+msgctxt "form.form_title.exists"
+msgid "A form with that title already exists. Please choose another."
+msgstr ""

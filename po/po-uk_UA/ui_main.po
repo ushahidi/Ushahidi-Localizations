@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 00:05+0000\n"
-"PO-Revision-Date: 2012-10-17 13:46+0000\n"
-"Last-Translator: skolesnyk <skolesnyk@gmail.com>\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-10-25 00:01+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1201,6 +1201,11 @@ msgstr "Заголовок елемента"
 msgctxt "ui_main.key"
 msgid "Key"
 msgstr "Ключ"
+
+#: ui_main.keywords
+msgctxt "ui_main.keywords"
+msgid "Keywords"
+msgstr ""
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -3016,6 +3021,11 @@ msgstr "Ширша карта"
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
+msgstr ""
+
+#: ui_main.web
+msgctxt "ui_main.web"
+msgid "Web"
 msgstr ""
 
 #: ui_main.weight

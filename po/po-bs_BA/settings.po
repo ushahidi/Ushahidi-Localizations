@@ -1,13 +1,17 @@
 # 
 # Translators:
+#   <carica83@gmail.com>, 2012.
+#   <eldar.mandjuka@gmail.com>, 2012.
+#   <fikretmuratovic@gmail.com>, 2012.
 #   <haris.alisic@gmail.com>, 2012.
+#   <jasminaha@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 00:05+0000\n"
-"PO-Revision-Date: 2012-10-22 22:11+0000\n"
-"Last-Translator: harisalisic <haris.alisic@gmail.com>\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-10-30 10:54+0000\n"
+"Last-Translator: JasminaB <jasminaha@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -18,12 +22,12 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr ""
+msgstr "Polje Dozvoli komentare ne sadrži validne vrijednosti"
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "Polje odobri komentare je obavezno."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
@@ -43,7 +47,7 @@ msgstr ""
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "Polje dopusti obavještenja je obavezno."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -53,7 +57,7 @@ msgstr ""
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr ""
+msgstr "Polje dopusti obavještenja je obavezno."
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
@@ -73,12 +77,12 @@ msgstr ""
 #: settings.api.maximum_record_limit
 msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Maksimalni broj zapisa za preuzimanje po API zahtjevu"
 
 #: settings.api.maximum_requests_per_ip_address
 msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Maksimalni broj API zahtjeva po IP adresi"
 
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
@@ -93,12 +97,12 @@ msgstr ""
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "Došlo je do greške u postavljanju baner slike."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "Veličina banera prelazi dozvoljeni limit."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -141,7 +145,7 @@ msgstr ""
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Dozvolite čišćenje URL"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
@@ -188,7 +192,7 @@ msgstr "Konfigurirajte mapu."
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "Zadana lokacija"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
@@ -203,7 +207,7 @@ msgstr ""
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "Polje boja je obavezno."
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
@@ -213,7 +217,7 @@ msgstr ""
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "Zadani nivo zumiranja"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
@@ -275,24 +279,24 @@ msgstr ""
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Opcije za podešavanje Facebooka "
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "Kako bi ste dobili informaciju ispod potrebno je da kreirate novu Facebook aplikaciju za"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebookov App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebookob App Secret"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -304,7 +308,7 @@ msgstr ""
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Omogući HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -323,7 +327,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -358,7 +362,7 @@ msgstr ""
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "Nivo zumiranja"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
@@ -395,7 +399,7 @@ msgstr ""
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Postavke mape"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -405,12 +409,12 @@ msgstr ""
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "Odaberite državu."
 
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "Kliknite i povucite mapu da postavite svoju tačnu lokaciju"
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
@@ -420,22 +424,22 @@ msgstr ""
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr ""
+msgstr "Dozvoli korisnicima komentiranje prijava."
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "Uključi RSS News Feed na web stranici"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Dozvoli korisnicima da se pretplate za obavještenja"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr ""
+msgstr "Dozvoli korisnicima da unesu izvještaje"
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
@@ -445,7 +449,7 @@ msgstr ""
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Baner stranice"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -470,42 +474,42 @@ msgstr ""
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "Izjava o autorskim pravima stranice"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr ""
+msgstr "Osnovna boja za sve kategorije"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Osnovna ikona za sve kategorije"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Obriši sliku banera"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Obriši osnovnu ikonu"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "Prikaži kontakt stranicu"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "Prikaži stranicu \"Kako pomoći\""
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "E-mail adresa za obavještenja"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -517,12 +521,12 @@ msgstr ""
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "E-mail adresa stranice"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -561,7 +565,7 @@ msgstr ""
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "Jezik stranice"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
@@ -571,12 +575,12 @@ msgstr ""
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Poruka stranice"
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "Ime stranice"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
@@ -586,12 +590,12 @@ msgstr ""
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Potrebna potvrda korisničkog e-maila"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Postavi poruku izvještaja "
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -606,12 +610,12 @@ msgstr ""
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Vremenska zona"
 
 #: settings.site.title
 msgctxt "settings.site.title"
 msgid "Site Settings"
-msgstr ""
+msgstr "Postavke stranice"
 
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
@@ -621,7 +625,7 @@ msgstr ""
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
-msgstr ""
+msgstr "Hashtag - odvojeni zarezima"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
@@ -642,7 +646,7 @@ msgstr ""
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "Polje naziv stranice je obavezno."
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
@@ -672,7 +676,7 @@ msgstr ""
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "Vaša Clickatell lozinka"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -690,7 +694,7 @@ msgstr ""
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr ""
+msgstr "Vaše Clickatell korisničko ime"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -745,7 +749,7 @@ msgstr ""
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr ""
+msgstr "Opcija 1: Koristi Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
@@ -770,19 +774,19 @@ msgstr ""
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
-msgstr ""
+msgstr "Polje telefon 2 je predugačko."
 
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr ""
+msgstr "Polje telefon 2 treba sadržati samo brojeve."
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
-msgstr ""
+msgstr "Polje telefon 3 je predugačko."
 
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr ""
+msgstr "Polje telefon 3 treba sadržati samo brojeve."

@@ -1,13 +1,15 @@
 # 
 # Translators:
 #   <haris.alisic@gmail.com>, 2012.
+# Sara Calkic <sara.calkic@gmail.com>, 2012.
+# Tarik Avdic <avdictarik@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 00:05+0000\n"
-"PO-Revision-Date: 2012-10-24 00:04+0000\n"
-"Last-Translator: harisalisic <haris.alisic@gmail.com>\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-10-25 21:03+0000\n"
+"Last-Translator: Sara Calkic <sara.calkic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -33,29 +35,29 @@ msgstr "Molimo provjerite da li je unesena ispravna email adresa."
 #: message.email.length
 msgctxt "message.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Email adresa mora imati minimalno 4 i maksimalno 64 znaka."
 
 #: message.email.required
 msgctxt "message.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "Unesite email adresu ukoliko je kockica oznacena."
 
 #: message.message.required
 msgctxt "message.message.required"
 msgid "The comments field is required."
-msgstr ""
+msgstr "Polje sa komentarima mora biti popunjeno."
 
 #: message.name.length
 msgctxt "message.name.length"
 msgid "The name field must be at least 3 characters long."
-msgstr ""
+msgstr "Ime mora imati minimalno 3 znaka."
 
 #: message.name.required
 msgctxt "message.name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "Polje sa imenom mora biti popunjeno."
 
 #: message.phone.length
 msgctxt "message.phone.length"
 msgid "The phone field is not valid."
-msgstr ""
+msgstr "Telefonski broj nije ispravan."

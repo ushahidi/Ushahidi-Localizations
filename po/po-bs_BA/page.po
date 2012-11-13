@@ -1,34 +1,37 @@
-#. extracted from en_US/page.php, bs_BA/page.php#
-# Translators: 
+# 
+# Translators:
+#   <fikretmuratovic@gmail.com>, 2012.
+#   <jasminaha@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 22:16+0000\n"
-"PO-Revision-Date: 2012-09-20 22:16+0000\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-10-26 15:35+0000\n"
+"Last-Translator: fikret <fikretmuratovic@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: bs_BA\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: page.page_title.required
 msgctxt "page.page_title.required"
 msgid "Please enter a Page Title."
-msgstr ""
+msgstr "Molimo unesite naziv stranice"
 
 #: page.page_title.length
 msgctxt "page.page_title.length"
 msgid "Page Title must be at least 3 and no more than 150 characters long."
-msgstr ""
+msgstr "Naslov stranice mora biti dug najmanje 3, a najviše 150 karaktera "
 
 #: page.page_tab.required
 msgctxt "page.page_tab.required"
 msgid "Please enter a Page Tab Name."
-msgstr ""
+msgstr "Molimo unesite naziv taba stranice"
 
 #: page.page_description.required
 msgctxt "page.page_description.required"
 msgid "Please enter a Page Description."
-msgstr ""
-
+msgstr "Unesite opis stranice"

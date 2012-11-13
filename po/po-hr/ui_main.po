@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <jzelez@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-10-24 00:05+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-11-11 06:10+0000\n"
+"PO-Revision-Date: 2012-11-01 13:44+0000\n"
+"Last-Translator: jzelez <jzelez@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,12 +23,12 @@ msgstr "O Nama "
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr ""
+msgstr "Pristup"
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr ""
+msgstr "Ovlasti pristupa"
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
@@ -37,77 +38,77 @@ msgstr ""
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr ""
+msgstr "Radnje"
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "Ova radnja se ne može poništiti. Da li ste sigurni da želite nastaviti?"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr ""
+msgstr "Aktiviraj"
 
 #: ui_main.active
 msgctxt "ui_main.active"
 msgid "Active"
-msgstr ""
+msgstr "Aktivno"
 
 #: ui_main.add
 msgctxt "ui_main.add"
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: ui_main.added_by
 msgctxt "ui_main.added_by"
 msgid "Added By"
-msgstr ""
+msgstr "Dodao/la"
 
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Ostali podaci"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
-msgstr ""
+msgstr "Ostali izvještaji"
 
 #: ui_main.add_edit
 msgctxt "ui_main.add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "Dodaj/Ažuriraj"
 
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr ""
+msgstr "Dodaj polje"
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
 msgid "Add Language"
-msgstr ""
+msgstr "Dodaj jezik"
 
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr ""
+msgstr "Dodaj novo"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr ""
+msgstr "Dodaj novu kategoriju"
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
 msgid "Add Translation"
-msgstr ""
+msgstr "Dodaj priejvod"
 
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr ""
+msgstr "Administracija"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
@@ -152,7 +153,7 @@ msgstr ""
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
-msgstr ""
+msgstr "Mobitel"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
@@ -176,7 +177,7 @@ msgstr "RSS (kopiraj url ispod)"
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr ""
+msgstr "Odaberi grad"
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
@@ -211,7 +212,7 @@ msgstr "Sve kategorije"
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
 msgid "Allowed"
-msgstr ""
+msgstr "Dopušteno"
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -226,32 +227,32 @@ msgstr ""
 #: ui_main.and
 msgctxt "ui_main.and"
 msgid "and"
-msgstr ""
+msgstr "i"
 
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
 msgid "Approve"
-msgstr ""
+msgstr "Odobri"
 
 #: ui_main.approved
 msgctxt "ui_main.approved"
 msgid "Approved"
-msgstr ""
+msgstr "Odobreno"
 
 #: ui_main.approved_reports
 msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
-msgstr ""
+msgstr "Odobreni izvještaji"
 
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr ""
+msgstr "Odobri ovaj izvještaj"
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
@@ -261,12 +262,12 @@ msgstr ""
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr ""
+msgstr "Arhiva"
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Arhivirano"
 
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
@@ -281,7 +282,7 @@ msgstr ""
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
@@ -291,27 +292,27 @@ msgstr ""
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "Prosječno izvještaja po danu"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr ""
+msgstr "Čeka odobrenje"
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr ""
+msgstr "Čeka provjerju"
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Oznaka"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Oznake"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
@@ -1199,6 +1200,11 @@ msgstr ""
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
+msgstr ""
+
+#: ui_main.keywords
+msgctxt "ui_main.keywords"
+msgid "Keywords"
 msgstr ""
 
 #: ui_main.kml_kmz_file
@@ -3015,6 +3021,11 @@ msgstr ""
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
+msgstr ""
+
+#: ui_main.web
+msgctxt "ui_main.web"
+msgid "Web"
 msgstr ""
 
 #: ui_main.weight
