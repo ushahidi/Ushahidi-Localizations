@@ -53,6 +53,10 @@ $lang = array(
 		'required' => 'You must define at least one role.',
 		'values' => 'You must select either ADMIN or USER role.',
 	) ,
+	'token' => array(
+		'invalid' => 'The forgotten password token is invalid',
+		'required' => 'Forgotten password token was required'
+	),
 	'username' => array(
 		'admin' => 'The admin user role cannot be modified.',
 		'alpha_numeric' => 'The public profile URL field must only contain numbers and letters.',
