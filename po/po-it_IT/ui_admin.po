@@ -1,14 +1,15 @@
 # 
 # Translators:
 #   <dau.avatar@gmail.com>, 2012.
+#   <pallicca@gmail.com>, 2012.
 # Tony Goodyear <fswitch20@hotmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-04 12:11+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-11-12 06:11+0000\n"
+"PO-Revision-Date: 2012-11-10 18:17+0000\n"
+"Last-Translator: past12 <pallicca@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -248,12 +249,12 @@ msgstr "Verifica le impostazioni SMS"
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Dettagli Checkin"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Chechins"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
@@ -293,7 +294,7 @@ msgstr "L'utente è stato"
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Numero"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
@@ -344,7 +345,7 @@ msgstr "Giornaliero"
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr ""
+msgstr "Dashboard"
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
@@ -414,12 +415,12 @@ msgstr "Disabilitato"
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "Inizio divisore"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "Fine divisore"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
@@ -509,7 +510,7 @@ msgstr "FAQ"
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
 msgid "feed"
-msgstr ""
+msgstr "feed"
 
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
@@ -669,7 +670,7 @@ msgstr "Scarica altri Temi"
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "Scarica altri plugin"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
@@ -841,7 +842,7 @@ msgstr "Aggiungi/Modifica utenti"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Amministrazione lista pubblica"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
@@ -946,7 +947,7 @@ msgstr "I Miei Avvisi"
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "I miei checkin"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -1004,7 +1005,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "Questa è una categoria speciale, che gli utenti non vedranno nel form di inserimento segnalazioni. Questo serve per lasciare le segnalazioni senza categoria, come risultato della cancellazione di una categoria."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1049,7 +1050,7 @@ msgstr ""
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID's"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1079,7 +1080,7 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "La pagina che cercavi non è stata trovata.<p><strong>Hai cliccato su un link da qualche parte su questo sito?</strong><br />Se hai raggiunto questo link da una pagina di questo sito, <a href=\"%s\">contattaci</a> per correggere l'errore.</p><p><strong>Hai cliccato su un link su un altro sito?</strong><br />I link sui siti esterni possono essere non aggiornati o contenere errori. <a href=\"%s\">Scrivici</a> da quale sito hai raggiunto questa pagina, così possiamo provare a contattare l'altro sito per sistemare il problema.</p><p><strong>Hai scritto l'URL?</strong><br />Puoi averlo scritto male. Verifica di averlo scritto correttamente, con le maiuscole corrette, ecc...</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
@@ -1183,7 +1184,7 @@ msgstr "A"
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "Liste pubbliche"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
@@ -1208,7 +1209,7 @@ msgstr "Titolo Report"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Data della segnalazione"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1260,7 +1261,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Questa email ha già un account amministrato da CrowdmapID. L'utente dovrà utilizzare la propria password di Crowdmap per accedere."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1287,7 +1288,7 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "La chiave crittografica è ancora impostata al suo valore di default. Per aumentare la sicurezza,  deve essere cambiata"
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
@@ -1314,7 +1315,7 @@ msgstr "Seleziona un elemento"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "Devi selezionare un Trigger prima di selezionare una Risposta"
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
@@ -1339,7 +1340,7 @@ msgstr "Questo messaggio è stato inviato dal tuo sito "
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Ora del server"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1372,7 +1373,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "Questa è una categoria speciale, che gli utenti non vedono nel form di segnalazione. E' usata insieme alla caratteristica \"Trusted Reporters\""
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1462,17 +1463,17 @@ msgstr "Traduci segnalazioni"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "Trigger"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "Utente che attiva il trigger"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "Trigger"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
@@ -1532,7 +1533,7 @@ msgstr "Utenti"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
