@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-12 06:11+0000\n"
-"PO-Revision-Date: 2012-10-15 12:00+0000\n"
+"POT-Creation-Date: 2012-11-13 06:11+0000\n"
+"PO-Revision-Date: 2012-11-13 06:05+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -197,6 +197,16 @@ msgstr "至少要定义一个角色"
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
 msgstr "必须选择 ADMIN 或 USER 中的一个角色."
+
+#: auth.token.invalid
+msgctxt "auth.token.invalid"
+msgid "The forgotten password token is invalid"
+msgstr ""
+
+#: auth.token.required
+msgctxt "auth.token.required"
+msgid "Forgotten password token was required"
+msgstr ""
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
