@@ -1,11 +1,13 @@
 # 
 # Translators:
+#   <papia567@yahoo.gr>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-14 06:10+0000\n"
-"PO-Revision-Date: 2012-06-07 02:49+0000\n"
+"POT-Creation-Date: 2012-11-15 06:10+0000\n"
+"PO-Revision-Date: 2012-11-15 21:09+0000\n"
+"Last-Translator: headofthebored <papia567@yahoo.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,44 +19,44 @@ msgstr ""
 msgctxt "roles.description.length"
 msgid ""
 "The Description field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Το πεδίο Περιγραφή θα πρέπει να είναι τουλάχιστον 3 και όχι περισσότερο από 100 χαρακτήρες."
 
 #: roles.description.required
 msgctxt "roles.description.required"
 msgid "The Description field is required."
-msgstr ""
+msgstr "Το πεδίο Περιγραφή είναι απαραίτητο."
 
 #: roles.name.alpha_numeric
 msgctxt "roles.name.alpha_numeric"
 msgid "The Name field must only contain letters or numbers."
-msgstr ""
+msgstr "Το πεδίο Όνομα πρέπει να περιέχει μόνο γράμματα ή αριθμούς."
 
 #: roles.name.length
 msgctxt "roles.name.length"
 msgid "The Name field must be at least 2 and no more than 30 characters long."
-msgstr ""
+msgstr "Το πεδίο Όνομα πρέπει να είναι τουλάχιστον 2 και όχι περισσότερο από 30 χαρακτήρες"
 
 #: roles.name.nomodify
 msgctxt "roles.name.nomodify"
 msgid "SuperAdmin Role Cannot Be Modified."
-msgstr ""
+msgstr "Ο ρόλος Superadmin δεν μπορεί να τροποποιηθεί."
 
 #: roles.name.required
 msgctxt "roles.name.required"
 msgid "The Name field is required."
-msgstr ""
+msgstr "Το πεδίο Όνομα είναι απαραίτητο."
 
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "Το πεδίο Επίπεδο Πρόσβασης πρέπει να είναι ένας αριθμός μεταξύ 0 - 100."
 
 #: roles.access_level.required
 msgctxt "roles.access_level.required"
 msgid "Access Level field must be a number between 0 - 100."
-msgstr ""
+msgstr "Το πεδίο Επίπεδο Πρόσβασης πρέπει να είναι ένας αριθμός μεταξύ 0 - 100."
 
 #: roles.permissions.numeric
 msgctxt "roles.permissions.numeric"
 msgid "Permissions field must be a number between 0 - 100."
-msgstr ""
+msgstr "Το πεδίο Δικαιώματα πρέπει να είναι ένας αριθμός μεταξύ 0 - 100."
