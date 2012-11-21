@@ -1,13 +1,14 @@
 # 
 # Translators:
+#   <abbas@zabatak.com>, 2012.
 # Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-19 06:11+0000\n"
-"PO-Revision-Date: 2012-11-13 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-11-20 06:11+0000\n"
+"PO-Revision-Date: 2012-11-20 13:06+0000\n"
+"Last-Translator: abbasadel <abbas@zabatak.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -145,7 +146,7 @@ msgstr "هناك مشكلة فى السيرفير. أعد المحاولة"
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
@@ -202,12 +203,12 @@ msgstr ".يجب أن تختار مهمة مسئول إداري أو مستخدم
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr ""
+msgstr "رمز استرداد كلمة المرور غير صحيح"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr ""
+msgstr "مطلوب رمز لاسترداد كلمة المرور"
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
