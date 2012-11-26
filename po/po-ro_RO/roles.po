@@ -1,25 +1,30 @@
-#. extracted from en_US/roles.php, ro_RO/roles.php
+# 
+# Translators:
+# Monica Ipate <monica.ipate@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi-Localizations\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-11-25 06:11+0000\n"
+"PO-Revision-Date: 2012-11-23 21:36+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: roles.description.length
 msgctxt "roles.description.length"
-msgid "The Description field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgid ""
+"The Description field must be at least 3 and no more 100 characters long."
+msgstr "Câmpul descriere trebuie să aibă cel puțin 3 dar nu mai mult de 100 de caractere lungime."
 
 #: roles.description.required
 msgctxt "roles.description.required"
 msgid "The Description field is required."
-msgstr ""
+msgstr "Este necesar câmpul descriere."
 
 #: roles.name.alpha_numeric
 msgctxt "roles.name.alpha_numeric"
@@ -39,7 +44,7 @@ msgstr ""
 #: roles.name.required
 msgctxt "roles.name.required"
 msgid "The Name field is required."
-msgstr ""
+msgstr "Este necesar câmpul nume."
 
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"
@@ -55,4 +60,3 @@ msgstr ""
 msgctxt "roles.permissions.numeric"
 msgid "Permissions field must be a number between 0 - 100."
 msgstr ""
-

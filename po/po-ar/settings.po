@@ -1,13 +1,15 @@
 # 
 # Translators:
+#   <abbas@zabatak.com>, 2012.
+#   <eng.ahmedzekry@gmail.com>, 2012.
 # Farid Boushra <>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-12 06:11+0000\n"
-"PO-Revision-Date: 2012-08-19 22:41+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2012-11-25 06:11+0000\n"
+"PO-Revision-Date: 2012-11-21 11:04+0000\n"
+"Last-Translator: AhmedZekry <eng.ahmedzekry@gmail.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -64,7 +66,7 @@ msgstr "The stat sharing field does not appear to contain a valid value?"
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "حقل ابدأ المشاركة مطلوب"
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -142,12 +144,12 @@ msgstr "هذه الخاصية تمكن من الولوج إلى أوشاهيدى
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "تشغيل الروابط النظيفة"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "الروابط النظيفة"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
@@ -214,7 +216,7 @@ msgstr "الرؤية الأصلية للخريطة"
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "مستوى التقريب الافتراضي"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
@@ -288,12 +290,12 @@ msgstr "لكى تحصل على المعلومات بالاسفل يجب ان ت�
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebook App Secret"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -305,7 +307,7 @@ msgstr "حقل تحليات جوجل يجب ان تحتوى على هوية صح
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "تشغيل HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -324,7 +326,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -359,7 +361,7 @@ msgstr "Setting up your map provider is a straight- forward process. Select a pr
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "مستوى التقريب"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
@@ -411,7 +413,7 @@ msgstr "الدولة الأصلية"
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "اضغط واسحب الخريطة لتحدد مكانك"
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
@@ -673,7 +675,7 @@ msgstr ""
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "Clickatell  كلمة المرور"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -706,7 +708,7 @@ msgstr ""
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download Frontline SMS and install it on your computer"
-msgstr ""
+msgstr "نزل وحمل Frontline SMS على جهازك"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -721,42 +723,42 @@ msgstr "Messages received into a FrontlineSMS hub can be synched with Ushahidi. 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Your Ushahidi Sync Key"
-msgstr ""
+msgstr "Your Ushahidi Sync Key"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "FrontlineSMS HTTP Post LINK"
-msgstr ""
+msgstr "FrontlineSMS HTTP Post LINK"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Sync with Ushahidi"
-msgstr ""
+msgstr "مزامنة مع أوشاهيدي"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr ""
+msgstr "أدخل رقم (أرقام) الهاتف المتصلة ب Frontline SMS في الحقول ادناه"
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
-msgstr ""
+msgstr "أدخل رقم دون أي + أو شرطات أدناه"
 
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr ""
+msgstr "الأختيار 1: استخدم Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr ""
+msgstr "الأختيار 2: استخدم Global SMS Gateway"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "خيارات تشغيل خدمة الرسائل القصيرة"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
