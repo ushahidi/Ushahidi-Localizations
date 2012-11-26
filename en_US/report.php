@@ -26,6 +26,10 @@ $lang = array(
 		'numeric' => 'Please select a valid type of report to download.',
 		'required' => 'Please select a valid type of report to download.',
 	) ,
+	'format' => array(
+		'required' => 'You must select a download format. Select either CSV or XML.',
+		'valid' => 'Please select a valid format to download your reports in',
+	),
 	'from_date' => array(
 		'date_mmddyyyy' => 'The FROM date field does not appear to contain a valid date.',
 		'range' => 'Please enter a valid FROM date. It cannot be greater than today.',

@@ -251,6 +251,7 @@ $lang = array(
 	'security_info_encryption_key' => 'The encryption key is still set to the default value. This is insecure and must be changed.',
 	'security_info_https' => 'This site being served over HTTP. This should be set to HTTPS for increased security.',
 	'security_info_instructions' => 'Instructions are available on the wiki: ',
+	'select_download_format' => 'Select your desired reports download format:-',
 	'select_field_type' => '--- Select A Field Type ---',
 	'select_item' => 'Please select an item',
 	'select_trigger_before_response' => 'You must select a Trigger before you can select a Response.',
@@ -307,6 +308,7 @@ $lang = array(
 	'view_report' => 'View Report',
 	'welcome' => 'Welcome, ',
 	'wiki' => 'Wiki',
+	'xml' => 'XML',
 	'yes' => 'Yes',
 	'your_search_for' => 'Your search for',
 );
