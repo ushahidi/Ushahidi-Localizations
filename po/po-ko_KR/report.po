@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-26 06:11+0000\n"
-"PO-Revision-Date: 2012-09-01 23:31+0000\n"
-"Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
+"POT-Creation-Date: 2012-11-27 06:11+0000\n"
+"PO-Revision-Date: 2012-11-27 06:05+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -92,6 +92,16 @@ msgstr "다운로드할 정확한 타입의 리포트를 선택하세요."
 msgctxt "report.data_point.required"
 msgid "Please select a valid type of report to download."
 msgstr "다운로드할 정확한 타입의 리포트를 선택하세요."
+
+#: report.format.required
+msgctxt "report.format.required"
+msgid "You must select a download format. Select either CSV or XML."
+msgstr ""
+
+#: report.format.valid
+msgctxt "report.format.valid"
+msgid "Please select a valid format to download your reports in"
+msgstr ""
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"

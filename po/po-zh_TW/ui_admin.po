@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-26 06:11+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
+"POT-Creation-Date: 2012-11-27 06:11+0000\n"
+"PO-Revision-Date: 2012-11-27 06:06+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -1300,6 +1300,11 @@ msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
 msgstr "維基(Wiki)說明: "
 
+#: ui_admin.select_download_format
+msgctxt "ui_admin.select_download_format"
+msgid "Select your desired reports download format:-"
+msgstr ""
+
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
@@ -1582,6 +1587,11 @@ msgstr "歡迎, "
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
 msgstr "維基 Wiki"
+
+#: ui_admin.xml
+msgctxt "ui_admin.xml"
+msgid "XML"
+msgstr ""
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
