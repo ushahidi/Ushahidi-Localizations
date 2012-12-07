@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-05 06:11+0000\n"
-"PO-Revision-Date: 2012-11-27 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-12-06 06:11+0000\n"
+"PO-Revision-Date: 2012-12-06 17:15+0000\n"
+"Last-Translator: Juergen Eichholz <jke@kikuyumoja.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,14 +39,14 @@ msgstr "Du verfügst nicht über die nötigen Rechte, um diese Aktion durchzufü
 #: reports.uploadfile.required
 msgctxt "reports.uploadfile.required"
 msgid "You must select a file to upload"
-msgstr ""
+msgstr "Du musst ein Feld zum Hochladen auswählen."
 
 #: reports.uploadfile.type
 msgctxt "reports.uploadfile.type"
 msgid "The upload file must either be of .csv or .xml format"
-msgstr ""
+msgstr "Die hochzuladende Datei muss entweder im .csv oder .xml Format vorliegen."
 
 #: reports.uploadfile.valid
 msgctxt "reports.uploadfile.valid"
 msgid "The file upload field does not seem to contain a valid file"
-msgstr ""
+msgstr "Die hochzulandende Datei ist ungültig."
