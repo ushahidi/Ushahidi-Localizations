@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-07 06:11+0000\n"
-"PO-Revision-Date: 2012-11-14 06:06+0000\n"
+"POT-Creation-Date: 2012-12-08 06:11+0000\n"
+"PO-Revision-Date: 2012-12-08 06:06+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2773,6 +2773,21 @@ msgctxt "ui_main.upload"
 msgid "Upload"
 msgstr "Качи"
 
+#: ui_main.upload_guide
+msgctxt "ui_main.upload_guide"
+msgid "View our report upload guides:-"
+msgstr ""
+
+#: ui_main.upload_docs_1
+msgctxt "ui_main.upload_docs_1"
+msgid "XML Upload guide"
+msgstr ""
+
+#: ui_main.upload_docs_2
+msgctxt "ui_main.upload_docs_2"
+msgid "CSV Upload guide"
+msgstr ""
+
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
@@ -2799,15 +2814,15 @@ msgstr "С този формуляр може да въвеждате сигна
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
-msgid "Reports must be uploaded in CSV format."
+msgid "Reports must be uploaded in either CSV or XML format."
 msgstr ""
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
-"When incident ID already exists in the database, the entry in the CSV file "
-"will be ignored."
-msgstr "Като номер на инцидент вече присъства в системата, този запис ще бъде прескочен"
+"When incident ID already exists in the database, the entry in the CSV/XML "
+"file will be ignored."
+msgstr ""
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
