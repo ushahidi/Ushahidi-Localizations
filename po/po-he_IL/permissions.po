@@ -1,103 +1,106 @@
-#. extracted from en_US/permissions.php, he_IL/permissions.php
+# 
+# Translators:
+#   <jdrori@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:39+0000\n"
-"PO-Revision-Date: 2012-08-15 04:39+0000\n"
+"Project-Id-Version: Ushahidi Web\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-12-08 06:11+0000\n"
+"PO-Revision-Date: 2012-11-29 07:19+0000\n"
+"Last-Translator: דרור האספי <jdrori@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: permissions.reports_view
 msgctxt "permissions.reports_view"
 msgid "View Reports"
-msgstr ""
+msgstr "צפה בדו\"חות"
 
 #: permissions.reports_edit
 msgctxt "permissions.reports_edit"
 msgid "Create/Edit/Delete Reports"
-msgstr ""
+msgstr "צור/ערוך/מחק דו\"חות"
 
 #: permissions.reports_approve
 msgctxt "permissions.reports_approve"
 msgid "Approve Reports"
-msgstr ""
+msgstr "אשר דו\"חות"
 
 #: permissions.reports_verify
 msgctxt "permissions.reports_verify"
 msgid "Verify Reports"
-msgstr ""
+msgstr "אמת דו\"חות"
 
 #: permissions.reports_comments
 msgctxt "permissions.reports_comments"
 msgid "Manage Report Comments"
-msgstr ""
+msgstr "נהל דו\"חות תגובות"
 
 #: permissions.reports_download
 msgctxt "permissions.reports_download"
 msgid "Download Reports"
-msgstr ""
+msgstr "הורד דו\"חות"
 
 #: permissions.reports_upload
 msgctxt "permissions.reports_upload"
 msgid "Upload Reports"
-msgstr ""
+msgstr "העלה דו\"חות"
 
 #: permissions.messages
 msgctxt "permissions.messages"
 msgid "Manage Messages"
-msgstr ""
+msgstr "נהל מסרים"
 
 #: permissions.messages_reporters
 msgctxt "permissions.messages_reporters"
 msgid "Manage Message Reporters"
-msgstr ""
+msgstr "נהל דו\"חות הודעות"
 
 #: permissions.stats
 msgctxt "permissions.stats"
 msgid "View Stats"
-msgstr ""
+msgstr "צפה בסטטיסטיקות"
 
 #: permissions.settings
 msgctxt "permissions.settings"
 msgid "Modify Settings"
-msgstr ""
+msgstr "שנה הגדרות"
 
 #: permissions.manage
 msgctxt "permissions.manage"
 msgid "Manage Panel"
-msgstr ""
+msgstr "לוח ניהול"
 
 #: permissions.users
 msgctxt "permissions.users"
 msgid "Manage Users"
-msgstr ""
+msgstr "נהל משתמשים"
 
 #: permissions.manage_roles
 msgctxt "permissions.manage_roles"
 msgid "Manage Roles"
-msgstr ""
+msgstr "נהל תפקידים"
 
 #: permissions.checkin
 msgctxt "permissions.checkin"
 msgid "Can checkin"
-msgstr ""
+msgstr "יכול להירשם"
 
 #: permissions.checkin_admin
 msgctxt "permissions.checkin_admin"
 msgid "Manage checkins"
-msgstr ""
+msgstr "נהל הרשמות"
 
 #: permissions.admin_ui
 msgctxt "permissions.admin_ui"
 msgid "Access Admin UI"
-msgstr ""
+msgstr "לגשת לממשק אדמין"
 
 #: permissions.member_ui
 msgctxt "permissions.member_ui"
 msgid "Access Members UI"
-msgstr ""
-
+msgstr "לגשת לממשק חברים"

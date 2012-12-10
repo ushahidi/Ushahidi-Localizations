@@ -3,10 +3,10 @@
 #   <ivan.schepens@wynns.be>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
+"Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-25 06:11+0000\n"
-"PO-Revision-Date: 2012-10-15 12:01+0000\n"
+"POT-Creation-Date: 2012-12-08 06:11+0000\n"
+"PO-Revision-Date: 2012-11-27 06:06+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -1301,6 +1301,11 @@ msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
 msgstr ""
 
+#: ui_admin.select_download_format
+msgctxt "ui_admin.select_download_format"
+msgid "Select your desired reports download format:-"
+msgstr ""
+
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
@@ -1582,6 +1587,11 @@ msgstr "Welkom, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
+msgstr ""
+
+#: ui_admin.xml
+msgctxt "ui_admin.xml"
+msgid "XML"
 msgstr ""
 
 #: ui_admin.yes

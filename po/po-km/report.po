@@ -2,10 +2,10 @@
 # Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
+"Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-11-25 06:11+0000\n"
-"PO-Revision-Date: 2012-07-12 21:05+0000\n"
+"POT-Creation-Date: 2012-12-08 06:11+0000\n"
+"PO-Revision-Date: 2012-11-27 06:05+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -91,6 +91,16 @@ msgstr ""
 #: report.data_point.required
 msgctxt "report.data_point.required"
 msgid "Please select a valid type of report to download."
+msgstr ""
+
+#: report.format.required
+msgctxt "report.format.required"
+msgid "You must select a download format. Select either CSV or XML."
+msgstr ""
+
+#: report.format.valid
+msgctxt "report.format.valid"
+msgid "Please select a valid format to download your reports in"
 msgstr ""
 
 #: report.from_date.date_mmddyyyy
