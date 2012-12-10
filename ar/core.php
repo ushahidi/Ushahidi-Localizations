@@ -28,6 +28,7 @@ $lang = array(
 	'stack_trace' => 'تتبع الكومة ',
 	'stats_footer' => 'تم التحميل في  {execution_time} ثانية, باستخدام {memory_usage} من الذاكرة. المصدر يوشاهيدي النسخة رقم %s.',
 	'there_can_be_only_one' => 'يجب ان يكون هناك طلب واحد فقط لأوشاهيدى للصفحة الواحدة',
+	'text_direction' => 'rtl',
 	'uncaught_exception' => 'مشكلة %s: %s في الملف %s في السطر %s',
 	'view' => 'معاينة',
 	'view_set_filename' => 'You must set the the view filename before calling render',
