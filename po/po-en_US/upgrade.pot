@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
+"POT-Creation-Date: 2012-12-10 03:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -206,8 +206,8 @@ msgctxt "upgrade.log_file"
 msgid "Log File"
 msgstr ""
 
-#: upgrade.successfully_downloaded 
-msgctxt "upgrade.successfully_downloaded "
+#: upgrade.successfully_downloaded
+msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
 msgstr ""
 
@@ -260,4 +260,3 @@ msgstr ""
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
 msgstr ""
-
