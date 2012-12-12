@@ -2,14 +2,15 @@
 # Translators:
 #   <abbas@zabatak.com>, 2012.
 # Farid Boushra <>, 2012.
+#   <fboushra@gmail.com>, 2012.
 #   <tayachi.wajdi@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2012-12-11 10:48+0000\n"
+"Last-Translator: faridboushra <fboushra@gmail.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,7 +47,7 @@ msgstr "الإجراءات"
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr "ا يمكن التراجع عن هذا الإجراء. هل متأكد من رغبتك في الاستمرار؟"
+msgstr "لا يمكن التراجع عن هذا الإجراء. هل متأكد من رغبتك في الاستمرار؟"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
@@ -121,7 +122,7 @@ msgstr "استقبل تنبيهات"
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr ":إعلمني إذا تم ملء تقرير، أو عند المحاولة"
+msgstr "إعلمني إذا تم ملء تقرير، أو عند المحاولة:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
@@ -170,7 +171,7 @@ msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr "إذا لم تستطع معرفة مكانك. حدد المكان الصحيح على الخريطة."
+msgstr "إذا لم تستطع معرفة مكانك. فضلا انقر على مكانك الصحيح بالخريطة."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -185,12 +186,12 @@ msgstr "إختر مدينة"
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr "<strong> :الخطوة الاولى</strong>:إختر مدينتك او موقعك"
+msgstr "<strong> الخطوة الاولى:</strong>إختر مدينتك او موقعك:"
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong> :الخطوة الثانية</strong>:إرسل التنبيهات إلي"
+msgstr "<strong> الخطوة الثانية:</strong>إرسل التنبيهات إلي:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
@@ -285,12 +286,12 @@ msgstr "على"
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr "المحرر"
+msgstr "الكاتب"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr "التسجيل الآلي"
+msgstr "دخول تلقائى"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -582,7 +583,7 @@ msgstr "تاريخ"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr "(سنة/يوم/شهر)"
+msgstr "(mm/dd/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -662,7 +663,7 @@ msgstr "تنازلي"
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr "مثال: زاوية سوق المدينة، الشارع الخامس الحي الرابع، مدينة نصر"
+msgstr "مثال: قصر الاتحادية شارع المرغنى مصر الجديدة القاهرة"
 
 #: ui_main.details
 msgctxt "ui_main.details"

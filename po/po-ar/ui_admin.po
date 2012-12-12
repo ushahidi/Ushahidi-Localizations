@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-09 21:01+0000\n"
+"PO-Revision-Date: 2012-12-11 10:38+0000\n"
 "Last-Translator: faridboushra <fboushra@gmail.com>\n"
 "Language-Team: Arabic (http://www.transifex.com/projects/p/ushahidi-localizations/language/ar/)\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr "ممنوع الدخول. إما بيانات اعتمادك غير سليمة أو تم رفض طلبك"
+msgstr "ممنوع الدخول. إما بيانات دخولك غير سليمة أو تم رفض طلبك"
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
@@ -321,7 +321,7 @@ msgstr "ترقية هامة"
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr "CVS"
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
@@ -347,7 +347,7 @@ msgstr "يومي"
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr "لوحة القيادة"
+msgstr "لوحة التحكم"
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
@@ -377,7 +377,7 @@ msgstr "ايام الاسبوع"
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr "نسخة قاعدة البيانات لسة متزامنة"
+msgstr "نسخة قاعدة البيانات ليست متزامنة"
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
@@ -397,7 +397,7 @@ msgstr "حذف الكل"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr "امسح بادج"
+msgstr "امسح البادج"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
@@ -442,7 +442,7 @@ msgstr "اختيارات من قائمة منسدلة"
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr "معدلة"
+msgstr "تم تحريرها"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -477,7 +477,7 @@ msgstr "!خطأ في التشفير الجغرافي HTTP error"
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
-msgstr "مكتبة IMAP PHP لسة موجودة"
+msgstr "مكتبة IMAP PHP ليست موجودة"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -567,7 +567,7 @@ msgstr "الارتفاع للصفوف"
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr "حقوق مخفية"
+msgstr "حقول مخفية"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
@@ -592,12 +592,12 @@ msgstr "لا"
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr "نعم, اغلف الافتراضى"
+msgstr "نعم, اغلق كأفتراضى"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr "نعم, افتح الافتراضى"
+msgstr "نعم, افتح كأفتراضى"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -667,7 +667,7 @@ msgstr "أحصل على مساعدة"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr "أحصل علي مزيد من الموضوعات"
+msgstr "أحصل علي مزيد من القوالب"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
@@ -724,7 +724,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr "ملف المثبت مازال موجودا. إحذف ملف المثبت فهو ثغرة أمنية محتملة"
+msgstr "ملف التثبيت مازال موجودا. إحذف ملف المثبت فهو ثغرة أمنية محتملة"
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -784,22 +784,22 @@ msgstr "عنوان البريد الإلكتروني:"
 #: ui_admin.label_full_name
 msgctxt "ui_admin.label_full_name"
 msgid "Full Name:"
-msgstr ":الاسم بالكامل"
+msgstr "الاسم بالكامل:"
 
 #: ui_admin.label_password
 msgctxt "ui_admin.label_password"
 msgid "Password:"
-msgstr ":كلمة المرور"
+msgstr "كلمة المرور:"
 
 #: ui_admin.label_role
 msgctxt "ui_admin.label_role"
 msgid "Role:"
-msgstr ":الدور/الوظيفة"
+msgstr "الدور/الوظيفة:"
 
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
 msgid "Username:"
-msgstr ":اسم المستخدم"
+msgstr "اسم المستخدم:"
 
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
@@ -809,7 +809,7 @@ msgstr "طبقات"
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr "وسيط"
+msgstr "مسئول"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
@@ -844,7 +844,7 @@ msgstr "أضف / تعديل مستخدم"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr "تحكم في نشرموقعك "
+msgstr "تحكم في نشر موقعك "
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
@@ -879,7 +879,7 @@ msgstr "الرسائل"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr "Laconica رسائل"
+msgstr "رسائل لاكونيكا"
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
@@ -914,7 +914,7 @@ msgstr "إحداثيات مفقودة"
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr "الوسيط"
+msgstr "مسئول"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
@@ -944,7 +944,7 @@ msgstr "Multiple Hosted Instances"
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr "نتبيهاتى"
+msgstr "تنبيهاتى"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
@@ -954,7 +954,7 @@ msgstr "سجل دخولى"
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
 msgid "My Profile"
-msgstr "ملفاتى الشخصية"
+msgstr "بروفايلى"
 
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
@@ -1119,7 +1119,7 @@ msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr "لتغيير كلمة المرور, أنقر على الرابط التالى (أو قم بالنسخ واللصق في المتصفح الخاص )بك"
+msgstr "لتغيير كلمة المرور, أنقر على الرابط التالى (أو قم بالنسخ واللصق في المتصفح الخاص) بك"
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
@@ -1246,7 +1246,7 @@ msgstr "إعادة تعيين"
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr "مسئول"
+msgstr "استجابة"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1307,7 +1307,7 @@ msgstr "التعليمات متاحة فى الويكى:"
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "اختار التنسيق المطلوب لتحميل التقارير:-"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1405,7 +1405,7 @@ msgstr "إحصائيات"
 #: ui_admin.stats_collection_error
 msgctxt "ui_admin.stats_collection_error"
 msgid "Stat collection failed! Please try again later."
-msgstr "فشلت محاولة جمع الإحصائيات! إما خادم الإحصائيات الخاص بنا به عطل الآن أو هناك خطأ ما في تنفيذك ليوشاهيدي. حاول مرة أخرى بعد قليل لتتأكد أن الخادم يعمل لدينا. لإعادة تشغيل الإحصائيات يدوياً، عدل \nstat_id = قيمة فارغة \nstat_key = 0\nفي جدول الضبط بقاعدة البيانات الخاصة بك. تحذير: سوف تفقد امتياز الدخول للإحصائيات إذا فعلت ذلك"
+msgstr "فشلت محاولة جمع الإحصائيات! حاول مرة أخرى بعد قليل."
 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
@@ -1425,7 +1425,7 @@ msgstr "عنوان"
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr "الإدارى الأعلى"
+msgstr "المدير الأعلى"
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
@@ -1515,12 +1515,12 @@ msgstr " أنقر هنا للتحديث الآن"
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr "تحديث يوشاهيدي"
+msgstr "ترقية يوشاهيدي"
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr "تحديث حالة يوشاهيدي"
+msgstr "ترقية حالة يوشاهيدي"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
@@ -1560,7 +1560,7 @@ msgstr "الإصدار"
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
-msgstr " متاح للتحديث"
+msgstr " متاح للترقية"
 
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
@@ -1595,7 +1595,7 @@ msgstr "ويكي"
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

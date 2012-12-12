@@ -1,13 +1,15 @@
 # 
 # Translators:
+# APC & Open Institute < techinfo@apc.org ; Vannak Aphimongkul Eng <vannak.eng@gmail.com>, 2012.
+#   <techinfo@apc.org>, 2012.
 # Vantharith Oum <vantharith.oum@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2012-12-11 12:45+0000\n"
+"Last-Translator: apctech <techinfo@apc.org>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,7 +71,7 @@ msgstr ""
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "ព័ត៌មាន​បន្ថែម"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -114,7 +116,7 @@ msgstr ""
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr ""
+msgstr "យក​ការ​ជូន​ដំណឹង​"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
@@ -129,7 +131,7 @@ msgstr ""
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
 msgid "Email address:"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល:"
 
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
@@ -144,7 +146,7 @@ msgstr ""
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr ""
+msgstr "យក​ការ​ជូន​ដំណឹង​"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
@@ -208,7 +210,7 @@ msgstr ""
 #: ui_main.all
 msgctxt "ui_main.all"
 msgid "All"
-msgstr ""
+msgstr "ទាំង​អស់​"
 
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
@@ -218,7 +220,7 @@ msgstr ""
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
 msgid "All Categories"
-msgstr ""
+msgstr "ប្រភេទ​ទាំងអស់"
 
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
@@ -253,7 +255,7 @@ msgstr ""
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr ""
+msgstr "អនុម័ត​របាយការណ៍​នេ"
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
@@ -348,7 +350,7 @@ msgstr ""
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "បោះ​បង់​"
 
 #: ui_main.categories
 msgctxt "ui_main.categories"
@@ -358,7 +360,7 @@ msgstr ""
 #: ui_main.category
 msgctxt "ui_main.category"
 msgid "Category"
-msgstr ""
+msgstr "ប្រភេទ"
 
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
@@ -378,7 +380,7 @@ msgstr ""
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "ផ្លាស់ប្ដូរ​ជួរ​កាល​បរិច្ឆេទ"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
@@ -423,7 +425,7 @@ msgstr ""
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "ជម្រះ​ផែន​ទី​"
 
 #: ui_main.close
 msgctxt "ui_main.close"
@@ -448,7 +450,7 @@ msgstr ""
 #: ui_main.comments
 msgctxt "ui_main.comments"
 msgid "Comments"
-msgstr ""
+msgstr "មតិ"
 
 #: ui_main.comment_details
 msgctxt "ui_main.comment_details"
@@ -480,22 +482,22 @@ msgstr ""
 #: ui_main.contact
 msgctxt "ui_main.contact"
 msgid "Contact Us"
-msgstr ""
+msgstr "ទំនាក់ទំនង​យើង"
 
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "លេខ​កូដ​សុវត្ថិភាព"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "សារ"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
@@ -505,22 +507,22 @@ msgstr ""
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr ""
+msgstr "ឈ្មោះ​របស់​អ្នក"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr ""
+msgstr "លេខ​ទូរស័ព្ទ​របស់​អ្នក"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr ""
+msgstr "ផ្ញើសារ"
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr ""
+msgstr "ប្រធាន​បទ​សារ"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
@@ -555,7 +557,7 @@ msgstr ""
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
 msgid "Credibility"
-msgstr ""
+msgstr "ភាពគួរជឿបាន"
 
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
@@ -565,7 +567,7 @@ msgstr ""
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "វាល​ផ្ទាល់​ខ្លួន"
 
 #: ui_main.data
 msgctxt "ui_main.data"
@@ -575,7 +577,7 @@ msgstr ""
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr ""
+msgstr "កាល​បរិច្ឆេទ​"
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
@@ -585,7 +587,7 @@ msgstr ""
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "កាល​បរិច្ឆេទ និង​ពេល​វេលា"
 
 #: ui_main.day
 msgctxt "ui_main.day"
@@ -625,7 +627,7 @@ msgstr ""
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "លុប​ចុង​ក្រោយ​​"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
@@ -635,7 +637,7 @@ msgstr ""
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "លុប​ដែល​បាន​ជ្រើស​"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -650,7 +652,7 @@ msgstr ""
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr ""
+msgstr "ពិពណ៌នា"
 
 #: ui_main.descending
 msgctxt "ui_main.descending"
@@ -710,12 +712,12 @@ msgstr ""
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីមែល"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល"
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
@@ -827,7 +829,7 @@ msgstr ""
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "តំណ​វីដេអូ​ខាង​ក្រៅ​​"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -879,7 +881,7 @@ msgstr ""
 #: ui_main.file
 msgctxt "ui_main.file"
 msgid "File"
-msgstr ""
+msgstr "ឯកសារ"
 
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
@@ -894,17 +896,17 @@ msgstr ""
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "ត្រង​របាយការណ៍"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "ត្រង​របាយការណ៍"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "ត្រង​របាយការណ៍​ដែល​មានខ្លឹមសារ​"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -914,12 +916,12 @@ msgstr ""
 #: ui_main.find_location
 msgctxt "ui_main.find_location"
 msgid "Find Location"
-msgstr ""
+msgstr "រក​ទី​តាំង"
 
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
 msgid "First Name"
-msgstr ""
+msgstr "នាម​"
 
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
@@ -934,7 +936,7 @@ msgstr ""
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr ""
+msgstr "ទំរង់​បែប​បទ"
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
@@ -1034,7 +1036,7 @@ msgstr ""
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr ""
+msgstr "ដើម"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
@@ -1149,7 +1151,7 @@ msgstr ""
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr ""
+msgstr "ការ​វាយ​តម្លៃ​ព័ត៌មាន​​"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
@@ -1246,7 +1248,7 @@ msgstr ""
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr "គោត្តនាម"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
@@ -1256,7 +1258,7 @@ msgstr ""
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "រយៈទទឹង​"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
@@ -1286,7 +1288,7 @@ msgstr ""
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "ផ្ដល់​មតិ"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
@@ -1321,7 +1323,7 @@ msgstr ""
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "បញ្ជី"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
@@ -1331,17 +1333,17 @@ msgstr ""
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "ទីតាំង"
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "ទីតាំង​"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "ទីក្រុង រដ្ឋ និង/ឬ ប្រទេស"
 
 #: ui_main.login
 msgctxt "ui_main.login"
@@ -1414,12 +1416,12 @@ msgstr ""
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "រយៈបណ្ដោយ​"
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "ផែន​ទី"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
@@ -1439,7 +1441,7 @@ msgstr ""
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "ប្រព័ន្ធ​ផ្សព្វផ្សាយ"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
@@ -1521,7 +1523,7 @@ msgstr ""
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr ""
+msgstr "ឈ្មោ"
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
@@ -1536,7 +1538,7 @@ msgstr ""
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr ""
+msgstr "ព័ត៌មាន"
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
@@ -1551,7 +1553,7 @@ msgstr ""
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "ប្រភេទ​ថ្មី​"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
@@ -1561,7 +1563,7 @@ msgstr ""
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr ""
+msgstr "របាយការណ៍​ថ្មី"
 
 #: ui_main.next
 msgctxt "ui_main.next"
@@ -1571,7 +1573,7 @@ msgstr ""
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "ទេ​"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
@@ -1636,7 +1638,7 @@ msgstr ""
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr ""
+msgstr "ព័ត៌មាន​ផ្លូវ​ការ​ រឺ បញ្ជ្រាប​"
 
 #: ui_main.on
 msgctxt "ui_main.on"
@@ -1821,7 +1823,7 @@ msgstr ""
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr ""
+msgstr "ព័ត៌មាន​ផ្ទាល់​ខ្លួន​គឺ​ស្រេច​ចិត្ត​"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
@@ -1831,12 +1833,12 @@ msgstr ""
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "រូបថត"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr ""
+msgstr "រូប​ភាព​"
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
@@ -1974,7 +1976,7 @@ msgstr ""
 #: ui_main.report
 msgctxt "ui_main.report"
 msgid "Report"
-msgstr ""
+msgstr "របាយការណ៍"
 
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
@@ -2049,7 +2051,7 @@ msgstr ""
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
-msgstr ""
+msgstr "ដាក់ស្នើ"
 
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
@@ -2069,7 +2071,7 @@ msgstr ""
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
 msgid "Date"
-msgstr ""
+msgstr "កាល​បរិច្ឆេទ​"
 
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
@@ -2084,7 +2086,7 @@ msgstr ""
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីមែល"
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
@@ -2094,37 +2096,37 @@ msgstr ""
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
-msgstr ""
+msgstr "រក​ទំតាំង​ដែល​នៅ​ជិត​អ្នក"
 
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
 msgid "First Name"
-msgstr ""
+msgstr "នាម"
 
 #: ui_main.reports_last
 msgctxt "ui_main.reports_last"
 msgid "Last Name"
-msgstr ""
+msgstr "គោត្តនាម"
 
 #: ui_main.reports_location_name
 msgctxt "ui_main.reports_location_name"
 msgid "Location Name"
-msgstr ""
+msgstr "ឈ្មោះ​ទីតាំង"
 
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr ""
+msgstr "តំណ​ប្រភព​ព័ត៌មាន"
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
-msgstr ""
+msgstr "ព័ត៌មាន​ជា​ជម្រើស"
 
 #: ui_main.reports_photos
 msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
-msgstr ""
+msgstr "ផ្ទុក​រូប​ភាព​ឡើង​"
 
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
@@ -2161,7 +2163,7 @@ msgstr ""
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
 msgid "Report Title"
-msgstr ""
+msgstr "ចំណង​ជើង​របាយការណ៍"
 
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
@@ -2246,7 +2248,7 @@ msgstr ""
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "កំណត់​តម្រង​ទាំងអស់​ឡើង​វិញ"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
@@ -2293,17 +2295,17 @@ msgstr ""
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "រក្សា​ទុក​និង​បន្ថែម​ថ្មី​"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
 msgid "Save & Close"
-msgstr ""
+msgstr "រក្សាទុក&បិទ"
 
 #: ui_main.save_report
 msgctxt "ui_main.save_report"
 msgid "Save Report"
-msgstr ""
+msgstr "រក្សា​ទុក​របាយការណ៍"
 
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
@@ -2353,7 +2355,7 @@ msgstr ""
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
 msgid "Security Code"
-msgstr ""
+msgstr "លេខ​កូដ​សុវត្ថិភាព"
 
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
@@ -2368,7 +2370,7 @@ msgstr ""
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr ""
+msgstr "ជ្រើស​រើស​ទំរង់​បែប​បទ"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
@@ -2378,7 +2380,7 @@ msgstr ""
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr ""
+msgstr "ជ្រើស​បាន​ច្រើន​តាម​តម្រូវ​ការ​"
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
@@ -2508,7 +2510,7 @@ msgstr ""
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "សារ​ខ្លីៗ"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
@@ -2563,7 +2565,7 @@ msgstr ""
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr ""
+msgstr "ដាក់​ស្នើ​របាយការណ៍"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
@@ -2673,7 +2675,7 @@ msgstr ""
 #: ui_main.title
 msgctxt "ui_main.title"
 msgid "Title "
-msgstr ""
+msgstr "ចំណង​ជើង​"
 
 #: ui_main.to
 msgctxt "ui_main.to"
@@ -2738,7 +2740,7 @@ msgstr ""
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "ប្រភេទ"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
@@ -2763,7 +2765,7 @@ msgstr ""
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr ""
+msgstr "មិន​អះអាង"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
@@ -2930,12 +2932,12 @@ msgstr ""
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "ការ​អះអាង"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr ""
+msgstr "អះអាង"
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
@@ -2950,7 +2952,7 @@ msgstr ""
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr ""
+msgstr "អះអាង​របាយការណ៍​នេ"
 
 #: ui_main.version
 msgctxt "ui_main.version"
@@ -2965,7 +2967,7 @@ msgstr ""
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr ""
+msgstr "វីដេអូ"
 
 #: ui_main.view
 msgctxt "ui_main.view"
@@ -3000,7 +3002,7 @@ msgstr ""
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr ""
+msgstr "មើល​បន្ថែម"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
@@ -3035,12 +3037,12 @@ msgstr ""
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "ផែន​ទី​ធំ​ជាង​"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "សំណុំ​បែបបទ​បណ្ដាញ"
 
 #: ui_main.web
 msgctxt "ui_main.web"
@@ -3055,7 +3057,7 @@ msgstr ""
 #: ui_main.yes
 msgctxt "ui_main.yes"
 msgid "Yes"
-msgstr ""
+msgstr "បាទ/ចាស​"
 
 #: ui_main.yesterday
 msgctxt "ui_main.yesterday"

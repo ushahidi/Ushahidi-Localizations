@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2012-12-11 22:01+0000\n"
+"Last-Translator: Rishab Arora <ra.rishab@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -890,32 +890,32 @@ msgstr "आपकी फाइल अधिकतम परिमाण से �
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "छन्नियाँ"
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "रिपोर्ट छानें"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "इस से रिपोर्ट छानें"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "वह रिपोर्ट छानें जिनमें यह है"
 
 #: ui_main.find
 msgctxt "ui_main.find"
 msgid "Find"
-msgstr ""
+msgstr "खोजें"
 
 #: ui_main.find_location
 msgctxt "ui_main.find_location"
 msgid "Find Location"
-msgstr ""
+msgstr "स्थान खोजें"
 
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
@@ -930,7 +930,7 @@ msgstr ""
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "पासवर्ड भूल गए हैं?"
 
 #: ui_main.form
 msgctxt "ui_main.form"
@@ -950,22 +950,22 @@ msgstr "फॉर्म विवरण"
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr ""
+msgstr "फॉर्म में बदलाव करें"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr ""
+msgstr "इस फॉर्म को"
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr ""
+msgstr "फॉर्म शीर्षक"
 
 #: ui_main.from
 msgctxt "ui_main.from"
 msgid "From"
-msgstr ""
+msgstr "से"
 
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
@@ -990,7 +990,7 @@ msgstr "टिप्पणिया"
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "लेबल"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
@@ -1000,7 +1000,7 @@ msgstr ""
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "जाएं"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -1015,7 +1015,7 @@ msgstr ""
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "मदद कैसे करें"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
@@ -1040,12 +1040,12 @@ msgstr ""
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr ""
+msgstr "रिपोर्ट कैसे करें"
 
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
@@ -1060,17 +1060,17 @@ msgstr ""
 #: ui_main.image
 msgctxt "ui_main.image"
 msgid "Image"
-msgstr ""
+msgstr "चित्र"
 
 #: ui_main.images
 msgctxt "ui_main.images"
 msgid "Images"
-msgstr ""
+msgstr "चित्र"
 
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr ""
+msgstr "चित्र/आइकॉन"
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
@@ -1080,7 +1080,7 @@ msgstr ""
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "इनबॉक्स"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
@@ -1212,17 +1212,17 @@ msgstr ""
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "KMZ/KML फ़ाइल"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "फ़ाइल अपलोड करें"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
@@ -1232,7 +1232,7 @@ msgstr ""
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 #: ui_main.last
 msgctxt "ui_main.last"
