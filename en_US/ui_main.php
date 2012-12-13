@@ -590,6 +590,7 @@ $lang = array(
 	'view_public_profile' => 'View Public Profile',
 	'view_report' => 'View Report',
 	'view_reports' => 'View Reports',
+	'view_video' => 'View Video',
 	'visible' => 'Visible',
 	'waiting_approval' => 'Waiting Approval',
 	'waiting_verification' => 'Waiting Verification',
