@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:05+0000\n"
+"POT-Creation-Date: 2012-12-13 06:11+0000\n"
+"PO-Revision-Date: 2012-12-13 06:05+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -3015,6 +3015,11 @@ msgstr "瀏覽通報"
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "瀏覽全部通報"
+
+#: ui_main.view_video
+msgctxt "ui_main.view_video"
+msgid "View Video"
+msgstr ""
 
 #: ui_main.visible
 msgctxt "ui_main.visible"

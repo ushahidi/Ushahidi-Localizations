@@ -1,6 +1,7 @@
 # 
 # Translators:
 #   <congra_902@yahoo.com>, 2012.
+#   <dejan.georgievski@oneworldsee.org>, 2012.
 #   <haris.alisic@gmail.com>, 2012.
 # Jedna Mala Plava  <shejlo@gmail.com>, 2012.
 #   <telibecirevic@yahoo.it>, 2012.
@@ -9,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-10-30 22:28+0000\n"
-"Last-Translator: atelibecirevic <telibecirevic@yahoo.it>\n"
+"PO-Revision-Date: 2012-12-13 10:57+0000\n"
+"Last-Translator: prangec <dejan.georgievski@oneworldsee.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -45,7 +46,7 @@ msgctxt "alerts.alert_country.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the alert "
 "location is within the country %s."
-msgstr ""
+msgstr "Ovaj deployment pokriva samo jednu državu. Osigurajte se dali je lokacija na koju upozoravate unutar %s za tu državu."
 
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
@@ -190,17 +191,17 @@ msgstr "Unesite SMS kod za potvrdu koji ste primili:"
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "Vaš zahtjev za upozorenje preko mobilnog telefona NIJE snimljen!"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr ""
+msgstr "Vaš Zahtjev za upozorenje preko mobilnog telefona je snimljen!"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr ""
+msgstr "Ovaj deployment nije setovan za ispravno procesiranje upozorenja"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
