@@ -1,6 +1,7 @@
 # 
 # Translators:
 #   <alma.seper@oneworldsee.org>, 2012.
+#   <dejan.georgievski@oneworldsee.org>, 2012.
 #   <fikretmuratovic@gmail.com>, 2012.
 #   <haris.alisic@gmail.com>, 2012.
 # Jedna Mala Plava  <shejlo@gmail.com>, 2012.
@@ -9,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2012-12-24 08:45+0000\n"
+"Last-Translator: prangec <dejan.georgievski@oneworldsee.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,7 @@ msgstr ""
 #: upgrade.upgrade.between
 msgctxt "upgrade.upgrade.between"
 msgid "Invalid input data. It can either be 0 for No or 1 for Yes."
-msgstr ""
+msgstr "Unešeni podaci nisu validni. Prihvatljive vrijednosti jesu 0 za Ne ili 1 za Da."
 
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
@@ -63,14 +64,14 @@ msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr ""
+msgstr "Također, ako želite backup vaše baze podataka, štiklirajte polje ispod i to ću odmah učiniti."
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr ""
+msgstr "Uradite backup baze podataka prije nadgradnje novom verzijom? (<strong style=\"color:#FF0000;\">Preporučujemo da to uradite</strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
@@ -82,7 +83,7 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidi je nadgrađen! Pre nego što nastavite, treba da svoju bazu podataka ažurirate na najnoviju verziju (%s)."
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
@@ -102,24 +103,24 @@ msgstr "Ručna nadogradnja"
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr ""
+msgstr "Status nadgradnje Ushahidi-ja"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
 msgid ""
 "The instructions below detail how to manually upgrade your Ushahidi "
 "deploymentl"
-msgstr ""
+msgstr "Slijede uputstva kao možete manuelno nadgraditi vašu Ushahidi postavku!"
 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr ""
+msgstr "<dl><dt><strong>Snimi</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr ""
+msgstr "<dd>- Snimi zadnju verziju Ushahidija sa"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -140,7 +141,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr ""
+msgstr "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Za svaki slučaj, da bi ste se osigurali u slučaju kakvog bilo problema, preporuča se da napravite puni backup vaše Ushahidi postavke.</dd><dt><strong>Kopiraj fajlove</strong></dt><dd>- Ekstrahiraj snimljeni zipovani fajl</dd><dd>- Ovisno od operativnog sistema koji koristi web server, koristite preferiranu alatku/način (na pr. Telnet, FTP, SSH) za logiranje na webserveri i zamjenite sadržaj svih foldera sa najnovijima iz poslednje nadgradnje.</dd><dt><strong>Nadgradite bazu podataka</strong></dt><dd>- Najpre odredite shematsku verziju vaše baze podataka tako što ćete provjeriti <strong>db_version</strong> vrijednost na tabeli setinga ili informacije o nadgradnji Ushahidija na vrhu ove stranice. </dd><dd>- Ako ste kod verzije 25, trebate nadgraditi sa 25-26, 26-27, 27-28 i tako dalje sve do najnovijeg SQL fajla u vašem <strong>/sql</strong> direktoriju.</dd><dd>- Preko klijenta za baze podataka koji koristite, nadgradite bazu podataka izvršavanjem potrebnog upgradex-x.sql fajla.</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -148,14 +149,14 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong>Korak 3:</strong> Pogledajte unutar <strong>sql</strong> foldera. Ručno pokrenite nadgradnju <xx>-<xx>.sql fajla počevši sa trenutnom db verzijom vaše instalacije pa do zadnjeg fajla za nadgradnju sql."
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr ""
+msgstr "<strong>Korak 4:</strong> Kliknite na dugme <strong>\"Continue\"</strong> za nadgradnju potrebnih tabela."
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
@@ -167,7 +168,7 @@ msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "Trenutno koristite Ushahidi v%1$s sa verzijom %2$d baze podataka koju pokreće %3$s"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
@@ -179,12 +180,12 @@ msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "Za nastavak lake nadgradnje, FTP serveru na kojem je hostiran vaš website potrebne su slijedeće informacije."
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "FTP Hostname: <span>Primjer: \"localhost\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
@@ -214,12 +215,12 @@ msgstr "Verzija baze podataka: %d"
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "Upozorenje: Verzija softvera u version.php i u bazi podataka ne slažu se."
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "Upozorenje: Verzija baze podataka u version.php i bazi podataka ne slažu se."
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
@@ -249,7 +250,7 @@ msgstr "Log fajl"
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "Uspješno snimljeno. Raspakujemo..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
@@ -299,4 +300,4 @@ msgstr "Brisanje preuzetih datoteka"
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "NADGRADNJA USPJELA. Pogledajte <a href=\"%s\" target=\"_blank\">Log File</a>"
