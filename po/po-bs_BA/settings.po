@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-26 08:58+0000\n"
+"PO-Revision-Date: 2012-12-27 08:53+0000\n"
 "Last-Translator: prangec <dejan.georgievski@oneworldsee.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -178,7 +178,7 @@ msgstr "Polje Clickatell lozinke je obavezno polje."
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Polje Korisnički nalog na Clickatellu ne smije biti duže od 50 karaktera. "
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
@@ -198,12 +198,12 @@ msgstr "Zadana lokacija"
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "U polje za unos boje nije unešena validna vrednost."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "Polje za unos boje ne smije biti duže od 6 karaktera."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
@@ -213,7 +213,7 @@ msgstr "Polje boja je obavezno."
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "Automatski prikaz mape"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
@@ -223,59 +223,59 @@ msgstr "Zadani nivo zumiranja"
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "Povucite imena gradova iz Geonames-a"
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Polje za unos porta Mail servera predugačko je."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Polje za unos porta Mail servera treba sadržati samo brojeve."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Polje Lozinka Mail servera mora biti duže od 5 karaktera, ali ne više od 50 karaktera."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "Polje Lozinka Mail servera je obavezno za popunjavanje."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Polje Mail server port je predugačko."
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Polje Mail server port treba sadržati samo brojeve."
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Polje Mail server port je predugačko."
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "Polje Mail Server Type je obavezno za popunjavanje."
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Polje Mail Server Username ne smije biti duže od 50 karaktera."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "Polje Mail Server Username je obavezno za popunjavanje."
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
@@ -304,7 +304,7 @@ msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr ""
+msgstr "Polje Google Analytics mora sadržati validni Web Property ID kod u formatu UA-XXXXX-XX."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
@@ -316,14 +316,14 @@ msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "Ova opcija omogućava pristup Ushahidiju u nebezbjednom modu; <strong>bez</strong> \"https://\" u prefiksu URLa"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "Ova opcija omogućava pristup Ushahidiju u bezbjednom modu; sa  <strong>https</strong> u prefiksu URLa"
 
 #: settings.https.title
 msgctxt "settings.https.title"
@@ -335,30 +335,30 @@ msgctxt "settings.items_per_page.between"
 msgid ""
 "The items per page (Frontend) field does not appear to contain a valid "
 "value."
-msgstr ""
+msgstr "U Polje za unos broja članaka koji će se prikazivati po strani (Frontend) nije unešena validna vrijednost. "
 
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
-msgstr ""
+msgstr "Polje Broj članaka po strani (Frontend) je obavezno za popunjavanje."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
 msgid ""
 "The items per page (Admin) field does not appear to contain a valid value."
-msgstr ""
+msgstr "U polje za unos broja članaka po strani (Admin) nije unešena validna vrijednost."
 
 #: settings.items_per_page_admin.required
 msgctxt "settings.items_per_page_admin.required"
 msgid "The items per page (Admin) field is required."
-msgstr ""
+msgstr "Polje Broj članaka po strani (Admin) je obavezno za popunjavanje."
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "Podešavanje vašeg provajdera mapa jednostavan je proces. Odaberite provajder, uzmite API kluč sa websajta provajdera i unesite API ključ."
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
@@ -368,34 +368,34 @@ msgstr "Nivo zumiranja"
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
-msgstr ""
+msgstr "Odaberite Provajder mape"
 
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
-msgstr ""
+msgstr "Unesite novi API ključ"
 
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr ""
+msgstr "Preuzmite API ključ"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "Podešavanje vašeg provajdera mapa jednostavan je proces. Odaberite provajder, uzmite API kluč sa websajta provajdera i unesite API ključ."
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "Provajder mape"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Hronologija mape"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -405,7 +405,7 @@ msgstr "Postavke mape"
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr ""
+msgstr "Dali ova implementacija Ushahidija obuhvata više država?"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -420,7 +420,7 @@ msgstr "Kliknite i povucite mapu da postavite svoju tačnu lokaciju"
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
-msgstr ""
+msgstr "Izvještaji o klasterima na mapi"
 
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
@@ -445,7 +445,7 @@ msgstr "Dozvoli korisnicima da unesu izvještaje"
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
-msgstr ""
+msgstr "Akismet ključ"
 
 #: settings.site.banner
 msgctxt "settings.site.banner"
@@ -455,22 +455,22 @@ msgstr "Baner stranice"
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "Broj blokova u redu"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
 msgid "Cache Pages"
-msgstr ""
+msgstr "Cache-irane strane"
 
 #: settings.site.cache_pages_lifetime
 msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
-msgstr ""
+msgstr "Rok trajanja Cacheiranih strana"
 
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "Dozvolite Prijave"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -517,7 +517,7 @@ msgctxt "settings.site.email_notice"
 msgid ""
 "<span>In order to receive reports by email, please configure your email "
 "account settings.</span>"
-msgstr ""
+msgstr "<span>Za dobijanje izvještaja elektronskom poštom, konfigurirajte postavke vašeg korisničkog računa elektronske pošte.</span>"
 
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
@@ -532,17 +532,17 @@ msgstr "Google Analytics"
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
 msgid "Web Property ID - Format: UA-XXXXX-XX"
-msgstr ""
+msgstr "Web Property ID - Format: UA-XXXXX-XX"
 
 #: settings.site.items_per_page
 msgctxt "settings.site.items_per_page"
 msgid "Items Per Page - Front End"
-msgstr ""
+msgstr "Broj članaka po strani - Front End"
 
 #: settings.site.items_per_page_admin
 msgctxt "settings.site.items_per_page_admin"
 msgid "Items Per Page - Admin"
-msgstr ""
+msgstr "Broj članaka po strani - Admin"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
@@ -551,17 +551,17 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
+msgstr "Onemogućite spamiranje komentara korištenjem Automatticovog <a href=\"http://akismet.com/\" target=\"_blank\">Akismeta</a>. <BR />Besplatni API kluč možete dobiti registracijom za <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">korisnički nalog na WordPress.com</a>"
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr ""
+msgstr "Akreditivi Laconica"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr ""
+msgstr "Website Laconica"
 
 #: settings.site.language
 msgctxt "settings.site.language"
@@ -571,7 +571,7 @@ msgstr "Jezik stranice"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Ručna potvrda korisnika"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -586,7 +586,7 @@ msgstr "Ime stranice"
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "Privatna implementacija"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
@@ -601,7 +601,7 @@ msgstr "Postavi poruku izvještaja "
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr ""
+msgstr "Omogućite sakupljanje statistika (čuvane na serveru Ushahidija)"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
