@@ -1,13 +1,13 @@
 # 
 # Translators:
 #   <monica.ipate@gmail.com>, 2012.
-# Monica Ipate <monica.ipate@gmail.com>, 2012.
+# Monica Ipate <monica.ipate@gmail.com>, 2012-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-16 22:39+0000\n"
+"PO-Revision-Date: 2013-01-02 21:14+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1399,7 +1399,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Vă mulțumim că v-ați înregistrat la %1$s. Pentru a confirma adresa de email, vă rugăm accesați următorul URL: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -2268,7 +2268,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Aveți deja un cont administrat de CrowdmapID! Încercați să folosiți e-mail-ul și parola CrowdmapID pentru autentificare."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2483,7 +2483,7 @@ msgstr "Arată mesajele"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "Arată rapoartele de la <span class=\"time-period\">%1$s la %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2568,7 +2568,7 @@ msgstr "Trimite o semnalare"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "Trimis de <strong>%1$s</strong> prin <strong>%2$s</ strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2778,17 +2778,17 @@ msgstr "Încarcă"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Vizualizează ghidurile noastre pentru incărcarea de rapoarte"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Ghid XML Upload"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Ghid CSV Upload"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2806,7 +2806,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Coloanele personalizate ale câmpului trebuie să aibă anexată form_id lor ,de exemplu câmpul personalizat de Test, pe formularul implicit, al cărui id este 1, va fi Test-1. În timpul importului câmpurilor personalizate ale formularului, asigurați-vă că"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2824,7 +2824,7 @@ msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Atunci când ID-ul incidentului există deja în baza de date, înregistrarea din fișierul CSV/XML va fi ignorată."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2857,7 +2857,7 @@ msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Intrările dvs. pentru câmpuri derulante, butoane radio și căsuțe corespund opțiunilor prevăzute pentru câmpul personalizat pe instanța dvs"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2865,14 +2865,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Opțiunile Checkbox sunt separate printr-o virgulă, de exemplu, în cazul în care alegerea dvs pentru fructe este de mere, mango și struguri, intrarea  pentru acest lucru ar fi \"mere, mango, struguri\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Valorile pentru câmpul dată au următorul format: ll/zz/aaaa de exemplu, 03 octombrie 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -3020,7 +3020,7 @@ msgstr "Vezi semnalări"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Vizualizează video"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"

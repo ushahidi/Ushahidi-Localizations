@@ -1,14 +1,14 @@
 # 
 # Translators:
 #   <monica.ipate@gmail.com>, 2012.
-# Monica Ipate <monica.ipate@gmail.com>, 2012.
+# Monica Ipate <monica.ipate@gmail.com>, 2012-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-10 03:37+0000\n"
-"PO-Revision-Date: 2012-12-10 03:31+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-02 21:31+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -56,7 +56,7 @@ msgstr "<tt>%s <strong>[%s]:</strong></tt>"
 #: core.generic_error
 msgctxt "core.generic_error"
 msgid "Unable to Complete Request"
-msgstr ""
+msgstr "Imposibil de a finaliza solicitarea"
 
 #: core.helper
 msgctxt "core.helper"
@@ -67,17 +67,17 @@ msgstr "ajutor"
 msgctxt "core.invalid_filetype"
 msgid ""
 "The requested filetype, .%s, is not allowed in your view configuration file."
-msgstr ""
+msgstr "Tipul de fișier solicitat, .%s, nu este permis în fișierul dvs. de configurare."
 
 #: core.invalid_method
 msgctxt "core.invalid_method"
 msgid "Invalid method %s called in %s"
-msgstr ""
+msgstr "Metoda invalidă %s este apelată în %s"
 
 #: core.invalid_property
 msgctxt "core.invalid_property"
 msgid "The %s property does not exist in the %s class."
-msgstr ""
+msgstr "Proprietatea %s nu există în clasa %s."
 
 #: core.library
 msgctxt "core.library"
@@ -87,7 +87,7 @@ msgstr "bibliotecă"
 #: core.log_dir_unwritable
 msgctxt "core.log_dir_unwritable"
 msgid "The log directory is not writable: %s"
-msgstr ""
+msgstr "Directorul de log nu este writable: %s"
 
 #: core.model
 msgctxt "core.model"
@@ -103,12 +103,12 @@ msgstr ""
 #: core.no_default_route
 msgctxt "core.no_default_route"
 msgid "Please set a default route in config/routes.php"
-msgstr ""
+msgstr "Vă rugăm să setați o rută implicită în config/routes.php"
 
 #: core.page_not_found
 msgctxt "core.page_not_found"
 msgid "The page you requested, %s, could not be found."
-msgstr ""
+msgstr "Pagina solicitată, %s, nu a putut fi găsită."
 
 #: core.report_bug
 msgctxt "core.report_bug"
@@ -118,12 +118,12 @@ msgstr ""
 #: core.resource_not_found
 msgctxt "core.resource_not_found"
 msgid "The requested %s, %s, could not be found."
-msgstr ""
+msgstr "%s, %s, solicitată nu a putut fi găsită"
 
 #: core.stack_trace
 msgctxt "core.stack_trace"
 msgid "Stack Trace"
-msgstr ""
+msgstr "Stack Trace"
 
 #: core.stats_footer
 msgctxt "core.stats_footer"
@@ -135,7 +135,7 @@ msgstr ""
 #: core.text_direction
 msgctxt "core.text_direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #: core.there_can_be_only_one
 msgctxt "core.there_can_be_only_one"
