@@ -1,103 +1,106 @@
-#. extracted from en_US/permissions.php, ro_RO/permissions.php
+# 
+# Translators:
+# Monica Ipate <monica.ipate@gmail.com>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi Web\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-12-09 06:11+0000\n"
+"PO-Revision-Date: 2013-01-04 18:00+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: permissions.reports_view
 msgctxt "permissions.reports_view"
 msgid "View Reports"
-msgstr ""
+msgstr "Vizualizare Rapoarte"
 
 #: permissions.reports_edit
 msgctxt "permissions.reports_edit"
 msgid "Create/Edit/Delete Reports"
-msgstr ""
+msgstr "Crează/Modifică/Șterge Rapoarte"
 
 #: permissions.reports_approve
 msgctxt "permissions.reports_approve"
 msgid "Approve Reports"
-msgstr ""
+msgstr "Aprobă Rapoarte"
 
 #: permissions.reports_verify
 msgctxt "permissions.reports_verify"
 msgid "Verify Reports"
-msgstr ""
+msgstr "Verifică Rapoarte"
 
 #: permissions.reports_comments
 msgctxt "permissions.reports_comments"
 msgid "Manage Report Comments"
-msgstr ""
+msgstr "Gestionează Comentariile Rapoartelor"
 
 #: permissions.reports_download
 msgctxt "permissions.reports_download"
 msgid "Download Reports"
-msgstr ""
+msgstr "Descarcă Rapoarte"
 
 #: permissions.reports_upload
 msgctxt "permissions.reports_upload"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Încarcă Rapoarte"
 
 #: permissions.messages
 msgctxt "permissions.messages"
 msgid "Manage Messages"
-msgstr ""
+msgstr "Gestionează Rapoarte"
 
 #: permissions.messages_reporters
 msgctxt "permissions.messages_reporters"
 msgid "Manage Message Reporters"
-msgstr ""
+msgstr "Gestionează Mesajele Raportorilor"
 
 #: permissions.stats
 msgctxt "permissions.stats"
 msgid "View Stats"
-msgstr ""
+msgstr "Vizualizare Statistici"
 
 #: permissions.settings
 msgctxt "permissions.settings"
 msgid "Modify Settings"
-msgstr ""
+msgstr "Modifică Setari"
 
 #: permissions.manage
 msgctxt "permissions.manage"
 msgid "Manage Panel"
-msgstr ""
+msgstr "Gestionează Panel"
 
 #: permissions.users
 msgctxt "permissions.users"
 msgid "Manage Users"
-msgstr ""
+msgstr "Gestionează Utilizatori"
 
 #: permissions.manage_roles
 msgctxt "permissions.manage_roles"
 msgid "Manage Roles"
-msgstr ""
+msgstr "Gestionează Roluri"
 
 #: permissions.checkin
 msgctxt "permissions.checkin"
 msgid "Can checkin"
-msgstr ""
+msgstr "Can checkin"
 
 #: permissions.checkin_admin
 msgctxt "permissions.checkin_admin"
 msgid "Manage checkins"
-msgstr ""
+msgstr "Gestionează checkin"
 
 #: permissions.admin_ui
 msgctxt "permissions.admin_ui"
 msgid "Access Admin UI"
-msgstr ""
+msgstr "Acces Admin UI"
 
 #: permissions.member_ui
 msgctxt "permissions.member_ui"
 msgid "Access Members UI"
-msgstr ""
-
+msgstr "Acces Membrii UI"

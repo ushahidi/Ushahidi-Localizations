@@ -1,200 +1,234 @@
-#. extracted from en_US/installer.php, ro_RO/installer.php
+# 
+# Translators:
+# Monica Ipate <monica.ipate@gmail.com>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi Web\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-12-09 06:11+0000\n"
+"PO-Revision-Date: 2013-01-04 17:53+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr ""
+msgstr "Calea de bază"
 
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr ""
+msgstr "Baza de date"
 
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr ""
+msgstr "Host baza de date"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
-msgid "If you are running Ushahidi on your own computer, this will more than likely be \"localhost\". If you are running Ushahidi from a web server, you will get your host information from your web hosting provider."
-msgstr ""
+msgid ""
+"If you are running Ushahidi on your own computer, this will more than likely"
+" be \"localhost\". If you are running Ushahidi from a web server, you will "
+"get your host information from your web hosting provider."
+msgstr "Dacă se execută Ushahidi pe propriul computer, acest lucru va fi mai mult decât probabil \"localhost\". Dacă se execută Ushahidi de pe un server de web, veți primi informațiile de la furnizorul dvs. de web hosting."
 
 #: installer.database_name
 msgctxt "installer.database_name"
 msgid "Database Name"
-msgstr ""
+msgstr "Nume baza de bate"
 
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
 msgid "The name of the database you want to run Ushahidi in"
-msgstr ""
+msgstr "Numele bazei de date pe care doriți să rulați Ushahidi"
 
 #: installer.db_information_link
 msgctxt "installer.db_information_link"
-msgid "For more information, please check out <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">this article</a> on the wiki that talks about databases in more detail."
-msgstr ""
+msgid ""
+"For more information, please check out <a "
+"href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
+"target=\"_blank\">this article</a> on the wiki that talks about databases in"
+" more detail."
+msgstr "Pentru mai multe informații, vă rugăm să citiți<a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">acest articol</a> de pe wiki care vorbește despre bazele de date mult mai în detaliu."
 
 #: installer.default_language
 msgctxt "installer.default_language"
 msgid "Default Language (Locale)"
-msgstr ""
+msgstr "Limba implictă (Locală)"
 
 #: installer.default_language_description
 msgctxt "installer.default_language_description"
-msgid "Each deployment of Ushahidi comes with a set of built in language translations. You can also <a href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" target=\"_blank\">add your own</a>."
-msgstr ""
+msgid ""
+"Each deployment of Ushahidi comes with a set of built in language "
+"translations. You can also <a "
+"href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\""
+" target=\"_blank\">add your own</a>."
+msgstr "Fiecare implementare Ushahidi vine cu un set de traduceri. Puteți să adaugați <a href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" target=\"_blank\">propria traducere</a>."
 
 #: installer.disable
 msgctxt "installer.disable"
 msgid "Disable"
-msgstr ""
+msgstr "Dezactivează"
 
 #: installer.enable
 msgctxt "installer.enable"
 msgid "Enable"
-msgstr ""
+msgstr "Activează"
 
 #: installer.error_summary
 msgctxt "installer.error_summary"
 msgid "Listed below is a summary of the errors we encountered."
-msgstr ""
+msgstr "Mai jos este arătat un rezumat al erorilor cu care ne-am confruntat."
 
 #: installer.files_location_text
 msgctxt "installer.files_location_text"
-msgid "The location on your server where you placed your Ushahidi files. <strong>We have automatically detected this value, please make sure that it is correct.</strong> If the field is empty, do not worry, it means ushahidi is installed at the top level directory."
-msgstr ""
+msgid ""
+"The location on your server where you placed your Ushahidi files. <strong>We"
+" have automatically detected this value, please make sure that it is "
+"correct.</strong> If the field is empty, do not worry, it means ushahidi is "
+"installed at the top level directory."
+msgstr "Locația de pe server-ul unde ați pus fișierele Ushahidi. <strong> Am detectat în mod automat această valoare, vă rugăm să vă asigurați că este corectă. </strong> Dacă câmpul este gol, nu vă faceți griji, aceasta înseamnă că ushahidi este instalat în directorul de nivel superior."
 
 #: installer.finished
 msgctxt "installer.finished"
 msgid "Finished"
-msgstr ""
+msgstr "Terminat"
 
 #: installer.general
 msgctxt "installer.general"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API Key"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
-msgid "Anyone can get an api key. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get yours now</a>"
-msgstr ""
+msgid ""
+"Anyone can get an api key. <a id=\"api-link\" "
+"href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get "
+"yours now</a>"
+msgstr "Oricine poate obține o cheie key. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Obține acum</a>"
 
 #: installer.go_back
 msgctxt "installer.go_back"
 msgid "Go Back"
-msgstr ""
+msgstr "Mergi înapoi"
 
 #: installer.index.advanced
 msgctxt "installer.index.advanced"
 msgid "ADVANCED INSTALLATION"
-msgstr ""
+msgstr "INSTALARE AVANSATĂ"
 
 #: installer.index.advanced_installation_description
 msgctxt "installer.index.advanced_installation_description"
-msgid "Get all the basic settings completed through this 5-step process.  This includes server, map, site name and contact details."
-msgstr ""
+msgid ""
+"Get all the basic settings completed through this 5-step process.  This "
+"includes server, map, site name and contact details."
+msgstr "Înscrieți-vă toate setările de bază prin acest proces de 5 pași. Aceasta include servere, hartă, nume site si date de contact."
 
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
 msgid "BASIC INSTALLATION"
-msgstr ""
+msgstr "INSTALARE BASIC"
 
 #: installer.index.basic_installation_description
 msgctxt "installer.index.basic_installation_description"
-msgid "Simple and fast. All you need is your website's root directory and your database information. Choose this option if you want to get up and running quickly, and you can always configure everything else later."
-msgstr ""
+msgid ""
+"Simple and fast. All you need is your website's root directory and your "
+"database information. Choose this option if you want to get up and running "
+"quickly, and you can always configure everything else later."
+msgstr "Simplu si rapid. Tot ce ai nevoie este directorul rădăcină al site-ul dvs. și informațiile legate de baza de date. Alegeți această opțiune dacă doriți să mergeți mai repede, si puteti configura totul ceva mai târziu."
 
 #: installer.index.proceed
 msgctxt "installer.index.proceed"
 msgid "Proceed"
-msgstr ""
+msgstr "Continuă"
 
 #: installer.index.welcome
 msgctxt "installer.index.welcome"
-msgid "Welcome to the Ushahidi server install process.  Choose which type of installation you would like to use below."
-msgstr ""
+msgid ""
+"Welcome to the Ushahidi server install process.  Choose which type of "
+"installation you would like to use below."
+msgstr "Bine ați venit la procesul de instalare a server-ului Ushahidi. Alegeți mai jos ce tip de instalare doriți să utilizați."
 
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
 msgid "Installation Successful"
-msgstr ""
+msgstr "Instalare cu succes"
 
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr ""
+msgstr "Server de Mail"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Host Server de "
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Exemple: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Parola Server de Mail"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr ""
+msgstr "Parola pe care o utilizați în mod normal pentru a putea accesa căsuța de email."
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Port Server de Mail"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Porturi comune: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Tip Server de Mail"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
-msgid "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">What is the difference?</a>"
+msgid ""
+"Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
+"href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
+"target=\"_blank\">What is the difference?</a>"
 msgstr ""
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Utilizator Server de Mail"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
-msgid "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address as a username."
+msgid ""
+"If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
+"as a username."
 msgstr ""
 
 #: installer.map
 msgctxt "installer.map"
 msgid "Map"
-msgstr ""
+msgstr "Hartă"
 
 #: installer.map_provider
 msgctxt "installer.map_provider"
@@ -203,33 +237,36 @@ msgstr ""
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
-msgid "Ushahidi works equally well with any of these three mapping providers: Google, Bing or Open Street Map. Choose the one that has the most detail in your area."
+msgid ""
+"Ushahidi works equally well with any of these three mapping providers: "
+"Google, Bing or Open Street Map. Choose the one that has the most detail in "
+"your area."
 msgstr ""
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
 msgid "Other steps..."
-msgstr ""
+msgstr "Alți pași..."
 
 #: installer.password
 msgctxt "installer.password"
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 #: installer.password_description
 msgctxt "installer.password_description"
 msgid "Your database password"
-msgstr ""
+msgstr "Parola baza de date"
 
 #: installer.previous
 msgctxt "installer.previous"
 msgid "Previous"
-msgstr ""
+msgstr "Anterior"
 
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr ""
+msgstr "Vă rugăm restartați Server-ul Apache"
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
@@ -238,7 +275,10 @@ msgstr ""
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
-msgid "Some mail servers give you the option of using <abbr title=\"Secure Sockets Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it gives you an added level of security."
+msgid ""
+"Some mail servers give you the option of using <abbr title=\"Secure Sockets "
+"Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
+"gives you an added level of security."
 msgstr ""
 
 #: installer.setup_sms
@@ -258,7 +298,10 @@ msgstr ""
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
-msgid "When your site visitors sign up for email alerts, they will receive emails from this address. This email address does not have to be the same as the Site Email Address."
+msgid ""
+"When your site visitors sign up for email alerts, they will receive emails "
+"from this address. This email address does not have to be the same as the "
+"Site Email Address."
 msgstr ""
 
 #: installer.site_email_description
@@ -288,22 +331,33 @@ msgstr ""
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
-msgid "The files and folders listed below need to be writable by your webserver."
+msgid ""
+"The files and folders listed below need to be writable by your webserver."
 msgstr ""
 
 #: installer.summary.text_2
 msgctxt "installer.summary.text_2"
-msgid "<p>Here are instructions for changing file permissions:</p>\n        <ul>\n            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n        </ul>"
+msgid ""
+"<p>Here are instructions for changing file permissions:</p>\n"
+"        <ul>\n"
+"            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n"
+"            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n"
+"        </ul>"
 msgstr ""
 
 #: installer.summary.text_3
 msgctxt "installer.summary.text_3"
-msgid "Before you get started, you will need to make sure the following files and folders are writable by your webserver. This involves changing file permissions."
+msgid ""
+"Before you get started, you will need to make sure the following files and "
+"folders are writable by your webserver. This involves changing file "
+"permissions."
 msgstr ""
 
 #: installer.summary.text_4
 msgctxt "installer.summary.text_4"
-msgid "For the installation process, please have the following bits of information on hand."
+msgid ""
+"For the installation process, please have the following bits of information "
+"on hand."
 msgstr ""
 
 #: installer.table_prefix
@@ -313,7 +367,10 @@ msgstr ""
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
-msgid "Normally you would not change the table prefix. However, if you want to run multiple Ushahidi installations from a single database, you can do that by changing the prefix here."
+msgid ""
+"Normally you would not change the table prefix. However, if you want to run "
+"multiple Ushahidi installations from a single database, you can do that by "
+"changing the prefix here."
 msgstr ""
 
 #: installer.title
@@ -350,4 +407,3 @@ msgstr ""
 msgctxt "installer.view_site"
 msgid "View your website"
 msgstr ""
-
