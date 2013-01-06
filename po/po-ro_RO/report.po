@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-01-04 18:19+0000\n"
+"PO-Revision-Date: 2013-01-05 17:01+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,22 +25,22 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Această implementare este făcută pentru o singură țară. Vă rugăm să vă asigurați că locația raportului este în țăra %s."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for one of your custom form items."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru unul dintre elementele particularizate ale formularului."
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Vă rugăm să selectați un element valabil de inclus în download."
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Vă rugăm să selectați un element valabil de inclus în download."
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
@@ -106,92 +106,92 @@ msgstr ""
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
 msgid "The FROM date field does not appear to contain a valid date."
-msgstr ""
+msgstr "Câmpul data FROM nu pare să conțină o dată validă."
 
 #: report.from_date.range
 msgctxt "report.from_date.range"
 msgid "Please enter a valid FROM date. It cannot be greater than today."
-msgstr ""
+msgstr "Vă rugăm să introduceți o dată validă pentru câmpul FROM. Data nu poate fi mai mare decât ziua curentă."
 
 #: report.incident_active.between
 msgctxt "report.incident_active.between"
 msgid "Please enter a valid value for Approve This Report"
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru Aprobă Prezentul Raport"
 
 #: report.incident_active.required
 msgctxt "report.incident_active.required"
 msgid "Please enter a valid value for Approve This Report"
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru Aprobă Prezentul Raport"
 
 #: report.incident_ampm.validvalues
 msgctxt "report.incident_ampm.validvalues"
 msgid "The am/pm field does not appear to contain a valid value."
-msgstr ""
+msgstr "Câmpul am/pm nu pare să conțină o valoare validă."
 
 #: report.incident_category.numeric
 msgctxt "report.incident_category.numeric"
 msgid "The \"Categories\" field does not appear to contain a valid category."
-msgstr ""
+msgstr "Câmpul \"Categorii\" nu pare să conțină o categorie validă."
 
 #: report.incident_category.required
 msgctxt "report.incident_category.required"
 msgid "The \"Categories\" field is required."
-msgstr ""
+msgstr "Câmpul \"Categorii\" este necesar."
 
 #: report.incident_date.date_ddmmyyyy
 msgctxt "report.incident_date.date_ddmmyyyy"
 msgid "The date field does not appear to contain a valid date."
-msgstr ""
+msgstr "Câmpul data nu pare să conțină o dată validă."
 
 #: report.incident_date.date_mmddyyyy
 msgctxt "report.incident_date.date_mmddyyyy"
 msgid "The date field does not appear to contain a valid date."
-msgstr ""
+msgstr "Câmpul data nu pare să conțină o dată validă."
 
 #: report.incident_date.required
 msgctxt "report.incident_date.required"
 msgid "The date field is required."
-msgstr ""
+msgstr "Câmpul data este necesar."
 
 #: report.incident_description.required
 msgctxt "report.incident_description.required"
 msgid "The \"Description\" field is required."
-msgstr ""
+msgstr "Câmpul \"Descriere\" este necesar."
 
 #: report.incident_hour.between
 msgctxt "report.incident_hour.between"
 msgid "The hour field does not appear to contain a valid hour."
-msgstr ""
+msgstr "Câmpul ora nu pare să conțină o oră validă."
 
 #: report.incident_hour.required
 msgctxt "report.incident_hour.required"
 msgid "The hour field is required."
-msgstr ""
+msgstr "Câmpul oră este necesar."
 
 #: report.incident_information.alpha
 msgctxt "report.incident_information.alpha"
 msgid "Please enter a valid value for Information Probability."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru Probabilitatea Informațiilor."
 
 #: report.incident_information.length
 msgctxt "report.incident_information.length"
 msgid "Please enter a valid value for Information Probability."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru Probabilitatea Informațiilor."
 
 #: report.incident_minute.between
 msgctxt "report.incident_minute.between"
 msgid "The minute field does not appear to contain a valid value."
-msgstr ""
+msgstr "Câmpul minute nu pare să conțină o valoare validă."
 
 #: report.incident_minute.required
 msgctxt "report.incident_minute.required"
 msgid "The minute field is required."
-msgstr ""
+msgstr "Câmpul minut este necesar."
 
 #: report.incident_news.url
 msgctxt "report.incident_news.url"
 msgid "The news source links field does not appear to contain a valid URL."
-msgstr ""
+msgstr "Câmpul ce conține link-uri cu surse de știri nu pare să conțină o adresă URL validă."
 
 #: report.incident_photo.size
 msgctxt "report.incident_photo.size"
@@ -230,7 +230,7 @@ msgstr ""
 #: report.incident_title.required
 msgctxt "report.incident_title.required"
 msgid "The \"Report Title\" field is required."
-msgstr ""
+msgstr "Câmpul \"Titlu Raport\" este necesar."
 
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
@@ -300,7 +300,7 @@ msgstr ""
 #: report.location_name.required
 msgctxt "report.location_name.required"
 msgid "The \"Location Name\" field is required."
-msgstr ""
+msgstr "Câmpul \"Nume Locație\" este necesar."
 
 #: report.longitude.between
 msgctxt "report.longitude.between"
@@ -339,7 +339,7 @@ msgstr ""
 #: report.to_date.date_mmddyyyy
 msgctxt "report.to_date.date_mmddyyyy"
 msgid "The TO date field does not appear to contain a valid date."
-msgstr ""
+msgstr "Câmpul data TO nu pare să conțină o dată validă."
 
 #: report.to_date.range
 msgctxt "report.to_date.range"

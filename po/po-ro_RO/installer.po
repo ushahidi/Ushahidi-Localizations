@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-01-04 17:53+0000\n"
+"PO-Revision-Date: 2013-01-05 13:34+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -211,7 +211,7 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Care este diferența?</a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
@@ -223,7 +223,7 @@ msgctxt "installer.mail_server_username_description"
 msgid ""
 "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
 "as a username."
-msgstr ""
+msgstr "Dacă utilizați Gmail, Hotmail sau Yahoo Mail, introduceți o adresă de e-mail completă ca nume de utilizator."
 
 #: installer.map
 msgctxt "installer.map"
@@ -233,7 +233,7 @@ msgstr "Hartă"
 #: installer.map_provider
 msgctxt "installer.map_provider"
 msgid "Map Provider"
-msgstr ""
+msgstr "Furnizor Hărți"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
@@ -241,7 +241,7 @@ msgid ""
 "Ushahidi works equally well with any of these three mapping providers: "
 "Google, Bing or Open Street Map. Choose the one that has the most detail in "
 "your area."
-msgstr ""
+msgstr "Ushahidi funcționează la fel de bine cu oricare dintre cei trei furnizori de hărți: Google, Bing sau Open Street. Alegeți una care are cele mai multe detalii din zona dumneavoastră."
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
@@ -271,7 +271,7 @@ msgstr "Vă rugăm restartați Server-ul Apache"
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
 msgid "Enable or disable SSL"
-msgstr ""
+msgstr "Activează sau dezactivează SSL"
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
@@ -279,22 +279,22 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr ""
+msgstr "Unele servere de poștă electronică vă oferă opțiunea de a utiliza <abbr title=\"Secure Sockets Layer\">SSL</ abbr> atunci când se face o conexiune. Utilizarea SSL este recomandată, deoarece vă oferă un nivel suplimentar de securitate."
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
 msgid "Set up your SMS server"
-msgstr ""
+msgstr "Setează serverul SMS"
 
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Adresa de email a site-ului"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "Adresa de email a alertelor site-ului"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -302,38 +302,38 @@ msgid ""
 "When your site visitors sign up for email alerts, they will receive emails "
 "from this address. This email address does not have to be the same as the "
 "Site Email Address."
-msgstr ""
+msgstr "Când vizitatorii site-ului dvs. se înscriu pentru alerte email, ei vor primi emailuri de la această adresă. Această adresă de email nu trebuie să fie aceeași cu adresa email a site-ului."
 
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr ""
+msgstr "Comunicarea email site-ului va fi canalizată prin această adresă"
 
 #: installer.site_name
 msgctxt "installer.site_name"
 msgid "Site Name"
-msgstr ""
+msgstr "Nume site"
 
 #: installer.site_name_description
 msgctxt "installer.site_name_description"
 msgid "The name of your site"
-msgstr ""
+msgstr "Numele site-ului dvs."
 
 #: installer.site_tagline
 msgctxt "installer.site_tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Sloganul site-ului"
 
 #: installer.site_tagline_description
 msgctxt "installer.site_tagline_description"
 msgid "Your tagline"
-msgstr ""
+msgstr "Sloganul dvs."
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
 msgid ""
 "The files and folders listed below need to be writable by your webserver."
-msgstr ""
+msgstr "Fișierele și folderele de mai jos trebuie să fie writeable pe serverul dvs. de web."
 
 #: installer.summary.text_2
 msgctxt "installer.summary.text_2"
@@ -343,7 +343,7 @@ msgid ""
 "            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n"
 "            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n"
 "        </ul>"
-msgstr ""
+msgstr "<p>Acestea sunt instrucțiunile pentru schimbarea permisiunilor la nivel de fițier:</p>⏎ <ul>⏎ <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>⏎ <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>⏎ </ul>"
 
 #: installer.summary.text_3
 msgctxt "installer.summary.text_3"
@@ -351,19 +351,19 @@ msgid ""
 "Before you get started, you will need to make sure the following files and "
 "folders are writable by your webserver. This involves changing file "
 "permissions."
-msgstr ""
+msgstr "Înainte de a începe, va trebui să vă asigurați că următoarele fișiere și foldere sunt writeable pe serverul dvs. de web. Acest lucru implică schimbarea permisiunilor la nivel de fișiere."
 
 #: installer.summary.text_4
 msgctxt "installer.summary.text_4"
 msgid ""
 "For the installation process, please have the following bits of information "
 "on hand."
-msgstr ""
+msgstr "Pentru procesul de instalare, vă rugăm să aveți la îndemână următoarele informații."
 
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
 msgid "Table Prefix"
-msgstr ""
+msgstr "Prefix Tabel"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
@@ -371,39 +371,39 @@ msgid ""
 "Normally you would not change the table prefix. However, if you want to run "
 "multiple Ushahidi installations from a single database, you can do that by "
 "changing the prefix here."
-msgstr ""
+msgstr "În mod normal nu ar trebui schimbat prefixul tabelul. Cu toate acestea, dacă doriți să rulați mai multe instalări Ushahidi intr-o singură bază de date, puteți face acest lucru prin schimbarea prefixului aici."
 
 #: installer.title
 msgctxt "installer.title"
 msgid "Title"
-msgstr ""
+msgstr "Titlu"
 
 #: installer.to_login
 msgctxt "installer.to_login"
 msgid "To login, go to"
-msgstr ""
+msgstr "Pentru logare, mergeți la"
 
 #: installer.upload_data
 msgctxt "installer.upload_data"
 msgid "Upload report data"
-msgstr ""
+msgstr "Încarcă datele raportului"
 
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "Nume utilizator"
 
 #: installer.username_description
 msgctxt "installer.username_description"
 msgid "Your database username"
-msgstr ""
+msgstr "Nume utilizator pentru baza de date"
 
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
 msgid "and use the following credentials"
-msgstr ""
+msgstr "și utilizați acreditările următoare"
 
 #: installer.view_site
 msgctxt "installer.view_site"
 msgid "View your website"
-msgstr ""
+msgstr "Vizualizți website"
