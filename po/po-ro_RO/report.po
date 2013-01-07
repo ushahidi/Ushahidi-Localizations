@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-01-05 17:01+0000\n"
+"PO-Revision-Date: 2013-01-06 12:03+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -96,12 +96,12 @@ msgstr "Vă rugăm să selectați un tip valid de raport pentru descărcare."
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "Trebuie să selectați un format de descărcare. Selectați fie CSV sau XML."
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "Vă rugăm să selectați un format valabil în care să descărcați rapoartele"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
@@ -196,36 +196,36 @@ msgstr "Câmpul ce conține link-uri cu surse de știri nu pare să conțină o 
 #: report.incident_photo.size
 msgctxt "report.incident_photo.size"
 msgid "Please ensure that photo upload sizes are limited to 2MB."
-msgstr ""
+msgstr "Vă rugăm, asigurați-vă că fotografiile încărcate sunt limitate la 2MB."
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
 msgid ""
 "The Upload Photos field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Câmpul de Încărcare Fotografii nu pare să conțină o imagine validă. Formatele acceptate sunt doar. JPG,. PNG și. GIF."
 
 #: report.incident_photo.valid
 msgctxt "report.incident_photo.valid"
 msgid "The Upload Photos field does not appear to contain a valid file."
-msgstr ""
+msgstr "Câmpul de Încărcare Fotografii nu pare să conțină un fișier valid."
 
 #: report.incident_source.alpha
 msgctxt "report.incident_source.alpha"
 msgid "Please enter a valid value for Source Reliability."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru Fiabilitatea Sursei."
 
 #: report.incident_source.length
 msgctxt "report.incident_source.length"
 msgid "Please enter a valid value for Source Reliability."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru Fiabilitatea Sursei."
 
 #: report.incident_title.length
 msgctxt "report.incident_title.length"
 msgid ""
 "The \"Report Title\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr ""
+msgstr "Câmpul \"Titlu Raport\" trebuie să aibă cel puțin 3 dar nu mai mult de 200 de caractere lungime."
 
 #: report.incident_title.required
 msgctxt "report.incident_title.required"
@@ -235,67 +235,67 @@ msgstr "Câmpul \"Titlu Raport\" este necesar."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "Posibil atac CSRF. Credeți serios că vreți să creați / editați un raport?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"
 msgid "Please enter a valid value for Verify This Report."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru câmpul Verifica acest raport."
 
 #: report.incident_verified.required
 msgctxt "report.incident_verified.required"
 msgid "Please enter a valid value for Verify This Report."
-msgstr ""
+msgstr "Vă rugăm să introduceți o valoare validă pentru câmpul Verifica acest raport."
 
 #: report.incident_video.url
 msgctxt "report.incident_video.url"
 msgid "The video links field does not appear to contain a valid URL."
-msgstr ""
+msgstr "Câmpul Link-uri video nu pare să conțină o adresă URL validă."
 
 #: report.latitude.between
 msgctxt "report.latitude.between"
 msgid "The latitude field does not appear to contain a valid latitude."
-msgstr ""
+msgstr "Câmpul latitudine nu pare să conțină o latitudine validă."
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
 msgid ""
 "The latitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr ""
+msgstr "Câmpul latitudine este necesar. Vă rugăm să faceți clic pe harta pentru a indica o locație."
 
 #: report.locale.alpha_dash
 msgctxt "report.locale.alpha_dash"
 msgid "The locale field has an incorrect value. "
-msgstr ""
+msgstr "Câmpul localizare are o valoare incorectă."
 
 #: report.locale.exists
 msgctxt "report.locale.exists"
 msgid "This report already has a translation for this language."
-msgstr ""
+msgstr "Acest raport are deja o traducere pentru această limbă."
 
 #: report.locale.length
 msgctxt "report.locale.length"
 msgid "The locale field has an incorrect value. "
-msgstr ""
+msgstr "Câmpul localizare are o valoare incorectă."
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
 msgid ""
 "The Original Report and the Translation have the same locale (language)."
-msgstr ""
+msgstr "Raportul original și traducerea au aceeași localizare (limbă)."
 
 #: report.locale.required
 msgctxt "report.locale.required"
 msgid "The locale is required."
-msgstr ""
+msgstr "Câmpul localizare este necesar."
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
 msgid ""
 "The \"Location Name\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr ""
+msgstr "Câmpul \"Nume Locație\" trebuie să aibă cel puțin 3 dar nu mai mult de 200 de caractere lungime."
 
 #: report.location_name.required
 msgctxt "report.location_name.required"
@@ -305,36 +305,36 @@ msgstr "Câmpul \"Nume Locație\" este necesar."
 #: report.longitude.between
 msgctxt "report.longitude.between"
 msgid "The longitude field does not appear to contain a valid longitude."
-msgstr ""
+msgstr "Câmpul longitudine nu pare să conțină o longitudine validă."
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
 msgid ""
 "The longitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr ""
+msgstr "Câmpul longitudine este necesar. Vă rugăm să faceți clic pe harta pentru a indica o locație."
 
 #: report.person_email.email
 msgctxt "report.person_email.email"
 msgid "The email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "Câmpul email nu pare să conțină o adresa de email validă."
 
 #: report.person_email.length
 msgctxt "report.person_email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "Câmpul email trebuie să aibă cel puțin 4 dar nu mai mult de 64 de caractere lungime."
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
 msgid ""
 "The first name field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "Câmpul prenume  trebuie să aibă cel puțin 3 dar nu mai mult de 100 de caractere lungime."
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
 msgid ""
 "The last name field must be at least 2 and no more 100 characters long."
-msgstr ""
+msgstr "Câmpul nume trebuie să aibă cel puțin 2 dar nu mai mult de 100 de caractere lungime."
 
 #: report.to_date.date_mmddyyyy
 msgctxt "report.to_date.date_mmddyyyy"
@@ -344,9 +344,9 @@ msgstr "Câmpul data TO nu pare să conțină o dată validă."
 #: report.to_date.range
 msgctxt "report.to_date.range"
 msgid "Please enter a valid TO date. It cannot be greater than today."
-msgstr ""
+msgstr "Vă rugăm să introduceți o dată validă pentru câmpul TO. Data nu poate fi mai mare decât ziua curentă."
 
 #: report.to_date.range_greater
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
-msgstr ""
+msgstr "Câmpul dată FROM nu poate fi mai mare decât câmpul dată TO."
