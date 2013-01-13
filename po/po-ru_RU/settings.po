@@ -1,12 +1,13 @@
 # 
 # Translators:
+#   <aemon@yandex.ru>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-08-19 23:05+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-12 18:35+0000\n"
+"Last-Translator: aemon <aemon@yandex.ru>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -322,7 +323,7 @@ msgstr "Эта опция включит доступ к Ushahidi в зашиф�
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -389,7 +390,7 @@ msgstr "Провайдер карты"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Временная карта "
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -429,7 +430,7 @@ msgstr "Включить новостную ленту RSS на главной �
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Разрешить Пользователям Подписываться на События"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -444,7 +445,7 @@ msgstr "Akismet ключ"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Баннер Сайта"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -484,12 +485,12 @@ msgstr ""
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Удалить Картинку Баннера"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Удалить Иконку По умолчанию"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -521,7 +522,7 @@ msgstr "E-mail сайта"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
