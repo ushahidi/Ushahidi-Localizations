@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:06+0000\n"
+"POT-Creation-Date: 2012-12-14 06:11+0000\n"
+"PO-Revision-Date: 2012-12-14 06:05+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -1397,9 +1397,9 @@ msgstr "创建账户"
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
-msgstr "谢谢您在％s登录，要确认您的电子邮件地址，请去以下网址：％S。"
+"Thank you for signing up at %1$s. To confirm your email address, please go "
+"to the following URL: %2$s"
+msgstr ""
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -2482,8 +2482,8 @@ msgstr "显示消息"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
-msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
-msgstr "显示自"
+msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
+msgstr ""
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2567,7 +2567,7 @@ msgstr "报道新案例"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
-msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
+msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
 msgstr ""
 
 #: ui_main.submit_sms
@@ -3016,6 +3016,11 @@ msgstr "查看报道"
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "查看报道"
+
+#: ui_main.view_video
+msgctxt "ui_main.view_video"
+msgid "View Video"
+msgstr ""
 
 #: ui_main.visible
 msgctxt "ui_main.visible"

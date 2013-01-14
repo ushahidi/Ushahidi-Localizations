@@ -1,5 +1,6 @@
 # 
 # Translators:
+#   <aemon@yandex.ru>, 2013.
 #   <televizor.by@gmail.com>, 2012.
 # Юрий Тихоглаз <usetiskip@gmail.com>, 2012.
 msgid ""
@@ -7,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-11-27 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-12 18:15+0000\n"
+"Last-Translator: aemon <aemon@yandex.ru>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -78,7 +79,7 @@ msgstr "Получены оповещения"
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "Все"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -359,12 +360,12 @@ msgstr "Дата и время"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Дата Добавлена"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Дата Изменена"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -439,7 +440,7 @@ msgstr "Выпадающий пункт меню"
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "ОТРЕДАКТИРОВАНО"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -891,12 +892,12 @@ msgstr "Ваше сообщение отправлено!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "Минута"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
@@ -1004,7 +1005,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "Это специальная категория, которая не будет показываться в форме отправки сообщения для пользователя, который его отправляет. Категория используется для хранения сообщений без категорий (некатегоризированные сообщения), которые образовались в результате удаления категории. "
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1049,7 +1050,7 @@ msgstr "Всего выбрано"
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1079,12 +1080,12 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "Извините, но запрашиваемая Вами страница находится не здесь. <p><strong>Если Вы видите это сообщение в результате перехода по ссылке с другой части портала, пожалуйста <a href=\"%s\">сообщите нам</a>, чтоб мы могли исправить ошибку.</p><p><strong>Вы перешли сюда по ссылке с другого сайта?</strong><br />Ссылки с других сайтов могут быть устаревшими или неправильными. <a href=\"%s\">Сообщите нам</a> об этом, чтоб мы попытались связаться с сайтами и исправить проблему.</p><p><strong>Вы вручную ввели URL? </strong><br />Вы могли ошибиться при вводе ссылки (URL). Проверьте, не ошиблись ли Вы с раскладкой клавиатуры или включенная клавиша NumLock и пр. </p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Извините. запрашиваемая вами страница находится не здесь"
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1208,7 +1209,7 @@ msgstr "Заголовок отчёта"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Дата сообщения"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1260,7 +1261,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Этот адрес электронной почты указан в аккаунте CrowdmapID. Пользователь должен использовать существующий в Crowdmap пароль для захода. "
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1299,12 +1300,12 @@ msgstr "Этот сайт работает по протоколу HTTP. Сто�
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Инструкции доступны в вики:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Выберите предпочитаемый вами формат для скачивания сообщений:-"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1587,12 +1588,12 @@ msgstr "Добро пожаловать "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Вики"
 
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

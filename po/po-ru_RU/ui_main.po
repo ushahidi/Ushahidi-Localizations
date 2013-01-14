@@ -1,13 +1,14 @@
 # 
 # Translators:
+#   <aemon@yandex.ru>, 2013.
 #   <televizor.by@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-12-14 06:11+0000\n"
+"PO-Revision-Date: 2013-01-12 21:40+0000\n"
+"Last-Translator: aemon <aemon@yandex.ru>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -133,7 +134,7 @@ msgstr "E-mail адрес:"
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
-msgstr ""
+msgstr "введите адрес e-mail"
 
 #: ui_main.alerts_enter_mobile
 msgctxt "ui_main.alerts_enter_mobile"
@@ -148,7 +149,7 @@ msgstr "Подписка на оповещения"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Оповещение "
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -232,7 +233,7 @@ msgstr "и"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -272,7 +273,7 @@ msgstr "Архивный"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "По возрастанию"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -322,17 +323,17 @@ msgstr "Изображение награды"
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Или вы можете загрузить собственную картинку награды"
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Пак наград"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Выберите награду"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -474,7 +475,7 @@ msgstr "Вы успешно подтвердили свой адрес элек�
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "Письмо для подтверждения электронного ящика не отправлено. Вы можете запросить новое подтверждение по ссылке ниже."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -564,7 +565,7 @@ msgstr "Текущий пароль"
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Другие поля"
 
 #: ui_main.data
 msgctxt "ui_main.data"
@@ -654,7 +655,7 @@ msgstr "Подробное описание"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "По убыванию"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -669,7 +670,7 @@ msgstr "Подробности"
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr ""
+msgstr "Прямое Сообщение"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
@@ -893,7 +894,7 @@ msgstr "Показать"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Фильтровать Сообщения"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
@@ -1048,12 +1049,12 @@ msgstr "HTTPS"
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Используется для идентификации вас на сайте для других пользователей."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1138,7 +1139,7 @@ msgstr "Долгота"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Включать Личную Информацию."
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1205,7 +1206,7 @@ msgstr "Ключ"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Ключевые слова"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -1225,7 +1226,7 @@ msgstr "KML адрес"
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1290,7 +1291,7 @@ msgstr "Оставьте комментарий"
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Меньше Информации"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1320,7 +1321,7 @@ msgstr "Ссылка"
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Список"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
@@ -1361,7 +1362,7 @@ msgstr "Подтверждение было выслано на ваш e-mail."
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Адрес e-mail не существует. Попробуйте другой адрес или создайте учетную запись."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
@@ -1381,7 +1382,7 @@ msgstr "E-mail и пароль"
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
@@ -1396,9 +1397,9 @@ msgstr "Зарегистрироваться"
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
-msgstr "Благодарим за регистрацию на %s. Чтобы подтвердить свой адрес электронной почты, перейдите по следующей ссылке: %s"
+"Thank you for signing up at %1$s. To confirm your email address, please go "
+"to the following URL: %2$s"
+msgstr "Спасибо за подписку на %1$s. Для подтверждения вашего e-mail адреса, пожалуйста перейдите по следующей ссылке: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -1433,7 +1434,7 @@ msgstr "Пометить как непрочитанное"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Максимальный размер файла"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1515,7 +1516,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Вы должны подтвердить ваш e-mail адрес для доступа к ресурсу. Если вы потеряете письмо для подтверждения, то можете запросить еще одно."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1575,17 +1576,17 @@ msgstr "Нет"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Нет проверок для отображения."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Нет данных."
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1605,7 +1606,7 @@ msgstr "Не подтверждён"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---Не Выбрано---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1878,7 +1879,7 @@ msgstr "Открытая анкета"
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "URL открытого профиля"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1958,7 +1959,7 @@ msgstr "Обновить ленту новостей"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "Зарегистрированный Email"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -2063,7 +2064,7 @@ msgstr "Категории"
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d Сообщений"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2225,7 +2226,7 @@ msgstr "Запросить местоположение"
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "Обязательно"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
@@ -2260,7 +2261,7 @@ msgstr "Получить название городов выбранной ст
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Аккаунт управляется сервисом %s."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
@@ -2397,7 +2398,7 @@ msgstr "Отправить"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Отправить Подтверждение"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
@@ -2462,7 +2463,7 @@ msgstr "Совместные ушахиди-карты"
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Карта короче"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2481,8 +2482,8 @@ msgstr "Показать сообщения"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
-msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
-msgstr "Показать сообщения с"
+msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
+msgstr "Сообщения с <span class=\"time-period\">%1$s до %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2502,7 +2503,7 @@ msgstr "Адрес сайта"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Карта поменьше"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
@@ -2527,12 +2528,12 @@ msgstr "Название источника"
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Сортировать"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Сортировать по"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2566,8 +2567,8 @@ msgstr "Отправить сообщение"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
-msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
-msgstr ""
+msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
+msgstr "Добавлено <strong>%1$s</strong> через <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2612,7 +2613,7 @@ msgstr "Система"
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Карта выше"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2692,7 +2693,7 @@ msgstr "сегодня в"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Токен"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2732,7 +2733,7 @@ msgstr "Перевод был сохранен"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Доверенные"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2747,7 +2748,7 @@ msgstr "Твиттер"
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "Невозможно отправить сообщение."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
@@ -2777,17 +2778,17 @@ msgstr "Отправить"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Посмотреть руководство по добавлению сообщений"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Руководство по добавлению XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Руководство по добавлению CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2816,14 +2817,14 @@ msgstr "Ниже вы можете экспортировать сообщени
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Сообщения должны быть загружены в формате CSV или XML. "
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Когда ID события уже существует в базе данных, запись в CSV/XML файле будет проигнорирована."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2835,7 +2836,7 @@ msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Если не указана долгота и широта, расположение будет гео-кодировано с использованием Google Geocoder."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
@@ -2871,7 +2872,7 @@ msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Поле дата следующего формата мм/дд/гггг, например 3 октября 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -3016,6 +3017,11 @@ msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "Показать сообщения"
 
+#: ui_main.view_video
+msgctxt "ui_main.view_video"
+msgid "View Video"
+msgstr "Смотреть видео"
+
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
@@ -3034,7 +3040,7 @@ msgstr "Ожидание проверки"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Карта пошире"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
@@ -3044,7 +3050,7 @@ msgstr "Веб-форма"
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
@@ -3069,7 +3075,7 @@ msgstr "Приборная панель"
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "Ваш файл"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"

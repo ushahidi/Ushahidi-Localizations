@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2012-12-14 06:11+0000\n"
+"PO-Revision-Date: 2012-12-24 18:09+0000\n"
+"Last-Translator: headofthebored <papia567@yahoo.gr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -88,1347 +88,1347 @@ msgstr "Προσθήκη πεδίου"
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
 msgid "Add Language"
-msgstr ""
+msgstr "Προσθήκη γλώσσας"
 
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr ""
+msgstr "Προσθήκη νέου"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr ""
+msgstr "Προσθήκη νέας κατηγορίας"
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
 msgid "Add Translation"
-msgstr ""
+msgstr "Προσθήκη Μετάφρασης"
 
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr ""
+msgstr "Διαχείριση"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr ""
+msgstr "Λήψη ειδοποιήσεων"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr ""
+msgstr "Ενημέρωσε με αν γίνει μια αναφορά στο ή γύρω από "
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr ""
+msgstr "Αποθήκευση της ειδοποίησης μου"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
 msgid "Email address:"
-msgstr ""
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου:"
 
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
-msgstr ""
+msgstr "Εισάγετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου"
 
 #: ui_main.alerts_enter_mobile
 msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
-msgstr ""
+msgstr "Εισάγετε τον αριθμό του κινητού περιλαμβανομένου του κωδικού της χώρας"
 
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr ""
+msgstr "Λήψη ειδοποιήσεων"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Η ειδοποίηση έχει"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
-msgstr ""
+msgstr "Κινητό τηλέφωνο:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr ""
+msgstr "ή επιλέξτε ένα σημείο στο παρακάτω χάρτη, και εμείς θα σας ειδοποιήσουμε όταν μια αναφορά υποβάλλεται σε απόσταση 20 χιλιομέτρων."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "Εάν δεν μπορείτε να βρείτε τη θέση σας, κάντε κλικ στο χάρτη για να εντοπίσετε τη σωστή θέση."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr ""
+msgstr "RSS Feeds (αντιγράψτε την παρακάτω διεύθυνση URL)"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr ""
+msgstr "Επιλέξτε μια πόλη"
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr ""
+msgstr "<strong> Βήμα 1: </strong> Επιλέξτε πόλη ή την περιοχή σας:"
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr ""
+msgstr "Βήμα <strong> 2: </strong> Αποστολή ειδοποιήσεων:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr ""
+msgstr "Βήμα <strong> 3 (Προαιρετικό): </strong> Επιλογή Κατηγοριών"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr ""
+msgstr "Επιβεβαιώσει προηγούμενο αιτήματος ειδοποίησης"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr ""
+msgstr "Η ειδοποίησή σας έχει αποθηκευτεί!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
 msgid "All"
-msgstr ""
+msgstr "Όλα"
 
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
 msgid "Allowed"
-msgstr ""
+msgstr "Επιτρεπόμενα"
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
 msgid "All Categories"
-msgstr ""
+msgstr "Όλες οι κατηγορίες"
 
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "Όλοι οι χρόνοι"
 
 #: ui_main.and
 msgctxt "ui_main.and"
 msgid "and"
-msgstr ""
+msgstr "Και"
 
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
 msgid "Approve"
-msgstr ""
+msgstr "Έγκριση"
 
 #: ui_main.approved
 msgctxt "ui_main.approved"
 msgid "Approved"
-msgstr ""
+msgstr "Εγκεκριμένο"
 
 #: ui_main.approved_reports
 msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
-msgstr ""
+msgstr "Εγκεκριμένες αναφορές"
 
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr ""
+msgstr "Έγκριση αναφοράς"
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
 msgid "Approximate"
-msgstr ""
+msgstr "Κατά προσέγγιση"
 
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr ""
+msgstr "Αρχείο"
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Αρχειοθετημένο"
 
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Αύξουσα"
 
 #: ui_main.at
 msgctxt "ui_main.at"
 msgid "at"
-msgstr ""
+msgstr "στο"
 
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr ""
+msgstr "Συγγραφέας"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Auto Checkin"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "Μέσος αριθμός εκθέσεων ανά ημέρα"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr ""
+msgstr "Εν αναμονή έγκρισης"
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr ""
+msgstr "Εν αναμονή επαλήθευσης"
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Έμβλημα"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Εμβλήματα"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "Εικόνα εμβλήματος"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Ή μπορείτε να ανεβάσετε την δική σας εικόνα εμβλήματος."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Πακέτο εμβλημάτων"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Επιλογή εμβλήματος"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Περιήγηση προφίλ"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Ακύρωση"
 
 #: ui_main.categories
 msgctxt "ui_main.categories"
 msgid "Categories"
-msgstr ""
+msgstr "Κατηγορίες"
 
 #: ui_main.category
 msgctxt "ui_main.category"
 msgid "Category"
-msgstr ""
+msgstr "Κατηγορία"
 
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
 msgid "Category Filter"
-msgstr ""
+msgstr "Φίλτρο Κατηγοριών"
 
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr ""
+msgstr "Αυτή η κατηγορία έχει"
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr ""
+msgstr "Όνομα κατηγορίας"
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Αλλαγή εύρους ημ/νιας"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "Αλλαγή Password"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Αλλαγή της εικόνας μου"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
 msgid "Choose a"
-msgstr ""
+msgstr "Επιλέξτε ένα"
 
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
-msgstr ""
+msgstr "Επιλέξτε τα σημεία δεδομένων για κατέβασμα"
 
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "Ή επιλέξτε δικό σας εύρος ημερομηνιών"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "Επιλέξτε τον τύπο πεδίου"
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr "Καθαρά URLs"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "Καθαρισμός"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "Καθαρισμός Χάρτη"
 
 #: ui_main.close
 msgctxt "ui_main.close"
 msgid "Close"
-msgstr ""
+msgstr "Κλείσιμο"
 
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr ""
+msgstr "συστάδες"
 
 #: ui_main.color
 msgctxt "ui_main.color"
 msgid "Color"
-msgstr ""
+msgstr "Χρώμα"
 
 #: ui_main.comment
 msgctxt "ui_main.comment"
 msgid "Comment"
-msgstr ""
+msgstr "Σχόλιο"
 
 #: ui_main.comments
 msgctxt "ui_main.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Σχόλια"
 
 #: ui_main.comment_details
 msgctxt "ui_main.comment_details"
 msgid "Comment Details"
-msgstr ""
+msgstr "Λεπτομέρειες Σχόλιο"
 
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
-msgstr ""
+msgstr "Οι ρυθμίσεις σας αποθηκεύτηκαν!"
 
 #: ui_main.configure
 msgctxt "ui_main.configure"
 msgid "Configure"
-msgstr ""
+msgstr "Ρύθμιση"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "Έχετε επιβεβαιώσει επιτυχώς τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας! Παρακαλούμε συνδεθείτε παρακάτω."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "Η επιβεβαίωσης του e-mail απέτυχε! Μπορείτε να ζητήσετε ένα νέο email επιβεβαίωσης."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
 msgid "Contact Us"
-msgstr ""
+msgstr "Επικοινωνήστε μαζί μας"
 
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "Κωδικός Ασφαλείας"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "Η διεύθυνση ηλεκτρονικού ταχυδρομείου σας"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "Μήνυμα"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "Το μήνυμά σας έχει σταλεί!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr ""
+msgstr "Το όνομά σας"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr ""
+msgstr "Ο αριθμός τηλεφώνου σας"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr ""
+msgstr "Αποστολή μηνύματος"
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr ""
+msgstr "Θέμα μηνύματος"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr ""
+msgstr "Copyright © "
 
 #: ui_main.create
 msgctxt "ui_main.create"
 msgid "Create"
-msgstr ""
+msgstr "Δημιουργία"
 
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
-msgstr ""
+msgstr "Δημιουργία/Επεξεργασία"
 
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr ""
+msgstr "Δημιουργία νέου"
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "Δημιουργία νέου Password"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
 msgid "Create Report"
-msgstr ""
+msgstr "Δημιουργία Αναφοράς"
 
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
 msgid "Credibility"
-msgstr ""
+msgstr "αξιοπιστία"
 
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "τρέχων Password"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Προσαρμοσμένα πεδία"
 
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr ""
+msgstr "Πληροφορίες"
 
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr ""
+msgstr "ημερομηνία"
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(ΜΜ/ΗΗ/ΕΕΕΕ)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "Ημερομηνία & Ώρα"
 
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr ""
+msgstr "Ημέρα"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
 msgid "Deactivate"
-msgstr ""
+msgstr "Απενεργοποίηση"
 
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "Ναϊρόμπι, Κένυα"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή"
 
 #: ui_main.deleted
 msgctxt "ui_main.deleted"
 msgid "Deleted"
-msgstr ""
+msgstr "Διαγραμμένο"
 
 #: ui_main.deletes
 msgctxt "ui_main.deletes"
 msgid "Deletes"
-msgstr ""
+msgstr "Διαγράφει"
 
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "Απενεργοποίηση Διαγραφής"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "Διαγραφή τελευταίου"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr ""
+msgstr "Διαγραφή της αναφοράς"
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "Διαγραφή επιλεγμένου"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
-msgstr ""
+msgstr "Διαγραφή Spam"
 
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr ""
+msgstr "Περιγραφή"
 
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "Φθίνουσα"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr ""
+msgstr "Παράδειγμα: Γωνιά , Πατησίων και Δεριγνί, Αθήνα"
 
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr ""
+msgstr "Λεπτομέρειες"
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr ""
+msgstr "Άμεση Αναφορά"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Απενεργοποιημένο"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr ""
+msgstr "Ανάκληση έγκρισης"
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Κατέβασμα Αναφορών"
 
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "Κατέβασμα"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία "
 
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr ""
+msgstr "Επεξεργασία πεδίων φόρμας"
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
 msgid "Edit Report"
-msgstr ""
+msgstr "Επεξεργασία Αναφοράς"
 
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr ""
+msgstr "Διεύθυνση ηλεκτρονικού ταχυδρομείου"
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr ""
+msgstr "Ρυθμίσεις διακομιστή αλληλογραφίας"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Mail Server Host"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Mail Server Password"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Mail Server Port"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "Υποστήριξη SSL στον Mail Server "
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Τύπος Mail Server "
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Mail Server Username"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "έτσι οι ρυθμίσεις σας πρέπει να σχετίζονται με αυτήν την ηλεκτρονική διεύθυνση"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "Για να λαμβάνετε αναφορές μέσω ηλεκτρονικού ταχυδρομείου, παρακαλώ εισάγετε τις ρυθμίσεις του λογαριασμού  e-mail σας παρακάτω. Σημειώστε ότι τα μηνύματα θα λαμβάνονται στο"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "Ορισμένοι διακομιστές απαιτούν μια πλήρη διεύθυνση email"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "Password του λογαριασμού e-mail"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Συχνές θύρες: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Παραδείγματα: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "Παραδείγματα: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "Ενεργοποίηση ή απενεργοποίηση συνδέσεων SSL"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---KENO---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr ""
+msgstr "Προς"
 
 #: ui_main.error
 msgctxt "ui_main.error"
 msgid "Error!"
-msgstr ""
+msgstr "Σφάλμα"
 
 #: ui_main.example
 msgctxt "ui_main.example"
 msgid "Example"
-msgstr ""
+msgstr "Παράδειγμα"
 
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
 msgid "Kenya"
-msgstr ""
+msgstr "Κένια"
 
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Εξωτερικές Εφαρμογές"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Εξωτερικό Link Βίντεο"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr ""
+msgstr "Feed"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Υποβάλετε σχόλια"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by clicking on the button "
 "below."
-msgstr ""
+msgstr "Παρακαλώ δώστε μας τα σχόλιά σας για την εμπειρία σας, κάνοντας κλικ στο κουμπί"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr ""
+msgstr "Feeds"
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr ""
+msgstr "το feed έχει"
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr ""
+msgstr "Feed αντικείμενα"
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr ""
+msgstr "Όνομα feed"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr ""
+msgstr "Feed URL"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr ""
+msgstr "Αχρησιμοποίητο πεδίο"
 
 #: ui_main.file
 msgctxt "ui_main.file"
 msgid "File"
-msgstr ""
+msgstr "Αρχείο"
 
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Το αρχείο σας υπερβαίνει το μέγιστο επιτρεπόμενο μέγεθος αρχείου."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "Φίλτρα"
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Φιλτράρισμα Αναφορών"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Φιλτράρισμα Αναφορών με"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Φιλτράρισμα Αναφορών που περιέχουν"
 
 #: ui_main.find
 msgctxt "ui_main.find"
 msgid "Find"
-msgstr ""
+msgstr "Εύρεση"
 
 #: ui_main.find_location
 msgctxt "ui_main.find_location"
 msgid "Find Location"
-msgstr ""
+msgstr "Εύρεση Τοποθεσίας"
 
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
 msgid "First Name"
-msgstr ""
+msgstr "Το όνομά σας"
 
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Force Run Scheduler"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Ξεχάσατε τον password σας;"
 
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr ""
+msgstr "Φόρμα"
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
 msgid "Forms"
-msgstr ""
+msgstr "Φόρμες"
 
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr ""
+msgstr "Περιγραφή φόρμας"
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr ""
+msgstr "Επεξεργασία αυτής της φόρμας"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr ""
+msgstr "Η φόρμα έχει"
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr ""
+msgstr "Τίτλος φόρμας"
 
 #: ui_main.from
 msgctxt "ui_main.from"
 msgid "From"
-msgstr ""
+msgstr "Από"
 
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
 msgid "Full Name"
-msgstr ""
+msgstr "Πλήρες όνομα"
 
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr ""
+msgstr "Γεωαναφορά Διαθέσιμη"
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
 msgid "Color"
-msgstr ""
+msgstr "Χρώμα"
 
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr ""
+msgstr "Σχόλια"
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "Ετικέτα"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "Πλάτος γραφής"
 
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Έναρξη"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr ""
+msgstr "Έχει"
 
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "Πώς μπορείτε να βοηθήσετε"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "Κρυφό"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
 msgid "Hide"
-msgstr ""
+msgstr "Απόκρυψη"
 
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr ""
+msgstr "Απόκρυψη αυτού του μηνύματος"
 
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr ""
+msgstr "Αρχική"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr ""
+msgstr "Πώς αναφέρω"
 
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Χρησιμοποιείται στην ιστοσελίδα για την αναγνώριση σας από άλλους χρήστες ."
 
 #: ui_main.image
 msgctxt "ui_main.image"
 msgid "Image"
-msgstr ""
+msgstr "Εικόνα"
 
 #: ui_main.images
 msgctxt "ui_main.images"
 msgid "Images"
-msgstr ""
+msgstr "Εικόνες"
 
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr ""
+msgstr "Εικόνα/Εικονίδιο"
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr ""
+msgstr "Ανενεργό"
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "Εισερχόμενα"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr ""
+msgstr "Περιστατικό"
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
-msgstr ""
+msgstr "Περιστατικά κοντά"
 
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
 msgid "Incident Location"
-msgstr ""
+msgstr "Τοποθεσία Περιστατικού"
 
 #: ui_main.include
 msgctxt "ui_main.include"
 msgid "Include"
-msgstr ""
+msgstr "Συμπερίληψη"
 
 #: ui_main.include_categories
 msgctxt "ui_main.include_categories"
 msgid "Include Categories"
-msgstr ""
+msgstr "Συμπεριλάβετε Κατηγορίες"
 
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Συμπεριλάβετε προσαρμοζόμενα πεδία"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr ""
+msgstr "Συμπεριλάβετε περιγραφή"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr ""
+msgstr "Συμπεριλάβετε όσο το δυνατόν περισσότερες λεπτομέρειες"
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr ""
+msgstr "Συμπεριλάβετε γεωγραφικό πλάτος"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr ""
+msgstr "Συμπεριλάβετε πληροφορίες θέσης"
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr ""
+msgstr "Συμπεριλάβετε γεωγραφικό μήκος"
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Περιέλαβε προσωπικές πληροφορίες"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "Εισερχόμενα πολυμέσα"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr ""
+msgstr "Αξιολόγηση πληροφορίας "
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
-msgstr ""
+msgstr "Εισάγετε την ακριβή τοποθεσία σας"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Ο λογαριασμός σας δεν έχει τα κατάλληλη δικαιώματά για να συνδεθείτε πλήρως. Παρακαλούμε επικοινωνήστε με τον διαχειριστή."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr ""
+msgstr "Σε απάντηση του"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "Διεύθυνση IP"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "Είναι αυτό το προφίλ σας;"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "Αντικείμενο"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "Αντικείμενα"
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "item_details"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "Τίτλος Αντικειμένου"
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr ""
+msgstr "Κλειδί"
 
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Λέξεις κλειδιά"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "KMZ / KML αρχείο"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "Ανέβασμα αρχείο KMZ / KML "
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr ""
+msgstr "Γλώσσα"
 
 #: ui_main.last
 msgctxt "ui_main.last"
 msgid "Last"
-msgstr ""
+msgstr "Τελευταίο"
 
 #: ui_main.last_month
 msgctxt "ui_main.last_month"
 msgid "Last Month"
-msgstr ""
+msgstr "Τελευταίος μήνας"
 
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr "Επώνυμο"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
 msgid "Last Year"
-msgstr ""
+msgstr "Πέρυσι"
 
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "γεωγραφικό πλάτος"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "Στρώματα"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "Άλλα Στρώματα"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "Το στρώμα έχει"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "Όνομα Στρώματος"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "URL Στρώματος"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Αφήστε ένα σχόλιο"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Λιγότερες Πληροφορίες"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "Επίπεδο"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "Αυτό το επίπεδο έχει"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "Όνομα επιπέδου"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "Περιορισμένο"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "Σύνδεσμος"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Κατάλογος"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Φόρτωση Αναφορών"
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "Τοποθεσία"
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "Τοποθεσίες"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "Πόλη, Πολιτεία και / ή Χώρα"
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "Σύνδεση"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Ο λογαριασμός δημιουργήθηκε με επιτυχία. Μπορείτε να συνδεθείτε τώρα."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "Μια επιβεβαίωση έχει σταλεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου σας."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Η διεύθυνση e-mail δεν υπάρχει. Δοκιμάστε μια διαφορετική διεύθυνση ή δημιουργήσετε λογαριασμό"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Παρακαλώ κάντε κλικ τον πάροχο του λογαριασμού σας"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Σύνδεση με"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "e-mail και κωδικός πρόσβασης"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Εγγραφή"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Δημιουργία Λογαριασμού"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
-msgstr ""
+"Thank you for signing up at %1$s. To confirm your email address, please go "
+"to the following URL: %2$s"
+msgstr "Σας ευχαριστούμε για την εγγραφή στο %1$s. Για να επιβεβαιώσετε τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας, παρακαλούμε επισκεφθείτε την παρακάτω διεύθυνση URL: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Επιβεβαίωση Εγγραφής"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Δημιουργήστε ένα λογαριασμό για να αποκτήστε περισσότερες δυνατότητες στο σύστημα."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "γεωγραφικό μήκος"
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "Χάρτης"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr ""
+msgstr "Σήμανση ως αναγνωσμένο"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Σήμανση ως μη αναγνωσμένο"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
@@ -1565,12 +1565,12 @@ msgstr ""
 #: ui_main.next
 msgctxt "ui_main.next"
 msgid "Next"
-msgstr ""
+msgstr "Επόμενο"
 
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "Όχι"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
@@ -1595,12 +1595,12 @@ msgstr ""
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr ""
+msgstr "Μη Εγκεκριμένο"
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr ""
+msgstr "Μη Εγκεκριμένο"
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
@@ -2155,7 +2155,7 @@ msgstr ""
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr ""
+msgstr "Χρονολόγιο Αναφορών "
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
@@ -2267,7 +2267,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Έχετε ήδη ένα λογαριασμό που διαχειρίζεται η CrowdmapID! Δοκιμάστε να χρησιμοποιήσετε CrowdmapID e-mail και τον κωδικό πρόσβασης σας για να συνδεθείτε."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2342,7 +2342,7 @@ msgstr ""
 #: ui_main.search
 msgctxt "ui_main.search"
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
@@ -2462,7 +2462,7 @@ msgstr ""
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Κοντύτερος Χάρτης"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2481,8 +2481,8 @@ msgstr ""
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
-msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
-msgstr ""
+msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
+msgstr "Εμφάνιση Αναφορων Από <span class=\"time-period\">%1$s εως %2$s </span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2502,7 +2502,7 @@ msgstr ""
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Μικρότερος Χάρτης"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
@@ -2527,12 +2527,12 @@ msgstr ""
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Ταξινόμηση"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Ταξινόμηση με"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2566,8 +2566,8 @@ msgstr ""
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
-msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
-msgstr ""
+msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
+msgstr "Υποβλήθηκε από <strong>%1$s </strong> μέσω <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2602,7 +2602,7 @@ msgstr ""
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "Έρευνα"
 
 #: ui_main.system
 msgctxt "ui_main.system"
@@ -2612,7 +2612,7 @@ msgstr ""
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Ψηλότερος Χάρτης"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2732,7 +2732,7 @@ msgstr ""
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "έμπιστος"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2752,52 +2752,52 @@ msgstr ""
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Μη κατηγοριοποιημένες αναφορές"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
 msgid "unread"
-msgstr ""
+msgstr "Μη αναγνωσμένο"
 
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr ""
+msgstr "Ανεπιβεβαίωτο"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "Ανέβασμα feeds"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr ""
+msgstr "Ανέβασμα"
 
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Δείτε τους οδηγούς υποβολής αναφοράς"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Οδηγός Αποστολής με XML "
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Οδηγός Αποστολής με CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
-msgstr ""
+msgstr "Αρχείο για ανέβασμα"
 
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Ανεβάστε Αναφορές"
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
@@ -2805,58 +2805,58 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Οι στήλες Προσαρμοσμένων πεδίων πρέπει να έχουν επισυναπτόμενο το form_id τους σε αυτά. π.χ. Αν το παιδιο ονομαζεται Test, και για την προεπιλεγμένη φόρμα, η ταυτότητα του είναι 1, θα είναι Test-1. Κατά τη διάρκεια της εισαγωγής έθιμο πεδίο φόρμας, βεβαιωθείτε ότι"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "Με την παρακάτω φόρμα, μπορείτε να εισαγάγετε τα περιστατικά στη μηχανή Ushahidi."
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Οι αναφορές θα πρέπει να υποβάλλονται σε μορφή CSV ή XML."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Αν το ID του περιστατικού υπάρχει ήδη στη βάση δεδομένων, η εγγραφή του CSV / XML αρχείο θα αγνοηθεί."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr ""
+msgstr "Θα πρέπει να περιέχει τουλάχιστον Τίτλο και Ημερομηνία Περιστατικού."
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Αν το γεωγραφικό πλάτος και μήκος στήλες δεν παρέχονται, η τοποθεσία θα προσεγγιστεί γεωγραφικά με τη χρήση του Google Geocoder."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Αν γίνεται εισαγωγή επιπλέον πληροφοριών όπως προσωπικές πληροφορίες και / ή προσαρμοσμένα πεδία φόρμας"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Τουλάχιστον ένα από τα πεδία προσωπικών πληροφοριών (όνομα, επώνυμο, e-mail) πρέπει να υπάρχει. Άδειες έγγραφες δεν θα εισαχθούν"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Οι καταχωρίσεις σας για dropdown fields, radio buttons και checkboxes ταιριάζουν με τις επιλογές που παρέχονται στο προσαρμοσμένο πεδίο στο παράδειγμα σας"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2864,19 +2864,19 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Οι επιλογές των checkboxes χωρίζονται από ένα κόμμα, π.χ. αν η επιλογή σας είναι ανάμεσα σε μήλα, σταφύλια και μάνγκο, θα πρέπει να είναι \"τα μήλα, τα μάνγκο, τα σταφύλια\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Οι Ημερομηνίες είναι στην ακόλουθη μορφή:  ΗΗ/ΜΜ/ΕΕΕΕ π.χ. 3 Οκτωβρίου 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "Ένα δείγμα αναφοράς με CSV "
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2886,7 +2886,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2894,189 +2894,194 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\", \"λεηλασία\", \"03/18/2009 10:10:00\", \"Άκρα\", \"λεηλασία συμβαίνει παντού\", \"ταραχές, θάνατοι, απώλεια περιουσίας,\", ΝΑΙ, ΟΧΙ, \"5,55\", \"-0,2166667 \""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr ""
+msgstr "Ανέβασμα ολοκληρώθηκε "
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "Ανεβάστε Βίντεο"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
 msgid "User"
-msgstr ""
+msgstr "χρήστης"
 
 #: ui_main.username
 msgctxt "ui_main.username"
 msgid "Username"
-msgstr ""
+msgstr "Όνομα χρήστη"
 
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr ""
+msgstr "Ushahidi Διαχειριστής"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "Επιβεβαίωση"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr ""
+msgstr "Επιβεβαιωμένες "
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr ""
+msgstr "Επιβεβαιωμένες εκθέσεις"
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr ""
+msgstr "Επιβεβαιώστε"
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr ""
+msgstr "Επιβεβαιώστε την παρούσα έκθεση"
 
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr ""
+msgstr "Έκδοση"
 
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr ""
+msgstr "μέσω"
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr ""
+msgstr "Βίντεο"
 
 #: ui_main.view
 msgctxt "ui_main.view"
 msgid "View"
-msgstr ""
+msgstr "Όψη"
 
 #: ui_main.views
 msgctxt "ui_main.views"
 msgid "Views"
-msgstr ""
+msgstr "Όψεις"
 
 #: ui_main.view_all
 msgctxt "ui_main.view_all"
 msgid "View All"
-msgstr ""
+msgstr "Προβολή όλων"
 
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr ""
+msgstr "Προβολή όλων των feeds"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
-msgstr ""
+msgstr "Προβολή όλων των αναφορών"
 
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr ""
+msgstr "Προβολή Αντικειμένων"
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr ""
+msgstr "Προβολή περισσότερων"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Προβολή Δημόσιου Προφίλ"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Προβολή Αναφοράς"
 
 #: ui_main.view_reports
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
-msgstr ""
+msgstr "Προβολή Αναφορών"
+
+#: ui_main.view_video
+msgctxt "ui_main.view_video"
+msgid "View Video"
+msgstr "Δείτε το βίντεο"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr ""
+msgstr "Ορατό"
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr ""
+msgstr "Αναμονή έγκρισης"
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr ""
+msgstr "Αναμονή επαλήθευσης"
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Ευρύτερος Χάρτης"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Φόρμα web"
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
 msgid "Weight"
-msgstr ""
+msgstr "Βάρος"
 
 #: ui_main.yes
 msgctxt "ui_main.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Ναι"
 
 #: ui_main.yesterday
 msgctxt "ui_main.yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Χτες"
 
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Το ταμπλό σας"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "Το αρχείο σας"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "Μεγέθυνση"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Σμίκρυνση"

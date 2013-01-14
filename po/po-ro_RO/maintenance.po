@@ -1,18 +1,23 @@
-#. extracted from en_US/maintenance.php, ro_RO/maintenance.php
+# 
+# Translators:
+# Monica Ipate <monica.ipate@gmail.com>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi Web\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-12-09 06:11+0000\n"
+"PO-Revision-Date: 2013-01-03 09:21+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: ro_RO\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: maintenance.message
 msgctxt "maintenance.message"
-msgid "Sorry, our site is currently down for maintenance. Please try again in a few minutes."
-msgstr ""
-
+msgid ""
+"Sorry, our site is currently down for maintenance. Please try again in a few"
+" minutes."
+msgstr "Ne pare rău, site-ul nostru este indisponibil pentru mentenață. Vă rugăm să încercați din nou în câteva minute."

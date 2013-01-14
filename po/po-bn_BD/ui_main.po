@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-12-08 06:06+0000\n"
+"POT-Creation-Date: 2012-12-14 06:11+0000\n"
+"PO-Revision-Date: 2012-12-14 06:05+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1395,9 +1395,9 @@ msgstr "একটি অ্যাকাউন্ট তৈরি করূন"
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
-"Thank you for signing up at %s. To confirm your email address, please go to "
-"the following URL: %s"
-msgstr "সাইন আপ করার জন্য ধন্যবাদ %s. আপনার ই-মেইল আইডিটি নিশ্চিত করতে নিচের লিঙ্কে যান: %s"
+"Thank you for signing up at %1$s. To confirm your email address, please go "
+"to the following URL: %2$s"
+msgstr ""
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -2480,8 +2480,8 @@ msgstr "মেসেজ দেখুন"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
-msgid "Showing Reports From <span class=\"time-period\">%s to %s</span>"
-msgstr "রিপোর্টঃ <span class=\"সময়কাল\">%s হতে %s</span>"
+msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
+msgstr ""
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2565,8 +2565,8 @@ msgstr "রিপোর্ট জমা দিন"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
-msgid "Submitted by <strong>%s</strong> via <strong>%s</strong>"
-msgstr "জমা দেয়া হয়েছে <strong>%s</strong> মাধ্যম <strong>%s</strong>"
+msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
+msgstr ""
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -3014,6 +3014,11 @@ msgstr "রিপোর্ট দেখা"
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
 msgstr "রিপোর্টসমূহ দেখা"
+
+#: ui_main.view_video
+msgctxt "ui_main.view_video"
+msgid "View Video"
+msgstr ""
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
