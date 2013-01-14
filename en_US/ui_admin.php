@@ -279,6 +279,7 @@ $lang = array(
 	'text_field' => 'Text Field',
 	'theme_name' => 'Name',
 	'title' => 'Manage Users',
+	'timeout' => 'Timeout Error',
 	'to' => 'to',
 	'total_records' => 'Total Records',
 	'to_date' => 'to',
