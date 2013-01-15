@@ -1,13 +1,13 @@
 # 
 # Translators:
-#   <appukonrad@gmail.com>, 2012.
+#   <appukonrad@gmail.com>, 2012-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-14 11:38+0000\n"
+"Last-Translator: jui <appukonrad@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1205,7 +1205,7 @@ msgstr "klíč"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Klíčová slova"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -2782,12 +2782,12 @@ msgstr ""
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Průvodce nahráním XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Průvodce nahráním CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2816,14 +2816,14 @@ msgstr "Pomocí níže umístěného formuláře můžete nahrát zprávy (into 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Hlášení musí být nahráno buď v CSV, nebo XML formátu."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Pokud již ID incidentu v databázi existuje, bude záznam v CSV / XML souboru ignorován."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -3019,7 +3019,7 @@ msgstr "Zobrazit události"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Zobrazit video"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3049,7 +3049,7 @@ msgstr "Webový formulář"
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
