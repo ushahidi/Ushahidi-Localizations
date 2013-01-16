@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-11-27 06:06+0000\n"
+"POT-Creation-Date: 2013-01-15 06:11+0000\n"
+"PO-Revision-Date: 2013-01-15 06:04+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
@@ -1442,6 +1442,11 @@ msgstr "Név"
 msgctxt "ui_admin.title"
 msgid "Manage Users"
 msgstr "Felhasználók kezelése"
+
+#: ui_admin.timeout
+msgctxt "ui_admin.timeout"
+msgid "Timeout Error"
+msgstr ""
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
