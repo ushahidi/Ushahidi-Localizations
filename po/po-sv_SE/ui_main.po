@@ -1,13 +1,13 @@
 # 
 # Translators:
-#   <tlindstrom68@gmail.com>, 2012.
+#   <tlindstrom68@gmail.com>, 2012-2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-16 15:41+0000\n"
+"Last-Translator: T68 <tlindstrom68@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -48,7 +48,7 @@ msgstr "Detta kan inte &aringngras. &Auml;r du s&auml;ker p&aring att du vill fo
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr ""
+msgstr "Aktivera"
 
 #: ui_main.active
 msgctxt "ui_main.active"
@@ -68,7 +68,7 @@ msgstr "Skapad av"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Mer information"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -167,7 +167,7 @@ msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "Om du inte kan hitta platsen, klicka på kartan och markera rätt plats."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -262,17 +262,17 @@ msgstr "Ungef&auml;r"
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr ""
+msgstr "Arkiv"
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Arkiverade"
 
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Stigande"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -282,7 +282,7 @@ msgstr "vid"
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr ""
+msgstr "Skribent"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
@@ -402,7 +402,7 @@ msgstr "V&auml;lj data att ladda ner"
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "Eller välj ett eget datumintervall"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
@@ -417,12 +417,12 @@ msgstr ""
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "Rensa"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "Rensa kartan"
 
 #: ui_main.close
 msgctxt "ui_main.close"
@@ -442,7 +442,7 @@ msgstr "F&auml;rg"
 #: ui_main.comment
 msgctxt "ui_main.comment"
 msgid "Comment"
-msgstr ""
+msgstr "Kommentar"
 
 #: ui_main.comments
 msgctxt "ui_main.comments"
@@ -489,12 +489,12 @@ msgstr ""
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "Din e-postadress"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "Meddelande"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
@@ -504,17 +504,17 @@ msgstr ""
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr ""
+msgstr "Ditt namn"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr ""
+msgstr "Ditt telefonnummer"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr ""
+msgstr "Sänd meddelande"
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
@@ -564,7 +564,7 @@ msgstr ""
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Anpassade fält"
 
 #: ui_main.data
 msgctxt "ui_main.data"
@@ -589,12 +589,12 @@ msgstr "Datum & Tid"
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr ""
+msgstr "Dag"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
 msgid "Deactivate"
-msgstr ""
+msgstr "Inaktivera"
 
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
@@ -624,7 +624,7 @@ msgstr "Ta bort inaktiverade"
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "Radera senaste "
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
@@ -634,7 +634,7 @@ msgstr "Ta bort denna rapport"
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr ""
+msgstr "Radera vald"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -654,7 +654,7 @@ msgstr "Beskrivning"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "Fallande"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -689,7 +689,7 @@ msgstr "Ladda ner rapporter"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "Ladda ned"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -796,7 +796,7 @@ msgstr "Aktivera eller inaktivera SSL-anslutning"
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---- TOM ----"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
@@ -821,12 +821,12 @@ msgstr "Sverige"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Mobilappar"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Länk till video (youtube, Vimeo osv)"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -883,7 +883,7 @@ msgstr "Fil"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Din fil är för stor"
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -893,17 +893,17 @@ msgstr "Filter"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Filtrera rapporter"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Filtrera rapporter efter"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Filtrera rapporter som innehåller"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -978,12 +978,12 @@ msgstr "GeoLocation tillg&auml;ngligt"
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
 msgid "Color"
-msgstr ""
+msgstr "Färg"
 
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr ""
+msgstr "Kommentarer"
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
@@ -1138,7 +1138,7 @@ msgstr "Inkludera longitud"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Ange personlig information"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1205,7 +1205,7 @@ msgstr "Nyckel"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Nyckelord"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -1620,7 +1620,7 @@ msgstr ""
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr ""
+msgstr "Det finns inga rapporter"
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
@@ -1630,7 +1630,7 @@ msgstr "Inga resultat"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Av"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1640,7 +1640,7 @@ msgstr "Officiella nyheter"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "På"
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1863,7 +1863,7 @@ msgstr "Observera"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Bilder"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
@@ -1903,7 +1903,7 @@ msgstr "FÖREGÅENDE"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "Visas ej"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
@@ -2292,7 +2292,7 @@ msgstr "Sparad"
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "Spara & lägg till ny"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
@@ -2307,22 +2307,22 @@ msgstr "Spara rapport"
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr ""
+msgstr "Schema"
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr ""
+msgstr "Schemaläggare"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
 msgid "Day"
-msgstr ""
+msgstr "Dag"
 
 #: ui_main.scheduler_hour
 msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
-msgstr ""
+msgstr "Timme"
 
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
@@ -2332,12 +2332,12 @@ msgstr ""
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
-msgstr ""
+msgstr "Minut"
 
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr ""
+msgstr "Veckodag"
 
 #: ui_main.search
 msgctxt "ui_main.search"
@@ -2397,7 +2397,7 @@ msgstr "Skicka"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Skicka bekräftelse"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
@@ -2462,7 +2462,7 @@ msgstr "Delar"
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Kortare karta"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2477,7 +2477,7 @@ msgstr "Visa alla"
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "Visa meddelanden"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
@@ -2502,7 +2502,7 @@ msgstr "Sajtens URL"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Mindre karta"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
@@ -2527,12 +2527,12 @@ msgstr "K&auml;llans namn"
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Sortera"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Sortera efter"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2587,7 +2587,7 @@ msgstr "p&aring din telefon"
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr ""
+msgstr "Det lyckades!"
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
@@ -2612,7 +2612,7 @@ msgstr ""
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Högre karta"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2652,7 +2652,7 @@ msgstr "Denna m&aring;nad"
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr ""
+msgstr "Denna vecka"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
@@ -2697,7 +2697,7 @@ msgstr ""
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr ""
+msgstr "Totalt antal rapporter"
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
@@ -2732,7 +2732,7 @@ msgstr "&Ouml;vers&auml;ttning har sparats"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Pålitlig"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2747,12 +2747,12 @@ msgstr ""
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "Det gick inte att skicka e-post."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Okategoriserade rapporter"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2762,7 +2762,7 @@ msgstr "Ol&auml;st"
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr ""
+msgstr "Obekräftad"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
@@ -2835,7 +2835,7 @@ msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Om ingen position har angetts kommer platsen att geokodas med Google Geocoder"
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
@@ -2904,7 +2904,7 @@ msgstr "Uppladdning OK"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "Ladda upp video"
 
 #: ui_main.url
 msgctxt "ui_main.url"
@@ -2929,7 +2929,7 @@ msgstr ""
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "Bekräftelse"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
@@ -2999,7 +2999,7 @@ msgstr "Visa post"
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr ""
+msgstr "Visa fler"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
@@ -3039,7 +3039,7 @@ msgstr "V&auml;ntar p&aring verifiering"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Bredare karta"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
@@ -3069,19 +3069,19 @@ msgstr "Ig&aring;r"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Din kontrollpanel"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "Din fil"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "Zooma in"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zooma ut"

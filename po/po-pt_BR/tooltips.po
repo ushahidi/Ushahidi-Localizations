@@ -1,13 +1,15 @@
 # 
 # Translators:
 #   <allnoronha@gmail.com>, 2012.
+# Iske Solstag <solstag@member.fsf.org>, 2013.
+#   <solstag@member.fsf.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-09-20 12:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-17 01:21+0000\n"
+"Last-Translator: solstag <solstag@member.fsf.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,19 +23,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr "Isso acrescenta o relatório para categorias adicionais. Se você selecionar uma categoria aqui e já tem o relatório Categoria 2 ligado a ele, o relatório terá, então, ambas categorias 1 e 2."
+msgstr "Isso inclui o relato em categorias adicionais. Se você selecionar Categoria 1 aqui e o relato já tem a Categoria 2 vinculada a ele, o relato então terá ambas Categoria 1 e Categoria 2."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr "Aprova um relatório ou não. Se aprovado, ele vai aparecer publicamente."
+msgstr "Aprova um relato ou não. Se aprovado, ele aparecerá publicamente."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr "Você vai ser capaz de atribuir uma emblema para o usuário iniciador. Escolha o emblema que é atribuído aqui."
+msgstr "Você será capaz de atribuir uma emblema para o usuário gatilho. Escolha o emblema que é atribuído aqui."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -54,7 +56,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr "Se você gostaria de ativar iniciadores somente quando uma determinada categoria está sendo usada, você pode definir isso aqui. Isso permitirá que o iniciador seja ativado se apenas uma das categorias é utilizada. Para o caso de você selecionar Categorias 1 e 2, um relatório será enviado através das Categoria 2 e Categoria 3, que vão passar no teste."
+msgstr "Se você gostaria de ativar gatilhos somente quando uma determinada categoria for utilizada, você pode o definir aqui. Isso permitirá que um gatilho seja ativado caso uma das categorias seja utilizada. Por exemplo, caso você selecione as Categoria 1 e Categoria 2 aqui e um relato for enviado enviado utilizando as Categoria 2 e Categoria 3, ele irá passar no teste."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -80,7 +82,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "O feed pode ser todos os feeds ou feeds específicos. Se você só quer que feeds específicos ativem um gatilho, você deve escolhê-los aqui. De outra forma, você deve deixar isto como \"todos\""
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -88,7 +90,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "Nome de usuário do remetente no Twitter (ou de múltiplos usuários separados por vírgulas). Se você quer ativar gatilhos somente para mensagens no twitter enviadas por um usuário específico, inclua o nome de usuário dele aqui (sem preceder por @)"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -98,7 +100,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr "Você pode optar por deixar em branco se você não quiser verificar as palavras-chave. Se você adicionar palavras aqui, você vai precisar separá-los com uma vírgula (,). Por exemplo, se você deseja ativar um iniciador quando alguém menciona \"amor\" ou \"paz\" em sua mensagem, você vai ter que adicionar \"paz, amor\" na caixa de palavras-chave."
+msgstr "Você pode optar por deixar em branco se você não quiser verificar as palavras-chave. Se você adicionar palavras aqui, você vai precisar separá-los com uma vírgula (,). Por exemplo, se você deseja ativar um gatilho quando alguém menciona \"amor\" ou \"paz\" em sua mensagem, você vai ter que adicionar \"paz, amor\" na caixa de palavras-chave."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -109,7 +111,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr "Você pode escolher qualquer lugar ou um local específico. Se você selecionar um local específico, você será convidado para desenhar uma caixa ao redor da área que qualifica uma ação. Por exemplo, se você quer o iniciador para ser ativado quando alguém apresenta um relatório no Brasil, você irá selecionar \"área específica\" e, em seguida, desenhar a caixa de todo o Brasil. Você pode fazer essas caixas tão pequeno ou tão grande quanto você gostaria. Você também pode desenhar caixas múltiplas."
+msgstr "Você pode escolher qualquer lugar ou um local específico. Se você selecionar um local específico, você será convidado para desenhar uma caixa ao redor da área que qualifica uma ação. Por exemplo, se você quer que o gatilho seja ativado quando alguém apresenta um relato no Brasil, você selecionará \"área específica\" e, em seguida, desenhará a caixa em torno do Brasil. Você pode fazer essas caixas tão pequenas ou tão grandes quanto queira. Você também pode desenhar múltiplas caixas."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -130,7 +132,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr "Se todos os qualificadores acima são passados, o iniciador vai gerar uma resposta. Isto pode variar de aprovar um relatório até um e-mail a um usuário. Selecione a resposta aqui para ativar opções adicionais para as respostas específicas."
+msgstr "Se todos os qualificadores acima passarem, o gatilho gerará uma resposta. Isto pode variar de aprovar um relato a enviar um e-mail para um usuário. Selecione a resposta aqui para ativar opções adicionais para as respostas específicas."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -140,7 +142,7 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr "Se você selecionar \"Usar Iniciador\", o e-mail será enviado para o usuário que executou a ação. Se você selecionar o botão de opção ao lado da caixa de entrada, você poderá digitar um endereço de e-mail personalizado. Isso é útil se você está a criação de iniciadores para notificar as pessoas quando certas partes estão vendo relatórios, check-ins ou alguma outra atividade."
+msgstr "Se você selecionar \"Usuário gatilho\", o e-mail será enviado para o usuário que executou a ação. Se você selecionar o botão de rádio ao lado da caixa de entrada, você poderá digitar um endereço de e-mail personalizado. Isso é útil se você está montando gatilhos para notificar pessoas quando certas partes do mapa estão recebendo relatos, check-ins ou alguma outra atividade."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
@@ -156,7 +158,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr "O iniciador é o principal componente da criação de Iniciadores de Ação . Aqui é onde você determina se gostaria que algo acontecesse quando alguém envia um relatório, realiza um check-in, etc. Você vai ser capaz de filtrar as respostas a essas ações depois de o selecionar."
+msgstr "O gatilho é o principal componente da criação de Gatilhos de Ação . Aqui é onde você determina se gostaria que algo acontecesse quando alguém envia um relato, realiza um check-in, etc. Você será capaz de filtrar as respostas a essas ações depois de selecionar um."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -165,12 +167,12 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr "O usuário pode ser qualquer um, ou um usuário específico. Se você gostaria apenas usuários específicos para ativar um iniciador, você deve selecioná-los aqui. Caso contrário, você vai querer deixar este como \"qualquer um\", já que a maioria dos iniciadores são criados para todos os usuários interajam com o sistema"
+msgstr "O usuário pode ser qualquer um, ou um usuário específico. Se você quer que apenas usuários específicos ativem um gatilho, você deve selecioná-los aqui. Caso contrário, você deve deixar este como \"qualquer um\", já que a maioria dos gatilhos são criados para todos os usuários interagindo com o sistema"
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr "Marca um relatório como verificado ou não."
+msgstr "Marca um relato como verificado ou não."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -267,7 +269,7 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr "Seu perfil pode ser visto por qualquer pessoa na Internet, se você marcar essa opção. Esta é também a maneira mais fácil de mostrar os relatórios que você apresentados, seus checkins, emblemas, etc tudo em uma página"
+msgstr "Seu perfil pode ser visto por qualquer pessoa na Internet se você marcar essa opção. Esta é também a maneira mais fácil de mostrar os relatos que você enviou, seus check-ins, emblemas etc, tudo em uma página"
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
@@ -456,7 +458,7 @@ msgstr "Define qual mapa será usado no site."
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr "Isto mostra a linha do tempo com base na data e hora relatórios foram apresentados"
+msgstr "Isto mostra a linha do tempo com base na data e hora em que relatos foram enviados"
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
@@ -482,7 +484,7 @@ msgstr "Esse é onde os emails são arquivados"
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr "Esse é a senha para o endereço de email que recebe os relatórios"
+msgstr "Este é a senha para o endereço de email que recebe relatos."
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
@@ -549,7 +551,7 @@ msgctxt "tooltips.settings_site_submit_report_message"
 msgid ""
 "This is a message that will show up on the submit report page. This is good "
 "for disclaimers or further instructions for your visitors who are reporting."
-msgstr "Esta é uma mensagem que vai aparecer na página do relatório de envio. Isso é bom para renúncias ou instruções adicionais para os visitantes que estão reportando."
+msgstr "Esta é uma mensagem que aparecerá na página de envio de relato. Isso é bom para avisos ou instruções adicionais para os visitantes que estão reportando."
 
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
@@ -562,7 +564,7 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr "Este é o fuso horário que seu site irá operar. Isso tem um impacto sobre as ações que você configurou que utilizar o tempo e data, bem como o tempo padrão atual de relatórios sobre a frente e para trás final do site"
+msgstr "Este é o fuso horário em que seu site operará. Isso impacta quaisquer ações que você configurou que utilizem data e hora, bem como o horário padrão para relatos, seja na interação com ou no mecanismo interno do site."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"

@@ -1,13 +1,15 @@
 # 
 # Translators:
 #   <allnoronha@gmail.com>, 2012.
+# Iske Solstag <solstag@member.fsf.org>, 2013.
+#   <solstag@member.fsf.org>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-01-15 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-17 01:22+0000\n"
+"Last-Translator: solstag <solstag@member.fsf.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -77,7 +79,7 @@ msgstr "Alertas Recebidos"
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "Tudo"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -358,12 +360,12 @@ msgstr "Data e horário"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Data de inclusão"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Data de modificação"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -955,7 +957,7 @@ msgstr "Meu perfil"
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr "Meus Relatórios"
+msgstr "Meus Relatos"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
@@ -1003,7 +1005,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr "Esta é uma categoria especial que não vai aparecer no formulário de envio de relatório para usuários que enviam relatórios. Isto é usado para armazenar os relatórios deixadas sem categorias (relatórios não categorizados), como resultado da supressão da categoria"
+msgstr "Esta é uma categoria especial que não aparecerá no formulário de envio de relatos para os usuários enviando relatos. ELa é usada para armazenar os relatos deixados sem categorias (relatórios não categorizados) como resultado da remoção de uma categoria."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1078,12 +1080,12 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "Desculpe, a página que você tentou acessar não está aqui.<p><strong>Você seguiu um link de outra parte de nosso site?</strong><br />Se você chegou nesta página por outra parte de nosso site, por favor <a href=\"%s\">contacte-nos</a> para que corrijamos nosso erro.</p><p><strong>Você seguiu um link em outro site? </strong><br />Links de outros sites podem às vezes ter perdido a validade ou conterem erros. <a href=\"%s\">Diga-nos</a> de onde você veio e nós tentaremos contactar o outro site para consertar o problema.</p><p><strong>Você digitou o URL? </strong><br />Você pode ter digitado errado o endereço (URL). Verifique se usou as letras e símbolos exatos, e não trocou maiúsculas com minúsculas etc. </p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Desculpe, a página que você tentou acessar não está aqui."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1207,7 +1209,7 @@ msgstr "Título do Relato"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Data do relato"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1259,7 +1261,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Este email já tem uma conta gerenciada pelo CrowdmapID. O usuário deve utilizar a senha já existente para autenticar-se."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1303,7 +1305,7 @@ msgstr "Instruções estão disponíveis no Wiki:"
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Selecione os formatos de descarga de relatos desejados:-"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1446,7 +1448,7 @@ msgstr "Gerenciar usuários"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Erro de tempo expirado"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1471,17 +1473,17 @@ msgstr "Traduzir relatos"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr "Iniciador"
+msgstr "Gatilho"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr "Usuário do iniciador"
+msgstr "Usuário gatilho"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr "Iniciadores"
+msgstr "Gatilhos"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
@@ -1581,7 +1583,7 @@ msgstr "Ver site"
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr "Ver Relatório"
+msgstr "Ver Relato"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
@@ -1596,7 +1598,7 @@ msgstr "Wiki"
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
