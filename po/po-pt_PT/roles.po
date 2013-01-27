@@ -1,25 +1,30 @@
-#. extracted from en_US/roles.php, pt_PT/roles.php
+# 
+# Translators:
+# Luís Lago <luisalveslago@gmail.com>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-15 04:40+0000\n"
-"PO-Revision-Date: 2012-08-15 04:40+0000\n"
+"Project-Id-Version: Ushahidi Web\n"
+"Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
+"POT-Creation-Date: 2012-12-09 06:11+0000\n"
+"PO-Revision-Date: 2013-01-26 16:23+0000\n"
+"Last-Translator: luislago <luisalveslago@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: pt_PT\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: roles.description.length
 msgctxt "roles.description.length"
-msgid "The Description field must be at least 3 and no more 100 characters long."
+msgid ""
+"The Description field must be at least 3 and no more 100 characters long."
 msgstr ""
 
 #: roles.description.required
 msgctxt "roles.description.required"
 msgid "The Description field is required."
-msgstr ""
+msgstr "O campo de \"descrição\" é de preenchimento obrigatório"
 
 #: roles.name.alpha_numeric
 msgctxt "roles.name.alpha_numeric"
@@ -39,7 +44,7 @@ msgstr ""
 #: roles.name.required
 msgctxt "roles.name.required"
 msgid "The Name field is required."
-msgstr ""
+msgstr "O campo \"nome\" é de preenchimento obrigatório"
 
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"
@@ -55,4 +60,3 @@ msgstr ""
 msgctxt "roles.permissions.numeric"
 msgid "Permissions field must be a number between 0 - 100."
 msgstr ""
-

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Luís Lago <luisalveslago@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-26 16:53+0000\n"
+"Last-Translator: luislago <luisalveslago@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,22 +23,22 @@ msgstr ""
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
 msgid "Automatic Upgrade"
-msgstr ""
+msgstr "Atualização de versão automática"
 
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "Atualização automática"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
 msgid "Continue"
-msgstr ""
+msgstr "Continuar"
 
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr ""
+msgstr "Atualizar versão"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
@@ -93,7 +94,7 @@ msgstr ""
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "Atualização de versão manual"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
@@ -168,7 +169,7 @@ msgstr ""
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "A atualizar"
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
@@ -185,12 +186,12 @@ msgstr ""
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "Password do FTP:"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "Nome de Utilizador do FTP"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
@@ -205,7 +206,7 @@ msgstr ""
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "Versão da base de dados: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
@@ -220,7 +221,7 @@ msgstr ""
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "Base de dados:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
@@ -230,12 +231,12 @@ msgstr ""
 #: upgrade.beta
 msgctxt "upgrade.beta"
 msgid "BETA!"
-msgstr ""
+msgstr "BETA!"
 
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "Descarregar a última versão do ushahidi..."
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
@@ -250,7 +251,7 @@ msgstr ""
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "O download falhou."
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"

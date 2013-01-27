@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Luís Lago <luisalveslago@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-08-19 23:03+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"PO-Revision-Date: 2013-01-26 17:37+0000\n"
+"Last-Translator: luislago <luisalveslago@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,12 +18,12 @@ msgstr ""
 #: layer.layer_color.length
 msgctxt "layer.layer_color.length"
 msgid "The color field must be 6 characters long."
-msgstr ""
+msgstr "O campo de cor tem de ter 6 carateres"
 
 #: layer.layer_color.required
 msgctxt "layer.layer_color.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "O campo de cor é obrigatório."
 
 #: layer.layer_file.type
 msgctxt "layer.layer_file.type"
@@ -34,17 +35,17 @@ msgstr "The file field does not appear to contain a valid file. The only accepte
 #: layer.layer_file.valid
 msgctxt "layer.layer_file.valid"
 msgid "The file field does not appear to contain a valid file"
-msgstr ""
+msgstr "O campo de ficheiro não contem um ficheiro válido"
 
 #: layer.layer_name.length
 msgctxt "layer.layer_name.length"
 msgid "The name field must be at least 3 and no more 80 characters long."
-msgstr ""
+msgstr "O campo de nome tem um mínimo de 3 e um máximo de 80 carateres"
 
 #: layer.layer_name.required
 msgctxt "layer.layer_name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "O campo de nome é obrigatório"
 
 #: layer.layer_url.atleast
 msgctxt "layer.layer_url.atleast"
