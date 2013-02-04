@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-02-02 20:40+0000\n"
+"PO-Revision-Date: 2013-02-03 19:15+0000\n"
 "Last-Translator: mindthecam <mindthecam.gr@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,24 +20,24 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "Απαγόρευση πρόσβασης. Είτε τα στοιχεία πρόσβασης δεν είναι έγκυρα, ή το αίτημά σου έχει απορριφθεί."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr ""
+msgstr "Απαγόρευση πρόσβασης. Το αίτημά σου έγινε κατανοητό, αλλά απορρίφθηκε λόγω περιορισμών στο χρόνο πρόσβασης.  Δοκίμασε ξανά αργότερα."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Επίπεδο πρόσβασης"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
 msgid "Actions"
-msgstr ""
+msgstr "Δράσεις"
 
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
@@ -57,7 +57,7 @@ msgstr "Προσθήκη/επεξεργασία"
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Πρόσθετα"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
@@ -72,7 +72,7 @@ msgstr "Ειδοποιήσεις"
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Ληφθείσες ειδοποιήσεις"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -92,7 +92,7 @@ msgstr "Ανώνυμος"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Οποιοσδήποτε"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
@@ -102,32 +102,32 @@ msgstr "Οπουδήποτε"
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "Απορριπτέο API"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "Ημερολόγιο καταγραφής συμβάντων API"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "Ρυθμίσεις API"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "Αναίρεση κατάργησης"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "Αναίρεση κατάργησης όλων "
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
 msgid "approved"
-msgstr ""
+msgstr "εγκεκριμένο"
 
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
@@ -137,7 +137,7 @@ msgstr "Αυτόματη Έγκριση"
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
-msgstr ""
+msgstr "Χειροκίνητη εγκριση"
 
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
@@ -162,32 +162,32 @@ msgstr "Είστε σίγουρος ότι θέλετε να διαγράψετ�
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Είσαι σίγουρος ότι θέλεις να αλλάξεις φόρμες;"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Ανάθεσε"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Αναθέσεις"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Ανάθεσε σήμα"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "Συντάκτης"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr ""
+msgstr "Συντάκτης email"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
@@ -197,17 +197,17 @@ msgstr "Πίσω"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "Κατάργηση IP"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Μεταξύ χρονικών στιγμών"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
@@ -227,7 +227,7 @@ msgstr "Κατηγορίες"
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Πίνακας σφαλμάτων"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
@@ -247,12 +247,12 @@ msgstr "Παρακαλώ ελέγξτε τις ρυθμίσεις των μην�
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Λεπτομέρειες checkin"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Checkins"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
@@ -267,7 +267,7 @@ msgstr "κωδικός"
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr ""
+msgstr "Η έκδοση του κώδικα είναι εκτός συγχρονισμού"
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
@@ -277,128 +277,128 @@ msgstr "Χρώμα"
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Σχόλια"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
-msgstr ""
+msgstr "Ο κωδικός επιβεβαίωσης ειδοποιήσεων είναι: "
 
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "Ο χρήστης έχει"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Μετράω"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "Η χώρα δε βρέθηκε"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
 msgid "created/edited"
-msgstr ""
+msgstr "δημιουργήθηκε / διορθώθηκε"
 
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr ""
+msgstr "Φτιάξε μια Αναφορά"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr ""
+msgstr "Κρίσιμη αναβάθμιση"
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Ενεργοποιημένα"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Ανενεργά"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "Δεν έχεις επαρκή δικαιώματα για να διορθώσεις τα ακόλουθα προσαρμοσμένα πεδία."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "Καθημερινά"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr ""
+msgstr "Πίνακας ελέγχου"
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
 msgid "database"
-msgstr ""
+msgstr "βάση δεδομένων"
 
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "Ημερομηνία & Ώρα"
 
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Προστέθηκε η ημερομηνία"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Τροποποιήθηκε η ημερομηνία"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Ημέρες της εβδομάδας"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr ""
+msgstr "Έκδοση βάσης δεδομένων εκτός συγχρονισμού"
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr ""
+msgstr "σβήστηκε"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
 msgid "Delete"
-msgstr ""
+msgstr "Σβήσε"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete All"
-msgstr ""
+msgstr "Σβήστα όλα"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "Σβήσε το σήμα"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -413,47 +413,47 @@ msgstr "Απενεργοποιήθηκε"
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "Αρχή διαχωριστικού"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "Τέλος διαχωριστικού"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Κατέβασε τις Αναφορές"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "Επιλογές πτυσσόμενης λίστας"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "ΔΙΟΡΘΩΘΗΚΕ"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr ""
+msgstr "Διορθώθηκε από τον/την"
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "Διόρθωσε"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr ""
+msgstr "Αρχείο καταγραφής συμβάντων διόρθωσης"
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
@@ -463,17 +463,17 @@ msgstr "Ηλεκτρονικό μήνυμα"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Ολόκληρη η συλλογή"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
 msgid "Error in geocoding! HTTP error"
-msgstr ""
+msgstr "Σφάλμα στην γεω-κωδικοποίηση. Σφάλμα HTTP"
 
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
-msgstr ""
+msgstr "Η βιβλιοθήκη IMAP PHP δεν έχει εγκατασταθεί."
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -508,17 +508,17 @@ msgstr "Συχνές ερωτήσεις"
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
 msgid "feed"
-msgstr ""
+msgstr "ροή πληροφοριών"
 
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
 msgid "Feedback"
-msgstr ""
+msgstr "Ανατροφοδότηση"
 
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
 msgid "feeds"
-msgstr ""
+msgstr "ροές πληροφοριών"
 
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
@@ -528,22 +528,22 @@ msgstr "Λίστα επιλογών"
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr ""
+msgstr "Προκαθορισμένη τιμή"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "Είδος δεδομένων"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Markup"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -553,22 +553,22 @@ msgstr "Αριθμητικό"
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "Ελεύθερο κείμενο"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
 msgid "Height (In Rows)"
-msgstr ""
+msgstr "Ύψος (σε σειρές)"
 
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "Κρυμμένο πεδίο"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
-msgstr ""
+msgstr "Μέγιστο μήκος χαρακτήρων"
 
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
@@ -578,7 +578,7 @@ msgstr "Όνομα Πεδίου"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "Εναλλαγή"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -588,57 +588,57 @@ msgstr "Όχι"
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "Ναι, προκαθορισμένη τιμή: κλειστό"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "Ναι, προκαθορισμένη τιμή: ανοιχτό"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
 msgid "Could not find uploaded file"
-msgstr ""
+msgstr "Δεν μπόρεσα να βρω το μεταφορτωμένο αρχείο"
 
 #: ui_admin.file_open_error
 msgctxt "ui_admin.file_open_error"
 msgid "Could not open file for reading"
-msgstr ""
+msgstr "Δεν μπόρεσα να ανοίξω το αρχείο για ανάγνωση"
 
 #: ui_admin.form_not_exists
 msgctxt "ui_admin.form_not_exists"
 msgid "That Form Does Not Exist!"
-msgstr ""
+msgstr "Αυτή η φόρμα δεν υπάρχει!"
 
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "Φόρουμ"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr ""
+msgstr "Πεδίο περιοχής κειμένου (ελεύθερο κείμενο)"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "Πεδίο ημερομηνίας"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr ""
+msgstr "Πεδίο ραδιοφωνικών κουμπιών"
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
-msgstr ""
+msgstr "Πεδίο checkboxes"
 
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr ""
+msgstr "Πεδίο πτυσσόμενης λίστας"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -653,114 +653,114 @@ msgstr "Από"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr ""
+msgstr "Σφάλμα λήξης χρόνου γεω-ονομάτων"
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
 msgid "Get Help"
-msgstr ""
+msgstr "Αναζήτησε βοήθεια"
 
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "Κατέβασε περισσότερα θέματα"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "Κατέβασε περισσότερα πρόσθετα"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
 msgid "Actions"
-msgstr ""
+msgstr "Δράσεις"
 
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "Προσθήκη / Διόρθωση"
 
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
 msgid "Manage Users"
-msgstr ""
+msgstr "Διαχείριση χρηστών"
 
 #: ui_admin.header_role
 msgctxt "ui_admin.header_role"
 msgid "Role"
-msgstr ""
+msgstr "Ρόλος"
 
 #: ui_admin.header_user
 msgctxt "ui_admin.header_user"
 msgid "User"
-msgstr ""
+msgstr "Χρήστης"
 
 #: ui_admin.help
 msgctxt "ui_admin.help"
 msgid "help"
-msgstr ""
+msgstr "βοήθεια"
 
 #: ui_admin.hourly
 msgctxt "ui_admin.hourly"
 msgid "Hourly"
-msgstr ""
+msgstr "Ωριαίος"
 
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr ""
+msgstr "Ροή περιστατικού για"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "Ο φάκελος εγκατάστασης υπάρχει ακόμα. Διάγραψέ τον. Αποτελεί πιθανό κίνδυνο ασφάλειας για το σύστημά σου."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr ""
+msgstr "Instance"
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr ""
+msgstr "Instances"
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr ""
+msgstr "Λεπτομέρειες instance"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
-msgstr ""
+msgstr "Μη έγκυρη παράμετρος"
 
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "Διεύθυνση IP"
 
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
-msgstr ""
+msgstr "Είναι αυτό ένα πεδίο ημερομηνίας;"
 
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Ποιος μπορεί να βλέπει τις απαντήσεις"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Ποιος μπορεί να υποβάλλει απαντήσεις"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
@@ -800,22 +800,22 @@ msgstr "Όνομα χρήστη:"
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
 msgid "Layers"
-msgstr ""
+msgstr "Επίπεδα"
 
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr ""
+msgstr "Διαχειριστής"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
 msgid "Logout"
-msgstr ""
+msgstr "Έξοδος από το σύστημα"
 
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
 msgid "Logs"
-msgstr ""
+msgstr "Αρχεία καταγραφής περιστατικών"
 
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
@@ -825,12 +825,12 @@ msgstr "Διαχείρηση"
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
-msgstr ""
+msgstr "Διαχείριση ρόλων & επιπέδων πρόσβασης"
 
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
 msgid "View Users"
-msgstr ""
+msgstr "Δες τους χρήστες"
 
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
@@ -840,27 +840,27 @@ msgstr "Προσθήκη/Επεξεργασία χρηστών"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Διαχείριση της δημόσιας καταχώρησης του χάρτη σου"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Επισήμανε ως"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "επισήμανε ως μη κακόβουλο"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "επισημασμένο ως κακόβουλο"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "δεν βρέθηκαν έγγραφα να ταιριάζουν"
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
@@ -875,12 +875,12 @@ msgstr "Μηνύματα"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr ""
+msgstr "Μηνύματα laconica"
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr ""
+msgstr "Μηνύματα twitter"
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
@@ -890,7 +890,7 @@ msgstr "Το μήνυμα εστάλει!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -905,37 +905,37 @@ msgstr "Λεπτά"
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "Λείπει κάποια παράμετρος"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "Διαχειριστής"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
 msgid "modified"
-msgstr ""
+msgstr "τροποποιημένο"
 
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "Τροποποίησε τις ρυθμίσεις της ζώνης χρόνου"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
 msgid "move down"
-msgstr ""
+msgstr "κινήσου προς τα κάτω"
 
 #: ui_admin.move_up_action
 msgctxt "ui_admin.move_up_action"
 msgid "move up"
-msgstr ""
+msgstr "κινήσου προς τα πάνω"
 
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr ""
+msgstr "Πολλαπλές εγκαταστάσεις"
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -945,7 +945,7 @@ msgstr "ΟΙ ειδοποιήσεις μου"
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "Τα checkin μου"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -960,7 +960,7 @@ msgstr "Οι αναφορές μου"
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr ""
+msgstr "Ψήφοι που έχουν δοθεί"
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
@@ -1003,67 +1003,67 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "Αυτή είναι μια ειδική κατηγορία η οποία δε θα φαίνεται στους χρήστες που θα συμπληρώνουν τη φόρμα υποβολής αναφοράς. Χρησιμοποιείται για να αρχειοθετούνται οι αναφορές που δεν έχουν κατηγορία (μη-κατηγοριοποιημένες αναφορές), το οποίο προκύπτει όταν σβηστεί κάποια κατηγορία."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr ""
+msgstr "Ειδοποίηση"
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr ""
+msgstr "Τα κεφαλαία και τα πεζά θεωρούνται τα ίδια."
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
 msgid "Not Found"
-msgstr ""
+msgstr "Δε βρέθηκε"
 
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr ""
+msgstr "Δεν υπάρχουν δεδομένα. Δεν υπάρχουν αποτελέσματα προς απεικόνιση."
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "Δεν υπάρχει σφάλμα."
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr ""
+msgstr "Δεν υπάρχουν αποτελέσματα!"
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr ""
+msgstr "του"
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "On Specific Count"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID's"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
 msgid "page"
-msgstr ""
+msgstr "σελίδα"
 
 #: ui_admin.pages
 msgctxt "ui_admin.pages"
 msgid "pages"
-msgstr ""
+msgstr "σελίδες"
 
 #: ui_admin.page_not_found
 msgctxt "ui_admin.page_not_found"
 msgid "Page Not Found"
-msgstr ""
+msgstr "Η σελίδα δε βρέθηκε"
 
 #: ui_admin.page_not_found_message_with_contact
 msgctxt "ui_admin.page_not_found_message_with_contact"
@@ -1078,76 +1078,76 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "Συγγνώμη, η σελίδα που προσπαθείς να δεις δεν είναι εδώ.<p><strong>Ακολούθησες κάποιο σύνδεσμο από κάποιο άλλο σημείο του site σου;</strong><br />Εάν έφτασες εδώ από κάποιο άλλο σημείο του site σου, παρακαλούμε <a href=\"%s\">επικοινώνησε μαζί μας</a> για να διορθώσουμε το σφάλμα.</p><p><strong>Ακολούθησες κάποιο σύνδεσμο από ένα άλλο site; </strong><br />Τα links από άλλα site μπορούν να είναι παρωχημένα ή να περιέχουν εσφαλμένη ορθογραφία <a href=\"%s\">Πες μας</a> από που ήρθες και θα επικοινωνήσουμε μαζί τους για να διορθώσουν το πρόβλημα.</p><p><strong>Πληκτρολόγησες τη διεύθυνση; </strong><br />Μπορεί να έχεις πληκτρολογήσει λάθος διεύθυνση (URL). Κάνε έλεγχο για να βεβαιωθείς ότι η ορθογραφία, τα πεζά - κεφαλαία κλπ είναι σωστά.</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Συγγνώμη, η σελίδα που προσπαθείς να δεις δεν είναι εδώ."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
-msgstr ""
+msgstr "Παράμετροι που έχουν χρησιμοποιηθεί"
 
 #: ui_admin.password
 msgctxt "ui_admin.password"
 msgid "Password"
-msgstr ""
+msgstr "Κωδικός"
 
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
+msgstr "Αίτημα επανέκδοσης κωδικού"
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr ""
+msgstr "Αγαπητέ/ή"
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "Λάβαμε ένα αίτημα επανέκδοσης κωδικού για"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr ""
+msgstr "Για να αλλάξεις τον κωδικό σου, παρακαλώ κάνε κλικ στον παρακάτω σύνδεσμο (ή ανέγραψε και επικόλλησέ τον στο browser σου)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "Σύμφωνα με το αίτημα που μας έστειλες, ο κωδικός σου έχει επανεκδοθεί. Τα νέα στοιχεία έχουν ως ακολούθως"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr ""
+msgstr "Επανέκδοση κωδικού για το Ushahidi"
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Τηλέφωνο"
 
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr ""
+msgstr "Παρακαλώ επίλεξε"
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
 msgid "PM"
-msgstr ""
+msgstr "ΜΜ"
 
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr ""
+msgstr "Τα δεδομένα δε στάλθηκαν με τη μέθοδο post"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1182,22 +1182,22 @@ msgstr "Στον"
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "Δημόσια καταχώρηση του site"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "Qualifiers"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr ""
+msgstr "διάβασε"
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr ""
+msgstr "Σχετικότητα"
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
@@ -1207,17 +1207,17 @@ msgstr "Τίτλος αναφοράς"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Ημερομηνία Αναφοράς"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Ανταποκριτές"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "Επίπεδα ανταποκριτών"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
@@ -1227,22 +1227,22 @@ msgstr "Αναφορές"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "Σκορ φήμης"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
 msgid "Required"
-msgstr ""
+msgstr "Απαιτείται"
 
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Μηδενισμός τιμής"
 
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Απόκριση"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1252,14 +1252,14 @@ msgstr "Αποτελέσματα"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "Ανάκληση"
 
 #: ui_admin.riverid_exists_admin
 msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Αυτό το email αντιστοιχεί ήδη σε λογαριασμό, τον οποίο διαχειρίζεται το CrowdmapID. Ο χρήστης θα πρέπει να χρησιμοποιήσει τον υφιστάμενο κωδικό του για να μπει στο σύστημα."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1286,29 +1286,29 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "Το κλειδί κρυπτογράφησης έχει ακόμα την προκαθορισμένη τιμή. Αυτό είναι μη ασφαλές και πρέπει να το αλλάξεις."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "Το site αυτό χρησιμοποιεί HTTP. Θα πρέπει να το αλλάξεις σε HTTPS για αυξημένη ασφάλεια."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Θα βρεις οδηγίες στο wiki:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Επίλεξε την επιθυμητή μορφή για τη μεταφόρτωση των Αναφορών:"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
-msgstr ""
+msgstr "--- Διάλεξε ένα τύπο πεδίου ---"
 
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
@@ -1318,12 +1318,12 @@ msgstr "Παρακαλώ επιλέξτε ένα αντικείμενο"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "Πρέπει να διαλέξεις ένα γεγονός πυροδότησης (trigger) προτού μπορέσεις να επιλέξεις την απόκριση."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "Πρέπει να διαλέξεις ένα γεγονός πυροδότησης (trigger) προτού μπορέσεις να επιλέξεις τα qualifiers."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1343,7 +1343,7 @@ msgstr "Αυτό το μήνυμα εστάλει από την ιστοσελί
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Ώρα server."
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1353,17 +1353,17 @@ msgstr "Ρυθμίσεις"
 #: ui_admin.showing_page
 msgctxt "ui_admin.showing_page"
 msgid "Showing page"
-msgstr ""
+msgstr "Βλέπεις τη σελίδα"
 
 #: ui_admin.showing_results
 msgctxt "ui_admin.showing_results"
 msgid "Showing results"
-msgstr ""
+msgstr "Βλέπεις τα αποτελέσματα"
 
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "έχουν βρεθεί"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
@@ -1376,42 +1376,42 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "Αυτή είναι μια ειδική κατηγορία η οποία δε θα φαίνεται στους χρήστες όταν υποβάλουν μια Αναφορά. Χρησιμοποιείται σε συνδυασμό με το χαρακτηριστικό \"Έμπιστος ανταποκριτής\"."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "Ειδική περιοχή"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
 msgid "State"
-msgstr ""
+msgstr "Πολιτεία"
 
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
 msgid "Statistics"
-msgstr ""
+msgstr "Στατιστικά"
 
 #: ui_admin.stats
 msgctxt "ui_admin.stats"
 msgid "Stats"
-msgstr ""
+msgstr "Στατιστικά"
 
 #: ui_admin.stats_collection_error
 msgctxt "ui_admin.stats_collection_error"
 msgid "Stat collection failed! Please try again later."
-msgstr ""
+msgstr "Απέτυχε η συλλογή στατιστικών στοιχείων. Παρακαλώ προσπάθησε ξανά αργότερα."
 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
 msgid "Stat Collection Failed!"
-msgstr ""
+msgstr "Απέτυχε η συλλογή στατιστικών στοιχείων. "
 
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "Συγκεκριμένες μέρες"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
@@ -1421,112 +1421,112 @@ msgstr "Θέμα"
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr ""
+msgstr "Υπερ-Διαχειριστής"
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
-msgstr ""
+msgstr "Το έργο ολοκληρώθηκε"
 
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
 msgid "Text Field"
-msgstr ""
+msgstr "Πεδίο κειμένου"
 
 #: ui_admin.theme_name
 msgctxt "ui_admin.theme_name"
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 #: ui_admin.title
 msgctxt "ui_admin.title"
 msgid "Manage Users"
-msgstr ""
+msgstr "Διαχείριση χρηστών"
 
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Σφάλμα τέλους χρόνου"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
 msgid "to"
-msgstr ""
+msgstr "σε"
 
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
 msgid "Total Records"
-msgstr ""
+msgstr "Σύνολο εγγραφών "
 
 #: ui_admin.to_date
 msgctxt "ui_admin.to_date"
 msgid "to"
-msgstr ""
+msgstr "σε"
 
 #: ui_admin.translate_reports
 msgctxt "ui_admin.translate_reports"
 msgid "Translate Reports"
-msgstr ""
+msgstr "Μετάφρασε Αναφορές"
 
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "Γεγονός πυροδότησης"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "Χρήστης που ενεργοποιεί ένα γεγονός πυροδότησης"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "Γεγονότα πυροδότησης"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
 msgid "unapproved"
-msgstr ""
+msgstr "μη εγκεκριμένο"
 
 #: ui_admin.unknown
 msgctxt "ui_admin.unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Άγνωστο"
 
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "Άγνωστο σφάλμα"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
 msgid "unread"
-msgstr ""
+msgstr "μη αναγνωσμένο"
 
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "Δε θα λαμβάνεις πλέον ειδοποιήσεις από"
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
 msgid " Click here to upgrade now"
-msgstr ""
+msgstr "Κάνε κλικ εδώ για αναβάθμιση τώρα"
 
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr ""
+msgstr "Αναβάθμισε το Ushahidi"
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr ""
+msgstr "Κατάσταση αναβάθμισης Ushahidi"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Ανέβασε Αναφορές"
 
 #: ui_admin.user
 msgctxt "ui_admin.user"
@@ -1541,17 +1541,17 @@ msgstr "Χρήστες"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr ""
+msgstr "Επιβεβαιωμένο / Μη επιβεβαιωμένο"
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr ""
+msgstr "Επιβεβαίωσε / Ακύρωσε επιβεβαίωση"
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
@@ -1566,7 +1566,7 @@ msgstr "είναι διαθέσιμο για αναβάθμιση."
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
 msgid "Video Encoding"
-msgstr ""
+msgstr "Κωδικοποίηση βίντεο"
 
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
@@ -1576,27 +1576,27 @@ msgstr "Προσωπικό μήνυμα"
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
 msgid "View Site"
-msgstr ""
+msgstr "Δες το site"
 
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Δες την Αναφορά"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
 msgid "Welcome, "
-msgstr ""
+msgstr "Καλώς όρισες,"
 
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
