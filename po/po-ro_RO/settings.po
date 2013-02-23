@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-01-06 19:41+0000\n"
+"PO-Revision-Date: 2013-02-21 13:42+0000\n"
 "Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -151,39 +151,39 @@ msgstr "Curăță URL-uri"
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "Câmpul numeric Clickatell API nu trebuie să aiba mai mult de 20 de caractere lungime."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "Câmpul numeric Clickatell API este necesar."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Câmpul Clickatell trebuie să aiba cel putin 5 dar nu mai mult de 50 de caractere lungime."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "Câmpul Clickatell este necesar."
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Câmpul Clickatell Username nu trebuie să aiba mai mult de 50 de caractere lungime."
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr ""
+msgstr "Câmpul Clickatell Username este necesar."
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "Configurare harta"
 
 #: settings.default_location
 msgctxt "settings.default_location"
@@ -198,7 +198,7 @@ msgstr ""
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "Campul culoare nu trebuie sa aiba mai mult de 6 caractere lungime."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
@@ -368,12 +368,12 @@ msgstr ""
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
-msgstr ""
+msgstr "Introduce noua cheie API"
 
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr ""
+msgstr "Obtine o cheie API "
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
@@ -395,7 +395,7 @@ msgstr ""
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Setari harta"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -405,7 +405,7 @@ msgstr ""
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "Selecteaza o tara default"
 
 #: settings.set_location
 msgctxt "settings.set_location"
@@ -440,12 +440,12 @@ msgstr ""
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
-msgstr ""
+msgstr "Cheie Akismet "
 
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Site Banner"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -455,12 +455,12 @@ msgstr ""
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
 msgid "Cache Pages"
-msgstr ""
+msgstr "Pagini cache"
 
 #: settings.site.cache_pages_lifetime
 msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
-msgstr ""
+msgstr "Timpul de viata al paginilor cache"
 
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
@@ -517,7 +517,7 @@ msgstr ""
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Adresa de email a site-ului"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
