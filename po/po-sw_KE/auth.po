@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-11-13 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-01 10:18+0000\n"
+"Last-Translator: Wasaty <wasaty@wasaty.pl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,234 +17,234 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr "Anwani ya barua pepe inaonekana kuwa na herufi zisizotakikana"
+msgstr "Anwani ya barua pepe uliyoingiza si sahihi."
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr "Pole, Anwani ya barua pepe uliopatia ilishasajilishwa."
+msgstr "Samahani, anwani ya barua pepe uliopeana inatumika na akaunti nyingine."
 
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "Anwani ya barua pepe lazima iwe baina ya herufi 4 na 64."
+msgstr "Ni sharti sehemu ya barua pepe iwe ya urefu wa angalau herufi 4 na isizidi herufi 64."
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr "Anwani ya barua pepe inahitajika."
+msgstr "Sehemu ya barua pepe inahitajika."
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr "Jina kwa ukamili lazima iwe baina ya herufi 3 na 100."
+msgstr "Ni sharti sehemu ya Jina iwe ya urefu wa angalau herufi 3 na isizidi herufi 100."
 
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr "Jina kwa ukamili linahitajika."
+msgstr "Sehemu ya majina inahitajika."
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr "Jina la mtumizi limeandikwa kwa herufi zisizokubalika."
+msgstr "Sehemu ya majina la mtumizi lina herufi zisizokubalika."
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Ni sharti sehemu ya nenosiri iwe na urefu wa angalau herufi 3 na isizidi herufi 8."
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Tafadhali hakikisha kuwa umeingiza nenosiri na barua pepe sahihi."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Tafadhali ingiza nenosiri hiyo hiyo kwenye sehemu mbili za nenosiri."
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Nenosiri linahitajika."
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Ni sharti sehemu ya nenosiri liwe na herufi za kialfabeti, nambari, ishara za #, @, _ na – pekee. "
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "Nenosiri ya akaunti yako uliyoweka sasa si sahihi. Tafadhali jaribu tena."
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "Ni sharti sehemu ya nenosiri iwe na urefu wa angalau herufi 3 na isizidi herufi 8."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Tafadhali hakikisha kuwa umeingiza nenosiri na barua pepe sahihi."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Tafadhali ingiza nenosiri hiyo hiyo kwenye sehemu mbili za nenosiri."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Sehemu ya nenosiri inahitajika."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Ni sharti sehemu ya nenosiri iwe na herufi za kialfabeti, nambari, ishara za #, @, _ na – pekee. "
 
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "Hitilafu imetokea tukijaribu kukuingiza."
 
 #: auth.password.length
 msgctxt "auth.password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr "Nywila lazima iwe baina ya herufi 5 na 16."
+msgstr "Ni sharti sehemu ya nenosiri iwe na urefu wa angalau herufi 3 na isizidi herufi 8."
 
 #: auth.password.login error
 msgctxt "auth.password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr "Tafadhali hakikisha umeandika nywila sahihi."
+msgstr "Tafadhali hakikisha kuwa umeingiza nenosiri na barua pepe sahihi."
 
 #: auth.password.matches
 msgctxt "auth.password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr "Tafadhali andika nywila zilofanana kwenye sehemu ya nywila na kuthibitisha nywila."
+msgstr "Tafadhali ingiza nenosiri hiyo hiyo kwenye sehemu mbili za nenosiri."
 
 #: auth.password.required
 msgctxt "auth.password.required"
 msgid "The password field is required."
-msgstr "Nywila inahitajika."
+msgstr "Sehemu ya nenosiri inahitajika."
 
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
-msgstr ""
+msgstr "Seva ya udhibitisho ina hitilafu. Tafadhali jaribu baadaye."
 
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Ni sharti sehemu ya nenosiri iwe na herufi za kialfabeti, nambari, ishara za #, @, _ na – pekee. "
 
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr "Sehemu ya kuthibitisha nywila lazima iwe sawa na sehemu ya nywila."
+msgstr "Ni sharti sehemu ya kuthibitisha nenosiri iwe sawia na sehemu ya nenosiri."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr "Anwani ya barua pepe inaonekana si sahihi"
+msgstr "Anwani ya barua pepe uliyoingiza si sahihi."
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr "Pole, hatuna anwani yako ya barua pepe"
+msgstr "Samahani, hatuna anwani yako ya barua pepe"
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr "Anwani ya barua pepe inahitajika."
+msgstr "Sehemu ya barua pepe inahitajika."
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "Ni msimamizi mkuu pekee anayeweza kumbadilisha msimamizi mkuu au kumpandisha mtumiaji hadi kuwa msimamizi."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
 msgid "Invalid role format."
-msgstr ""
+msgstr "Muundo wa jukumu si sahihi"
 
 #: auth.roles.length
 msgctxt "auth.roles.length"
 msgid "The role field must be at least 5 and no more than 30 characters long."
-msgstr ""
+msgstr "Ni sharti sehemu ya jukumu iwe ya urefu wa angalau herufi 5 na isizidi herufi 30."
 
 #: auth.roles.required
 msgctxt "auth.roles.required"
 msgid "You must define at least one role."
-msgstr "Lazima ufasili jukumu lako."
+msgstr "Ni sharti ufasili angalau jukumu moja."
 
 #: auth.roles.values
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
-msgstr "Lazima uchague jukumu la MENEJA au MTUMIZI."
+msgstr "Ni sharti uchague jukumu la MSIMAMIZI au MTUMIAJI."
 
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr ""
+msgstr " Kumbusho la nenosiri iliyosahaulika si sahihi"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr ""
+msgstr " Kumbusho la nenosiri iliyosahaulika lilihitajika"
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
-msgstr "Jukumu la meneja haliwezi kubadilishwa."
+msgstr "Jukumu la msimamizi haliwezi kubadilishwa."
 
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "Sehemu ya anwani ya wasifu kwa umma inaweza  kuwa na nambari na herufi pekee."
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
 msgid "Sorry, this public profile URL is already in use."
-msgstr "Pole, Jina la mtumizi lilishasajilishwa."
+msgstr "Samahani, anwani hii ya wasifu kwa umma  tayari inatumika."
 
 #: auth.username.length
 msgctxt "auth.username.length"
 msgid ""
 "The public profile URL field must be at least 2 and no more 100 characters "
 "long."
-msgstr "Jina la mtumizi lazma liwe na baina ya herufi 2 na 16."
+msgstr "Ni sharti sehemu ya wasifu kwa umma iwe ya urefu wa angalau herufi 2 na isizidi herufi 100."
 
 #: auth.username.login error
 msgctxt "auth.username.login error"
 msgid "Please check that you entered the correct public profile URL."
-msgstr "Tafadhali hakikisha umeandika jina la mtumizi kisahihi."
+msgstr "Tafadhali hakikisha kuwa umeingiza wasifu kwa umma sahihi."
 
 #: auth.username.required
 msgctxt "auth.username.required"
 msgid "The public profile URL field is required."
-msgstr "Jina la mtumizi linahitajika."
+msgstr "Sehemu ya anwani ya wasifu kwa umma inahitajika."
 
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"
 msgid "The super admin role cannot be modified."
-msgstr "Jukumu la meneja haliwezi kubadilishwa."
+msgstr "Jukumu la msimamizi mkuu haliwezi kubadilishwa."
 
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "Kuna uwezekano wa mathara ya CSRF. Una uhakika unataka kuunda/kuhariri mtumiaji?"

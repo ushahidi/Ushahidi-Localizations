@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-08-17 07:01+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-01 10:16+0000\n"
+"Last-Translator: Wasaty <wasaty@wasaty.pl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,22 +17,22 @@ msgstr ""
 #: sharing.date
 msgctxt "sharing.date"
 msgid "Ingress date"
-msgstr "Tarehe ingress"
+msgstr "Tarehe ya kuingilia"
 
 #: sharing.date_added
 msgctxt "sharing.date_added"
 msgid "Date Added"
-msgstr "Tarehe iliengezwa"
+msgstr "Tarehe ya Kuongezwa"
 
 #: sharing.last_access
 msgctxt "sharing.last_access"
 msgid "Last Access"
-msgstr "Tarehe ya mwisho kushikwa"
+msgstr "Wakati wa Mwisho wa Kufikiwa"
 
 #: sharing.sharing_color.length
 msgctxt "sharing.sharing_color.length"
 msgid "The color field must be 6 characters long."
-msgstr "Sehemu ya rangi lazima iwe na herufi 6."
+msgstr "Ni sharti sehemu ya rangi iwe ya urefu wa herufi 6."
 
 #: sharing.sharing_color.required
 msgctxt "sharing.sharing_color.required"
@@ -42,29 +42,29 @@ msgstr "Sehemu ya rangi inahitajika."
 #: sharing.sharing_name.length
 msgctxt "sharing.sharing_name.length"
 msgid "The Sharing name does not appear to be valid."
-msgstr ""
+msgstr "Inaonekana kuwa jina la Kugawiza si sahihi"
 
 #: sharing.sharing_name.required
 msgctxt "sharing.sharing_name.required"
 msgid "A Sharing name is required."
-msgstr ""
+msgstr "Jina la Kugawiza linahitajika"
 
 #: sharing.sharing_url.exists
 msgctxt "sharing.sharing_url.exists"
 msgid "The site URL already exists."
-msgstr "Anwani ya tovuti ilishasajilishwa"
+msgstr "Anwani hii ya tovuti tayari ipo"
 
 #: sharing.sharing_url.length
 msgctxt "sharing.sharing_url.length"
 msgid "The site URL does not appear to be valid."
-msgstr ""
+msgstr "Inaonekana kuwa anwani hii ya tovuti si sahihi"
 
 #: sharing.sharing_url.required
 msgctxt "sharing.sharing_url.required"
 msgid "The site URL is required."
-msgstr "Sehemu ya anwani ya tovuti inahitajika."
+msgstr "Anwani ya tovuti inahitajika."
 
 #: sharing.sharing_url.url
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
-msgstr "Sehemu ya anwani ya tovuti inaonekana si sahihi"
+msgstr "Inaonekana kuwa sehemu ya anwani ya tovuti ina anwani isiyo sahihi."

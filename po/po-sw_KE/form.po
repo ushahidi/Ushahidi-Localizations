@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-11-05 12:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-01 10:16+0000\n"
+"Last-Translator: Wasaty <wasaty@wasaty.pl>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -17,104 +17,104 @@ msgstr ""
 #: form.field_default.default
 msgctxt "form.field_default.default"
 msgid "The default value you have provided for the field is invalid."
-msgstr ""
+msgstr "Kadirio la difoti uliyoweka katika sehemu hii haikubaliki."
 
 #: form.field_default.length
 msgctxt "form.field_default.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 200 characters long."
-msgstr "Jina la uga lazima liwe baina ya heufi 3 na 100."
+msgstr "Ni sharti Kichwa cha Ukurasa kiwe cha urefu wa angalau herufi 3 na kisizidi herufi 200."
 
 #: form.field_height.between
 msgctxt "form.field_height.between"
 msgid "Please enter a value 0 to 50 for the Field Height."
-msgstr "Tafadhali andika baina ya 0 na 50 kwenye sehemu ya urefu wa uga"
+msgstr "Tafadhali ingiza kadirio la kati ya 0 na 50 katika sehemu ya urefu."
 
 #: form.field_isdate.between
 msgctxt "form.field_isdate.between"
 msgid "You have entered an invalid value for Date Field."
-msgstr "Umeandika kimakosa kwenye sehemu ya tarehe ya uga ya tarehe"
+msgstr "Umeingiza kadirio lisilo sahihi katika sehemu ya tarehe."
 
 #: form.field_isdate.required
 msgctxt "form.field_isdate.required"
 msgid "Please select Yes or No for the Date Field."
-msgstr "Tafadhali chagua Ndio au La kwa sehemu ya uga ya tarehe"
+msgstr "Tafadhali chagua Ndio au La katika Sehemu ya Tarehe."
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 100 characters long."
-msgstr "Jina la uga lazima liwe baina ya hefuri 3 na 100."
+msgstr "Ni sharti Jina la Sehemu liwe la urefu wa angalau herufi 3 na kisizidi herufi 100."
 
 #: form.field_name.required
 msgctxt "form.field_name.required"
 msgid "Please enter Field Name."
-msgstr "Tafadhali andika jina la uga."
+msgstr "Tafadhali ingiza Jina la Sehemu."
 
 #: form.field_name.duplicate
 msgctxt "form.field_name.duplicate"
 msgid ""
 "The field name you entered already exists on this form. Please enter another"
 " one."
-msgstr ""
+msgstr "Jina la sehemu uliloingiza linatumika tayari katika fomu hii. Tafadhali ingiza lingine."
 
 #: form.field_required.between
 msgctxt "form.field_required.between"
 msgid "You have entered an invalid value for Field Required."
-msgstr "Tafadhali chagua neno la sahihi kwa sehemu ya kuhitajika kwa uga"
+msgstr "Umeingiza kadirio lisilo sahihi la Sehemu Inayohitajika."
 
 #: form.field_required.required
 msgctxt "form.field_required.required"
 msgid "Please select Yes or No for Field Required."
-msgstr "Tafadhali chagua Ndio au La kwa sehemu ya kuhitajika kwa uga"
+msgstr "Tafadhali chagua Ndio au La kwa Sehemu Inayohitajika."
 
 #: form.field_type.numeric
 msgctxt "form.field_type.numeric"
 msgid "Please select a valid Field Type."
-msgstr "Tafadhali chagua aina ya uga."
+msgstr "Tafadhali chagua Aina ya Sehemu iliyokubalika."
 
 #: form.field_type.required
 msgctxt "form.field_type.required"
 msgid "Please select a Field Type."
-msgstr "Tafadhali chagua aina ya uga."
+msgstr "Tafadhali chagua Aina ya Sehemu."
 
 #: form.field_width.between
 msgctxt "form.field_width.between"
 msgid "Please enter a value 0 to 300 for the Field Width."
-msgstr "Tafadhali andika baina ya 0 na 300 kwenye sehemu ya upana wa uga"
+msgstr "Tafadhali ingiza kadirio la kati ya 0 na 300 katika Sehemu ya Upana."
 
 #: form.form_description.required
 msgctxt "form.form_description.required"
 msgid "Please enter form's Description."
-msgstr "Tafadhali andika elezo la fomu."
+msgstr "Tafadhali ingiza Maelezo ya fomu."
 
 #: form.form_id.default
 msgctxt "form.form_id.default"
 msgid "The default form cannot be deleted."
-msgstr "Fomu ya awali haiezi kufutwa."
+msgstr "Fomu ya difoti haiwezi kufutwa."
 
 #: form.form_id.numeric
 msgctxt "form.form_id.numeric"
 msgid "Please select which form to add this field to."
-msgstr "Tafadhali chagua fomu ambayo itaongezewa uga."
+msgstr "Tafadhali chagua fomu utakayoongeza sehemu hii."
 
 #: form.form_id.required
 msgctxt "form.form_id.required"
 msgid "Please select which form to add this field to."
-msgstr "Tafadhali chagua fomu ambayo itaongezewa uga."
+msgstr "Tafadhali chagua fomu utakayoongeza sehemu hii."
 
 #: form.form_title.length
 msgctxt "form.form_title.length"
 msgid ""
 "The form name field must be at least 3 and no more than 100 characters long."
-msgstr "Jina la fomu lazima liwa baina ya herufi 3 na 100."
+msgstr "Ni sharti sehemu ya jina la fomu iwe ya urefu wa angalau herufi 3 na isizidi herufi 100."
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
 msgid "Please enter the name of the form."
-msgstr "Tafadhali andika jina la fomu."
+msgstr "Tafadhali ingiza jina la fomu."
 
 #: form.form_title.exists
 msgctxt "form.form_title.exists"
 msgid "A form with that title already exists. Please choose another."
-msgstr ""
+msgstr "Fomu iliyo na kichwa hicho tayari ipo. Tafadhali chagua kingine."
