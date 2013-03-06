@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-05 02:23+0000\n"
+"PO-Revision-Date: 2013-03-06 03:56+0000\n"
 "Last-Translator: leilaz <leilaz@stanford.edu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +27,7 @@ msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr ""
+msgstr "اجازه‌ی دسترسی داده نشد. تقاضای‌ات دریافت شد اما به دلیل محدودیت‌های دسترسی مانند زمان اجازه‌ی دسترسی داده نشد. لطفاً دوباره دیرتر سعی کن."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -37,7 +37,7 @@ msgstr "سطح دسترسی"
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
 msgid "Actions"
-msgstr ""
+msgstr "کنش‌ها"
 
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
@@ -62,7 +62,7 @@ msgstr "افزونه‌ها"
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "مدیر"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
@@ -167,7 +167,7 @@ msgstr "آیا مطمئنی که می‌خواهی فرم‌ها را جابه�
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "تخصیص"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
@@ -197,7 +197,7 @@ msgstr "قبلی"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "آی‌پی را مسدود کن"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
@@ -262,7 +262,7 @@ msgstr ""
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "کد"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
@@ -312,7 +312,7 @@ msgstr "ایجاد گزارش"
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr ""
+msgstr "ارتقای بحرانی"
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
@@ -398,7 +398,7 @@ msgstr ""
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "نمایشی"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -448,7 +448,7 @@ msgstr "ویرایش‌شده توسط"
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
@@ -523,12 +523,12 @@ msgstr "فیدها"
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr ""
+msgstr "لیست گزینه‌ها"
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr ""
+msgstr "مقدار پیش‌فرض"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
@@ -538,7 +538,7 @@ msgstr "نوع داده"
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "جاوااسکریپت"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
@@ -553,7 +553,7 @@ msgstr "عددی"
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "متن آزاد"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -568,7 +568,7 @@ msgstr ""
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
-msgstr ""
+msgstr "بیشترین طول کاراکتر"
 
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
@@ -578,7 +578,7 @@ msgstr ""
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "ضامن"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -588,12 +588,12 @@ msgstr "نه"
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "بله، بر مبنای پیش‌فرض بسته است"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "بله، بر مبنای پیش‌فرض باز است"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -725,32 +725,32 @@ msgstr ""
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr ""
+msgstr "نمونه"
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr ""
+msgstr "نمونه‌ها"
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr ""
+msgstr "شرح نمونه"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
-msgstr ""
+msgstr "پارامتر نامعتبر"
 
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "نشانی آی‌پی"
 
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
-msgstr ""
+msgstr "آیا این فیلد دیتاست؟"
 
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
@@ -765,12 +765,12 @@ msgstr "چه کسی می‌تواند جواب بدهد"
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "کلیدواژه"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "کلیدواژه‌ها"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
@@ -825,7 +825,7 @@ msgstr "مدیریت"
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
-msgstr ""
+msgstr "مدیریت نقش‌ها واجازه‌ها"
 
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
@@ -925,12 +925,12 @@ msgstr ""
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
 msgid "move down"
-msgstr ""
+msgstr "جابه‌جایی به پایین"
 
 #: ui_admin.move_up_action
 msgctxt "ui_admin.move_up_action"
 msgid "move up"
-msgstr ""
+msgstr "جابه‌جایی به بالا"
 
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
@@ -940,7 +940,7 @@ msgstr ""
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr ""
+msgstr "هشدارهای من"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
@@ -950,12 +950,12 @@ msgstr ""
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
 msgid "My Profile"
-msgstr ""
+msgstr "نمایه‌ی من"
 
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr ""
+msgstr "گزارش‌های من"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
@@ -985,7 +985,7 @@ msgstr ""
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "ایجاد پیغام جدید"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
@@ -1008,7 +1008,7 @@ msgstr ""
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr ""
+msgstr "اطلاع‌رسانی"
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
@@ -1028,7 +1028,7 @@ msgstr "داده وجود ندارد. هیچ نتیجه‌ای برای نمای
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "هیچ خطایی داده نشد"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
@@ -1098,7 +1098,7 @@ msgstr "گذرواژه"
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
+msgstr "راه‌اندازی مجدد گذرواژه"
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
@@ -1108,14 +1108,14 @@ msgstr "عزیز"
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "ما یک تقاضا برای راه‌اندازی مججد گذرواژه دریافت کردیم برای"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr ""
+msgstr "برای تغییر گذرواژه‌ی خود لطفاً روی پیوند زیر بزنید (یا آن را کپی و در مرورگر خود بچسبانید)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
@@ -1127,7 +1127,7 @@ msgstr ""
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr ""
+msgstr "راه‌اندازی مجدد گذرواژه‌ی یوشهیدی"
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
@@ -1192,7 +1192,7 @@ msgstr ""
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr ""
+msgstr "بخوان"
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
@@ -1237,7 +1237,7 @@ msgstr "اجباری"
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
 msgid "Reset"
-msgstr ""
+msgstr "راه‌اندازی مجدد"
 
 #: ui_admin.response
 msgctxt "ui_admin.response"
@@ -1313,7 +1313,7 @@ msgstr ""
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
 msgid "Please select an item"
-msgstr ""
+msgstr "لطفاً یک مورد را انتخاب کن"
 
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
@@ -1363,12 +1363,12 @@ msgstr "نمایش نتایج"
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "نمایش‌داده‌شده"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "دسته‌ی خاص"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1381,7 +1381,7 @@ msgstr ""
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "محل خاص"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
@@ -1501,12 +1501,12 @@ msgstr ""
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
 msgid "unread"
-msgstr ""
+msgstr "خوانده‌نشده"
 
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "شما دیگر هشدار دریافت نمی‌کنید از"
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
@@ -1516,17 +1516,17 @@ msgstr ""
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr ""
+msgstr "ارتقا یوشهیدی"
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr ""
+msgstr "ارتقا وضعیت یوشهیدی"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "بارگذاری گزارش‌ها"
 
 #: ui_admin.user
 msgctxt "ui_admin.user"

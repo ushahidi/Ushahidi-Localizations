@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-05 00:59+0000\n"
+"PO-Revision-Date: 2013-03-06 04:03+0000\n"
 "Last-Translator: leilaz <leilaz@stanford.edu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,12 +38,12 @@ msgstr "شناسه‌ی کاربری"
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr ""
+msgstr "کنش‌ها"
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "این کنش برگشت‌ناپذیر است. آیا مطمئنی که می‌خواهی ادامه دهی؟"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
@@ -83,7 +83,7 @@ msgstr "اضافه/ویرایش"
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr ""
+msgstr "یک بخش اضافه کن"
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
@@ -93,12 +93,12 @@ msgstr "اضافه‌کردن زبان"
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr ""
+msgstr "مورد جدید اضافه کن"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr ""
+msgstr "دسته‌ی جدید  اضافه کن"
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
@@ -108,12 +108,12 @@ msgstr "اضافه‌کردن ترجمه"
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr ""
+msgstr "مدیریت"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr ""
+msgstr "دریافت هشدارها"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
@@ -123,7 +123,7 @@ msgstr ""
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr ""
+msgstr "هشدار من را ثبت کن"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
@@ -143,7 +143,7 @@ msgstr "شماره‌ی تلفن همراه خود را با کد کشور وا�
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr ""
+msgstr "دریافت هشدارها"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
@@ -177,7 +177,7 @@ msgstr "آر‌اس‌اس (پیوند زیر را کپی کن)"
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr ""
+msgstr "یک شهر انتخاب کن"
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
@@ -187,17 +187,17 @@ msgstr "مرحله‌ی ۱: شهر یا محل خود را انتخاب کن:"
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr ""
+msgstr "مرحله‌ی ۲: هشدارها را به"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr ""
+msgstr "مرحله‌ی ۳ (اختیاری): دسته‌ها را انتخاب کن"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr ""
+msgstr "تأیید درخواست هشدار قبلی"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
@@ -222,7 +222,7 @@ msgstr "تمام دسته‌ها"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "تمام زمان‌ها"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -307,17 +307,17 @@ msgstr "در انتظار صحت‌گذاری"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "نشان"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "نشان‌ها"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "تصویر نشان"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
@@ -327,27 +327,27 @@ msgstr ""
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "بسته‌ی نشان"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "یک نشان انتخاب کن"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "وبلاگ"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "مرورنمایه"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #: ui_main.categories
 msgctxt "ui_main.categories"
@@ -357,7 +357,7 @@ msgstr "دسته‌ها"
 #: ui_main.category
 msgctxt "ui_main.category"
 msgid "Category"
-msgstr ""
+msgstr "دسته"
 
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
@@ -392,12 +392,12 @@ msgstr "تغییر عکس من"
 #: ui_main.choose
 msgctxt "ui_main.choose"
 msgid "Choose a"
-msgstr ""
+msgstr "انتخاب کن"
 
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
-msgstr ""
+msgstr "داده‌ها برای بارگیری را انتخاب کن"
 
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
@@ -407,7 +407,7 @@ msgstr "یا بازه‌ی تاریخ خود را انتخاب کن"
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "نوع فیلد را انتخاب کنید"
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
@@ -422,7 +422,7 @@ msgstr "پاک کن"
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "نقشه را پاک کن"
 
 #: ui_main.close
 msgctxt "ui_main.close"
@@ -432,7 +432,7 @@ msgstr "ببند"
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr ""
+msgstr "مجموعه"
 
 #: ui_main.color
 msgctxt "ui_main.color"
@@ -457,7 +457,7 @@ msgstr "جزئیات نظر"
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
-msgstr ""
+msgstr "تنظیمات‌ات ذخیره شد!"
 
 #: ui_main.configure
 msgctxt "ui_main.configure"
@@ -468,7 +468,7 @@ msgstr "تنظیم"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "با موفقیت‌ات آدرس ایمیل‌ات را تأیید کردی! لطفاً وارد سیستم شو."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -484,7 +484,7 @@ msgstr "تماس با ما"
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "کد امنیتی"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
@@ -499,7 +499,7 @@ msgstr "پیغام"
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "پیغام‌ات فرستاده شد!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
@@ -539,17 +539,17 @@ msgstr "ایجاد/ویرایش"
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr ""
+msgstr "ایجاد جدید"
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "گذرواژه‌ی جدید ایجاد کن"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
 msgid "Create Report"
-msgstr ""
+msgstr "ایجاد گزارش"
 
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
@@ -569,7 +569,7 @@ msgstr ""
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr ""
+msgstr "اطلاعات"
 
 #: ui_main.date
 msgctxt "ui_main.date"
@@ -579,12 +579,12 @@ msgstr "تاریخ"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(س‌س‌س‌س/رر/م‌م)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "تاریخ و زمان"
 
 #: ui_main.day
 msgctxt "ui_main.day"
@@ -594,7 +594,7 @@ msgstr "روز"
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
 msgid "Deactivate"
-msgstr ""
+msgstr "غیرفعال کن"
 
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
@@ -624,7 +624,7 @@ msgstr "حذف غیرفعال‌ شده"
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "حذف آخرین"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
@@ -639,17 +639,17 @@ msgstr "انتخاب‌شده را پاک کن"
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
-msgstr ""
+msgstr "حذف اِسپم"
 
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "نمایشی"
 
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr "توضیح"
+msgstr "شرح"
 
 #: ui_main.descending
 msgctxt "ui_main.descending"
@@ -674,12 +674,12 @@ msgstr "گزارش مستقیم"
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "غیرفعال"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr ""
+msgstr "تأیید نشده"
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
@@ -699,7 +699,7 @@ msgstr "ویرایش"
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr "ویرایش بخش‌های فرم"
+msgstr "ویرایش فیلد‌های فرم"
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
@@ -719,42 +719,42 @@ msgstr "آدرس ایمیل"
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr ""
+msgstr "تنظیمات کارگزارنامه"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "میزبان کارگزارنامه"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "گذرواژه‌ی کارگزارنامه"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "درگاه کارگزارنامه"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "پشتیبانی اس‌اس‌ال برای کارگزارنامه"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "نوع کارگزارنامه"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "نام کاربری کارگزارنامه"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "چون تنظیمات‌ات باید به این نشانی ایمیل مرتبط شود"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
@@ -771,7 +771,7 @@ msgstr ""
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "گذرواژه‌ی ایمیل حساب"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
@@ -786,17 +786,17 @@ msgstr ""
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "مثال: pop3، imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "اتصال اس‌اس‌ال را فعال یا غیرفعال کن"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---خالی---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
@@ -821,12 +821,12 @@ msgstr "کنیا"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "برنامه‌های خارجی"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "پیوند ویدئو به بیرون"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -836,7 +836,7 @@ msgstr "فید"
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "بازخورد بده"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
@@ -863,7 +863,7 @@ msgstr ""
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr ""
+msgstr "نام فیلد"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
@@ -878,12 +878,12 @@ msgstr ""
 #: ui_main.file
 msgctxt "ui_main.file"
 msgid "File"
-msgstr ""
+msgstr "پرونده"
 
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "اندازه‌ی  پرونده‌ات بیشتر از حد مجاز است."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -893,7 +893,7 @@ msgstr "فیلترها"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "فیلترکردن گزارش‌ها"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
@@ -903,7 +903,7 @@ msgstr "فیلترکردن گزارش‌ها"
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "فیلترکردن گزارش‌هایی که شامل"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -913,7 +913,7 @@ msgstr "پیدا کن"
 #: ui_main.find_location
 msgctxt "ui_main.find_location"
 msgid "Find Location"
-msgstr ""
+msgstr "پیدا کردن محل"
 
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
@@ -933,22 +933,22 @@ msgstr "گذرواژه‌ات را فراموش کردی؟"
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr ""
+msgstr "فرم"
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
 msgid "Forms"
-msgstr ""
+msgstr "فرم‌ها"
 
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr ""
+msgstr "شرح فرم"
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr ""
+msgstr "ویرایش این فرم"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
@@ -958,12 +958,12 @@ msgstr ""
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr ""
+msgstr "موضوع فرم"
 
 #: ui_main.from
 msgctxt "ui_main.from"
 msgid "From"
-msgstr ""
+msgstr "از"
 
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
@@ -978,12 +978,12 @@ msgstr ""
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
 msgid "Color"
-msgstr ""
+msgstr "رنگ"
 
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr ""
+msgstr "نظرات"
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
@@ -993,7 +993,7 @@ msgstr "برچسب"
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "پهنای قلم"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -1013,7 +1013,7 @@ msgstr ""
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "چطور می‌توانم کمک کنم؟"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
@@ -1043,7 +1043,7 @@ msgstr "چگونگی گزارش"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "اچ‌تی‌تی‌پی‌اس (HTTPS)"
 
 #: ui_main.id
 msgctxt "ui_main.id"
@@ -1068,7 +1068,7 @@ msgstr "تصاویر"
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr ""
+msgstr "تصویر/شمایل"
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
@@ -1078,7 +1078,7 @@ msgstr "غیرفعال"
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "صندوق ورودی"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
@@ -1113,7 +1113,7 @@ msgstr ""
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr ""
+msgstr "شرح را نشان بده"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
@@ -1143,7 +1143,7 @@ msgstr ""
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "رسانه‌ی ورودی"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
@@ -1165,42 +1165,42 @@ msgstr ""
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr ""
+msgstr "در جواب"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "نشانی آی‌پی"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "آیا این نمایه‌ی تو است؟"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "بند"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "بندها"
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "جزئیات بند"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "موضوع بند"
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr ""
+msgstr "کلید"
 
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
@@ -1210,12 +1210,12 @@ msgstr ""
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "پرونده‌ی KMZ/KML"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "بارگذاری پرونده‌ی KMZ/KML"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
@@ -1245,7 +1245,7 @@ msgstr "آخرین ماه"
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr "نام خانوداگی"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
@@ -1275,27 +1275,27 @@ msgstr ""
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "نام لایه"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "نشانی اینترنتی لایه"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "نظر بگذار"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "اطلاعات کمتر"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "رده"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
@@ -1305,63 +1305,63 @@ msgstr ""
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "نام رده"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "محدود"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "پیوند"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "فهرست"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "در حال بارکردن گزارش‌ها"
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "محل"
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "مکان‌ها"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "شهر، استان یا ایالت، و/یا کشور"
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "ورود"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "حساب‌ات با موفقیت ایجاد شد. می‌توانی به سیستم وارد شوی."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "تآییدیه به نشانی ایمیل‌ات فرستاده شده."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "نشانی ایمیل وجود ندارد. آدرس دیگری را امتحان کن یا حساب جدیدی بساز."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
@@ -1371,7 +1371,7 @@ msgstr ""
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "ورود با"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
@@ -1423,17 +1423,17 @@ msgstr "نقشه"
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr ""
+msgstr "علامت‌گذاری به عنوان خوانده‌شده"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "علامت‌گذاری به عنوان خوانده‌نشده"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "حداکثر اندازه‌ی فایل"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1453,12 +1453,12 @@ msgstr "اعضأ"
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "مدیریت حساب‌ات"
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr ""
+msgstr "پیغام"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
@@ -1473,22 +1473,22 @@ msgstr "جزئیات پیغام"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "پیغام از یک منبع غیرعددی:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "تلفن همراه"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr ""
+msgstr "تغییر"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr ""
+msgstr "تغییر تاریخ"
 
 #: ui_main.month
 msgctxt "ui_main.month"
@@ -1508,7 +1508,7 @@ msgstr "اطلاعات بیشتر"
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "آیا این گسترش یوشهیدی شامل چند کشور می‌شود؟"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
@@ -1520,12 +1520,12 @@ msgstr ""
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr ""
+msgstr "نام‌"
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "گزارش نزدیک"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1540,7 +1540,7 @@ msgstr "اخبار"
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "بازخورد اخبار"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
@@ -1550,7 +1550,7 @@ msgstr "منبع خبر"
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "دسته‌ی جدید"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
@@ -1580,12 +1580,12 @@ msgstr ""
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "هیچ داده‌ای در دست نیست."
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "هیچکدام"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1605,17 +1605,17 @@ msgstr "تأییدنشده"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---انتخاب‌نشده---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr ""
+msgstr "هرزنامه نیست"
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "مشخص‌نشده"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
@@ -1670,7 +1670,7 @@ msgstr "ارگان‌ها"
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr "توضیح ارگان"
+msgstr "شرح ارگان"
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
@@ -1710,7 +1710,7 @@ msgstr "اصلی"
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
 msgid "Original Description"
-msgstr "توضیح اصلی"
+msgstr "شرح اصلی"
 
 #: ui_main.original_title
 msgctxt "ui_main.original_title"
@@ -1725,12 +1725,12 @@ msgstr ""
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr ""
+msgstr "صندوق خروجی"
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr ""
+msgstr "خروجی"
 
 #: ui_main.page
 msgctxt "ui_main.page"
@@ -1745,7 +1745,7 @@ msgstr "صفحه‌ها"
 #: ui_main.page_description
 msgctxt "ui_main.page_description"
 msgid "Page Description"
-msgstr "جزئیات صفحه"
+msgstr "شرح صفحه"
 
 #: ui_main.page_has_been
 msgctxt "ui_main.page_has_been"
@@ -1760,22 +1760,22 @@ msgstr ""
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
 msgid "Page Title"
-msgstr ""
+msgstr "موضوع صفحه"
 
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr ""
+msgstr "دسته‌ی مادر"
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr ""
+msgstr "گذرواژه"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr ""
+msgstr "تأیید گذرواژه"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
@@ -1810,7 +1810,7 @@ msgstr "سال گذشته"
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr ""
+msgstr "در تعلیق"
 
 #: ui_main.per
 msgctxt "ui_main.per"
@@ -1853,12 +1853,12 @@ msgstr ""
 #: ui_main.play
 msgctxt "ui_main.play"
 msgid "Play"
-msgstr ""
+msgstr "پخش"
 
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr ""
+msgstr "لطفاً دقت کن"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
@@ -1873,12 +1873,12 @@ msgstr ""
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "نمایه‌ی قابل رؤیت عموم"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "نشانی اینترنتی نمایه  قابل رؤیت همگان"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1888,32 +1888,32 @@ msgstr "پیش‌نمایش"
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr ""
+msgstr "پیش‌نمایش بند"
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
 msgid "Preview Message"
-msgstr ""
+msgstr "پیش‌نمایش پیغام"
 
 #: ui_main.previous
 msgctxt "ui_main.previous"
 msgid "Previous"
-msgstr ""
+msgstr "قبلی"
 
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "خصوصی"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "رنگ نمایه"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
-msgstr ""
+msgstr "نمایه‌ات ذخیره شده است."
 
 #: ui_main.quick_stats
 msgctxt "ui_main.quick_stats"
@@ -2073,7 +2073,7 @@ msgstr "تاریخ"
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
 msgid "Description"
-msgstr ""
+msgstr "شرح"
 
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
@@ -2662,7 +2662,7 @@ msgstr "امسال"
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "این نمایه‌ی تو است."
 
 #: ui_main.time
 msgctxt "ui_main.time"
@@ -2707,7 +2707,7 @@ msgstr ""
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr ""
+msgstr "شرح ترجمه‌شده"
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
@@ -3004,7 +3004,7 @@ msgstr "بیشتر ببین"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "نمایه‌ی قابل رؤیت عموم‌ات را ببین."
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
