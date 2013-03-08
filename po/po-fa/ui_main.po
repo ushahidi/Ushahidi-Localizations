@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-06 04:03+0000\n"
+"PO-Revision-Date: 2013-03-08 06:11+0000\n"
 "Last-Translator: leilaz <leilaz@stanford.edu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -719,37 +719,37 @@ msgstr "آدرس ایمیل"
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr "تنظیمات کارگزارنامه"
+msgstr "تنظیمات سرور ایمیل"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr "میزبان کارگزارنامه"
+msgstr "میزبان سرور ایمیل"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "گذرواژه‌ی کارگزارنامه"
+msgstr "گذرواژه‌ی سرور ایمیل"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "درگاه کارگزارنامه"
+msgstr "درگاه سرور ایمیل"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr "پشتیبانی اس‌اس‌ال برای کارگزارنامه"
+msgstr "پشتیبانی اس‌اس‌ال برای سرور"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr "نوع کارگزارنامه"
+msgstr "نوع سرور ایمیل"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr "نام کاربری کارگزارنامه"
+msgstr "نام کاربری سرور ایمیل"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
@@ -766,7 +766,7 @@ msgstr ""
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "بعضی سرورها نشانی ایمیل کامل لازم دارند."
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
@@ -2417,7 +2417,7 @@ msgstr ""
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr ""
+msgstr "آدرس سرور"
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
