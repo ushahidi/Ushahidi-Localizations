@@ -1,14 +1,15 @@
 # 
 # Translators:
 #  <leilaz@stanford.edu>, 2013.
+# Mohammad Mahdian <mahdian@gmail.com>, 2013.
 #  <stanfordecongradstudents@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-08 06:03+0000\n"
-"Last-Translator: leilaz <leilaz@stanford.edu>\n"
+"PO-Revision-Date: 2013-03-09 02:47+0000\n"
+"Last-Translator: mahdian <mahdian@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,14 +22,14 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "اجازه‌ی دسترسی داده نشد. یا اعتبارنامه‌ی شما معتبر نیست و یا درخواست شما رد شده است."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr "اجازه‌ی دسترسی داده نشد. تقاضای‌ات دریافت شد اما به دلیل محدودیت‌های دسترسی مانند زمان اجازه‌ی دسترسی داده نشد. لطفاً دوباره دیرتر سعی کن."
+msgstr "اجازه‌ی دسترسی داده نشد. تقاضایتان دریافت شد اما به دلیل محدودیت‌های دسترسی مانند زمان اجازه‌ی دسترسی داده نشد. لطفاً دوباره دیرتر سعی کنید."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -78,7 +79,7 @@ msgstr "هشدارها دریافت شد"
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "همه"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -103,27 +104,27 @@ msgstr "هرکجا"
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "ای‌پی‌آی ممنوع شد"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "لاگ‌های ای‌پی‌آی"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "تنظیمات ای‌پی‌آی"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "لغو ممنوعیت"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "لغو ممنوعیت از همه"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
@@ -178,7 +179,7 @@ msgstr "کارها"
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "تخصیص نشان"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -258,7 +259,7 @@ msgstr "ورودها"
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "شهرها بارگیری شدند."
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
@@ -268,7 +269,7 @@ msgstr "کد"
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr ""
+msgstr "نسخه‌ی کد همگام نیست."
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
@@ -288,7 +289,7 @@ msgstr "کد تایید اخطارهای شما:"
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "کاربر"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -344,7 +345,7 @@ msgstr "روزانه"
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr ""
+msgstr "پیشخوان"
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
@@ -359,12 +360,12 @@ msgstr "تاریخ و زمان"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "تاریخ اضافه شد"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "تاریخ تغییر داده شد"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -374,7 +375,7 @@ msgstr "روزهای هفته"
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr ""
+msgstr "نسخه‌ی دیتابیس همگام نیست."
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
@@ -394,7 +395,7 @@ msgstr "همه را حذف کن"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "حذف نشان"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
@@ -414,17 +415,17 @@ msgstr "غیرفعال"
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "شروع دیوایدر"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "پایان دیوایدر"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -434,7 +435,7 @@ msgstr "دانلود گزارش‌ها"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "انتخاب‌های دراپ‌داون"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
@@ -454,7 +455,7 @@ msgstr "ویرایش"
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr ""
+msgstr "ویرایش لاگ"
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
@@ -464,17 +465,17 @@ msgstr "ایمیل"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Entire Collective"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
 msgid "Error in geocoding! HTTP error"
-msgstr ""
+msgstr "خطا در کد کردن موقعیت جغرافیایی!  خطای HTTP"
 
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
-msgstr ""
+msgstr "کتابخانه‌ی IMAP PHP نصب نشده است."
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -544,7 +545,7 @@ msgstr "جاوااسکریپت"
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "نشانه گذاری"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -564,7 +565,7 @@ msgstr "ارتفاع (به تعداد سطرها)"
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "فیلد پنهان"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
@@ -574,7 +575,7 @@ msgstr "بیشترین طول کاراکتر"
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
 msgid "Field Name"
-msgstr ""
+msgstr "نام فیلد"
 
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
@@ -614,32 +615,32 @@ msgstr "فورم مورد نظر وجود ندارد!"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "تالار گفتگو"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr ""
+msgstr "فیلد متن آزاد"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "فیلد تاریخ"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr ""
+msgstr "فیلد رادیو باتن"
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
-msgstr ""
+msgstr "فیلد چک‌باکس"
 
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr ""
+msgstr "فیلد دراپ‌داون"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -654,7 +655,7 @@ msgstr "از"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr ""
+msgstr "خطای تایم‌آوت نام‌های جغرافیایی"
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -664,17 +665,17 @@ msgstr "کمک بگیر"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "دریافت تم‌های بیشتر"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "دریافت پلاگین‌های بیشتر"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
 msgid "Actions"
-msgstr ""
+msgstr "کنش‌ها"
 
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
@@ -714,14 +715,14 @@ msgstr "ساعتی"
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr ""
+msgstr "فید وقایع برای"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "پوشه‌ی نصب هنوز وجود دارد. لطفاً این پوشه را حذف کنید. وجود این پوشه می‌تواند موجب آسیب‌پذیری امنیتی شود."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -806,7 +807,7 @@ msgstr "لایه‌ها"
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr ""
+msgstr "مدیر"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
@@ -816,7 +817,7 @@ msgstr "خروج"
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
 msgid "Logs"
-msgstr ""
+msgstr "لاگ‌ها"
 
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
@@ -841,27 +842,27 @@ msgstr "اضافه/ویرایش کردن کاربرها"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "اداره‌ی فهرست عمومی‌"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "نشان‌گذاری کن به عنوان"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "نشان گذاشته به عنوان غیرهرزنامه"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "نشان گذاشته به عنوان هرزنامه"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "با هیچ یک از متن‌ها مطابقت نداشت."
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
@@ -876,7 +877,7 @@ msgstr "پیغام‌ها"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr ""
+msgstr "پیام‌های Laconica"
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
@@ -891,7 +892,7 @@ msgstr "پیغام شما فرستاده شد!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -906,12 +907,12 @@ msgstr "دقیقه"
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "پارامتر مفقود"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "مدیر"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
@@ -921,7 +922,7 @@ msgstr "تغییرداده‌شده"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "تغییر تنظیمات تایم‌زون"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -936,7 +937,7 @@ msgstr "جابه‌جایی به بالا"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr ""
+msgstr "Multiple Hosted Instances"
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -946,7 +947,7 @@ msgstr "هشدارهای من"
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "ورودهای من"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -981,7 +982,7 @@ msgstr "نام‌"
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "ایجاد هشدار جدید"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
@@ -1004,7 +1005,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "این یک رده‌ی خاص است که در فرمی که کاربران با استفاده از آن گزارش می‌فرستند نشان داده نمی‌شود. از این رده برای نگهداری گزارش‌هایی که به دلیل حذف رده‌ی مربوطه بدون رده مانده‌اند (گزارش‌های بدون رده‌بندی) استفاده می‌شود."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1014,7 +1015,7 @@ msgstr "اطلاع‌رسانی"
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr ""
+msgstr "حروف بزرگ و کوچک در اینجا معادلند."
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
@@ -1044,12 +1045,12 @@ msgstr "از"
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "On Specific Count"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID ها"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1079,12 +1080,12 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "متأسفانه صفحه‌ای که می‌خواهید مشاهده کنید وجود ندارد. <p><strong> آیا با دنبال کردن از پیوندی از جای دیگری از این وبسایت به این‌جا رسیدید؟ </strong><br/>اگر از طریق پیوندی از قسمت دیگری از وبسایت‌ ما به این‌جا رسیدید، لطفاً <\"a href=\"%s>به ما اطلاع دهید</a> که بتوانیم ایراد موجود را رفع کنیم. </p><p><strong> آیا از طریق پیوندی از وب‌سایت دیگری به این‌جا رسیدید؟</strong><br/>پیوندهای وب‌سایت‌های دیگر ممکن است قدیمی یا اشتباه باشند.  <\"a href=\"%s>به ما اطلاع دهید</a> که از کجا به این صفحه رسیدید و ما سعی خواهیم کرد که با وبسایت دیگر تماس بگیریم و ایراد را رفع کنیم.</p><p><strong> آیا خودتان آدرس صفحه را تایپ کردید؟</strong><br/>ممکن است آدرس صفحه را اشتباه تایپ کرده باشید. لطفاً بررسی کنید که آدرس را حرف به حرف درست تایپ کرده باشید (از جمله بزرگ یا کوچک بودن حروف).</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "متأسفانه صفحه‌ای که می‌خواهید مشاهده کنید پیدا نشد."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1123,7 +1124,7 @@ msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "بر طبق درخواست شما، گذرواژه‌ی شما تغییر داده شد. جزئیات جدید اکانت شما به شرح زیر است"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
@@ -1148,7 +1149,7 @@ msgstr "بعدازظهر"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr ""
+msgstr "داده‌ها با روش post فرستاده نشدند"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1183,12 +1184,12 @@ msgstr "به"
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "فهرست عمومی"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "توصیف کننده‌ها"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1198,7 +1199,7 @@ msgstr "بخوان"
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr ""
+msgstr "مرتبط بودن"
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
@@ -1208,7 +1209,7 @@ msgstr "عنوان گزارش"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "گزارش تاریخ"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1218,7 +1219,7 @@ msgstr "گزارشگرها"
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "رده ی گزارشگر"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
@@ -1228,7 +1229,7 @@ msgstr "گزارش‌ها"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "امتیاز اعتبار"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1253,14 +1254,14 @@ msgstr "نتایج"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "پس بگیر"
 
 #: ui_admin.riverid_exists_admin
 msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "این ایمیل در حال حاضر اکانتی اداره شده توسط CrowdmapID دارد. کاربر باید از گذرواژه‌ی موجود خود در Crowdmap برای وارد شدن استفاده کند."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1287,29 +1288,29 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "کلید رمزگزاری هنوز مقدار پیش‌فرض را دارد. این امن نیست و باید تغییر داده شود."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "این وبسایت با استفاده از پروتکل HTTP سرو می‌شود. برای امنیت بیشتر، باید از پروتکل HTTPS استفاده کنید."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "دستورات روی ویکی در دسترس هستند:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "فرمت مورد نظرتان برای بارگیری گزارش‌ها را انتخاب کنید:"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
-msgstr ""
+msgstr "--- انتخاب نوع فیلد ---"
 
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
@@ -1319,12 +1320,12 @@ msgstr "لطفاً یک مورد را انتخاب کن"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "قبل از انتخاب پاسخ، باید یک تریگر را انتخاب کنید."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "قبل از انتخاب توصیف‌کننده، باید یک تریگر انتخاب کنید."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1339,7 +1340,7 @@ msgstr "بفرست به"
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "این پیغام از وبسایت شما فرستاده شده است."
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
@@ -1377,7 +1378,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "این یک رده‌ی خاص است که در فرمی که کاربران با استفاده از آن گزارش می‌فرستند نشان داده نمی‌شود. این رده در ترکیب با ویژگی «گزارش‌گران قابل اعتماد» استفاده می‌شود."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1402,12 +1403,12 @@ msgstr "آمار"
 #: ui_admin.stats_collection_error
 msgctxt "ui_admin.stats_collection_error"
 msgid "Stat collection failed! Please try again later."
-msgstr ""
+msgstr "جمع‌آوری آمار موفق نبود! لطفاً دیرتر دوباره سعی کنید."
 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
 msgid "Stat Collection Failed!"
-msgstr ""
+msgstr "جمع‌آوری آمار موفق نشد!"
 
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
@@ -1422,17 +1423,17 @@ msgstr "موضوع"
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr ""
+msgstr "مدیر ارشد"
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
-msgstr ""
+msgstr "کار انجام شد"
 
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
 msgid "Text Field"
-msgstr ""
+msgstr "فیلد متنی"
 
 #: ui_admin.theme_name
 msgctxt "ui_admin.theme_name"
@@ -1447,7 +1448,7 @@ msgstr "مدیریت کاربرها"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "خطای تایم‌آوت"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1457,7 +1458,7 @@ msgstr "به"
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
 msgid "Total Records"
-msgstr ""
+msgstr "تعداد کل رکوردها"
 
 #: ui_admin.to_date
 msgctxt "ui_admin.to_date"
@@ -1472,17 +1473,17 @@ msgstr "گزارش‌ها را ترجمه کن"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "تریگر"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "تریگر کردن کاربر"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "تریگرها"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
@@ -1497,7 +1498,7 @@ msgstr "نامعلوم"
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "خطای نامعلوم"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
@@ -1512,7 +1513,7 @@ msgstr "شما دیگر هشدار دریافت نمی‌کنید از"
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
 msgid " Click here to upgrade now"
-msgstr ""
+msgstr "برای آپگرید به نسخه‌ی بالاتر اینجا را کلیک کنید"
 
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
@@ -1547,27 +1548,27 @@ msgstr "یوشهیدی"
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr ""
+msgstr "اعتبارسنجی شده/اعتبارسنجی نشده"
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr ""
+msgstr "تبدیل به اعتبارسنجی شده/اعتبارسنجی نشده"
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
 msgid "Version"
-msgstr ""
+msgstr "نسخه"
 
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
-msgstr ""
+msgstr "برای آپگرید در دسترس است."
 
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
 msgid "Video Encoding"
-msgstr ""
+msgstr "کدبندی ویدئو"
 
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
@@ -1577,7 +1578,7 @@ msgstr "پیغام خصوصی"
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
 msgid "View Site"
-msgstr ""
+msgstr "مشاهده‌ی سایت"
 
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
@@ -1597,7 +1598,7 @@ msgstr "ویکی"
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

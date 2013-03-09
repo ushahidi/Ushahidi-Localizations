@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Mshahid <marjoon@gmail.com>, 2013.
 #  <saharnp@stanford.edu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-08 06:08+0000\n"
+"PO-Revision-Date: 2013-03-08 07:45+0000\n"
 "Last-Translator: snp <saharnp@stanford.edu>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,108 +19,108 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr ""
+msgstr "فیلد \"قبول نظرات\" به نظر شامل یک مقدار معتبر نمی باشد."
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "فیلد \"قبول نظرات\" باید پُر شود."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "فیلد \"فید را شامل شو\" به نظر شامل یک مقدار معتبر نمی باشد."
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr ""
+msgstr "فیلد \"فید را شامل شو\" باید پُر شود."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "فیلد \"قبول هشدارها\" به نظر شامل یک مقدار معتبر نمی باشد."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "فیلد \"قبول هشدارها\" باید پُر شود."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr ""
+msgstr "فیلد \"قبول گزارش ها\" به نظر شامل یک مقدار معتبر نمی باشد."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr ""
+msgstr "فیلد \"قبول گزارشات\" باید پُر شود."
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr ""
+msgstr "فیلد \"اشتراک گذاری آمار\" به نظر شامل یک مقدار معتبر نمی باشد."
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "فیلد \"اشتراک گذاری آمار\" باید پُر شود."
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "پیش فرض تعداد رکوردی که با هر درخواست API  آورده می شود"
 
 #: settings.api.maximum_record_limit
 msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "حداکثر تعداد رکوردی که با هر درخواست API  آورده می شود"
 
 #: settings.api.maximum_requests_per_ip_address
 msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "حداکثر تعداد درخواست های API برای هر آدرس API"
 
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr ""
+msgstr "ظاهرا فیلد Akismet شامل یک مقدار معتبر نمی باشد."
 
 #: settings.api_akismet.length
 msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr ""
+msgstr "ظاهرا فیلد Akismet شامل یک مقدار معتبر نمی باشد."
 
 #: settings.banner_image.default
 msgctxt "settings.banner_image.default"
 msgid "Something went wrong with your banner image upload."
-msgstr ""
+msgstr "در حین بارگذاری تصویر برنمای شما مشکلی پیش آمد."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "The size of your banner exceeds the size limit for this upload."
-msgstr ""
+msgstr "سایز برنمای شما از حداکثر سایز مجاز برای این باگذاری بیشتر است."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr ""
+msgstr "فیلد صفحات مخزن باید پر شود."
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "ظاهرا فیلد صفحات مخزن شامل مقدار معتبری نمی باشد."
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr ""
+msgstr "ظاهرا فیلد طول عمر صفحات مخزن شامل یک مقدار معتبر نمی باشد."
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "فیلد طول عمر صفحات  مخزن باید پر شود."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -129,236 +130,236 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "به نظر می رسد سرور شما برای به کار بردن URL های پاک تنظیم نشده است. باید تنظیمات سرور خود را تغییر دهید تا URL های پاک را فعال کنید.  برای دریافت اطلاعات بیشتر از چگونگی فعال سازی URL  های پاک  به این پست <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\"> رجوع کنید. </a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr ""
+msgstr "این گزینه  امکان دسترسی به یوشهیدی توسط URL های پاک را فعال می کند (بدون \"index.php\" در URL)"
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "فعال کردن URL  های پاک"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "URL  های پاک"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "فیلد شماره ی API Clickatell نباید بیشتر از 20 نویسه باشد."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "فیلد شماره Clickatell API باید پر شود."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "فیلد گذرواژه Clickatell  باید حداقل 5 و حداکثر 50 نویسه باشد."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "فیلد نام کاربری Clickatell باید پر شود."
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "فیلد نام کاربری Clickatells نباید بیشتر از 50 نویسه باشد."
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr ""
+msgstr "فیلد نام کاربری Clickatell  باید پر شود. "
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "تنظیم نقشه"
 
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "مکان پیش فرض"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "ظاهرا فیلد رنگ شامل یک مقدار معتبر نمی باشد."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "فیلد رنگ نباید بیشتر از 6 نویسه باشد."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "فیلد رنگ باید پر شود."
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "نمای پیش فرض نقشه"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "رده ی زوم پیش فرض"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "بازیابی شهرها از نام جغرافیایی "
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "فیلد سرور ایمیل بیش از حد طولانی است."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "فیلد درگاه سرور ایمیل فقط می تواند شامل عدد باشد."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "گذرواژه سرور ایمیل باید حداقل 5 و حداکثر 50 نویسه باشد."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "گذرواژه ی سرور ایمیل باید پر شود."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "فیلد درگاه سرور ایمیل بیش از حد طولانی است."
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "فیلد درگاه سرور ایمیل باید فقط شامل کاراکتر عدد باشد."
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "فیلد درگاه سرور ایمیل بیش از حد طولانی است."
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "فیلد نوع سرور ایمیل باید پر شود."
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "فیلد نام کاربری سرور ایمیل باید حداکثر 50 نویسه باشد."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "نام کاربری سرور ایمیل باید پر شود."
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "گزینه های تنظیم فیس بوک"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "برای دریافت اطلاعات زیر باید یک درخواست فیس بوک جدید ایجاد کنید. "
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebook App Secret"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr ""
+msgstr "فیلد Google Analytics  باید شامل یک Web Property ID معتبر در قالب UA-XXXXX-XX باشد."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "فعال سازی HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "این گزینه  امکان دسترسی به یوشهیدی در حالت ناامن را فعال می کند;  بدون ورود  <strong>https</strong>   پیش از URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "این گزینه  امکان دسترسی به یوشهیدی در حالت امن را فعال می کند;  با ورود  <strong>https</strong>   پیش از URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
 msgid ""
 "The items per page (Frontend) field does not appear to contain a valid "
 "value."
-msgstr ""
+msgstr "ظاهرا فیلد موارد در صفحه (Frontend) شامل مقدار معتبر نمی باشد."
 
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
-msgstr ""
+msgstr "فیلد موارد در صفحه (Frontend)  باید پر شود."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
 msgid ""
 "The items per page (Admin) field does not appear to contain a valid value."
-msgstr ""
+msgstr "ظاهرا فیلد موارد در صفحه (ادمین)  شامل یک مقدار معتبر نمی باشد. "
 
 #: settings.items_per_page_admin.required
 msgctxt "settings.items_per_page_admin.required"
 msgid "The items per page (Admin) field is required."
-msgstr ""
+msgstr "فیلد موارد در هر صفحه (ادمین) باید پر شود."
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "تنظیم تامین کننده ی  نقشه فرآیند آسانی است. یک تامین کننده انتخاب کنید، از سایت تامین کننده یک کلید API  بگیرید و کلید API خود را وارد کنید. "
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "رده ی زوم"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
@@ -522,12 +523,12 @@ msgstr "نشانی ایمیل سایت"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "آمار تحلیلی گوگل"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
 msgid "Web Property ID - Format: UA-XXXXX-XX"
-msgstr ""
+msgstr "Web Property ID در قالب : UA-XXXXX-XX"
 
 #: settings.site.items_per_page
 msgctxt "settings.site.items_per_page"
