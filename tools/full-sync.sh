@@ -20,9 +20,9 @@ tx pull --force --all
 
 # generate the php files from transifex po files
 echo "Generating php files from translations..."
-cd ../Ushahidi_Web/
+cd ../../
 php index.php "i18n/po2php"
-cd ../Ushahidi-Localizations/
+cd application/i18n/
 
 # add any new file generated
 git add .
@@ -42,9 +42,9 @@ git pull
 
 # generate the pot files for en_US so transifex can pick it up
 echo "Generating po files for en_US..."
-cd ../Ushahidi_Web/
+cd ../../
 php index.php "i18n/php2po?lang=en_US"
-cd ../Ushahidi-Localizations/
+cd application/i18n
 
 # add any new file generated
 git add po/po-en_US
