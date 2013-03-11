@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Ath Ell <ellsomath@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-07-12 21:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-11 06:36+0000\n"
+"Last-Translator: athell <ellsomath@gmail.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 #: libraries.akismet_cannot_connect
 msgctxt "libraries.akismet_cannot_connect"
 msgid "Could not connect to Akismet server."
-msgstr ""
+msgstr "មិនអានភ្ជាប់ទៅកាន់ម៉ាស៊ីនមេ Akismet"
 
 #: libraries.akismet_cannot_retrieve
 msgctxt "libraries.akismet_cannot_retrieve"
@@ -35,7 +36,7 @@ msgstr ""
 #: libraries.askimet_invalid_apikey
 msgctxt "libraries.askimet_invalid_apikey"
 msgid "Your Akismet API key is not valid."
-msgstr ""
+msgstr "Akismet API key របស់អ្នកអត់មាន"
 
 #: libraries.clickatell_fopen_error
 msgctxt "libraries.clickatell_fopen_error"

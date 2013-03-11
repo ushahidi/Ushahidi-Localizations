@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Seng Sutha <sutha@open.org.kh>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-11 08:10+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,27 +24,27 @@ msgstr ""
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
 msgid "Automatic Upgrade"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ប្រសើរ​ស្វ័យប្រវត្តិ"
 
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "ការ​ធ្វើ​ឲ្យ​ប្រសើរ​ដែល​អាច​ធ្វើ​ទៅ​បាន"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
 msgid "Continue"
-msgstr ""
+msgstr "បន្ត"
 
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ប្រសើរ"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr ""
+msgstr "ដូច្នេះ ខ្ញុំ​នឹង​ធ្វើ​ឲ្យ​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក​ប្រសើរ​ពី​កំណែ"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
@@ -60,14 +61,14 @@ msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr ""
+msgstr "អូ ប្រសិនបើ​​អ្នក​ចង់​ឲ្យ​ខ្ញុំ​បម្រុង​ទុក​មូលដ្ឋាន​ទិន្នន័យ​​របស់​អ្នក គ្រាន់​តែ​ធីក​ប៊ូតុង​ពិនិត្យមើល​ខាងក្រោម ខ្ញុំ​នឹង​ធ្វើ​វា​សម្រាប់​អ្នក​បាន​ភ្លាមៗ។"
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr ""
+msgstr "បម្រុងទុក​មូលដ្ឋាន​ទិន្នន័យ​មុន​ពេល​ធ្វើ​ឲ្យ​ប្រសើរ? (<strong style=\"color:#FF0000;\">បាន​ផ្ដល់​អនុសាសន៍​ល្អ​បំផុត</strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
@@ -99,7 +100,7 @@ msgstr ""
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ស្ថានភាព​របស់ Ushahidi ប្រសើរ"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
@@ -111,12 +112,12 @@ msgstr ""
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr ""
+msgstr "<dl><dt><strong>ទាញយក</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr ""
+msgstr "<dd> ទាញ​យក​ Ushahidi ថ្មីៗ​ជា​ច្រើន​​​បង្កើត​ពី"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -152,7 +153,7 @@ msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr ""
+msgstr "<strong>ជំហាន​ទី ៤៖</strong> ចុច​លើ​ប៊ូតុង <strong>\"បន្ត\"</strong> ដើម្បី​ធ្វើ​ឲ្យ​តារាង​ចាំបាច់​ប្រសើរ​ឡើង។"
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
