@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-11 08:10+0000\n"
+"PO-Revision-Date: 2013-03-11 09:41+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -80,12 +80,12 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidi ត្រូវ​បាន​ធ្វើ​ឲ្យ​ប្រសើរ! មុន​ពេល​អ្នក​បន្ត អ្នក​ចាំបាច់​ធ្វើ​​ឲ្យ​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក​ប្រសើរ​ចំពោះ​កំណែ​ថ្មី​បំផុត (%s)។"
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "កំណែ​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក​គឺ​​ទាន់​សម័យ។"
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
@@ -158,7 +158,7 @@ msgstr "<strong>ជំហាន​ទី ៤៖</strong> ចុច​លើ​�
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "សម្រាប់​ការ​ធ្វើ​ឲ្យ​ប្រសើរ​ស្វ័យប្រវត្តិ ចុច​លើ​ប៊ូតុង​ខាងក្រោម។"
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
@@ -170,14 +170,14 @@ msgstr ""
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ប្រសើរ"
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "ដើម្បី​បន្ត​ការ​ធ្វើ​​ឲ្យ​ប្រសើរ​​មាន​ភាព​​ងាយស្រួល បាន​ទាមទារ​ព័ត៌មាន​ខាងក្រោម​សម្រាប់​ម៉ាស៊ីន​មេ FTP ដែល​តំបន់​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​បង្ហោះ​នៅ​លើ។"
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
@@ -187,7 +187,7 @@ msgstr ""
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "ពាក្យសម្ងាត់ FTP៖"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
@@ -207,7 +207,7 @@ msgstr ""
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "កំណែ​មូលដ្ឋាន​ទិន្នន័យ៖ %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
@@ -222,17 +222,17 @@ msgstr ""
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "មូលដ្ឋាន​ទិន្នន័យ៖"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
 msgid "Ushahidi %s"
-msgstr ""
+msgstr "Ushahidi %s"
 
 #: upgrade.beta
 msgctxt "upgrade.beta"
 msgid "BETA!"
-msgstr ""
+msgstr "BETA!"
 
 #: upgrade.download
 msgctxt "upgrade.download"
@@ -242,7 +242,7 @@ msgstr ""
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "ឯកសារ​កំណត់ហេតុ"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
@@ -252,7 +252,7 @@ msgstr ""
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ទាញ​យក។"
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
@@ -272,7 +272,7 @@ msgstr ""
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ចម្លង​ឯកសារ។"
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
