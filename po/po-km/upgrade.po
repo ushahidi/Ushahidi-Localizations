@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-11 09:41+0000\n"
+"PO-Revision-Date: 2013-03-12 09:37+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -49,12 +49,12 @@ msgstr "ដូច្នេះ ខ្ញុំ​នឹង​ធ្វើ​ឲ�
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr ""
+msgstr "ទៅ​កាន់​កំណែ​មូលដ្ឋាន​ទិន្នន័យ​ថ្មី​បំផុត"
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
 msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
-msgstr ""
+msgstr "ចុច​លើ​ប៊ូតុង \"ធ្វើ​ឲ្យ​ប្រសើរ\" ហើយ​គ្រាន់​តែ​ chillax  ជា​ប្រតិបត្តិការ​ដែល​ខ្ញុំ​មិន​ជឿ។"
 
 #: upgrade.upgrade_db_text_4
 msgctxt "upgrade.upgrade_db_text_4"
@@ -73,7 +73,7 @@ msgstr "បម្រុងទុក​មូលដ្ឋាន​ទិន្ន
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
 msgid "Ushahidi database upgrade"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​មូលដ្ឋាន​ទិន្នន័យ​របស់ Ushahidi ប្រសើរ"
 
 #: upgrade.upgrade_db_info
 msgctxt "upgrade.upgrade_db_info"
@@ -95,7 +95,7 @@ msgstr ""
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ប្រសើរ​ដោយ​ដៃ"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
@@ -107,7 +107,7 @@ msgctxt "upgrade.upgrade_text_1"
 msgid ""
 "The instructions below detail how to manually upgrade your Ushahidi "
 "deploymentl"
-msgstr ""
+msgstr "សេចក្ដី​ណែនាំ​លម្អិត​ខាងក្រោម​បង្ហាញ​អំពី​របៀប​ធ្វើ​ឲ្យ​ប្រសើរ​ក្នុង​ការ​ប្រើប្រាស់ Ushahidi របស់​អ្នក"
 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
@@ -146,7 +146,7 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong>ជំហាន​ទី ៣៖</strong> មើល​នៅ​​ក្នុង​ថត <strong>sql</strong> ។ ដំណើរការ​ដោយ​ដៃ​ធ្វើ​ឲ្យ​ឯកសារ​ប្រសើរ<xx>-<xx>.sql ចាប់ផ្ដើម​ពី​កំណែ db បច្ចុប្បន្ន​​នៃ​ការ​ដំឡើង​របស់​អ្នក​តាម​រយៈ​ឯកសារ​ធ្វើ​ឲ្យ​ប្រសើរ​សម្រាប់ sql ចុង​ក្រោយ។"
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
@@ -165,7 +165,7 @@ msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "បច្ចុប្បន្ន​អ្នក​កំពុង​ប្រើ Ushahidi v%1$s ជាមួយ​កំណែ​មូលដ្ឋាន​ទិន្នន័យ %2$d ដែល​កំពុង​ដំណើរការ​លើ %3$s"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
@@ -177,32 +177,32 @@ msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr "ដើម្បី​បន្ត​ការ​ធ្វើ​​ឲ្យ​ប្រសើរ​​មាន​ភាព​​ងាយស្រួល បាន​ទាមទារ​ព័ត៌មាន​ខាងក្រោម​សម្រាប់​ម៉ាស៊ីន​មេ FTP ដែល​តំបន់​បណ្ដាញ​របស់​អ្នក​ត្រូវ​បាន​បង្ហោះ​នៅ​លើ។"
+msgstr "ដើម្បី​បន្ត​ការ​ធ្វើ​​ឲ្យ​ប្រសើរ​​មាន​ភាព​​ងាយស្រួល បាន​ទាមទារ​ព័ត៌មាន​ខាងក្រោម​សម្រាប់​ម៉ាស៊ីន​មេ FTP ដែល​បង្ហោះ​នៅ​លើ​​តំបន់​បណ្ដាញ​របស់​អ្នក។"
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "ឈ្មោះ​ម៉ាស៊ីន​របស់ FTP ៖ <span>ឧទាហរណ៍៖ \"ម៉ាស៊ីន​មូលដ្ឋាន\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr "ពាក្យសម្ងាត់ FTP៖"
+msgstr "ពាក្យសម្ងាត់​របស់ FTP៖"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "ឈ្មោះ​អ្នក​ប្រើ​សម្រាប់ FTP ៖"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "អ្នក​​មាន​កំណែ Ushahidi ថ្មី​បំផុត។"
 
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "អ្នក​មិន​ចាំបាច់​ធ្វើ​ឲ្យ​ប្រសើរ​ឡើយ។"
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
@@ -212,12 +212,12 @@ msgstr "កំណែ​មូលដ្ឋាន​ទិន្នន័យ៖ %d
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "ការ​ព្រមាន៖ កំណែ​កម្មវិធី​ជា​កំណែ.php និង​មូលដ្ឋាន​ទិន្នន័យ​ដែល​មិន​ផ្គូផ្គង។"
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "ការ​ព្រមាន៖ កំណែ​កម្មវិធី​ជា​កំណែ.php និង​មូលដ្ឋាន​ទិន្នន័យ​ដែល​មិន​ផ្គូផ្គង។"
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
@@ -237,7 +237,7 @@ msgstr "BETA!"
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "កំពុង​ទាញ​យក​កំណែ​​ថ្មី​បំផុត​​របស់ ushahidi..."
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
@@ -247,7 +247,7 @@ msgstr "ឯកសារ​កំណត់ហេតុ"
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "បាន​ទាញ​យក​ដោយ​ជោគជ័យ។ កំពុង​ពន្លា..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
@@ -257,17 +257,17 @@ msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ទាញ
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "បាន​ពន្លា​ដោយ​ជោគជ័យ។ កំពុង​ចម្លង​ឯកសារ..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ពន្លា។"
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "បាន​ចម្លង​ដោយ​ជោគជ័យ។ កំពុង​ធ្វើ​ឲ្យ​មូលដ្ឋាន​ទិន្នន័យ​ប្រសើរ..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
@@ -277,24 +277,24 @@ msgstr "បាន​បរាជ័យ​ក្នុង​ការ​ចម្
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "បម្រុង​ទុក​មូលដ្ឋាន​ទិន្នន័យ និង​ធ្វើ​ឲ្យ​ប្រសើរ​ដោយ​ជោគជ័យ។"
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​បម្រុង​ទុក​មូលដ្ឋាន​ទិន្នន័យ។"
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​មូលដ្ឋាន​ទិន្នន័យ​ប្រសើរ​ដោយ​ជោគជ័យ។"
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "កំពុង​លុប​ឯកសារ​ដែល​បាន​ទាញ​យក..."
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​ប្រសើរ​ដោយ​ជោគជ័យ។ មើល <a href=\"%s\" target=\"_blank\">ឯកសារ​កំណត់​ហេតុ​</a>"
