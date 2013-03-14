@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-12 09:58+0000\n"
+"PO-Revision-Date: 2013-03-13 08:13+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -353,19 +353,19 @@ msgid ""
 "Before you get started, you will need to make sure the following files and "
 "folders are writable by your webserver. This involves changing file "
 "permissions."
-msgstr ""
+msgstr "មុន​ពេល​ចាប់ផ្ដើម អ្នក​ចាំបាច់​ត្រូវ​ប្រាកដ​ថា​ឯកសារ និង​ថត​ដូច​ខាងក្រោម​គឺ​អាច​សរសេរ​បាន​ដោយ​ម៉ាស៊ីន​មេ​បណ្ដាញ​របស់​អ្នក។ នេះ​គឺ​ពាក់ព័ន្ធ​ជាមួយ​ការ​ប្ដូរ​សិទ្ធិ​ឯកសារ។"
 
 #: installer.summary.text_4
 msgctxt "installer.summary.text_4"
 msgid ""
 "For the installation process, please have the following bits of information "
 "on hand."
-msgstr ""
+msgstr "សម្រាប់​ជំហាន​នៃ​ការ​ដំឡើង សូម​មើល​ព័ត៌មាន​ខាងក្រោម​នេះ​ជាមុន។"
 
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
 msgid "Table Prefix"
-msgstr ""
+msgstr "តារាង​បុព្វបទ"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
@@ -373,39 +373,39 @@ msgid ""
 "Normally you would not change the table prefix. However, if you want to run "
 "multiple Ushahidi installations from a single database, you can do that by "
 "changing the prefix here."
-msgstr ""
+msgstr "ជា​ទូទៅ​អ្នក​មិន​គួរ​ប្ដូរ​តារាង​បុព្វបទ​ទេ។ ទោះបីជា​អ្នក​ចង់​ដំណើរការ​ដំឡើង​យូសាហ៊ីឌី​ច្រើន​ចេញពី​មូលដ្ឋាន​ទិន្នន័យ​តែមួយ​ក៏ដោយ អ្នក​អាច​ធ្វើ​វា​បាន​ដោយ​ប្ដូរ​បុព្វបទ​នៅ​ទីនេះ។"
 
 #: installer.title
 msgctxt "installer.title"
 msgid "Title"
-msgstr ""
+msgstr "ចំណងជើង"
 
 #: installer.to_login
 msgctxt "installer.to_login"
 msgid "To login, go to"
-msgstr ""
+msgstr "ដើម្បី​ចូល សូម​ទៅកាន់"
 
 #: installer.upload_data
 msgctxt "installer.upload_data"
 msgid "Upload report data"
-msgstr ""
+msgstr "ផ្ទុក​ទិន្នន័យ​របាយការណ៍​ឡើង"
 
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "ឈ្មោះ​អ្នកប្រើ"
 
 #: installer.username_description
 msgctxt "installer.username_description"
 msgid "Your database username"
-msgstr ""
+msgstr "ឈ្មោះ​អ្នកប្រើ​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក"
 
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
 msgid "and use the following credentials"
-msgstr ""
+msgstr "និង​ប្រើ​ព័ត៌មាន​សម្ងាត់​ដូច​ខាងក្រោម"
 
 #: installer.view_site
 msgctxt "installer.view_site"
 msgid "View your website"
-msgstr ""
+msgstr "មើល​តំបន់បណ្ដាញ​របស់​អ្នក"
