@@ -1,5 +1,6 @@
 # 
 # Translators:
+# Lidia Cibor <lidka.cibor@gmail.com>, 2013.
 # Marek Pawelec <wasaty@wasaty.pl>, 2013.
 #   <michalmacki@gmail.com>, 2012.
 # Milena Nowotarska <do.milenki@gmail.com>, 2012.
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-02-14 18:34+0000\n"
-"Last-Translator: Wasaty <wasaty@wasaty.pl>\n"
+"PO-Revision-Date: 2013-03-14 17:43+0000\n"
+"Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -962,7 +963,7 @@ msgstr "Moje rapory"
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr ""
+msgstr "Oddanych głosów"
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
@@ -1189,7 +1190,7 @@ msgstr "Lista publiczna"
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "Kwalifikacje"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1261,7 +1262,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Ten adres e-mail ma już przypisane konto w CrowdmapID. Użytkownik powinien użyć istniejącego hasła oraz loginu."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1305,7 +1306,7 @@ msgstr "Instrukcje są dostępne na wiki:"
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Wybierz oczekiwany format pliku dla pobieranych raportów:-"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1448,7 +1449,7 @@ msgstr "Zarządzaj Użytkownikami"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Błąd, przekroczono limit czasu."
 
 #: ui_admin.to
 msgctxt "ui_admin.to"

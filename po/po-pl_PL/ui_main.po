@@ -1,6 +1,7 @@
 # 
 # Translators:
 #   <kaja.polachowska@gmail.com>, 2012.
+# Lidia Cibor <lidka.cibor@gmail.com>, 2013.
 # Marek Pawelec <wasaty@wasaty.pl>, 2013.
 #   <michalmacki@gmail.com>, 2012.
 msgid ""
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-02-14 18:04+0000\n"
-"Last-Translator: Wasaty <wasaty@wasaty.pl>\n"
+"PO-Revision-Date: 2013-03-14 17:08+0000\n"
+"Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1400,7 +1401,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Dziękujemy za rejestrację  %1$s. Aby potwierdzić swój adres e-mail, kliknij tutaj: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -2484,7 +2485,7 @@ msgstr "Pokaż wiadomości"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "Pokazuje raporty od <span class=\"time-period\">%1$s do %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2569,7 +2570,7 @@ msgstr "Dodaj raport"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "Wysłane przez <strong>%1$s</strong> za pomocą <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2779,17 +2780,17 @@ msgstr "Dodaj"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Zobacz przewodnik wysyłania raportów:-"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Przewodnik wysyłania XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Przewodnik wysyłania CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2807,7 +2808,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Niestandardowe pola kolumn muszą posiadać pole form_id. Np. pole Test, w standardowym formularzu, którego ID to 1 powinno prezentować się jako Test-1. Upewnij się czy tak jest podczas importowania formularza."
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2818,14 +2819,14 @@ msgstr "Za pomocą poniższego formualrza możesz importować zdarzenia do silni
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Raporty muszą być wysłane w formacie CSV lub XML."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Gdy ID zdarzenia istnieje już w systemie, wpis z pliku CSV/XML zostanie pominięty."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -3021,7 +3022,7 @@ msgstr "Pokaż raporty"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Zobacz wideo"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"

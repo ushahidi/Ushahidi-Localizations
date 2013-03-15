@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Lidia Cibor <lidka.cibor@gmail.com>, 2013.
 #   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-14 17:49+0000\n"
+"Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -164,7 +165,7 @@ msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "Aktualnie używasz Ushahidi v%1$s, z bazą danych w wersji %2$d działającą na %3$s"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
@@ -246,7 +247,7 @@ msgstr "Plik logu"
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "Prawidłowo pobrano, trwa rozpakowywanie.."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
