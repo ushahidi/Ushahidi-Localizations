@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Attila Szalay <dzsubek+transifex@dzsubek.hu>, 2013.
+# Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-01-15 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-15 15:23+0000\n"
+"Last-Translator: dzsubek <dzsubek+transifex@dzsubek.hu>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,7 +34,7 @@ msgstr "Hozzáférés elutasítva. A kérésed kiszolgálási korlátba ütköz�
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Hozzáférési szint"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
@@ -42,7 +44,7 @@ msgstr "Műveletek"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Kategória hozzáadása"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -67,17 +69,17 @@ msgstr "Adminsztrátor szerep"
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Értesítések"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Értesítés érkezett"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "Mind"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -92,12 +94,12 @@ msgstr "Anoním"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Mindenki"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Mindenhol"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
@@ -112,17 +114,17 @@ msgstr "API logok"
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "API Beállítások"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "UNBAN"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "UNBAN ALL"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
@@ -147,27 +149,27 @@ msgstr "Archiválva"
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr ""
+msgstr "Biztonsan akarod"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr ""
+msgstr "Biztosan tölöd ezt az elemet?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr ""
+msgstr "Biztosan törölöd ezt a képet?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Biztosan cserélni szeretnéd az űrlapokat?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Hozzárendel"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
@@ -177,7 +179,7 @@ msgstr ""
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Jelvény hozzárendelése"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -197,22 +199,22 @@ msgstr "Vissza"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "Ban IP"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "időpont között"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Blokk"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr ""
+msgstr "Törzs"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
@@ -272,7 +274,7 @@ msgstr "Kód verzió nincsen szinkronizálva"
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Szín"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
@@ -307,33 +309,33 @@ msgstr "elkészítve/szerkesztve"
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr "Felajánlás beküldése"
+msgstr "Bejelentés létrehozása"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr ""
+msgstr "Kritikus frissítés"
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Jelenleg aktív"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Jelenleg inaktív"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "Nincs megfelelő jogosultságod az alábbi egényi mező szerkesztéséhez."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
@@ -358,17 +360,17 @@ msgstr "Dátum és Idő"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Bevitel dátuma"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Módosítás dátuma"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Hét napjai"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -393,12 +395,12 @@ msgstr "Mindegyik törlése"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "Jelvény törlése"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demó"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
@@ -408,7 +410,7 @@ msgstr "Leírás"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Letiltva"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -433,12 +435,12 @@ msgstr "Jelentések letöltése"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "Lenyíló fálasztások"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "SZERKESZTVE"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -458,7 +460,7 @@ msgstr "Szerkesztési log"
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -523,7 +525,7 @@ msgstr "folyamok"
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr ""
+msgstr "Választások listája"
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
@@ -533,7 +535,7 @@ msgstr "Alapérték"
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "Adattípusok"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
@@ -543,17 +545,17 @@ msgstr ""
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr ""
+msgstr "Numerikus"
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "Szabad szöveg"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -563,7 +565,7 @@ msgstr "Magasság (sorban)"
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "Rejtett mező"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
@@ -583,7 +585,7 @@ msgstr ""
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "Nem"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
@@ -613,7 +615,7 @@ msgstr "Ez a form nem létezik"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
@@ -623,22 +625,22 @@ msgstr "Szabad szöveges mező"
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "Dátum mező"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr ""
+msgstr "Radio mező"
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
-msgstr ""
+msgstr "Checkbox mező"
 
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr ""
+msgstr "Lenyíló mező"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -683,7 +685,7 @@ msgstr "Hozzáadás/szerkesztés"
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
@@ -755,22 +757,22 @@ msgstr "Ez egy dátum mező?"
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Ki láthatja a válaszokat"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Ki küldhet választ"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "Kulcszó"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Kulcsszavak"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
@@ -840,12 +842,12 @@ msgstr "Felhasználók hozzáadása/szerkesztése"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Publikus listáid szerkesztése"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Megjelölés mint"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
@@ -890,12 +892,12 @@ msgstr "Az üzeneted elküldve!"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "Perc"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
@@ -920,7 +922,7 @@ msgstr "módosítva"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "Időzóna beállítások módosítása"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -940,7 +942,7 @@ msgstr "Hosztolt pédányok"
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr ""
+msgstr "Értesítéseim"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
@@ -955,7 +957,7 @@ msgstr "A profilom"
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr ""
+msgstr "Bejelentéseim"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
@@ -965,27 +967,27 @@ msgstr ""
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
 msgid "Positive"
-msgstr ""
+msgstr "Pozitív"
 
 #: ui_admin.my_votes_down
 msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
-msgstr ""
+msgstr "Negatív"
 
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "Új riasztás létrehozása"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "Új üzenet"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
@@ -1023,7 +1025,7 @@ msgstr "Nem található"
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr ""
+msgstr "Nincs adat. Nincs eredmény a megjelenítéshez."
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
@@ -1048,7 +1050,7 @@ msgstr ""
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID-k"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1083,7 +1085,7 @@ msgstr ""
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Elnézést, de az oldal amit keresel nincs itt."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1137,7 +1139,7 @@ msgstr "Telefon"
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr ""
+msgstr "Kérlek válassz"
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
@@ -1147,42 +1149,42 @@ msgstr "DU"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr ""
+msgstr "Az adat nem lett elküldve POST metódussal"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Előnézet"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Üzenet"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Privát üzenet"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Privát üzenet elküldve"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Tárgy"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "Címzett"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "Publikus listázás"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
@@ -1202,27 +1204,27 @@ msgstr "relevancia"
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Felajánlás címe"
 
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Felajánlás dátuma"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr "Felajánlók"
+msgstr "Bejelentők"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr "Felajánlási szintek"
+msgstr "Bejelentő szintek"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
 msgid "Reports"
-msgstr "Felajánlások"
+msgstr "Bejelentések"
 
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
@@ -1252,7 +1254,7 @@ msgstr "Eredmények"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "Visszavonás"
 
 #: ui_admin.riverid_exists_admin
 msgctxt "ui_admin.riverid_exists_admin"
@@ -1274,7 +1276,7 @@ msgstr "Keresés"
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Felajánlás keresése"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1293,12 +1295,12 @@ msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "Ez az oldal jelenleg HTTP-vel van kiszolgálva. A biztonság növelése érdekében válts HTTPS-re."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Instrukciók elérhetők a wiki-n:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
@@ -1343,7 +1345,7 @@ msgstr "Az üzenetet az oldal küldte "
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Szerver idő"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1363,12 +1365,12 @@ msgstr "Az eredmények mutatása"
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "megtekintett"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "Speciális kategória"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1386,7 +1388,7 @@ msgstr ""
 #: ui_admin.state
 msgctxt "ui_admin.state"
 msgid "State"
-msgstr ""
+msgstr "Állam"
 
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
@@ -1416,7 +1418,7 @@ msgstr ""
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr ""
+msgstr "Téma"
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
@@ -1446,7 +1448,7 @@ msgstr "Felhasználók kezelése"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Időtúllépési hiba"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1496,7 +1498,7 @@ msgstr "ismeretlen"
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "Ismeretlen hiba"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
@@ -1506,7 +1508,7 @@ msgstr "olvasatlan"
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "Nem fog több értesítést kapni."
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
@@ -1531,7 +1533,7 @@ msgstr "Felajánlok"
 #: ui_admin.user
 msgctxt "ui_admin.user"
 msgid "User"
-msgstr ""
+msgstr "Felhasználó"
 
 #: ui_admin.users
 msgctxt "ui_admin.users"
@@ -1541,17 +1543,17 @@ msgstr "Felhasználók"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr ""
+msgstr "Ellenőrzött/Ellenőrizetlen"
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr ""
+msgstr "Elfogad/Elutasít"
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
@@ -1566,12 +1568,12 @@ msgstr "Verzió frissíthető"
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
 msgid "Video Encoding"
-msgstr ""
+msgstr "Videó kódolás"
 
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
 msgid "Private Messages"
-msgstr ""
+msgstr "Privát üzenet"
 
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
@@ -1581,7 +1583,7 @@ msgstr "Oldal megtekintése"
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Felajánlás megtekintése"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
@@ -1591,12 +1593,12 @@ msgstr "Üdvözlégy,"
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

@@ -1,1012 +1,1007 @@
 # 
 # Translators:
-# Attila Szalay <dzsubek+transifex@dzsubek.hu>, 2013.
-# Gábor Nagymajtényi <gabor.nagymajtenyi@gmail.com>, 2013.
-# Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 15:10+0000\n"
-"Last-Translator: igormedo <igor@igor.hu>\n"
-"Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
+"PO-Revision-Date: 2012-06-07 02:50+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: hu_HU\n"
+"Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: ui_main.about
 msgctxt "ui_main.about"
 msgid "About "
-msgstr "Leírás"
+msgstr ""
 
 #: ui_main.access
 msgctxt "ui_main.access"
 msgid "Access"
-msgstr "Hozzáférés"
+msgstr ""
 
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr "Hozzáférés korlátai"
+msgstr ""
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr "Fiók (felhasználói)  Név"
+msgstr ""
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr "Műveletek"
+msgstr ""
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr "Ez a lépés nem visszavonható. Biztosan folytatni akarod?"
+msgstr ""
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
 msgid "Activate"
-msgstr "Aktivizálás"
+msgstr ""
 
 #: ui_main.active
 msgctxt "ui_main.active"
 msgid "Active"
-msgstr "Aktív"
+msgstr ""
 
 #: ui_main.add
 msgctxt "ui_main.add"
 msgid "Add"
-msgstr "Hozzáadás"
+msgstr ""
 
 #: ui_main.added_by
 msgctxt "ui_main.added_by"
 msgid "Added By"
-msgstr "Hozzáadta"
+msgstr ""
 
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr "További adatok"
+msgstr ""
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
-msgstr "További bejelentések"
+msgstr ""
 
 #: ui_main.add_edit
 msgctxt "ui_main.add_edit"
 msgid "Add/Edit"
-msgstr "Hozzáadás/szerkesztés"
+msgstr ""
 
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr "Mező hozzáadása"
+msgstr ""
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
 msgid "Add Language"
-msgstr "Nyelv hozzáadása"
+msgstr ""
 
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr "Új hozzáadása"
+msgstr ""
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr "Új kategória hozzáadása"
+msgstr ""
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
 msgid "Add Translation"
-msgstr "Fordítás hozzáadása"
+msgstr ""
 
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr "Adminisztráció"
+msgstr ""
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "Értesítés kérése"
+msgstr ""
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "Figyelmeztess, ha bejelentés érkezett:"
+msgstr ""
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "Értesítés mentése"
+msgstr ""
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
 msgid "Email address:"
-msgstr "Email cím:"
+msgstr ""
 
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
-msgstr "email cím bevitele"
+msgstr ""
 
 #: ui_main.alerts_enter_mobile
 msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
-msgstr "mobiltelefonszám országkóddal"
+msgstr ""
 
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "Értesítés fogadása"
+msgstr ""
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr "Az értesítés"
+msgstr ""
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
-msgstr "Mobiltelefonszám:"
+msgstr ""
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr "Vagy helyezz egy pöttyöt az alábbi térképre, és értesíteni fogunk, ha annak 20 km-es körzetéből kaptunk üzenetet."
+msgstr ""
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr "Ha nem találod a helyzeted a térképen megjelölve, kérünk kattints a térképen a pontos koordinátáidnál!"
+msgstr ""
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr "RSS hírfolyam (másold le az alábbi URL-t)"
+msgstr ""
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr "Válassz egy várost"
+msgstr ""
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr "<strong>1. lépés:</strong> Válassz egy várost vagy helyszínt:"
+msgstr ""
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>2. lépés:</strong> Értesítést kérek a(z) ...-címre"
+msgstr ""
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr "3. lépés ( opcionális ): Válassz kategóriát!"
+msgstr ""
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Az előző értesítéskérést jóváhagytuk!"
+msgstr ""
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "Az értesítés-kérésed mentve lett."
+msgstr ""
 
 #: ui_main.all
 msgctxt "ui_main.all"
 msgid "All"
-msgstr "Mind"
+msgstr ""
 
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
 msgid "Allowed"
-msgstr "Megengedve"
+msgstr ""
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
 msgid "All Categories"
-msgstr "Minden kategória"
+msgstr ""
 
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr "Egész időben"
+msgstr ""
 
 #: ui_main.and
 msgctxt "ui_main.and"
 msgid "and"
-msgstr "és"
+msgstr ""
 
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr "API"
+msgstr ""
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
 msgid "Approve"
-msgstr "Jóváhagy"
+msgstr ""
 
 #: ui_main.approved
 msgctxt "ui_main.approved"
 msgid "Approved"
-msgstr "Jóváhagyva"
+msgstr ""
 
 #: ui_main.approved_reports
 msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
-msgstr "Jóváhagyott bejelentések"
+msgstr ""
 
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr "Bejelentés jóváhagyása"
+msgstr ""
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
 msgid "Approximate"
-msgstr "Kb."
+msgstr ""
 
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr "Archívum"
+msgstr ""
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr "Archiválva"
+msgstr ""
 
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr "Növekvő"
+msgstr ""
 
 #: ui_main.at
 msgctxt "ui_main.at"
 msgid "at"
-msgstr "@"
+msgstr ""
 
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr "Szerző"
+msgstr ""
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr "Automatikus belépés"
+msgstr ""
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr "Napi átlagos riportok"
+msgstr ""
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr "Jóváhagyásra vár"
+msgstr ""
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr "Ellenőrzésre vár"
+msgstr ""
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr "Jelvény"
+msgstr ""
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr "Jelvény"
+msgstr ""
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr "Arckép"
+msgstr ""
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr "Vagy feltöltheted a saját arcképed "
+msgstr ""
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr "Azonosító kártyák"
+msgstr ""
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr "Válassz azonosítót"
+msgstr ""
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr "blog"
+msgstr ""
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr "Profil böngészés"
+msgstr ""
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
 msgid "Cancel"
-msgstr "Mégsem"
+msgstr ""
 
 #: ui_main.categories
 msgctxt "ui_main.categories"
 msgid "Categories"
-msgstr "Kategóriák"
+msgstr ""
 
 #: ui_main.category
 msgctxt "ui_main.category"
 msgid "Category"
-msgstr "Kategória"
+msgstr ""
 
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
 msgid "Category Filter"
-msgstr "Kategóriaszűrő"
+msgstr ""
 
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr "A kategória"
+msgstr ""
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr "Kategória neve"
+msgstr ""
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr "Változtass dátum intervallumot"
+msgstr ""
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr "Változtass jelszót"
+msgstr ""
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr "Változtasd meg a Saját Képet"
+msgstr ""
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
 msgid "Choose a"
-msgstr "Válassz egy "
+msgstr ""
 
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
-msgstr "Válassz adatokat a lementéshez"
+msgstr ""
 
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr "Vagy válassz saját dátum intervallumot"
+msgstr ""
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr "Válassz mező típust!"
+msgstr ""
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr "Tiszta URL-ek"
+msgstr ""
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr "Törlés"
+msgstr ""
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr "Üres térkép"
+msgstr ""
 
 #: ui_main.close
 msgctxt "ui_main.close"
 msgid "Close"
-msgstr "Becsuk"
+msgstr ""
 
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr "Klaszterek"
+msgstr ""
 
 #: ui_main.color
 msgctxt "ui_main.color"
 msgid "Color"
-msgstr "Szín"
+msgstr ""
 
 #: ui_main.comment
 msgctxt "ui_main.comment"
 msgid "Comment"
-msgstr "Megjegyzés"
+msgstr ""
 
 #: ui_main.comments
 msgctxt "ui_main.comments"
 msgid "Comments"
-msgstr "Megjegyzések"
+msgstr ""
 
 #: ui_main.comment_details
 msgctxt "ui_main.comment_details"
 msgid "Comment Details"
-msgstr "Megjegyzés részletek"
+msgstr ""
 
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
-msgstr "A beállításaidat elmentettük!"
+msgstr ""
 
 #: ui_main.configure
 msgctxt "ui_main.configure"
 msgid "Configure"
-msgstr "Beállít"
+msgstr ""
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr "Sikeresen visszaigazoltad az email címed! Lépj be alább!"
+msgstr ""
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr "E-mail megerősítés sikertelen! Alább kéhetsz új megerősítő e-mailt."
+msgstr ""
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
 msgid "Contact Us"
-msgstr "Kapcsolat"
+msgstr ""
 
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr "Biztonsági kód"
+msgstr ""
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr "Az email címed"
+msgstr ""
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr "Üzenet"
+msgstr ""
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr "Az üzeneted elküldve!"
+msgstr ""
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr "Neved"
+msgstr ""
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr "Telefonszámod"
+msgstr ""
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr "Üzenet küldése"
+msgstr ""
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr "Tárgy"
+msgstr ""
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr "Copyright © 2010 Ushahidi.com. Minden jog fenntartva!"
+msgstr ""
 
 #: ui_main.create
 msgctxt "ui_main.create"
 msgid "Create"
-msgstr "Készít"
+msgstr ""
 
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
-msgstr "Készít/Módosít"
+msgstr ""
 
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr "Új létrehozása"
+msgstr ""
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr "Új jelszó"
+msgstr ""
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
 msgid "Create Report"
-msgstr "Bejelentés létrehozása"
+msgstr ""
 
 #: ui_main.credibility
 msgctxt "ui_main.credibility"
 msgid "Credibility"
-msgstr "Hitelesség"
+msgstr ""
 
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr "Jelenlegi jelszó"
+msgstr ""
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr "Egyedi mezők"
+msgstr ""
 
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr "Információ"
+msgstr ""
 
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr "Dátum"
+msgstr ""
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr "(hh/nn/éééé)"
+msgstr ""
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
 msgid "Date & Time"
-msgstr "Dátum és időpont"
+msgstr ""
 
 #: ui_main.day
 msgctxt "ui_main.day"
 msgid "day"
-msgstr "nap"
+msgstr ""
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
 msgid "Deactivate"
-msgstr "Deaktiválás"
+msgstr ""
 
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr "Ajka, Magyarország"
+msgstr ""
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
 msgid "Delete"
-msgstr "Töröl"
+msgstr ""
 
 #: ui_main.deleted
 msgctxt "ui_main.deleted"
 msgid "Deleted"
-msgstr "Törölve"
+msgstr ""
 
 #: ui_main.deletes
 msgctxt "ui_main.deletes"
 msgid "Deletes"
-msgstr "Törlések"
+msgstr ""
 
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr "Törlés funkció kikapcsolva"
+msgstr ""
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr "Utolsó törlése"
+msgstr ""
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr "Bejelentés törlése"
+msgstr ""
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr "Kijelöltek törlése"
+msgstr ""
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
 msgid "Delete Spam"
-msgstr "Spam törlése"
+msgstr ""
 
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr "Demó"
+msgstr ""
 
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr "Leírás"
+msgstr ""
 
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr "Csökkenő"
+msgstr ""
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr "Például: Astória sarok, a Rákóczi út felől, Budapest"
+msgstr ""
 
 #: ui_main.details
 msgctxt "ui_main.details"
 msgid "Details"
-msgstr "Részletek"
+msgstr ""
 
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr "Direkt bejelentés"
+msgstr ""
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr "Letiltva"
+msgstr ""
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr "Ellenez"
+msgstr ""
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr "Összefoglaló letöltése"
+msgstr ""
 
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr "Letöltés"
+msgstr ""
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
 msgid "Edit"
-msgstr "Módosít"
+msgstr ""
 
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr "A form mezők szerkesztése"
+msgstr ""
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
 msgid "Edit Report"
-msgstr "Bejelentés szerkesztése"
+msgstr ""
 
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr "Email"
+msgstr ""
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr "Email cím"
+msgstr ""
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr "Levelező szerver beállításai"
+msgstr ""
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr "Levelező szerver hoszt"
+msgstr ""
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "Levelező szerver jelszó"
+msgstr ""
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "Levelező szerver port"
+msgstr ""
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr "Levelező szerver ssl támogatás"
+msgstr ""
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr "Levelező szerver típusa"
+msgstr ""
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr "Levelező szerver felhasználói név"
+msgstr ""
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr "Beállításaid az email címedhez lesznek alkalmazva."
+msgstr ""
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr "Ahhoz hogy emailben kapjál értesítést, meg kell adnod az email fiókod elérhetőségét."
+msgstr ""
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr "Valamelyik szerver teljes email címet kér"
+msgstr ""
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr "Email fiók jelszó"
+msgstr ""
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr "Jellemző portok: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
+msgstr ""
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr "Például: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr ""
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr "Például: pop3, imap"
+msgstr ""
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr "Engedélyezi vagy tiltja az SSL kapcsolatot"
+msgstr ""
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr "--ÜRES--"
+msgstr ""
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr "-"
+msgstr ""
 
 #: ui_main.error
 msgctxt "ui_main.error"
 msgid "Error!"
-msgstr "Hiba!"
+msgstr ""
 
 #: ui_main.example
 msgctxt "ui_main.example"
 msgid "Example"
-msgstr "pl."
+msgstr ""
 
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
 msgid "Kenya"
-msgstr "Magyarország"
+msgstr ""
 
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr "Külső alkalmazások"
+msgstr ""
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr "Külső Videó hivatkozás"
+msgstr ""
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr "Folyam"
+msgstr ""
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr "Küld visszajelzést"
+msgstr ""
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by clicking on the button "
 "below."
-msgstr "Kérünk mondd el a véleményed az alábbi gombra kattintva"
+msgstr ""
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr "Hírfolyamok"
+msgstr ""
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr "Visszajelzés"
+msgstr ""
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr "Hírfolyam eleme"
+msgstr ""
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr "Hírfolyam neve"
+msgstr ""
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr "Hírfolyam URL-je"
+msgstr ""
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr "Nem használt mező"
+msgstr ""
 
 #: ui_main.file
 msgctxt "ui_main.file"
 msgid "File"
-msgstr "Fájl"
+msgstr ""
 
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr "A fájl túl nagy."
+msgstr ""
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr "Szűrő"
+msgstr ""
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr "Bejelentések szűrése"
+msgstr ""
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr "Bejelentések szűrése "
+msgstr ""
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr "Bejelentések, amik tartalmazzák"
+msgstr ""
 
 #: ui_main.find
 msgctxt "ui_main.find"
 msgid "Find"
-msgstr "Keresés"
+msgstr ""
 
 #: ui_main.find_location
 msgctxt "ui_main.find_location"
 msgid "Find Location"
-msgstr "Hely keresése"
+msgstr ""
 
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
 msgid "First Name"
-msgstr "Keresztnév"
+msgstr ""
 
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr "Kényszerített időzítő indítás"
+msgstr ""
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr "Elfelejtetted a jelszavad?"
+msgstr ""
 
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr "Űrlap"
+msgstr ""
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
 msgid "Forms"
-msgstr "Űrlapok"
+msgstr ""
 
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr "Űrlap leírás"
+msgstr ""
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr "Szerkeszd az űrlapot"
+msgstr ""
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr "Az űrlap"
+msgstr ""
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr "Űrlap cím"
+msgstr ""
 
 #: ui_main.from
 msgctxt "ui_main.from"
 msgid "From"
-msgstr "Küldő"
+msgstr ""
 
 #: ui_main.full_name
 msgctxt "ui_main.full_name"
 msgid "Full Name"
-msgstr "Teljes név"
+msgstr ""
 
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr "Geolokáció elérhető"
+msgstr ""
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
 msgid "Color"
-msgstr "Szín"
+msgstr ""
 
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr "Megjegyzések"
+msgstr ""
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr "Címke"
+msgstr ""
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr "Vonal vastagság"
+msgstr ""
 
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr "Mehet"
+msgstr ""
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr "Hashtag"
+msgstr ""
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1016,834 +1011,834 @@ msgstr ""
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr "Segítség"
+msgstr ""
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr "Rejtett"
+msgstr ""
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
 msgid "Hide"
-msgstr "Elrejt"
+msgstr ""
 
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr "Üzenet elrejtése"
+msgstr ""
 
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr "Kezdőlap"
+msgstr ""
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr "Hogyan tegyél bejelentést?"
+msgstr ""
 
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr "HTTPS"
+msgstr ""
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr "Azonosító"
+msgstr ""
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr "A többi felhasználó ez alapján tud azonosítani"
+msgstr ""
 
 #: ui_main.image
 msgctxt "ui_main.image"
 msgid "Image"
-msgstr "Kép"
+msgstr ""
 
 #: ui_main.images
 msgctxt "ui_main.images"
 msgid "Images"
-msgstr "Képek"
+msgstr ""
 
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr "Kép/Ikon"
+msgstr ""
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr "Inaktív"
+msgstr ""
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr "Beérkező levelek"
+msgstr ""
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr "Helyszínek"
+msgstr ""
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
-msgstr "a közelben"
+msgstr ""
 
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
 msgid "Incident Location"
-msgstr "helyszín"
+msgstr ""
 
 #: ui_main.include
 msgctxt "ui_main.include"
 msgid "Include"
-msgstr "Beszúr"
+msgstr ""
 
 #: ui_main.include_categories
 msgctxt "ui_main.include_categories"
 msgid "Include Categories"
-msgstr "Kategória beszúrása"
+msgstr ""
 
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr "Egyedi mezők beszúrása"
+msgstr ""
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr "Leírás beszúrása"
+msgstr ""
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr "Szúrj be annyi részletet, amennyit csak lehet!"
+msgstr ""
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr "csatolja a szélességi fokot!"
+msgstr ""
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr "adja meg a helyszín információit!"
+msgstr ""
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr "Csatold a hosszúsági fokot!"
+msgstr ""
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr "Személyes információk megadása"
+msgstr ""
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr "Bejövő média"
+msgstr ""
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr "Információ értékelése"
+msgstr ""
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
-msgstr "Add meg a pontos címed"
+msgstr ""
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr "A hozzáférésed nem megfelelő a teljes beléptetéshez. Vedd fel a kapcsolatot az adminisztrátorral!"
+msgstr ""
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr "válaszul erre:"
+msgstr ""
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr "IP cím"
+msgstr ""
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr "Ez a te profilod?"
+msgstr ""
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr "elem"
+msgstr ""
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr "elemek"
+msgstr ""
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr "elem részletei"
+msgstr ""
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr "Elem címe"
+msgstr ""
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr "Kulcs"
+msgstr ""
 
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr "Kulcsszavak"
+msgstr ""
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr "KMZ/KML fájl"
+msgstr ""
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr "KMZ/KML fájl feltöltés"
+msgstr ""
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr "KML URL"
+msgstr ""
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr "Laconica"
+msgstr ""
 
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr "Nyelv"
+msgstr ""
 
 #: ui_main.last
 msgctxt "ui_main.last"
 msgid "Last"
-msgstr "Utolsó"
+msgstr ""
 
 #: ui_main.last_month
 msgctxt "ui_main.last_month"
 msgid "Last Month"
-msgstr "Utolsó hónap"
+msgstr ""
 
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr "Vezetéknév"
+msgstr ""
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
 msgid "Last Year"
-msgstr "Tavaly"
+msgstr ""
 
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr "Szélességi fok"
+msgstr ""
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr "Rétegek"
+msgstr ""
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr "Egyéb rétegek"
+msgstr ""
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr "A réteget"
+msgstr ""
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr "Réteg neve"
+msgstr ""
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr "Réteg URL"
+msgstr ""
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr "Megjegyzést ide fűzhetsz"
+msgstr ""
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr "Kevesebb információ"
+msgstr ""
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr "Szint"
+msgstr ""
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr "Ezt a szintet"
+msgstr ""
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr "Szint neve"
+msgstr ""
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr "Korlátozott"
+msgstr ""
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr "Link"
+msgstr ""
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr "Lista"
+msgstr ""
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr "Bejelentések betöltése"
+msgstr ""
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr "Helyszín"
+msgstr ""
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr "Helyszínek"
+msgstr ""
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr "Város, Ország"
+msgstr ""
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr "Belépés"
+msgstr ""
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr "Fiókod sikeresen létrehozva. Be tudsz lépni."
+msgstr ""
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr "Megerősítő e-mailt elküldtük az e-mail címedre."
+msgstr ""
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr "E-mail cím nem létezik. Próbáld másik e-mail címmel vagy regisztrálj."
+msgstr ""
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr "Kérjük kattintson az előfizetés szolgáltatójára"
+msgstr ""
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr "Belépés a következővel: "
+msgstr ""
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr "E-mail és jelszó"
+msgstr ""
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr "OpenID"
+msgstr ""
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr "Regisztráció"
+msgstr ""
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr "Fiók létrehozása"
+msgstr ""
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr "Köszönjük feliratkozását: %1$s. E-mail címe megerősítéséhez navigáljon a következő URL-re: %2$s"
+msgstr ""
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr "Regisztráció megerősítése"
+msgstr ""
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr "Regisztálj az oldalon további szolgáltatások előnyeit élvezhesd."
+msgstr ""
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr "Hosszúság"
+msgstr ""
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr "Térkép"
+msgstr ""
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr "Megjelölés olvasottként"
+msgstr ""
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr "Megjelölés olvasatlanként"
+msgstr ""
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr "Maximásil fájl méret"
+msgstr ""
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr "Média"
+msgstr ""
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr "Médiaszűrő"
+msgstr ""
 
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr "Tagok"
+msgstr ""
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr "Fiók szerkesztése"
+msgstr ""
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr "Üzenet"
+msgstr ""
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr "Üzenetek"
+msgstr ""
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr "Üzenet részletek"
+msgstr ""
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr "Üzenet egy nem numerikus forrásból:"
+msgstr ""
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr "Mobil"
+msgstr ""
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr "Módosít"
+msgstr ""
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr "Módosítás dátuma"
+msgstr ""
 
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr "hónap"
+msgstr ""
 
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr "Még több"
+msgstr ""
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr "További információ"
+msgstr ""
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr "Ez az Ushahidi telepítés több országra is kiterjed"
+msgstr ""
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr "Meg kell erősítenie e-mail címét, hogy hozzáférhessen ehhez a telepítéshez. Ha elveszítette a megerősítő e-mailt, alább újat kérhet."
+msgstr ""
 
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr "Név"
+msgstr ""
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr "Közeli bejelentések"
+msgstr ""
 
 #: ui_main.new
 msgctxt "ui_main.new"
 msgid "New"
-msgstr "Új"
+msgstr ""
 
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr "Hírek"
+msgstr ""
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr "Hírfolyamok"
+msgstr ""
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr "Hír forrása"
+msgstr ""
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr "Új kategória"
+msgstr ""
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr "Új jelszó"
+msgstr ""
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr "Új bejelentés"
+msgstr ""
 
 #: ui_main.next
 msgctxt "ui_main.next"
 msgid "Next"
-msgstr "Következő"
+msgstr ""
 
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr "Nem"
+msgstr ""
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr "Nincs megjeleníthető bejelentkezés."
+msgstr ""
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr "Nincs adat"
+msgstr ""
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr "Nincs"
+msgstr ""
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr "Hozzáfűzés"
+msgstr ""
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr "Nem jóváhagyott"
+msgstr ""
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr "Nem jóváhagyott"
+msgstr ""
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr "--Nincs kiválasztva--"
+msgstr ""
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr "nem spam"
+msgstr ""
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr "Nem meghatározott"
+msgstr ""
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr "Nincs bejelentés"
+msgstr ""
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
 msgid "There are no results"
-msgstr "Nincs eredmény"
+msgstr ""
 
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr "Ki"
+msgstr ""
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr "Hivatalos híreink és egyéb hírek"
+msgstr ""
 
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr "Be"
+msgstr ""
 
 #: ui_main.option
 msgctxt "ui_main.option"
 msgid "Option"
-msgstr "Opció"
+msgstr ""
 
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr "Opcionális"
+msgstr ""
 
 #: ui_main.options
 msgctxt "ui_main.options"
 msgid "Options"
-msgstr "Opciók"
+msgstr ""
 
 #: ui_main.organization
 msgctxt "ui_main.organization"
 msgid "Organization"
-msgstr "Szervezet"
+msgstr ""
 
 #: ui_main.organizations
 msgctxt "ui_main.organizations"
 msgid "Organizations"
-msgstr "Szervezetek"
+msgstr ""
 
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr "Szervezet Leírása"
+msgstr ""
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
 msgid "Organization Email"
-msgstr "Szervezeti email"
+msgstr ""
 
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr "A szervezet "
+msgstr ""
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
 msgid "Organization Name"
-msgstr "Szervezet Neve"
+msgstr ""
 
 #: ui_main.organization_phone_1
 msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
-msgstr "Szervezet Telefon 1"
+msgstr ""
 
 #: ui_main.organization_phone_2
 msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
-msgstr "Szervezet Telefon 2"
+msgstr ""
 
 #: ui_main.organization_website
 msgctxt "ui_main.organization_website"
 msgid "Organization Website"
-msgstr "Szervezet website"
+msgstr ""
 
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr "Eredeti"
+msgstr ""
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
 msgid "Original Description"
-msgstr "Eredeti leírás"
+msgstr ""
 
 #: ui_main.original_title
 msgctxt "ui_main.original_title"
 msgid "Original Title"
-msgstr "Eredeti Cím"
+msgstr ""
 
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr "Egyéb csatornák"
+msgstr ""
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr "Kimenő fiók"
+msgstr ""
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr "Kimenő"
+msgstr ""
 
 #: ui_main.page
 msgctxt "ui_main.page"
 msgid "Page"
-msgstr "Oldal"
+msgstr ""
 
 #: ui_main.pages
 msgctxt "ui_main.pages"
 msgid "Pages"
-msgstr "Oldalak"
+msgstr ""
 
 #: ui_main.page_description
 msgctxt "ui_main.page_description"
 msgid "Page Description"
-msgstr "Oldal leírás"
+msgstr ""
 
 #: ui_main.page_has_been
 msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
-msgstr "Az oldal ..."
+msgstr ""
 
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr "Oldal Tab Név"
+msgstr ""
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
 msgid "Page Title"
-msgstr "Oldal címe"
+msgstr ""
 
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr "Szülő kategória"
+msgstr ""
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr "Jelszó"
+msgstr ""
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr "Ismételd a jelszavad"
+msgstr ""
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr "Jelszó csere sikeres! Lépj be alább."
+msgstr ""
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr "Elfelejtetted a jelszavad?"
+msgstr ""
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr "Ellenőrizd az emailed az új jelszóért"
+msgstr ""
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr "Maradjon belépve a számítógépeden"
+msgstr ""
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
 msgid "Past Month"
-msgstr "Múlt Hónap"
+msgstr ""
 
 #: ui_main.past_year
 msgctxt "ui_main.past_year"
 msgid "Past Year"
-msgstr "Tavaly"
+msgstr ""
 
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr "Függő"
+msgstr ""
 
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr "per"
+msgstr ""
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr "Személyes Információ <span>Opcionális.</span>"
+msgstr ""
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
 msgid "Phone"
-msgstr "Telefon"
+msgstr ""
 
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr "Képek"
+msgstr ""
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr "Képek"
+msgstr ""
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
-msgstr "Képek és videók"
+msgstr ""
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
@@ -1851,22 +1846,22 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr "Jelölje a helyszínt a szélességi, hosszúsági koordináták megadásával, vagy mutasson a térképen a pontos helyre!"
+msgstr ""
 
 #: ui_main.play
 msgctxt "ui_main.play"
 msgid "Play"
-msgstr "Lejátszás"
+msgstr ""
 
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr "Jegyezd meg"
+msgstr ""
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Pluginek"
+msgstr ""
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
@@ -1876,806 +1871,806 @@ msgstr ""
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr "Nyilvános profil"
+msgstr ""
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr "Nyilvános profil URL"
+msgstr ""
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
 msgid "Preview"
-msgstr "Előnézet"
+msgstr ""
 
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr "Elem előnézet"
+msgstr ""
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
 msgid "Preview Message"
-msgstr "Üzenet előnézet"
+msgstr ""
 
 #: ui_main.previous
 msgctxt "ui_main.previous"
 msgid "Previous"
-msgstr "Előző"
+msgstr ""
 
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr "Privát"
+msgstr ""
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr "Profil színe"
+msgstr ""
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
-msgstr "A profilod mentve lett"
+msgstr ""
 
 #: ui_main.quick_stats
 msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
-msgstr "Áttekintő statisztika"
+msgstr ""
 
 #: ui_main.rating
 msgctxt "ui_main.rating"
 msgid "Rating"
-msgstr "Értékelés"
+msgstr ""
 
 #: ui_main.read
 msgctxt "ui_main.read"
 msgid "Read"
-msgstr "Olvasás"
+msgstr ""
 
 #: ui_main.receive
 msgctxt "ui_main.receive"
 msgid "Receive"
-msgstr "Fogadás"
+msgstr ""
 
 #: ui_main.receive_from
 msgctxt "ui_main.receive_from"
 msgid "Receive from"
-msgstr "Fogadni innét"
+msgstr ""
 
 #: ui_main.receive_notifications
 msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
-msgstr "Jelzések fogadása"
+msgstr ""
 
 #: ui_main.recent_reports
 msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
-msgstr "Friss bejelentések"
+msgstr ""
 
 #: ui_main.refresh_news_feeds
 msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
-msgstr "Hírfolyamok frissítése"
+msgstr ""
 
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr "Regisztrált e-mail cím"
+msgstr ""
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
 msgid "Remove"
-msgstr "eltávolít"
+msgstr ""
 
 #: ui_main.reply
 msgctxt "ui_main.reply"
 msgid "Reply"
-msgstr "válasz"
+msgstr ""
 
 #: ui_main.report
 msgctxt "ui_main.report"
 msgid "Report"
-msgstr "Bejelentés"
+msgstr ""
 
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr "Bejelentések <span>(a térképről, listázás időrendi sorrendben)</span>"
+msgstr ""
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr "Bejelentő"
+msgstr ""
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
 msgid "Reporters"
-msgstr "Bejelentők"
+msgstr ""
 
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr "Bejelentés ideje"
+msgstr ""
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
-msgstr "Bejelentő email címe"
+msgstr ""
 
 #: ui_main.reporter_first_name
 msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
-msgstr "Bejelentő keresztneve"
+msgstr ""
 
 #: ui_main.reporter_has_been
 msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
-msgstr "A Bejelentő"
+msgstr ""
 
 #: ui_main.reporter_ip
 msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
-msgstr "Bejelentő IP címe"
+msgstr ""
 
 #: ui_main.reporter_last_name
 msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
-msgstr "Bejelentő vezetékneve"
+msgstr ""
 
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr "Bejelentő szint"
+msgstr ""
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr "Bejelentő szintek"
+msgstr ""
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
-msgstr "Bejelentő telefonja"
+msgstr ""
 
 #: ui_main.reports
 msgctxt "ui_main.reports"
 msgid "Reports"
-msgstr "Bejelentések"
+msgstr ""
 
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr "keresés"
+msgstr ""
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
-msgstr "küld"
+msgstr ""
 
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr "A felhasználó bejelentései"
+msgstr ""
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
 msgid "Categories"
-msgstr "Kategóriák"
+msgstr ""
 
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr "%d bejelentés"
+msgstr ""
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
 msgid "Date"
-msgstr "dátum"
+msgstr ""
 
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
 msgid "Description"
-msgstr "Leírás"
+msgstr ""
 
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr "Bejelentések letöltése CSV formátumban"
+msgstr ""
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr "email"
+msgstr ""
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr "Szolgáltatás"
+msgstr ""
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
-msgstr "Válassz egy helyszínt a közeledben!"
+msgstr ""
 
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
 msgid "First Name"
-msgstr "Keresztnév"
+msgstr ""
 
 #: ui_main.reports_last
 msgctxt "ui_main.reports_last"
 msgid "Last Name"
-msgstr "Vezetéknév"
+msgstr ""
 
 #: ui_main.reports_location_name
 msgctxt "ui_main.reports_location_name"
 msgid "Location Name"
-msgstr "Helyszín pontosítása"
+msgstr ""
 
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr "Új hírforrás link"
+msgstr ""
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
-msgstr "További információ"
+msgstr ""
 
 #: ui_main.reports_photos
 msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
-msgstr "Fényképek feltöltése"
+msgstr ""
 
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr "Vissza a bejelentések oldalhoz"
+msgstr ""
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
-msgstr "Válassz egy várost"
+msgstr ""
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr "A bejelentésedet köszönjük! Továbbítottuk munkatársainknak és hamarosan jelentkezünk, ha szükséges."
+msgstr ""
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
-msgstr "Új bejelentés küldése"
+msgstr ""
 
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
 msgid "Time"
-msgstr "idő"
+msgstr ""
 
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr "Időtartam"
+msgstr ""
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
 msgid "Report Title"
-msgstr "Bejelentés címe"
+msgstr ""
 
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
 msgid "Video link"
-msgstr "Videó-link"
+msgstr ""
 
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr "Incidens bejelentése"
+msgstr ""
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr "Bejelentés részletei"
+msgstr ""
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr "üzenet küldésével ide:"
+msgstr ""
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr "email küldésével erre a címre:"
+msgstr ""
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr "twitter üzenettel a következő hashtaggel (egy is elegendő)"
+msgstr ""
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr "ennek az űrlapnak a kitöltésével"
+msgstr ""
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr "Alkalmazás használatával"
+msgstr ""
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
-msgstr "A bejelentésedet elmentettük"
+msgstr ""
 
 #: ui_main.report_title
 msgctxt "ui_main.report_title"
 msgid "Report Title"
-msgstr "Bejelentés címe"
+msgstr ""
 
 #: ui_main.request_information
 msgctxt "ui_main.request_information"
 msgid "Request more information"
-msgstr "Több információ igénylése"
+msgstr ""
 
 #: ui_main.request_location
 msgctxt "ui_main.request_location"
 msgid "Request location"
-msgstr "Helyszín pontosítása"
+msgstr ""
 
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr "Kötelező"
+msgstr ""
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
 msgid "Requirements"
-msgstr "Szükségletek"
+msgstr ""
 
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr "Megerősítő e-mail újraküldése"
+msgstr ""
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr "Törlés"
+msgstr ""
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr "Összes szűrő törlése"
+msgstr ""
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr "Jelszó visszaállítása"
+msgstr ""
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr "A kiválasztott ország város neveinek kigyűjtése"
+msgstr ""
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr "%s szolgáltatás által kezelt fiókok."
+msgstr ""
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr "Önnek már van egy CrowdmapID által kezelt fiókja. Próbálja a CrowdmapID e-mail és jelszó párost használni a belépéshez!"
+msgstr ""
 
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr "Szerep"
+msgstr ""
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr "RSS"
+msgstr ""
 
 #: ui_main.save
 msgctxt "ui_main.save"
 msgid "Save"
-msgstr "Mentés"
+msgstr ""
 
 #: ui_main.saved
 msgctxt "ui_main.saved"
 msgid "Saved"
-msgstr "Mentve"
+msgstr ""
 
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr "Mentés és Új hozzáadása"
+msgstr ""
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
 msgid "Save & Close"
-msgstr "Mentés és Bezárás"
+msgstr ""
 
 #: ui_main.save_report
 msgctxt "ui_main.save_report"
 msgid "Save Report"
-msgstr "Bejelentés mentése"
+msgstr ""
 
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr "Ütemezés"
+msgstr ""
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr "Ütemező"
+msgstr ""
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
 msgid "Day"
-msgstr "Nap"
+msgstr ""
 
 #: ui_main.scheduler_hour
 msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
-msgstr "Óra"
+msgstr ""
 
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr "Ütemező Log"
+msgstr ""
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
-msgstr "Perc"
+msgstr ""
 
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr "Napja a hétnek"
+msgstr ""
 
 #: ui_main.search
 msgctxt "ui_main.search"
 msgid "Search"
-msgstr "Keresés"
+msgstr ""
 
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
 msgid "Search Results"
-msgstr "Keresési eredmények"
+msgstr ""
 
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
 msgid "Security Code"
-msgstr "Biztonsági kód"
+msgstr ""
 
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr "Mind kiválasztása"
+msgstr ""
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr "Mezőtípus választása"
+msgstr ""
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr "Űrlap választása"
+msgstr ""
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr "Kiválasztás a térképen"
+msgstr ""
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr "Annyit válassz,amennyire szükséged van"
+msgstr ""
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr "Kérlek erősítsd meg, hogy ellenőrizted az elemet"
+msgstr ""
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
 msgid "Select Theme"
-msgstr "Téma választása"
+msgstr ""
 
 #: ui_main.send
 msgctxt "ui_main.send"
 msgid "Send"
-msgstr "Küldés"
+msgstr ""
 
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr "Megerősítés küldése"
+msgstr ""
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr "Erre a címre elküldeni:"
+msgstr ""
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
 msgid "Sent"
-msgstr "Elküldve"
+msgstr ""
 
 #: ui_main.sent_by
 msgctxt "ui_main.sent_by"
 msgid "Sent by"
-msgstr "küldő:"
+msgstr ""
 
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr "Szerver címe"
+msgstr ""
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
 msgid "Server type"
-msgstr "Szerver típusa"
+msgstr ""
 
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr "Szolgáltatás"
+msgstr ""
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr "Felhasználói név a szolgáltatásban"
+msgstr ""
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr "Szolgáltatás felhasználói ID"
+msgstr ""
 
 #: ui_main.share
 msgctxt "ui_main.share"
 msgid "Share"
-msgstr "Megosztás"
+msgstr ""
 
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr "Megosztott adat"
+msgstr ""
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr "A megosztás"
+msgstr ""
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr "Megosztás"
+msgstr ""
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr "Kisebb térkép"
+msgstr ""
 
 #: ui_main.show
 msgctxt "ui_main.show"
 msgid "Show"
-msgstr "Mutasd"
+msgstr ""
 
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
 msgid "Show all"
-msgstr "Mutasd mindet"
+msgstr ""
 
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr "Üzenetek megtekintése"
+msgstr ""
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr "Bejelentések megtekintése <span class=\"time-period\">%1$s-tól %2$s-ig</span>"
+msgstr ""
 
 #: ui_main.site
 msgctxt "ui_main.site"
 msgid "Website"
-msgstr "Website"
+msgstr ""
 
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
 msgid "site email address"
-msgstr "az oldalhoz tartozó email cím"
+msgstr ""
 
 #: ui_main.site_url
 msgctxt "ui_main.site_url"
 msgid "Site URL"
-msgstr "Oldal URL"
+msgstr ""
 
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr "Kisebb térkép"
+msgstr ""
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr "SMS"
+msgstr ""
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr "Sajnálom, neked nincs jelvényed."
+msgstr ""
 
 #: ui_main.source
 msgctxt "ui_main.source"
 msgid "Source"
-msgstr "Forrás"
+msgstr ""
 
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
-msgstr "Forrás neve"
+msgstr ""
 
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr "Rendezés"
+msgstr ""
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr "Rendezés a kövezkező szerint:"
+msgstr ""
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr "Forrás URL"
+msgstr ""
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr "Spam"
+msgstr ""
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
-msgstr "SSL támogatás?"
+msgstr ""
 
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
 msgid "From"
-msgstr "Innen"
+msgstr ""
 
 #: ui_main.step
 msgctxt "ui_main.step"
 msgid "Step"
-msgstr "Lépés"
+msgstr ""
 
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr "Bejelentés küldése"
+msgstr ""
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr "Beküldte: <strong>%1$s</strong>, <strong>%2$s</strong> használatával"
+msgstr ""
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
-msgstr "Beküldés SMS-ben (jelenleg nem működő szolgálatatás)"
+msgstr ""
 
 #: ui_main.submit_sms1
 msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
-msgstr "Küldj SMS-t ...-ra"
+msgstr ""
 
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr "telefonodon"
+msgstr ""
 
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr "Siker!"
+msgstr ""
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr "Sikeres import"
+msgstr ""
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
 msgid "Surname"
-msgstr "Vezetéknév"
+msgstr ""
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr "Kérdőív"
+msgstr ""
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr "Rendszer"
+msgstr ""
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr "Magasabb térkép"
+msgstr ""
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr "TCP port"
+msgstr ""
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
 msgid "Themes"
-msgstr "Témák"
+msgstr ""
 
 #: ui_main.theme_default
 msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
-msgstr "Alapértelmezett Ushahidi Sablon"
+msgstr ""
 
 #: ui_main.theme_settings
 msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
-msgstr "Téma beállítások"
+msgstr ""
 
 #: ui_main.this
 msgctxt "ui_main.this"
 msgid "This"
-msgstr "Ez"
+msgstr ""
 
 #: ui_main.this_day
 msgctxt "ui_main.this_day"
 msgid "Today"
-msgstr "Ma"
+msgstr ""
 
 #: ui_main.this_month
 msgctxt "ui_main.this_month"
 msgid "This Month"
-msgstr "Folyó hó"
+msgstr ""
 
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr "Ez a hét"
+msgstr ""
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
 msgid "This Year"
-msgstr "Folyó év"
+msgstr ""
 
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr "Ez a te profilod."
+msgstr ""
 
 #: ui_main.time
 msgctxt "ui_main.time"
 msgid "Time"
-msgstr "idő"
+msgstr ""
 
 #: ui_main.title
 msgctxt "ui_main.title"
 msgid "Title "
-msgstr "CÍM"
+msgstr ""
 
 #: ui_main.to
 msgctxt "ui_main.to"
@@ -2685,12 +2680,12 @@ msgstr ""
 #: ui_main.today
 msgctxt "ui_main.today"
 msgid "Today"
-msgstr "Ma"
+msgstr ""
 
 #: ui_main.today_at
 msgctxt "ui_main.today_at"
 msgid "Today at"
-msgstr "Ma"
+msgstr ""
 
 #: ui_main.token
 msgctxt "ui_main.token"
@@ -2700,82 +2695,82 @@ msgstr ""
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr "Összes bejelentés"
+msgstr ""
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
 msgid "Translated"
-msgstr "Lefordítva"
+msgstr ""
 
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr "Lefordított leírás"
+msgstr ""
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
 msgid "Translated Title"
-msgstr "Lefordított cím"
+msgstr ""
 
 #: ui_main.translate_to
 msgctxt "ui_main.translate_to"
 msgid "Translate to"
-msgstr "Fordítás erre"
+msgstr ""
 
 #: ui_main.translation
 msgctxt "ui_main.translation"
 msgid "Translation"
-msgstr "Fordítás"
+msgstr ""
 
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr "A fordítást mentettük"
+msgstr ""
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr "Megbízható"
+msgstr ""
 
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr "Típus"
+msgstr ""
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr "Twitter"
+msgstr ""
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr "E-mail küldése sikertelen"
+msgstr ""
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr "Nem kategorizált bejelentések"
+msgstr ""
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
 msgid "unread"
-msgstr "olvasatlan"
+msgstr ""
 
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr "Ellenőrizetlen"
+msgstr ""
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr "Mezők frissítése"
+msgstr ""
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr "Feltöltés"
+msgstr ""
 
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
@@ -2785,22 +2780,22 @@ msgstr ""
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr "XML feltöltési útmutató"
+msgstr ""
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr "CSV feltöltési útmutató"
+msgstr ""
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
-msgstr "feltöltendő fájl"
+msgstr ""
 
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr "Bejelentések feltöltése"
+msgstr ""
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
@@ -2814,45 +2809,45 @@ msgstr ""
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr "részletes jelentés feltöltése"
+msgstr ""
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr "A jelentéseket CSV vagy XML formátumban kell feltölteni"
+msgstr ""
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr "Ha az eset azonosító szerepel az adatbázban akkor a bejegyzés a CSV/XML fájlban ki lesz hagyva."
+msgstr ""
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr "Legalább a bejelentés címét és dátumát tartalmaznia kell."
+msgstr ""
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr "Ha hosszúsági és szélességi koordináta nem áll rendelkezésre akkor a helyszín Google Geocoder által lesz geokódolva."
+msgstr ""
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr "Ha  importálsz hozzáadott információkat pl: személyes információk, és/vagy egyéni mezők"
+msgstr ""
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr "Legalább egy személyes infromációt hordozó mezőnek (név, vezetéknév, email) léteznie kell. Az üres rekordok nem lesznek importálva"
+msgstr ""
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
@@ -2867,19 +2862,19 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr "A jelölőnégyzet opciókat vesszővel kell elválasztani, pl. ha a választható gyümölcsők almák, mangók és szőlők, akkor a bevitt opció \"almák,mangók,szőlők\" legyen"
+msgstr ""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr "A dátum mezőket a következő formában kell kitölteni: hh/nn/éééé pl: 2013. március 15. = 03/15/2013"
+msgstr ""
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr "Minta CSV jelentés"
+msgstr ""
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2889,7 +2884,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr "#,bejelentés címe,Bejelentés dátuma,Helyszín,Leírás,Kategória,Elfogadva,Igazolva<br />\"1\",\"1 db kanapé\",\"2010-11-15 01:06:00\",\"Szentbékálla\",\"Alig használt, 200X100-as disztingvált rökamié elvitehő\",\"Bútor, Hálószoba bútor, \",YES,YES"
+msgstr ""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2897,194 +2892,194 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr " \"2\",\"Kirablás\",\"2009-03-18 10:10:00\",\"Accra\",\"Bármerre történhet rablás\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO"
+msgstr ""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr "Sikeres feltöltés"
+msgstr ""
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr "Videó feltöltés"
+msgstr ""
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 #: ui_main.user
 msgctxt "ui_main.user"
 msgid "User"
-msgstr "Felhasználó"
+msgstr ""
 
 #: ui_main.username
 msgctxt "ui_main.username"
 msgid "Username"
-msgstr "Felhasználó neve"
+msgstr ""
 
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr "Ushahidi rendszergazda"
+msgstr ""
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr "Ellenőrzés"
+msgstr ""
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr "Igazolva"
+msgstr ""
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr "Jóváhagyott bejelentések"
+msgstr ""
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr "Igazolás"
+msgstr ""
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr "Bejelentés jóváhagyása"
+msgstr ""
 
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr "Verzió"
+msgstr ""
 
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr "keresztül"
+msgstr ""
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr "Videó"
+msgstr ""
 
 #: ui_main.view
 msgctxt "ui_main.view"
 msgid "View"
-msgstr "nézet"
+msgstr ""
 
 #: ui_main.views
 msgctxt "ui_main.views"
 msgid "Views"
-msgstr "Nézetek"
+msgstr ""
 
 #: ui_main.view_all
 msgctxt "ui_main.view_all"
 msgid "View All"
-msgstr "Összes megtekintése"
+msgstr ""
 
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr "Összes visszajelzés megtekintése"
+msgstr ""
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
-msgstr "Minden bejelentés megtekintése"
+msgstr ""
 
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr "Elemek megtekintése"
+msgstr ""
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr "Többet látnék"
+msgstr ""
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr "Nyilvános profil megtekintése"
+msgstr ""
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
 msgid "View Report"
-msgstr "Bejelentés megtekintése"
+msgstr ""
 
 #: ui_main.view_reports
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
-msgstr "Bejelentések megtekintése"
+msgstr ""
 
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr "Videó megtekintése"
+msgstr ""
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr "Látható"
+msgstr ""
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr "Jóváhagyást vár"
+msgstr ""
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr "Ellenőrzést vár"
+msgstr ""
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr "Szélesebb térkép"
+msgstr ""
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr "Web űrlap"
+msgstr ""
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr "Web"
+msgstr ""
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
 msgid "Weight"
-msgstr "Súly"
+msgstr ""
 
 #: ui_main.yes
 msgctxt "ui_main.yes"
 msgid "Yes"
-msgstr "Igen"
+msgstr ""
 
 #: ui_main.yesterday
 msgctxt "ui_main.yesterday"
 msgid "Yesterday"
-msgstr "Tegnap"
+msgstr ""
 
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr "Műszerfal"
+msgstr ""
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr "Te fájlod"
+msgstr ""
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr "Nagyítás"
+msgstr ""
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr "Kicsinyítés"
+msgstr ""

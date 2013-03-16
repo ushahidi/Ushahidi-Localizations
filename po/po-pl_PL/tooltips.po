@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Lidia Cibor <lidka.cibor@gmail.com>, 2013.
 #   <michalmacki@gmail.com>, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-10-02 14:02+0000\n"
-"Last-Translator: michalmacki <michalmacki@gmail.com>\n"
+"PO-Revision-Date: 2013-03-15 10:57+0000\n"
+"Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +22,7 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr "Dodaje raport do dodatkowych kategorii."
+msgstr "Dodaje raport do dodatkowych kategorii. Jeśli wybierzesz kategorię nr 1 a raport jest przypisany do kategorii nr 2 to zostanie on w tym momencie przypisany jednocześnie do kategorii nr 1 i kategorii nr 2."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
@@ -54,7 +55,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "Jeśli chcesz aktywować powiadomienia tylko wtedy, gdy są używane pewne kategorie, możesz to zrobić w tym miejscu. Spowoduje to, że powiadamianie będzie aktywowane jeśli jedna z kategorii będzie w użyciu. Oznacza to, że jeśli wybierzesz kategorię nr 1 i kategorię nr 2 oraz dodasz raport do kategorii nr 2 i kategorii nr 3 to wpisze się on w wybrane filtrowanie, a powiadomienie zostanie uruchomione."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -109,7 +110,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "Do wyboru masz \"nigdzie\" lub konkretną lokalizację. Jeśli ją wybierzesz, zostaniesz poproszony aby narysować box dookoła tego terenu. Na przykład jeśli chcesz wyzwolić akcję, jeśli ktoś doda raport w Brazylii - wybierz \"konkretną lokalizację\" i narysuj box dookoła Brazylii. Możesz też rysować je mniejsze lub większe, wybór należy do Ciebie. Możesz też rysować wiele boxów jednocześnie."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -117,7 +118,7 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "Ten kwalifikator wyzwoli powiadamianie dla N kont, dla całej bazy użytkownika lub dla każdego z indywidualnych użytkowników. Możesz pozostawić to pole pustym, aby zignorować ten komunikat."
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
@@ -130,7 +131,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "Jeśli wszystkie powyższe kwalifikatory są spełnione, powiadamiacz zainicjuje odpowiedź.  To zależy od akceptacji raportu przez użytkownika. Wybierz \"odpowiedź\" by aktywować dodatkowe opcje odpowiedzi wysyłanych użytkownikom."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -140,7 +141,7 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "Jeśli zaznaczysz \"Powiadamianie użytkownika\" wiadomość e-mail zostanie wysłana do tego, kto wykonał tę akcję. Jeśli wybierzesz przycisk radio będziesz mieć możliwość wpisania niestandardowych adresów e-mail. Jest to użyteczne jeśli pewne części mapy mają przypisane raporty, miejsca lub jakieś inne elementy."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
@@ -156,7 +157,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "Wyzwalanie jest elementem konfiguracji akcji powiadamiających. Możesz w tym miejscu określić co się stanie jeśli ktoś doda raport, wykona jakąś akcję itp. Możesz też przefiltrować odpowiedzi do konkretnych akcji po ich wybraniu."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
