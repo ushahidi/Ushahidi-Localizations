@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Attila Szalay <dzsubek+transifex@dzsubek.hu>, 2013.
+# Peter K. <kpehelp@gmail.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 15:23+0000\n"
-"Last-Translator: dzsubek <dzsubek+transifex@dzsubek.hu>\n"
+"PO-Revision-Date: 2013-03-16 15:58+0000\n"
+"Last-Translator: kpe <kpehelp@gmail.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,14 +23,14 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr "Hozzáférés elutasítva. Vagy az azonosításod nem megfelelő, vagy a kérésed lett visszautasítva."
+msgstr "Hozzáférés elutasítva. Vagy az azonosító adatok nem érvényesek, vagy a kérés lett elutasítva."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr "Hozzáférés elutasítva. A kérésed kiszolgálási korlátba ütközött ( idő, vagy egyéb ).Próbáld meg később!"
+msgstr "Hozzáférés elutasítva. A kérést megkaptuk, de hozzáférési korlátozások (pl. időkorlát) miatt nem teljesíthető. Próbálja meg később!"
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -59,7 +60,7 @@ msgstr "Hozzáadva/szerkesztve"
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Kiegészítések"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
@@ -94,12 +95,12 @@ msgstr "Anoním"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr "Mindenki"
+msgstr "Bárki"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr "Mindenhol"
+msgstr "Bárhol"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
@@ -119,27 +120,27 @@ msgstr "API Beállítások"
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr "UNBAN"
+msgstr "Letiltás feloldása"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr "UNBAN ALL"
+msgstr "Minden letiltás feloldása"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
 msgid "approved"
-msgstr "elfogadva"
+msgstr "jóváhagyva"
 
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
-msgstr "Auto elfogadás"
+msgstr "Automatikusan jóváhagyás"
 
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
-msgstr "Manuális elfogadás"
+msgstr "Manuális jóváhagyás"
 
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
@@ -149,22 +150,22 @@ msgstr "Archiválva"
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr "Biztonsan akarod"
+msgstr "Biztonsan szertné "
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr "Biztosan tölöd ezt az elemet?"
+msgstr "Biztosan szertné törölni ezt az elemet?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr "Biztosan törölöd ezt a képet?"
+msgstr "Biztosan szertné törölni ezt a képet?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr "Biztosan cserélni szeretnéd az űrlapokat?"
+msgstr "Biztosan űrlapot szeretne váltani?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
@@ -174,12 +175,12 @@ msgstr "Hozzárendel"
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Hozzárendelések"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr "Jelvény hozzárendelése"
+msgstr "Kitüntetés Hozzárendelése"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -199,7 +200,7 @@ msgstr "Vissza"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr "Ban IP"
+msgstr "IP letiltása"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
@@ -209,7 +210,7 @@ msgstr "időpont között"
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr "Blokk"
+msgstr "Blokkok"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
@@ -234,27 +235,27 @@ msgstr "Hiba a diagram megjelenítésében"
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
-msgstr "Győződj meg hogy az üzeneted érvényes"
+msgstr "Kérem, ellenőrizze, hogy az üzenete érvényes!"
 
 #: ui_admin.check_number
 msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
-msgstr "Győződj meg hogy a szám érvényes"
+msgstr "Kérem, ellenőrizze, hogy a szám érvényes!"
 
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
-msgstr "Ellenőrizd az SMS beállításait!"
+msgstr "Kérem, ellenőrizze az SMS adatait!"
 
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Bejelentkezés Adatai"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Bejelentkezések"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
@@ -279,12 +280,12 @@ msgstr "Szín"
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr "Kommentek"
+msgstr "Megjegyzések"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
-msgstr "Az értesítéseid elfogadási kódja:"
+msgstr "Az értesítések visszaigazoló kódja:"
 
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
@@ -294,7 +295,7 @@ msgstr "A felhasználó"
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Darab"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
@@ -415,17 +416,17 @@ msgstr "Letiltva"
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "Elválasztó kezdete"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "Elválasztó vége"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -465,7 +466,7 @@ msgstr "Email"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Teljes Közösség"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -500,7 +501,7 @@ msgstr "Minden 12 órában"
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "Kísérleti"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
@@ -540,7 +541,7 @@ msgstr "Adattípusok"
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
@@ -580,7 +581,7 @@ msgstr "Mező neve"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "Lapozás"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -590,12 +591,12 @@ msgstr "Nem"
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "Igen, alapesetben Zárva"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "Igen, alapesetben Nyitva"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -665,12 +666,12 @@ msgstr "Segítség"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "További oldalképek"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "További kiegészítők"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
@@ -722,7 +723,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "A telepítő mappa még létezik. Törölje a telepítő mappát. A megléte lehetséges biztonsági rés."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -947,7 +948,7 @@ msgstr "Értesítéseim"
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "Bejelentkezéseim"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -962,7 +963,7 @@ msgstr "Bejelentéseim"
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr ""
+msgstr "Szavazatok"
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
@@ -1005,7 +1006,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "Ez egy különleges kategória, ami a bejelentés adatlapján nem látható a felhasználó számára. Ebben gyűlnek azok a kategorizálatlan bejelentések (uncategorized reports), amik a kategória törlése miatt kerültek ebbe az állapotba."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1045,7 +1046,7 @@ msgstr ""
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "Meghatározott számú esemény esetén"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
@@ -1080,7 +1081,7 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "Sajnálom, de a keresett oldal itt nem található<p><strong>Külső linket követett, vagy a mi oldalunkról származót?</strong><br />Ha ezt az oldalt a mi portálunk egy más részéről érte el, kérem <a href=\"%s\">vegye fel velünk a kapcsolatot</a>, hogy ki tudjuk javítani a hibát!</p><p><strong>Egy más oldalról érkezett?</strong><br />A más oldalról származó linkek néha elavultak, vagy elírást tartalmaznak.<a href=\"%s\">Írja megl</a>, melyik oldalról érkezett, hogy az üzemeltetőivel kijavíthassuk a problémát.</p><p><strong>Ön írta be az oldalcímet? </strong><br />Elképzelhető, hogy pontatlanul másolta be a címet. Kérem, ellenőrizze, a beírt címet figyelve minden karakter sorrendjére, a kis és nagybetűkre, stb. !</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
@@ -1189,7 +1190,7 @@ msgstr "Publikus listázás"
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "Tulajdonságok"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1229,7 +1230,7 @@ msgstr "Bejelentések"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "Tekintélyérték"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1244,7 +1245,7 @@ msgstr "Törlés"
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Válasz"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1261,7 +1262,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Ehhez az e-mail címhet már tartozik CrowdmapID. A felhasználónak a meglévő Crowdmap jelszavával kell belépnie."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1288,7 +1289,7 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "A titkosítási kulcs még mindig alapbeállításon van. Ez nem biztonságos. Írjon be másikat!"
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
@@ -1305,7 +1306,7 @@ msgstr "Instrukciók elérhetők a wiki-n:"
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Milyen formátumban szeretné letölteni a bejeneltéseket?"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1320,12 +1321,12 @@ msgstr "Válassz egy dolgot"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "Először a triggert (kiváltó eseményt) kell választania, csak azután a válaszreakciót."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "Először a triggert (kiváltó eseményt) kell választania, csak azután a tulajdonságait."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1335,7 +1336,7 @@ msgstr "Küldő"
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "Címzett"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
@@ -1378,12 +1379,12 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "Ez egy különleges kategória, ami a bejelentés adatlapján nem látható a felhasználó számára. Ez a beállítás a \"Megbízható Bejelentők\" funkcióval együtt használatos."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "Meghatározott Terület"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
@@ -1413,7 +1414,7 @@ msgstr "Statisztika gyűjtése nem sikerült!"
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "Meghatározott Napok"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
@@ -1453,7 +1454,7 @@ msgstr "Időtúllépési hiba"
 #: ui_admin.to
 msgctxt "ui_admin.to"
 msgid "to"
-msgstr ""
+msgstr " - "
 
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
@@ -1473,17 +1474,17 @@ msgstr "Felajánlások lefordítása"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "Trigger (kiváltó esemény)"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "Kiváltó Felhasználó"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "Triggerek (kiváltó események)"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"

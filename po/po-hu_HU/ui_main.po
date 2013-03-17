@@ -2,14 +2,15 @@
 # Translators:
 # Attila Szalay <dzsubek+transifex@dzsubek.hu>, 2013.
 # Gábor Nagymajtényi <gabor.nagymajtenyi@gmail.com>, 2013.
+# Peter K. <kpehelp@gmail.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 15:10+0000\n"
-"Last-Translator: igormedo <igor@igor.hu>\n"
+"PO-Revision-Date: 2013-03-16 15:25+0000\n"
+"Last-Translator: kpe <kpehelp@gmail.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1011,7 +1012,7 @@ msgstr "Hashtag"
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr ""
+msgstr "Volt"
 
 #: ui_main.help
 msgctxt "ui_main.help"
@@ -1871,7 +1872,7 @@ msgstr "Pluginek"
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Weblap hozzáadása"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
@@ -2680,7 +2681,7 @@ msgstr "CÍM"
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr ""
+msgstr " - "
 
 #: ui_main.today
 msgctxt "ui_main.today"
@@ -2695,7 +2696,7 @@ msgstr "Ma"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2780,7 +2781,7 @@ msgstr "Feltöltés"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Tekintse meg a bejelentések feltöltéséről szóló útmutatót:-"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
@@ -2808,7 +2809,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "A saját mező oszlopának tartalmaznia kell a hozzá tartozó form_id-t. pl. a Teszt nevű saját mező az 1-es ID-val jelzett alap kérdőíven Teszt-1 lesz. A saját kérdőív-mező importálásakor erre figyelni kell."
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2859,7 +2860,7 @@ msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "A saját mezőben adott válasza összhangban van a legördülő menük, választógombok és jelölőnégyzetek adataival."
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
