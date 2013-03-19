@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 09:44+0000\n"
+"PO-Revision-Date: 2013-03-18 09:40+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -405,12 +405,12 @@ msgstr ""
 #: ui_admin.description
 msgctxt "ui_admin.description"
 msgid "Description"
-msgstr ""
+msgstr "សេចក្ដី​ពិពណ៌នា"
 
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "បាន​បិទ"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -430,7 +430,7 @@ msgstr ""
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "ទាញ​យក​របាយការណ៍"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
@@ -440,7 +440,7 @@ msgstr ""
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "បាន​កែសម្រួល"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -450,17 +450,17 @@ msgstr ""
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "កែសម្រួល"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr ""
+msgstr "កែសម្រួល​កំណត់​ហេតុ"
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីមែល"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -480,7 +480,7 @@ msgstr ""
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr ""
+msgstr "កំហុស"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
@@ -490,12 +490,12 @@ msgstr ""
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
 msgid "Every Six Hours"
-msgstr ""
+msgstr "រៀងរាល់​ប្រាំមួយ​ម៉ោង"
 
 #: ui_admin.every_twelve_hours
 msgctxt "ui_admin.every_twelve_hours"
 msgid "Every Twelve Hours"
-msgstr ""
+msgstr "រៀងរាល់​ដប់ពីរ​ម៉ោង"
 
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
@@ -520,7 +520,7 @@ msgstr ""
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
 msgid "feeds"
-msgstr ""
+msgstr "មតិ​ព័ត៌មាន "
 
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
@@ -530,27 +530,27 @@ msgstr ""
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr ""
+msgstr "តម្លៃ​លំនាំ​ដើម"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "ប្រភេទ​ទិន្នន័យ"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Markup"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr ""
+msgstr "ជា​លេខ"
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
@@ -560,22 +560,22 @@ msgstr ""
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
 msgid "Height (In Rows)"
-msgstr ""
+msgstr "កម្ពស់ (ជួរ​ដេក)"
 
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "វាល​ដែល​បាន​លាក់"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
-msgstr ""
+msgstr "ប្រវែង​តួ​អក្សរ​អតិបរមា"
 
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
 msgid "Field Name"
-msgstr ""
+msgstr "ឈ្មោះ​វាល"
 
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
@@ -585,12 +585,12 @@ msgstr ""
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "គ្មាន"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "បាទ/ចាស បាន​បិទ​តាម​លំនាំដើម"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
@@ -600,32 +600,32 @@ msgstr ""
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
 msgid "Could not find uploaded file"
-msgstr ""
+msgstr "រក​មិន​ឃើញ​ឯកសារ​ដែល​បាន​ផ្ទុក​ឡើង"
 
 #: ui_admin.file_open_error
 msgctxt "ui_admin.file_open_error"
 msgid "Could not open file for reading"
-msgstr ""
+msgstr "មិន​អាច​បើក​ឯកសារ​សម្រាប់​អាន​បាន​ទេ"
 
 #: ui_admin.form_not_exists
 msgctxt "ui_admin.form_not_exists"
 msgid "That Form Does Not Exist!"
-msgstr ""
+msgstr "គ្មាន​សំណុំ​បែបបទ​នេះ​ទេ!"
 
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "វេទិកា"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr ""
+msgstr "វាល​តំបន់​អត្ថបទ (វាល​អត្ថបទ​ឥត​គិត​ថ្លៃ)"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "វាល​កាលបរិច្ឆេទ"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
@@ -645,12 +645,12 @@ msgstr ""
 #: ui_admin.from
 msgctxt "ui_admin.from"
 msgid "From"
-msgstr ""
+msgstr "ពី"
 
 #: ui_admin.from_date
 msgctxt "ui_admin.from_date"
 msgid "From"
-msgstr ""
+msgstr "ពី"
 
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
@@ -660,7 +660,7 @@ msgstr ""
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
 msgid "Get Help"
-msgstr ""
+msgstr "ទទួល​ជំនួយ"
 
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
@@ -675,22 +675,22 @@ msgstr ""
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
 msgid "Actions"
-msgstr ""
+msgstr "សកម្មភាព"
 
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "បន្ថែម​/​កែសម្រួល"
 
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "អ៊ីមែល"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
 msgid "Manage Users"
-msgstr ""
+msgstr "គ្រប់គ្រង​អ្នក​ប្រើ"
 
 #: ui_admin.header_role
 msgctxt "ui_admin.header_role"
