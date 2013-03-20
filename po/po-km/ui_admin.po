@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-18 09:40+0000\n"
+"PO-Revision-Date: 2013-03-19 09:32+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -555,7 +555,7 @@ msgstr "ជា​លេខ"
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "អត្ថបទ​ឥត​គិត​ថ្លៃ"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -580,12 +580,12 @@ msgstr "ឈ្មោះ​វាល"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "បើក/បិទ"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr "គ្មាន"
+msgstr "ទេ"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
@@ -595,7 +595,7 @@ msgstr "បាទ/ចាស បាន​បិទ​តាម​លំនាំ�
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "បាទ/ចាស បើក​តាម​លំនាំដើម"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
@@ -695,27 +695,27 @@ msgstr "គ្រប់គ្រង​អ្នក​ប្រើ"
 #: ui_admin.header_role
 msgctxt "ui_admin.header_role"
 msgid "Role"
-msgstr ""
+msgstr "មុខងារ"
 
 #: ui_admin.header_user
 msgctxt "ui_admin.header_user"
 msgid "User"
-msgstr ""
+msgstr "អ្នក​ប្រើ"
 
 #: ui_admin.help
 msgctxt "ui_admin.help"
 msgid "help"
-msgstr ""
+msgstr "ជំនួយ"
 
 #: ui_admin.hourly
 msgctxt "ui_admin.hourly"
 msgid "Hourly"
-msgstr ""
+msgstr "រាល់​ម៉ោង"
 
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr ""
+msgstr "មតិ​ព័ត៌មាន​ហេតុ​ការណ៍​សម្រាប់"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
@@ -727,7 +727,7 @@ msgstr ""
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr ""
+msgstr "ធាតុ"
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
@@ -737,17 +737,17 @@ msgstr ""
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr ""
+msgstr "សេចក្ដី​លម្អិត​អំពី​ធាតុ"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
-msgstr ""
+msgstr "ប៉ារ៉ាម៉ែត្រ​មិន​ត្រឹមត្រូវ"
 
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "អាសយដ្ឋាន IP"
 
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
@@ -762,47 +762,47 @@ msgstr ""
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "អ្នក​ណា​ដែល​អាច​ដាក់​ស្នើ​ចម្លើយ​"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "ពាក្យ​គន្លឹះ"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "ពាក្យ​គន្លឹះ"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
 msgid "Email Address:"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល៖"
 
 #: ui_admin.label_full_name
 msgctxt "ui_admin.label_full_name"
 msgid "Full Name:"
-msgstr ""
+msgstr "ឈ្មោះ​ពេញ៖"
 
 #: ui_admin.label_password
 msgctxt "ui_admin.label_password"
 msgid "Password:"
-msgstr ""
+msgstr "លេខសម្ងាត់"
 
 #: ui_admin.label_role
 msgctxt "ui_admin.label_role"
 msgid "Role:"
-msgstr ""
+msgstr "មុខងារ"
 
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
 msgid "Username:"
-msgstr ""
+msgstr "ឈ្មោះ​អ្នក​ប្រើ៖"
 
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
 msgid "Layers"
-msgstr ""
+msgstr "ស្រទាប់"
 
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
@@ -812,32 +812,32 @@ msgstr ""
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
 msgid "Logout"
-msgstr ""
+msgstr "ចេញ"
 
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
 msgid "Logs"
-msgstr ""
+msgstr "កំណត់ហេតុ"
 
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
 msgid "Manage"
-msgstr ""
+msgstr "គ្រប់គ្រង"
 
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
-msgstr ""
+msgstr "គ្រប់គ្រង​សិទ្ធ និង​តួនាទី"
 
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
 msgid "View Users"
-msgstr ""
+msgstr "មើល​អ្នក​ប្រើ"
 
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
-msgstr ""
+msgstr "បន្ថែម/កែសម្រួល​អ្នក​ប្រើ"
 
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
@@ -852,52 +852,52 @@ msgstr ""
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "បាន​សម្គាល់​មិន​មាន​ជា​​សារ​ឥត​បាន​ការ"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "បាន​សម្គាល់​ជា​​​សារ​ឥត​បាន​ការ"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "មិន​បាន​ផ្គូផ្គង​ឯកសារ​មួយ​ចំនួន"
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
 msgid "Message"
-msgstr ""
+msgstr "សារ"
 
 #: ui_admin.messages
 msgctxt "ui_admin.messages"
 msgid "Messages"
-msgstr ""
+msgstr "សារ"
 
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr ""
+msgstr "សារ​របស់ Laconica"
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr ""
+msgstr "សារ​​របស់ Twitter"
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "សារ​របស់​អ្នក​បាន​ផ្ញើ!"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "នាទី"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
@@ -907,47 +907,47 @@ msgstr ""
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "បាត់​ប៉ារ៉ាម៉ែត្រ"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "អ្នក​សម្របសម្រួល"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
 msgid "modified"
-msgstr ""
+msgstr "បាន​កែប្រែ"
 
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "កែប្រែ​ការ​កំណត់​តំបន់​ពេលវេលា"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
 msgid "move down"
-msgstr ""
+msgstr "ផ្លាស់ទី​ចុះ​ក្រោម"
 
 #: ui_admin.move_up_action
 msgctxt "ui_admin.move_up_action"
 msgid "move up"
-msgstr ""
+msgstr "ផ្លាស់​ទី​ឡើង​លើ"
 
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr ""
+msgstr "ធាតុ​ដែល​បាន​បង្ហោះ​​ច្រើន"
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr ""
+msgstr "ការ​​ជូនដំណឹង​របស់​ខ្ញុំ"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "ការ​ចូល​របស់​ខ្ញុំ"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -957,7 +957,7 @@ msgstr ""
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr ""
+msgstr "របាយការណ៍​របស់​ខ្ញុំ"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
@@ -972,32 +972,32 @@ msgstr ""
 #: ui_admin.my_votes_down
 msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
-msgstr ""
+msgstr "អវិជ្ជមាន"
 
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr ""
+msgstr "ឈ្មោះ"
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "បង្កើត​ការ​ជូនដំណឹង​ថ្មី"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "បង្កើត​សារ​ថ្មី"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "ពាក្យសម្ងាត់​ថ្មី"
 
 #: ui_admin.no
 msgctxt "ui_admin.no"
 msgid "No"
-msgstr ""
+msgstr "ទេ"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
@@ -1010,47 +1010,47 @@ msgstr ""
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr ""
+msgstr "ការ​ជូន​ដំណឹង"
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr ""
+msgstr "វា​មិន​ប្រកាន់​តួ​អក្សរ​តូច​ធំ។"
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
 msgid "Not Found"
-msgstr ""
+msgstr "រក​មិន​ឃើញ"
 
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr ""
+msgstr "គ្មាន​ទិន្នន័យ។ គ្មាន​លទ្ធផល​សម្រាប់​បង្ហាញ​ឡើយ។"
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "គ្មាន​កំហុស"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr ""
+msgstr "គ្មាន​លទ្ធផល​សម្រាប់​បង្ហាញ​ឡើយ!"
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr ""
+msgstr "នៃ"
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "នៃ​ចំនួន​ជាក់លាក់"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID's"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
