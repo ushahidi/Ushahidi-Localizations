@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-19 09:37+0000\n"
+"PO-Revision-Date: 2013-03-20 09:52+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -109,18 +109,18 @@ msgstr "បាន​ទាមទារ​វាល​ទំព័រ​ឃ្ល
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "វាល​ទំព័រឃ្លាំង​សម្ងាត់​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr ""
+msgstr "វាល​ជំនាន់​ទំព័រ​ឃ្លាំង​សម្ងាត់​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ជំនាន់​ទំព័រ​ឃ្លាំង​សម្ងាត់។"
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -130,46 +130,46 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "ម៉ាស៊ីន​មេ​របស់​អ្នក​ហាក់​ដូចជា​មិន​បាន​កំណត់​រចនាសម្ព័ន្ធ​ដើម្បី​ប្រើ URLs ត្រឹមត្រូវ។ អ្នក​ចាំបាច់​ត្រូវ​ប្ដូរ​ការ​កំណត់​រចនាសម្ព័ន្ធ​ម៉ាស៊ីន​មេ​របស់​អ្នក​ជាមុន ទើប​អាច​បើក URLs ត្រឹមត្រូវ​បាន។ មើល​ព័ត៌មាន​បន្ថែម​អំពី​របៀប​បើក URLs ត្រឹមត្រូវ​នៅ <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">សម្រាប់​វេទិកា​ប្រកាស​នេះ</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr ""
+msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​យូសាហ៊ីឌី​អាច​ចូល​ដំណើរការ​បាន​តាមរយៈ URLs \"ត្រឹមត្រូវ\"  (ដោយ​គ្មាន \"index.php\" នៅ​ក្នុង URL)។"
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "បើក URLs ត្រឹមត្រូវ"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "URLs ត្រឹមត្រូវ"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "វាល​លេខ Clickatell API ត្រូវតែ​មាន​ប្រវែង​តិច​ជាង​២០​តួអក្សរ។"
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​លេខ Clickatell API។"
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "វាល​ពាក្យសម្ងាត់ Clickatell ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​៥ និង​យ៉ាង​ច្រើន៥០។"
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ពាក្យសម្ងាត់ Clickatell ។"
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
