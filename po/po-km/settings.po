@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-20 09:52+0000\n"
+"PO-Revision-Date: 2013-03-21 09:45+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -174,157 +174,157 @@ msgstr "បាន​ទាមទារ​វាល​ពាក្យសម្ង
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "វាល​អ្នកប្រើ Clickatell ត្រូវតែ​មាន​ប្រវែង​តួអក្សរ​តិច​ជាង៥០។"
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ឈ្មោះ​អ្នកប្រើ Clickatell ។"
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "កំណត់​រចនាសម្ព័ន្ធ​ផែនទី"
 
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "ទីតាំង​លំនាំដើម"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "វាល​ពណ៌​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "វាល​ពណ៌​ត្រូវតែ​មាន​ប្រវែង​តួអក្សរ​មិន​ច្រើនជាង៦។"
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ពណ៌។"
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "ទិដ្ឋភាព​ផែនទី​លំនាំដើម"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "កម្រិត​ពង្រីក​លំនាំដើម"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "ទៅ​យក​ទីក្រុង​ពី Geonames"
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "វាល​ច្រក​ម៉ាស៊ីន​មេ​អ៊ីមែល​គឺ​វែង​ពេក។"
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "វាល​ច្រក​ម៉ាស៊ីន​មេ​អ៊ីមែល​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ។"
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "វាល​ពាក្យសម្ងាត់​ម៉ាស៊ីន​មេ​អ៊ីមែល​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច៥ និង​យ៉ាង​ច្រើន៥០។"
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​ពាក្យសម្ងាត់​ម៉ាស៊ីន​មេ​អ៊ីមែល។"
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "វាល​ច្រក​ម៉ាស៊ីន​មេ​អ៊ីមែល​គឺ​វែង​ពេក។"
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "វាល​ច្រក​ម៉ាស៊ីន​មេ​អ៊ីមែល​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ។"
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "វាល​ច្រក​ម៉ាស៊ីន​មេ​អ៊ីមែល​គឺ​វែង​ពេក។"
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ប្រភេទ​ម៉ាស៊ីន​មេ​អ៊ីមែល។"
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "វាល​ឈ្មោះ​អ្នកប្រើ​ម៉ាស៊ីន​មេ​អ៊ីមែល​ត្រូវតែ​មាន​តួអក្សរ​តិច​ជាង៥០។"
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ឈ្មោះ​អ្នកប្រើ​ម៉ាស៊ីន​មេ​អ៊ីមែល។"
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "ជម្រើស​រៀបចំ Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "ដើម្បី​ទទួល​បាន​ព័ត៌មាន​ខាងក្រោម អ្នក​ចាំបាច់​ត្រូវ​បង្កើត​កម្មវិធី Facebook ថ្មី​នៅ"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "លេខ​សម្គាល់​កម្មវិធី Facebook"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "ការ​សម្ងាត់​របស់​កម្មវិធី Facebook"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr ""
+msgstr "វាល​វិភាគ​របស់ Google ត្រូវតែ​មាន​លេខ​សម្គាល់​លក្ខណសម្បត្តិ​ត្រឹមត្រូវ​នៅ​ក្នុង​ទ្រង់ទ្រាយ UA-XXXXX-XX."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "បើក HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​យូសាហ៊ីឌី​អាច​ចូល​ដំណើរការ​បាន​ក្នុង​របៀប​មិន​សុវត្ថិភាព <strong>ដោយ​មិន​មាន</strong> \"https://\" នៅ​ក្នុង​បុព្វបទ URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​យូសាហ៊ីឌី​អាច​ចូល​ដំណើរការ​បាន​ក្នុង​របៀប​មិន​សុវត្ថិភាព​ជាមួយ <strong>https</strong> នៅ​ក្នុង​បុព្វបទ URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"

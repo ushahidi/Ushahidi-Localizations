@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-20 09:45+0000\n"
+"PO-Revision-Date: 2013-03-21 09:15+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -1219,7 +1219,7 @@ msgstr "​អ្នក​​ធ្វើ​​របាយការណ៍"
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "កម្រិត​អ្នក​ធ្វើ​របាយការណ៍"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
@@ -1249,12 +1249,12 @@ msgstr "ចម្លើយ​តប"
 #: ui_admin.results
 msgctxt "ui_admin.results"
 msgid "Results"
-msgstr ""
+msgstr "លទ្ធផល"
 
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "ដកហូត"
 
 #: ui_admin.riverid_exists_admin
 msgctxt "ui_admin.riverid_exists_admin"
@@ -1266,41 +1266,41 @@ msgstr ""
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
-msgstr ""
+msgstr "រក្សាទុក​ការ​កំណត់"
 
 #: ui_admin.search
 msgctxt "ui_admin.search"
 msgid "Search"
-msgstr ""
+msgstr "ស្វែងរក"
 
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "ស្វែងរក​របាយការណ៍"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
 msgid "searching for"
-msgstr ""
+msgstr "កំពុង​ស្វែងរក​"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "សោ​ការ​អ៊ិនគ្រីប​នៅ​តែ​កំណត់​តម្លៃ​លំនាំដើម។ វា​គ្មាន​សុវត្ថិភាព ត្រូវ​តែ​ផ្លាស់ប្ដូរ។"
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "តំបន់​បណ្ដាញ​នេះ​កំពុង​ត្រូវ​បាន​រក្សាទុក​នៅ​លើ HTTP ។ វា​គួរតែ​កំណត់​ទៅ HTTPS សម្រាប់​បង្កើន​សុវត្ថិភាព។"
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "សេចក្ដី​ណែនាំ​មាន​នៅ​លើ​វីគី៖"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
@@ -1310,17 +1310,17 @@ msgstr ""
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
-msgstr ""
+msgstr "---ជ្រើស​ប្រភេទ​វាល ---"
 
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
 msgid "Please select an item"
-msgstr ""
+msgstr "សូម​ជ្រើស​ធាតុ​មួយ"
 
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "អ្នក​ត្រូវ​តែ​ជ្រើស​គន្លឹះ មុន​ពេល​អ្នក​អាច​ជ្រើស​ចម្លើយ​តប។"
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
@@ -1330,47 +1330,47 @@ msgstr ""
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
 msgid "Sender"
-msgstr ""
+msgstr "អ្នក​ផ្ញើ"
 
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "ផ្ញើ​ទៅ"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "សារ​នេះ​ត្រូវ​បាន​ផ្ញើ​ពី​តំបន់​បណ្ដាញ​របស់​​អ្នក​នៅ"
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "ពេលវេលា​​របស់​ម៉ាស៊ីន​បម្រើ"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
 msgid "Settings"
-msgstr ""
+msgstr "ការ​កំណត់"
 
 #: ui_admin.showing_page
 msgctxt "ui_admin.showing_page"
 msgid "Showing page"
-msgstr ""
+msgstr "បង្ហាញ​ទំព័រ"
 
 #: ui_admin.showing_results
 msgctxt "ui_admin.showing_results"
 msgid "Showing results"
-msgstr ""
+msgstr "បង្ហាញ​លទ្ធផល"
 
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "បាន​បង្ហាញ"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "ប្រភេទ​ពិសេស"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1378,12 +1378,12 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "វា​ជា​ប្រភេទ​ពិសេស​ដែល​នឹង​មិន​បង្ហាញ​នៅ​លើ​សំណុំ​បែបបទ​ការ​ដាក់​ស្នើ​របាយការណ៍​សម្រាប់​​របាយការណ៍​ដាក់​ស្នើ​របស់​អ្នក​ប្រើ។ វា​ត្រូវ​បាន​​ប្រើ​នៅ​ក្នុង​ការ​ភ្ជាប់​ជាមួយ​លក្ខណ​ពិសេស \"របាយការណ៍​ដែល​ជឿ​ទុក​ចិត្ត\" ។"
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "ផ្ទៃ​ជាក់​លាក់​​​"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
@@ -1393,7 +1393,7 @@ msgstr ""
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
 msgid "Statistics"
-msgstr ""
+msgstr "ស្ថិតិ"
 
 #: ui_admin.stats
 msgctxt "ui_admin.stats"
@@ -1413,17 +1413,17 @@ msgstr ""
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "ថ្ងៃ​ជាក់លាក់"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr ""
+msgstr "ប្រធាន​បទ"
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr ""
+msgstr "ជា​អ្នក​គ្រប់គ្រង​ជាន់​ខ្ពស់"
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"

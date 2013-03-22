@@ -1,13 +1,14 @@
 # 
 # Translators:
 #   <ictsupport@pbi-nepal.org>, 2012.
+# Savi <savibohra@live.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-12-14 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-22 06:12+0000\n"
+"Last-Translator: savi <savibohra@live.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +44,7 @@ msgstr "कार्य"
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr ""
+msgstr "रोज्नुस"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
@@ -172,7 +173,7 @@ msgstr "यदि आफ्नो ठाँउ भेटाउनु भए छ�
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr ""
+msgstr "फ़ीड आरएसएस (तल को यूआरएल लाइ कोपी गर्नुस )"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
@@ -197,12 +198,12 @@ msgstr ""
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr ""
+msgstr "पछिल्लो एउटा अलर्ट अनुरोध को पुष्टि गर्नुहोस "
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr ""
+msgstr "अलर्ट सुरक्षित गरियो "
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -212,62 +213,62 @@ msgstr "सबै"
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
 msgid "Allowed"
-msgstr ""
+msgstr "अनुमति "
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
 msgid "All Categories"
-msgstr ""
+msgstr "सबै श्रेणी हरु "
 
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "सधै "
 
 #: ui_main.and
 msgctxt "ui_main.and"
 msgid "and"
-msgstr ""
+msgstr "अरु"
 
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "ए पि आइ"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
 msgid "Approve"
-msgstr ""
+msgstr "अनुमोदन"
 
 #: ui_main.approved
 msgctxt "ui_main.approved"
 msgid "Approved"
-msgstr ""
+msgstr "अनुमोदित"
 
 #: ui_main.approved_reports
 msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
-msgstr ""
+msgstr "अनुमोदित रिपोर्ट"
 
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr ""
+msgstr "रिपोर्ट लाइ  अनुमोदन गर्नुहोस "
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
 msgid "Approximate"
-msgstr ""
+msgstr "लगभग"
 
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr ""
+msgstr "संग्रह"
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr ""
+msgstr "संग्रहीत"
 
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
@@ -277,92 +278,92 @@ msgstr ""
 #: ui_main.at
 msgctxt "ui_main.at"
 msgid "at"
-msgstr ""
+msgstr "मा"
 
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr ""
+msgstr "लेखक"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "ओटो चेक इन "
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "प्रति दिन औसत रिपोर्ट"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr ""
+msgstr "अनुमोदन को लगी प्रतीक्षा मा "
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr ""
+msgstr "सत्यापन को लागी प्रतीक्षा मा "
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "बैज "
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "बैज हरु "
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "बैज  प्रतिरूप"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "तपाई को आफ्नै बैज  प्रतिरूप अपलोड गर्नुहोस "
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "बिल्ला पैक"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "एउटा बिल्ला चयन गर्नुहोस "
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "ब्लोग"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "प्रोफाइल ब्राउज़"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द गर्नुहोस  "
 
 #: ui_main.categories
 msgctxt "ui_main.categories"
 msgid "Categories"
-msgstr ""
+msgstr "श्रेणी हरु "
 
 #: ui_main.category
 msgctxt "ui_main.category"
 msgid "Category"
-msgstr ""
+msgstr "श्रेणी "
 
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
 msgid "Category Filter"
-msgstr ""
+msgstr "श्रेणी छान्नु"
 
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
@@ -372,57 +373,57 @@ msgstr ""
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr ""
+msgstr "श्रेणी को नाम "
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "तिथि सीमा बदलिनुहोस"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "पासवर्ड बदलिनुहोस "
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "मेरो तस्वीर बदलिनुहोस "
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
 msgid "Choose a"
-msgstr ""
+msgstr "एउटा छान्नुहोस "
 
 #: ui_main.choose_data_points
 msgctxt "ui_main.choose_data_points"
 msgid "Choose data points to download"
-msgstr ""
+msgstr "डाउनलोड गर्न लाइ डाटा बिंदु हरु रोज्नुस "
 
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "अथवा आफ्नो तिथि सीमा रोज्नुहोस "
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "फील्ड को प्रकार रोज्नुहोस "
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr " URLs मेट्नुहोस"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "मेट्नुहोस"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
 msgid "Clear Map"
-msgstr ""
+msgstr "नक्शा सफा पारनुहोस"
 
 #: ui_main.close
 msgctxt "ui_main.close"
