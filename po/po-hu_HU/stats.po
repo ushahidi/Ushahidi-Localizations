@@ -1,13 +1,14 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 15:21+0000\n"
-"Last-Translator: igormedo <igor@igor.hu>\n"
+"PO-Revision-Date: 2013-03-23 22:58+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,7 @@ msgstr "Kategóriák"
 #: stats.category_impact
 msgctxt "stats.category_impact"
 msgid "Category Impact"
-msgstr "Kategória Hatás"
+msgstr "Kategória szerinti bontás"
 
 #: stats.category_impact_description
 msgctxt "stats.category_impact_description"
@@ -37,12 +38,12 @@ msgid ""
 "This chart gives you a linear view of the reports by category over time.  "
 "Scroll from left to right to see a comparative view of the different "
 "categories. Mouse over the graph for more details."
-msgstr "Ez az ábra időben lineáris nézetét adja a riportoknak. Balról jobbra gördítve összehasonlíthatod a különböző kategóriákat. Az egérrel az ábrák fölé állva részletesebb információkat kapsz."
+msgstr "Ez az ábra a bejelentések számának időben történő változását mutatja kategóriánkénti bontásban. Balról jobbra gördítve összehasonlíthatod a különböző kategóriák megoszlásának változását is. Ha az egeret az ábrák fölé viszed, még részletesebb információt kaphatsz."
 
 #: stats.choose_date_range
 msgctxt "stats.choose_date_range"
 msgid "Choose a date range."
-msgstr "Válassz egy dátum "
+msgstr "Válassz egy időtartamot "
 
 #: stats.countries
 msgctxt "stats.countries"
@@ -57,7 +58,7 @@ msgstr "Ország"
 #: stats.country_breakdown
 msgctxt "stats.country_breakdown"
 msgid "Country Breakdown"
-msgstr "Ország üzemzavar"
+msgstr "Ország szerinti bontás"
 
 #: stats.description
 msgctxt "stats.description"
@@ -74,7 +75,7 @@ msgstr "Hiba"
 #: stats.glossary
 msgctxt "stats.glossary"
 msgid "Glossary"
-msgstr "Szószedet"
+msgstr "Magyarázat"
 
 #: stats.hit_summary
 msgctxt "stats.hit_summary"
@@ -94,27 +95,27 @@ msgstr "Oldalletöltések"
 #: stats.pageviews_description
 msgctxt "stats.pageviews_description"
 msgid "The total number of pages that visitors have viewed on your site"
-msgstr "Az összes oldalszám melyet a látogatók megtekintettek"
+msgstr "Az összes oldalmegtekintés száma."
 
 #: stats.reports
 msgctxt "stats.reports"
 msgid "Reports"
-msgstr "Riportok"
+msgstr "Bejelentések"
 
 #: stats.reports_categories
 msgctxt "stats.reports_categories"
 msgid "Reports Categories"
-msgstr "Riport kategóriák"
+msgstr "Bejelentések kategóriák szerinti megoszlása"
 
 #: stats.reports_statistics
 msgctxt "stats.reports_statistics"
 msgid "Reports Statistics"
-msgstr "Riport statisztikák"
+msgstr "Bejelentések"
 
 #: stats.reports_status
 msgctxt "stats.reports_status"
 msgid "Reports Status"
-msgstr "Riportok státusza"
+msgstr "Bejelentések státusz szerinti megoszlása"
 
 #: stats.report_punchcard
 msgctxt "stats.report_punchcard"
@@ -124,7 +125,7 @@ msgstr ""
 #: stats.report_stats
 msgctxt "stats.report_stats"
 msgid "Report Stats"
-msgstr "Bejelentés statisztika"
+msgstr "Bejelentések"
 
 #: stats.stats_not_setup
 msgctxt "stats.stats_not_setup"
@@ -134,22 +135,22 @@ msgstr "Statisztika nincs beállítva"
 #: stats.time_range_1
 msgctxt "stats.time_range_1"
 msgid "1 Month"
-msgstr "1 Hónap"
+msgstr "1 hónap"
 
 #: stats.time_range_2
 msgctxt "stats.time_range_2"
 msgid "3 Months"
-msgstr "3 Hónap"
+msgstr "3 hónap"
 
 #: stats.time_range_3
 msgctxt "stats.time_range_3"
 msgid "6 Months"
-msgstr "6 Hónap"
+msgstr "6 hónap"
 
 #: stats.time_range_all
 msgctxt "stats.time_range_all"
 msgid "All"
-msgstr "Mind"
+msgstr "Teljes időszak"
 
 #: stats.unapproved
 msgctxt "stats.unapproved"
@@ -159,7 +160,7 @@ msgstr "Nem jóváhagyott"
 #: stats.unique_visitors
 msgctxt "stats.unique_visitors"
 msgid "Unique Visitors"
-msgstr "Egyedi Látogató"
+msgstr "Egyedi látogatók"
 
 #: stats.unique_visitors_description
 msgctxt "stats.unique_visitors_description"
@@ -168,7 +169,7 @@ msgid ""
 "determined using cookies. Visitors that do not have cookies enabled will be "
 "identified using a simple heuristic taking into account IP address, "
 "resolution, browser, plugins, OS, etc."
-msgstr "A példányba érkező személyek. Az egyedi látogatók cookie-k segítségével lesznek meghatározva. Azok a látogatók akiknél nincs cookie engedélyezve, egy egyszerű heurisztikával lesznek azonosítva az IP címet, felbontást, böngészőt, OS-t stb felhasználva."
+msgstr "Az oldalra látogató egyedi látogatók száma. Az egyedi látogatókat cookie-k segítségével különítjük el és határozzuk meg a számukat. Azokat a látogatókat akiknél nincs cookie engedélyezve, az IP cím, a felbontás, a böngésző és az operációs rendszer alapján különítjük el egymástól."
 
 #: stats.unverified
 msgctxt "stats.unverified"
@@ -183,7 +184,7 @@ msgstr "Ellenőrzött"
 #: stats.visitor_summary
 msgctxt "stats.visitor_summary"
 msgid "Visitor Summary"
-msgstr "Látogatók összegzése"
+msgstr "Látogatások"
 
 #: stats.visits
 msgctxt "stats.visits"
@@ -195,4 +196,4 @@ msgctxt "stats.visits_description"
 msgid ""
 "A visit is a record of a unique visitor coming to the site more than 30 "
 "minutes past his/her last pageview."
-msgstr "A látogatás az egyedi látogatók rögzítése, akik legalább 30 perce nem jártak az oldalon"
+msgstr "Új látogatásnak számít, ha ugyanazon látogató két oldalletöltése között legalább 30 perc telt el."

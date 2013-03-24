@@ -1,13 +1,14 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 12:06+0000\n"
-"Last-Translator: igormedo <igor@igor.hu>\n"
+"PO-Revision-Date: 2013-03-23 23:38+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,23 +54,23 @@ msgstr "Érvénytelen helyszínt jelölt meg a térképen."
 #: alerts.alert_lat.required
 msgctxt "alerts.alert_lat.required"
 msgid "You have not selected a valid location on the map."
-msgstr "Érvénytelen helyszínt jelölt meg a térképen."
+msgstr "Érvénytelen helyszínt jelöltél meg a térképen."
 
 #: alerts.alert_lon.between
 msgctxt "alerts.alert_lon.between"
 msgid "You have not selected a valid location on the map."
-msgstr "Érvénytelen helyszínt jelölt meg a térképen."
+msgstr "Érvénytelen helyszínt jelöltél meg a térképen."
 
 #: alerts.alert_lon.required
 msgctxt "alerts.alert_lon.required"
 msgid "You have not selected a valid location on the map."
-msgstr "Nem jelölt ki érvényes helyszínt a térképen."
+msgstr "Nem jelöltél ki érvényes helyszínt a térképen."
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
 msgid ""
 "The Mobile Phone field does not seem to contain the right amount of digits."
-msgstr "A mobiltelefon mezőben nem megfelelő a számjegyek darabszáma."
+msgstr "A mobiltelefonszám mezőben nem megfelelő a számjegyek darabszáma."
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
@@ -83,12 +84,12 @@ msgctxt "alerts.alert_mobile.numeric"
 msgid ""
 "The Mobile Phone field does not appear to contain a valid phone. Please "
 "input numbers only including Country Code."
-msgstr "A mobiltelefon mezőben nem megfelelő a számok mennyisége. Csak a ország hívószámát tartalmazó számot írja be."
+msgstr "A mobiltelefon mezőben nem megfelelő a számok mennyisége. Kérjük, hogy az ország hívószámát is írd be. Magyarország: 36"
 
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
 msgid "You must enter either your Mobile Phone Number or your Email Address."
-msgstr "Mobiltelefonszám vagy email cím szükséges.(most csak az email küldést funkció működik)"
+msgstr "A mobiltelefonszám vagy az email cím megadása szükséges - jelenleg csak az emailben történő értesítés funkció működik."
 
 #: alerts.alert_mobile.required
 msgctxt "alerts.alert_mobile.required"
@@ -108,12 +109,12 @@ msgstr "Még nincs beállítva a hatókör a térképen."
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr "Nem állított be címzettet az értesítésekhez."
+msgstr "Nem adtál meg elérhetőségi adatokat az értesítésekhez."
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr "A következő kategóriák értesítéseire íratkozott fel"
+msgstr "A következő kategóriák értesítéseire iratkoztál fel:"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
@@ -125,24 +126,24 @@ msgctxt "alerts.code_not_found"
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
-msgstr "A megadott kód nem található. Ellenőrizze a kapott URL-t!"
+msgstr "A megadott hitelesítési kód nem található. Kérjük, hogy ellenőrizd a kapott linket!"
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr "A kódja hitelesített. Mostantól azonnal kap értesítőt ha a közelbe történik esemény."
+msgstr "A kód hitelesítése megtörtént. Mostantól értesítőt küldünk, ha a megadott körzetben megfelelő kategóriájú bejelentés érkezik."
 
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
 msgid "To confirm your alert request, please go to "
-msgstr "Hogy megerősítse az értesítésék kérését, kérjük, látogasson el a "
+msgstr "Annak érdekében, hogy megerősítsd az értesítések kérését, kérjük, látogass el a "
 
 #: alerts.create_more_alerts
 msgctxt "alerts.create_more_alerts"
 msgid "Return to the Alerts page to create more alerts"
-msgstr "Térjen vissza a értesítésék oldalra, hogy új riasztást állítson be"
+msgstr "Visszatérés az értesítések oldalára"
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
@@ -176,48 +177,48 @@ msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr "A mobil értesítések kérése létrejött, visszaigazoló üzenetet küldtünk a  "
+msgstr "Az SMS értesítések kérése létrejött, visszaigazoló üzenetet küldtünk a  "
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr "Kérjük, adja meg a visszaigazoló SMS-kódot, ami a mobiltelefonjára érkezett: "
+msgstr "Kérjük, add meg a visszaigazoló SMS kódot, ami a mobiltelefonodra érkezett: "
 
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr "A mobil értesítések kérése NINCS elmentve!"
+msgstr "AZ SMS értesítések kérése NINCS elmentve!"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr "A mobil értesítések kérése elmentve!"
+msgstr "Az SMS értesítések kérése elmentve!"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr "Ez a bevitel nincs beállítva helyesen ahhoz, hogy pontosan dolgozza fel az értesítéseket"
+msgstr "A rendszer még nem alkalmas az értesítés kérések feldolgozására."
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
-msgstr "Ön azért kapta ezt a levelet, mert feliratkozott értesítésekre. Ha nem szeretne kapni a jövőben értesítéseket, klikkeljen ide."
+msgstr "Azért kaptad ezt a levelet, mert feliratkoztál a joszolgalat.hu weboldal értesítéseire. Ha a jövőben nem szeretnél értesítéseket kapni, kérjük kattints ide:"
 
 #: alerts.unsubscribed
 msgctxt "alerts.unsubscribed"
 msgid "You will no longer receive alerts from "
-msgstr "Nem fog több értesítést kapni."
+msgstr "A jövőben nem fogsz több értesítést kapni."
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
 msgid ""
 "We were not able to unsubscribe you. Please confirm that you have the "
 "correct URL."
-msgstr "Nem tudott leiratkozni. Kérjük, erősítse meg, hogy a megfelelő URL-t adta meg."
+msgstr "Nem volt sikeres a leiratkozás. Kérjük, ellenőrizd, hogy a megfelelő linket adtad-e meg."
 
 #: alerts.verification_email_subject
 msgctxt "alerts.verification_email_subject"
@@ -228,4 +229,4 @@ msgstr "értesítés - megerősítés "
 msgctxt "alerts.verify_code"
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
-msgstr "Ezen a címen nem fog értesítéseket kapni, amíg meg nem erősíti a kérést."
+msgstr "Ezen a címen nem fogsz értesítéseket kapni, amíg meg nem erősíted a kérést."

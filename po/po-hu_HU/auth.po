@@ -1,13 +1,14 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 15:50+0000\n"
-"Last-Translator: igormedo <igor@igor.hu>\n"
+"PO-Revision-Date: 2013-03-23 23:19+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,32 +20,32 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr "Érvénytelen e-mail cím szerepel az e-mail mezőben."
+msgstr "Érvénytelen email cím szerepel az email mezőben."
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr "Már létezik ezzel az e-mail címmel regisztrált felhasználó."
+msgstr "Már létezik ezzel az email címmel regisztrált felhasználó."
 
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "Az e-mail mező legalább 4 és legfeljebb 64 karakter hosszú lehet."
+msgstr "Az email cím legalább 4 és legfeljebb 64 karakter hosszú lehet."
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr "Az e-mail mezőt kötelező kitölteni."
+msgstr "Az email mezőt kötelező kitölteni."
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr "A teljes név mezőben legalább 3 és legfeljebb 100 karakter szerepelhet."
+msgstr "A név mezőben legalább 3 és legfeljebb 100 karakter szerepelhet."
 
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr "A teljes név mező kitöltése kötelező."
+msgstr "A név mező kitöltése kötelező."
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
@@ -59,12 +60,12 @@ msgstr "A jelszónak legalább 8 karakter hosszúnak kell lennie."
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Kérjük ellenőrizd, hogy a helyes email címet és jelszót adtad-e meg."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Kérjük, ugyanazt a jelszót adja meg mindkét jelszó mezőben."
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
@@ -76,34 +77,34 @@ msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "A jelszó mezőben csak betűk, számok, # és @ jelek, aláhúzás jel és kötőjel szerepelhet."
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "A megadott jelszó érvénytelen. Kérjük ismételd meg a jelszó beírását!"
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "A jelszónak legalább 8 karakter hosszúnak kell lennie."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Kérjük ellenőrizd, hogy a helyes email címet és jelszót adtad-e meg."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Kérjük, hogy ugyanazt a jelszót add meg mindkét jelszó mezőben."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "A jelszó mező kitöltése kötelező."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
@@ -157,7 +158,7 @@ msgstr ""
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr "A jelszó megerősítésének egyeznie kell a megadott jelszóval."
+msgstr "A két jelszó mezőben megadott jelszónak egyeznie kell."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
@@ -167,7 +168,7 @@ msgstr "Érvénytelen e-mail címet adott meg?"
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr "Nem találjuk ezt az e-mail címet."
+msgstr "A megadott email cím nem létezik a rendszerben."
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
@@ -197,7 +198,7 @@ msgstr "Legalább egy felhasználói típust be kell állítani."
 #: auth.roles.values
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
-msgstr "Kérem, válasszon az ADMIN vagy USER felhasználói típusok közül."
+msgstr "Kérjük, hogy válassz az ADMIN vagy a USER felhasználói típusok közül."
 
 #: auth.token.invalid
 msgctxt "auth.token.invalid"

@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Attila Szalay <dzsubek+transifex@dzsubek.hu>, 2013.
+#  <orsime@yahoo.com>, 2013.
 # Peter K. <kpehelp@gmail.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-03-16 15:58+0000\n"
-"Last-Translator: kpe <kpehelp@gmail.com>\n"
+"PO-Revision-Date: 2013-03-23 21:17+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -150,22 +151,22 @@ msgstr "Archiválva"
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr "Biztonsan szertné "
+msgstr "Biztosan szeretnéd "
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr "Biztosan szertné törölni ezt az elemet?"
+msgstr "Biztosan szeretnéd törölni ezt az elemet?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr "Biztosan szertné törölni ezt a képet?"
+msgstr "Biztosan szeretnéd törölni ezt a képet?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr "Biztosan űrlapot szeretne váltani?"
+msgstr "Biztosan űrlapot szeretnél váltani?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
@@ -180,7 +181,7 @@ msgstr "Hozzárendelések"
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr "Kitüntetés Hozzárendelése"
+msgstr "Kitüntetés hozzárendelése"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -190,7 +191,7 @@ msgstr "Szerző"
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr "Szerző emailje"
+msgstr "Szerző email címe"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
@@ -200,7 +201,7 @@ msgstr "Vissza"
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr "IP letiltása"
+msgstr "IP cím letiltása"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
@@ -250,7 +251,7 @@ msgstr "Kérem, ellenőrizze az SMS adatait!"
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr "Bejelentkezés Adatai"
+msgstr "Bejelentkezés adatai"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
@@ -260,7 +261,7 @@ msgstr "Bejelentkezések"
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr "Városok betöltve"
+msgstr "Települések betöltve"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
@@ -531,7 +532,7 @@ msgstr "Választások listája"
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr "Alapérték"
+msgstr "Alapértelmezett érték"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"

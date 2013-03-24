@@ -2,6 +2,7 @@
 # Translators:
 # Attila Szalay <dzsubek+transifex@dzsubek.hu>, 2013.
 # Gábor Nagymajtényi <gabor.nagymajtenyi@gmail.com>, 2013.
+#  <orsime@yahoo.com>, 2013.
 # Peter K. <kpehelp@gmail.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
@@ -9,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-16 15:25+0000\n"
-"Last-Translator: kpe <kpehelp@gmail.com>\n"
+"PO-Revision-Date: 2013-03-24 01:10+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,7 +38,7 @@ msgstr "Hozzáférés korlátai"
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr "Fiók (felhasználói)  Név"
+msgstr "Felhasználónév"
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
@@ -122,7 +123,7 @@ msgstr "Értesítés kérése"
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "Figyelmeztess, ha bejelentés érkezett:"
+msgstr "Figyelmeztessen, ha bejelentés érkezett:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
@@ -137,17 +138,17 @@ msgstr "Email cím:"
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
 msgid "enter email address"
-msgstr "email cím bevitele"
+msgstr "Email cím bevitele"
 
 #: ui_main.alerts_enter_mobile
 msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
-msgstr "mobiltelefonszám országkóddal"
+msgstr "mobiltelefonszám megadása országkóddal"
 
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "Értesítés fogadása"
+msgstr "Értesítés kérése"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
@@ -164,7 +165,7 @@ msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr "Vagy helyezz egy pöttyöt az alábbi térképre, és értesíteni fogunk, ha annak 20 km-es körzetéből kaptunk üzenetet."
+msgstr "... vagy helyezz egy pöttyöt az alábbi térképre, és értesíteni fogunk, ha annak 20 km-es körzetéből bejelentés érkezett. A körzet nagyságát a térkép alatti csúszkával állíthatod. "
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
@@ -181,32 +182,32 @@ msgstr "RSS hírfolyam (másold le az alábbi URL-t)"
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr "Válassz egy várost"
+msgstr "Válassz egy települést"
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr "<strong>1. lépés:</strong> Válassz egy várost vagy helyszínt:"
+msgstr "<strong>1. lépés:</strong> Válassz egy települést vagy helyszínt:"
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>2. lépés:</strong> Értesítést kérek a(z) ...-címre"
+msgstr "<strong>2. lépés:</strong> Értesítést kérek az alábbi elérhetőségekre:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr "3. lépés ( opcionális ): Válassz kategóriát!"
+msgstr "<strong>3. lépés (opcionális ):</strong> Válassz kategóriát:"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Az előző értesítéskérést jóváhagytuk!"
+msgstr "Értesítés kérés jóváhagyása"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "Az értesítés-kérésed mentve lett."
+msgstr "Az értesítéskérést elmentettük."
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -226,7 +227,7 @@ msgstr "Minden kategória"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr "Egész időben"
+msgstr "Összes"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -381,7 +382,7 @@ msgstr "Kategória neve"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr "Változtass dátum intervallumot"
+msgstr "Időtartam megváltoztatása"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
@@ -446,17 +447,17 @@ msgstr "Szín"
 #: ui_main.comment
 msgctxt "ui_main.comment"
 msgid "Comment"
-msgstr "Megjegyzés"
+msgstr "Fejlemény"
 
 #: ui_main.comments
 msgctxt "ui_main.comments"
 msgid "Comments"
-msgstr "Megjegyzések"
+msgstr "Fejlemények"
 
 #: ui_main.comment_details
 msgctxt "ui_main.comment_details"
 msgid "Comment Details"
-msgstr "Megjegyzés részletek"
+msgstr "Fejlemény pár szóban:"
 
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
@@ -478,7 +479,7 @@ msgstr "Sikeresen visszaigazoltad az email címed! Lépj be alább!"
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr "E-mail megerősítés sikertelen! Alább kéhetsz új megerősítő e-mailt."
+msgstr "Az email cím megerősítése sikertelen! Az alábbiakban kéhetsz új megerősítő emailt."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -663,7 +664,7 @@ msgstr "Csökkenő"
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr "Például: Astória sarok, a Rákóczi út felől, Budapest"
+msgstr "Például: Astoria sarok, a Rákóczi út felől, Budapest"
 
 #: ui_main.details
 msgctxt "ui_main.details"
@@ -688,7 +689,7 @@ msgstr "Ellenez"
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr "Összefoglaló letöltése"
+msgstr "Bejelentések letöltése"
 
 #: ui_main.download
 msgctxt "ui_main.download"
@@ -805,7 +806,7 @@ msgstr "--ÜRES--"
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr "-"
+msgstr "Eddig:"
 
 #: ui_main.error
 msgctxt "ui_main.error"
@@ -830,7 +831,7 @@ msgstr "Külső alkalmazások"
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr "Külső Videó hivatkozás"
+msgstr "Hivatkozás külső videóra"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -840,14 +841,14 @@ msgstr "Folyam"
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr "Küld visszajelzést"
+msgstr "Küldj visszajelzést!"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by clicking on the button "
 "below."
-msgstr "Kérünk mondd el a véleményed az alábbi gombra kattintva"
+msgstr "Kérjük mondd el a véleményedet az alábbi gombra kattintva:"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -987,7 +988,7 @@ msgstr "Szín"
 #: ui_main.geometry_comments
 msgctxt "ui_main.geometry_comments"
 msgid "Comments"
-msgstr "Megjegyzések"
+msgstr "Fejlemények"
 
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
@@ -1057,7 +1058,7 @@ msgstr "Azonosító"
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr "A többi felhasználó ez alapján tud azonosítani"
+msgstr "A többi felhasználó számára ez a név jelenik meg."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1152,7 +1153,7 @@ msgstr "Bejövő média"
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr "Információ értékelése"
+msgstr "Bejelentés értékelése"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
@@ -1169,7 +1170,7 @@ msgstr "A hozzáférésed nem megfelelő a teljes beléptetéshez. Vedd fel a ka
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr "válaszul erre:"
+msgstr "Válaszul erre:"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
@@ -1289,7 +1290,7 @@ msgstr "Réteg URL"
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr "Megjegyzést ide fűzhetsz"
+msgstr "A bejelentéssel kapcsolatos fejleményt ide írhatod:"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
@@ -1319,7 +1320,7 @@ msgstr "Korlátozott"
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr "Link"
+msgstr "Hivatkozás"
 
 #: ui_main.list
 msgctxt "ui_main.list"
@@ -1344,7 +1345,7 @@ msgstr "Helyszínek"
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr "Város, Ország"
+msgstr "Település, Ország"
 
 #: ui_main.login
 msgctxt "ui_main.login"
@@ -1354,12 +1355,12 @@ msgstr "Belépés"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr "Fiókod sikeresen létrehozva. Be tudsz lépni."
+msgstr "A fiókodat sikeresen létrehoztuk. Mostantól be tudsz lépni az email címed és jelszavad megadásával."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr "Megerősítő e-mailt elküldtük az e-mail címedre."
+msgstr "A megerősítő linket elküldtük a megadott email címre."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
@@ -1412,7 +1413,7 @@ msgstr "Regisztráció megerősítése"
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr "Regisztálj az oldalon további szolgáltatások előnyeit élvezhesd."
+msgstr "Regisztrálj az oldalon, így további szolgáltatások is elérhetővé válnak számodra."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1472,7 +1473,7 @@ msgstr "Üzenetek"
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr "Üzenet részletek"
+msgstr "Összes üzenet"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
@@ -1492,7 +1493,7 @@ msgstr "Módosít"
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr "Módosítás dátuma"
+msgstr "Dátum módosítása"
 
 #: ui_main.month
 msgctxt "ui_main.month"
@@ -1779,12 +1780,12 @@ msgstr "Jelszó"
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr "Ismételd a jelszavad"
+msgstr "Jelszó mégegyszer"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr "Jelszó csere sikeres! Lépj be alább."
+msgstr "A jelszót sikeresen megváltoztattuk, mostantól az új jelszóval tudsz belépni."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
@@ -1794,7 +1795,7 @@ msgstr "Elfelejtetted a jelszavad?"
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr "Ellenőrizd az emailed az új jelszóért"
+msgstr "Az új jelszót elküldtük az email címedre."
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
@@ -1824,7 +1825,7 @@ msgstr "per"
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr "Személyes Információ <span>Opcionális.</span>"
+msgstr "Személyes adatok <span>Opcionális</span>"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
@@ -1962,7 +1963,7 @@ msgstr "Hírfolyamok frissítése"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr "Regisztrált e-mail cím"
+msgstr "Regisztrált email cím"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -2087,7 +2088,7 @@ msgstr "Bejelentések letöltése CSV formátumban"
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr "email"
+msgstr "Email"
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
@@ -2117,7 +2118,7 @@ msgstr "Helyszín pontosítása"
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr "Új hírforrás link"
+msgstr "Hivatkozás külső hírre"
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
@@ -2132,12 +2133,12 @@ msgstr "Fényképek feltöltése"
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr "Vissza a bejelentések oldalhoz"
+msgstr "Vissza a Bejelentések oldalhoz"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
-msgstr "Válassz egy várost"
+msgstr "Válassz egy települést"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
@@ -2154,7 +2155,7 @@ msgstr "Új bejelentés küldése"
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
 msgid "Time"
-msgstr "idő"
+msgstr "Időpont"
 
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
@@ -2169,7 +2170,7 @@ msgstr "Bejelentés címe"
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
 msgid "Video link"
-msgstr "Videó-link"
+msgstr "Videó hivatkozás"
 
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
@@ -2179,7 +2180,7 @@ msgstr "Incidens bejelentése"
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr "Bejelentés részletei"
+msgstr "Összes bejelentés"
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
@@ -2259,7 +2260,7 @@ msgstr "Jelszó visszaállítása"
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr "A kiválasztott ország város neveinek kigyűjtése"
+msgstr "A kiválasztott ország település neveinek kigyűjtése"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
@@ -2361,7 +2362,7 @@ msgstr "Biztonsági kód"
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr "Mind kiválasztása"
+msgstr "Összes kiválasztása"
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
@@ -2371,7 +2372,7 @@ msgstr "Mezőtípus választása"
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr "Űrlap választása"
+msgstr "Űrlap kiválasztása"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
@@ -2381,7 +2382,7 @@ msgstr "Kiválasztás a térképen"
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr "Annyit válassz,amennyire szükséged van"
+msgstr "Több is választható"
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
@@ -2651,12 +2652,12 @@ msgstr "Ma"
 #: ui_main.this_month
 msgctxt "ui_main.this_month"
 msgid "This Month"
-msgstr "Folyó hó"
+msgstr "Ebben a hónapban"
 
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr "Ez a hét"
+msgstr "Ezen a héten"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
@@ -2676,12 +2677,12 @@ msgstr "idő"
 #: ui_main.title
 msgctxt "ui_main.title"
 msgid "Title "
-msgstr "CÍM"
+msgstr "Bejelentés címe"
 
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr " - "
+msgstr " Eddig:"
 
 #: ui_main.today
 msgctxt "ui_main.today"
@@ -2751,7 +2752,7 @@ msgstr "Twitter"
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr "E-mail küldése sikertelen"
+msgstr "Email küldése sikertelen."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
@@ -2820,7 +2821,7 @@ msgstr "részletes jelentés feltöltése"
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr "A jelentéseket CSV vagy XML formátumban kell feltölteni"
+msgstr "A bejelentéseket CSV vagy XML formátumban kell feltölteni."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
@@ -2868,14 +2869,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr "A jelölőnégyzet opciókat vesszővel kell elválasztani, pl. ha a választható gyümölcsők almák, mangók és szőlők, akkor a bevitt opció \"almák,mangók,szőlők\" legyen"
+msgstr "A jelölőnégyzet opciókat vesszővel kell elválasztani, pl. ha a választható gyümölcsök alma, körte és szőlő, akkor a bevitt opció \"alma,körte,szőlő\" legyen"
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr "A dátum mezőket a következő formában kell kitölteni: hh/nn/éééé pl: 2013. március 15. = 03/15/2013"
+msgstr "A dátum mezőket a következő formában kell kitölteni: hh/nn/éééé pl. 2013. március 15. = 03/15/2013"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2908,7 +2909,7 @@ msgstr "Sikeres feltöltés"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr "Videó feltöltés"
+msgstr "Videó feltöltése"
 
 #: ui_main.url
 msgctxt "ui_main.url"
