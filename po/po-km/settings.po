@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-22 09:57+0000\n"
+"PO-Revision-Date: 2013-03-25 09:47+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -354,191 +354,191 @@ msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "ការ​រៀបចំ​ក្រុមហ៊ុន​ផ្ដល់​ផែន​ទី​របស់​អ្នក​គឺ​ដំណើរការ​យ៉ាង​ងាយស្រួល​មួយ។ ជ្រើស​ក្រុមហ៊ុន​ផ្ដល់​ដែល​មាន​សោ API ពី​តំបន់​បណ្ដាញ​របស់​ក្រុមហ៊ុន​ផ្ដល់ និង​បញ្ចូល​សោ API ។"
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "កម្រិត​ពង្រីក"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
-msgstr ""
+msgstr "ជ្រើស​ក្រុមហ៊ុន​ផ្ដល់​ផែនទី"
 
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
-msgstr ""
+msgstr "ជ្រើស​សោ API ថ្មី"
 
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr ""
+msgstr "យក​សោ API"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "ការ​រៀបចំ​ក្រុមហ៊ុន​ផ្ដល់​ផែន​ទី​របស់​អ្នក​គឺ​ដំណើរការ​យ៉ាង​ងាយស្រួល​មួយ។ ជ្រើស​ក្រុមហ៊ុន​ផ្ដល់​ដែល​មាន​សោ API ពី​តំបន់​បណ្ដាញ​របស់​ក្រុមហ៊ុន​ផ្ដល់ និង​បញ្ចូល​សោ API ។"
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "ក្រុមហ៊ុន​ផ្ដល់​ផែនទី"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "បន្ទាត់​ពេលវេលា​ផែនទី"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "ការ​កំណត់​ផែនទី"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr ""
+msgstr "តើ​ការ​ប្រើប្រាស់​យូសាហ៊ីឌី​នេះ​មាន​នៅ​ច្រើន​ប្រទេស​ដែរ​ឬទេ?"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "សូម​ជ្រើស​ប្រទេស​លំនាំដើម"
 
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "ចុច រួច​អូស​ផែនទី​ដើម្បី​កំណត់​ទីតាំង​បន្ថែម​របស់​អ្នក"
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
-msgstr ""
+msgstr "ប្រមូលផ្ដុំ​របាយការន៍​នៅ​លើ​ផែនទី"
 
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr ""
+msgstr "អនុញ្ញាត​ឲ្យ​អ្នកប្រើ​ផ្ញើ​សេចក្ដី​អធិប្បាយ​ទៅកាន់​របាយការណ៍"
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "រួម​ទាំង​មតិ​ព័ត៌មាន RSS នៅ​លើ​តំបន់បណ្ដាញ"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "អនុញ្ញាត​អ្នកប្រើ​ឲ្យ​ជាវ​ប្រចាំ​សម្រាប់​ការ​ជូនដំណឹង"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr ""
+msgstr "អនុញ្ញាត​ឲ្យ​អ្នកប្រើ​ផ្ញើ​របាយការណ៍"
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
-msgstr ""
+msgstr "សោ Akismet"
 
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "បដា​របស់​តំបន់បណ្ដាញ"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "ប្លុក​ក្នុង​មួយ​ជួរដេក"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
 msgid "Cache Pages"
-msgstr ""
+msgstr "ទំព័រ​ឃ្លាំង​សម្ងាត់"
 
 #: settings.site.cache_pages_lifetime
 msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
-msgstr ""
+msgstr "រយៈពេល​ទំព័រ​ឃ្លាំង​សម្ងាត់"
 
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "បើក​ការ​ពិនិត្យ​ចូល"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "ឃ្លា​រក្សាសិទ្ធិ​តំបន់បណ្ដាញ"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr ""
+msgstr "ពណ៌​លំនាំដើម​សម្រាប់​ប្រភេទ​ទាំងអស់"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "រូបតំណាង​លំនាំដើម​សម្រាប់​ប្រភេទ​ទាំងអស់"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "លុប​រូបភាព​បដា"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "លុប​រូបតំណាង​លំនាំដើម"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "បង្ហាញ​ទំព័រ​ទំនាក់ទំនង"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "បង្ហាញ​ទំព័រ \"របៀប​ជួយ\""
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល​ជូនដំណឹង"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
 msgid ""
 "<span>In order to receive reports by email, please configure your email "
 "account settings.</span>"
-msgstr ""
+msgstr "<span>ដើម្បី​អាច​ទទួល​របាយការណ៍​តាម​អ៊ីមែល​បាន​ សូម​កំណត់​រចនាសម្ព័ន្ធ​អ៊ីមែល​ការ​កំណត់​គណនី​របស់​អ្នក</span>"
 
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល​របស់​តំបន់​បណ្ដាញ"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "ការ​វិភាគ​តាម Google"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
 msgid "Web Property ID - Format: UA-XXXXX-XX"
-msgstr ""
+msgstr "លេខ​សម្គាល់​លក្ខណសម្បត្តិ​តំបន់បណ្ដាញ - ទ្រង់ទ្រាយ៖ UA-XXXXX-XX"
 
 #: settings.site.items_per_page
 msgctxt "settings.site.items_per_page"
 msgid "Items Per Page - Front End"
-msgstr ""
+msgstr "ធាតុ​ក្នុង​មួយ​ទំព័រ - កម្មវិធី​ខាងមុខ"
 
 #: settings.site.items_per_page_admin
 msgctxt "settings.site.items_per_page_admin"
 msgid "Items Per Page - Admin"
-msgstr ""
+msgstr "ធាតុ​ក្នុង​មួយ​ទំព័រ - អ្នក​គ្រប់គ្រង"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
@@ -547,133 +547,133 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
+msgstr "ដើម្បី​ការពារ​សារ​ឥតបានការ សូម​ប្រើ <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> ដោយ​ស្វ័យប្រវត្តិ។ <BR />អ្នក​អាច​យក​សោ API បាន​ដោយ​ចុះឈ្មោះ​សម្រាប់​គណនី​អ្នកប្រើ <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com</a>"
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr ""
+msgstr "ព័ត៌មាន​សម្ងាត់​របស់ Laconica"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr ""
+msgstr "តំបន់បណ្ដាញ​របស់ Laconica"
 
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "ភាសា​តំបន់បណ្ដញ"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "អ្នកប្រើ​ដែល​បាន​អនុម័ត​ដោយ​ដៃ"
 
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "សារ​របស់​តំបន់បណ្ដាញ"
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "ឈ្មោះ​តំបន់បណ្ដាញ"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "ការ​អភិវឌ្ឍ​ឯកជន"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "ទាមទារ​ការ​អះអាង​អ៊ីមែល​របស់​អ្នកប្រើ"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "ដាក់​ស្នើ​សារ​របាយការណ៍"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr ""
+msgstr "បើក​ស្ថិតិ (បាន​ទុក​នៅ​លើ​ម៉ាស៊ីន​មេ​យូសាហ៊ីឌី)"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "បន្ទាត់​ស្លាក​របស់​តំបន់បណ្ដាញ"
 
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "តំបន់​ពេលវេលា"
 
 #: settings.site.title
 msgctxt "settings.site.title"
 msgid "Site Settings"
-msgstr ""
+msgstr "ការ​កំណត់​តំបន់បណ្ដាញ"
 
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
 msgid "Twitter Search Terms"
-msgstr ""
+msgstr "លក្ខខណ្ឌ​ស្វែងរក​របស់ Twitter"
 
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
-msgstr ""
+msgstr "សញ្ញា​ចំនួន (#) បំបែក​ដោយ​សញ្ញា​ក្បៀស (,)"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
 msgid "The site email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "វាល​អ៊ីមែល​របស់​តំបន់បណ្ដាញ​មិន​បង្ហាញ​ថា​មាន​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr ""
+msgstr "វាល​អាសយដ្ឋាន​អ៊ីមែល​ត្រូវតែ​មាន​អក្សរ​យ៉ាង​តិច៤ និង​យ៉ាង​ច្រើន១០០។"
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "វាល​ឈ្មោះ​តំបន់បណ្ដាញ​ត្រូវតែ​មាន​អក្សរ​យ៉ាង​តិច​៣ និង​យ៉ាង​ច្រើន​៥០។"
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​ឈ្មោះ​តំបន់បណ្ដាញ។"
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "វាល​បន្ទាត់​ស្លាក​ត្រូវតែ​មាន​អក្សរ​យ៉ាងតិច​៣ និង​យ៉ាង​ច្រើន​១០០។"
 
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល​បន្ទាត់​ស្លាក។"
 
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
 msgid "Your Clickatell API Number"
-msgstr ""
+msgstr "លេខ Clickatell API របស់​អ្នក"
 
 #: settings.sms.clickatell_check_balance
 msgctxt "settings.sms.clickatell_check_balance"
 msgid "Check Your Clickatell Credit Balance"
-msgstr ""
+msgstr "ពិនិត្យ​សមតុល្យ​ឥណទាន Clickatell របស់​អ្នក"
 
 #: settings.sms.clickatell_load_balance
 msgctxt "settings.sms.clickatell_load_balance"
 msgid "Load Credit Balance"
-msgstr ""
+msgstr "ផ្ទុក​សមតុល្យ​ឥណទាន"
 
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "ពាក្យសម្ងាត់ Clickatell របស់​អ្នក"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -681,17 +681,17 @@ msgid ""
 "Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
-msgstr ""
+msgstr "ចុះឈ្មោះ​សម្រាប់​សេវាកម្ម Clickatells ដោយ <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">ចុច​ទីនេះ</a>"
 
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
 msgid "Enter your Clickatell access information below"
-msgstr ""
+msgstr "បញ្ចូល​ព័ត៌មាន​ចូល​ដំណើរការ Clickatell របស់​អ្នក​នៅ​ខាងក្រោម"
 
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr ""
+msgstr "ឈ្មោះ​អ្នកប្រើ Clickatell របស់​អ្នក"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -701,12 +701,12 @@ msgid ""
 " users to send and receive text messages with large groups of people through"
 " mobile phones. Click on the grey box to request a download from "
 "FrontlineSMS.com"
-msgstr ""
+msgstr "FrontlineSMS គឺជា​កម្មវិធី​កូដ​ចំហ​ឥត​បង់ថ្លៃ​ដែល​ប្រែក្លាយ​កុំព្យូទ័រ​យួរ​ដៃ និង​ទូរស័ព្ទ​ចល័ត​ទៅជា​មជ្ឈមណ្ឌល​ទំនាក់ទំនង​កណ្ដាល។ នៅ​ពេល​បាន​ដំឡើង​ហើយ វា​នឹង​អនុញ្ញាត​ឲ្យ​អ្នក​ផ្ញើ និង​ទទួល​សារ​ជា​អក្សរ​ជាមួយ​ក្រុម​មនុស្ស​ជាច្រើន​ដោយ​ប្រើ​ទូរស័ព្ទ​ចល័ត។ ចុច​ប្រអប់​ពណ៌ប្រផេះ​ដើម្បី​ស្នើ​ការ​ទាញ​យក​ពី FrontlineSMS.com"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download Frontline SMS and install it on your computer"
-msgstr ""
+msgstr "ទាញ​យក Frontline SMS និង​ដំឡើង​វា​នៅ​លើ​កុំព្យូទ័រ​របស់​អ្នក"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"

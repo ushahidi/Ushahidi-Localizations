@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-24 01:10+0000\n"
+"PO-Revision-Date: 2013-03-26 00:52+0000\n"
 "Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
@@ -128,7 +128,7 @@ msgstr "Figyelmeztessen, ha bejelentés érkezett:"
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "Értesítés mentése"
+msgstr "Értesítéskérés mentése"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
@@ -202,7 +202,7 @@ msgstr "<strong>3. lépés (opcionális ):</strong> Válassz kategóriát:"
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Értesítés kérés jóváhagyása"
+msgstr "Értesítéskérés jóváhagyása"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
@@ -462,7 +462,7 @@ msgstr "Fejlemény pár szóban:"
 #: ui_main.configuration_saved
 msgctxt "ui_main.configuration_saved"
 msgid "Your Settings Have Been Saved!"
-msgstr "A beállításaidat elmentettük!"
+msgstr "A beállításaidat elmentettük."
 
 #: ui_main.configure
 msgctxt "ui_main.configure"
@@ -473,13 +473,13 @@ msgstr "Beállít"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr "Sikeresen visszaigazoltad az email címed! Lépj be alább!"
+msgstr "Sikeresen visszaigazoltad az email címedet. A rendszerbe az alábbi mezőkben tudsz belépni."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr "Az email cím megerősítése sikertelen! Az alábbiakban kéhetsz új megerősítő emailt."
+msgstr "Az email cím megerősítése sikertelen! Az alábbiakban kérhetsz új megerősítő emailt."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -684,7 +684,7 @@ msgstr "Letiltva"
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr "Ellenez"
+msgstr "Nem hagy jóvá"
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
@@ -1360,7 +1360,7 @@ msgstr "A fiókodat sikeresen létrehoztuk. Mostantól be tudsz lépni az email 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr "A megerősítő linket elküldtük a megadott email címre."
+msgstr "A megerősítő linket elküldtük egy email-ben."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
@@ -1403,7 +1403,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr "Köszönjük feliratkozását: %1$s. E-mail címe megerősítéséhez navigáljon a következő URL-re: %2$s"
+msgstr "Köszönjük regisztrációdat a %1$s weboldalon. Email címed megerősítéséhez kérjük kattints a következő linkre: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -1520,7 +1520,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr "Meg kell erősítenie e-mail címét, hogy hozzáférhessen ehhez a telepítéshez. Ha elveszítette a megerősítő e-mailt, alább újat kérhet."
+msgstr "Meg kell erősítenie email címét annak érdekében, hogy beléphessen a rendszerbe. Ha nem találja a megerősítő linket tartalmazó emailt emailjei között, az alábbiakban kérhet újat."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1918,7 +1918,7 @@ msgstr "Profil színe"
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
-msgstr "A profilod mentve lett"
+msgstr "A profilodat elmentettük."
 
 #: ui_main.quick_stats
 msgctxt "ui_main.quick_stats"
@@ -2210,7 +2210,7 @@ msgstr "Alkalmazás használatával"
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
-msgstr "A bejelentésedet elmentettük"
+msgstr "A bejelentésedet elmentettük."
 
 #: ui_main.report_title
 msgctxt "ui_main.report_title"
@@ -2240,7 +2240,7 @@ msgstr "Szükségletek"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr "Megerősítő e-mail újraküldése"
+msgstr "Megerősítő email újraküldése"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
@@ -2732,7 +2732,7 @@ msgstr "Fordítás"
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr "A fordítást mentettük"
+msgstr "A fordítást elmentettük."
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
@@ -2757,7 +2757,7 @@ msgstr "Email küldése sikertelen."
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr "Nem kategorizált bejelentések"
+msgstr "Nem kategorizált"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2939,22 +2939,22 @@ msgstr "Ellenőrzés"
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr "Igazolva"
+msgstr "Ellenőrizve"
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr "Jóváhagyott bejelentések"
+msgstr "Ellenőrzött bejelentések"
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr "Igazolás"
+msgstr "Ellenőrzés"
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr "Bejelentés jóváhagyása"
+msgstr "Bejelentés ellenőrzése"
 
 #: ui_main.version
 msgctxt "ui_main.version"
@@ -3034,12 +3034,12 @@ msgstr "Látható"
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr "Jóváhagyást vár"
+msgstr "Jóváhagyásra vár"
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr "Ellenőrzést vár"
+msgstr "Ellenőrzésre vár"
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
