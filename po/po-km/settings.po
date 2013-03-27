@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-25 09:47+0000\n"
+"PO-Revision-Date: 2013-03-26 08:12+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -716,74 +716,74 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
 "up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
 " require the key and link below to set up the sync with FrontlineSMS"
-msgstr ""
+msgstr "សារ​ដែល​បាន​ទទួល​ទៅ​ក្នុង​កម្មវិធី FrontlineSMS អាច​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ជាមួយ​យូសាហ៊ីឌី។ សេចក្ដីណែនាំ​លម្អិត​អំពី​របៀប​ធ្វើ​សមកាលកម្ម​អាច​រក​បាន​នៅ <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">ទីនេះ</a></strong>។ អ្នក​នឹង​តម្រូវឲ្យ​មាន​សោ និង​តំណ​ខាងក្រោម​ដើម្បី​រៀបចំ​សមកាលកម្ម​ជាមួយ FrontlineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Your Ushahidi Sync Key"
-msgstr ""
+msgstr "សោ​សមកាលកម្ម​យូសាហ៊ីឌី​របស់​អ្នក"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "FrontlineSMS HTTP Post LINK"
-msgstr ""
+msgstr "តំណ​ប្រកាស FrontlineSMS HTTP"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Sync with Ushahidi"
-msgstr ""
+msgstr "ធ្វើ​សមកាលកម្ម​ជាមួយ​យូសាហ៊ីឌី"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr ""
+msgstr "បញ្ចូល​លេខ​ទូរស័ព្ទ​ដើម្បី​តភ្ជាប់​ទៅកាន់ Frontline SMS នៅ​ក្នុង​វាល​ខាងក្រោម"
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
-msgstr ""
+msgstr "បញ្ចូល​លេខ​ខាងក្រោម​ដោយ​មិន​ចាំបាច់​មាន​សញ្ញា + ឬ​សញ្ញា - ឡើយ"
 
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr ""
+msgstr "ជម្រើស​ទី១៖ ប្រើ Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr ""
+msgstr "ជម្រើស​ទី២៖ ប្រើ​ច្រក SMS សាកល"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "ជម្រើស​រៀបចំ SMS"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
 msgid "The phone 1 field does not appear to contain a valid value."
-msgstr ""
+msgstr "វាល​មួយ​របស់​ទូរស័ព្ទមិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ។"
 
 #: settings.sms_no1.numeric
 msgctxt "settings.sms_no1.numeric"
 msgid "The phone 1 field should contain numbers only."
-msgstr ""
+msgstr "វាល​មួយ​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ។"
 
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
-msgstr ""
+msgstr "វាល​ទី២​របស់​ទូរស័ព្ទ​គឺ​វែង​ពេក។"
 
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr ""
+msgstr "វាល​ទី២​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោ"
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
-msgstr ""
+msgstr "វាល​ទី៣​របស់​ទូរស័ព្ទ​គឺ​វែង​ពេក។"
 
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr ""
+msgstr "វាល​ទី៣​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ។"
