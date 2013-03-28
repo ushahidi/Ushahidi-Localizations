@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-26 09:42+0000\n"
+"PO-Revision-Date: 2013-03-27 09:20+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr "អ៊ីម៉ែល​ដែល​អ្នក​បាន​បញ្ចូល​មិនមែន​ជា​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ​ឡើយ។"
+msgstr "អ៊ីមែល​ដែល​អ្នក​បាន​បញ្ចូល​មិនមែន​ជា​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ​ឡើយ។"
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
@@ -40,7 +40,7 @@ msgstr "បាន​ទាមទារ​វាល​អ៊ីមែល។"
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr "វាល​ឈ្មោះ​ត្រូវតែ​មាន​ទួអក្សរ​យ៉ាងតិច​៣ និង​យ៉ាងច្រើន​១០០។"
+msgstr "វាល​ឈ្មោះ​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​៣ និង​យ៉ាងច្រើន​១០០។"
 
 #: auth.name.required
 msgctxt "auth.name.required"
@@ -55,7 +55,7 @@ msgstr "វាល​ឈ្មោះ​អ្នកប្រើ​មាន​ត
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr "វាល​ពាក្យសម្ងាត់​ត្រូវតែមាន​តួអក្សរ​យ៉ាងតិច​៨។"
+msgstr "វាល​ពាក្យសម្ងាត់​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​៨។"
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
@@ -111,7 +111,7 @@ msgctxt "auth.new_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "វាល​ពាក្យសម្ងាត់​ត្រូវតែ​ជា​តួអក្សរ សញ្ញា # សញ្ញា @ លេខ សញ្ញា (_) និង​សញ្ញា (-) ប៉ុណ្ណោះ"
 
 #: auth.password.default
 msgctxt "auth.password.default"
@@ -146,7 +146,7 @@ msgstr "ម៉ាស៊ីន​មេ​ផ្ទៀងផ្ទាត់​ភ
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
@@ -158,96 +158,96 @@ msgstr "វាល​ពាក្យសម្ងាត់​ត្រូវតែ
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr "វាល​អះអាង​ពាក្យសម្ងាត់​ត្រូវតែ​ផ្គូរផ្គង​ជាមួយ​វាល​ពាក្យសម្ងាត់។"
+msgstr "វាល​អះអាង​ពាក្យសម្ងាត់​ត្រូវតែ​ផ្គូផ្គង​ជាមួយ​វាល​ពាក្យសម្ងាត់។"
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr "អ៊ីម៉ែលដែលអ្នកបញ្ចូលមិនឡើយ"
+msgstr "អ៊ីមែល​ដែល​អ្នក​បាន​បញ្ចូល​មិនមែន​ជា​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ​ឡើយ។"
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr "សូមទោស យើងមិនមានអាស័យដ្ឋានអ៊ីម៉ែលរបស់អ្នក"
+msgstr "សូមទោស យើង​មិន​មាន​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​ទេ"
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr "ប្រឡោះអ៊ីម៉ែលតម្រូវឲ្យមាន"
+msgstr "បាន​ទាមទារ​វាល​អ៊ីមែល។"
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr "មានតែ Superadmin អាចកែប្រែ Superadmin ឬ តម្លើសិទ្ឋិអ្នកប្រើប្រាស់"
+msgstr "មានតែ​អ្នកប្រើ​ជាន់ខ្ពស់​ប៉ុណ្ណោះ​ដែល​អាច​កែប្រែ​អ្នកប្រើ​ជាន់ខ្ពស់ ឬ​បង្កើន​ឋានៈ​អ្នកប្រើ​ទៅជា​អ្នក​គ្រប់គ្រង​បាន។"
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
 msgid "Invalid role format."
-msgstr "មិនមានបែបបទ"
+msgstr "ទ្រង់ទ្រាយ​មុខងារ​មិន​ត្រឹមត្រូវ។"
 
 #: auth.roles.length
 msgctxt "auth.roles.length"
 msgid "The role field must be at least 5 and no more than 30 characters long."
-msgstr "ប្រឡោះបែបបទតម្រូវឲ្យមានយ៉ាងតិច 5 និងមិនច្រើនជាង 30តួ"
+msgstr "វាល​មុខងារ​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច៥ និង​យ៉ាង​ច្រើន៣០។"
 
 #: auth.roles.required
 msgctxt "auth.roles.required"
 msgid "You must define at least one role."
-msgstr "អ្នកត្រូវតែប្រកាស់យ៉ាងតិចបែបទមួយ"
+msgstr "អ្នក​ត្រូវតែ​កំណត់​មុខងារ​ឲ្យ​បាន​យ៉ាងតិច​មួយ។"
 
 #: auth.roles.values
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
-msgstr ""
+msgstr "អ្នក​ត្រូវតែ​ជ្រើស​មុខងារ​មួយ​គឺ​អ្នក​គ្រប់គ្រង ឬ​អ្នកប្រើ។"
 
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr ""
+msgstr "ការ​ទៅ​យក​ពាក្យសម្ងាត់​ដែល​បាន​ភ្លេច​គឺ​មិន​ត្រឹមត្រូវ"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr ""
+msgstr "បាន​ទាមទារ​ការ​ទៅ​យក​ពាក្យសម្ងាត់​ដែល​បាន​ភ្លេច"
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
-msgstr "បែបបទអ្នកប្រើប្រាស់Admin មិនអាចកែប្រែបាន"
+msgstr "មុខងារ​អ្នកគ្រប់គ្រង​មិន​អាច​កែប្រែ​បាន​ទេ។"
 
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "វាល URL ទម្រង់​សាធារណៈ​ត្រូវតែ​មាន​ជា​អក្សរ និង​លេខ​ប៉ុណ្ណោះ។"
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
 msgid "Sorry, this public profile URL is already in use."
-msgstr "សូមទោស គណនេយ្យមួយនេះបានប្រើប្រាស់ហើយ"
+msgstr "សូមទោស URL ទម្រង់​សាធារណៈ​នេះ​មាន​គេ​ប្រើ​ហើយ។"
 
 #: auth.username.length
 msgctxt "auth.username.length"
 msgid ""
 "The public profile URL field must be at least 2 and no more 100 characters "
 "long."
-msgstr ""
+msgstr "វាល URL ទម្រង់​សាធារណៈ​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច២ និង​យ៉ាងច្រើន១០០។"
 
 #: auth.username.login error
 msgctxt "auth.username.login error"
 msgid "Please check that you entered the correct public profile URL."
-msgstr "សូមត្រួពិនិត្យថាអ្នកពិតជាបានបញ្ចូលគណនេយ្យបានត្រឹមត្រូវ"
+msgstr "សូម​ពិនិត្យមើល​ថា​អ្នក​ពិតជា​បាន​បញ្ចូល URL ទម្រង់​សាធារណៈ​ត្រឹមត្រូវ។"
 
 #: auth.username.required
 msgctxt "auth.username.required"
 msgid "The public profile URL field is required."
-msgstr ""
+msgstr "បាន​ទាមទារ​វាល URL ទម្រង់​សាធារណៈ។"
 
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"
 msgid "The super admin role cannot be modified."
-msgstr "អ្នកប្រើប្រាស់ជា​ Super Admin មិនអាចកែប្រែបាន"
+msgstr "មុខងារ​អ្នក​គ្រប់គ្រង​ជាន់​ខ្ពស់ មិន​អាច​កែប្រែ​បាន​ទេ។"
 
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "អាច​មាន​ការ​វាយប្រហារ​របស់ CSRF ។ តើ​អ្នក​ពិតជា​ចង់​បង្កើត/កែប្រែ​អ្នកប្រើ​មែន​ឬ?"

@@ -1,13 +1,14 @@
 # 
 # Translators:
 #   <ivan.schepens@wynns.be>, 2012.
+# Milo van der Linden <milo@dogodigi.net>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-11-27 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-27 15:14+0000\n"
+"Last-Translator: miblon <milo@dogodigi.net>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,27 +20,27 @@ msgstr ""
 #: reports.incident_id.required
 msgctxt "reports.incident_id.required"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Controleer of er een keuze is aangevinkt"
 
 #: reports.incident_id.numeric
 msgctxt "reports.incident_id.numeric"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Controleer of er een keuze is aangevinkt"
 
 #: reports.incident_id.categories_required
 msgctxt "reports.incident_id.categories_required"
 msgid "Reports must be categorized before they can be approved"
-msgstr ""
+msgstr "Rapporten dienen aan een categorie te zijn toegekend alvorens ze kunnen worden goedgekeurd"
 
 #: reports.action.permission
 msgctxt "reports.action.permission"
 msgid "You don't have permission to perform this action"
-msgstr ""
+msgstr "Onvoldoende rechten om de handeling uit te voeren"
 
 #: reports.uploadfile.required
 msgctxt "reports.uploadfile.required"
 msgid "You must select a file to upload"
-msgstr ""
+msgstr "Selecteer een bestand om te uploaden"
 
 #: reports.uploadfile.type
 msgctxt "reports.uploadfile.type"
@@ -49,4 +50,4 @@ msgstr ""
 #: reports.uploadfile.valid
 msgctxt "reports.uploadfile.valid"
 msgid "The file upload field does not seem to contain a valid file"
-msgstr ""
+msgstr "Er is geen geldig bestand opgegeven in het upload veld"

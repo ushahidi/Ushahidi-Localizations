@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-05 09:29+0000\n"
-"Last-Translator: athell <ellsomath@gmail.com>\n"
+"PO-Revision-Date: 2013-03-27 09:51+0000\n"
+"Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,7 +39,7 @@ msgstr "ដែន​កំណត់​ការ​ចូល​ដំណើរក
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
 msgid "Account Name"
-msgstr "ឈ្មោះ​គណនេយ្យ"
+msgstr "ឈ្មោះ​គណនី"
 
 #: ui_main.actions
 msgctxt "ui_main.actions"
@@ -74,7 +74,7 @@ msgstr "បាន​បន្ថែម​ដោយ"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr "ព័ត៌មាន​បន្ថែម"
+msgstr "ទិន្នន័យ​បន្ថែម"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -89,7 +89,7 @@ msgstr "បន្ថែម/កែសម្រួល"
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr "បន្ថែម​ប្រឡោះ"
+msgstr "បន្ថែម​វាល"
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
@@ -119,7 +119,7 @@ msgstr "រដ្ឋបាល"
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "យក​ការ​ជូន​ដំណឹង​"
+msgstr "យក​ការ​ជូនដំណឹង​"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
@@ -134,7 +134,7 @@ msgstr "រក្សាទុក​ការ​ជូនដំណឹង​រប
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
 msgid "Email address:"
-msgstr "អាសយដ្ឋាន​អ៊ីមែល:"
+msgstr "អាសយដ្ឋាន​អ៊ីមែល៖"
 
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
@@ -178,7 +178,7 @@ msgstr "បើសិន​អ្នកមិនអាចស្វែងរកឃ
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr ""
+msgstr "មតិ​ព័ត៌មាន RSS (ចម្លង URL ខាងក្រោម)"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
@@ -238,12 +238,12 @@ msgstr "និង"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
 msgid "Approve"
-msgstr ""
+msgstr "អនុម័ត"
 
 #: ui_main.approved
 msgctxt "ui_main.approved"
@@ -468,7 +468,7 @@ msgstr "ការកំនត់របស់អ្នកបានរក្សា
 #: ui_main.configure
 msgctxt "ui_main.configure"
 msgid "Configure"
-msgstr ""
+msgstr "កំណត់​រចនាសម្ព័ន្ធ"
 
 #: ui_main.confirm_email_successful
 msgctxt "ui_main.confirm_email_successful"
@@ -585,7 +585,7 @@ msgstr "កាល​បរិច្ឆេទ​"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(mm/dd/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -605,7 +605,7 @@ msgstr "បញ្ឈប់ដំណើរការ"
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "Nairobi, Kenya"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -625,7 +625,7 @@ msgstr "លុប"
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "បាន​បិទ​ការ​លុប"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
