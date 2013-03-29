@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-27 09:51+0000\n"
+"PO-Revision-Date: 2013-03-28 09:41+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -166,14 +166,14 @@ msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr "ឬ​ដាក់​ចំណុច​នៅ​លើ​ផែនទី​ខាងក្រោម បន្ទាប់មក​យើង​នឹង​ជូនដំណឹង​អ្នក​នៅ​ពេល​ដែល​របាយការណ៍​ត្រូវ​បាន​ស្នើ​​ក្នុង​ចម្ងាយ២០​គីឡូម៉ែត្រ។"
+msgstr "ឬ​ដាក់​ចំណុច​នៅ​លើ​ផែនទី​ខាងក្រោម បន្ទាប់មក​យើង​នឹង​ជូនដំណឹង​អ្នក​នៅ​ពេល​ដែល​របាយការណ៍​ត្រូវ​បាន​ដាក់​ស្នើ​​ក្នុង​ចម្ងាយ២០​គីឡូម៉ែត្រ។"
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr "បើសិន​អ្នកមិនអាចស្វែងរកឃើញ សូមចុចលើផែនទីនូវចំនុចដែលត្រឹមត្រូវ។"
+msgstr "ប្រសិនបើ​អ្នក​មិន​អាច​រក​ឃើញ​ទីតាំង​របស់​អ្នក​ទេ សូម​ចុច​លើ​ផែនទី​ដើម្បី​ដៅ​ចំណុច​ត្រឹមត្រូវ។"
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -183,32 +183,32 @@ msgstr "មតិ​ព័ត៌មាន RSS (ចម្លង URL ខាងក�
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr "ជ្រើសរើសទីក្រុង"
+msgstr "ជ្រើស​ទីក្រុង"
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr "<strong>ជំហាន 1:</strong> ជ្រើសរើសទីក្រុង រឺ ទីកន្លែង:"
+msgstr "<strong>ជំហាន​ទី១៖</strong> ជ្រើស​ទីក្រុង ឬ​ទីតាំង​របស់​អ្នក៖"
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>ជំហាន​ 2</strong> ផ្ញើរដំណឹងទៅ:"
+msgstr "<strong>ជំហាន​​ទី២៖</strong> ផ្ញើ​ការ​ជូន​ដំណឹង​ឲ្យ​ខ្ញុំ៖"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr "<strong>ជំហាន 3 (តាមចិត្ត):</strong> ជ្រើសរើសប្រភេទ"
+msgstr "<strong>ជំហាន​ទី៣ (ជា​ជម្រើស)៖</strong> ជ្រើស​ប្រភេទ"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "បញ្ជាក់ភាពពិតពីការចង់បានការជូនដំណឹង"
+msgstr "អះអាង​សំណើ​ការ​ជូនដំណឹង​មុន"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "ការជូនដំណឹងត្រូវបានរក្សាទុក!"
+msgstr "បាន​រក្សាទុក​ការ​ជូនដំណឹង​របស់​អ្នក!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -218,7 +218,7 @@ msgstr "ទាំង​អស់​"
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
 msgid "Allowed"
-msgstr "បានអនុញ្ញាត្តិ"
+msgstr "បាន​អនុញ្ញាត"
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -228,7 +228,7 @@ msgstr "ប្រភេទ​ទាំងអស់"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr "គ្រប់ពេល"
+msgstr "គ្រប់​ពេល"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -248,17 +248,17 @@ msgstr "អនុម័ត"
 #: ui_main.approved
 msgctxt "ui_main.approved"
 msgid "Approved"
-msgstr "បានយល់ព្រម"
+msgstr "បាន​អនុម័ត"
 
 #: ui_main.approved_reports
 msgctxt "ui_main.approved_reports"
 msgid "Approved Reports"
-msgstr "យល់ព្រមអោយចេញរបាយការណ៏"
+msgstr "របាយការណ៍​ដែល​បាន​អនុម័ត"
 
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr "អនុម័ត​របាយការណ៍​នេ"
+msgstr "បាន​អនុម័ត​របាយការណ៍​នេះ"
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
@@ -268,12 +268,12 @@ msgstr "ប្រហែល"
 #: ui_main.archive
 msgctxt "ui_main.archive"
 msgid "Archive"
-msgstr "រក្សាទុកជាឯកសារ"
+msgstr "ប័ណ្ណសារ"
 
 #: ui_main.archived
 msgctxt "ui_main.archived"
 msgid "Archived"
-msgstr "បានរក្សាទុកជាឯកសារ"
+msgstr "បាន​ទុក​ក្នុង​ប័ណ្ណសារ"
 
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
@@ -288,67 +288,67 @@ msgstr "នៅ"
 #: ui_main.author
 msgctxt "ui_main.author"
 msgid "Author"
-msgstr "អ្នកបង្កើត"
+msgstr "អ្នកនិពន្ធ"
 
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr "ពិនិត្យដោយស្វ័យប្រវត្តិ"
+msgstr "ពិនិត្យ​ចូល​ស្វ័យប្រវត្តិ"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr "របាយការណ៏ជាមធ្យមក្នុងមួយថ្ងៃ"
+msgstr "របាយការណ៏​ជាមធ្យម​ក្នុង​មួយ​ថ្ងៃ"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
 msgid "Awaiting Approval"
-msgstr "រងចាំការយល់ព្រម"
+msgstr "រង់ចាំ​ការ​អនុម័ត"
 
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr "រងចាំការត្រួតពិនិត្យ"
+msgstr "រង់ចាំ​ការ​ផ្ទៀងផ្ទាត់"
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr "សញ្ញា"
+msgstr "សញ្ញាសម្គាល់"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr "សញ្ញា"
+msgstr "សញ្ញាសម្គាល់"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr "រូបសញ្ញា"
+msgstr "រូបភាព​សញ្ញាសម្គាល់"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr "ឬក៍អ្នកអាចអាប់ឡូតសញ្ញារបស់អ្នកជំនួស"
+msgstr "ឬ​អ្នក​អាច​ផ្ទុក​រូបភាព​សញ្ញាសម្គាល់​របស់​អ្នក​ជំនួស​ក៏​បាន។"
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr "កញ្ចប់សញ្ញា"
+msgstr "កញ្ចប់​សញ្ញាសម្គាល់"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr "ជ្រើសរើសសញ្ញា"
+msgstr "ជ្រើស​សញ្ញាសម្គាល់"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr "ប្លុក"
+msgstr "កំណត់ហេតុបណ្ដាញ"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr "ចូលទៅកាន់ប្រវត្ថិ"
+msgstr "រុករក​ទម្រង់"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -368,32 +368,32 @@ msgstr "ប្រភេទ"
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
 msgid "Category Filter"
-msgstr "ច្រោះប្រភេទ"
+msgstr "តម្រង​ប្រភេទ"
 
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr "ប្រភេទបាន"
+msgstr "ប្រភេទ​បាន"
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr "ឈ្មោះប្រភេទ"
+msgstr "ឈ្មោះ​ប្រភេទ"
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr "ផ្លាស់ប្ដូរ​ជួរ​កាល​បរិច្ឆេទ"
+msgstr "ប្ដូរ​ជួរ​កាលបរិច្ឆេទ"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr "ផ្លាស់ប្តូរពាក្យសំងាត់"
+msgstr "ប្តូរ​ពាក្យសម្ងាត់"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr "ផ្លាសប្តូររូបភាព"
+msgstr "ប្តូរ​រូបភាព​របស់​ខ្ញុំ"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"

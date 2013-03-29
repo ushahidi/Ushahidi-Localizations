@@ -1,12 +1,13 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-11-27 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-28 11:34+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,14 +19,14 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "Hiba a bejelentésben!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Ez a rendszer csak egy országgal kapcsolatos bejelentéseket tartalmazhat. Kérjük ellenőrizd, hogy a bejelentés helyszíne a következő ország területén legyen: %s"
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -35,17 +36,17 @@ msgstr "Kérem, adja meg a kiválasztott elemek valós mennyiségét."
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr "Kérem, válasszon valós elemet, amelyet le kíván tölteni."
+msgstr "Kérjük, létező elemet válassz a letöltéshez."
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr "Kérem, válasszon valós elemet, amelyet le kíván tölteni."
+msgstr "Kérjük, létező elemet válassz a letöltéshez."
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Kérjük válaszd ki a \"Jóváhagyásra vár\", a \"Jóváhagyott\" vagy mindkét típusú bejelentéseket."
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
@@ -55,21 +56,21 @@ msgstr ""
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Kérjük válaszd ki a \"Jóváhagyásra vár\", a \"Jóváhagyott\" vagy mindkét típusú bejelentéseket."
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Kérjük válaszd ki az \"Ellenőrzésre vár\", az \"Ellenőrzött\" vagy mindkét típusú bejelentéseket."
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Kérjük válaszd ki az \"Ellenőrzésre vár\", az \"Ellenőrzött\" vagy mindkét típusú bejelentéseket."
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
@@ -81,134 +82,134 @@ msgstr ""
 #: report.data_point.between
 msgctxt "report.data_point.between"
 msgid "Please select a valid type of report to download."
-msgstr "Kérem, válasszon érvényes felajánlás típus, amelyet le kíván tölteni."
+msgstr "Kérjük, válassz érvényes bejelentés típust a letöltéshez."
 
 #: report.data_point.numeric
 msgctxt "report.data_point.numeric"
 msgid "Please select a valid type of report to download."
-msgstr "Kérem, válasszon érvényes felajánlás típus, amelyet le kíván tölteni."
+msgstr "Kérjük, válassz érvényes bejelentés típust a letöltéshez."
 
 #: report.data_point.required
 msgctxt "report.data_point.required"
 msgid "Please select a valid type of report to download."
-msgstr "Kérem, válasszon érvényes felajánlás típus, amelyet le kíván tölteni."
+msgstr "Kérjük, válassz érvényes bejelentés típust a letöltéshez."
 
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "Ki kell választanod egy letöltési formátumot. Kérjük, válassz a CSV vagy az XML formátum közül!"
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "A belelentések letöltéséhez válassz ki egy érvényes formátumot! "
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
 msgid "The FROM date field does not appear to contain a valid date."
-msgstr "A \"FROM\" dátummező nem tartalmaz érvényes adatot."
+msgstr "A \"-tól\" dátummező érvényelen dátumot tartalmaz."
 
 #: report.from_date.range
 msgctxt "report.from_date.range"
 msgid "Please enter a valid FROM date. It cannot be greater than today."
-msgstr "Kérem, adjon meg érvényes \"FROM\" dátumot. Nem lehet több a mai dátumnál."
+msgstr "Kérjük, érvényes dátumot adj meg a \"-tól\" mezőben. Ez nem lehet későbbi a mai dátumnál."
 
 #: report.incident_active.between
 msgctxt "report.incident_active.between"
 msgid "Please enter a valid value for Approve This Report"
-msgstr "Kérem, adjon meg valós értéket a felajánlás jóváhagyásához!"
+msgstr "Kérjük, valós értéket adj meg a bejelentés jóváhagyásához!"
 
 #: report.incident_active.required
 msgctxt "report.incident_active.required"
 msgid "Please enter a valid value for Approve This Report"
-msgstr "Kérem, adjon meg valós értéket a felajánlás jóváhagyásához!"
+msgstr "Kérjük, valós értéket adj meg a bejelentés jóváhagyásához!"
 
 #: report.incident_ampm.validvalues
 msgctxt "report.incident_ampm.validvalues"
 msgid "The am/pm field does not appear to contain a valid value."
-msgstr "Az de/du mező nem tartalmaz érvényes értéket!"
+msgstr "A de./du. mező nem tartalmaz érvényes értéket."
 
 #: report.incident_category.numeric
 msgctxt "report.incident_category.numeric"
 msgid "The \"Categories\" field does not appear to contain a valid category."
-msgstr "A kategóriamező nem tartalmaz érvényes kategóriát!"
+msgstr "Nincs érvényes kategória kiválasztva."
 
 #: report.incident_category.required
 msgctxt "report.incident_category.required"
 msgid "The \"Categories\" field is required."
-msgstr "A kategóriamező kitöltése kötelező!"
+msgstr "A kategória kiválasztása kötelező!"
 
 #: report.incident_date.date_ddmmyyyy
 msgctxt "report.incident_date.date_ddmmyyyy"
 msgid "The date field does not appear to contain a valid date."
-msgstr "A dátummező nem tartalmaz érvényes dátumot!"
+msgstr "A dátummező érvénytelen dátumot tartalmaz."
 
 #: report.incident_date.date_mmddyyyy
 msgctxt "report.incident_date.date_mmddyyyy"
 msgid "The date field does not appear to contain a valid date."
-msgstr "A dátummező nem tartalmaz érvényes dátumot!"
+msgstr "A dátummező érvénytelen dátumot tartalmaz."
 
 #: report.incident_date.required
 msgctxt "report.incident_date.required"
 msgid "The date field is required."
-msgstr "A dátummező kitöltése kötelező!"
+msgstr "A Dátum mező kitöltése kötelező."
 
 #: report.incident_description.required
 msgctxt "report.incident_description.required"
 msgid "The \"Description\" field is required."
-msgstr "A leírás mező kitöltése kötelező!"
+msgstr "A \"Leírás\" mező kitöltése kötelező."
 
 #: report.incident_hour.between
 msgctxt "report.incident_hour.between"
 msgid "The hour field does not appear to contain a valid hour."
-msgstr "Az óramező nem tartalmaz érvényes időpontot!"
+msgstr "Az időpontnál az óra mező nem érvényes értéket tartalmaz."
 
 #: report.incident_hour.required
 msgctxt "report.incident_hour.required"
 msgid "The hour field is required."
-msgstr "Az óramező kitöltése kötelező!"
+msgstr "Az időpontnál az óra megadása kötelező."
 
 #: report.incident_information.alpha
 msgctxt "report.incident_information.alpha"
 msgid "Please enter a valid value for Information Probability."
-msgstr "Kérem, adjon meg valós értéket az információ valószínűséghez."
+msgstr "Kérjük, valós értéket adj meg a bejelentés valószínűsítéséhez."
 
 #: report.incident_information.length
 msgctxt "report.incident_information.length"
 msgid "Please enter a valid value for Information Probability."
-msgstr "Kérem, adjon meg valós értéket az információ valószínűséghez."
+msgstr "Kérjük, valós értéket adj meg a bejelentés valószínűsítéséhez."
 
 #: report.incident_minute.between
 msgctxt "report.incident_minute.between"
 msgid "The minute field does not appear to contain a valid value."
-msgstr "A percmező nem tartalmaz valós értéket!"
+msgstr "Az időpontnál a perc mező nem tartalmaz valós értéket."
 
 #: report.incident_minute.required
 msgctxt "report.incident_minute.required"
 msgid "The minute field is required."
-msgstr "A percmező kitöltése kötelező!"
+msgstr "Az időpontnál a perc megadása kötelező."
 
 #: report.incident_news.url
 msgctxt "report.incident_news.url"
 msgid "The news source links field does not appear to contain a valid URL."
-msgstr "A hírforrás-link mező nem tartalmaz érvényes URL-t!"
+msgstr "A Hírforrás link mezőben megadott link nem érvényes."
 
 #: report.incident_photo.size
 msgctxt "report.incident_photo.size"
 msgid "Please ensure that photo upload sizes are limited to 2MB."
-msgstr "Kérem, vegye figyelembe, hogy a feltöltött képek összmérete 2 MB-ig terjedhet!"
+msgstr "Kérjük, vedd figyelembe, hogy a feltöltött képek összmérete 2 MB-ig terjedhet."
 
 #: report.incident_photo.type
 msgctxt "report.incident_photo.type"
 msgid ""
 "The Upload Photos field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr "A Képfeltöltés mező nem tartalmaz érvényes képet. Elfogadott kiterjesztések: .JPG, .PNG és .GIF."
+msgstr "A Kép feltöltése mezőben megadott kép nem érvényes. Elfogadott képfájl kiterjesztések: .jpg, .png és .gif."
 
 #: report.incident_photo.valid
 msgctxt "report.incident_photo.valid"
 msgid "The Upload Photos field does not appear to contain a valid file."
-msgstr "A Képfeltöltés mező nem tartalmaz valós fájlt!"
+msgstr "A Kép feltöltése mező nem tartalmaz valós fájlt."
 
 #: report.incident_source.alpha
 msgctxt "report.incident_source.alpha"
@@ -225,12 +226,12 @@ msgctxt "report.incident_title.length"
 msgid ""
 "The \"Report Title\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr "A címmező legalább 3 legfeljebb 200 karaktert tartalmazhat."
+msgstr "A Bejelentés címe legalább 3, legfeljebb 200 karakter lehet."
 
 #: report.incident_title.required
 msgctxt "report.incident_title.required"
 msgid "The \"Report Title\" field is required."
-msgstr "A címmező kitöltése kötelező!"
+msgstr "A \"Bejelentés címe\" mező kitöltése kötelező."
 
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
@@ -240,29 +241,29 @@ msgstr ""
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"
 msgid "Please enter a valid value for Verify This Report."
-msgstr "Kérem, adjon meg valós értéket a felajánlás megerősítéséhez!"
+msgstr "Kérjük, valós értéket adj meg a bejelentés megerősítéséhez!"
 
 #: report.incident_verified.required
 msgctxt "report.incident_verified.required"
 msgid "Please enter a valid value for Verify This Report."
-msgstr "Kérem, adjon meg valós értéket a felajánlás megerősítéséhez!"
+msgstr "Kérjük, valós értéket adj meg a bejelentés megerősítéséhez!"
 
 #: report.incident_video.url
 msgctxt "report.incident_video.url"
 msgid "The video links field does not appear to contain a valid URL."
-msgstr "A videó-link mező nem tartalmaz érvényes URL-t!"
+msgstr "A Videó feltöltése mezőben megadott link nem érvényes."
 
 #: report.latitude.between
 msgctxt "report.latitude.between"
 msgid "The latitude field does not appear to contain a valid latitude."
-msgstr "A földrajzi szélesség mező nem tartalmaz valós szélességi fokot!"
+msgstr "A földrajzi szélességi fok mező nem tartalmaz valós értéket."
 
 #: report.latitude.required
 msgctxt "report.latitude.required"
 msgid ""
 "The latitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr "A földrajzi szélességi fok megadása kötelező. Pontos helymeghatározáshoz kérem, kattintson a térképre.!"
+msgstr "A földrajzi szélességi fok megadása kötelező. A pontos helyszínt a térképen tudod megjelölni."
 
 #: report.locale.alpha_dash
 msgctxt "report.locale.alpha_dash"
@@ -272,7 +273,7 @@ msgstr "A helyzet mező helytelen értéket tartalmaz."
 #: report.locale.exists
 msgctxt "report.locale.exists"
 msgid "This report already has a translation for this language."
-msgstr "Erről a felajánlásról már készült fordítás erre a nyelvre."
+msgstr "Erről a bejelentésről már készült fordítás erre a nyelvre."
 
 #: report.locale.length
 msgctxt "report.locale.length"
@@ -283,70 +284,70 @@ msgstr "A helyzet mező helytelen értéket tartalmaz."
 msgctxt "report.locale.locale"
 msgid ""
 "The Original Report and the Translation have the same locale (language)."
-msgstr "Az eredeti felajánlás és a fordításnak nyelve megegyező."
+msgstr "Az eredeti bejelentés és a fordítás nyelve megegyezik."
 
 #: report.locale.required
 msgctxt "report.locale.required"
 msgid "The locale is required."
-msgstr "A helyzet meghatározása kötelező."
+msgstr "A helyszín meghatározása kötelező."
 
 #: report.location_name.length
 msgctxt "report.location_name.length"
 msgid ""
 "The \"Location Name\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr "A helyzet mező legalább 3 legfeljebb 200 karaktert tartalmazhat"
+msgstr "A \"Helyszín pontosítása\" mező legalább 3, legfeljebb 200 karaktert tartalmazhat."
 
 #: report.location_name.required
 msgctxt "report.location_name.required"
 msgid "The \"Location Name\" field is required."
-msgstr "A helyzet megadása kötelező!"
+msgstr "A \"Helyszín pontosítása\" mező kitöltése kötelező."
 
 #: report.longitude.between
 msgctxt "report.longitude.between"
 msgid "The longitude field does not appear to contain a valid longitude."
-msgstr "A földrajzi hosszúsági mező nem tartalmaz valós értéket."
+msgstr "A földrajzi hosszúsági fok mező nem tartalmaz valós értéket."
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
 msgid ""
 "The longitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr "A földrajzi hosszúság megadása kötelező. Pontos helymeghatározáshoz, kérem kattintson a térképre!"
+msgstr "A földrajzi hosszúsági fok megadása kötelező. A pontos helyszínt a térképen tudod megjelölni."
 
 #: report.person_email.email
 msgctxt "report.person_email.email"
 msgid "The email field does not appear to contain a valid email address."
-msgstr "Az email-cím mező nem tartalmaz érvényes email-címet!"
+msgstr "Az Email cím mező nem tartalmaz érvényes email címet."
 
 #: report.person_email.length
 msgctxt "report.person_email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "Az email-cím mező legalább 4 legfeljebb 64 karaktert tartalmazhat."
+msgstr "Az Email cím mező legalább 4, legfeljebb 64 karaktert tartalmazhat."
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
 msgid ""
 "The first name field must be at least 3 and no more 100 characters long."
-msgstr "A keresztnév-mező legalább 3 legfeljebb 100 karaktert tartalmazhat."
+msgstr "A Keresztnév mező legalább 3, legfeljebb 100 karaktert tartalmazhat."
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
 msgid ""
 "The last name field must be at least 2 and no more 100 characters long."
-msgstr "Az vezetéknév-mező legalább 3 legfeljebb 100 karaktert tartalmazhat."
+msgstr "A Vezetéknév mező legalább 2, legfeljebb 100 karaktert tartalmazhat."
 
 #: report.to_date.date_mmddyyyy
 msgctxt "report.to_date.date_mmddyyyy"
 msgid "The TO date field does not appear to contain a valid date."
-msgstr "A \"TO\" dátummező nem tartalmaz érvényes dátumot."
+msgstr "Az \"-ig\" dátummező nem tartalmaz érvényes dátumot."
 
 #: report.to_date.range
 msgctxt "report.to_date.range"
 msgid "Please enter a valid TO date. It cannot be greater than today."
-msgstr "Kérem, adjon meg érvényes \"TO\" dátumot. Ez a mai dátumot nem haladhatja meg."
+msgstr "Kérjük, adj meg egy érvényes dátumot az \"-ig\" mezőben. Ez nem lehet későbbi a mai dátumnál."
 
 #: report.to_date.range_greater
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
-msgstr "A \"FROM\"-ban megadott dátum nem haladhatja meg a \"TO\"-ban megadott dátumot."
+msgstr "A \"-tól\" mezőben megadott dátum nem lehet későbbi, mint az \"-ig\" mezőben megadott dátum."

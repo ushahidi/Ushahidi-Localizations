@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-26 00:52+0000\n"
+"PO-Revision-Date: 2013-03-28 22:22+0000\n"
 "Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
@@ -118,17 +118,17 @@ msgstr "Adminisztráció"
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "Értesítés kérése"
+msgstr "Riasztás kérése"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "Figyelmeztessen, ha bejelentés érkezett:"
+msgstr "Küldjön riasztást, ha bejelentés érkezett:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "Értesítéskérés mentése"
+msgstr "Riasztás kérés mentése"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
@@ -148,12 +148,12 @@ msgstr "mobiltelefonszám megadása országkóddal"
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "Értesítés kérése"
+msgstr "Riasztás kérése"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr "Az értesítés"
+msgstr "A riasztás"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -165,7 +165,7 @@ msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr "... vagy helyezz egy pöttyöt az alábbi térképre, és értesíteni fogunk, ha annak 20 km-es körzetéből bejelentés érkezett. A körzet nagyságát a térkép alatti csúszkával állíthatod. "
+msgstr "... vagy helyezz egy pöttyöt az alábbi térképre, és riasztást küldünk, ha annak 20 km-es körzetéből bejelentés érkezett. A körzet nagyságát a térkép alatti csúszkával állíthatod. "
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
@@ -192,7 +192,7 @@ msgstr "<strong>1. lépés:</strong> Válassz egy települést vagy helyszínt:"
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>2. lépés:</strong> Értesítést kérek az alábbi elérhetőségekre:"
+msgstr "<strong>2. lépés:</strong> Riasztást kérek az alábbi elérhetőségekre:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
@@ -202,12 +202,12 @@ msgstr "<strong>3. lépés (opcionális ):</strong> Válassz kategóriát:"
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Értesítéskérés jóváhagyása"
+msgstr "Riasztás kérés jóváhagyása"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "Az értesítéskérést elmentettük."
+msgstr "A riasztás kérést elmentettük."
 
 #: ui_main.all
 msgctxt "ui_main.all"

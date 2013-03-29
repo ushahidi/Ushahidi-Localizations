@@ -1,13 +1,14 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 # Peter K. <kpehelp@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-16 15:08+0000\n"
-"Last-Translator: kpe <kpehelp@gmail.com>\n"
+"PO-Revision-Date: 2013-03-28 22:28+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +28,7 @@ msgstr "Így adhatja hozzá a bejelentést újabb kategóriákhoz. Ha itt kivál
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr "Egy jelentés jóváhagyása vagy elvetése. A jóváhagyott jelentéseket minden látogató látni fogja."
+msgstr "A bejelentés jóváhagyása vagy elvetése. A jóváhagyott bejelentéseket minden látogató látni fogja."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
@@ -253,7 +254,7 @@ msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr "Ha az IGEN-t választja, akkor emailben kap értesítést a joszolgalat.hu-ra érkező  új bejelentésekről és megjegyzésekről."
+msgstr "Ha az IGEN-t választod, akkor emailben riasztást kapsz a joszolgalat.hu-ra érkező új bejelentésekről és fejleményekről (csak amelyek megfelelnek a megjelölt körzetnek és kategóriának)."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
@@ -293,12 +294,12 @@ msgstr "A Hozzáférési Szintek korlátozzák a hozzáférést a kérdőív mez
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr "Erre az email címre fogjuk a felhívásokat küldeni."
+msgstr "Erre az email címre fogjuk a küldeni a riasztásokat."
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr "Itt engedélyezheti, hogy a felhasználók a web-en feliratkozzanak a felhívásokra."
+msgstr "Itt engedélyezheti, hogy a felhasználók a weben feliratkozzanak a riasztásokra."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Seng Sutha <sutha@open.org.kh>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-09-20 12:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-28 09:38+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,19 +22,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "ការ​បន្ថែម​នេះ​​មាន​​របាយ​​ការណ៍​អំពី​ប្រភេទ​​ផ្សេងៗ។ ប្រសិនបើ​អ្នក​ជ្រើស​ប្រភេទ ១ នៅ​ទី​នេះ ហើយ​របាយការណ៍​មាន​ប្រភេទ​ដែល​ភ្ជាប់​ជាមួយ​វា របាយការណ៍​នឹង​មាន​ទាំង​ប្រភេទ ១ និង​ប្រភេទ ២។"
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "អនុម័ត ឬ​មិន​អនុម័ត។ ប្រសិនបើ​​បាន​អនុម័ត វា​នឹង​បង្ហាញ​ជា​សាធារណៈ។"
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "អ្នក​​អាច​កំណត់​សញ្ញា​​សម្គាល់​​​ដើម្បី​ធ្វើ​ឲ្យ​អ្នក​ប្រើ​សកម្ម។ ជ្រើស​សញ្ញា​សម្គាល់​ដែល​បាន​កំណត់​នៅ​ទី​នេះ។"
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -54,7 +55,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "ប្រសិនបើ​អ្នក​​គ្រាន់​តែ​ចង់​ធ្វើ​ឲ្យ​សកម្ម នៅ​ពេល​ដែល​ប្រភេទ​ដែល​មាន​ត្រូវ​បាន​ប្រើ។ វា​នឹង​អនុញ្ញាត​ឲ្យ​សកម្ម ប្រសិនបើ​​ប្រើ​ប្រភេទ​តែមួយ។ ឧទាហរណ៍ ប្រសិនបើ​អ្នក​ជ្រើស​ប្រភេទ ១ និង​ប្រភេទ ២ នៅ​ទីនេះ ហើយ​របាយការណ៍​ត្រូវ​បាន​ដាក់​ស្នើឲ្យ​ប្រើ​ប្រភេទ ២ និង​ប្រភេទ ៣ វា​នឹង​ធ្វើ​ការ​សាកល្បង។"
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -62,17 +63,17 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr ""
+msgstr "ប្រសិនបើ​​​សកម្មភាព​នេះ​កើត​ឡើង​មាន​នៅ​ថ្ងៃ​នៃ​សប្ដាហ៍​កំណត់​វា​នៅ​ទី​នេះ។ សូម​ចងចាំ​ថា​​​ថ្ងៃ​ដែល​បាន​កំណត់​តាម​តំបន់​ពេលវេលា​​បាន​កំណត់​ពេលវេលា​នៅ​លើ​ការ​ប្រើប្រាស់​របស់​អ្នក។ ចុច ប្ដូរ (shift) command, ឬ ត្រួត​ពិនិត្យ​ត្រួតពិនិត្យសម្រាប់​ការ​ជ្រើសរើស​ថ្ងៃ​ច្រើន។"
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "តួ​សេចក្ដី​អ៊ីមែល​ដែល​នឹង​ត្រូវ​ផ្ញើ។"
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "ប្រធានបទ​អ៊ីមែល​ដែល​ត្រូវ​ផ្ញើ។"
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -98,7 +99,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "អ្នក​អាច​ជ្រើស​ទុក​ឲ្យ​នៅ​ទទេ ប្រសិនបើ​អ្នក​មិន​ចង់​ពិនិត្យមើល​ពាក្យ​គន្លឹះ​ម្ដងទៀត​ទេ​នោះ។ ប្រសិនបើ​អ្នក​បន្ថែម​ពាក្យ​នៅ​ទី​នេះ អ្នក​នឹង​ចាំបាច់​ត្រូវ​បំបែក​វា​ដោយ​សញ្ញា​ក្បៀស (,)។ ឧទាហរណ៍ ប្រសិនបើ​អ្នក​ចង់​ធ្វើ​ឲ្យ​សកម្ម នៅ​ពេល​អ្នក​ណា​ម្នាក់​​និយាយ​អំពី​ \"ស្រលាញ់\" ឬ \"សន្តិភាព\" នៅ​ក្នុង​សារ​របស់​ពួក​យើង អ្នក​នឹង​បន្ថែម \"ស្រលាញ់ សន្តិភាព\" នៅ​ក្នុង​ពាក្យ​គន្លឹះ​"
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -109,7 +110,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "អ្នក​​អាច​ជ្រើស​​ទីកន្លែង​ណាមួយ​​ ឬ​ទីតាំង​ជាក់លាក់។ ប្រសិនបើ​អ្នក​ជ្រើស​ទីតាំង​ជាក់លាក់ អ្នក​នឹង​ត្រូវ​បាន​ស្នើ​ដើម្បី​គូរ​ប្រអប់​មួយ​ជុំវិញ​ផ្ទៃ​ដែល​បញ្ជាក់​អំពី​សកម្មភាព​។ ឧទាហរណ៍ ប្រសិនបើ​អ្នក​ចង់​ធ្វើ​ឲ្យ​សកម្ម នៅ​ពេល​អ្នក​ណា​ម្នាក់​ដាក់​ស្នើ​របាយ​ការ​នៅ​ក្នុង Brazil  អ្នក​នឹង​ជ្រើស \"ផ្ទៃ​ជាក់លាក់\" ហើយ​បន្ទាប់​មក​គូរ​ប្រអប់​ជុំវិញ Brazil។ អ្នក​អាច​បង្កើត​ប្រអប់​នេះ​តូច ឬ​ធំ​តាម​​តម្រូវ​ការ​បាន​។ អ្នក​​ក៏​អាច​​គូរ​ប្រអប់​ច្រើន​​បាន​ផង​ដែរ។"
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"

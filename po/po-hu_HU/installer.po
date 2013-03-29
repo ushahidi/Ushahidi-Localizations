@@ -1,13 +1,14 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 # Zoltan Medovarszky <igor@igor.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 12:00+0000\n"
-"Last-Translator: igormedo <igor@igor.hu>\n"
+"PO-Revision-Date: 2013-03-28 22:31+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -295,7 +296,7 @@ msgstr "Az oldal email címe"
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr "Az oldal riasztási email cíe"
+msgstr "Riasztásokat küldő email cím"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -303,7 +304,7 @@ msgid ""
 "When your site visitors sign up for email alerts, they will receive emails "
 "from this address. This email address does not have to be the same as the "
 "Site Email Address."
-msgstr "Amikor a látogatóid feliratkozhatnak email értesítőre, akkor erről a címről fogják kapni. Ennek az email címnek nem kell megegyeznie az oldal email címével."
+msgstr "Amikor a látogatók feliratkoznak riasztás értesítőre, akkor erről a címről fogják kapni. Ennek az email címnek nem kell megegyeznie az oldal email címével."
 
 #: installer.site_email_description
 msgctxt "installer.site_email_description"

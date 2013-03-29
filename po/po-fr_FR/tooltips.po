@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Alexandre B. <0xfuture@gmail.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-09-20 12:02+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-03-28 15:52+0000\n"
+"Last-Translator: Alexandre Breteau <0xfuture@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -67,12 +68,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Corps de l'e-mail qui sera envoyé."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Sujet de l'e-mail qui sera envoyé."
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -122,7 +123,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Ceci est le titre par défaut à ajouter au signalement."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -170,7 +171,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Indiquer si un signalement est vérifié ou non."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -182,7 +183,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Sépare chaque valeur avec une virgule, ex. valeur1, valeur2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -195,7 +196,7 @@ msgstr ""
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "Sépare chaque choix avec une virgule, ex. Item 1, Item 2 etc."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
@@ -205,12 +206,12 @@ msgstr ""
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Sujet du message privé"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Message privé"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -272,7 +273,7 @@ msgstr ""
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Ceci est l'adresse ou votre profil public peut être accessible."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -297,7 +298,7 @@ msgstr "Adresse à laquelle seront envoyées les alertes email."
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Autoriser les utilisateurs de souscrire à des alertes via le web."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -307,32 +308,32 @@ msgstr ""
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
 msgid "Allow users to comment on reports on the main site."
-msgstr ""
+msgstr "Autoriser les utilisateurs a formuler des commentaires aux rapports sur le site web principal."
 
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
-msgstr ""
+msgstr "Ceci autorise l'affichage des flux de nouvelles RSS sur le site principal."
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
 msgid "Allow users to submit information via the web form."
-msgstr ""
+msgstr "Autorise les utilisateurs à envoyer des informations via le formulaire du site web."
 
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "Nombre par défaut d\\'enregistrement à extraire par requête API"
 
 #: tooltips.settings_api_max_record_limit
 msgctxt "tooltips.settings_api_max_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Nombre maximum d\\'enregistrements à extraire par requête API"
 
 #: tooltips.settings_api_max_requests_per_ip
 msgctxt "tooltips.settings_api_max_requests_per_ip"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Nombre maximum de requêtes de l\\'API par dresse IP"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
@@ -360,7 +361,7 @@ msgstr ""
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
 msgid "Set the lifetime of the cache."
-msgstr ""
+msgstr "Définir la durée de vie du cache."
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
@@ -386,12 +387,12 @@ msgstr ""
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Défini une icône pour toutes les catégories sur ce site."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr ""
+msgstr "Ceci est le pays depuis lequel le site web a été déployé."
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
@@ -406,13 +407,13 @@ msgstr ""
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
 msgid "This is the number of reports displayed per page on the main site."
-msgstr ""
+msgstr "Ceci est le nombre de signalements affichés par page sur le site principal."
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
 msgid ""
 "This is the number of reports displayed per page on the admin Back End."
-msgstr ""
+msgstr "Ceci est le nombre de signalements affichés par page sur l'interface d'administration."
 
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
@@ -427,7 +428,7 @@ msgstr ""
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr ""
+msgstr "Numéros de téléphones sur lesquels les messages sont reçus."
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
@@ -493,7 +494,7 @@ msgstr ""
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
 msgid "This is required to enhance a secure connection."
-msgstr ""
+msgstr "Ceci est requis pour améliorer la sécurisation de la connexion."
 
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
@@ -503,7 +504,7 @@ msgstr ""
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"
 msgid "This is the email address that receives reports."
-msgstr ""
+msgstr "Ceci est l'adresse e-mail qui recevra les signalements."
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
@@ -567,4 +568,4 @@ msgstr ""
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
-msgstr ""
+msgstr "Défini le hashtag Twitter qui sera utilisé dans les tweets."

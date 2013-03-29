@@ -1,13 +1,14 @@
 # 
 # Translators:
+#  <orsime@yahoo.com>, 2013.
 # toeri <toeri@freemail.hu>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-15 13:04+0000\n"
-"Last-Translator: toeri <toeri@freemail.hu>\n"
+"PO-Revision-Date: 2013-03-28 11:07+0000\n"
+"Last-Translator: orsime <orsime@yahoo.com>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hu_HU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +27,7 @@ msgctxt "reporters.latitude.required"
 msgid ""
 "The latitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr "A szélességi fok megadása kötelező! Kérem, kattintson a térképre a pontos helymeghatározáshoz."
+msgstr "A földrajzi szélességi fok megadása kötelező. A pontos helyszínt a térképen tudod megjelölni."
 
 #: reporters.level_id.numeric
 msgctxt "reporters.level_id.numeric"
@@ -47,7 +48,7 @@ msgstr "A helyzetmegnevezés mező legalább 3 legfeljebb 200 karaktert tartalma
 #: reporters.location_name.required
 msgctxt "reporters.location_name.required"
 msgid "The location name field is required."
-msgstr "A helyzetmegnevezés mező kitöltése kötelező."
+msgstr "A \"Helyszín pontosítása\" mező kitöltése kötelező."
 
 #: reporters.longitude.between
 msgctxt "reporters.longitude.between"
@@ -59,7 +60,7 @@ msgctxt "reporters.longitude.required"
 msgid ""
 "The longitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr "A hosszúsági fok megadása kötelező. Kérem, kattintson a térképre a pontos helymeghatározáshoz!"
+msgstr "A földrajzi hosszúsági fok megadása kötelező. A pontos helyszínt a térképen tudod megjelölni."
 
 #: reporters.reporter_id.numeric
 msgctxt "reporters.reporter_id.numeric"
