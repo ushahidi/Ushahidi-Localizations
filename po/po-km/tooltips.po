@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-28 09:38+0000\n"
+"PO-Revision-Date: 2013-04-01 09:32+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -123,7 +123,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "វា​ជា​ចំណងជើង​លំនាំដើម​ដែល​ត្រូវ​បន្ថែម​ទៅ​របាយការណ៍។"
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -141,14 +141,14 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "ប្រសិនបើ​អ្នក​ជ្រើស \"ធ្វើ​ឲ្យ​អ្នក​ប្រើ​សកម្ម\" អ៊ីមែល​នឹង​ត្រូវ​បាន​ផ្ញើ​ទៅ​កាន់​​អ្នក​ណា​ម្នាក់​ដែល​​បាន​ប្រតិបត្តិ​សកម្មភាព​នេះ។  ប្រសិនបើ​អ្នក​ជ្រើស​ប៊ូតុង​មូល​ជិត​ប្រអប់​​បញ្ចូល​​​អ្នក​អាច​បញ្ចូល​អាសយដ្ឋាន​អ៊ីមែល​ផ្ទាល់ខ្លួន​បាន។ វា​មាន​ប្រយោជន៍ ប្រសិនបើ​​អ្នក​​រៀបចំ​​ធ្វើ​ឲ្យ​​ការ​ជូន​ដំណឹង​សកម្ម នៅ​ពេល​​បាន​មើល​ផ្នែក​នីមួយៗ​នៃ​របាយការណ៍​ផែនទី ការ​ចូល ឬ​សកម្មភាព​ផ្សេងៗ​ទៀត។"
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "អ្នក​អាច​ជ្រើស​ថ្ងៃ​ច្រើន​បាន​នៅ​ទីនេះ។ ថ្ងៃ​ត្រូវ​បាន​កំណត់​តាម​​ការ​កំណត់​តំបន់​ពេល​វេលា​​​ការ​ប្រើប្រាស់​។ ដើម្បី​កំណត់​​កាលបរិច្ឆេទ​តាម​លំនាំដើម​ទាំងអស់ កុំ​ជ្រើស​កាលបរិច្ឆេទ​​​ណាមួយ។"
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -166,24 +166,24 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr ""
+msgstr "អ្នក​ប្រើ​អាច​ជា​អ្នក​ណា​ម្នាក់ ឬ​អ្នក​ប្រើ​ជាក់លាក់។ ប្រសិនបើ​អ្នក​ចង់​ឲ្យ​តែ​អ្នក​ប្រើ​ជាក់លាក់​សកម្ម​ អ្នក​ត្រូវ​ជ្រើស​វា​​នៅ​ទី​នេះ។ ម៉្យាងទៀត អ្នក​ត្រូវ​ទុក​វា​​សម្រាប់​ \"​អ្នក​ណា​ម្នាក់\" នៅ​ពេល​រៀបចំ​​​សម្រាប់​អ្នក​ប្រើ​ទាំងអស់​​ដែល​ធ្វើ​សកម្មភាព​រួម​គ្នា​ជាមួយ​ប្រព័ន្ធ"
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "សម្គាល់​របាយការណ៍​​ថា​បាន​​​ផ្ទៀងផ្ទាត់ ឬ​ក៏​មិន​បាន​​​ផ្ទៀងផ្ទាត់។"
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr ""
+msgstr "ទំព័រ​ជីវប្រវត្តិ​នៅ​លើ​តំបន់​បណ្ដាញ​នេះ​ប្រើ Gravatar។ ដោយ​ចុច​នៅ​លើ​រូបភាព​របស់​​អ្នក នឹង​យក​ទៅ​កាន់​តំបន់​បណ្ដាញ Gravatar ដែល​អ្នក​អាច​ផ្លាស់ប្ដូរ​រូបភាព​ជីវប្រវត្តិ​របស់​អ្នក។"
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "បំបែក​តម្លៃ​នីមួយៗ​ដោយ​​ប្រើ​សញ្ញា​ក្បៀស  ឧ. តម្លៃ ១, តម្លៃ ២ ។"
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -191,7 +191,7 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "បំបែក​តម្លៃ​នីមួយៗ​ដោយ​ប្រើ​សញ្ញា​ក្បៀស  ឧ. value1, value2។ ក្នុង​ករណី​ដែល​អ្នក​ចង់​កំណត់​លំនាំដើម ចុង​បញ្ជី​​ជម្រើស​​របស់​អ្នក​ប្រើ :: ឧ. ប្រសិនបើ​អ្នក​ចង់​ធ្វើ​ឲ្យ value3 ជា​លំនាំដើម វា​​អាច​ជា​ value1, value2, value3::value3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
