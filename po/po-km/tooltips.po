@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-01 09:32+0000\n"
+"PO-Revision-Date: 2013-04-02 09:46+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -196,7 +196,7 @@ msgstr "បំបែក​តម្លៃ​នីមួយៗ​ដោយ​ប
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "បំបែក​ធាតុ​ជម្រើស​នីមួយៗ​ដោយ​ប្រើ​សញ្ញា​ក្បៀស ឧ. ធាតុ ១, ធាតុ ២។ល។"
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
@@ -206,12 +206,12 @@ msgstr ""
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "ប្រធាន​បទ​សារ​ឯកជន"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "សារ​ឯកជន"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -219,26 +219,26 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "អ្នក​អាច​ជ្រើស​ពណ៌​ដែល​នឹង​បង្ហាញ​នៅ​ខាងក្រោម​រូបភាព​ជីវប្រវត្តិ​របស់​អ្នក​នៅ​លើ​ជីវប្រវត្តិ​សាធារណៈ​របស់​អ្នក។ ពណ៌​នេះ​នឹង​បង្ហាញ​ជា​​ចំណុច​ពណ៌​នៅ​លើ​ផែន​ទី​សម្រាប់​ការ​ចូល​របស់​អ្នក។"
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
 msgid "Your email address"
-msgstr ""
+msgstr "អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr ""
+msgstr "នេះ​ជា​វិធី​មួយ​ដែល​អ្នក​បាន​រក​ឃើញ​នៅ​លើ​តំបន់​បណ្ដាញ។ ចងចាំ​ថា​វិធី​នោះ​ជា​សាធារណៈ!"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "ប្រសិនបើ​បាន​កំណត់ វា​នឹង​​ក្លាយ​ជា​ពាក្យ​សម្ងាត់​ថ្មី​របស់​អ្នក។ ទុក​វា​ឲ្យ​នៅ​ទទេ ប្រសិនបើ​អ្នក​ចង់​រក្សាទុក​ពាក្យ​សម្ងាត់​បច្ចុប្បន្ន។"
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -246,21 +246,21 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "វា​​ត្រូវ​ការ​នៅ​ពេល​បង្កើត​អ្នក​ប្រើ​ថ្មី ហើយ​​នឹង​ក្លាយ​ជា​ពាក្យ​សម្ងាត់​របស់​អ្នក​ប្រើ។ អ្នក​គួរតែ​ផ្ដល់​ព័ត៌មាន​ឲ្យ​អ្នក​ប្រើ​ថ្មី​បាន​ដឹង​ក្នុង​ការ​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់​បន្ទាប់​ពី​ចូល​​នៅ​ពេល​ដំបូង។"
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr ""
+msgstr "ជ្រើស បាទ/ចាស ដើម្បី​អនុញ្ញាត​ឲ្យ​​អ្នក​ទទួល​បាន​ការ​ជូន​ដំណឹង​តាម​រយៈ​អ៊ីមែល នៅ​ពេល​របាយការណ៍​ថ្មី ឬ​មតិយោបល់​ត្រូវ​បាន​បង្ហោះ​នៅ​លើ​តំបន់​បណ្ដាញ​របស់​អ្នក។"
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr ""
+msgstr "ពាក្យសម្ងាត់​បច្ចុប្បន្ន​។ យើង​​ទាមទារ​ឲ្យ​អ្នក​បញ្ចូល​ពាក្យ​សម្ងាត់​របស់ ដើម្បី​ការពារ​ការ​ផ្លាស់ប្ដូរ​គណនី​របស់​អ្នក​​ណា​មួយ​ដែល​មិន​ត្រឹមត្រូវ​"
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -268,17 +268,17 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "ជីវប្រវត្តិ​របស់​អ្នក​អាច​ត្រូវ​បាន​មើល​ដោយ​អ្នក​ណា​ម្នាក់​​តាម​អ៊ីនធឺណិត ប្រសិនបើ​អ្នក​ធីក​ជម្រើស​នេះ។ វា​ជា​វេធី​ដែល​ងាយស្រួល​បំផុត​ផង​ដែរ ក្នុង​ការ​បង្ហាញ​​របាយការណ៍​ដែល​អ្នក​ដាក់​ស្នើ ការ​ចូល​របស់​អ្នក ឧបករណ៍​សម្គាល់ ទាំងអស់​នៅ​លើ​ទំព័រ​មួយ។."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "វា​ជា​អាសយដ្ឋាន​ដែល​​​​អាច​រក​ឃើញ​ជីវប្រវត្តិ​សាធារណៈ​​របស់​អ្នក។"
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
 msgid "Your username cannot be changed."
-msgstr ""
+msgstr "មិន​អាច​ផ្លាស់ប្ដូរ​ឈ្មោះ​អ្នក​ប្រើ​របស់​អ្នក​បាន​ទេ។"
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
@@ -293,47 +293,47 @@ msgstr ""
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr ""
+msgstr "វា​ជា​អាសយដ្ឋាន​ដែល​នឹង​ត្រូវ​បាន​ប្រើ​ដើម្បី​ផ្ញើ​ការ​ជូនដំណឹង​អ៊ីមែល។"
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "អនុញ្ញាត​ឲ្យ​អ្នក​ប្រើ​ជ្រាវ​សម្រាប់​ការ​ជូន​ដំណឹង​តាមរយៈ​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
 msgid "This allows bundling of similar reports into a single dot on the map"
-msgstr ""
+msgstr "វា​អនុញ្ញាត​ឲ្យ​ធ្វើ​របាយការណ៍​ស្រដៀង​គ្នា​ទៅ​នឹង​ចំណុច​តែមួយ​នៅ​លើ​ផែនទី"
 
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
 msgid "Allow users to comment on reports on the main site."
-msgstr ""
+msgstr "អនុញ្ញាត​ឲ្យ​​អ្នក​ប្រើ​ផ្ដល់​មតិយោបល់​លើ​របាយការណ៍​​នៅ​លើ​តំបន់​បណ្ដាញ​ចម្បង។"
 
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
-msgstr ""
+msgstr "វា​អនុញ្ញាត​ឲ្យ​មតិ​ព័ត៌មាន  RSS ត្រូវ​បាន​បង្ហាញ​នៅ​លើ​តំបន់​បណ្ដាញ​ចម្បង។"
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
 msgid "Allow users to submit information via the web form."
-msgstr ""
+msgstr "អនុញ្ញាត​ឲ្យ​អ្នក​ប្រើ​ដាក់​ស្នើ​ព័ត៌មាន​តាម​រយៈ​សំណុំ​បែបបទ​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "លេខ​លំនាំដើម​នៃ​កំណត់ត្រា​ដែល​បាន​ទៅ​ប្រមូល​យក​ក្នុង​មួយ​សំណើ API"
 
 #: tooltips.settings_api_max_record_limit
 msgctxt "tooltips.settings_api_max_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "ចំនួន​អតិបរមា​នៃ​កំណត់ត្រា​ដែល​បាន​ទៅ​ប្រមូល​យក​ក្នុង​មួយ​សំណើ API"
 
 #: tooltips.settings_api_max_requests_per_ip
 msgctxt "tooltips.settings_api_max_requests_per_ip"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "ចំនួន​អតិបរមា​នៃ​សំណើ API ក្នុង​មួយ​អាសយដ្ឋាន IP"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
@@ -347,7 +347,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "ចំនួន​ទប់ស្កាត់​ជួរឈរ​ដែល​នឹង​បង្ហាញ​នៅ​លើ​ជួរ​ដេក​នីមួយៗ។"
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
