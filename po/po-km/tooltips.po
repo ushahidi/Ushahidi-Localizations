@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-02 09:46+0000\n"
+"PO-Revision-Date: 2013-04-04 03:34+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -268,7 +268,7 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr "ជីវប្រវត្តិ​របស់​អ្នក​អាច​ត្រូវ​បាន​មើល​ដោយ​អ្នក​ណា​ម្នាក់​​តាម​អ៊ីនធឺណិត ប្រសិនបើ​អ្នក​ធីក​ជម្រើស​នេះ។ វា​ជា​វេធី​ដែល​ងាយស្រួល​បំផុត​ផង​ដែរ ក្នុង​ការ​បង្ហាញ​​របាយការណ៍​ដែល​អ្នក​ដាក់​ស្នើ ការ​ចូល​របស់​អ្នក ឧបករណ៍​សម្គាល់ ទាំងអស់​នៅ​លើ​ទំព័រ​មួយ។."
+msgstr "ជីវប្រវត្តិ​របស់​អ្នក​អាច​ត្រូវ​បាន​មើល​ដោយ​អ្នក​ណា​ម្នាក់​​តាម​អ៊ីនធឺណិត ប្រសិនបើ​អ្នក​ធីក​ជម្រើស​នេះ។ វា​ជា​​វិធី​​ដែល​ងាយស្រួល​បំផុត​ផង​ដែរ ក្នុង​ការ​បង្ហាញ​​របាយការណ៍​ដែល​អ្នក​ដាក់​ស្នើ ការ​ចូល​របស់​អ្នក ឧបករណ៍​សម្គាល់ ទាំងអស់​នៅ​លើ​ទំព័រ​មួយ។."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
@@ -361,7 +361,7 @@ msgstr ""
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
 msgid "Set the lifetime of the cache."
-msgstr ""
+msgstr "កំណត់​អាយុកាល​​ឃ្លាំង។"
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
@@ -372,63 +372,63 @@ msgid ""
 "make sure your timezone setting is on UTC and your theme supports checkins. "
 "When you enable this, checkin-only themes will become enabled under your "
 "addons/themes settings page."
-msgstr ""
+msgstr "ការ​កំណត់​នេះ​បើក​ការ​ចូល​​សម្រាប់​ការ​ប្រើប្រាស់​របស់​អ្នក។ វា​ជា​ប្រភេទ​របាយការណ៍​សាមញ្ញ ដែល​មិន​ត្រូវ​បាន​សម្របសម្រួល​មុន​ពេល​​​វា​បន្ត​ទៅ​ទំព័រ​ដើម ហើយ​ទាមទារ​ឲ្យ​តំបន់​បណ្ដាញ​របស់​អ្នក​​ត្រូវ​កំណត់​រចនាសម្ព័ន្ធ​តាម​វិធី​ដែល​មាន។ នៅ​ពេល​ដែល​អ្នក​វា សូម​ប្រាកដ​ថា​អ្នក​បាន​កំណត់​តំបន់​ពេលវេលា​របស់​អ្នក​នៅ​លើ UTC ហើយ​ការ​ចូល​គាំទ្រ​រូបរាង​របស់​អ្នក។ នៅ​ពេល​អ្នក​បើក​វា មាន​តែ​រូបរាង​តែ​ការ​ចូល​ប៉ុណ្ណោះ​នឹង​ត្រូវ​បាន​បើក​ នៅ​ក្រោម​ទំព័រ​ការ​កំណត់​ កម្មវិធី​បន្ថែម/រូបរាង។"
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
 msgid "Set the map to cover a specific location."
-msgstr ""
+msgstr "កំណត់​ផែនទី​នៅ​លើ​ទីតាំង​ជាក់លាក់។"
 
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr ""
+msgstr "កំណត់​កូដ​ពណ៌​សម្រាប់​ប្រភេទ​ទាំងអស់​នៅ​លើ​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "កំណត់​រូបតំណាង​សម្រាប់​ប្រភេទ​ទាំងអស់​នៅ​លើ​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr ""
+msgstr "វា​ជា​តំបន់​បណ្ដាញ​ប្រទេស​ត្រូវ​បាន​ប្រើប្រាស់​ប្រកប​ដោយ​ប្រសិទ្ធិភាព។"
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
 msgid "Turn the Contact Tab on or off on the main site."
-msgstr ""
+msgstr "បើក​/បិទ ផ្ទាំង​ទំនាក់ទំនង​នៅ​លើ​តំបន់​បណ្ដាញ​មេ។"
 
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"
 msgid "Turn the How to Help Tab on or off on the main site."
-msgstr ""
+msgstr "បិទ/បើក​ ផ្ទាំង​ជំនួយ​នៅ​លើ​តំបន់​បណ្ដាញ​មេ។"
 
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
 msgid "This is the number of reports displayed per page on the main site."
-msgstr ""
+msgstr "វា​ជា​​ចំនួន​របាយការណ៍​ដែល​បាន​បង្ហាញ​នៅ​ក្នុង​មួយ​ទំព័រ​នៅ​លើ​តំបន់​បណ្ដាញ​មេ។"
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
 msgid ""
 "This is the number of reports displayed per page on the admin Back End."
-msgstr ""
+msgstr "វា​ជា​ចំនួន​របាយការណ៍​ដែល​បាន​បង្ហាញ​នៅ​ក្នុង​មួយ​ទំព័រ​កម្មវិធី​ខាងក្រោយ​សម្រាប់​អ្នក​គ្រប់គ្រង។"
 
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
 msgid "This is the hub for incoming messages."
-msgstr ""
+msgstr "នេះ​ជា​ hub សម្រាប់​សារ​ចូល។"
 
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr ""
+msgstr "ការ​ធ្វើ​សមកាលកម្ម​​នេះ​មាន​សារ​នៅ​ក្នុង hub ដែល​មាន​​កម្មវិធី​ Ushahidi ។"
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr ""
+msgstr "លេខ​ទូរស័ព្ទ​តាម​រយៈ​សារ​អត្ថបទ​ណាមួយ​ដែល​ត្រូវ​​បាន​ទទួល។"
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
