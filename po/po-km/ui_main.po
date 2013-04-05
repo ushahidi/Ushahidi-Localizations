@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-03 07:28+0000\n"
+"PO-Revision-Date: 2013-04-04 10:06+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -1009,7 +1009,7 @@ msgstr "ទៅ"
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "សញ្ញា #"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1019,12 +1019,12 @@ msgstr "បាន"
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr "វីធីជួយ"
+msgstr "វិធី​ជួយ"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr "បានលាក់"
+msgstr "បាន​លាក់"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
@@ -1034,7 +1034,7 @@ msgstr "លាក់"
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr "លាក់សារនេះ"
+msgstr "លាក់​សារ​នេះ"
 
 #: ui_main.home
 msgctxt "ui_main.home"
@@ -1044,22 +1044,22 @@ msgstr "ដើម"
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr "វិធីរាយការណ៏"
+msgstr "វិធី​រាយការណ៍"
 
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "លេខ​សម្គាល់"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "ប្រើ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​អ្នក​នៅ​លើ​តំបន់បណ្ដាញ​ទៅកាន់​អ្នកប្រើ​ផ្សេងទៀត។"
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1074,32 +1074,32 @@ msgstr "រូបភាព"
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr "រូបភាព/Icon"
+msgstr "រូបភាព/រូបតំណាង"
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr "មិនដំណើរការ"
+msgstr "អសកម្ម"
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr "ប្រអប់ទទួល"
+msgstr "ប្រអប់​ទទួល"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr ""
+msgstr "ឧបត្តិហេតុ"
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
-msgstr ""
+msgstr "ឧប្បត្តិហេតុ​នៅ​ជិតៗ"
 
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
 msgid "Incident Location"
-msgstr "ទីតាំងព្រិត្តិការណ៏"
+msgstr "ទីតាំង​ឧប្បត្តិហេតុ"
 
 #: ui_main.include
 msgctxt "ui_main.include"
@@ -1109,37 +1109,37 @@ msgstr "រួមបញ្ចូល"
 #: ui_main.include_categories
 msgctxt "ui_main.include_categories"
 msgid "Include Categories"
-msgstr "រួមបញ្ចូលប្រភេទ"
+msgstr "រួមបញ្ចូល​ប្រភេទ"
 
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr "រួមបញ្ចូលប្រឡោះមានស្រាប់"
+msgstr "រួមបញ្ចូល​វាល​ផ្ទាល់ខ្លួន"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr "រួមបញ្ចូលការពីពណ៌នា"
+msgstr "រួមបញ្ចូល​សេចក្ដី​ពណ៌នា"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr "រួមបញ្ចូលការលំអិត​បន្ថែមតាមដែលអាចធ្វើបាន"
+msgstr "រួមបញ្ចូល​សេចក្ដី​លម្អិត​ច្រើន​តាម​ដែល​អាច​ធ្វើ​បាន"
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr "រួមបញ្ចូលរយៈទទឹង"
+msgstr "រួមបញ្ចូល​រយៈទទឹង"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr "រួមបញ្ចូលរយៈពត៌មានទីកន្លែង"
+msgstr "រួមបញ្ចូល​ព័ត៌មាន​ទីតាំង"
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr "រួមបញ្ចូលរយៈបណ្តោយ"
+msgstr "រួមបញ្ចូល​រយៈបណ្តោយ"
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
@@ -1149,24 +1149,24 @@ msgstr "ដាក់បញ្ចូលពត៌មានផ្ទាល់ខ្
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "មេឌៀ​ចូល"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr "ការ​វាយ​តម្លៃ​ព័ត៌មាន​​"
+msgstr "ការ​វាយតម្លៃ​ព័ត៌មាន​​"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
-msgstr "បញ្ចូលទីតាំងជាក់លាក់"
+msgstr "បញ្ចូល​ទីតាំង​ជាក់លាក់"
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "គណនី​របស់​អ្នក​មិន​មាន​សិទ្ធិ​គ្រប់គ្រាន់​ក្នុង​ការ​ចូល​ទេ។ សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​របស់​អ្នក។"
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"

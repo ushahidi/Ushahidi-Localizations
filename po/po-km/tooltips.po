@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-04 03:34+0000\n"
+"PO-Revision-Date: 2013-04-05 04:27+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "វា​កំណត់​តាម​ម៉ោង និង/ឬ នាទី​​ចន្លោះ​ពេល​នៅ​ក្នុង​ 24 ម៉ោង។ ប្រសិនបើ​អ្នក​បញ្ចូល​មុន​ពេល​​វេលា​នៅ​ក្នុង​វាល​ទីពីរ វា​នឹង​ត្រូវ​បាន​ត្រឡប់​ទៅ​ដើម​វិញ។ ពេលវេលា​នេះ​ត្រូវ​តែ​នៅ​ក្នុង​ថ្ងៃ​តែមួយ។ ពេលវេលា​នេះ​ត្រូវ​បាន​ពិនិត្យមើល​​នៅ​ពេលវេលា​ដែល​អ្នក​បាន​កំណត់​រចនាសម្ព័ន្ធ​នៅ​លើ​តំបន់​បណ្ដាញ​​របស់​អ្នក​នៅ​ក្នុង​តំបន់​បណ្ដាញ​ដែល​បាន​កំណត់ ហើយ <strong>មិន</strong> មាន​ភាព​ចាំបាច់​នៅ​តំបន់​ពេលវេលា​អ្នក​ប្រើ​ដែល​អ្នក​ទាក់ទង​ជាមួយ​ការប្រើប្រាស់​របស់​អ្នក​ឡើយ។ ទុក​វា​​ឲ្យ​នៅ 00:00 ដល់ 00:00 ដើម្បី​មិន​អើ​ពើ​អ្នក​សម្របសម្រួល​នេះ។"
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -55,7 +55,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr "ប្រសិនបើ​អ្នក​​គ្រាន់​តែ​ចង់​ធ្វើ​ឲ្យ​សកម្ម នៅ​ពេល​ដែល​ប្រភេទ​ដែល​មាន​ត្រូវ​បាន​ប្រើ។ វា​នឹង​អនុញ្ញាត​ឲ្យ​សកម្ម ប្រសិនបើ​​ប្រើ​ប្រភេទ​តែមួយ។ ឧទាហរណ៍ ប្រសិនបើ​អ្នក​ជ្រើស​ប្រភេទ ១ និង​ប្រភេទ ២ នៅ​ទីនេះ ហើយ​របាយការណ៍​ត្រូវ​បាន​ដាក់​ស្នើឲ្យ​ប្រើ​ប្រភេទ ២ និង​ប្រភេទ ៣ វា​នឹង​ធ្វើ​ការ​សាកល្បង។"
+msgstr "ប្រសិនបើ​អ្នក​​គ្រាន់​តែ​ចង់​ធ្វើ​ឲ្យ​សកម្ម នៅ​ពេល​ដែល​ប្រភេទ​ដែល​មាន​ត្រូវ​បាន​ប្រើ។ វា​នឹង​អនុញ្ញាត​ឲ្យ​សកម្ម ប្រសិនបើ​​ប្រើ​ប្រភេទ​តែមួយ។ ឧទាហរណ៍ ប្រសិនបើ​អ្នក​ជ្រើស​ប្រភេទ ១ និង​ប្រភេទ ២ នៅ​ទីនេះ ហើយ​របាយការណ៍​ត្រូវ​បាន​ដាក់​ស្នើ​ឲ្យ​ប្រើ​ប្រភេទ ២ និង​ប្រភេទ ៣ វា​នឹង​ធ្វើ​ការ​សាកល្បង។"
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -63,7 +63,7 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr "ប្រសិនបើ​​​សកម្មភាព​នេះ​កើត​ឡើង​មាន​នៅ​ថ្ងៃ​នៃ​សប្ដាហ៍​កំណត់​វា​នៅ​ទី​នេះ។ សូម​ចងចាំ​ថា​​​ថ្ងៃ​ដែល​បាន​កំណត់​តាម​តំបន់​ពេលវេលា​​បាន​កំណត់​ពេលវេលា​នៅ​លើ​ការ​ប្រើប្រាស់​របស់​អ្នក។ ចុច ប្ដូរ (shift) command, ឬ ត្រួត​ពិនិត្យ​ត្រួតពិនិត្យសម្រាប់​ការ​ជ្រើសរើស​ថ្ងៃ​ច្រើន។"
+msgstr "ប្រសិនបើ​​​សកម្មភាព​នេះ​កើត​ឡើង​មាន​នៅ​ថ្ងៃ​នៃ​សប្ដាហ៍​កំណត់​វា​នៅ​ទី​នេះ។ សូម​ចងចាំ​ថា​​​ថ្ងៃ​ដែល​បាន​កំណត់​តាម​តំបន់​ពេលវេលា​​បាន​កំណត់​ពេលវេលា​នៅ​លើ​ការ​ប្រើប្រាស់​របស់​អ្នក។ ចុច ប្ដូរ (shift) command, ឬ ត្រួត​ពិនិត្យ​ត្រួត​ពិនិត្យ​សម្រាប់​ការ​ជ្រើសរើស​ថ្ងៃ​ច្រើន។"
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
@@ -157,7 +157,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "ធ្វើ​ឲ្យ​សមាសភាគ​ចម្បង​​នៃ​ការ​រៀបចំ​ធ្វើ​ឲ្យ​សកម្មភាព​របស់​អ្នក​សកម្ម។ វា​ជា​ទីកន្លែង​ដែល​អ្នក​កំណត់ ប្រសិនបើ​អ្នក​ចង​ឲ្យ​អ្វី​មួយ​កើត​ឡើយ នៅ​ពេល​អ្នក​ណា​​ម្នាក់​​ដាក់​ស្នើ​របាយការណ៍ ក្នុង​ការ​ចូល។ល។ អ្នក​​អាច​ឆ្លើយតប​​អំពី​សកម្មភាព​នេះ​បន្ទាប់​ពី​ជ្រើសរើស​មួយ។"
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -201,7 +201,7 @@ msgstr "បំបែក​ធាតុ​ជម្រើស​នីមួយៗ
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "ចាប់ផ្ដើម​វាយ​លេខ​បញ្ជី។"
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
@@ -260,7 +260,7 @@ msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr "ពាក្យសម្ងាត់​បច្ចុប្បន្ន​។ យើង​​ទាមទារ​ឲ្យ​អ្នក​បញ្ចូល​ពាក្យ​សម្ងាត់​របស់ ដើម្បី​ការពារ​ការ​ផ្លាស់ប្ដូរ​គណនី​របស់​អ្នក​​ណា​មួយ​ដែល​មិន​ត្រឹមត្រូវ​"
+msgstr "ពាក្យសម្ងាត់​បច្ចុប្បន្ន​។ យើង​​ទាមទារ​ឲ្យ​អ្នក​បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​ការ​ផ្លាស់ប្ដូរ​គណនី​របស់​អ្នក​​ណា​មួយ​ដែល​មិន​ត្រឹមត្រូវ​"
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -268,7 +268,7 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr "ជីវប្រវត្តិ​របស់​អ្នក​អាច​ត្រូវ​បាន​មើល​ដោយ​អ្នក​ណា​ម្នាក់​​តាម​អ៊ីនធឺណិត ប្រសិនបើ​អ្នក​ធីក​ជម្រើស​នេះ។ វា​ជា​​វិធី​​ដែល​ងាយស្រួល​បំផុត​ផង​ដែរ ក្នុង​ការ​បង្ហាញ​​របាយការណ៍​ដែល​អ្នក​ដាក់​ស្នើ ការ​ចូល​របស់​អ្នក ឧបករណ៍​សម្គាល់ ទាំងអស់​នៅ​លើ​ទំព័រ​មួយ។."
+msgstr "ជីវប្រវត្តិ​របស់​អ្នក​អាច​ត្រូវ​បាន​មើល​ដោយ​អ្នក​ណា​ម្នាក់​​តាម​អ៊ីនធឺណិត ប្រសិនបើ​អ្នក​ធីក​ជម្រើស​នេះ។ វា​ជា​​វិធី​​ដែល​​ងាយស្រួល​បំផុត​ផង​ដែរ ក្នុង​ការ​បង្ហាញ​​របាយការណ៍​ដែល​អ្នក​ដាក់​ស្នើ ការ​ចូល​របស់​អ្នក ឧបករណ៍​សម្គាល់ ទាំងអស់​នៅ​លើ​ទំព័រ​មួយ។"
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
@@ -288,7 +288,7 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr ""
+msgstr "កម្រិត​ចូល​ដំណើរការ​ត្រូវ​បាន​ប្រើ​ដើម្បី​កំណត់​ឲ្យ​ចូល​ដំណើរការ​ផ្ទាល់ខ្លួន​ពី​ទិន្នន័យ​វាល។ កម្រិត​ចូល​ដំណើរការ​ខ្ពស់​បំផុត​អាច​ចូល​ដំណើរការ​វាល​ពី​កម្រិត​ទាប​ជាង។ អ្នក​គ្រប់គ្រង​កម្រិត​ខ្ពស់​មាន​កម្រិត​ចូល​ដំណើរការ​ខ្ពស់​បំផុត (100)។ ទិន្នន័យ​ជា​សាធារណៈ​ត្រូវ​បាន​បង្ហាញ​នៅ​កម្រិត​ចូល​ដំណើរការ​ទាប​បំផុត (0)។ ចំនួន​កម្រិត​​ចូល​ដំណើរការ​មាន 10។ អ្នក​គ្រប់គ្រង​មាន​កម្រិត​​​ចូល​ដំណើរការ​ 90 តាម​លំនាំដើម។"
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
@@ -342,7 +342,7 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr ""
+msgstr "បដា​តំបន់​បណ្ដាញ​បង្ហាញ​នៅ​ខាងលើ​ផ្នែក​ខាង​មុន​ចុង​នៃ​តំបន់​បណ្ដាញ ប្រសិនបើ​រូបរាង​ដែល​អ្នក​កំពុង​ប្រើ​គាំ​ត្រ​វា។ ទំហំ​ដែល​បាន​ផ្ដល់​អនុសាសន៍​សម្រាប់​បដា​នេះ​អាស្រ័យ​លើ​រូបរាង​ដែល​អ្នក​​កំពុង​ប្រើ។ ចងចាំ​ថា​វា​នឹង​ជំនួស​ចំណងជើង​តំបន់​បណ្ដាញ និង tagline នៅ​​ផ្នែក​ខាងលើ​នៃ​ទំព័រ។"
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
@@ -433,12 +433,12 @@ msgstr "លេខ​ទូរស័ព្ទ​តាម​រយៈ​សារ
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
 msgid "Tracks visitors of your site. Get detailed visitor statistics."
-msgstr ""
+msgstr "អ្នក​​ទស្សនា​​ការ​តាមដាន​តំបន់​បណ្ដាញ​របស់​អ្នក។ ទទួល​បាន​ស្ថិតិ​អ្នក​ទស្សនា​ដែល​មាន​សេចក្ដី​លម្អិត។"
 
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
 msgid "Sets the language that will be used in the site."
-msgstr ""
+msgstr "កំណត់​ភាសា​ដែល​នឹង​ត្រូវ​បាន​ប្រើ​នៅ​ក្នុង​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
@@ -446,18 +446,18 @@ msgid ""
 "If you set this option to yes, you must approve every individual user who "
 "creates an account on your site by assigning them roles (ie. Member, Admin, "
 "Superadmin)."
-msgstr ""
+msgstr "ប្រសិនបើ​អ្នក​កំណត់​ជ្រើស បាទ/ចាស អ្នក​ត្រូវ​តែ​អនុម័ត​រាល់​អ្នក​ប្រើ​នីមួយៗ​ដែល​បង្កើត​គណនី​នៅ​លើ​តំបន់​បណ្ដាញ​របស់​អ្នក​ដោយ​កំណត់​ច្បាស់​សម្រាប់​ពួក​គេ (ឧ. សមាជិក, អ្នក​គ្រប់គ្រង, អ្នក​គ្រប់គ្រង​ជាន់​ខ្ពស់)។"
 
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
 msgid "This defines which map is to be used on the site."
-msgstr ""
+msgstr "វា​កំណត់​ផែនទី​ណា​មួយ​ដែល​ត្រូវ​ប្រើ​នៅ​លើ​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "វា​បង្ហាញ​បន្ទាត់​ពេលវេលា​អាស្រ័យ​លើ​កាលបរិច្ឆេទ និង​ពេលវេលា​ដាក់​ស្នើ​របាយការណ៍"
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
