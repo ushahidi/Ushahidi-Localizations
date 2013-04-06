@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-05 04:27+0000\n"
+"PO-Revision-Date: 2013-04-05 09:27+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -157,7 +157,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr "ធ្វើ​ឲ្យ​សមាសភាគ​ចម្បង​​នៃ​ការ​រៀបចំ​ធ្វើ​ឲ្យ​សកម្មភាព​របស់​អ្នក​សកម្ម។ វា​ជា​ទីកន្លែង​ដែល​អ្នក​កំណត់ ប្រសិនបើ​អ្នក​ចង​ឲ្យ​អ្វី​មួយ​កើត​ឡើយ នៅ​ពេល​អ្នក​ណា​​ម្នាក់​​ដាក់​ស្នើ​របាយការណ៍ ក្នុង​ការ​ចូល។ល។ អ្នក​​អាច​ឆ្លើយតប​​អំពី​សកម្មភាព​នេះ​បន្ទាប់​ពី​ជ្រើសរើស​មួយ។"
+msgstr "ធ្វើ​ឲ្យ​សមាសភាគ​ចម្បង​​នៃ​ការ​រៀបចំ​ធ្វើ​ឲ្យ​សកម្មភាព​របស់​អ្នក​សកម្ម។ វា​ជា​ទីកន្លែង​ដែល​អ្នក​អាច​​កំណត់ ប្រសិនបើ​អ្នក​ចង​ឲ្យ​អ្វី​មួយ​កើត​ឡើយ នៅ​ពេល​អ្នក​ណា​​ម្នាក់​​ដាក់​ស្នើ​របាយការណ៍ ក្នុង​ការ​ចូល។ល។ អ្នក​​អាច​ឆ្លើយតប​​អំពី​សកម្មភាព​នេះ​បន្ទាប់​ពី​ជ្រើសរើស​មួយ។"
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -183,7 +183,7 @@ msgstr "ទំព័រ​ជីវប្រវត្តិ​នៅ​លើ​
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr "បំបែក​តម្លៃ​នីមួយៗ​ដោយ​​ប្រើ​សញ្ញា​ក្បៀស  ឧ. តម្លៃ ១, តម្លៃ ២ ។"
+msgstr "បំបែក​តម្លៃ​នីមួយៗ​ដោយ​​ប្រើ​សញ្ញា​ក្បៀស  ឧ. value1, value2 ។"
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -231,7 +231,7 @@ msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr "នេះ​ជា​វិធី​មួយ​ដែល​អ្នក​បាន​រក​ឃើញ​នៅ​លើ​តំបន់​បណ្ដាញ។ ចងចាំ​ថា​វិធី​នោះ​ជា​សាធារណៈ!"
+msgstr "នេះ​ជា​វិធី​មួយ​ដែល​អ្នក​បាន​រក​ឃើញ​នៅ​លើ​តំបន់​បណ្ដាញ។ ចងចាំ​ថា​វិធី​នោះ​​ប្រើ​ជា​សាធារណៈ!"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
@@ -260,7 +260,7 @@ msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr "ពាក្យសម្ងាត់​បច្ចុប្បន្ន​។ យើង​​ទាមទារ​ឲ្យ​អ្នក​បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​ការ​ផ្លាស់ប្ដូរ​គណនី​របស់​អ្នក​​ណា​មួយ​ដែល​មិន​ត្រឹមត្រូវ​"
+msgstr "ពាក្យសម្ងាត់​បច្ចុប្បន្ន​របស់​អ្នក​។ យើង​​ទាមទារ​ឲ្យ​អ្នក​បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​ការ​ផ្លាស់ប្ដូរ​គណនី​របស់​អ្នក​​ណា​មួយ​ដែល​មិន​ត្រឹមត្រូវ​"
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -342,7 +342,7 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr "បដា​តំបន់​បណ្ដាញ​បង្ហាញ​នៅ​ខាងលើ​ផ្នែក​ខាង​មុន​ចុង​នៃ​តំបន់​បណ្ដាញ ប្រសិនបើ​រូបរាង​ដែល​អ្នក​កំពុង​ប្រើ​គាំ​ត្រ​វា។ ទំហំ​ដែល​បាន​ផ្ដល់​អនុសាសន៍​សម្រាប់​បដា​នេះ​អាស្រ័យ​លើ​រូបរាង​ដែល​អ្នក​​កំពុង​ប្រើ។ ចងចាំ​ថា​វា​នឹង​ជំនួស​ចំណងជើង​តំបន់​បណ្ដាញ និង tagline នៅ​​ផ្នែក​ខាងលើ​នៃ​ទំព័រ។"
+msgstr "បដា​តំបន់​បណ្ដាញ​បង្ហាញ​នៅ​ខាងលើ​ផ្នែក​ខាង​មុន​ចុង​នៃ​តំបន់​បណ្ដាញ ប្រសិនបើ​រូបរាង​ដែល​អ្នក​កំពុង​ប្រើ​គាំ​ទ្រ​វា។ ទំហំ​ដែល​បាន​ផ្ដល់​អនុសាសន៍​សម្រាប់​បដា​នេះ​អាស្រ័យ​លើ​រូបរាង​ដែល​អ្នក​​កំពុង​ប្រើ។ ចងចាំ​ថា​វា​នឹង​ជំនួស​ចំណងជើង​តំបន់​បណ្ដាញ និង tagline នៅ​​ផ្នែក​ខាងលើ​នៃ​ទំព័រ។"
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
@@ -464,7 +464,7 @@ msgctxt "tooltips.settings_private_deployment"
 msgid ""
 "Setting this value to true or yes will make your deployment private so only "
 "users with accounts that you specify will be able to access the deployment."
-msgstr ""
+msgstr "កំណត់​តម្លៃ​នេះ​ពិត ឬ​បាទ/ចាស​នឹង​ធ្វើ​ឲ្យ​​អ្នក​មាន​គណនី​​សម្រាប់​ការ​ប្រើប្រាស់​ឯកជន​ ដែល​អ្នក​អាច​​​បញ្ជាក់​ដើម្បី​​​ចូល​ដំណើរការ​ក្នុង​ការ​ប្រើប្រាស់​បាន។"
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
@@ -473,33 +473,33 @@ msgid ""
 "allowed to log into the deployment if this is set to yes. If you enable this"
 " after your deployment has accepted users, they will be prompted to confirm "
 "their account before they will be allowed to continue using it."
-msgstr ""
+msgstr "អ្នក​ប្រើ​នឹង​ត្រូវ​បាន​ផ្ញើ​អ៊ីមែល​ដោយ​ប្រើ​តំណ​ការ​អះអាង ចុច​មុន​ពេល​ពួក​យើង​បាន​អនុវត្ត​ចូល​ទៅ​ប្រើប្រាស់ ប្រសិនបើ​បាន​កំណត់​វា​បាទ/ចាស។ ប្រសិនបើ​អ្នក​បើក​វា​ បន្ទាប់​ពី​ការ​ប្រើប្រាស់​​របស់​អ្នក​ត្រូវ​បាន​ព្រម​ទទួល​​ ពួក​វា​នឹង​ត្រូវ​បាន​ជ្រើសរើស ដើម្បី​អះអាង​គណនី​របស់​ពួក​គេ មុន​ពេល​ពួកគេ​នឹង​ត្រូវ​បាន​អនុញ្ញាត​​ឲ្យ​បន្ត​ការ​ប្រើប្រាស់។"
 
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
 msgid "This is where the emails reside"
-msgstr ""
+msgstr "វា​ជា​ទីកន្លែង​ដែល​អ៊ីមែល​ស្ថិតនៅ​"
 
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr ""
+msgstr "នេះ​ជា​ពាក្យសម្ងាត់​សម្រាប់​អាសយដ្ឋាន​អ៊ីមែល​ដែល​ទទួល​​របាយការណ៍។"
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
 msgid ""
 "This is required to accept incoming connections from the email address."
-msgstr ""
+msgstr "វា​ត្រូវ​បាន​ទាមទារ​ឲ្យ​ទទួល​យក​ការ​តភ្ជាប់​ចូល​ពី​អាសយដ្ឋាន​អ៊ីមែល។"
 
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
 msgid "This is required to enhance a secure connection."
-msgstr ""
+msgstr "វា​ត្រូវ​បាន​ទាមទារ​ដើម្បី​បង្កើន​ការ​តភ្ជាប់​សុវត្ថិភាព។"
 
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
 msgid "This is required to retrieve e-mails from the host server."
-msgstr ""
+msgstr "វា​ត្រូវ​បាន​ទាមទារ​ដើម្បី​ទៅ​យក​អ៊ីមែល​ពី​ម៉ាស៊ីន​មេ។"
 
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"

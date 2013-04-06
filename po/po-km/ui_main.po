@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-04 10:06+0000\n"
+"PO-Revision-Date: 2013-04-05 09:51+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -1171,42 +1171,42 @@ msgstr "គណនី​របស់​អ្នក​មិន​មាន​ស
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr "ការឆ្លើយតបចំពោះ"
+msgstr "ការ​ឆ្លើយតប​ចំពោះ"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "អាសយដ្ឋាន IP"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "តើ​នេះ​ជា​ទម្រង់​របស់​អ្នក​ឬ?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "ធាតុ"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "ធាតុ"
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "សេចក្ដី​លម្អិត​របស់​ធាតុ"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "ចំណងជើង​ធាតុ"
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr ""
+msgstr "កូនសោ"
 
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
@@ -1216,22 +1216,22 @@ msgstr "ពាក្យបង្កប់"
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "ឯកសារ KMZ/KML"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "ផ្ទុក​ឯកសារ KMZ/KML ឡើង"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1266,37 +1266,37 @@ msgstr "រយៈទទឹង​"
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "ស្រទាប់"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "ស្រទាប់​ផ្សេង"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "ស្រទាប់​បាន"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "ឈ្មោះ​ស្រទាប់"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "URL ស្រទាប់"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr "ផ្ដល់​មតិ"
+msgstr "ផ្ដល់​មតិយោបល់"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "បន្ថយ​ព័ត៌មាន"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1306,22 +1306,22 @@ msgstr "កំរិត"
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "កម្រិត​នេះ​បាន"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr "ឈ្មោះកំរិត"
+msgstr "ឈ្មោះ​កំរិត"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr "ការកំណត់"
+msgstr "បាន​កំណត់"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr "តំណរភ្ជាប់"
+msgstr "តភ្ជាប់"
 
 #: ui_main.list
 msgctxt "ui_main.list"
@@ -1331,7 +1331,7 @@ msgstr "បញ្ជី"
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr "កំពុងដំណើរការ"
+msgstr "កំពុង​ផ្ទុក​របាយការណ៍"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1356,38 +1356,38 @@ msgstr "ចូល"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr "គណនេយ្យបានបង្កើតដោយជោគជ័យ។​អ្នកអាចចូលឥឡូវបាន"
+msgstr "បាន​បង្កើត​គណនី​ដោយ​ជោគជ័យ។​ ឥឡូវ​អ្នក​អាច​ចូល​បាន"
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr "ការបញ្ជាក់បានផ្ញើរទៅអ៊ីម៉ែលរបស់អ្នក"
+msgstr "បាន​ផ្ញើ​ការ​អះអាង​ទៅកាន់​អ៊ីមែល​របស់​អ្នក"
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr "អាស័យដ្ឋានអ៊ីម៉ែលនេះមិនមាន។​ សូមដាក់ថ្មីឬបង្កើតគណនេយ្យថ្មី"
+msgstr "មិន​មាន​អាសយដ្ឋាន​អ៊ីមែល​នេះ​ទេ។ សូម​សាកល្បង​អាសយដ្ឋាន​ថ្មី ឬ​បង្កើត​គណនី​ថ្មី។"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr "សូមចុចអ្នកផ្តល់គណនេយ្យរបស់អ្នក"
+msgstr "សូម​ជ្រើស​ក្រុមហ៊ុន​ផ្ដល់​គណនី​របស់​អ្នក"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr "ចូលជាមួយ"
+msgstr "ចូល​ជាមួយ"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr "អ៊ីម៉ែលនិង​ពាក្យសំងាត់"
+msgstr "អ៊ីមែល និង​ពាក្យសម្ងាត់"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
@@ -1397,7 +1397,7 @@ msgstr "ចុះឈ្មោះ"
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr "បង្កើតគណនេយ្យ"
+msgstr "បង្កើត​គណនី"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
@@ -1409,12 +1409,12 @@ msgstr ""
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr "ចុះឈ្មោះការបញ្ជាក់"
+msgstr "អះអាង​ការ​ចុះឈ្មោះ"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr "បង្កើតគណនេយ្យឥឡូវនេះដើម្បីទទួលបានប្រយោជន៍ផ្សេងនៅលើគេហទំព័រ"
+msgstr "បង្កើត​គណនី​ឥឡូវ​ដើម្បី​ទទួល​បាន​ប្រយោជន៍​ផ្សេងៗ​នៅ​លើ​តំបន់បណ្ដាញ។"
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1429,27 +1429,27 @@ msgstr "ផែន​ទី"
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr "សំគាល់ការអាន"
+msgstr "សម្គាល់​ថា​បាន​អាន"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr "សំគាល់ការមិនអាន"
+msgstr "សម្គាល់​ថា​មិន​បាន​អាន"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr "ទំហំឯកសារតូចបំផុត"
+msgstr "ទំហំ​ឯកសារ​ធំ​បំផុត"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr "ប្រព័ន្ធ​ផ្សព្វផ្សាយ"
+msgstr "មេឌៀ"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr ""
+msgstr "តម្រង​មេឌៀ"
 
 #: ui_main.members
 msgctxt "ui_main.members"
@@ -1459,7 +1459,7 @@ msgstr "សមាជិក"
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr "គ្រប់គ្រងគណនេយ្យរបស់អ្នក"
+msgstr "គ្រប់គ្រង​គណនី​របស់​អ្នក"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1474,27 +1474,27 @@ msgstr "សារ"
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr "លំអិតសារ"
+msgstr "សារ​លម្អិត"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "សារ​ពី​ប្រភព​មិនមែន​លេខ៖"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr "ទូរស័ព្ទដៃ"
+msgstr "ទូរស័ព្ទ​ចល័ត"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr "បន្ថែម"
+msgstr "កែប្រែ"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr "កាលបរិច្ឆេទការបន្ថែម"
+msgstr "កែប្រែ​កាលបរិច្ឆេទ"
 
 #: ui_main.month
 msgctxt "ui_main.month"
@@ -1504,17 +1504,17 @@ msgstr "ខែ"
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr "អានបន្ថែម"
+msgstr "ច្រើន​ទៀត"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr "ពត៌មានបន្ថែម"
+msgstr "ពត៌មាន​បន្ថែម"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "តើ​ការ​អភិវឌ្ឍ​យូសាហ៊ីឌី​នេះ​បាន​ទៅដល់​ប្រទេស​ច្រើន​ដែរ​ឬទេ"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
