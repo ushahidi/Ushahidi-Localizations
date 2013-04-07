@@ -173,6 +173,8 @@ $lang = array(
 	) ,
 	'banner_image' => array(
 		'type' => 'The Site Banner field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
+		'size' => 'Please ensure that "Banner Image" size is less than 250 KB.',
+		'valid' => 'The "Banner Image" field does not appear to contain a valid file.',
 	) ,
 	'site_email' => array(
 		'email' => 'The site email field does not appear to contain a valid email address.',
