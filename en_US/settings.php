@@ -171,6 +171,9 @@ $lang = array(
 		'twitter_configuration' => 'Twitter Search Terms',
 		'twitter_hashtags' => 'Hashtags - Separate with commas ',
 	) ,
+	'site_banner' => array(
+		'type' => 'The Site Banner field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
+	) ,
 	'site_email' => array(
 		'email' => 'The site email field does not appear to contain a valid email address.',
 		'length' => 'The site email field must be at least 4 and no more 100 characters long.',
