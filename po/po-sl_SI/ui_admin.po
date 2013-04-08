@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-04-06 20:35+0000\n"
+"PO-Revision-Date: 2013-04-07 13:04+0000\n"
 "Last-Translator: bgrilj <blaz.grilj.13@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,7 +62,7 @@ msgstr ""
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Upravljalec"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
@@ -227,17 +227,17 @@ msgstr "kategorije"
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Napaka v prikazu tabele."
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
-msgstr ""
+msgstr "Prosim preverite veljavnost sporočila."
 
 #: ui_admin.check_number
 msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
-msgstr ""
+msgstr "Prosim preverite veljavnost številke."
 
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
@@ -247,22 +247,22 @@ msgstr "Prosim preverite vaše SMS nastavitve!"
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Podrobnosti vnosa."
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Vnosi "
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "Naložena mesta"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "koda"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
@@ -272,73 +272,73 @@ msgstr ""
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "barva"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr ""
+msgstr "komentarji"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
-msgstr ""
+msgstr "Vaša potrditvena koda za opozorila je:"
 
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "Uporabnik je bil:"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Štetje"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "Država ni bila najdena"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
 msgid "created/edited"
-msgstr ""
+msgstr "Ustvarjeno/urejeno"
 
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr ""
+msgstr "Ustvari poročilo"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr ""
+msgstr "Kritična nadgradnja"
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Trenutno aktivni"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Trenutno neaktivni"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "Nimate ustreznega dovoljenja za urejanje sledečih področij."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "Dnevno"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
@@ -348,12 +348,12 @@ msgstr ""
 #: ui_admin.database
 msgctxt "ui_admin.database"
 msgid "database"
-msgstr ""
+msgstr "podatkovna baza"
 
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "datum & čas"
 
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
@@ -368,7 +368,7 @@ msgstr ""
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Dnevi v tednu"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -378,37 +378,37 @@ msgstr ""
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr ""
+msgstr "izbrisano"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
 msgid "Delete"
-msgstr ""
+msgstr "izbriši"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete All"
-msgstr ""
+msgstr "izbriši vse"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "izbriši značko"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "demo"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Onemogočeno"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -428,7 +428,7 @@ msgstr ""
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Prenesi poročila"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
@@ -438,17 +438,17 @@ msgstr ""
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "UREJENO"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr ""
+msgstr "Uredil"
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "Uredi"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
@@ -458,7 +458,7 @@ msgstr ""
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
@@ -478,7 +478,7 @@ msgstr ""
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr ""
+msgstr "Napaka"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
@@ -488,22 +488,22 @@ msgstr ""
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
 msgid "Every Six Hours"
-msgstr ""
+msgstr "Vsakih 6 ur"
 
 #: ui_admin.every_twelve_hours
 msgctxt "ui_admin.every_twelve_hours"
 msgid "Every Twelve Hours"
-msgstr ""
+msgstr "Vsakih 12 ur"
 
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "Poskusno"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
 msgid "FAQ's"
-msgstr ""
+msgstr "FAQ's"
 
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
@@ -513,7 +513,7 @@ msgstr ""
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
 msgid "Feedback"
-msgstr ""
+msgstr "Feedback"
 
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
@@ -523,7 +523,7 @@ msgstr ""
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr ""
+msgstr "Lista izbora"
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
@@ -533,12 +533,12 @@ msgstr ""
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "Tip podatkov"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
@@ -548,12 +548,12 @@ msgstr ""
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr ""
+msgstr "Številčno"
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "Prosto besedilo"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -583,47 +583,47 @@ msgstr ""
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr ""
+msgstr "Da, vedno zaprto"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr ""
+msgstr "Da, vedno odprto"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
 msgid "Could not find uploaded file"
-msgstr ""
+msgstr "Naložene datoteke ni bilo možno poiskati"
 
 #: ui_admin.file_open_error
 msgctxt "ui_admin.file_open_error"
 msgid "Could not open file for reading"
-msgstr ""
+msgstr "Datoteke ni možno odpreti za branje"
 
 #: ui_admin.form_not_exists
 msgctxt "ui_admin.form_not_exists"
 msgid "That Form Does Not Exist!"
-msgstr ""
+msgstr "Ta oblika ne obstaja!"
 
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr ""
+msgstr "Okno besedila (prosto besedilo)"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr ""
+msgstr "Okno datuma"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
@@ -643,12 +643,12 @@ msgstr ""
 #: ui_admin.from
 msgctxt "ui_admin.from"
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: ui_admin.from_date
 msgctxt "ui_admin.from_date"
 msgid "From"
-msgstr ""
+msgstr "Od"
 
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
@@ -658,7 +658,7 @@ msgstr ""
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
 msgid "Get Help"
-msgstr ""
+msgstr "Pomoč"
 
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
@@ -673,42 +673,42 @@ msgstr ""
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
 msgid "Actions"
-msgstr ""
+msgstr "akcije"
 
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "Dodaj/Uredi"
 
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_admin.header_manage_users
 msgctxt "ui_admin.header_manage_users"
 msgid "Manage Users"
-msgstr ""
+msgstr "Uredi uporabnike"
 
 #: ui_admin.header_role
 msgctxt "ui_admin.header_role"
 msgid "Role"
-msgstr ""
+msgstr "Vloga"
 
 #: ui_admin.header_user
 msgctxt "ui_admin.header_user"
 msgid "User"
-msgstr ""
+msgstr "Uporabnik"
 
 #: ui_admin.help
 msgctxt "ui_admin.help"
 msgid "help"
-msgstr ""
+msgstr "Pomoč"
 
 #: ui_admin.hourly
 msgctxt "ui_admin.hourly"
 msgid "Hourly"
-msgstr ""
+msgstr "Vsako uro"
 
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
@@ -750,67 +750,67 @@ msgstr ""
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
-msgstr ""
+msgstr "Ali je to okno datuma?"
 
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "Kdo lahko vidi odgovore"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "Kdo lahko predloži odgovore"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr ""
+msgstr "Ključna beseda"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Ključne besede"
 
 #: ui_admin.label_email
 msgctxt "ui_admin.label_email"
 msgid "Email Address:"
-msgstr ""
+msgstr "Email naslov:"
 
 #: ui_admin.label_full_name
 msgctxt "ui_admin.label_full_name"
 msgid "Full Name:"
-msgstr ""
+msgstr "Ime:"
 
 #: ui_admin.label_password
 msgctxt "ui_admin.label_password"
 msgid "Password:"
-msgstr ""
+msgstr "Geslo:"
 
 #: ui_admin.label_role
 msgctxt "ui_admin.label_role"
 msgid "Role:"
-msgstr ""
+msgstr "Vloga:"
 
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
 msgid "Username:"
-msgstr ""
+msgstr "Uporabniško ime:"
 
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
 msgid "Layers"
-msgstr ""
+msgstr "Sloji"
 
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
 msgid "Logout"
-msgstr ""
+msgstr "Izpis"
 
 #: ui_admin.logs
 msgctxt "ui_admin.logs"
@@ -820,22 +820,22 @@ msgstr ""
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
 msgid "Manage"
-msgstr ""
+msgstr "Urejati"
 
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
-msgstr ""
+msgstr "Uredi vloge in dovoljenja"
 
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
 msgid "View Users"
-msgstr ""
+msgstr "Poglej uporabnike"
 
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
-msgstr ""
+msgstr "Dodaj/Uredi uporabnike"
 
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
@@ -845,17 +845,17 @@ msgstr ""
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Označi kot"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "označeno kot ne spam"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "Označeno kot spam"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
@@ -865,12 +865,12 @@ msgstr ""
 #: ui_admin.message
 msgctxt "ui_admin.message"
 msgid "Message"
-msgstr ""
+msgstr "sporočilo"
 
 #: ui_admin.messages
 msgctxt "ui_admin.messages"
 msgid "Messages"
-msgstr ""
+msgstr "Sporočila"
 
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
@@ -880,12 +880,12 @@ msgstr ""
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr ""
+msgstr "Twitter sporočilo"
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "Vaše opozorilo je bilo poslano!"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
@@ -895,42 +895,42 @@ msgstr ""
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "Minuta"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
 msgid "Minutes"
-msgstr ""
+msgstr "Minute"
 
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "Manjkajoč parameter"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "Moderator"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
 msgid "modified"
-msgstr ""
+msgstr "prilagojeno"
 
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "Prilagodi nastavitve časovnega pasa"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
 msgid "move down"
-msgstr ""
+msgstr "premakni dol"
 
 #: ui_admin.move_up_action
 msgctxt "ui_admin.move_up_action"
 msgid "move up"
-msgstr ""
+msgstr "premakni gor"
 
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
@@ -940,22 +940,22 @@ msgstr ""
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr ""
+msgstr "Moja opozorila"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "Moji vnosi"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
 msgid "My Profile"
-msgstr ""
+msgstr "Moj profil"
 
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr ""
+msgstr "Moja poročila"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
@@ -965,37 +965,37 @@ msgstr ""
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
 msgid "Positive"
-msgstr ""
+msgstr "Pozitivno"
 
 #: ui_admin.my_votes_down
 msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
-msgstr ""
+msgstr "Negativno"
 
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr ""
+msgstr "Ime"
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "Ustvari novo opozorilo"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "Ustvari novo sporočilo"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "Novo geslo"
 
 #: ui_admin.no
 msgctxt "ui_admin.no"
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
@@ -1008,7 +1008,7 @@ msgstr ""
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr ""
+msgstr "Obvestilo"
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
@@ -1018,27 +1018,27 @@ msgstr ""
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
 msgid "Not Found"
-msgstr ""
+msgstr "Ni bilo najdeno"
 
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr ""
+msgstr "Ni podatkov. Ni rezultatov za prikaz"
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "Brez napake"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr ""
+msgstr "Ni podatkov za prikaz!"
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr ""
+msgstr "od"
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
@@ -1053,17 +1053,17 @@ msgstr ""
 #: ui_admin.page
 msgctxt "ui_admin.page"
 msgid "page"
-msgstr ""
+msgstr "stran"
 
 #: ui_admin.pages
 msgctxt "ui_admin.pages"
 msgid "pages"
-msgstr ""
+msgstr "strani"
 
 #: ui_admin.page_not_found
 msgctxt "ui_admin.page_not_found"
 msgid "Page Not Found"
-msgstr ""
+msgstr "Stran ni bila najdena"
 
 #: ui_admin.page_not_found_message_with_contact
 msgctxt "ui_admin.page_not_found_message_with_contact"
@@ -1088,12 +1088,12 @@ msgstr ""
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
-msgstr ""
+msgstr "Uporabljeni parametri"
 
 #: ui_admin.password
 msgctxt "ui_admin.password"
 msgid "Password"
-msgstr ""
+msgstr "Geslo"
 
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
@@ -1103,7 +1103,7 @@ msgstr ""
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr ""
+msgstr "Dragi"
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
@@ -1132,17 +1132,17 @@ msgstr ""
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Telefon"
 
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
 msgid "Please Select"
-msgstr ""
+msgstr "Prosim izberi"
 
 #: ui_admin.pm
 msgctxt "ui_admin.pm"
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
@@ -1152,32 +1152,32 @@ msgstr ""
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Predogled"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "Sporočilo"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Privatno sporočilo"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Privatno sporočilo je bilo poslano"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Naslov"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "Za"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
@@ -1192,7 +1192,7 @@ msgstr ""
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr ""
+msgstr "preberi"
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
@@ -1202,7 +1202,7 @@ msgstr ""
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Naslov poročila"
 
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
@@ -1212,17 +1212,17 @@ msgstr ""
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Poročevalci"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "Stopnje poročevalca"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
 msgid "Reports"
-msgstr ""
+msgstr "Poročila"
 
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
@@ -1232,7 +1232,7 @@ msgstr ""
 #: ui_admin.required
 msgctxt "ui_admin.required"
 msgid "Required"
-msgstr ""
+msgstr "Zahtevano"
 
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
@@ -1242,12 +1242,12 @@ msgstr ""
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Odziv"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
 msgid "Results"
-msgstr ""
+msgstr "Rezultati"
 
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
@@ -1264,17 +1264,17 @@ msgstr ""
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
-msgstr ""
+msgstr "Shrani nastavitve"
 
 #: ui_admin.search
 msgctxt "ui_admin.search"
 msgid "Search"
-msgstr ""
+msgstr "Išči"
 
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Išči poročila"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"

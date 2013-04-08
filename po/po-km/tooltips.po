@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-05 09:27+0000\n"
+"PO-Revision-Date: 2013-04-08 04:57+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -118,7 +118,7 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "អ្នក​សម្របសម្រួល​នេះ​នឹង​ធ្វើ​ឲ្យ​សកម្ម​​នៅ​លើ N-th សម្រាប់​ជា​ក្រុម​ទាំងមូល ឬ​អ្នក​ប្រើ​ប្រាស់​ម្នាក់ៗ។ ទុក​ឲ្យ​នៅ​ទទេ កុំ​អើ​ពើ​វា។"
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
@@ -342,7 +342,7 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr "បដា​តំបន់​បណ្ដាញ​បង្ហាញ​នៅ​ខាងលើ​ផ្នែក​ខាង​មុន​ចុង​នៃ​តំបន់​បណ្ដាញ ប្រសិនបើ​រូបរាង​ដែល​អ្នក​កំពុង​ប្រើ​គាំ​ទ្រ​វា។ ទំហំ​ដែល​បាន​ផ្ដល់​អនុសាសន៍​សម្រាប់​បដា​នេះ​អាស្រ័យ​លើ​រូបរាង​ដែល​អ្នក​​កំពុង​ប្រើ។ ចងចាំ​ថា​វា​នឹង​ជំនួស​ចំណងជើង​តំបន់​បណ្ដាញ និង tagline នៅ​​ផ្នែក​ខាងលើ​នៃ​ទំព័រ។"
+msgstr "បដា​តំបន់​បណ្ដាញ​បង្ហាញ​នៅ​ខាងលើ​ផ្នែក​ខាង​មុខ​ចុង​នៃ​តំបន់​បណ្ដាញ ប្រសិនបើ​រូបរាង​ដែល​អ្នក​កំពុង​ប្រើ​គាំ​ទ្រ​វា។ ទំហំ​ដែល​បាន​ផ្ដល់​អនុសាសន៍​សម្រាប់​បដា​នេះ​អាស្រ័យ​លើ​រូបរាង​ដែល​អ្នក​​កំពុង​ប្រើ។ ចងចាំ​ថា​វា​នឹង​ជំនួស​ចំណងជើង​តំបន់​បណ្ដាញ និង tagline នៅ​​ផ្នែក​ខាងលើ​នៃ​ទំព័រ។"
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
@@ -356,7 +356,7 @@ msgid ""
 "response times. We recommend using caching on high traffic sites. **Remember"
 " that reports will be populated on the front end based on the schedule you "
 "set below (Cache Lifetime)."
-msgstr ""
+msgstr "បើក ឬ​បិទ​ទំព័រ​​ឃ្លាំង​សម្ងាត់។ វា​ធ្វើ​ឲ្យ​ទំព័រ​បង្ហាញ​យ៉ាង​លឿន​ដោយ​ការ​កាត់​ពេលវេលា​ឆ្លើយ​តប។ យើង​បាន​ផ្ដល់​អនុសាសន៍​ដោយ​ប្រើ​ឃ្លាំង​នៅ​លើ​តំបន់​បណ្ដាញ​ចរាចរណ៍​​ដែល​មាន​កម្រិត​ខ្ពស់។ **ចងចាំ​ថា​របាយការណ៍​ការ​នឹង​ត្រូវ​បាន​បង្ហាញ​ផ្នែក​ខាង​មុខ​តាម​​កាលវិភាគ​ដែល​អ្នក​បាន​កំណត់​ខាងក្រោម (អាយុកាល​​ឃ្លាំង)។"
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
@@ -504,7 +504,7 @@ msgstr "វា​ត្រូវ​បាន​ទាមទារ​ដើម្
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"
 msgid "This is the email address that receives reports."
-msgstr ""
+msgstr "នេះ​ជា​ពាក្យសម្ងាត់​សម្រាប់​អាសយដ្ឋាន​អ៊ីមែល​ដែល​ទទួល​​របាយការណ៍។"
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
@@ -513,7 +513,7 @@ msgid ""
 "this option, you gain access to hit statistics directly in your admin panel."
 " By disabling it, you will stop collecting statistics and will be unable to "
 "recover traffic stats collected while this is turned off."
-msgstr ""
+msgstr "រក​ឃើញ​​ស្ថិតិ​ដែល​ត្រូវ​បាន​រក្សាទុក​នៅ​លើ​ម៉ាស៊ីន​មេ​ដែល​បាន​ត្រួតពិនិត្យ​ដោយ Ushahidi។ ដោយ​បើក​ជម្រើស​នេះ អ្នក​អាច​ចូល​ដំណើរការ ដើម្បី​មើល​ស្ថិតិ​ដោយ​ផ្ទាល់​នៅ​ក្នុង​បន្ទះ​ជា​អ្នក​គ្រប់គ្រង​របស់​អ្នក។ ដោយ​បិទ​វា អ្នក​នឹង​បញ្ឈប់​ការ​សម្រាំង​ស្ថិតិ ហើយ​នឹង​មិន​អាច​សម្រាំង​ស្ថានភាព​ចរាចរណ៍​ខណៈ​ពេល​ដែល​បិទ​វា​ឡើយ។​"
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
@@ -523,14 +523,14 @@ msgid ""
 "https://creativecommons.org/choose/ if you are interested in specifying what"
 " others are able to do with your work. And remember to be specific about "
 "what elements of the site you are licensing!"
-msgstr ""
+msgstr "មាន​សិទ្ធិ​​ដើម្បី​បោះពុម្ព​អត្ថបទ​ឡើង​វិញ រូបភាព វីដេអូ និង/ឬ រៀបចំ​រូបរាង​ដែល​អ្នក ហើយ​នឹង​អ្នក​ប្រើ​​របស់​អ្នក​បាន​បង្កើត​ឬ? ទៅ​កាន់ https://creativecommons.org/choose/ ប្រសិនបើ​អ្នក​ចូលចិត្ត​បញ្ជាក់​អ្វី​ផ្សេង​ទៀត​ដែល​អ្នក​អាច​ធ្វើ​ជាមួយ​ការ​ងារ​របស់​អ្នក​បាន។ ហើយ​ចងចាំ​ថា​អ្នក​អាច​​បញ្ជាក់​អំពី​ធាតុ​តំបន់​​បណ្ដាញ​ដែល​អ្នក​កំពុង​មាន​អាជ្ញាប័ណ្ណ​!"
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
 msgid ""
 "This is the email address that will receive email reports and messages from "
 "the contact form."
-msgstr ""
+msgstr "នេះ​ជា​ពាក្យសម្ងាត់​សម្រាប់​អាសយដ្ឋាន​អ៊ីមែល​ដែល​ទទួល​​របាយការណ៍ និង​សារ​ពី​​សំណុំ​បែបបទ​​ទំនាក់ទំនង"
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
@@ -538,7 +538,7 @@ msgid ""
 "This is text that will appear above the map on the homepage. This is useful "
 "for giving important information to visitors on the site. To remove the box,"
 " simply delete the message here."
-msgstr ""
+msgstr "វា​ជា​អត្ថបទ​ដែល​នឹង​លេច​ឡើង​នៅ​លើ​ផែនទី​លើ​គេហ​ទំព័រ។ វា​មាន​អត្ថប្រយោជន៍​សម្រាប់​ផ្ដល់​ព័ត៌មាន​សំខាន់ៗ​ដល់​អ្នក​ទស្សនា​លើ​តំបន់​បណ្ដាញ។ យក​ប្រអប់​ចេញ លុប​សារ​នៅ​ទីនេះ។"
 
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
