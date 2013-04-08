@@ -220,5 +220,13 @@ $lang = array(
 		'length' => 'The phone 3 field is too long.',
 		'numeric' => 'The phone 3 field should contain numbers only.',
 	)
+	'twitter' => array(
+		'title' => 'Twitter Setup Options',
+		'description' => 'To get the information below, set up your deployment as a new Twitter application at',
+		'api_key' => 'Consumer Key',
+		'api_key_secret' => 'Consumer secret',
+		'token' => 'Access Token',
+		'token_secret' => 'Access Token Secret',
+	) 
 );
 ?>

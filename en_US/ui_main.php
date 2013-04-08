@@ -161,6 +161,7 @@ $lang = array(
 	'example_country' => 'Kenya',
 	'external_apps' => 'External Apps',
 	'external_video_link' => 'External Video Link',
+	'facebook' => 'Facebook',
 	'feed' => 'Feed',
 	'feedback' => 'Provide Feedback',
 	'feedback_reports' => 'Please give us feedback about your experience by clicking on the button below.',
