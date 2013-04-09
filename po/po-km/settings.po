@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Seng Sutha <sutha@open.org.kh>, 2013.
 # Sok Sophea <sophea@open.org.kh>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-27 09:33+0000\n"
-"Last-Translator: soksophea <sophea@open.org.kh>\n"
+"POT-Creation-Date: 2013-04-08 06:15+0000\n"
+"PO-Revision-Date: 2013-04-09 02:14+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,37 +20,37 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr "វាល​អនុញ្ញាត​សេចក្ដី​អធិប្បាយ​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "អនុញ្ញាត​ឲ្យ​វាល​មតិយោបល់​មិន​មាន​បង្ហាញ​តម្លៃ​ត្រឹមត្រូវ​ឡើយ។"
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr "បាន​ទាមទារ​វាល​អនុញ្ញាត​សេចក្ដី​អធិប្បាយ។"
+msgstr "អនុញ្ញាត​ឲ្យ​វាល​មតិយោបល់​ត្រូវ​បាន​ទាមទារ។"
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr "វាល​មតិ​ព័ត៌មាន​រួមបញ្ចូល​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "​រួមបញ្ចូល​វាល​មតិ​ព័ត៌មាន​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr "បាន​ទាមទារ​វាល​មតិ​ព័ត៌មាន​រួមបញ្ចូល។"
+msgstr "បាន​ទាមទារ​ឲ្យ​ដាក់​បញ្ចូល​វាល​មតិ​យោបល់។"
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr "វាល​អនុញ្ញាត​ការ​ជូនដំណឹង​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "អនុញ្ញាត​ឲ្យ​វាល​ជូនដំណឹង​មិន​បង្ហាញ​​​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ។"
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr "បាន​ទាមទារ​វាល​អនុញ្ញាត​ការ​ជូនដំណឹង។"
+msgstr "អនុញ្ញាត​ឲ្យ​វាល​ជូនដំណឹង​ត្រូវ​បាន​ទាមទារ។"
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr "វាល​អនុញ្ញាត​របាយការណ៍​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "អនុញ្ញាត​ឲ្យ​វាល​របាយការណ៍​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ឡើយ។"
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
@@ -59,7 +60,7 @@ msgstr "បាន​ទាមទារ​វាល​អនុញ្ញាត​
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr "វាល​អនុញ្ញាត​សភាព​ចែករំលែក​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "វាល​ចែក​រំលែក​ស្ថានភាព​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ឡើយ។"
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
@@ -91,15 +92,22 @@ msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
 msgstr "វាល Akismet មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
-#: settings.banner_image.default
-msgctxt "settings.banner_image.default"
-msgid "Something went wrong with your banner image upload."
-msgstr "មាន​បញ្ហា​ជាមួយ​ការ​ផ្ទុក​ឡើង​នៃ​រូបភាព​បដា​របស់​អ្នក។"
+#: settings.banner_image.type
+msgctxt "settings.banner_image.type"
+msgid ""
+"The Site Banner field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
+msgstr ""
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
-msgid "The size of your banner exceeds the size limit for this upload."
-msgstr "ទំហំ​បដា​របស់​អ្នក​លើសពី​ទំហំ​កំណត់​សម្រាប់​ការ​ផ្ទុក​ឡើង​នេះ។"
+msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
+msgstr ""
+
+#: settings.banner_image.valid
+msgctxt "settings.banner_image.valid"
+msgid "The \"Banner Image\" field does not appear to contain a valid file."
+msgstr ""
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -109,7 +117,7 @@ msgstr "បាន​ទាមទារ​វាល​ទំព័រ​ឃ្ល
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr "វាល​ទំព័រឃ្លាំង​សម្ងាត់​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "វាល​ទំព័រ​ឃ្លាំង​សម្ងាត់​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
@@ -137,7 +145,7 @@ msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​យូសាហ៊ីឌី​អាច​ចូល​ដំណើរការ​បាន​តាមរយៈ URLs \"ត្រឹមត្រូវ\"  (ដោយ​គ្មាន \"index.php\" នៅ​ក្នុង URL)។"
+msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​ Ushahidi​​​ អាច​ចូល​ដំណើរការ​បាន​តាមរយៈ URLs \"ត្រឹមត្រូវ\"  (ដោយ​គ្មាន \"index.php\" នៅ​ក្នុង URL)។"
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
@@ -152,7 +160,7 @@ msgstr "URLs ត្រឹមត្រូវ"
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr "វាល​លេខ Clickatell API ត្រូវតែ​មាន​ប្រវែង​តិច​ជាង​២០​តួអក្សរ។"
+msgstr "វាល​លេខ Clickatell API ត្រូវតែ​មិន​មែន​​​ប្រវែង​ច្រើន​​ជាង ​២០ ​តួអក្សរ។"
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
@@ -164,7 +172,7 @@ msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "វាល​ពាក្យសម្ងាត់ Clickatell ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​៥ និង​យ៉ាង​ច្រើន៥០។"
+msgstr "វាល​ពាក្យសម្ងាត់ Clickatell ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​ ៥ ហើយ​មិន​ច្រើន​ជាង ៥០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
@@ -174,7 +182,7 @@ msgstr "បាន​ទាមទារ​វាល​ពាក្យសម្ង
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr "វាល​អ្នកប្រើ Clickatell ត្រូវតែ​មាន​ប្រវែង​តួអក្សរ​តិច​ជាង៥០។"
+msgstr "វាល​អ្នកប្រើ Clickatell ត្រូវតែ​មាន​ប្រវែង​តួអក្សរ​​មិន​ច្រើន​ជាង ៥០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
@@ -194,12 +202,12 @@ msgstr "ទីតាំង​លំនាំដើម"
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr "វាល​ពណ៌​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "វាល​មតិ​ព័ត៌មាន​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr "វាល​ពណ៌​ត្រូវតែ​មាន​ប្រវែង​តួអក្សរ​មិន​ច្រើនជាង៦។"
+msgstr "វាល​ពណ៌​ត្រូវតែ​មាន​ប្រវែង​តួអក្សរ​មិន​ច្រើនជាង ៦។"
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
@@ -236,7 +244,7 @@ msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "វាល​ពាក្យសម្ងាត់​ម៉ាស៊ីន​មេ​អ៊ីមែល​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច៥ និង​យ៉ាង​ច្រើន៥០។"
+msgstr "វាល​ពាក្យសម្ងាត់​ម៉ាស៊ីន​មេ​អ៊ីមែល​ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច ៥ និង​​មិន​ច្រើន​ជាង ៥០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"

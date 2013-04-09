@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-09-02 03:08+0000\n"
-"Last-Translator: Jungkwan Kim <donationsurvey@gmail.com>\n"
+"POT-Creation-Date: 2013-04-08 06:15+0000\n"
+"PO-Revision-Date: 2013-04-08 06:15+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -90,15 +90,22 @@ msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
 msgstr "Akismet 항목의 값이 유효하지 않습니다."
 
-#: settings.banner_image.default
-msgctxt "settings.banner_image.default"
-msgid "Something went wrong with your banner image upload."
-msgstr "간혹 배너이미지 업로드 시 오류가 발생할 수 있습니다."
+#: settings.banner_image.type
+msgctxt "settings.banner_image.type"
+msgid ""
+"The Site Banner field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
+msgstr ""
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
-msgid "The size of your banner exceeds the size limit for this upload."
-msgstr "배너 사이즈가 업로드 허용 크기를 초과합니다."
+msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
+msgstr ""
+
+#: settings.banner_image.valid
+msgctxt "settings.banner_image.valid"
+msgid "The \"Banner Image\" field does not appear to contain a valid file."
+msgstr ""
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"

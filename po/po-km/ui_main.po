@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-05 09:51+0000\n"
+"PO-Revision-Date: 2013-04-09 04:47+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -154,7 +154,7 @@ msgstr "យក​ការ​ជូន​ដំណឹង​"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr "ការផ្តល់ដំណឹងបាន"
+msgstr "ការ​ជូនដំណឹង​បាន"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -480,7 +480,7 @@ msgstr "អ្នក​បាន​អះអាង​អាសយដ្ឋាន
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "បាន​បរាជ័យ​ក្នុង​ការ​អះអាង​អ៊ីមែល! អ្នក​អាច​ស្នើសុំ​អ៊ីមែល​អះអាង​ថ្មី​នៅ​ខាងក្រោម។"
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -695,7 +695,7 @@ msgstr "ទាញ​យក​របាយការណ៏"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr "ទាញយក"
+msgstr "ទាញ​យក"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -1144,7 +1144,7 @@ msgstr "រួមបញ្ចូល​រយៈបណ្តោយ"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr "ដាក់បញ្ចូលពត៌មានផ្ទាល់ខ្លួន"
+msgstr "រួមបញ្ចូល​ពត៌មាន​ផ្ទាល់ខ្លួន"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1521,7 +1521,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "អ្នក​ត្រូវតែ​អះអាង​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​ដើម្បី​ចូល​ដំណើរការ​ការ​ប្រើប្រាស់​នេះ។ ប្រសិនបើ​អ្នក​បាត់​អ៊ីមែល​អះអាង អ្នក​អាច​ស្នើសុំ​ការ​អះអាង​ថ្មី​ខាងក្រោម។"
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1531,7 +1531,7 @@ msgstr "ឈ្មោះ"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr "របាយការណ៏ប្រហាក់ប្រហែល"
+msgstr "របាយការណ៍​ប្រហាក់ប្រហែល"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1546,12 +1546,12 @@ msgstr "ព័ត៌មាន"
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr "ពត៌មានតាម Feeds"
+msgstr "មតិ​ព័ត៌មាន"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr "ប្រភពពត៌មាន"
+msgstr "ប្រភព​ព័ត៌មាន"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
@@ -1561,7 +1561,7 @@ msgstr "ប្រភេទ​ថ្មី​"
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr "ពាក្យសំងាត់ថ្មី"
+msgstr "ពាក្យសម្ងាត់​ថ្មី"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
@@ -1581,12 +1581,12 @@ msgstr "ទេ​"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "មិន​មាន​ការ​ពិនិត្យ​ចូល​ដើម្បី​បង្ហាញ​ទេ។"
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr "គ្មានទិន្នន័យ"
+msgstr "គ្មាន​ទិន្នន័យ"
 
 #: ui_main.none
 msgctxt "ui_main.none"
@@ -1596,42 +1596,42 @@ msgstr "គ្មាន"
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr "កំណត់សំគាល់"
+msgstr "សម្គាល់"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr "មិនបានយល់ព្រម"
+msgstr "មិន​យល់ព្រម"
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr "មិនបានយល់ព្រម"
+msgstr "មិន​យល់ព្រម"
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr "មិនបានជ្រើសរើស"
+msgstr "---មិន​បាន​ជ្រើស---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr "មិនមែន Spam"
+msgstr "មិនមែន​សារ​ឥតបានការ"
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr "មិនកំណត់លំអិត"
+msgstr "មិនបាន​បញ្ជាក់"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr "មិនមានរបាយការណ៏"
+msgstr "មិន​មាន​របាយការណ៍"
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
 msgid "There are no results"
-msgstr "គ្មានលទ្ឋផល"
+msgstr "មិន​មាន​លទ្ធផល"
 
 #: ui_main.off
 msgctxt "ui_main.off"
@@ -1641,7 +1641,7 @@ msgstr "បិទ"
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr "ព័ត៌មាន​ផ្លូវ​ការ​ រឺ បញ្ជ្រាប​"
+msgstr "ព័ត៌មាន​ធម្មតា​របស់ &amp; ផ្លូវការ"
 
 #: ui_main.on
 msgctxt "ui_main.on"
@@ -1656,7 +1656,7 @@ msgstr "ជម្រើស"
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr "តាមចិត្ត"
+msgstr "ជា​ជម្រើស"
 
 #: ui_main.options
 msgctxt "ui_main.options"
@@ -1676,67 +1676,67 @@ msgstr "ស្ថាប័ន"
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr "ការពិពណ៌នាពីស្ថាប័ន"
+msgstr "សេចក្ដី​ពណ៌នា​ពី​ស្ថាប័ន"
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
 msgid "Organization Email"
-msgstr "អ៊ីម៉ែលស្ថាប័ន"
+msgstr "អ៊ីម៉ែល​ស្ថាប័ន"
 
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr "ស្ថាប័នបាន"
+msgstr "ស្ថាប័ន​បាន"
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
 msgid "Organization Name"
-msgstr "ឈ្មោះស្ថាប័ន"
+msgstr "ឈ្មោះ​ស្ថាប័ន"
 
 #: ui_main.organization_phone_1
 msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
-msgstr "ទូរស័ព្ទស្ថាប័ន 1"
+msgstr "ទូរស័ព្ទ​ស្ថាប័ន ១"
 
 #: ui_main.organization_phone_2
 msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
-msgstr "ទូរស័ព្ទស្ថាប័ន 2"
+msgstr "ទូរស័ព្ទ​ស្ថាប័ន ២"
 
 #: ui_main.organization_website
 msgctxt "ui_main.organization_website"
 msgid "Organization Website"
-msgstr "គេហទំព័រស្ថាប័ន "
+msgstr "តំបន់បណ្ដាញ​របស់​ស្ថាប័ន"
 
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr ""
+msgstr "ដើម"
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
 msgid "Original Description"
-msgstr ""
+msgstr "សេចក្ដី​ពណ៌នា​ដើម"
 
 #: ui_main.original_title
 msgctxt "ui_main.original_title"
 msgid "Original Title"
-msgstr ""
+msgstr "ចំណងជើង​ដើម"
 
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr ""
+msgstr "ការប្រើប្រាស់​ផ្សេងទៀត"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr ""
+msgstr "ប្រអប់ចេញ"
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr ""
+msgstr "ចេញ"
 
 #: ui_main.page
 msgctxt "ui_main.page"
@@ -1751,57 +1751,57 @@ msgstr "ទំព័រ"
 #: ui_main.page_description
 msgctxt "ui_main.page_description"
 msgid "Page Description"
-msgstr "ទំព័រពណ៌នា"
+msgstr "ការ​ពណ៌នា​ទំព័រ"
 
 #: ui_main.page_has_been
 msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
-msgstr "ទំព័របាន"
+msgstr "ទំព័រ​បាន"
 
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr ""
+msgstr "ឈ្មោះ​ផ្ទាំង​ទំព័រ"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
 msgid "Page Title"
-msgstr "ចំណងជើងទំព័រ"
+msgstr "ចំណងជើង​ទំព័រ"
 
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr "ប្រភេទមេ"
+msgstr "ប្រភេទ​មេ"
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr "ពាក្យសំងាត់"
+msgstr "ពាក្យសម្ងាត់"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr "បញ្ជាក់ពាក្យសំងាត់"
+msgstr "ផ្ទៀងផ្ទាត់​ពាក្យសម្ងាត់"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr "ពាក្យសំងាត់បានផ្លាស់ប្តូររួច! សូមចូលនៅខាងក្រោម"
+msgstr "បាន​ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់​ដោយ​ជោគជ័យ! សូម​ចូល​នៅ​ខាងក្រោម។"
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr "ភ្លេចពាក្យសំងាត់របស់អ្នក?"
+msgstr "ភ្លេច​ពាក្យសម្ងាត់​របស់​អ្នក​ឬ?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr "ត្រួតពិនិត្យអ៊ីម៉ែលសំរាប់ពាក្យសំងាត់ថ្មី។"
+msgstr "ពិនិត្យមើល​អ៊ីមែល​របស់​អ្នក​សម្រាប់​ពាក្យសម្ងាត់​ថ្មី។"
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr "រក្សារការចូលនៅក្នុងកុំព្យូទ័រនេះ"
+msgstr "នៅតែ​ចូល​លើ​កុំព្យូទ័រ​នេះ​ឬ?"
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
@@ -1816,7 +1816,7 @@ msgstr "ឆ្នាំមុន"
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr "ស្ថិតក្នុងការរងចាំ"
+msgstr "ក្រោម​ការ​រង់ចាំ"
 
 #: ui_main.per
 msgctxt "ui_main.per"
@@ -1826,7 +1826,7 @@ msgstr "ក្នុង"
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr "ព័ត៌មាន​ផ្ទាល់​ខ្លួន​គឺ​ស្រេច​ចិត្ត​"
+msgstr "ព័ត៌មាន​ផ្ទាល់ខ្លួន <span>ជា​ជម្រើស។</span>"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
@@ -1854,7 +1854,7 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr "*ស្វែងរកទីតាំងរបស់អ្នកដោយប្រើឈ្មោះឬរយៈទទឺង រយៈបណ្តោយ(ទំរង់៖ 38.19,85.61) ឬចង្អុលលើផែនទីរកទីតាំងដែលត្រឹមត្រូវ"
+msgstr "* ស្វែងរក​ទីតាំង​របស់​អ្នក​ដោយ​ប្រើ​ឈ្មោះ ឬ​រយៈទទឹង រយៈបណ្ដោយ (ទម្រង់៖ 38.19, 85.61) ឬ​ចង្អុល​លើ​ផែនទី​ដើម្បី​រក​ទីតាំង​ដែល​ត្រឹមត្រូវ។"
 
 #: ui_main.play
 msgctxt "ui_main.play"
@@ -1864,42 +1864,42 @@ msgstr "លេង"
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr ""
+msgstr "សូម​ចំណាំ"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "កម្មវិធី​ជំនួយ"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "តំបន់បណ្ដាញ​កម្មវិធី​ជំនួយ"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "ទម្រង់​សាធារណៈ"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "URL ទម្រង់​សាធារណៈ"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
 msgid "Preview"
-msgstr "បង្ហាញ"
+msgstr "មើល​ជាមុន"
 
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr ""
+msgstr "មើល​ធាតុ​ជាមុន"
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
 msgid "Preview Message"
-msgstr "បង្ហាញសារ"
+msgstr "មើល​សារ​ជាមុន"
 
 #: ui_main.previous
 msgctxt "ui_main.previous"
@@ -1914,22 +1914,22 @@ msgstr "ឯកជន"
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "ពណ៌​ទម្រង់"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
-msgstr ""
+msgstr "បាន​រក្សាទុក​ទម្រង់​របស់​អ្នក"
 
 #: ui_main.quick_stats
 msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
-msgstr ""
+msgstr "ស្ថានភាព​រហ័ស"
 
 #: ui_main.rating
 msgctxt "ui_main.rating"
 msgid "Rating"
-msgstr "លំដាប់"
+msgstr "អត្រា"
 
 #: ui_main.read
 msgctxt "ui_main.read"
@@ -1944,32 +1944,32 @@ msgstr "ទទួល"
 #: ui_main.receive_from
 msgctxt "ui_main.receive_from"
 msgid "Receive from"
-msgstr "ទំរង់ទទួល"
+msgstr "ទទួល​ពី"
 
 #: ui_main.receive_notifications
 msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
-msgstr "ទទួលការជូនដំណឹង"
+msgstr "ទទួល​ការ​ជូនដំណឹង"
 
 #: ui_main.recent_reports
 msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
-msgstr "របាយការណ៏ថ្មី"
+msgstr "របាយការណ៍​ថ្មីៗ"
 
 #: ui_main.refresh_news_feeds
 msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
-msgstr ""
+msgstr "ធ្វើឲ្យ​មតិ​ព័ត៌មាន​ស្រស់"
 
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr "អ៊ីម៉ែលបានចុះឈ្មោះ"
+msgstr "បាន​ចុះឈ្មោះ​អ៊ីមែល"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
 msgid "Remove"
-msgstr "ដកចោល"
+msgstr "យកចេញ"
 
 #: ui_main.reply
 msgctxt "ui_main.reply"
@@ -1984,62 +1984,62 @@ msgstr "របាយការណ៍"
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr "របាយការណ៏(ពី ផែនទី តារាង)"
+msgstr "របាយការណ៍ <span>(ពី​ផែនទី, បញ្ជី​តាម​លំដាប់​កាល)</span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr "អ្នកដាក់របាយការណ៏"
+msgstr "អ្នក​រាយការណ៍"
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
 msgid "Reporters"
-msgstr "អ្នកដាក់របាយការណ៏"
+msgstr "អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr "កាលបរិច្ឆេទដាក់របាយការណ៏"
+msgstr "កាលបរិច្ឆេទ​រាយការណ៍"
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
-msgstr "អ៊ីម៉ែលអ្នកដាក់របាយការណ៏"
+msgstr "អ៊ីមែល​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_first_name
 msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
-msgstr "នាមអ្នកដាក់របាយការណ៏"
+msgstr "នាម​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_has_been
 msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
-msgstr "របាយការណ៏បាន"
+msgstr "របាយការណ៍​បាន"
 
 #: ui_main.reporter_ip
 msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
-msgstr "IP អ្នកដាក់របាយការណ៏"
+msgstr "អាសយដ្ឋាន IP របស់​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_last_name
 msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
-msgstr "ត្រកូលអ្នកដាក់របាយការណ៏"
+msgstr "គោត្តនាម​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr "លំដាប់អ្នកដាក់របាយការណ៏"
+msgstr "លំដាប់​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr "លំដាប់អ្នកដាក់របាយការណ៏"
+msgstr "លំដាប់​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
-msgstr "ទូរស័ព្ទអ្នកដាក់របាយការណ៏"
+msgstr "ទូរស័ព្ទ​អ្នក​រាយការណ៍"
 
 #: ui_main.reports
 msgctxt "ui_main.reports"
@@ -2049,17 +2049,17 @@ msgstr "របាយការណ៍"
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr "ចូលស្វែងរក"
+msgstr "រុករក"
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
-msgstr "បញ្ជូន"
+msgstr "ដាក់​ស្នើ"
 
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr "របាយការណ៏ដោយអ្នកប្រើប្រាស់នេះ"
+msgstr "របាយការណ៏​ដោយ​អ្នកប្រើ​នេះ"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2074,17 +2074,17 @@ msgstr "%d របាយការណ៍"
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
 msgid "Date"
-msgstr "កាល​បរិច្ឆេទ​"
+msgstr "កាលបរិច្ឆេទ​"
 
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
 msgid "Description"
-msgstr "ការពិពណ៌នា"
+msgstr "សេចក្ដី​ពណ៌នា"
 
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr "របាយការណ៏អាចទាញយកបានជាឯកសារទំរង់ CSV"
+msgstr "នឹង​ទាញ​យក​របាយការណ៍​ក្នុង​ទម្រង់ CSV"
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
@@ -2094,12 +2094,12 @@ msgstr "អ៊ីមែល"
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr "ចេញ"
+msgstr "លក្ខណៈ"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
-msgstr "រក​ទំតាំង​ដែល​នៅ​ជិត​អ្នក"
+msgstr "រក​ទីតាំង​ដែល​នៅ​ជិត​អ្នក"
 
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
@@ -2129,29 +2129,29 @@ msgstr "ព័ត៌មាន​ជា​ជម្រើស"
 #: ui_main.reports_photos
 msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
-msgstr "ផ្ទុក​រូប​ភាព​ឡើង​"
+msgstr "ផ្ទុក​រូបភាព​ឡើង​"
 
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr "ត្រឡប់ទៅទំព័ររបាយការណ៏"
+msgstr "ត្រឡប់​ទៅ​ទំព័រ​របាយការណ៏"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
-msgstr "ជ្រើសរើសទីក្រុង"
+msgstr "ជ្រើសរើស​ទីក្រុង"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr "របាយការណ៏របស់អ្នកបានបញ្ជូនបុគ្គលិករបស់យើងដើម្បីត្រួតពិនិត្យ។​ យើងជូនដំណឹងត្រឡប់មកវិញយ៉ាងឆាប់"
+msgstr "របាយការណ៏​របស់​អ្នក​បាន​បញ្ជូន​ទៅកាន់​បុគ្គលិក​របស់​យើង​ដើម្បី​ត្រួតពិនិត្យ។​ យើង​ជូនដំណឹង​ត្រឡប់មកវិញ​យ៉ាង​ឆាប់​បំផុត។"
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
-msgstr "បញ្ជូនរបាយការណ៏ថ្មី"
+msgstr "ដាក់​ស្នើ​របាយការណ៍​ថ្មី"
 
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
@@ -2161,112 +2161,112 @@ msgstr "ពេល"
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr "តារាងពេលរបាយការណ៏"
+msgstr "កាល​កំណត់​របាយការណ៍"
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
 msgid "Report Title"
-msgstr "ចំណង​ជើង​របាយការណ៍"
+msgstr "ចំណងជើង​របាយការណ៍"
 
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
 msgid "Video link"
-msgstr "តំណរភ្ជាប់វីដេអូ"
+msgstr "តំណ​វីដេអូ"
 
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr "រាយការណ៏ព្រឹត្តិការណ៏"
+msgstr "រាយការណ៏​ព្រឹត្តិការណ៏"
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr "របាយការណ៏លំអិត"
+msgstr "របាយការណ៍​លម្អិត"
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr "តាមរយៈការផ្ញើរសារទៅ"
+msgstr "តាមរយៈ​ការ​ផ្ញើ​សារ"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr "តាមរយៈការផ្ញើរអ៊ីម៉ែលទៅ"
+msgstr "តាមរយៈ​ការ​ផ្ញើ​អ៊ីមែល"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr "តាមរយៈការផ្ញើរសារទៅជាមួយ hashtag/s"
+msgstr "តាមរយៈ​ការ​ផ្ញើ​សារ​ជាមួយ​កម្មវិធី Twiter"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr "តាមរយៈការបំពេញទំរង់បែបបទក្នុងគេហទំព័រ"
+msgstr "តាមរយៈ​ការ​បំពេញ​ទម្រង់​នៅ​លើ​តំបន់បណ្ដាញ​របស់​យើង។"
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr "តាមរយៈការប្រើ​ app"
+msgstr "តាមរយៈ​ការ​ប្រើ​កម្មវិធី"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
-msgstr "របាយការណ៏បានរក្សារទុក"
+msgstr "បាន​រក្សាទុក​របាយការណ៍​របស់​អ្នក"
 
 #: ui_main.report_title
 msgctxt "ui_main.report_title"
 msgid "Report Title"
-msgstr "ចំណងជើងរបាយការណ៏"
+msgstr "ចំណងជើង​របាយការណ៍"
 
 #: ui_main.request_information
 msgctxt "ui_main.request_information"
 msgid "Request more information"
-msgstr "សុំពត៌មានបន្ថែម"
+msgstr "ស្នើសុំ​ព័ត៌មាន​បន្ថែម"
 
 #: ui_main.request_location
 msgctxt "ui_main.request_location"
 msgid "Request location"
-msgstr "សុំទីកន្លែង"
+msgstr "ស្នើសុំ​ទីកន្លែង"
 
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr "តរូវការ"
+msgstr "បាន​ទាមទារ"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
 msgid "Requirements"
-msgstr "តំរូវការ"
+msgstr "តម្រូវ​ការ"
 
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr "ផ្ញើអ៊ីម៉ែលបញ្ជាក់ម្តងទៀត"
+msgstr "ផ្ញើ​អ៊ីមែល​អះអាង​ឡើងវិញ"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr "តម្រូវ"
+msgstr "កំណត់​ឡើងវិញ"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr "កំណត់​តម្រង​ទាំងអស់​ឡើង​វិញ"
+msgstr "កំណត់​តម្រង​ទាំងអស់​ឡើងវិញ"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr "តម្រូវពាក្យសំងាត់"
+msgstr "កំណត់​ពាក្យសម្ងាត់​ឡើងវិញ"
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr "ស្តារឡើងវិញនូវឈ្មោះទីក្រុងចំពោះប្រទេសបានជ្រើសរើស"
+msgstr "ទៅ​យក​ឈ្មោះ​ទីក្រុង​ឡើងវិញ​សម្រាប់​ប្រទេស​ដែល​បាន​ជ្រើស"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "បាន​គ្រប់គ្រង​គណនី​ដោយ​សេវាកម្ម %s ។"
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
@@ -2283,7 +2283,7 @@ msgstr "មុខងារ"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2293,17 +2293,17 @@ msgstr "រក្សាទុក"
 #: ui_main.saved
 msgctxt "ui_main.saved"
 msgid "Saved"
-msgstr "បានរក្សាទុក"
+msgstr "បាន​រក្សាទុក"
 
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr "រក្សា​ទុក​និង​បន្ថែម​ថ្មី​"
+msgstr "រក្សា​ទុក និង​បន្ថែម​ថ្មី​"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
 msgid "Save & Close"
-msgstr "រក្សាទុក&បិទ"
+msgstr "រក្សាទុក និង​បិទ"
 
 #: ui_main.save_report
 msgctxt "ui_main.save_report"
@@ -2313,12 +2313,12 @@ msgstr "រក្សា​ទុក​របាយការណ៍"
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr "គ្រោងពេល"
+msgstr "កាលវិភាគ"
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr "អ្នកកំណត់ពេល"
+msgstr "កម្មវិធី​កំណត់​ពេល"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
@@ -2333,7 +2333,7 @@ msgstr "ម៉ោង"
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr "ការចូលអ្នកកំណត់ពេល"
+msgstr "កំណត់ហេតុ​កម្មវិធី​កំណត់​ពេល"
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
@@ -2343,7 +2343,7 @@ msgstr "នាទី"
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr "ថ្ងៃនៃសប្តាហ៏"
+msgstr "ថ្ងៃ​នៃ​សប្តាហ៍"
 
 #: ui_main.search
 msgctxt "ui_main.search"
@@ -2353,7 +2353,7 @@ msgstr "ស្វែងរក"
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
 msgid "Search Results"
-msgstr "លទ្ឋផលការស្វែងរក"
+msgstr "លទ្ឋផល​ស្វែងរក"
 
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
@@ -2363,22 +2363,22 @@ msgstr "លេខ​កូដ​សុវត្ថិភាព"
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr "រើសយកទាំងអស់"
+msgstr "ជ្រើស​យក​ទាំងអស់"
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr "រើសប្រភេទប្រឡោះ"
+msgstr "ជ្រើស​ប្រភេទ​វាល"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr "ជ្រើស​រើស​ទំរង់​បែប​បទ"
+msgstr "ជ្រើស​ប្រភេទ​ទម្រង់"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr "រើសយកក្នុងផែនទី"
+msgstr "ជ្រើស​ក្នុង​ផែនទី"
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
@@ -2388,12 +2388,12 @@ msgstr "ជ្រើស​បាន​ច្រើន​តាម​តម្រ
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr "សូមត្រួតពិនិត្យថាអ្នកបានត្រួតពិនិត្យ"
+msgstr "សូម​ផ្ទៀងផ្ទាត់​ថា​អ្នក​បាន​ធីក​ធាតុ​មួយ"
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
 msgid "Select Theme"
-msgstr "រើសរូបរាង"
+msgstr "ជ្រើស​រូបរាង"
 
 #: ui_main.send
 msgctxt "ui_main.send"
@@ -2403,47 +2403,47 @@ msgstr "ផ្ញើ"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr "ផ្ញើការញ្ជាក់"
+msgstr "ផ្ញើ​ការ​អះអាង"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr "កំពុងផ្ញើទៅ"
+msgstr "កំពុង​ផ្ញើ​ទៅ"
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
 msgid "Sent"
-msgstr "បានផ្ញើ"
+msgstr "បាន​ផ្ញើ"
 
 #: ui_main.sent_by
 msgctxt "ui_main.sent_by"
 msgid "Sent by"
-msgstr "បានផ្ញើតាម"
+msgstr "បាន​ផ្ញើ​ដោយ"
 
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr "អាស័យដ្ឋានម៉ាស៊ីនមេ"
+msgstr "អាស័យដ្ឋាន​ម៉ាស៊ីន​មេ"
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
 msgid "Server type"
-msgstr "ប្រភេទម៉ាស៊ីនមេ"
+msgstr "ប្រភេទ​ម៉ាស៊ីន​មេ"
 
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr "សេវា"
+msgstr "សេវាកម្ម"
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr "ឈ្មោះសេវា"
+msgstr "ឈ្មោះ​អ្នកប្រើ​សេវាកម្ម"
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr "ID អ្នកប្រើប្រាស់សេវា"
+msgstr "លេខ​សម្គាល់​អ្នកប្រើ​សេវាកម្ម"
 
 #: ui_main.share
 msgctxt "ui_main.share"
@@ -2453,22 +2453,22 @@ msgstr "ចែករំលែក"
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr "បានចែករំលែកទិន្នន័យ"
+msgstr "បាន​ចែករំលែក​ទិន្នន័យ"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr "ចែករំលែកបាន"
+msgstr "ការ​ចែករំលែក​បាន"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr "ការចែករំលែក"
+msgstr "ការ​ចែករំលែក"
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr "ផែនទីខ្លីជាង"
+msgstr "ផែនទី​ខ្លី​ជាង"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2478,12 +2478,12 @@ msgstr "បង្ហាញ"
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
 msgid "Show all"
-msgstr "បង្ហាញទាំងអស់"
+msgstr "បង្ហាញ​ទាំងអស់"
 
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr "បង្ហាញសារ"
+msgstr "បង្ហាញ​សារ"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
@@ -2493,22 +2493,22 @@ msgstr ""
 #: ui_main.site
 msgctxt "ui_main.site"
 msgid "Website"
-msgstr "គេហទំព័រ"
+msgstr "តំបន់បណ្ដញ"
 
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
 msgid "site email address"
-msgstr "អាស័យដ្ឋានអ៊ីម៉ែលគេហទំព័រ"
+msgstr "អាស័យដ្ឋាន​អ៊ីម៉ែល​តំបន់បណ្ដាញ"
 
 #: ui_main.site_url
 msgctxt "ui_main.site_url"
 msgid "Site URL"
-msgstr "URL​ គេហទំព័រ"
+msgstr "URL​ តំបន់បណ្ដាញ"
 
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr "ផែនទីតូចជាង"
+msgstr "ផែនទី​តូច​ជាង"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
@@ -2518,7 +2518,7 @@ msgstr "សារ​ខ្លីៗ"
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr "សូមទោស អ្នកមិនមានសញ្ញាទេ"
+msgstr "សូមទោស អ្នក​មិន​មាន​សញ្ញា​ទេ។"
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2528,7 +2528,7 @@ msgstr "ប្រភព"
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
-msgstr "ឈ្មោះប្រភព"
+msgstr "ឈ្មោះ​ប្រភព"
 
 #: ui_main.sort
 msgctxt "ui_main.sort"
@@ -2543,17 +2543,17 @@ msgstr "តំរៀបដោយ"
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr "ប្រភពURL"
+msgstr "URL ប្រភព"
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr "Spam"
+msgstr "សារ​ឥតបានការ"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
-msgstr ""
+msgstr "គាំទ្រ SSL ឬ?"
 
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
@@ -2578,27 +2578,27 @@ msgstr ""
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
-msgstr "បញ្ជូនតាមសារ"
+msgstr "ដាក់​ស្នើ​តាម​សារ​ខ្លីៗ"
 
 #: ui_main.submit_sms1
 msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
-msgstr "ផ្ញើសារទៅ"
+msgstr "ផ្ញើ​សារ​របស់​អ្នក​ទៅ"
 
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr "តាមទូរស័ព្ទរបស់អ្នក"
+msgstr "តាម​ទូរស័ព្ទ​របស់​អ្នក"
 
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr "ជោគជ័យ"
+msgstr "ជោគជ័យ!"
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr "ការដាក់បញ្ជូលដោយជោគជ័យ"
+msgstr "បាន​នាំចូល​ដោយ​ជោគជ័យ"
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
@@ -2608,7 +2608,7 @@ msgstr "នាមត្រកូល"
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr "ស្ទង់"
+msgstr "ស្ទង់​មតិ"
 
 #: ui_main.system
 msgctxt "ui_main.system"
@@ -2618,12 +2618,12 @@ msgstr "ប្រព័ន្ឋ"
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr "ផែនទីខ្ពស់ជាង"
+msgstr "ផែនទី​ខ្ពស់​ជាង"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "ច្រក TCP"
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2633,12 +2633,12 @@ msgstr "រូបរាង"
 #: ui_main.theme_default
 msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
-msgstr "រូបរាងអូហ្សាហ៊ីឌីដើម"
+msgstr "រូបរាង​យូសាហ៊ីឌី​លំនាំដើម"
 
 #: ui_main.theme_settings
 msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
-msgstr "ការកំណត់រូបរាង"
+msgstr "ការ​កំណត់​រូបរាង"
 
 #: ui_main.this
 msgctxt "ui_main.this"
@@ -2653,12 +2653,12 @@ msgstr "ថ្ងៃនេះ"
 #: ui_main.this_month
 msgctxt "ui_main.this_month"
 msgid "This Month"
-msgstr "ខែនេះ"
+msgstr "ខែ​នេះ"
 
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr "សប្តាហ៏នេះ"
+msgstr "សប្តាហ៍​នេះ"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
@@ -2668,7 +2668,7 @@ msgstr "ឆ្នាំនេះ"
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr "នេះជាប្រវត្តិរបស់អ្នក"
+msgstr "នេះ​ជា​ប្រវត្តិរូប​របស់​អ្នក"
 
 #: ui_main.time
 msgctxt "ui_main.time"
@@ -2693,52 +2693,52 @@ msgstr "ថ្ងៃនេះ"
 #: ui_main.today_at
 msgctxt "ui_main.today_at"
 msgid "Today at"
-msgstr "ថ្ងៃនេះនៅ"
+msgstr "ថ្ងៃនេះ​នៅ"
 
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr "បានយក"
+msgstr "ថូខឹន"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr "របាយការណ៏សរុប"
+msgstr "របាយការណ៏​សរុប"
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
 msgid "Translated"
-msgstr "បានបកប្រែ"
+msgstr "បាន​បកប្រែ"
 
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr "ការពិពណ៌នាបានបកប្រែ"
+msgstr "បាន​បកប្រែ​ការ​ពណ៌នា"
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
 msgid "Translated Title"
-msgstr "ចំណងជើងបកប្រែ"
+msgstr "បាន​បកប្រែ​ចំណងជើង"
 
 #: ui_main.translate_to
 msgctxt "ui_main.translate_to"
 msgid "Translate to"
-msgstr "បកប្រែទៅ"
+msgstr "បកប្រែ​ជា"
 
 #: ui_main.translation
 msgctxt "ui_main.translation"
 msgid "Translation"
-msgstr "ការបកប្រែ"
+msgstr "ការ​បកប្រែ"
 
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr "ការបកប្រែបានរក្សាទុក"
+msgstr "បាន​រក្សាទុក​ការ​បកប្រែ"
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr "បានទុកចិត្ត"
+msgstr "បាន​ទុកចិត្ត"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2748,37 +2748,37 @@ msgstr "ប្រភេទ"
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr "មិនអនុញ្ញាត្តិឲ្យផ្ញើអ៊ីម៉ែល"
+msgstr "មិន​អាច​ផ្ញើ​អ៊ីមែល​បាន​ទេ។"
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr "របាយការណ៏គ្មានប្រភេទ"
+msgstr "របាយការណ៏​គ្មាន​ប្រភេទ"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
 msgid "unread"
-msgstr "មិនបានអាន"
+msgstr "មិន​បាន​អាន"
 
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr "មិន​អះអាង"
+msgstr "មិន​បាន​អះអាង"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "ធ្វើ​បច្ចុប្បន្នភាព​មតិ​ព័ត៌មាន"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr "ដាក់ចូល"
+msgstr "ផ្ទុក​ឡើង"
 
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
@@ -2798,12 +2798,12 @@ msgstr ""
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
-msgstr "ឯកសារដើម្បីដាក់ចូល"
+msgstr "ឯកសារ​ដែល​ត្រូវ​ផ្ទុក​ឡើង"
 
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr "របាយការណ៏ដាក់ចូល"
+msgstr "ផ្ទុក​របាយការណ៏​ឡើង"
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
@@ -2817,7 +2817,7 @@ msgstr ""
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "ជាមួយ​ទម្រង់​បែបបទ​ខាងក្រោម អ្នក​អាច​នាំចូល​របាយការណ៍​ឧប្បត្តិហេតុ​ទៅកាន់​ម៉ាស៊ីន​យូសាហ៊ីឌី​បាន។"
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
@@ -2834,21 +2834,21 @@ msgstr ""
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr "វាគួរតែផ្ទុកយ៉ាងតិចប្រធានបទនិងកាលបរិច្ឆទព្រឹត្តិការណ៏"
+msgstr "វា​ត្រូវតែ​មាន​យ៉ាង​ហោច​ចំណងជើង និង​កាលបរិច្ឆេទ​ព្រឹត្តិការណ៍។"
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "ប្រសិនបើ​មិន​បាន​ផ្ដល់​រយៈបណ្ដោយ និង​រយៈទទឹង​ទេ នោះ​ទីតាំង​នឹង​ត្រូវ​បាន​កំណត់​កូដ​ភូមិសាស្ត្រ​ដោយ​ប្រើ Google Geocoder ។"
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "ប្រសិនបើ​មាន​ការ​នាំចូល​ព័ត៌មាន​បន្ថែម ឧ. ព័ត៌មាន​ផ្ទាល់ខ្លួន និង/ឬ​វាល​ទម្រង់​ផ្ទាល់ខ្លួន"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
@@ -2882,7 +2882,7 @@ msgstr ""
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr "គំរូរបាយការណ៏ CSV"
+msgstr "គំរូ​របាយការណ៍ CSV"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2892,7 +2892,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2900,67 +2900,67 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr "ដាក់ចូលបានជោគជ័យ"
+msgstr "បាន​ផ្ទុក​ឡើង​ដោយ​ជោគជ័យ"
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "ផ្ទុក​វីដេអូ​ឡើង"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
 msgid "User"
-msgstr "អ្នកប្រើប្រាស់"
+msgstr "អ្នកប្រើ"
 
 #: ui_main.username
 msgctxt "ui_main.username"
 msgid "Username"
-msgstr "ឈ្មោះ"
+msgstr "ឈ្មោះ​អ្នកប្រើ"
 
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr "Ushahidi​ រដ្ឋបាល"
+msgstr "អ្នក​គ្រប់គ្រង​យូសាហ៊ីឌី"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr "ការ​អះអាង"
+msgstr "ការ​ផ្ទៀងផ្ទាត់"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr "អះអាង"
+msgstr "បាន​ផ្ទៀងផ្ទាត់"
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr "របាយការណ៏បានអះអាង"
+msgstr "បាន​ផ្ទៀងផ្ទាត់​របាយការណ៍"
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr "អះអាង"
+msgstr "ផ្ទៀងផ្ទាត់"
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr "អះអាង​របាយការណ៍​នេះ"
+msgstr "ផ្ទៀងផ្ទាត់​របាយការណ៍​នេះ"
 
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr "ជំនាន់"
+msgstr "កំណែ"
 
 #: ui_main.via
 msgctxt "ui_main.via"
@@ -2975,42 +2975,42 @@ msgstr "វីដេអូ"
 #: ui_main.view
 msgctxt "ui_main.view"
 msgid "View"
-msgstr "បង្ហាញ"
+msgstr "មើល"
 
 #: ui_main.views
 msgctxt "ui_main.views"
 msgid "Views"
-msgstr "បង្ហាញ"
+msgstr "មើល"
 
 #: ui_main.view_all
 msgctxt "ui_main.view_all"
 msgid "View All"
-msgstr "បង្ហាញទាំងអស់"
+msgstr "មើល​ទាំងអស់"
 
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr "បង្ហាញfeedsទាំងអស់"
+msgstr "មើល​មតិ​ព័ត៌មាន​ទាំងអស់"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
-msgstr "បង្ហាញរបាយការណ៏ទាំងអស់"
+msgstr "មើល​របាយការណ៍​ទាំងអស់"
 
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr "បង្ហាញធាតុ"
+msgstr "មើល​ធាតុ"
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr "មើល​បន្ថែម"
+msgstr "មើល​ច្រើន​ទៀត"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "មើល​ទម្រង់​សាធារណៈ"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -3030,17 +3030,17 @@ msgstr "បង្ហាញវីដេអូ"
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr "អាចមើលឃើញ"
+msgstr "អាច​មើល​ឃើញ"
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr "រកចាំការយល់ព្រម"
+msgstr "រង់ចាំ​ការ​អនុម័ត"
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr "រងចាំការអះអាង"
+msgstr "រងចាំ​ការ​អះអាង"
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
@@ -3075,19 +3075,19 @@ msgstr "ម្សិលមិញ"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr "ក្តារបញ្ជារបស់អ្នក"
+msgstr "ផ្ទាំង​គ្រប់គ្រង​របស់​អ្នក"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr "ឯកសាររបស់អ្នក"
+msgstr "ឯកសារ​របស់​អ្នក"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr "ពង្រីកចូល"
+msgstr "ពង្រីក"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr "ពង្រួមចេញ"
+msgstr "បង្រួម"

@@ -4,9 +4,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-08-19 23:14+0000\n"
-"Last-Translator: Robbie MacKay <robbie@ushahidi.com>\n"
+"POT-Creation-Date: 2013-04-08 06:15+0000\n"
+"PO-Revision-Date: 2013-04-08 06:15+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -90,14 +90,21 @@ msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
 msgstr "The Akismet field does not appear to contain a valid value?"
 
-#: settings.banner_image.default
-msgctxt "settings.banner_image.default"
-msgid "Something went wrong with your banner image upload."
+#: settings.banner_image.type
+msgctxt "settings.banner_image.type"
+msgid ""
+"The Site Banner field does not appear to contain a valid image. The only "
+"accepted formats are .JPG, .PNG and .GIF."
 msgstr ""
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
-msgid "The size of your banner exceeds the size limit for this upload."
+msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
+msgstr ""
+
+#: settings.banner_image.valid
+msgctxt "settings.banner_image.valid"
+msgid "The \"Banner Image\" field does not appear to contain a valid file."
 msgstr ""
 
 #: settings.cache_pages.between

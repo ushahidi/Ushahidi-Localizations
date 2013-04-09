@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-08 04:57+0000\n"
+"PO-Revision-Date: 2013-04-08 08:46+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -63,7 +63,7 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr "ប្រសិនបើ​​​សកម្មភាព​នេះ​កើត​ឡើង​មាន​នៅ​ថ្ងៃ​នៃ​សប្ដាហ៍​កំណត់​វា​នៅ​ទី​នេះ។ សូម​ចងចាំ​ថា​​​ថ្ងៃ​ដែល​បាន​កំណត់​តាម​តំបន់​ពេលវេលា​​បាន​កំណត់​ពេលវេលា​នៅ​លើ​ការ​ប្រើប្រាស់​របស់​អ្នក។ ចុច ប្ដូរ (shift) command, ឬ ត្រួត​ពិនិត្យ​ត្រួត​ពិនិត្យ​សម្រាប់​ការ​ជ្រើសរើស​ថ្ងៃ​ច្រើន។"
+msgstr "ប្រសិនបើ​​​សកម្មភាព​នេះ​កើត​ឡើង​មាន​នៅ​ថ្ងៃ​នៃ​សប្ដាហ៍​កំណត់​វា​នៅ​ទី​នេះ។ សូម​ចងចាំ​ថា​​​ថ្ងៃ​ដែល​បាន​កំណត់​តាម​តំបន់​ពេលវេលា​​បាន​កំណត់​ពេលវេលា​នៅ​លើ​ការ​ប្រើប្រាស់​របស់​អ្នក។ ចុច ប្ដូរ (shift) command, ឬ ត្រួត​ពិនិត្យ​ត្រួត​​សម្រាប់​ជម្រើស​​ថ្ងៃ​ច្រើន។"
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
@@ -81,7 +81,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "មតិ​ព័ត៌មាន​អាច​ជា​មតិ​ព័ត៌មាន​ទាំងអស់ ឬ​មតិ​ព័ត៌មាន​ជាក់លាក់។ ប្រសិនបើ​អ្នក​ចង់​ឲ្យ​មតិ​ព័ត៌មាន​សកម្ម អ្នក​​ត្រូវ​ជ្រើស​វា​នៅ​ទី​នេះ។ ម៉្យាងទៀត អ្នក​នឹង​ទុក​វា​ \"ទាំងអស់\""
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -89,7 +89,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "ឈ្មោះ​​អ្នក​ប្រើ​អ្នក​និពន្ធ Twitter (ឬ​ឈ្មោះ​អ្នក​ប្រើ​ច្រើន​ដែល​បាន​បំបែក​ដោយ​សញ្ញា​ក្បៀស)។ ប្រសិនបើ​​អ្នក​ចង់​ធ្វើ​ឲ្យ​សកម្ម​​សម្រាប់​សារ twitter​ ពី​អ្នក​ប្រើ​ជា​ពិសេស បញ្ចូល​ឈ្មោះ​អ្នក​ប្រើ​របស់​ពួកគេ​នៅ​ទៅ​នេះ (កុំ​បញ្ចូល @)"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -131,7 +131,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "ប្រសិនបើ​​​អ្នក​សម្របសម្រួល​ទាំងអស់​ខាង​លើ​ត្រូវ​បាន​​អនុម័ត ហើយ​ចម្លើយ​តប​ត្រូវ​បាន​ធ្វើ​ឲ្យ​សកម្ម។ វា​អាច​តម្រៀប​ពី​​ក្នុង​ការ​អនុម័ត​​របាយការណ៍ ដើម្បី​ផ្ញើ​អ៊ីមែល​ទៅ​អ្នក​ការ​​ប្រើប្រាស់។ ជ្រើស​ចម្លើយ​តប​នៅ​ទីនេះ ដើម្បី​ធ្វើ​ឲ្យ​ជម្រើស​បន្ថែម​សកម្ម​សម្រាប់​ចម្លើយ​តប​ជាក់លាក់។"
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -543,19 +543,19 @@ msgstr "វា​ជា​អត្ថបទ​ដែល​នឹង​លេច
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
 msgid "This is the name of the site that appears at the top of the main site."
-msgstr ""
+msgstr "វា​ជា​ឈ្មោះ​តំបន់​បណ្ដាញ​ដែល​លេច​ឡើង​នៅ​ផ្នែក​ខាងលើ​នៃ​តំបន់​បណ្ដាញ​ចម្បង។"
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
 msgid ""
 "This is a message that will show up on the submit report page. This is good "
 "for disclaimers or further instructions for your visitors who are reporting."
-msgstr ""
+msgstr "វា​ជា​សារ​ដែល​នឹង​បង្ហាញ​នៅ​លើ​ទំព័រ​របាយការណ៍​ដាក់​ស្នើ។ វា​​ល្អ​សម្រាប់​អ្នក​មិន​ព្រម​ទទួល ឬ​សេចក្ដី​ណែនាំ​សម្រាប់​អ្នក​ទស្សនា​​របស់​អ្នក​ដែល​កំពុង​រាយការណ៍។"
 
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
 msgid "In a few words, explain what this site is about."
-msgstr ""
+msgstr "ពន្យល់​អំពី​តំបន់​បណ្ដាញ​ ដោយ​សង្ខេប។"
 
 #: tooltips.settings_site_timezone
 msgctxt "tooltips.settings_site_timezone"
@@ -563,9 +563,9 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr ""
+msgstr "វា​ជា​តំបន់​បណ្ដាញ​ដែល​តំបន់​បណ្ដាញ​របស់​អ្នក​នឹង​ដំណើរការ​នៅ​លើ។​ វា​នឹង​មាន​​ការ​ប៉ះទង្គិច​នៅ​លើ​សកម្មភាព​មួយ​ចំនួន​ដែល​អ្នក​បាន​រៀបចំ​កាលបរិច្ឆេទ និង​ពេលវេលា​ប្រើប្រាស់ ព្រមទាំង​ពេលវេលា​បច្ចុប្បន្ន​លំនាំដើម​សម្រាប់​រាយការណ៍​នៅ​កម្មវិធី​ខាងក្រោយ និង​ខាង​មុខ​នៃ​តំបន់​បណ្ដាញ។"
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
-msgstr ""
+msgstr "កំណត់​សញ្ញា # សម្រាប់ twitter ដែល​នឹង​​ត្រូវ​ប្រើ​នៅ​លើ tweet"
