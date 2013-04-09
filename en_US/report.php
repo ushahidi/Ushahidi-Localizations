@@ -6,6 +6,14 @@ $lang = array(
 	) ,
 	'custom_field' => array(
 		'values' => 'Please enter a valid value for one of your custom form items.',
+		'numeric' => 'The "%s" field must be numeric.',
+		'required' => 'The "%s" field is required.',
+		'not_exist' => 'The "%s" field is does not exist.',
+		'permission' => 'The "%s" field cannot be edited by your account.',
+		'email' => 'The "%s" field must contain a valid email address.',
+		'phone' => 'The "%s" field must contain a valid phone number.',
+		'date_mmddyyyy' => 'The "%s" field must contain a valid date (MM/DD/YYYY).',
+		'date_ddmmyyyy' => 'The "%s" field must contain a valid date (DD/MM/YYYY).',
 	) ,
 	'data_include' => array(
 		'between' => 'Please select a valid item to include in the download.',
