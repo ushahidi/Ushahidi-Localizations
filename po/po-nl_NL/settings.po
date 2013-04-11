@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-08 06:15+0000\n"
-"PO-Revision-Date: 2013-04-08 06:15+0000\n"
+"POT-Creation-Date: 2013-04-09 06:15+0000\n"
+"PO-Revision-Date: 2013-04-09 06:15+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
@@ -793,4 +793,36 @@ msgstr "The phone 3 field is too long"
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
+msgstr ""
+
+#: settings.twitter.title
+msgctxt "settings.twitter.title"
+msgid "Twitter Setup Options"
+msgstr ""
+
+#: settings.twitter.description
+msgctxt "settings.twitter.description"
+msgid ""
+"To get the information below, set up your deployment as a new Twitter "
+"application at"
+msgstr ""
+
+#: settings.twitter.api_key
+msgctxt "settings.twitter.api_key"
+msgid "Consumer Key"
+msgstr ""
+
+#: settings.twitter.api_key_secret
+msgctxt "settings.twitter.api_key_secret"
+msgid "Consumer secret"
+msgstr ""
+
+#: settings.twitter.token
+msgctxt "settings.twitter.token"
+msgid "Access Token"
+msgstr ""
+
+#: settings.twitter.token_secret
+msgctxt "settings.twitter.token_secret"
+msgid "Access Token Secret"
 msgstr ""

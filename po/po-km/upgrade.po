@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Seng Sutha <sutha@open.org.kh>, 2013.
+# Sok Sophea <sophea@open.org.kh>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-03-13 06:59+0000\n"
-"Last-Translator: Sutha <sutha@open.org.kh>\n"
+"PO-Revision-Date: 2013-04-10 03:12+0000\n"
+"Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -138,7 +139,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr ""
+msgstr "<dt><strong>បម្រុងទុក</strong></dt><dd>- ឯកសារ .htaccess, ./applications/config/config.php, ./applications/config/database.php និង ./applications/config/auth.php ។ </dd><dd>- ក្នុង​ករណី​ដែល​មាន​អ្វី​មិន​ប្រក្រតី យើង​សូម​ផ្ដល់​អនុសាសន៍​ឲ្យ​អ្នក​បង្កើត​ការ​បម្រុងទុក​ទាំងស្រុង​សម្រាប់​ការ​ប្រើប្រាស់​យូសាហ៊ីឌី​របស់​អ្នក។</dd><dt><strong>ចម្លង​ឯកសារ</strong></dt><dd>- ស្រង់​ចេញ​នូវ​ឯកសារ​ហ្ស៊ីប​ដែល​បាន​ទាញ​យក</dd><dd>- ដោយ​ផ្អែក​លើ​ប្រព័ន្ធ​ប្រតិបត្តិការ​ដែល​កំពុង​ដំណើរការ​ម៉ាស៊ីន​មេ​បណ្ដាញ អ្នក​អាច​ប្រើ​ឧបករណ៍/របៀប​ដែល​អ្នក​ចូលចិត្ត (ឧ. Telnet, FTP, SSH) ដើម្បី​ចូល​ទៅកាន់​ម៉ាស៊ីន​មេ​បណ្ដាញ និង​ជំនួស​មាតិកា​របស់​ថត​ទាំងអស់​ជាមួយ​ទម្រង់​ថ្មី​បំផុត​ដែល​បាន​ស្ថាបនា​បច្ចុប្បន្ន។</dd><dt><strong>ធ្វើឲ្យ​បច្ចុប្បន្នភាព​មូលដ្ឋាន​ទិន្នន័យ</strong></dt><dd>- ដំបូង​កំណត់​អំពី​កំណែ​គ្រោងការណ៍​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក​ដោយ​មើល​តម្លៃ​នៅ​ក្នុង​តារាង​កំណត់ <strong>db_version</strong> ឬ​មើល​នៅ​ក្នុង​ព័ត៌មាន​ការ​ធ្វើ​បច្ចុប្បន្នភាព​របស់​យូសាហ៊ីឌី​នៅ​ផ្នែក​ខាងលើ​នៃ​ទំព័រ​នេះ។ </dd><dd>- ប្រសិនបើ​អ្នកប្រើ​កំណែ 25 អ្នក​ចាំបាច់​ត្រូវ​ធ្វើ​បច្ចុប្បន្នភាព​ពី 25-26, 26-27, 27-28 និង​ជា​បន្តបន្ទាប់​រហូតដល់​ឯកសារ SQL ចុងក្រោយ​នៅ​ក្នុង <strong>/sql</strong> ថត​របស់​អ្នក។</dd><dd>- ជាមួយ​ម៉ាស៊ីន​កូន​មូលដ្ឋាន​ទិន្នន័យ​របស់​អ្នក អ្នក​អាច​ធ្វើ​បច្ចុប្បន្នភាព​ដោយ​ដំណើរការ​ឯកសារ upgradex-x.sql ដែល​ត្រឹមត្រូវ។</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"

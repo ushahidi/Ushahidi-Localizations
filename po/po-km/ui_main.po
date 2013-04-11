@@ -10,8 +10,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-09 04:47+0000\n"
+"POT-Creation-Date: 2013-04-09 06:15+0000\n"
+"PO-Revision-Date: 2013-04-10 07:50+0000\n"
 "Last-Translator: soksophea <sophea@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -114,7 +114,7 @@ msgstr "បន្ថែម​ការ​បកប្រែ"
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr "រដ្ឋបាល"
+msgstr "ការ​គ្រប់គ្រង"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
@@ -124,7 +124,7 @@ msgstr "យក​ការ​ជូនដំណឹង​"
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "ជូនដំណឹង​ខ្ញុំ​ប្រសិនបើ​របាយការណ៍​ត្រូវ​បាន​រៀបចំ ឬ​​កំពុង​រៀបចំ ៖"
+msgstr "ជូនដំណឹង​ខ្ញុំ​ប្រសិនបើ​របាយការណ៍​ត្រូវ​បាន​រៀបចំ ឬ​​កំពុង​រៀបចំ៖"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
@@ -159,7 +159,7 @@ msgstr "ការ​ជូនដំណឹង​បាន"
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
-msgstr "ទូរស័ព្ទ​ចល័ត ៖"
+msgstr "ទូរស័ព្ទ​ចល័ត៖"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
@@ -278,7 +278,7 @@ msgstr "បាន​ទុក​ក្នុង​ប័ណ្ណសារ"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr "ពីតូចទៅធំ"
+msgstr "ឡើង"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -298,7 +298,7 @@ msgstr "ពិនិត្យ​ចូល​ស្វ័យប្រវត្ត
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr "របាយការណ៏​ជាមធ្យម​ក្នុង​មួយ​ថ្ងៃ"
+msgstr "របាយការណ៍​ជាមធ្យម​ក្នុង​មួយ​ថ្ងៃ"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -388,12 +388,12 @@ msgstr "ប្ដូរ​ជួរ​កាលបរិច្ឆេទ"
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr "ប្តូរ​ពាក្យសម្ងាត់"
+msgstr "ប្ដូរ​ពាក្យសម្ងាត់"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr "ប្តូរ​រូបភាព​របស់​ខ្ញុំ"
+msgstr "ប្ដូរ​រូបភាព​របស់​ខ្ញុំ"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -474,7 +474,7 @@ msgstr "កំណត់​រចនាសម្ព័ន្ធ"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr "អ្នក​បាន​អះអាង​អាសយដ្ឋាន​អ៊ីម៉ែល​របស់​អ្នក​ដោយ​ជោគជ័យ! សូម​ចូល​នៅ​ខាងក្រោម។"
+msgstr "អ្នក​បាន​អះអាង​អាសយដ្ឋាន​អ៊ីមែល​របស់​អ្នក​ដោយ​ជោគជ័យ! សូម​ចូល​នៅ​ខាងក្រោម។"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -530,7 +530,7 @@ msgstr "ប្រធាន​បទ​សារ"
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr "រក្សាសិទ្ឋិ"
+msgstr "រក្សាសិទ្ធិ"
 
 #: ui_main.create
 msgctxt "ui_main.create"
@@ -575,7 +575,7 @@ msgstr "វាល​ផ្ទាល់ខ្លួន"
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr "ពត៌មាន"
+msgstr "ព័ត៌មាន"
 
 #: ui_main.date
 msgctxt "ui_main.date"
@@ -640,7 +640,7 @@ msgstr "លុប​របាយការណ៍​នេះ"
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
 msgid "Delete Selected"
-msgstr "លុប​ជម្រើស"
+msgstr "លុប​អ្វី​ដែល​បាន​ជ្រើស"
 
 #: ui_main.delete_spam
 msgctxt "ui_main.delete_spam"
@@ -655,12 +655,12 @@ msgstr "ការ​បង្ហាញ​សាកល្បង"
 #: ui_main.description
 msgctxt "ui_main.description"
 msgid "Description"
-msgstr "ការ​ពណ៌នា"
+msgstr "សេចក្ដី​ពណ៌នា"
 
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr "ពីធំមកតូច"
+msgstr "ចុះ"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -675,7 +675,7 @@ msgstr "សេចក្ដី​លម្អិត"
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr "របាយការណ៏​ផ្ទាល់"
+msgstr "របាយការណ៍​ផ្ទាល់"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
@@ -690,7 +690,7 @@ msgstr "មិន​អនុញ្ញាត"
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
 msgid "Download Reports"
-msgstr "ទាញ​យក​របាយការណ៏"
+msgstr "ទាញ​យក​របាយការណ៍"
 
 #: ui_main.download
 msgctxt "ui_main.download"
@@ -705,7 +705,7 @@ msgstr "កែសម្រួល"
 #: ui_main.edit_form_fields
 msgctxt "ui_main.edit_form_fields"
 msgid "Edit Form Fields"
-msgstr "កែសម្រួល​វាល​ទម្រង់"
+msgstr "កែសម្រួល​វាល​ទម្រង់​បែបបទ"
 
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
@@ -735,12 +735,12 @@ msgstr "ម៉ាស៊ីន​កម្មវិធី​អ៊ីមែល"
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "ពាក្យសម្ងាត់​កម្មវិធី​អីមែល"
+msgstr "ពាក្យសម្ងាត់​កម្មវិធី​អ៊ីមែល"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "ច្រក​កម្មវិធី​អីមែល"
+msgstr "ច្រក​កម្មវិធី​អ៊ីមែល"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
@@ -807,7 +807,7 @@ msgstr "---ទទេ---"
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr "ទៅកាន់"
+msgstr "ជូន​ចំពោះ"
 
 #: ui_main.error
 msgctxt "ui_main.error"
@@ -817,7 +817,7 @@ msgstr "កំហុស!"
 #: ui_main.example
 msgctxt "ui_main.example"
 msgid "Example"
-msgstr "ឧទាហរណ៏"
+msgstr "ឧទាហរណ៍"
 
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
@@ -833,6 +833,11 @@ msgstr "កម្មវិធី​ខាងក្រៅ"
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
 msgstr "តំណ​វីដេអូ​ខាងក្រៅ​​"
+
+#: ui_main.facebook
+msgctxt "ui_main.facebook"
+msgid "Facebook"
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -904,7 +909,7 @@ msgstr "ត្រង​របាយការណ៍"
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr "ត្រង​របាយការណ៍​ដោយ"
+msgstr "ត្រង​របាយការណ៍​តាម"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
@@ -939,32 +944,32 @@ msgstr "ភ្លេច​ពាក្យសម្ងាត់​របស់​
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr "ទម្រង់"
+msgstr "ទម្រង់បែបបទ"
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
 msgid "Forms"
-msgstr "ទម្រង់"
+msgstr "ទម្រង់​បែបបទ"
 
 #: ui_main.form_description
 msgctxt "ui_main.form_description"
 msgid "Form Description"
-msgstr "សេចក្ដី​ពណ៌នា​ទម្រង់"
+msgstr "សេចក្ដី​ពណ៌នា​ទម្រង់​បែបបទ"
 
 #: ui_main.form_edit
 msgctxt "ui_main.form_edit"
 msgid "Edit this Form"
-msgstr "កែសម្រួល​ទម្រង់​នេះ"
+msgstr "កែសម្រួល​ទម្រង់​បែបបទ​នេះ"
 
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr "ទម្រង់​បាន"
+msgstr "ទម្រង់​បែបបទ​បាន"
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
 msgid "Form Title"
-msgstr "ចំណងជើង​ទម្រង់"
+msgstr "ចំណងជើង​ទម្រង់​បែបបទ"
 
 #: ui_main.from
 msgctxt "ui_main.from"
@@ -999,7 +1004,7 @@ msgstr "ស្លាក"
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "គូស​ទទឹង"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -1039,7 +1044,7 @@ msgstr "លាក់​សារ​នេះ"
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr "ដើម"
+msgstr "ផ្ទះ"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
@@ -1089,7 +1094,7 @@ msgstr "ប្រអប់​ទទួល"
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr "ឧបត្តិហេតុ"
+msgstr "ឧប្បត្តិហេតុ"
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
@@ -1139,7 +1144,7 @@ msgstr "រួមបញ្ចូល​ព័ត៌មាន​ទីតាំង
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr "រួមបញ្ចូល​រយៈបណ្តោយ"
+msgstr "រួមបញ្ចូល​រយៈបណ្ដោយ"
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
@@ -1181,7 +1186,7 @@ msgstr "អាសយដ្ឋាន IP"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr "តើ​នេះ​ជា​ទម្រង់​របស់​អ្នក​ឬ?"
+msgstr "តើ​នេះ​ជា​ប្រវត្តិរូប​របស់​អ្នក​ឬ?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
@@ -1211,7 +1216,7 @@ msgstr "កូនសោ"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr "ពាក្យបង្កប់"
+msgstr "ពាក្យ​គន្លឹះ"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -1367,7 +1372,7 @@ msgstr "បាន​ផ្ញើ​ការ​អះអាង​ទៅកាន
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr "មិន​មាន​អាសយដ្ឋាន​អ៊ីមែល​នេះ​ទេ។ សូម​សាកល្បង​អាសយដ្ឋាន​ថ្មី ឬ​បង្កើត​គណនី​ថ្មី។"
+msgstr "មិន​មាន​អាសយដ្ឋាន​អ៊ីមែល​នេះ​ទេ។ សូម​សាកល្បង​អាសយដ្ឋាន​ផ្សេង ឬ​បង្កើត​គណនី​ថ្មី។"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
@@ -1404,7 +1409,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "អរគុណ​សម្រាប់​ការ​ចុះឈ្មោះ​ជាមួយ %1$s ។ ដើម្បី​អះអាង​អ៊ីមែល​របស់​អ្នក សូម​ទៅកាន់ URL ដូច​ខាងក្រោម៖ %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -2273,7 +2278,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "អ្នក​មាន​គណនី​ដែល​បាន​គ្រប់គ្រង​ដោយ CrowdmapID រួចហើយ! សាកល្បង​ប្រើ​ពាក្យសម្ងាត់ និង​អ៊ីមែល​របស់ CrowdmapID ដើម្បី​ចូល។"
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2488,7 +2493,7 @@ msgstr "បង្ហាញ​សារ"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "បង្ហាញ​របាយការណ៍​ពី <span class=\"time-period\">%1$s ទៅ %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2538,7 +2543,7 @@ msgstr "តំរៀប"
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr "តំរៀបដោយ"
+msgstr "តម្រៀប​តាម"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2573,7 +2578,7 @@ msgstr "ដាក់​ស្នើ​របាយការណ៍"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "បាន​ដាក់​ស្នើ​ដោយ <strong>%1$s</strong> តាមរយៈ <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2783,17 +2788,17 @@ msgstr "ផ្ទុក​ឡើង"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "មើល​របៀប​ផ្ទុក​របាយការណ៍​ឡើង​របស់​យើង៖-"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "របៀប​ផ្ទុក XML ឡើង"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "របៀប​ផ្ទុក CSV ឡើង"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2811,7 +2816,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "ជួរឈរ​វាល​ផ្ទាល់ខ្លួន​ត្រូវតែ​មាន​ form_id របស់​ពួកគេ​ដែល​បាន​បន្ថែម ឧ. វាល​ផ្ទាល់ខ្លួន Test នៅ​លើ​ទម្រង់​លំនាំដើម​ដែល​លេខ​សម្គាល់​របស់​វា​គឺ 1 ដូច្នេះ​វា​គឺ Test-1។ នៅ​ពេល​នាំចូល​វាល​ទម្រង់​ផ្ទាល់ខ្លួន ត្រូវ​ប្រាកដ​ថា"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2822,14 +2827,14 @@ msgstr "ជាមួយ​ទម្រង់​បែបបទ​ខាងក្
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "របាយការណ៍​ត្រូវតែ​ផ្ទុក​ឡើង​ក្នុង​ទន្រង់ CSV ឬ XML ។"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "ពេល​លេខ​សម្គាល់​ឧប្បត្តិហេតុ​មាន​រួចហើយ​នៅ​ក្នុង​មូលដ្ឋាន​ទិន្នន័យ នោះ​ធាតុ​នៅ​ក្នុង​ឯកសារ CSV/XML នឹង​ត្រូវ​បាន​មិន​អើពើ។"
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2855,14 +2860,14 @@ msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "នៅ​ក្នុង​វាល​ព័ត៌មាន​ផ្ទាល់ខ្លួន ត្រូវតែ​បាន​បំពេញ​ធាតុ​មួយ​យ៉ាង​ហោច​​ក្នុង​ចំណោម (នាម, គោត្តនាម, អ៊ីមែល) ។ កំណត់ត្រា​ទទេ​នឹង​មិន​ត្រូវ​បាន​នាំចូល​ឡើយ"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "ធាតុ​របស់​អ្នក​នៅ​ក្នុង​វាល​ទម្លាក់​ចុះ ប៊ូតុង​មូល និង​ប្រអប់​ធីក​គឺ​ផ្គូផ្គង​គ្នា​ជាមួយ​ជម្រើស​ដែល​បាន​ផ្ដល់​សម្រាប់​​ធាតុ​វាល​ផ្ទាល់ខ្លួន​របស់​អ្នក"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2870,14 +2875,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "ជម្រើស​ប្រអប់​ធីក​ត្រូវ​បាន​បំបែក​ដោយ​សញ្ញា​ក្បៀស ឧ. ប្រសិនបើ​អ្នក​បាន​ជ្រើស​ផ្លែ​ប៉ោម ស្វាយ និង​ទំពាំងបាយជូរ នោះ​ធាតុ​របស់​អ្នក​គឺ \"ប៉ោម, ស្វាយ, ទំពាំងបាយជូរ\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "តម្លៃ​វាល​កាលបរិច្ឆេទ​គឺ​មាន​ទម្រង់​ដូច​ខាងក្រោម៖ mm/dd/yyyy ឧ. ថ្ងៃ​ទី៣ ខែ​តុលា ឆ្នាំ​២០១២ = ១០/០៣/២០១២"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -3025,7 +3030,7 @@ msgstr "មើល​របាយការណ៍"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr "បង្ហាញវីដេអូ"
+msgstr "មើល​វីដេអូ"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3055,7 +3060,7 @@ msgstr "សំណុំ​បែបបទ​បណ្ដាញ"
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr "គេហទំព័រ"
+msgstr "តំបន់បណ្ដាញ"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"

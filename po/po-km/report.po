@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Seng Sutha <sutha@open.org.kh>, 2013.
 # Sokhem Khoem <sokhem@open.org.kh>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-03-14 09:02+0000\n"
-"Last-Translator: khoemsokhem <sokhem@open.org.kh>\n"
+"POT-Creation-Date: 2013-04-09 06:15+0000\n"
+"PO-Revision-Date: 2013-04-11 03:10+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,6 +33,46 @@ msgstr "ការ​ប្រើប្រាស់​នេះ​ពង្រី
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for one of your custom form items."
 msgstr "សូម​បញ្ចូល​តម្លៃ​ត្រឹមត្រូវ​សម្រាប់​​ធាតុ​សំណុំ​បែបបទ​ការងារ​​​មួយ​របស់​អ្នក។"
+
+#: report.custom_field.numeric
+msgctxt "report.custom_field.numeric"
+msgid "The \"%s\" field must be numeric."
+msgstr "វាល \"%s\" ត្រូវ​តែ​ជា​លេខ។"
+
+#: report.custom_field.required
+msgctxt "report.custom_field.required"
+msgid "The \"%s\" field is required."
+msgstr "បាន​ទាមទារ​វាល \"%s\" ។"
+
+#: report.custom_field.not_exist
+msgctxt "report.custom_field.not_exist"
+msgid "The \"%s\" field is does not exist."
+msgstr "មិន​មាន​វាល​ \"%s\" ឡើយ។"
+
+#: report.custom_field.permission
+msgctxt "report.custom_field.permission"
+msgid "The \"%s\" field cannot be edited by your account."
+msgstr "វាល \"%s\" មិន​អាច​ត្រូវ​បាន​កែសម្រួល​ដោយ​គណនី​របស់​អ្នក​ឡើយ។"
+
+#: report.custom_field.email
+msgctxt "report.custom_field.email"
+msgid "The \"%s\" field must contain a valid email address."
+msgstr "វាល \"%s\" ត្រូវ​តែ​មាន​អាសយដ្ឋាន​អ៊ីមែល​ត្រឹមត្រូវ។"
+
+#: report.custom_field.phone
+msgctxt "report.custom_field.phone"
+msgid "The \"%s\" field must contain a valid phone number."
+msgstr "វាល \"%s\" ត្រូវ​តែ​មាន​លេខ​ទូរស័ព្ទ​ត្រឹមត្រូវ។"
+
+#: report.custom_field.date_mmddyyyy
+msgctxt "report.custom_field.date_mmddyyyy"
+msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
+msgstr "វាល \"%s\" ត្រូវ​តែ​មាន​​កាលបរិច្ឆេទ​ត្រឹមត្រូវ (MM/DD/YYYY)។"
+
+#: report.custom_field.date_ddmmyyyy
+msgctxt "report.custom_field.date_ddmmyyyy"
+msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
+msgstr "វាល \"%s\" ត្រូវ​តែ​មាន​កាលបរិច្ឆេទ​ត្រឹមត្រូវ (DD/MM/YYYY)។"
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
@@ -102,12 +143,12 @@ msgstr "អ្នក​ត្រូវ​តែ​ជ្រើស​ទ្រង
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr "សូម​ជ្រើស​ទ្រង់ទ្រាយ​ត្រឹមត្រូវ ដើម្បី​ទាញ​របាយការណ៍​របស់​អ្នក"
+msgstr "សូម​ជ្រើស​ទ្រង់ទ្រាយ​ត្រឹមត្រូវ ដើម្បី​ទាញ​យក​​របាយការណ៍​របស់​អ្នក"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
 msgid "The FROM date field does not appear to contain a valid date."
-msgstr "វាល​កាលបរិច្ឆេទ​ ពី មិន​បង្ហាញ​ថា​មាន​កាលបរិច្ឆេទ​ត្រឹមត្រូវ។"
+msgstr "វាល​កាលបរិច្ឆេទ​ ពី មិន​បង្ហាញ​ថា​មាន​កាលបរិច្ឆេទ​ត្រឹមត្រូវ​ទេ។"
 
 #: report.from_date.range
 msgctxt "report.from_date.range"
@@ -157,7 +198,7 @@ msgstr "វាល​កាលបរិច្ឆេទ​ត្រូវ​បា
 #: report.incident_description.required
 msgctxt "report.incident_description.required"
 msgid "The \"Description\" field is required."
-msgstr "វាល \"ការ​ពណ៌នា\" ត្រូវ​បាន​ទាមទារ។"
+msgstr "វាល \"សេចក្ដី​​ពណ៌នា\" ត្រូវ​បាន​ទាមទារ។"
 
 #: report.incident_hour.between
 msgctxt "report.incident_hour.between"
@@ -167,17 +208,17 @@ msgstr "វាល​ម៉ោង​មិ​ន​បង្ហាញ​ថា​
 #: report.incident_hour.required
 msgctxt "report.incident_hour.required"
 msgid "The hour field is required."
-msgstr "វាល​ម៉ោង​ត្រូវ​បាន​ទាមទារ។"
+msgstr "បាន​ទាមទារ​វាល​ម៉ោង​។"
 
 #: report.incident_information.alpha
 msgctxt "report.incident_information.alpha"
 msgid "Please enter a valid value for Information Probability."
-msgstr "សូម​បញ្ចូល​តម្លៃ​ត្រឹមត្រូវ​សម្រាប់​ប្រូប៉ាប៊ីលីតេ​ព័ត៌មាន។"
+msgstr "សូម​បញ្ចូល​តម្លៃ​ត្រឹមត្រូវ​សម្រាប់​ប្រូបាប៊ីលេតេ​​ព័ត៌មាន។"
 
 #: report.incident_information.length
 msgctxt "report.incident_information.length"
 msgid "Please enter a valid value for Information Probability."
-msgstr "សូម​បញ្ចូល​តម្លៃ​ត្រឹមត្រូវ​សម្រាប់​ប្រូប៉ាប៊ីលីតេ​ព័ត៌មាន។"
+msgstr "សូម​បញ្ចូល​តម្លៃ​ត្រឹមត្រូវ​សម្រាប់​ប្រូបាប៊ីលេតេ​​ព័ត៌មាន។"
 
 #: report.incident_minute.between
 msgctxt "report.incident_minute.between"
@@ -187,7 +228,7 @@ msgstr "វាល​នាទី​មិន​បង្ហាញ​ថា​ម
 #: report.incident_minute.required
 msgctxt "report.incident_minute.required"
 msgid "The minute field is required."
-msgstr "វាល​នាទី​ត្រូវ​បាន​ទាមទារ។"
+msgstr "បាន​ទាមទារ​វាល​នាទី។"
 
 #: report.incident_news.url
 msgctxt "report.incident_news.url"
@@ -236,7 +277,7 @@ msgstr "វាល \"ចំណង​ជើង​របាយការណ៍\" ត
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr "អាច​ប៉ះពាល់​ដល់ CSRF ។ តើ​អ្នក​ពិត​ជា​ចង់​បង្កើត/កែ​របាយការណ៍​មែន​ឬ?"
+msgstr "អាច​ប៉ះពាល់​ដល់ CSRF ។ តើ​អ្នក​ពិត​ជា​ចង់​បង្កើត/កែសម្រួល​របាយការណ៍​មែន​ឬ?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"
@@ -268,7 +309,7 @@ msgstr "វាល​រយៈ​ទទឹង​ត្រូវ​បាន​ទ
 #: report.locale.alpha_dash
 msgctxt "report.locale.alpha_dash"
 msgid "The locale field has an incorrect value. "
-msgstr "វាល​​មូលដ្ឋាន (locale) មាន​តម្លៃ​មិន​ត្រឹមត្រូវ។"
+msgstr "វាល​​មូលដ្ឋាន​មាន​តម្លៃ​មិន​ត្រឹមត្រូវ។"
 
 #: report.locale.exists
 msgctxt "report.locale.exists"
@@ -278,7 +319,7 @@ msgstr "របាយការណ៍​នេះ​មាន​ការ​បក
 #: report.locale.length
 msgctxt "report.locale.length"
 msgid "The locale field has an incorrect value. "
-msgstr "វាល​មូលដ្ឋាន (locale) មាន​តម្លៃ​មិន​ត្រឹមត្រូវ។"
+msgstr "វាល​មូលដ្ឋាន​មាន​តម្លៃ​មិន​ត្រឹមត្រូវ។"
 
 #: report.locale.locale
 msgctxt "report.locale.locale"
@@ -296,12 +337,12 @@ msgctxt "report.location_name.length"
 msgid ""
 "The \"Location Name\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr "វាល​ \"ឈ្មោះ​ទីតាំង\" យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន​ ៣ និង​មាន​ប្រវែង​មិន​លើស​ពី ២០០ តួអក្សរ។"
+msgstr "វាល​ \"ឈ្មោះ​ទីតាំង\" យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន​ ៣ តួ​អក្សរ​ និង​មាន​ប្រវែង​មិន​លើស​ពី ២០០ តួអក្សរ​ឡើយ។"
 
 #: report.location_name.required
 msgctxt "report.location_name.required"
 msgid "The \"Location Name\" field is required."
-msgstr "វាល \"ឈ្មោះ​ទីតាំង\" ត្រូវ​បាន​ទាមទារ។"
+msgstr "បាន​ទាមទារ​វាល \"ឈ្មោះ​ទីតាំង\" ។"
 
 #: report.longitude.between
 msgctxt "report.longitude.between"
@@ -313,7 +354,7 @@ msgctxt "report.longitude.required"
 msgid ""
 "The longitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr "វាល​រយៈ​បណ្ដោយ​ត្រូវ​បាន​ទាមទារ។ សូម​ចុច​តំណ​លើ​ផែនទី ដើម្បី​បង្ហាញ​ទីតាំង។"
+msgstr "វាល​រយៈ​បណ្ដោយ​ត្រូវ​បាន​ទាមទារ។ សូម​ចុច​​​លើ​ផែនទី ដើម្បី​បង្ហាញ​ទីតាំង។"
 
 #: report.person_email.email
 msgctxt "report.person_email.email"
@@ -323,19 +364,19 @@ msgstr "វាល​អ៊ីមែល​មិន​បង្ហាញ​ថា
 #: report.person_email.length
 msgctxt "report.person_email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "វាល​​អ៊ីមែល​យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន ៤ និង​មាន​ប្រវែង​មិន​លើស​ពី ៦៤ តួអក្សរ។"
+msgstr "វាល​​អ៊ីមែល​យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន ៤ តួ​អក្សរ​ និង​មាន​ប្រវែង​មិន​លើស​ពី ៦៤ តួអក្សរ​ឡើយ។"
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
 msgid ""
 "The first name field must be at least 3 and no more 100 characters long."
-msgstr "វាល​នាម​ខ្លួន​យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន ៣ និង​មាន​ប្រវែង​មិន​លើស​ពី ១០០ តួអក្សរ​ទេ។"
+msgstr "វាល​នាម​ខ្លួន​យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន ៣ តួ​អក្សរ​ និង​មាន​ប្រវែង​មិន​លើស​ពី ១០០ តួអក្សរ​ទេ។"
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
 msgid ""
 "The last name field must be at least 2 and no more 100 characters long."
-msgstr "វាល​នាម​ខ្លួន​យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន ២ និង​មាន​ប្រវែង​មិន​លើស​ពី ១០០ តួអក្សរ​ទេ។"
+msgstr "វាល​នាម​ត្រកូល​​យ៉ាង​ហោច​ណាស់​ត្រូវ​មាន ២ តួអក្សរ និង​មាន​ប្រវែង​មិន​លើស​ពី ១០០ តួអក្សរ​ទេ។"
 
 #: report.to_date.date_mmddyyyy
 msgctxt "report.to_date.date_mmddyyyy"

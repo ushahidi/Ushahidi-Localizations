@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-08 06:15+0000\n"
-"PO-Revision-Date: 2013-04-09 02:14+0000\n"
+"POT-Creation-Date: 2013-04-09 06:15+0000\n"
+"PO-Revision-Date: 2013-04-10 09:26+0000\n"
 "Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -97,17 +97,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "វាល​បដា​តំបន់​បណ្ដាញ​មិន​បង្ហាញ​ថា​មាន​រូបភាព​ត្រឹមត្រូវ​ទេ ។ ទ្រង់ទ្រាយ​ដែល​ព្រម​ទទួលយក​មាន​តែ .JPG, .PNG and .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "សូម​ប្រាកដ​ថា​ទំហំ \"រូបភាព​បដា\" ​គឺ​តិច​ជាង ២៥០ គីឡូបៃ។"
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "វាល \"រូបភាព​បដា\" ​មិន​បង្ហាញ​​​ថា​មាន​ឯកសារ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -172,7 +172,7 @@ msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "វាល​ពាក្យសម្ងាត់ Clickatell ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​ ៥ ហើយ​មិន​ច្រើន​ជាង ៥០ តួ​អក្សរ​ឡើយ។"
+msgstr "វាល​ពាក្យ​សម្ងាត់ Clickatell ត្រូវតែ​មាន​តួអក្សរ​យ៉ាងតិច​ ៥ ហើយ​មិន​ច្រើន​ជាង ៥០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
@@ -217,7 +217,7 @@ msgstr "បាន​ទាមទារ​វាល​ពណ៌។"
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr "ទិដ្ឋភាព​ផែនទី​លំនាំដើម"
+msgstr "ទិដ្ឋភាព​ផែន​ទី​លំនាំដើម"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
@@ -274,7 +274,7 @@ msgstr "បាន​ទាមទារ​វាល​ប្រភេទ​ម៉
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr "វាល​ឈ្មោះ​អ្នកប្រើ​ម៉ាស៊ីន​មេ​អ៊ីមែល​ត្រូវតែ​មាន​តួអក្សរ​តិច​ជាង៥០។"
+msgstr "វាល​ឈ្មោះ​អ្នកប្រើ​ម៉ាស៊ីន​មេ​អ៊ីមែល​ត្រូវតែ​មាន​តួអក្សរ​​មិន​ច្រើន​ជាង ៥០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
@@ -320,14 +320,14 @@ msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​យូសាហ៊ីឌី​អាច​ចូល​ដំណើរការ​បាន​ក្នុង​របៀប​មិន​សុវត្ថិភាព <strong>ដោយ​មិន​មាន</strong> \"https://\" នៅ​ក្នុង​បុព្វបទ URL"
+msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​ Ushahidi ​អាច​ចូល​ដំណើរការ​បាន​ក្នុង​របៀប​មិន​សុវត្ថិភាព <strong>ដោយ​មិន​មាន</strong> \"https://\" នៅ​ក្នុង​បុព្វបទ URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​យូសាហ៊ីឌី​អាច​ចូល​ដំណើរការ​បាន​ក្នុង​របៀប​មិន​សុវត្ថិភាព​ជាមួយ <strong>https</strong> នៅ​ក្នុង​បុព្វបទ URL"
+msgstr "ជម្រើស​នេះ​ធ្វើឲ្យ​ Ushahidi ​អាច​ចូល​ដំណើរការ​បាន​ក្នុង​របៀប​មិន​សុវត្ថិភាព​ជាមួយ <strong>https</strong> នៅ​ក្នុង​បុព្វបទ URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
@@ -409,7 +409,7 @@ msgstr "ការ​កំណត់​ផែនទី"
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr "តើ​ការ​ប្រើប្រាស់​យូសាហ៊ីឌី​នេះ​មាន​នៅ​ច្រើន​ប្រទេស​ដែរ​ឬទេ?"
+msgstr "តើ​ការ​ប្រើប្រាស់ Ushahidi ​នេះ​មាន​នៅ​ច្រើន​ប្រទេស​ដែរ​ឬទេ?"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -424,7 +424,7 @@ msgstr "ចុច រួច​អូស​ផែនទី​ដើម្បី�
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
-msgstr "ប្រមូលផ្ដុំ​របាយការន៍​នៅ​លើ​ផែនទី"
+msgstr "ប្រមូលផ្ដុំ​របាយការណ៍​នៅ​លើ​ផែនទី"
 
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
@@ -439,7 +439,7 @@ msgstr "រួម​ទាំង​មតិ​ព័ត៌មាន RSS នៅ�
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr "អនុញ្ញាត​អ្នកប្រើ​ឲ្យ​ជាវ​ប្រចាំ​សម្រាប់​ការ​ជូនដំណឹង"
+msgstr "អនុញ្ញាត​អ្នកប្រើ​ឲ្យ​ជាវ​សម្រាប់​ការ​ជូនដំណឹង"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -570,7 +570,7 @@ msgstr "តំបន់បណ្ដាញ​របស់ Laconica"
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr "ភាសា​តំបន់បណ្ដញ"
+msgstr "ភាសា​តំបន់បណ្ដាញ"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
@@ -605,7 +605,7 @@ msgstr "ដាក់​ស្នើ​សារ​របាយការណ៍"
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr "បើក​ស្ថិតិ (បាន​ទុក​នៅ​លើ​ម៉ាស៊ីន​មេ​យូសាហ៊ីឌី)"
+msgstr "បើក​ស្ថិតិ (បាន​ទុក​នៅ​លើ​ម៉ាស៊ីន​មេ​ Ushahidi)"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
@@ -630,7 +630,7 @@ msgstr "លក្ខខណ្ឌ​ស្វែងរក​របស់ Twitter"
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
-msgstr "សញ្ញា​ចំនួន (#) បំបែក​ដោយ​សញ្ញា​ក្បៀស (,)"
+msgstr "សញ្ញា (#) បំបែក​ដោយ​សញ្ញា​ក្បៀស (,)"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
@@ -641,12 +641,12 @@ msgstr "វាល​អ៊ីមែល​របស់​តំបន់បណ្
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr "វាល​អាសយដ្ឋាន​អ៊ីមែល​ត្រូវតែ​មាន​អក្សរ​យ៉ាង​តិច៤ និង​យ៉ាង​ច្រើន១០០។"
+msgstr "វាល​អាសយដ្ឋាន​អ៊ីមែល​ត្រូវតែ​មាន​អក្សរ​យ៉ាង​តិច ៤ និង​​មិន​ច្រើន​ជាង ១០០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr "វាល​ឈ្មោះ​តំបន់បណ្ដាញ​ត្រូវតែ​មាន​អក្សរ​យ៉ាង​តិច​៣ និង​យ៉ាង​ច្រើន​៥០។"
+msgstr "វាល​ឈ្មោះ​តំបន់បណ្ដាញ​ត្រូវតែ​មាន​តួ​​អក្សរ​យ៉ាង​តិច​ ៣ និង​មិន​ច្រើន​ជាង ​៥០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
@@ -656,7 +656,7 @@ msgstr "បាន​ទាមទារ​វាល​ឈ្មោះ​តំប
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
-msgstr "វាល​បន្ទាត់​ស្លាក​ត្រូវតែ​មាន​អក្សរ​យ៉ាងតិច​៣ និង​យ៉ាង​ច្រើន​១០០។"
+msgstr "វាល​បន្ទាត់​ស្លាក​ត្រូវតែ​មាន​តួ​អក្សរ​យ៉ាងតិច​ ៣ និង​មិន​ច្រើន​ជាង ​១០០ តួ​អក្សរ​ឡើយ។"
 
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
@@ -724,12 +724,12 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
 "up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
 " require the key and link below to set up the sync with FrontlineSMS"
-msgstr "សារ​ដែល​បាន​ទទួល​ទៅ​ក្នុង​កម្មវិធី FrontlineSMS អាច​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ជាមួយ​យូសាហ៊ីឌី។ សេចក្ដីណែនាំ​លម្អិត​អំពី​របៀប​ធ្វើ​សមកាលកម្ម​អាច​រក​បាន​នៅ <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">ទីនេះ</a></strong>។ អ្នក​នឹង​តម្រូវឲ្យ​មាន​សោ និង​តំណ​ខាងក្រោម​ដើម្បី​រៀបចំ​សមកាលកម្ម​ជាមួយ FrontlineSMS"
+msgstr "សារ​ដែល​បាន​ទទួល​ទៅ​ក្នុង​កម្មវិធី FrontlineSMS អាច​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ជាមួយ​ Ushahidi។ សេចក្ដីណែនាំ​លម្អិត​អំពី​របៀប​ធ្វើ​សមកាលកម្ម​អាច​រក​បាន​នៅ <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">ទីនេះ</a></strong>។ អ្នក​នឹង​តម្រូវឲ្យ​មាន​សោ និង​តំណ​ខាងក្រោម​ដើម្បី​រៀបចំ​សមកាលកម្ម​ជាមួយ FrontlineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Your Ushahidi Sync Key"
-msgstr "សោ​សមកាលកម្ម​យូសាហ៊ីឌី​របស់​អ្នក"
+msgstr "សោ​សមកាលកម្ម​ Ushahidi របស់​អ្នក"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
@@ -739,7 +739,7 @@ msgstr "តំណ​ប្រកាស FrontlineSMS HTTP"
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Sync with Ushahidi"
-msgstr "ធ្វើ​សមកាលកម្ម​ជាមួយ​យូសាហ៊ីឌី"
+msgstr "ធ្វើ​សមកាលកម្ម​ជាមួយ​ Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -754,12 +754,12 @@ msgstr "បញ្ចូល​លេខ​ខាងក្រោម​ដោយ​
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr "ជម្រើស​ទី១៖ ប្រើ Frontline SMS"
+msgstr "ជម្រើស​ទី ១៖ ប្រើ Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr "ជម្រើស​ទី២៖ ប្រើ​ច្រក SMS សាកល"
+msgstr "ជម្រើស​ទី ២៖ ប្រើ​ច្រក SMS សាកល"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
@@ -769,7 +769,7 @@ msgstr "ជម្រើស​រៀបចំ SMS"
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
 msgid "The phone 1 field does not appear to contain a valid value."
-msgstr "វាល​មួយ​របស់​ទូរស័ព្ទមិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ។"
+msgstr "វាល​មួយ​របស់​ទូរស័ព្ទ​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ។ "
 
 #: settings.sms_no1.numeric
 msgctxt "settings.sms_no1.numeric"
@@ -779,19 +779,51 @@ msgstr "វាល​មួយ​របស់​ទូរស័ព្ទ​គួ
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
-msgstr "វាល​ទី២​របស់​ទូរស័ព្ទ​គឺ​វែង​ពេក។"
+msgstr "វាល​ទី ២ ​របស់​ទូរស័ព្ទ​គឺ​វែង​ពេក។"
 
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr "វាល​ទី២​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោ"
+msgstr "វាល​ទី ២ ​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ "
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
-msgstr "វាល​ទី៣​របស់​ទូរស័ព្ទ​គឺ​វែង​ពេក។"
+msgstr "វាល​ទី ៣​ របស់​ទូរស័ព្ទ​គឺ​វែង​ពេក។"
 
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr "វាល​ទី៣​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ។"
+msgstr "វាល​ទី ៣ ​របស់​ទូរស័ព្ទ​គួរ​មានតែ​លេខ​ប៉ុណ្ណោះ។"
+
+#: settings.twitter.title
+msgctxt "settings.twitter.title"
+msgid "Twitter Setup Options"
+msgstr "ជម្រើស​រៀបចំ Twitter"
+
+#: settings.twitter.description
+msgctxt "settings.twitter.description"
+msgid ""
+"To get the information below, set up your deployment as a new Twitter "
+"application at"
+msgstr "ដើម្បី​ទទួល​បាន​ព័ត៌មាន​ខាងក្រោម រៀបចំ​ការ​ប្រើប្រាស់​របស់​អ្នកជា​កម្មវិធី​ Twitter ថ្មី​នៅ"
+
+#: settings.twitter.api_key
+msgctxt "settings.twitter.api_key"
+msgid "Consumer Key"
+msgstr "សោ​អ្នក​ប្រើប្រាស់"
+
+#: settings.twitter.api_key_secret
+msgctxt "settings.twitter.api_key_secret"
+msgid "Consumer secret"
+msgstr "សោ​អ្នក​ប្រើប្រាស់"
+
+#: settings.twitter.token
+msgctxt "settings.twitter.token"
+msgid "Access Token"
+msgstr "ចូល​ដំណើរការ​​ថូខឹន"
+
+#: settings.twitter.token_secret
+msgctxt "settings.twitter.token_secret"
+msgid "Access Token Secret"
+msgstr "ចូល​ដំណើរការ​ថូខឹន​សម្ងាត់"
