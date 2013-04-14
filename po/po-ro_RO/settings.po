@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-09 06:15+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2013-04-13 06:14+0000\n"
+"PO-Revision-Date: 2013-04-13 08:47+0000\n"
+"Last-Translator: Monica Ipate <monica.ipate@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,7 +23,7 @@ msgstr "Cîmpul de permitere a comentariilor nu pare să conțină o valoare val
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr "Cîmpul de permitere a comentariilor este obligatoriu."
+msgstr "Câmpul de permitere a comentariilor este necesar."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
@@ -200,7 +200,7 @@ msgstr "Locația implicită "
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "Câmpul culoare feed nu pare să conțină o valoare validă."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
@@ -230,7 +230,7 @@ msgstr ""
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Câmpul ce conține mail server port este prea lung."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
@@ -242,7 +242,7 @@ msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Câmpul Parola server mail trebuie să aiba cel putin 5 dar nu mai mult de 50 de caractere lungime."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
@@ -262,12 +262,12 @@ msgstr ""
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Câmpul ce conține mail server port este prea lung."
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "Câmpul ce conține tipul de mail server este necesar."
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
@@ -330,7 +330,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -370,7 +370,7 @@ msgstr "Nivel zoom"
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
-msgstr ""
+msgstr "Selecteaza furnizor harta"
 
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
@@ -407,7 +407,7 @@ msgstr "Setari harta"
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr ""
+msgstr "Are această implementare Ushahidi deschidere în mai multe țări?"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -512,7 +512,7 @@ msgstr ""
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "Adresa de email a alertelor"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -573,7 +573,7 @@ msgstr "Limba site"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Aprobă manual utilizatorii"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -593,7 +593,7 @@ msgstr "Implementare privată"
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Necesita email de confirmare a utilizatorului"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
@@ -644,12 +644,12 @@ msgstr ""
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "Câmpul nume trebuie să aibă cel puțin 3 dar nu mai mult de 50 de caractere lungime."
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "Câmpul ce conține numele site-ului este necesar."
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
@@ -702,42 +702,40 @@ msgstr ""
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
 msgid ""
-"FrontlineSMS is free open source software that turns a laptop and a mobile "
-"phone into a central communications hub. Once installed, the program enables"
-" users to send and receive text messages with large groups of people through"
-" mobile phones. Click on the grey box to request a download from "
-"FrontlineSMS.com"
+"FrontlineSMS is free and open source software that enables users to send and"
+" receive text messages with large groups of people through mobile phones. "
+"Click on the box below to download the latest version from FrontlineSMS.com."
 msgstr ""
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
-msgid "Download Frontline SMS and install it on your computer"
+msgid "Download and install FrontlineSMS"
 msgstr ""
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
 msgid ""
-"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a "
-"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
-"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
-" require the key and link below to set up the sync with FrontlineSMS"
-msgstr ""
-
-#: settings.sms.flsms_key
-msgctxt "settings.sms.flsms_key"
-msgid "Your Ushahidi Sync Key"
+"Detailed instructions on how to send SMS from your FronlineSMS installation "
+"are available <strong><a "
+"href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
+"target=\"_blank\">here</a></strong>. The URL and API Key below are required "
+"to set up the sync with FrontlineSMS."
 msgstr ""
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
-msgid "FrontlineSMS HTTP Post LINK"
+msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
+msgstr ""
+
+#: settings.sms.flsms_key
+msgctxt "settings.sms.flsms_key"
+msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
 msgstr ""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
-msgid "Sync with Ushahidi"
-msgstr "Sincronizare cu Ushahidi"
+msgid "Connecting FrontlineSMS to this Ushahidi deployment"
+msgstr ""
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -819,9 +817,9 @@ msgstr ""
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Token acces"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Tokensecret acces"

@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-09 06:15+0000\n"
+"POT-Creation-Date: 2013-04-13 06:14+0000\n"
+"PO-Revision-Date: 2013-04-13 06:14+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -703,42 +703,40 @@ msgstr "Votre nom d\\'utilisateur Clickatell"
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
 msgid ""
-"FrontlineSMS is free open source software that turns a laptop and a mobile "
-"phone into a central communications hub. Once installed, the program enables"
-" users to send and receive text messages with large groups of people through"
-" mobile phones. Click on the grey box to request a download from "
-"FrontlineSMS.com"
-msgstr "FrontlineSMS est un logiciel libre open source qui transforme un ordinateur portable et un téléphone mobile en centrale de communication. Une fois installé, le programme permet aux utilisateurs d\\'envoyer et de recevoir des messages texte avec de grands groupes de personnes par téléphones mobiles. Cliquez sur la case grise pour télécharger l\\'application via FrontlineSMS.com"
+"FrontlineSMS is free and open source software that enables users to send and"
+" receive text messages with large groups of people through mobile phones. "
+"Click on the box below to download the latest version from FrontlineSMS.com."
+msgstr ""
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
-msgid "Download Frontline SMS and install it on your computer"
-msgstr "Téléchargez Frontline SMS et installez-le sur votre ordinateur"
+msgid "Download and install FrontlineSMS"
+msgstr ""
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
 msgid ""
-"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a "
-"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
-"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
-" require the key and link below to set up the sync with FrontlineSMS"
-msgstr "Les messages reçus par la plateforme FrontlineSMS peut être synchronisés avec Ushahidi. Des instructions détaillées sur la façon de synchroniser la plateforme peuvent être trouvées <strong><a href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">ici</a></strong>. Vous aurez besoin de la clé et du lien ci-dessous pour configurer la synchronisation avec FrontlineSMS"
-
-#: settings.sms.flsms_key
-msgctxt "settings.sms.flsms_key"
-msgid "Your Ushahidi Sync Key"
-msgstr "Votre clé de Synchronisation Ushahidi"
+"Detailed instructions on how to send SMS from your FronlineSMS installation "
+"are available <strong><a "
+"href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
+"target=\"_blank\">here</a></strong>. The URL and API Key below are required "
+"to set up the sync with FrontlineSMS."
+msgstr ""
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
-msgid "FrontlineSMS HTTP Post LINK"
-msgstr "Lien HTTP du post FrontlineSMS"
+msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
+msgstr ""
+
+#: settings.sms.flsms_key
+msgctxt "settings.sms.flsms_key"
+msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
+msgstr ""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
-msgid "Sync with Ushahidi"
-msgstr "Sync avec Ushahidi"
+msgid "Connecting FrontlineSMS to this Ushahidi deployment"
+msgstr ""
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"

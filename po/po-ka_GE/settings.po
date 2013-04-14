@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-09 06:15+0000\n"
+"POT-Creation-Date: 2013-04-13 06:14+0000\n"
+"PO-Revision-Date: 2013-04-13 06:14+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -701,42 +701,40 @@ msgstr "თქვენი Clickatell-ის მომხმარებლი�
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
 msgid ""
-"FrontlineSMS is free open source software that turns a laptop and a mobile "
-"phone into a central communications hub. Once installed, the program enables"
-" users to send and receive text messages with large groups of people through"
-" mobile phones. Click on the grey box to request a download from "
-"FrontlineSMS.com"
-msgstr "FrontlineSMS არის უფასო პროგრამული უზრუნველყოფის წყარო რომელიც რთავს ლეპტოპსა და მობილურ ტელეფონს ცენტრალური კომუნიკაციის კერაში/hub. ერთხელ დაინსტალირებით, პროგრამა საშუალებას აძლევს მომხმარებლებს გზავნონ და მიიღონ ტექსტური შეტყობინებები დიდი მოცულობის ჯგუფებთან მობილური ტელეფონის საშუალებით. დააწკაპეთ რუხ ყუთს გადმოსაწერად FrontlineSMS.com-დან"
+"FrontlineSMS is free and open source software that enables users to send and"
+" receive text messages with large groups of people through mobile phones. "
+"Click on the box below to download the latest version from FrontlineSMS.com."
+msgstr ""
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
-msgid "Download Frontline SMS and install it on your computer"
-msgstr "გადმოიწერეთ Frontline SMS და დააინსტალეთ თქვენს კომპიუტერზე"
+msgid "Download and install FrontlineSMS"
+msgstr ""
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
 msgid ""
-"Messages received into a FrontlineSMS hub can be synched with Ushahidi. "
-"Detailed instructions on how to sync can be found <strong><a "
-"href=\"http://wiki.ushahidi.com/display/WIKI/How+to+Set-"
-"up+FrontlineSMS+and+Ushahidi\" target=\"_blank\">here</a></strong>. You will"
-" require the key and link below to set up the sync with FrontlineSMS"
-msgstr "შეტყობინებები მიღებული FrontlineSMS-ის წყაროდან/კერიდან/hub შესაძლებელი იქნება სინქრონიზირდეს უშაჰიდით.დეტალური ინსტრუქცია როგორ უნდა სინქრონიზირდეს <strong><a href=\"http://wiki.ushahididev.com/doku.php?id=how_to_use_ushahidi_alpha#how_to_setup_frontlinesms_to_sync_with_ushahidi\" target=\"_blank\">here</a></strong>.თქვენ დაგჭირდებათ პაროლი/key და ბმული/link ქვემოდან რომ მოახდინოთ სინქრონიზაციის დაყენებაFrontlineSMS"
-
-#: settings.sms.flsms_key
-msgctxt "settings.sms.flsms_key"
-msgid "Your Ushahidi Sync Key"
-msgstr "თქვენი Ushahidi-ის სინქრონიზაციის პაროლი/key"
+"Detailed instructions on how to send SMS from your FronlineSMS installation "
+"are available <strong><a "
+"href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
+"target=\"_blank\">here</a></strong>. The URL and API Key below are required "
+"to set up the sync with FrontlineSMS."
+msgstr ""
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
-msgid "FrontlineSMS HTTP Post LINK"
-msgstr "FrontlineSMS HTTP პოსტის ბმული"
+msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
+msgstr ""
+
+#: settings.sms.flsms_key
+msgctxt "settings.sms.flsms_key"
+msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
+msgstr ""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
-msgid "Sync with Ushahidi"
-msgstr "სინქრონიზაცია უშაჰიდის საშუალებით"
+msgid "Connecting FrontlineSMS to this Ushahidi deployment"
+msgstr ""
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
