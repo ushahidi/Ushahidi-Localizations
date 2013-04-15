@@ -92,6 +92,7 @@ $lang = array(
 	'facebook' => array(
 		'title' => 'Facebook Setup Options',
 		'description' => 'To get the information below you will need to create a new Facebook application at',
+		'description_2' => 'These settings allow users to login via Facebook, this <strong>does not</strong> create a facebook application for your deployment',
 		'app_id' => 'Facebook App ID',
 		'app_secret' => 'Facebook App Secret',
 	) ,
