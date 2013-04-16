@@ -227,6 +227,8 @@ $lang = array(
 		'api_key_secret' => 'Consumer secret',
 		'token' => 'Access Token',
 		'token_secret' => 'Access Token Secret',
-	) 
+	),
+	'test_settings' => 'Test settings' 
+
 );
 ?>
