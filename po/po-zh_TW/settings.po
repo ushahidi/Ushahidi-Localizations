@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-13 06:14+0000\n"
-"PO-Revision-Date: 2013-04-13 06:14+0000\n"
+"POT-Creation-Date: 2013-04-17 06:05+0000\n"
+"PO-Revision-Date: 2013-04-17 06:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -289,6 +289,13 @@ msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
+msgstr ""
+
+#: settings.facebook.description_2
+msgctxt "settings.facebook.description_2"
+msgid ""
+"These settings allow users to login via Facebook, this <strong>does "
+"not</strong> create a facebook application for your deployment"
 msgstr ""
 
 #: settings.facebook.app_id
@@ -822,4 +829,9 @@ msgstr ""
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
+msgstr ""
+
+#: settings.test_settings
+msgctxt "settings.test_settings"
+msgid "Test settings"
 msgstr ""

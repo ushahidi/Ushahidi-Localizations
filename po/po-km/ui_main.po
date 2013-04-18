@@ -1,18 +1,18 @@
 # 
 # Translators:
-# APC & Open Institute < techinfo@apc.org ; Vannak Aphimongkul Eng <vannak.eng@gmail.com>, 2012.
-# Ath Ell <ellsomath@gmail.com>, 2013.
-# Ben Hass <benhass+transifex@gmail.com>, 2013.
-# Sok Sophea <sophea@open.org.kh>, 2013.
-#   <techinfo@apc.org>, 2012.
-# Vantharith Oum <vantharith.oum@gmail.com>, 2012.
+# APC & Open Institute < techinfo@apc.org ; Vannak Aphimongkul Eng <vannak.eng@gmail.com>, 2012
+# athell <ellsomath@gmail.com>, 2013
+# benhass <benhass+transifex@gmail.com>, 2013
+# soksophea <sophea@open.org.kh>, 2013
+# apctech <techinfo@apc.org>, 2012
+# Vantharith OUM <vantharith.oum@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-10 07:50+0000\n"
-"Last-Translator: soksophea <sophea@open.org.kh>\n"
+"POT-Creation-Date: 2013-04-16 06:15+0000\n"
+"PO-Revision-Date: 2013-04-17 06:07+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -219,6 +219,16 @@ msgstr "ទាំង​អស់​"
 msgctxt "ui_main.allowed"
 msgid "Allowed"
 msgstr "បាន​អនុញ្ញាត"
+
+#: ui_main.allowed_tags
+msgctxt "ui_main.allowed_tags"
+msgid "Allowed HTML tags: \"%s\"."
+msgstr ""
+
+#: ui_main.allowed_iframes
+msgctxt "ui_main.allowed_iframes"
+msgid "Iframes are only allowed from: %s."
+msgstr ""
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"

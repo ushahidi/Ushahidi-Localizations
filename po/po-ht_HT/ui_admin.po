@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-01-15 06:11+0000\n"
-"PO-Revision-Date: 2013-01-15 06:04+0000\n"
+"POT-Creation-Date: 2013-04-17 06:05+0000\n"
+"PO-Revision-Date: 2013-04-17 06:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -472,6 +472,11 @@ msgstr ""
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
+msgstr ""
+
+#: ui_admin.error_twitter
+msgctxt "ui_admin.error_twitter"
+msgid "Incorrect Credentials"
 msgstr ""
 
 #: ui_admin.error_msg

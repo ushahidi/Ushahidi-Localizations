@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Seng Sutha <sutha@open.org.kh>, 2013.
-# Sok Sophea <sophea@open.org.kh>, 2013.
+# Sutha <sutha@open.org.kh>, 2013
+# soksophea <sophea@open.org.kh>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-13 06:14+0000\n"
-"PO-Revision-Date: 2013-04-13 06:14+0000\n"
+"POT-Creation-Date: 2013-04-17 06:05+0000\n"
+"PO-Revision-Date: 2013-04-17 06:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
@@ -292,6 +292,13 @@ msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
 msgstr "ដើម្បី​ទទួល​បាន​ព័ត៌មាន​ខាងក្រោម អ្នក​ចាំបាច់​ត្រូវ​បង្កើត​កម្មវិធី Facebook ថ្មី​នៅ"
+
+#: settings.facebook.description_2
+msgctxt "settings.facebook.description_2"
+msgid ""
+"These settings allow users to login via Facebook, this <strong>does "
+"not</strong> create a facebook application for your deployment"
+msgstr ""
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -825,3 +832,8 @@ msgstr "ចូល​ដំណើរការ​​ថូខឹន"
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
 msgstr "ចូល​ដំណើរការ​ថូខឹន​សម្ងាត់"
+
+#: settings.test_settings
+msgctxt "settings.test_settings"
+msgid "Test settings"
+msgstr ""

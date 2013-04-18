@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-09 06:16+0000\n"
+"POT-Creation-Date: 2013-04-16 06:15+0000\n"
+"PO-Revision-Date: 2013-04-17 06:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -212,6 +212,16 @@ msgstr "Gach"
 msgctxt "ui_main.allowed"
 msgid "Allowed"
 msgstr "Ceadaithe"
+
+#: ui_main.allowed_tags
+msgctxt "ui_main.allowed_tags"
+msgid "Allowed HTML tags: \"%s\"."
+msgstr ""
+
+#: ui_main.allowed_iframes
+msgctxt "ui_main.allowed_iframes"
+msgid "Iframes are only allowed from: %s."
+msgstr ""
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"

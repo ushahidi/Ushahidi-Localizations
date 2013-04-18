@@ -1,16 +1,16 @@
 # 
 # Translators:
-# Alexandre B. <0xfuture@gmail.com>, 2013.
-#   <maurajonathan@hotmail.com>, 2012.
-#   <rjmackay@gmail.com>, 2012.
-# Robbie MacKay <robbie@ushahidi.com>, 2012.
-#   <tayachi.wajdi@gmail.com>, 2012.
+# Alexandre Breteau <0xfuture@gmail.com>, 2013
+# ooj <maurajonathan@hotmail.com>, 2012
+# Robbie MacKay <robbie@ushahidi.com>, 2012
+# Robbie MacKay <robbie@ushahidi.com>, 2012
+# vanhalen <tayachi.wajdi@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-09 06:16+0000\n"
+"POT-Creation-Date: 2013-04-16 06:15+0000\n"
+"PO-Revision-Date: 2013-04-17 06:07+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -218,6 +218,16 @@ msgstr "Tout"
 msgctxt "ui_main.allowed"
 msgid "Allowed"
 msgstr "Permis"
+
+#: ui_main.allowed_tags
+msgctxt "ui_main.allowed_tags"
+msgid "Allowed HTML tags: \"%s\"."
+msgstr ""
+
+#: ui_main.allowed_iframes
+msgctxt "ui_main.allowed_iframes"
+msgid "Iframes are only allowed from: %s."
+msgstr ""
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
