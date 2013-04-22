@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-04-22 02:43+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -123,12 +123,12 @@ msgstr "វាល​ទំព័រ​ឃ្លាំង​សម្ងាត់
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr "វាល​ជំនាន់​ទំព័រ​ឃ្លាំង​សម្ងាត់​មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "វាល​ជំនាន់​​​ទំព័រ​ឃ្លាំង​​​សម្ងាត់​​មិន​​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr "បាន​ទាមទារ​វាល​ជំនាន់​ទំព័រ​ឃ្លាំង​សម្ងាត់។"
+msgstr "បាន​ទាមទារ​វាល​ជំនាន់​ទំព័រ​ឃ្លាំង​​សម្ងាត់។"
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -138,7 +138,7 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr "ម៉ាស៊ីន​មេ​របស់​អ្នក​ហាក់​ដូចជា​មិន​បាន​កំណត់​រចនាសម្ព័ន្ធ​ដើម្បី​ប្រើ URLs ត្រឹមត្រូវ។ អ្នក​ចាំបាច់​ត្រូវ​ប្ដូរ​ការ​កំណត់​រចនាសម្ព័ន្ធ​ម៉ាស៊ីន​មេ​របស់​អ្នក​ជាមុន ទើប​អាច​បើក URLs ត្រឹមត្រូវ​បាន។ មើល​ព័ត៌មាន​បន្ថែម​អំពី​របៀប​បើក URLs ត្រឹមត្រូវ​នៅ <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">សម្រាប់​វេទិកា​ប្រកាស​នេះ</a>"
+msgstr "ម៉ាស៊ីន​មេ​របស់​អ្នក​ហាក់​ដូចជា​មិន​បាន​កំណត់​រចនាសម្ព័ន្ធ​ដើម្បី​ប្រើ URLs ​ត្រឹមត្រូវ​។ អ្នក​ចាំបាច់​ត្រូវ​ប្ដូរ​ការ​កំណត់​រចនាសម្ព័ន្ធ​ម៉ាស៊ីន​មេ​របស់​អ្នក​ជាមុន ទើប​អាច​បើក URLs ត្រឹមត្រូវ​បាន។ មើល​ព័ត៌មាន​បន្ថែម​អំពី​របៀប​បើក URLs ត្រឹមត្រូវ​នៅ <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">សម្រាប់​វេទិកា​ប្រកាស​នេះ</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
@@ -192,7 +192,7 @@ msgstr "បាន​ទាមទារ​វាល​ឈ្មោះ​អ្ន
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr "កំណត់​រចនាសម្ព័ន្ធ​ផែនទី"
+msgstr "កំណត់​​រចនាសម្ព័ន្ធ​ផែនទី"
 
 #: settings.default_location
 msgctxt "settings.default_location"
@@ -222,7 +222,7 @@ msgstr "ទិដ្ឋភាព​ផែន​ទី​លំនាំដើម
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr "កម្រិត​ពង្រីក​លំនាំដើម"
+msgstr "កម្រិត​​ពង្រីក​លំនាំដើម"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
@@ -298,7 +298,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "ការ​កំណត់​នេះ​អនុញ្ញាត​ឲ្យ​អ្នក​ប្រើ​តាម​រយៈ Facebook  វា <strong>មិន</strong> បង្កើត​កម្មវិធី​ facebook សម្រាប់​ការ​ប្រើប្រាស់​របស់​អ្នក​ឡើយ"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -346,7 +346,7 @@ msgctxt "settings.items_per_page.between"
 msgid ""
 "The items per page (Frontend) field does not appear to contain a valid "
 "value."
-msgstr "វាល​ធាតុ​ក្នុង​មួយ​ទំព័រ (ផ្នែក​ខាងមុខ) មិន​បង្ហាញ​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
+msgstr "វាល​ធាតុ​ក្នុង​មួយ​ទំព័រ (ផ្នែក​ខាងមុខ) ​មិន​បង្ហាញ​​ថា​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
@@ -369,7 +369,7 @@ msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr "ការ​រៀបចំ​ក្រុមហ៊ុន​ផ្ដល់​ផែន​ទី​របស់​អ្នក​គឺ​ដំណើរការ​យ៉ាង​ងាយស្រួល​មួយ។ ជ្រើស​ក្រុមហ៊ុន​ផ្ដល់​ដែល​មាន​សោ API ពី​តំបន់​បណ្ដាញ​របស់​ក្រុមហ៊ុន​ផ្ដល់ និង​បញ្ចូល​សោ API ។"
+msgstr "​ការ​​រៀបចំ​ក្រុមហ៊ុន​ផ្ដល់​ផែន​ទី​របស់​អ្នក​គឺ​ដំណើរការ​យ៉ាង​ងាយស្រួល​មួយ។ ជ្រើស​ក្រុមហ៊ុន​ផ្ដល់​ដែល​មាន​សោ API ពី​តំបន់​បណ្ដាញ​របស់​ក្រុមហ៊ុន​ផ្ដល់ និង​បញ្ចូល​សោ API ។"
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
@@ -714,12 +714,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS គឺជា​កម្មវិធី​កូដ​ចំហ​ឥត​បង់ថ្លៃ​ដែល​អ្នក​ប្រើ​អាច​ផ្ញើ និង​ទទួល​សារ​អត្ថបទ​ជា​ក្រុម​តាម​រយៈ​ទូរស័ព្ទ​ចល័ត​។ ចុច​នៅ​លើ​ប្រអប់​ខាង​ក្រោម ដើម្បី​ទាញ​យក​កំណែ​ចុងក្រោយ​ពី FrontlineSMS.com។"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "ទាញ​យក និង​ដំឡើង FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -729,22 +729,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "សេចក្ដី​ណែនាំ​លម្អិត​អំពី​របៀប​ផ្ញើ​សារ SMS ពី​ការ​ដំឡើង FronlineSMS របស់​អ្នក​​​​ <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">here</a></strong>។  URL និង​សោ API ខាងក្រោម​ត្រូវ​បាន​ទាមទារ​ដើម្បី​រៀបចំ​ធ្វើ​សមកាលកម្ម​​ជាមួយ FrontlineSMS។"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "ចម្លង និង​បិទភ្ជាប់​វា​ទៅ​កាន់​វាល  \"អាសយដ្ឋាន\" FrontlineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "ចម្លង និង​បិទភ្ជាប់​វា​ទៅកាន់​វាល  FrontlineSMS \"Ushahidi API Key\""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "តភ្ជាប់ FrontlineSMS ទៅ​កាន់​ការ​ប្រើប្រាស់ Ushahidi នេះ"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -836,4 +836,4 @@ msgstr "ចូល​ដំណើរការ​ថូខឹន​សម្ងា
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "កំណត់​ការ​សាកល្បង"

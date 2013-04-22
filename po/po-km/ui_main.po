@@ -3,6 +3,7 @@
 # APC & Open Institute < techinfo@apc.org ; Vannak Aphimongkul Eng <vannak.eng@gmail.com>, 2012
 # athell <ellsomath@gmail.com>, 2013
 # benhass <benhass+transifex@gmail.com>, 2013
+# Sutha <sutha@open.org.kh>, 2013
 # soksophea <sophea@open.org.kh>, 2013
 # apctech <techinfo@apc.org>, 2012
 # Vantharith OUM <vantharith.oum@gmail.com>, 2012
@@ -11,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-04-22 04:49+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -448,7 +449,7 @@ msgstr "បិទ"
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr "ចង្កោម"
+msgstr "ក្រុម"
 
 #: ui_main.color
 msgctxt "ui_main.color"
@@ -939,7 +940,7 @@ msgstr "រក​ទីតាំង"
 #: ui_main.first_name
 msgctxt "ui_main.first_name"
 msgid "First Name"
-msgstr "នាម​"
+msgstr "នាម​ខ្លួន"
 
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
@@ -954,7 +955,7 @@ msgstr "ភ្លេច​ពាក្យសម្ងាត់​របស់​
 #: ui_main.form
 msgctxt "ui_main.form"
 msgid "Form"
-msgstr "ទម្រង់បែបបទ"
+msgstr "ទម្រង់​បែបបទ"
 
 #: ui_main.forms
 msgctxt "ui_main.forms"
@@ -1054,7 +1055,7 @@ msgstr "លាក់​សារ​នេះ"
 #: ui_main.home
 msgctxt "ui_main.home"
 msgid "Home"
-msgstr "ផ្ទះ"
+msgstr "ដើម"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
@@ -1266,7 +1267,7 @@ msgstr "ខែមុន"
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr "គោត្តនាម"
+msgstr "នាម​ត្រកូល"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
@@ -1316,7 +1317,7 @@ msgstr "បន្ថយ​ព័ត៌មាន"
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr "កំរិត"
+msgstr "កម្រិត"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
@@ -1326,7 +1327,7 @@ msgstr "កម្រិត​នេះ​បាន"
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr "ឈ្មោះ​កំរិត"
+msgstr "ឈ្មោះ​កម្រិត"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
@@ -1524,12 +1525,12 @@ msgstr "ច្រើន​ទៀត"
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr "ពត៌មាន​បន្ថែម"
+msgstr "ព័ត៌មាន​បន្ថែម"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr "តើ​ការ​អភិវឌ្ឍ​យូសាហ៊ីឌី​នេះ​បាន​ទៅដល់​ប្រទេស​ច្រើន​ដែរ​ឬទេ"
+msgstr "តើ​ការ​អភិវឌ្ឍ Ushahidi ​នេះ​បាន​ទៅដល់​ប្រទេស​ច្រើន​ដែរ​ឬទេ"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
@@ -1696,7 +1697,7 @@ msgstr "សេចក្ដី​ពណ៌នា​ពី​ស្ថាប័ន
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
 msgid "Organization Email"
-msgstr "អ៊ីម៉ែល​ស្ថាប័ន"
+msgstr "អ៊ីមែល​ស្ថាប័ន"
 
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
@@ -1746,7 +1747,7 @@ msgstr "ការប្រើប្រាស់​ផ្សេងទៀត"
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr "ប្រអប់ចេញ"
+msgstr "ប្រអប់​ចេញ"
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
@@ -2024,7 +2025,7 @@ msgstr "អ៊ីមែល​អ្នក​រាយការណ៍"
 #: ui_main.reporter_first_name
 msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
-msgstr "នាម​អ្នក​រាយការណ៍"
+msgstr "​នាម​ខ្លួន​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_has_been
 msgctxt "ui_main.reporter_has_been"
@@ -2039,7 +2040,7 @@ msgstr "អាសយដ្ឋាន IP របស់​អ្នក​រាយ�
 #: ui_main.reporter_last_name
 msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
-msgstr "គោត្តនាម​អ្នក​រាយការណ៍"
+msgstr "នាមត្រកូល​​​អ្នក​រាយការណ៍"
 
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
@@ -2074,7 +2075,7 @@ msgstr "ដាក់​ស្នើ"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr "របាយការណ៏​ដោយ​អ្នកប្រើ​នេះ"
+msgstr "របាយការណ៍​ដោយ​អ្នកប្រើ​នេះ"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2119,12 +2120,12 @@ msgstr "រក​ទីតាំង​ដែល​នៅ​ជិត​អ្ន
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
 msgid "First Name"
-msgstr "នាម"
+msgstr "នាម​ខ្លួន"
 
 #: ui_main.reports_last
 msgctxt "ui_main.reports_last"
 msgid "Last Name"
-msgstr "គោត្តនាម"
+msgstr "នាមត្រកូល​​"
 
 #: ui_main.reports_location_name
 msgctxt "ui_main.reports_location_name"
@@ -2149,7 +2150,7 @@ msgstr "ផ្ទុក​រូបភាព​ឡើង​"
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr "ត្រឡប់​ទៅ​ទំព័រ​របាយការណ៏"
+msgstr "ត្រឡប់​ទៅ​ទំព័រ​របាយការណ៍"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
@@ -2161,7 +2162,7 @@ msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr "របាយការណ៏​របស់​អ្នក​បាន​បញ្ជូន​ទៅកាន់​បុគ្គលិក​របស់​យើង​ដើម្បី​ត្រួតពិនិត្យ។​ យើង​ជូនដំណឹង​ត្រឡប់មកវិញ​យ៉ាង​ឆាប់​បំផុត។"
+msgstr "របាយការណ៍​របស់​អ្នក​បាន​បញ្ជូន​ទៅកាន់​បុគ្គលិក​របស់​យើង​ដើម្បី​ត្រួតពិនិត្យ។​ យើង​ជូនដំណឹង​ត្រឡប់មកវិញ​យ៉ាង​ឆាប់​បំផុត។"
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
@@ -2191,7 +2192,7 @@ msgstr "តំណ​វីដេអូ"
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr "រាយការណ៏​ព្រឹត្តិការណ៏"
+msgstr "រាយការណ៍​​ព្រឹត្តិការណ៍"
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
@@ -2211,7 +2212,7 @@ msgstr "តាមរយៈ​ការ​ផ្ញើ​អ៊ីមែល"
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr "តាមរយៈ​ការ​ផ្ញើ​សារ​ជាមួយ​កម្មវិធី Twiter"
+msgstr "ការ​ផ្ញើ​តាម​​រយៈ ​tweet ដោយ​ប្រើ​សញ្ញា #  hashtag/s"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
@@ -2358,7 +2359,7 @@ msgstr "នាទី"
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr "ថ្ងៃ​នៃ​សប្តាហ៍"
+msgstr "ថ្ងៃ​នៃ​សប្ដាហ៍​"
 
 #: ui_main.search
 msgctxt "ui_main.search"
@@ -2368,7 +2369,7 @@ msgstr "ស្វែងរក"
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
 msgid "Search Results"
-msgstr "លទ្ឋផល​ស្វែងរក"
+msgstr "លទ្ធផល​ស្វែងរក​"
 
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
