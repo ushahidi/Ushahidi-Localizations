@@ -1,13 +1,14 @@
 # 
 # Translators:
+# lidiacibor <lidka.cibor@gmail.com>, 2013
 # michalmacki <michalmacki@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-05-03 06:06+0000\n"
+"Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -95,17 +96,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Baner strony nie zawiera obrazka w obsługiwanym formacie. Użyj pliku .JPG, .GIF lub .PNG"
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Upewnij się proszę, że obrazek na baner jest mniejszy niż 250 KB."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "Pole z banerem strony zawiera nieprawidłowy format obrazka."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -296,7 +297,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Te ustawienia umożliwiają logowanie się użytkowników za pomocą kont Facebooka. Ustawienia <strong> nie są</strong> tożsame z utworzeniem aplikacji da strony.l"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -712,12 +713,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS to oprogramowanie na licencji Open Source umożliwiające wysyłanie i odbieranie SMSów od dużej grupy ludzi za pomocą telefonów komórkowych. Pobierz najnowszą wersję FrontlineSMS z frontlinesms.com."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Pobierz i zainstaluj FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -727,22 +728,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Dokładne instrukcje jak odbierać SMSy znajdują się<strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">tutaj</a></strong>. URL i Klucz API są konieczne do uruchomienia synchronizacji FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Skopiuj i wklej to do pola adresu FrontlineSMS."
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Skopiuj to i wklej do pola klucz API Ushahidi w FrontlineSMS"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Trwa łączenie z FrontlineSMS"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -802,36 +803,36 @@ msgstr "Pole \"telefon 3\" może zawierać wyłącznie liczby."
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Ustawienia konfiguracji konta Twitter."
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Aby pobrać tutaj dane ustaw jako nową aplikację Twittera na"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Klucz klienta"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Tajny klucz klienta"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Klucz dostępu"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Tajny klucz dostępu"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Testuj ustawienia"
