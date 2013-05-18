@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-05-16 08:05+0000\n"
+"PO-Revision-Date: 2013-05-17 10:18+0000\n"
 "Last-Translator: savi <savibohra@live.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -550,7 +550,7 @@ msgstr "सृजना गर्नुहोस / संपादित"
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr ""
+msgstr "नया सृजना गर्नुहोस "
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
@@ -590,7 +590,7 @@ msgstr "\t\n\t\nतिथि"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "माहिना /दिन / साल "
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -690,7 +690,7 @@ msgstr "\t\n\t\nनिर्योग्य"
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr ""
+msgstr "अनुमोदन न भएको "
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
@@ -874,7 +874,7 @@ msgstr ""
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr ""
+msgstr "फ़ीड विषय "
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
@@ -904,12 +904,12 @@ msgstr ""
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "चाल्नी हरु "
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "प्रतिवेदनहरु चाल्नुहोस "
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
@@ -1124,12 +1124,12 @@ msgstr "श्रेणी हरु समावेश गरनुहोस"
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "कस्टम फ़ील्ड हरु समावेश गरनुहोस"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr ""
+msgstr "पृष्ठ विवरण समावेश गरनुहोस"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
@@ -1139,17 +1139,17 @@ msgstr ""
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr ""
+msgstr "अक्षांश समावेश गरनुहोस"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr ""
+msgstr "स्थान सूचना समावेश गरनुहोस"
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr ""
+msgstr "देशान्तर समावेश गरनुहोस"
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
@@ -1159,17 +1159,17 @@ msgstr ""
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "आउने मीडिया "
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr ""
+msgstr "सूचना को मूल्यांकन"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
-msgstr ""
+msgstr "आफ्नो यथार्थ स्थान दर्ता गर्नुहोस "
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
@@ -1181,42 +1181,42 @@ msgstr ""
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr ""
+msgstr "को जवाब मा"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "आईपी ​​पता"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "के यो तपाइको प्रोफाइल हो ?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "विषय"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "विषय हरु "
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "विषय_विवरण"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "विषय शीर्षक"
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr ""
+msgstr "समाधान"
 
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
@@ -1241,47 +1241,47 @@ msgstr ""
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "संक्षिप्त"
 
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr ""
+msgstr "भाषा "
 
 #: ui_main.last
 msgctxt "ui_main.last"
 msgid "Last"
-msgstr ""
+msgstr "अंतिम"
 
 #: ui_main.last_month
 msgctxt "ui_main.last_month"
 msgid "Last Month"
-msgstr ""
+msgstr "गएको महिना "
 
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr " उप नाम"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
 msgid "Last Year"
-msgstr ""
+msgstr "गएको वर्ष"
 
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "अक्षांश"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "तह हरु "
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "अन्य तह "
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
@@ -1291,7 +1291,7 @@ msgstr ""
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "तह को नाम"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
@@ -1306,12 +1306,12 @@ msgstr ""
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "थोरै सूचना"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "स्तर"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
@@ -1321,47 +1321,47 @@ msgstr ""
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "स्तर को नाम "
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "सीमित"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "लिंक"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "सूची"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "प्रतिवेदनहरु लोड हुँदै छ"
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "स्थान "
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "स्थान हरु"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "शहर, राज्य  / देश"
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "लॉगिन"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
@@ -1392,22 +1392,22 @@ msgstr ""
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "ईमेल तथा पासवर्ड"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "खुला आईडी"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "साइन अप"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "एउटा खाता बनाउहोस"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
@@ -1429,12 +1429,12 @@ msgstr ""
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "देशान्तर "
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "नक्शा"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
@@ -1454,17 +1454,17 @@ msgstr ""
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "मीडिया"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr ""
+msgstr "मीडिया चाल्नी "
 
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "सदस्य"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
@@ -1484,7 +1484,7 @@ msgstr ""
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr ""
+msgstr "संदेश विवरण"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
@@ -1494,32 +1494,32 @@ msgstr ""
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "मोबाइल"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr ""
+msgstr "संशोधित"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr ""
+msgstr "तिथि संशोधित"
 
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr ""
+msgstr "महीना"
 
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr ""
+msgstr "ज़्यादा"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "ज़्यादा सूचना"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
@@ -1536,7 +1536,7 @@ msgstr ""
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr ""
+msgstr "नााम"
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
@@ -1546,42 +1546,42 @@ msgstr ""
 #: ui_main.new
 msgctxt "ui_main.new"
 msgid "New"
-msgstr ""
+msgstr "नयाँ "
 
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr ""
+msgstr "समाचार"
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "समाचार फ़ीड"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr ""
+msgstr "समाचार स्रोत"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "नयाँ श्रेणी "
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "नया पासवर्ड "
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr ""
+msgstr "नया प्रतिवेदन "
 
 #: ui_main.next
 msgctxt "ui_main.next"
 msgid "Next"
-msgstr ""
+msgstr "आर्को "
 
 #: ui_main.no
 msgctxt "ui_main.no"
@@ -1796,12 +1796,12 @@ msgstr "पासवर्ड सत्यापित"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "पासवर्ड सफलतापूर्वक बदली गरिएको छ ! तल लोग इन गर्नुहोस "
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "आफ्नो पासवर्ड बिर्सिनुभयो ?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
@@ -1816,22 +1816,22 @@ msgstr ""
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
 msgid "Past Month"
-msgstr ""
+msgstr "विगत माह"
 
 #: ui_main.past_year
 msgctxt "ui_main.past_year"
 msgid "Past Year"
-msgstr ""
+msgstr "विगत वर्ष"
 
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr ""
+msgstr "अपूर्ण"
 
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "प्रति"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1841,22 +1841,22 @@ msgstr ""
 #: ui_main.phone
 msgctxt "ui_main.phone"
 msgid "Phone"
-msgstr ""
+msgstr "फ़ोन"
 
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "तस्वीर हरु "
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr ""
+msgstr "तस्वीर हरु "
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
-msgstr ""
+msgstr "तस्वीर हरु तथा विडियो हरु "
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
@@ -1869,7 +1869,7 @@ msgstr ""
 #: ui_main.play
 msgctxt "ui_main.play"
 msgid "Play"
-msgstr ""
+msgstr "चलाउनुहोस"
 
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
@@ -1899,17 +1899,17 @@ msgstr ""
 #: ui_main.preview
 msgctxt "ui_main.preview"
 msgid "Preview"
-msgstr ""
+msgstr "पूर्वावलोकन"
 
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr ""
+msgstr "विषय पूर्वावलोकन गर्नुहोस "
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
 msgid "Preview Message"
-msgstr ""
+msgstr "सन्देश पूर्वावलोकन गर्नुहोस "
 
 #: ui_main.previous
 msgctxt "ui_main.previous"
@@ -1924,7 +1924,7 @@ msgstr ""
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "प्रोफ़ाइल को रंग"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
