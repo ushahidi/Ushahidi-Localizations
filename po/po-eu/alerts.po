@@ -1,14 +1,16 @@
 # 
 # Translators:
+# ikerib <ikerib.reg@gmail.com>, 2013
 # Iruneakoa <iruneakoa@yopmail.com>, 2013
+# kokoteko <jonsanchez80@gmail.com>, 2013
 # txapisotegi <xomorrito@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-05-20 23:30+0000\n"
-"Last-Translator: Iruneakoa <iruneakoa@yopmail.com>\n"
+"PO-Revision-Date: 2013-05-21 08:50+0000\n"
+"Last-Translator: kokoteko <jonsanchez80@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +29,7 @@ msgctxt "alerts.alert_email.email_check"
 msgid ""
 "That Email address has already been registered to receive alerts for that "
 "location."
-msgstr ""
+msgstr "Email hori dagoeneko kokaleku horretako alertak jasotzeko erregistratua izan da."
 
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
@@ -70,31 +72,31 @@ msgstr "Ez duzu mapan baliozko kokalekurik aukeratu."
 msgctxt "alerts.alert_mobile.length"
 msgid ""
 "The Mobile Phone field does not seem to contain the right amount of digits."
-msgstr ""
+msgstr "Badirudi Sakelako telefonoa eremuak ez duela behar besteko digitu kopurua"
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
 msgid ""
 "That Mobile Phone Number has already been registered to receive alerts for "
 "that location."
-msgstr ""
+msgstr "Sakelako telefono zenbaki hori dagoeneko erregistratuta dago kokaleku horretako alertak jasotzeko"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
 msgid ""
 "The Mobile Phone field does not appear to contain a valid phone. Please "
 "input numbers only including Country Code."
-msgstr ""
+msgstr "Sakelako telefonoa eremuak ez du baliozko telefonoa. Mesedez, idatzi Herrialdeko Kodea baino ez duten zenbakiak"
 
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
 msgid "You must enter either your Mobile Phone Number or your Email Address."
-msgstr ""
+msgstr "Mugikor zenbakia edo Email helbidea sartzea beharrezkoa da."
 
 #: alerts.alert_mobile.required
 msgctxt "alerts.alert_mobile.required"
 msgid "The Mobile Phone field is required if the checkbox is checked."
-msgstr ""
+msgstr "Sakelako Telefonoa eremua beharrezkoa da kontrol-laukia hautatuta badago"
 
 #: alerts.alert_radius.in_array
 msgctxt "alerts.alert_radius.in_array"
@@ -114,12 +116,12 @@ msgstr ""
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr ""
+msgstr "Honako kategorietako alertetan harpidetu zara"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
 msgid "This code has been verified before!"
-msgstr ""
+msgstr "Kode hori aldez aurretik egiaztatu dute!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
@@ -138,7 +140,7 @@ msgstr ""
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
 msgid "To confirm your alert request, please go to "
-msgstr ""
+msgstr "Alerta eskaera berresteko, mesedez, joan hona"
 
 #: alerts.create_more_alerts
 msgctxt "alerts.create_more_alerts"

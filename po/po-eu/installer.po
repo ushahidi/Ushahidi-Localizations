@@ -1,12 +1,14 @@
 # 
 # Translators:
+# Iruneakoa <iruneakoa@yopmail.com>, 2013
+# sutokia <sutokia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-05-20 20:53+0000\n"
-"Last-Translator: heather leson <hleson@ushahidi.com>\n"
+"PO-Revision-Date: 2013-05-21 13:33+0000\n"
+"Last-Translator: sutokia <sutokia@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,17 +20,17 @@ msgstr ""
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr ""
+msgstr "Basearen bidea"
 
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr ""
+msgstr "Datu basea"
 
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr ""
+msgstr "Datu Basearen ostalaria"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
@@ -36,17 +38,17 @@ msgid ""
 "If you are running Ushahidi on your own computer, this will more than likely"
 " be \"localhost\". If you are running Ushahidi from a web server, you will "
 "get your host information from your web hosting provider."
-msgstr ""
+msgstr "Ushahidi zure ordenagailuan erabiltzen ari bazara, \"localhost\" bezala agertuko da. Web-zerbitzari batetik ari bazara, zure ostalariaren informazioa lortuko duzu zure web hornitzailearengandik."
 
 #: installer.database_name
 msgctxt "installer.database_name"
 msgid "Database Name"
-msgstr ""
+msgstr "Datu Basearen izena"
 
 #: installer.database_name_description
 msgctxt "installer.database_name_description"
 msgid "The name of the database you want to run Ushahidi in"
-msgstr ""
+msgstr "Ushaidik erabiliko duen Datu Basearen izena"
 
 #: installer.db_information_link
 msgctxt "installer.db_information_link"
@@ -55,12 +57,12 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
 "target=\"_blank\">this article</a> on the wiki that talks about databases in"
 " more detail."
-msgstr ""
+msgstr "Info gehiagorako, mesedez ikustatu ezazu <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">artikulu hau</a> datu baseak zehaztasun handiagorekin jorratzen dituen wikian."
 
 #: installer.default_language
 msgctxt "installer.default_language"
 msgid "Default Language (Locale)"
-msgstr ""
+msgstr "Lehenetsitako hizkuntza(Lokala)"
 
 #: installer.default_language_description
 msgctxt "installer.default_language_description"
@@ -74,12 +76,12 @@ msgstr ""
 #: installer.disable
 msgctxt "installer.disable"
 msgid "Disable"
-msgstr ""
+msgstr "Desgaitua"
 
 #: installer.enable
 msgctxt "installer.enable"
 msgid "Enable"
-msgstr ""
+msgstr "Gaitua"
 
 #: installer.error_summary
 msgctxt "installer.error_summary"
@@ -98,12 +100,12 @@ msgstr ""
 #: installer.finished
 msgctxt "installer.finished"
 msgid "Finished"
-msgstr ""
+msgstr "Amaiturik"
 
 #: installer.general
 msgctxt "installer.general"
 msgid "General"
-msgstr ""
+msgstr "Orokorra"
 
 #: installer.google_key
 msgctxt "installer.google_key"
@@ -121,12 +123,12 @@ msgstr ""
 #: installer.go_back
 msgctxt "installer.go_back"
 msgid "Go Back"
-msgstr ""
+msgstr "Atzera joan"
 
 #: installer.index.advanced
 msgctxt "installer.index.advanced"
 msgid "ADVANCED INSTALLATION"
-msgstr ""
+msgstr "INSTALAZIO AURRERATUA"
 
 #: installer.index.advanced_installation_description
 msgctxt "installer.index.advanced_installation_description"
@@ -138,7 +140,7 @@ msgstr ""
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
 msgid "BASIC INSTALLATION"
-msgstr ""
+msgstr "OINARRIZKO INSTALAZIOA"
 
 #: installer.index.basic_installation_description
 msgctxt "installer.index.basic_installation_description"
@@ -168,7 +170,7 @@ msgstr ""
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr ""
+msgstr "Postaren zerbitzaria"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
@@ -178,17 +180,17 @@ msgstr ""
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Adibideak: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Postaren zerbitzariaren pasahitza"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr ""
+msgstr "Zure postan normalean sartzeko erabilitako pasahitza"
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"

@@ -1,12 +1,15 @@
 # 
 # Translators:
+# kakapo <aoraki.aotearoa@gmail.com>, 2013
+# atzerritik <electrocutate1@gmail.com>, 2013
+# txapisotegi <xomorrito@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-05-20 20:53+0000\n"
-"Last-Translator: heather leson <hleson@ushahidi.com>\n"
+"PO-Revision-Date: 2013-05-21 21:08+0000\n"
+"Last-Translator: kakapo <aoraki.aotearoa@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,19 +21,19 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "Akatsa!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Hedaketa hau herrialde baterako bakarrik balio du. Ziurtatu berri emandako lekua herrialde %s barnean dagoela."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for one of your custom form items."
-msgstr ""
+msgstr "Sartu baliozkoa den balorea zure ohiturazkoa diren gaiei mesedez."
 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
@@ -40,7 +43,7 @@ msgstr ""
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "\"%s\" eremua betetzea beharrezkoa da."
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
@@ -75,12 +78,12 @@ msgstr ""
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Aukeratu ezazu baliozkoa den gai bat deskargan biltzeko."
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "Aukeratu ezazu baliozkoa den gai bat deskargan biltzeko."
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
@@ -191,7 +194,7 @@ msgstr ""
 #: report.incident_date.required
 msgctxt "report.incident_date.required"
 msgid "The date field is required."
-msgstr ""
+msgstr "Dataren eremua betetzea beharrezkoa da."
 
 #: report.incident_description.required
 msgctxt "report.incident_description.required"
@@ -206,7 +209,7 @@ msgstr ""
 #: report.incident_hour.required
 msgctxt "report.incident_hour.required"
 msgid "The hour field is required."
-msgstr ""
+msgstr "Orduaren eremua betetzea beharrezkoa da."
 
 #: report.incident_information.alpha
 msgctxt "report.incident_information.alpha"
@@ -226,7 +229,7 @@ msgstr ""
 #: report.incident_minute.required
 msgctxt "report.incident_minute.required"
 msgid "The minute field is required."
-msgstr ""
+msgstr "Minutuaren eremua betetzea beharrezkoa da."
 
 #: report.incident_news.url
 msgctxt "report.incident_news.url"
@@ -270,7 +273,7 @@ msgstr ""
 #: report.incident_title.required
 msgctxt "report.incident_title.required"
 msgid "The \"Report Title\" field is required."
-msgstr ""
+msgstr "''Iruzkinaren izenburua''  eremua betetzea beharrezkoa da."
 
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
