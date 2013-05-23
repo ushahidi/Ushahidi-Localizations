@@ -11,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-05-21 23:58+0000\n"
-"Last-Translator: dabid <dabid@riseup.net>\n"
+"PO-Revision-Date: 2013-05-22 07:25+0000\n"
+"Last-Translator: ikerib <ikerib.reg@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -154,7 +154,7 @@ msgstr "Alertak lortu"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Alerta izan da"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -288,7 +288,7 @@ msgstr "Artxibatua"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Goruntz"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -670,7 +670,7 @@ msgstr "Deskribapena"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "Beheruntz"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -1226,7 +1226,7 @@ msgstr "Giltza"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Gakoak"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -1419,7 +1419,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Eskerrik asko erregistratzeagatik %1$s (e)an. Zure e-posta helbidea egiaztatzeko, mesedez, ondorengo URLra joan: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -1701,7 +1701,7 @@ msgstr "Erakundearen e-posta"
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr ""
+msgstr "Organizazioa izan da"
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
@@ -1776,7 +1776,7 @@ msgstr "Orrialdea Izan Da"
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr ""
+msgstr "Orrialde leihotxoaren izena"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
@@ -1836,7 +1836,7 @@ msgstr "Egiteke"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "per"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -2176,7 +2176,7 @@ msgstr "Denbora"
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr ""
+msgstr "Denbora-lerroaren txostenak"
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
@@ -2288,7 +2288,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Dagoeneko baduzu CrowdmapID-k kudeatzen kontua! Saiatu zure CrowdmapID e-posta eta pasahitza erabiliz saioa hasten."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2328,7 +2328,7 @@ msgstr "Txostena gorde"
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr ""
+msgstr "Planifikazioa"
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
@@ -2458,7 +2458,7 @@ msgstr "Zerbitzuaren erabiltzaile-izena"
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr ""
+msgstr "Erabiltzaile ID zerbitzua"
 
 #: ui_main.share
 msgctxt "ui_main.share"
@@ -2478,12 +2478,12 @@ msgstr "Elkarbanatu da"
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr ""
+msgstr "Elkarbanatzen"
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Mapa laburragoa"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2503,7 +2503,7 @@ msgstr "Mezuak ikusi"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "<span class=\"time-period\">%1$s (e)tik %2$s rainoko</span> txostenak erakusten"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2543,122 +2543,122 @@ msgstr "Iturria"
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
-msgstr ""
+msgstr "Iturburu izena"
 
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Ordenatu"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Honekin ordenatu"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr ""
+msgstr "Iturburu URL"
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr ""
+msgstr "Spama"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
-msgstr ""
+msgstr "SSL euskarria?"
 
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
 msgid "From"
-msgstr ""
+msgstr "Nondik"
 
 #: ui_main.step
 msgctxt "ui_main.step"
 msgid "Step"
-msgstr ""
+msgstr "Pauso"
 
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr ""
+msgstr "Bidali txostena"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "<strong>%1$s</strong> (e)k bidalia <strong>%2$s</strong> bitartez"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
-msgstr ""
+msgstr "SMS bidez bidali"
 
 #: ui_main.submit_sms1
 msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
-msgstr ""
+msgstr "Bidali zure SMSa honi"
 
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr ""
+msgstr "zure mugikorrean"
 
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr ""
+msgstr "Arrakasta!"
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr ""
+msgstr "Inportazioak arrakasta izan du"
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
 msgid "Surname"
-msgstr ""
+msgstr "Abizena"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "Inkesta"
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr ""
+msgstr "Sistema"
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Mapa tailerra"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "TCP portua"
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
 msgid "Themes"
-msgstr ""
+msgstr "Gaiak"
 
 #: ui_main.theme_default
 msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
-msgstr ""
+msgstr "Ushahidi gai lehenetsia"
 
 #: ui_main.theme_settings
 msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
-msgstr ""
+msgstr "Gaiaren ezarpenak"
 
 #: ui_main.this
 msgctxt "ui_main.this"
 msgid "This"
-msgstr ""
+msgstr "Hau"
 
 #: ui_main.this_day
 msgctxt "ui_main.this_day"
@@ -2788,7 +2788,7 @@ msgstr "Ziurtatu gabeak"
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "Jario-iturriak eguneratu"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
@@ -2798,17 +2798,17 @@ msgstr "Igo"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Ikusi gure txosten Igoera gidak: -"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "XML igoera gida"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "CSV igoera gida"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2826,25 +2826,25 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Eremu pertsonalizatuak diren zutabeek beraien form_id erantsita izan behar dute, adibidez Test eremu pertsonalizatua jatorrizko formarioren ID-a 1 bada orduan Test-1 izango da. Formulario pertsonalizatuen inportazioetan gogoan izan hau."
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "Beheko formularioarekin, gertakariak inporta ditzakezu Ushahidiren motorrera."
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Txostenak CSV edo XML formatuan igo behar dira."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Istilu ID bat dagoeneko datu-basean badago, CSV/XML fitxategiko sarrera horri ez ikusia egingo zaio."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2863,21 +2863,21 @@ msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "informazio gehiago inportatzen ari bazara, informazio pertsonala adibidez edo/eta inprimaki-eremu pertsonalizatuak"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Gutxienez informazio pertsonal eremu bat (izena, abizenak, helbide elektronikoa) BEHARREZKOA da. Hutsik dauden erregistroak ez dira inportatuko"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Zure sarrerak goitibeherako eremuarentzako, irrati botoientzako eta kontrol-laukientzako bat datoz eremu pertsonalizatuan emandako instantziarekin"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2885,14 +2885,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Kontrol-lauki aukerak koma batez bereiztuak daude, adibidez,  zure aukera sagar, mahats eta mango fruituen hautaketa bada, sarrerak honela izan behar du \"sagarrak, mahatsa, mangoak\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Data eremuan balioak honako formatua izan behar du: yyyy/mm/dd adibidez, 2012ko Urriak 3 = 2012/10/03"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2907,7 +2907,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2915,7 +2915,7 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
@@ -3015,7 +3015,7 @@ msgstr "Ikusi txosten guztiak"
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr ""
+msgstr "Elementuak ikusi"
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
@@ -3060,7 +3060,7 @@ msgstr "Bereifikazioaren zain"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Mapa zabalagoa"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
@@ -3070,7 +3070,7 @@ msgstr "Web inprimakia"
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Webgunea"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
@@ -3090,7 +3090,7 @@ msgstr "Atzo"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Zure Arbela"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
@@ -3100,9 +3100,9 @@ msgstr "Zure fitxategia"
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "Zooma gerturatu"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Zooma urrundu"

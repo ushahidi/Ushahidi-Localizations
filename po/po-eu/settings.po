@@ -3,14 +3,15 @@
 # atzerritik <electrocutate1@gmail.com>, 2013
 # dabid <dabid@riseup.net>, 2013
 # Theklan <galder158@hotmail.com>, 2013
+# Iruneakoa <iruneakoa@yopmail.com>, 2013
 # sutokia <sutokia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-05-22 00:02+0000\n"
-"Last-Translator: dabid <dabid@riseup.net>\n"
+"PO-Revision-Date: 2013-05-22 13:34+0000\n"
+"Last-Translator: Iruneakoa <iruneakoa@yopmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -152,7 +153,7 @@ msgstr ""
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Aukera eman URLak garbitzeko"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
@@ -239,7 +240,7 @@ msgstr "Mail serbitzariaren portuaren eremua luzeegia da."
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Mail serbitzariaren portuaren eremuak bakarrik zenbakiak eduki beharko lituzke."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
@@ -251,22 +252,22 @@ msgstr ""
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "Mail serbitzariaren pasahitzaren eremua betetzea beharrezkoa da."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Mail serbitzariaren portuaren eremua luzeegia da."
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Mail serbitzariaren portuaren eremuak bakarrik zenbakiak eduki beharko lituzke."
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Mail serbitzariaren portuaren eremua luzeegia da. "
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
@@ -276,17 +277,17 @@ msgstr ""
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Mail serbitzariaren erabiltzaile izenaren eremuak 50 karaktere baino gutxiago izan behar ditu."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "Mail serbitzariaren erabiltzaile izenaren eremua betetzea beharrezkoa da."
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Facebook Konfigurazio aukerak"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
@@ -322,7 +323,7 @@ msgstr ""
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Gaitu HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -341,7 +342,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -403,17 +404,17 @@ msgstr ""
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "Maparen hornitzailea"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Maparen denbora lerroa"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Maparen ezarpenak"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -423,12 +424,12 @@ msgstr ""
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "Mesedez, lehenetsitako herria aukeratu"
 
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "Klik egin eta arrastatu, mapan zure kokapen zehatza ezartzeko."
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
@@ -503,22 +504,22 @@ msgstr ""
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Banner irudia ezabatu"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Lehenetsitako ikonoa ezabatu"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "Kontaktu orria erakutsi"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "\"Nola lagundu\" orria erakutsi"
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"

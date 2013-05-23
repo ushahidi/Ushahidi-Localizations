@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-05-21 15:41+0000\n"
+"PO-Revision-Date: 2013-05-22 15:58+0000\n"
 "Last-Translator: gerkoon <gerkoon@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
@@ -90,7 +90,7 @@ msgstr ""
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
-msgstr ""
+msgstr "Ezezaguna"
 
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
@@ -110,7 +110,7 @@ msgstr "API debekatua"
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "API Saioak"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
@@ -170,12 +170,12 @@ msgstr ""
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Esleitu"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Zereginak"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
@@ -436,7 +436,7 @@ msgstr "Txostenak jaitsi"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "Goitibeherako aukerak"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
@@ -491,7 +491,7 @@ msgstr "Akatsa"
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr ""
+msgstr "Ohiko galderak"
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
@@ -511,7 +511,7 @@ msgstr "Esperimentala"
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
 msgid "FAQ's"
-msgstr ""
+msgstr "Ohiko galderak"
 
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
@@ -646,17 +646,17 @@ msgstr "Checkbox eremua"
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr ""
+msgstr "Goitibeherako eremua"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
 msgid "From"
-msgstr ""
+msgstr "Nondik"
 
 #: ui_admin.from_date
 msgctxt "ui_admin.from_date"
 msgid "From"
-msgstr ""
+msgstr "Nondik"
 
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
@@ -701,7 +701,7 @@ msgstr "Kudeatu erabiltzaileak"
 #: ui_admin.header_role
 msgctxt "ui_admin.header_role"
 msgid "Role"
-msgstr ""
+msgstr "Rola"
 
 #: ui_admin.header_user
 msgctxt "ui_admin.header_user"
@@ -798,7 +798,7 @@ msgstr "Pasahitza"
 #: ui_admin.label_role
 msgctxt "ui_admin.label_role"
 msgid "Role:"
-msgstr ""
+msgstr "Rola:"
 
 #: ui_admin.label_username
 msgctxt "ui_admin.label_username"
@@ -833,17 +833,17 @@ msgstr ""
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
 msgid "Manage Roles & Permissions"
-msgstr ""
+msgstr "Rolak eta baimenak kudeautu"
 
 #: ui_admin.manage_users
 msgctxt "ui_admin.manage_users"
 msgid "View Users"
-msgstr ""
+msgstr "Erabiltzaileak erakutsi"
 
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
-msgstr ""
+msgstr "Erabiltzaileak gehitu/aldatu"
 
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
@@ -858,17 +858,17 @@ msgstr ""
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "ez spam moduan markatu"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "spam moduan markatu"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "Ez zen aurkitu dokumenturik"
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
@@ -883,7 +883,7 @@ msgstr "Mezuak"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr ""
+msgstr "Laronica mezuak"
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
@@ -913,12 +913,12 @@ msgstr "Minutuak"
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "Galdutako parametroa"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "Moderatzailea"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
@@ -933,12 +933,12 @@ msgstr ""
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
 msgid "move down"
-msgstr ""
+msgstr "behera mugitu"
 
 #: ui_admin.move_up_action
 msgctxt "ui_admin.move_up_action"
 msgid "move up"
-msgstr ""
+msgstr "gora mugitu"
 
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
@@ -948,22 +948,22 @@ msgstr ""
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
 msgid "My Alerts"
-msgstr ""
+msgstr "Nire alertak"
 
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "Nire egiaztapenak"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
 msgid "My Profile"
-msgstr ""
+msgstr "Nire profila"
 
 #: ui_admin.my_reports
 msgctxt "ui_admin.my_reports"
 msgid "My Reports"
-msgstr ""
+msgstr "Nire txostenak"
 
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
@@ -973,37 +973,37 @@ msgstr ""
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
 msgid "Positive"
-msgstr ""
+msgstr "Positiboa"
 
 #: ui_admin.my_votes_down
 msgctxt "ui_admin.my_votes_down"
 msgid "Negative"
-msgstr ""
+msgstr "negatiboa"
 
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr ""
+msgstr "Izena"
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "Alerta berria sortu"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "Mezu berria sortu"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "Pasahitz berria"
 
 #: ui_admin.no
 msgctxt "ui_admin.no"
 msgid "No"
-msgstr ""
+msgstr "Ez"
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
@@ -1026,17 +1026,17 @@ msgstr ""
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
 msgid "Not Found"
-msgstr ""
+msgstr "Ez da aurkitu"
 
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr ""
+msgstr "Ez dago daturik. Ez dago emaitzik erakusteko."
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "Ez dago akatsik"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"

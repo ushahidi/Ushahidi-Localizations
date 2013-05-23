@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-05-17 10:18+0000\n"
+"PO-Revision-Date: 2013-05-23 06:14+0000\n"
 "Last-Translator: savi <savibohra@live.com>\n"
 "Language-Team: Nepali (Nepal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ne_NP/)\n"
 "MIME-Version: 1.0\n"
@@ -848,7 +848,7 @@ msgstr "फेसबुक "
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr ""
+msgstr "फ़ीड, भरण"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
@@ -870,7 +870,7 @@ msgstr "फ़ीड"
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr ""
+msgstr "भरण गरियो "
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
@@ -920,7 +920,7 @@ msgstr ""
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "फ़िल्टर प्रतिवेदनहरु शामिल छ"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -970,7 +970,7 @@ msgstr " प्रपत्र संपादन गर्नुहोस "
 #: ui_main.form_has_been
 msgctxt "ui_main.form_has_been"
 msgid "The form has been"
-msgstr ""
+msgstr "प्रपत्र "
 
 #: ui_main.form_title
 msgctxt "ui_main.form_title"
@@ -1010,7 +1010,7 @@ msgstr "\t\nनामपत्र"
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "स्ट्रोक चौड़ाई"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -1020,7 +1020,7 @@ msgstr "जनुहोस "
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "हैशटैग"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1065,7 +1065,7 @@ msgstr ""
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "पहचान"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1135,7 +1135,7 @@ msgstr "पृष्ठ विवरण समावेश गरनुहोस
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr ""
+msgstr "जती सक्दो विवरण समावेश गर्नुहोस "
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
@@ -1297,12 +1297,12 @@ msgstr "तह को नाम"
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "तह URL"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "टिप्पणी लेखी छोड्नुहोस"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
@@ -1388,7 +1388,7 @@ msgstr ""
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "लॉगिन"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
@@ -1420,7 +1420,7 @@ msgstr ""
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "साइनअप प्रमाणीकरण "
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
@@ -1450,7 +1450,7 @@ msgstr ""
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "अधिकतम फाइल को  आकार"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1470,17 +1470,17 @@ msgstr "सदस्य"
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "आफ्नो खता प्रबंधन गर्नुहोस "
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr ""
+msgstr "संदेश"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr ""
+msgstr "संदेश हरु"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
@@ -1542,7 +1542,7 @@ msgstr "नााम"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "निकट प्रतिवेदन "
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1587,7 +1587,7 @@ msgstr "आर्को "
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "अस्वीकार"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
@@ -1617,22 +1617,22 @@ msgstr "अनुमोदित"
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr ""
+msgstr "अनुमोदित न भएको "
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "चयनित न भएको "
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr ""
+msgstr "स्पैम हैन "
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "निर्दिष्ट हैन "
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
