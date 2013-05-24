@@ -1,6 +1,7 @@
 # 
 # Translators:
 # gerkoon <gerkoon@gmail.com>, 2013
+# ikerib <ikerib.reg@gmail.com>, 2013
 # Iruneakoa <iruneakoa@yopmail.com>, 2013
 # txapisotegi <xomorrito@gmail.com>, 2013
 msgid ""
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-05-22 15:58+0000\n"
-"Last-Translator: gerkoon <gerkoon@gmail.com>\n"
+"PO-Revision-Date: 2013-05-23 08:09+0000\n"
+"Last-Translator: ikerib <ikerib.reg@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -85,7 +86,7 @@ msgstr "Guztia"
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -165,7 +166,7 @@ msgstr "Zihur zaude argazki hau ezabatu nahi duzula?"
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Ziur zaude formularioak aldatu nahi dituzula?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
@@ -180,7 +181,7 @@ msgstr "Zereginak"
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Badge-a esleitu"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -290,7 +291,7 @@ msgstr "Zure alertaren baieztapen kodea:"
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "Erabiltzailea izan da"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -320,7 +321,7 @@ msgstr "Berritze kritikoa"
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
@@ -361,12 +362,12 @@ msgstr "Data eta ordua"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Gehitutako data"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Aldatze-data"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -466,7 +467,7 @@ msgstr "Email"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Kolektibo osoa"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -481,7 +482,7 @@ msgstr "IMAP PHP liburutegia ez da instalatu"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "Okerreko Kredentzialak"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -721,29 +722,29 @@ msgstr "Orduro"
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr ""
+msgstr "Jario-iturria honentzako"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "Instalatzaile karpeta existitzen da oraindik. Instalatzaile karpeta ezabatu. Segurtasun ahultasun potentziala da."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr ""
+msgstr "Instantzia"
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr ""
+msgstr "Instantziak"
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
 msgid "Instance Details"
-msgstr ""
+msgstr "Instantzia xehetasunak"
 
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
@@ -828,7 +829,7 @@ msgstr "Saioak"
 #: ui_admin.manage
 msgctxt "ui_admin.manage"
 msgid "Manage"
-msgstr ""
+msgstr "Kudeatu"
 
 #: ui_admin.manage_roles
 msgctxt "ui_admin.manage_roles"
@@ -848,12 +849,12 @@ msgstr "Erabiltzaileak gehitu/aldatu"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "Zure zerrenda publikoa kudeatu"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Markatu honela"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
@@ -893,12 +894,12 @@ msgstr "Twitter mezuak"
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "Zure mezua bidalia izan da!"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
@@ -928,7 +929,7 @@ msgstr "zuzenduta"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "Denbora eremu ezarpenak"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -943,7 +944,7 @@ msgstr "gora mugitu"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr ""
+msgstr "Instantzia anitzak ostatuta"
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -968,7 +969,7 @@ msgstr "Nire txostenak"
 #: ui_admin.my_votes
 msgctxt "ui_admin.my_votes"
 msgid "Votes Cast"
-msgstr ""
+msgstr "Botoen"
 
 #: ui_admin.my_votes_up
 msgctxt "ui_admin.my_votes_up"
@@ -1011,17 +1012,17 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "Kategoria berezia da hau, txostenak bidaltzen dituzten erabiltzaileei ez zaie agertuko txostenak bidaltzeko formularioan. Hau erabiltzen da kategoria bat ezabatzen denean asignatzeko (kategoria gabeko txostenak)"
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
 msgid "Notification"
-msgstr ""
+msgstr "Jakinarazpena"
 
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr ""
+msgstr "Ez ditu maiuskula eta miniskulak bereizten"
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
@@ -1041,7 +1042,7 @@ msgstr "Ez dago akatsik"
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr ""
+msgstr "Emaitzik ez erakusteko!"
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
@@ -1051,22 +1052,22 @@ msgstr ""
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "Kontaketa espezifikoa"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID-ak"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
 msgid "page"
-msgstr ""
+msgstr "orria"
 
 #: ui_admin.pages
 msgctxt "ui_admin.pages"
 msgid "pages"
-msgstr ""
+msgstr "orriak"
 
 #: ui_admin.page_not_found
 msgctxt "ui_admin.page_not_found"
@@ -1086,7 +1087,7 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "Sentitzen dut, ikusten saiatzen ari zaren orria ez dago hemen. <p><strong>Gure webgunetik kanpoko lotura bat jarraitu duzu?</strong><br />Orri honetara guneko beste toki batetik iritsi bazata, mesedez <a href=\"%s\">jarri gurekin harremanetan</a>, akatsa zuzendu dezagun.</p><p><strong>Beste webgune bateko lotura jarraitu duzu?</strong><br />Beste guneetako loturak batzuetan zaharkituta egon daitezke edo gaizki idatziak.<a href=\"%s\">Esaiguzu</a> non zegoen eta saiatu gara beste gunearekin harremanetan jartzen arazoa konpontzeko.</p><p><strong>Zuk idatzi duzu URLa? </strong><br />Baliteke (URL) helbidea gaizki idatzia izana. Ziurtatu ongi idatzia dagoela, ortografia, maisukulak, eta abar.</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
@@ -1096,7 +1097,7 @@ msgstr "Barkatu, ikusi nahi duzun orrialdia ez da hemen aurkitzen"
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
-msgstr ""
+msgstr "Erabilitako parametroak"
 
 #: ui_admin.password
 msgctxt "ui_admin.password"
@@ -1106,7 +1107,7 @@ msgstr "Pasahitza"
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
+msgstr "Pasahitza berrezarri"
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
@@ -1116,7 +1117,7 @@ msgstr "Adiskide"
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "Pasahitza berrezartzeko eskaera jaso dugu"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
@@ -1130,12 +1131,12 @@ msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "Zuk eskatu bezala, zure pasahitza berrezarri da. Zure xehetasun berriak honako hauek dira"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr ""
+msgstr "Ushahidi pasahitza berrezartu"
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
@@ -1155,7 +1156,7 @@ msgstr "PM"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr ""
+msgstr "Datuak ez dira post metodoaz bidali"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1170,12 +1171,12 @@ msgstr "Mezua"
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "Mezu pribatuak"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "Mezu pribatua bidalia"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
@@ -1190,12 +1191,12 @@ msgstr "Nori"
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "Zerrenda publikoak"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "Sailkatze"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1205,113 +1206,113 @@ msgstr "irakurri"
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr ""
+msgstr "Garrantzia"
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Txosten Titulua"
 
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Txosten Data"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Txosten egileak"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "Txosten-egile mailak"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
 msgid "Reports"
-msgstr ""
+msgstr "Txostenak"
 
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "Ospe puntuazioa"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
 msgid "Required"
-msgstr ""
+msgstr "Nahitaezkoa"
 
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Berrabiarazi"
 
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Erantzuna"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
 msgid "Results"
-msgstr ""
+msgstr "Emaitzak"
 
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "Ezeztatu"
 
 #: ui_admin.riverid_exists_admin
 msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "E-posta horrek badu CrowdmapID-k kudeatutako kontua! Erabiltzaileak lehendik duen Crowdmap pasahitza erabili behar du saioa hasteko."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
-msgstr ""
+msgstr "Ezarpenak gorde"
 
 #: ui_admin.search
 msgctxt "ui_admin.search"
 msgid "Search"
-msgstr ""
+msgstr "Bilatu"
 
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "Txostenak bilatu"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
 msgid "searching for"
-msgstr ""
+msgstr "honen bila"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "Enkriptatze gakoak oraindik ere balio lehenetsia du. Hau da, ez da ziurra eta aldatu egin behar da."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "Gune hau HTTP bidez hornitzen da. Segurtasuna handitzeko HTTPS ezarri behar da."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Argibideak wikian daude eskuragarri:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Aukeratu txostenak deskargatzeko nahi duzun formatua: -"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1321,62 +1322,62 @@ msgstr "--- Aukeratu eremu mota ---"
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
 msgid "Please select an item"
-msgstr ""
+msgstr "Aukeratu elementua mesedez"
 
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "Abiarazle bat hautatu behar duzu erantzun bat hautatu aurretik."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "Abiarazle bat hautatu behar duzu sailkatzea definitu ahal izateko."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
 msgid "Sender"
-msgstr ""
+msgstr "Bidaltzailea"
 
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
 msgid "Send To"
-msgstr ""
+msgstr "Honi bidali"
 
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "Mezu hau zure webgunetik bidalia izan da ordu honetan "
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Zerbitzari ordua"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
 msgid "Settings"
-msgstr ""
+msgstr "Ezarpenak"
 
 #: ui_admin.showing_page
 msgctxt "ui_admin.showing_page"
 msgid "Showing page"
-msgstr ""
+msgstr "Orria erakusten"
 
 #: ui_admin.showing_results
 msgctxt "ui_admin.showing_results"
 msgid "Showing results"
-msgstr ""
+msgstr "Emaitzak erakusten"
 
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "lagina"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "Kategoria berezia"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1384,234 +1385,234 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "Kategoria berezia da hau, txostenak bidaltzen dituzten erabiltzaileei ez zaie agertuko txostenak bidaltzeko formularioan. \"Erreportari fidagarriak\" ezaugarriarekin batera erabiltzen da."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "Arlo jakina"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
 msgid "State"
-msgstr ""
+msgstr "Rango"
 
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
 msgid "Statistics"
-msgstr ""
+msgstr "Estatistikak"
 
 #: ui_admin.stats
 msgctxt "ui_admin.stats"
 msgid "Stats"
-msgstr ""
+msgstr "Estatistikak"
 
 #: ui_admin.stats_collection_error
 msgctxt "ui_admin.stats_collection_error"
 msgid "Stat collection failed! Please try again later."
-msgstr ""
+msgstr "Statistika bilketak huts egin du! Mesedez, saiatu berriro beranduago."
 
 #: ui_admin.stats_collection_error_short
 msgctxt "ui_admin.stats_collection_error_short"
 msgid "Stat Collection Failed!"
-msgstr ""
+msgstr "Statistika bilketak huts egin du!"
 
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "Egun jakinak"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr ""
+msgstr "Gaia"
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
 msgid "Super Admin"
-msgstr ""
+msgstr "Super Administraria"
 
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
-msgstr ""
+msgstr "Zeregina burutua"
 
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
 msgid "Text Field"
-msgstr ""
+msgstr "Textu eremua"
 
 #: ui_admin.theme_name
 msgctxt "ui_admin.theme_name"
 msgid "Name"
-msgstr ""
+msgstr "Izena"
 
 #: ui_admin.title
 msgctxt "ui_admin.title"
 msgid "Manage Users"
-msgstr ""
+msgstr "Kudeatu erabiltzaileak"
 
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Denbora-muga akatsa"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
 msgid "to"
-msgstr ""
+msgstr "nori"
 
 #: ui_admin.total_records
 msgctxt "ui_admin.total_records"
 msgid "Total Records"
-msgstr ""
+msgstr "Erregistroen totala"
 
 #: ui_admin.to_date
 msgctxt "ui_admin.to_date"
 msgid "to"
-msgstr ""
+msgstr "nori"
 
 #: ui_admin.translate_reports
 msgctxt "ui_admin.translate_reports"
 msgid "Translate Reports"
-msgstr ""
+msgstr "Txostenak itzuli"
 
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "Aktibatzailea"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "Erabiltzaile aktibatzailea"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "Aktibatzaileak"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
 msgid "unapproved"
-msgstr ""
+msgstr "Aprobatu gabeak"
 
 #: ui_admin.unknown
 msgctxt "ui_admin.unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Ez-jakina"
 
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "Akats ezezaguna"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
 msgid "unread"
-msgstr ""
+msgstr "Irakurri gabe"
 
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "Aurrerantzean ez duzualertarik jasoko hemendik"
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
 msgid " Click here to upgrade now"
-msgstr ""
+msgstr "Egin klik hemen orain eguneratzeko"
 
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr ""
+msgstr "Ushahidi eguneratu"
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr ""
+msgstr "Ushahidi egoeraren eguneraketa"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Txostenak kargatu"
 
 #: ui_admin.user
 msgctxt "ui_admin.user"
 msgid "User"
-msgstr ""
+msgstr "Erabiltzailea"
 
 #: ui_admin.users
 msgctxt "ui_admin.users"
 msgid "Users"
-msgstr ""
+msgstr "Erabiltzaileak"
 
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr ""
+msgstr "Egiaztatua/Egiaztatu gabea"
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr ""
+msgstr "Egiaztatu/Egiaztatu gabe"
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
 msgid "Version"
-msgstr ""
+msgstr "Bertsioa"
 
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
-msgstr ""
+msgstr "eguneraketa eskuragarri dago."
 
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
 msgid "Video Encoding"
-msgstr ""
+msgstr "Bideo kodeketa"
 
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
 msgid "Private Messages"
-msgstr ""
+msgstr "Mezu pribatuak"
 
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
 msgid "View Site"
-msgstr ""
+msgstr "Gunea ikusi"
 
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Txostena ikusi"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
 msgid "Welcome, "
-msgstr ""
+msgstr "Ongi etorri,"
 
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Bai"
 
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
-msgstr ""
+msgstr "Zure bilaketa"
