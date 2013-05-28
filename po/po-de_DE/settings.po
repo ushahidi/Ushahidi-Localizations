@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Juergen Eichholz <jke@kikuyumoja.com>, 2012
+# Wasilis Mandratzis <m.wasilis@yahoo.de>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-05-28 00:23+0000\n"
+"Last-Translator: Wasilis Mandratzis <m.wasilis@yahoo.de>\n"
 "Language-Team: German (Germany) (http://www.transifex.com/projects/p/ushahidi-localizations/language/de_DE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -96,17 +97,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Der Banner scheint ein ungültiges Format zu haben. Die akzeptierten Formate sind: .JPG, .PNG und .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Bitte stellen Sie sicher, dass \"Bilderfeld\" die Größe von weniger als 250 KB hat."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "Das Bilderfeld enthält eine ungültige Datei."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -297,7 +298,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Diese Einstellungen ermöglichen es Benutzern, sich über Facebook anzumelden, tut <strong>dies nicht<strong> erstellen Sie eine Facebook-Anwendung für die Bereitstellung "
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -713,12 +714,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS ist eine freie Open Source Software, die einen Laptop und ein Mobilfunkgerät in einen zentralen Kommunikationshub verwandelt. Einmal installiert erlaubt das Programm den Benutzern, Textnachrichten über Mobilfunkgeräte an große Benutzergruppen zu schicken und von diesen zu empfangen. Klicke auf die graue Box, um einen Download von FrontlineSMS.com anzufordern."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "FrontlineSMS herunterladen und installieren"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -728,22 +729,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Detaillierte Anweisungen zum Senden von SMS aus der FronlineSMS-Installation finden Sie<strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">hier</a></strong>. Zum einrichten der Synchronisierung mit FrontlineSMS sind die URL und der API-Schlüssel erforderlich. "
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Kopieren und fügen Sie diese in das FrontlineSMS Feld \"Adresse\""
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Kopieren und fügen Sie diese in das FrontlineSMS Feld \"Ushahidi API Schlüssel\""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "FrontlineSMS zu diesem Ereignis-Einsatz verbinden "
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -803,36 +804,36 @@ msgstr "Das Telefonfeld darf nur Nummern enthalten"
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Twitter Setup Optionen"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Für die unten stehenden Informationen musst Du eine neue Twitter Anwendung einrichten bei"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Konsumenten Schlüssel"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Komsumenten Geheimnis "
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Zugriffstoken "
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Zugriffstoken Geheim"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Test einstellungen"

@@ -1,14 +1,15 @@
 # 
 # Translators:
 # mindthecam <mindthecam.gr@gmail.com>, 2013
+# Wasilis Mandratzis <m.wasilis@yahoo.de>, 2013
 # zio_donnie <zio.donnie@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-05-28 00:54+0000\n"
+"Last-Translator: Wasilis Mandratzis <m.wasilis@yahoo.de>\n"
 "Language-Team: Greek (http://www.transifex.com/projects/p/ushahidi-localizations/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -97,17 +98,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Το πεδίο Banner ιστοσελίδας δεν φαίνεται να περιέχει μια έγκυρη εικόνα. Οι μόνες αποδεκτές μορφές είναι .JPG, .PNG και .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Παρακαλώ βεβαιωθείτε ότι το \"Banner Image\" μέγεθος είναι μικρότερο από 250 KB."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "Το \"Image Banner\" πεδίο δεν φαίνεται να περιέχει ένα έγκυρο αρχείο."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -298,7 +299,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Οι ρυθμίσεις αυτές επιτρέπουν στους χρήστες να συνδεθουν μέσω του Facebook, αυτό <strong> δεν </strong> θα δημιουργήσει μια εφαρμογή στο Facebook για την ανάπτυξη σας"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -714,12 +715,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "Το FronlineSMS είναι ένα λογισμικό ανοιχτού κώδικα, το οποίο μετατρέπει έναν φορητο υπολογιστη και ένα κινητό τηλέφωνο σε κέντρο επικοινωνίας. Όταν εγκατασταθεί, το πρόγραμμα επιτρέπει στους χρήστες να στέλνουν και να λαμβάνουν μηνύματα κειμένου σε μεγάλες ομάδες ανθρώπων μέσω κινητού τηλεφώνου. Κάνε κλικ στο γκρι κουτί για να κατεβάσεις το πρόγραμμα από το FrontlineSMS.com"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Λυψη και εγκατασταση του FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -729,22 +730,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Λεπτομερείς οδηγίες για το πώς να στείλθει SMS από την FronlineSMS εγκατάσταση είναι διαθέσιμες <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">εδώ</a></strong>. Η διεύθυνση URL και το κλειδί API απαιτούνται για να δημιουργηθεί ο συγχρονισμός με το FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Αντιγράψτε και επικολλήστε αυτο στο FrontlineSMS πεδίο \"Διευθυνση\""
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Αντιγράψτε και επικολλήστε αυτο στο FrontlineSMS πεδίο \"Ushahidi API Κλειδι\""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Σύνδεση του FrontlineSMS σε αυτή την Ushahidi ανάπτυξη"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -804,36 +805,36 @@ msgstr "Το πεδίο τηλέφωνο 3 θα πρέπει να περιέχε
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Επιλογές ρύθμισης του Twitter"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Για να πάρεις τις παρακάτω πληροφορίες χρειάζεται να δημιουργήσεις μια νέα εφαρμογή Twitter στο"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Κλειδί καταναλωτή "
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Μυστικό καταναλωτή "
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Διακριτικό πρόσβασης "
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Μυστικο διακριτικό πρόσβασης "
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Δοκιμαστικες ρυθμισεις"

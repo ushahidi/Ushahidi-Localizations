@@ -1,13 +1,14 @@
 # 
 # Translators:
 # mindthecam <mindthecam.gr@gmail.com>, 2013
+# Wasilis Mandratzis <m.wasilis@yahoo.de>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-05-28 00:59+0000\n"
+"Last-Translator: Wasilis Mandratzis <m.wasilis@yahoo.de>\n"
 "Language-Team: Greek (http://www.transifex.com/projects/p/ushahidi-localizations/language/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr "Λάθος!"
+msgstr "Σφάλμα"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
@@ -36,42 +37,42 @@ msgstr "Παρακαλώ δώσε μια έγκυρη τιμή για ένα α�
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "Το πεδίο \"%s\" πρέπει να είναι αριθμητικό."
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "Το πεδίο \"%s\" είναι υποχρεωτικό."
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr " Το πεδίο \"%s\" δεν υπάρχει."
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "Το πεδίο \"%s\" δεν μπορεί να επεξεργαστεί από το λογαριασμό σας."
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "Το πεδίο \"%s\" πρέπει να περιέχει μια έγκυρη email διεύθυνση."
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "Το πεδίο \"%s\" πρέπει να περιέχει έναν έγκυρο αριθμό τηλεφώνου."
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "Το πεδίο \"%s\" πρέπει να περιέχει μια έγκυρη ημερομηνία (MM/DD/YYYY)."
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "Το πεδίο \"%s\" πρέπει να περιέχει μια έγκυρη ημερομηνία (DD/MM/YYYY)."
 
 #: report.data_include.between
 msgctxt "report.data_include.between"

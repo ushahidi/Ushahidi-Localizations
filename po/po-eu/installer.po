@@ -1,5 +1,6 @@
 # 
 # Translators:
+# gerkoon <gerkoon@gmail.com>, 2013
 # Iruneakoa <iruneakoa@yopmail.com>, 2013
 # sutokia <sutokia@gmail.com>, 2013
 msgid ""
@@ -7,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-05-21 13:33+0000\n"
-"Last-Translator: sutokia <sutokia@gmail.com>\n"
+"PO-Revision-Date: 2013-05-27 07:55+0000\n"
+"Last-Translator: gerkoon <gerkoon@gmail.com>\n"
 "Language-Team: Basque (http://www.transifex.com/projects/p/ushahidi-localizations/language/eu/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -86,7 +87,7 @@ msgstr "Gaitua"
 #: installer.error_summary
 msgctxt "installer.error_summary"
 msgid "Listed below is a summary of the errors we encountered."
-msgstr ""
+msgstr "Beheko zerrenda aurkitu diren akatsen laburpena da"
 
 #: installer.files_location_text
 msgctxt "installer.files_location_text"
@@ -110,7 +111,7 @@ msgstr "Orokorra"
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API Gakoa"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
@@ -165,7 +166,7 @@ msgstr ""
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
 msgid "Installation Successful"
-msgstr ""
+msgstr "Instalazio arrakastasua"
 
 #: installer.mail_server
 msgctxt "installer.mail_server"
@@ -175,7 +176,7 @@ msgstr "Postaren zerbitzaria"
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "Posta zerbitzariaren host-a"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
@@ -195,17 +196,17 @@ msgstr "Zure postan normalean sartzeko erabilitako pasahitza"
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Posta zerbitzariaren ataka"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Ohiko portuak: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Posta zerbitzariaren mota"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -213,29 +214,29 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Internet Message Access Protocol (IMAP) edo Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Zein da ezberdintasuna?</a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Posta zerbitzariaren erabiltzailea"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
 msgid ""
 "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
 "as a username."
-msgstr ""
+msgstr "Gmail, Hotmail, edo Yahoo Mail erabiltzen bazaude, sartu zure email helbide osoa erabiltzaile izen moduan."
 
 #: installer.map
 msgctxt "installer.map"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: installer.map_provider
 msgctxt "installer.map_provider"
 msgid "Map Provider"
-msgstr ""
+msgstr "Maparen hornitzailea"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
@@ -243,37 +244,37 @@ msgid ""
 "Ushahidi works equally well with any of these three mapping providers: "
 "Google, Bing or Open Street Map. Choose the one that has the most detail in "
 "your area."
-msgstr ""
+msgstr "Ushahidik mapa hornitzaile ezberdin hauekin berdin egiten du lan: Google, Bing edo Open Street Map. Aukeratu zure inguruko xehetasun handiena duena."
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
 msgid "Other steps..."
-msgstr ""
+msgstr "Beste pausuak..."
 
 #: installer.password
 msgctxt "installer.password"
 msgid "Password"
-msgstr ""
+msgstr "Pasahitza"
 
 #: installer.password_description
 msgctxt "installer.password_description"
 msgid "Your database password"
-msgstr ""
+msgstr "Zure datu baseko paasahitza."
 
 #: installer.previous
 msgctxt "installer.previous"
 msgid "Previous"
-msgstr ""
+msgstr "Aurrekoa"
 
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr ""
+msgstr "Berrabiarasi zure Apache Zerbitzaria, mesedez"
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
 msgid "Enable or disable SSL"
-msgstr ""
+msgstr "SSL gaitu edo desgaitu"
 
 #: installer.select_mail_server_ssl_description
 msgctxt "installer.select_mail_server_ssl_description"
@@ -281,22 +282,22 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr ""
+msgstr "Posta zerbitzari batzuk konexioa egiterakoan <abbr title=\"Secure Sockets Layer\">SSL</abbr> erabiltzeko aukera ematen dizute. SSL erabiltzea gomendagarria da segurtasun maila gehitzen diolako."
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
 msgid "Set up your SMS server"
-msgstr ""
+msgstr "SMS zerbitzaria ezarri"
 
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Guneko email helbidea"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "Guneko email alerten helbidea"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -378,7 +379,7 @@ msgstr ""
 #: installer.title
 msgctxt "installer.title"
 msgid "Title"
-msgstr ""
+msgstr "Izenburua"
 
 #: installer.to_login
 msgctxt "installer.to_login"
@@ -393,12 +394,12 @@ msgstr ""
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "Erabiltzaile-izena"
 
 #: installer.username_description
 msgctxt "installer.username_description"
 msgid "Your database username"
-msgstr ""
+msgstr "Datu Baseko erabiltzaile-izena"
 
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
@@ -408,4 +409,4 @@ msgstr ""
 #: installer.view_site
 msgctxt "installer.view_site"
 msgid "View your website"
-msgstr ""
+msgstr "Zure webgunea ikusi"
