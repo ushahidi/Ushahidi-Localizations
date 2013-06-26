@@ -1,6 +1,7 @@
 # 
 # Translators:
 # dauriabros <dau.avatar@gmail.com>, 2012
+# davidebeatrici <davidebeatrici@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2012
 # Tony Goodyear <fswitch20@hotmail.com>, 2012
 msgid ""
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 18:30+0000\n"
+"Last-Translator: davidebeatrici <davidebeatrici@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,19 +24,19 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr "Accesso negato. Le credenziali che hai inserito non sono corrette oppure ti è stato revocato l'accesso."
+msgstr "Accesso negato. Le credenziali che hai inserito non sono corrette oppure la tua richiesta è stata rifiutata."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr "Accesso negato. La richiesta era corretta ma è stata bloccata per dei limiti di accesso (ad esempio il tempo). Riprova più tardi."
+msgstr "Accesso negato. La richiesta era corretta ma è stata bloccata per dei limiti di accesso (forse di tempo). Riprova più tardi."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr "Livello Accesso"
+msgstr "Livello di Accesso"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
@@ -45,7 +46,7 @@ msgstr "Azioni"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr "Aggiungi alla Categoria"
+msgstr "Aggiungi alla categoria"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -60,22 +61,22 @@ msgstr "aggiunto/modificato"
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr "Funzionalità aggiuntive"
+msgstr "Addons"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr "Amministratore"
+msgstr "Admin"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr "Avvisi"
+msgstr "Notifiche"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr "Avvisi Ricevuti"
+msgstr "Notifiche Ricevuti"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -466,7 +467,7 @@ msgstr "Email"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Intero collettivo"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -481,7 +482,7 @@ msgstr "La libreria PHP IMAP non è istallata"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "Credenziali errate"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -551,7 +552,7 @@ msgstr "Javascript"
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Segna"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -586,7 +587,7 @@ msgstr "Nome del campo"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "Attiva"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -1051,7 +1052,7 @@ msgstr "su"
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "Su conto specifico"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
@@ -1311,7 +1312,7 @@ msgstr "Le istruzioni sono presenti nel wiki:"
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Seleziona il formato che desideri usare per le segnalazioni scaricate:-"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1454,7 +1455,7 @@ msgstr "Gestione utenti"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Errore timeout"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1604,7 +1605,7 @@ msgstr "Wiki"
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

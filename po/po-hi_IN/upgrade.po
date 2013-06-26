@@ -1,264 +1,300 @@
-#. extracted from en_US/upgrade.php, hi_IN/upgrade.php#
-# Translators: 
+# 
+# Translators:
+# arunkumarrathore <arunkumar0029@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
+"Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 22:16+0000\n"
-"PO-Revision-Date: 2012-09-20 22:16+0000\n"
+"POT-Creation-Date: 2012-12-14 06:11+0000\n"
+"PO-Revision-Date: 2013-06-25 21:26+0000\n"
+"Last-Translator: arunkumarrathore <arunkumar0029@gmail.com>\n"
+"Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: upgrade.upgrade.between
 msgctxt "upgrade.upgrade.between"
 msgid "Invalid input data. It can either be 0 for No or 1 for Yes."
-msgstr ""
+msgstr "अवैध इनपुट डाटा | यह नहीं  के लिए 0 या  हाँ के लिए 1 हो सकता है । "
 
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
 msgid "Automatic Upgrade"
-msgstr ""
+msgstr "स्वचालित अपग्रेड"
 
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "उपलब्ध अपडेट "
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
 msgid "Continue"
-msgstr ""
+msgstr "जारी"
 
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr ""
+msgstr "अपग्रेड"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr ""
+msgstr "अतः, मैं आपका डेटाबेस अपग्रेड करने जा रहा हूँ "
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr ""
+msgstr "नवीनतम डेटाबेस संस्करण से "
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
 msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
-msgstr ""
+msgstr "\"अपग्रेड\" बटन  दबाएँ  और निश्चिन्त रहे, जब तक मैं जादू करता हूँ "
 
 #: upgrade.upgrade_db_text_4
 msgctxt "upgrade.upgrade_db_text_4"
-msgid "Oh, also if you want me to backup your database, just tick the check button below and I will do that for you in a breeze."
-msgstr ""
+msgid ""
+"Oh, also if you want me to backup your database, just tick the check button "
+"below and I will do that for you in a breeze."
+msgstr "और हाँ , यदि आप चाहतें हैं कि मैं आपके डेटाबेस का बैकअप करूँ , बस नीचे दिए गए चेक बटन को टिक करें और मैं आपके लिए ये चुटकियों में कर दूँगा "
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
-msgid "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly recommended</strong>)"
+msgid ""
+"Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
+"recommended</strong>)"
 msgstr ""
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
 msgid "Ushahidi database upgrade"
-msgstr ""
+msgstr "Ushahidi डेटाबेस अपग्रेड "
 
 #: upgrade.upgrade_db_info
 msgctxt "upgrade.upgrade_db_info"
-msgid "Ushahidi has been updated! Before you continue, you need to update your database to the newest version (%s)."
-msgstr ""
+msgid ""
+"Ushahidi has been updated! Before you continue, you need to update your "
+"database to the newest version (%s)."
+msgstr "Ushahidi अपडेट हो चुका है! आगे बढ़ने से पहले, आपको अपने डेटाबेस को नवीनतम संस्करण(%s) तक अपडेट करने की आवश्यकता है "
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "आपका डेटाबेस संस्करण नवीनतम है "
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
 msgid "Upgrade failed at some point"
-msgstr ""
+msgstr "किसी बिंदु पर अपग्रेड विफल रहा"
 
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "मैन्युअल अपग्रेड"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr ""
+msgstr "Ushahidi अपग्रेड की स्थिति"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
-msgid "The instructions below detail how to manually upgrade your Ushahidi deploymentl"
-msgstr ""
+msgid ""
+"The instructions below detail how to manually upgrade your Ushahidi "
+"deploymentl"
+msgstr "नीचे दिए गए अनुदेश आपको Ushahidi परिनियोजन को मैन्युअली अपग्रेड करना विस्तार से बतायेंगे "
 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr ""
+msgstr "<dl><dt><strong>डाउनलोड</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr ""
+msgstr "<dd>-नवीनतम Ushahidi build से डाउनलोड करें "
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
-msgid "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Just in case something goes wrong, it's recommended you make an entire backup of your Ushahidi deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the downloaded zip file</dd><dd>- Depending on the operating system running the web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to the webserver and replace the contents of all the folders with the newest from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- First determine your database schema version by looking at the <strong>db_version</strong> value in the settings table or look at the Ushahidi upgrade information at the top of this page. </dd><dd>- If you are at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With your database client, upgrade the database by executing the appropriate upgradex-x.sql file.</dd></dl>"
+msgid ""
+"<dt><strong>Backup</strong></dt><dd>- .htaccess, "
+"./applications/config/config.php, ./applications/config/database.php and "
+"./applications/config/auth.php files. </dd><dd>- Just in case something goes"
+" wrong, it's recommended you make an entire backup of your Ushahidi "
+"deployment.</dd><dt><strong>Copy files</strong></dt><dd>- Extract the "
+"downloaded zip file</dd><dd>- Depending on the operating system running the "
+"web server, use your preferred tool/mode (e.g. Telnet, FTP, SSH) to login to"
+" the webserver and replace the contents of all the folders with the newest "
+"from the recent build.</dd><dt><strong>Upgrde database</strong></dt><dd>- "
+"First determine your database schema version by looking at the "
+"<strong>db_version</strong> value in the settings table or look at the "
+"Ushahidi upgrade information at the top of this page. </dd><dd>- If you are "
+"at version 25, you need to upgrade from 25-26, 26-27, 27-28 and so on up to "
+"the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
+"your database client, upgrade the database by executing the appropriate "
+"upgradex-x.sql file.</dd></dl>"
 msgstr ""
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
-msgid "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. Manuall run the upgrade<xx>-<xx>.sql file starting from the current db version of your install through to the final sql upgrade file."
+msgid ""
+"<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
+"Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
+"version of your install through to the final sql upgrade file."
 msgstr ""
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
-msgid "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button to upgrade the necessary tables."
+msgid ""
+"<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
+"to upgrade the necessary tables."
 msgstr ""
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "स्वचालित अपग्रेड के लिए, नीचे दिए गए बटन पर क्लिक करें."
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
-msgid "You are currently using Ushahidi v%s with database version %d running on %s"
-msgstr ""
+msgid ""
+"You are currently using Ushahidi v%1$s with database version %2$d running on"
+" %3$s"
+msgstr "आप अभी Ushahidi v%1$s, डेटाबेस संस्करण %2$d के  साथ उपयोग कर रहे है जो %3$s चल रहा है "
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "अपग्रेड कर रहा है "
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
-msgid "To continue with the easy upgrade, the following information is required for the FTP server that your website is hosted on."
-msgstr ""
+msgid ""
+"To continue with the easy upgrade, the following information is required for"
+" the FTP server that your website is hosted on."
+msgstr "आसान अपग्रेड के साथ जारी रखने के लिए, निम्न जानकारी FTP सर्वर के लिए आवश्यक है जहाँ अपनी वेबसाइट होस्ट की है ."
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "FTP होस्ट का नाम: <span>उदाहरण:\"localhost\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "FTP पासवर्ड "
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "FTP उपयोगकर्ता का नाम:"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "आपके पास Ushahidi का नवीनतम संस्करण है "
 
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "आपको अपग्रेड की आवश्यकता नहीं है "
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "डेटाबेस संस्करण: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "चेतावनी: version.php  तथा डेटाबेस का सॉफ्टवेयर संस्करण मेल नहीं कर रहा "
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "चेतावनी: version.php  तथा डेटाबेस का डेटाबेस संस्करण मेल नहीं कर रहा  "
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "डेटाबेस:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
 msgid "Ushahidi %s"
-msgstr ""
+msgstr "Ushahidi %s"
 
 #: upgrade.beta
 msgctxt "upgrade.beta"
 msgid "BETA!"
-msgstr ""
+msgstr "बीटा!"
 
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "Ushahidi का नवीनतम संस्करण डाउनलोड कर रहा है "
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "लॉग फ़ाइल"
 
-#: upgrade.successfully_downloaded 
-msgctxt "upgrade.successfully_downloaded "
+#: upgrade.successfully_downloaded
+msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "डाउनलोड सफल| Unpacking..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "डाउनलोड विफल रहा"
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "सफलतापूर्वक unpacked,  फाइलों की नकल की जा रही है "
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "unpacking विफल रही "
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "सफलतापूर्वक नकल की गयी. डेटाबेस अपग्रेड हो रहा है  "
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr " फाइलों की नकल विफल रही "
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "डेटाबेस का बैकअप और अपग्रेड सफल "
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "बैकअप विफल रहा"
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "डेटाबेस का अपग्रेड सफल "
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "डाउनलोड की गयी फ़ाइलें मिटा रहा है "
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
-
+msgstr "अपग्रेड सफल| <a href=\"%s\" target=\"_blank\">लॉग फ़ाइल</a>देखें"

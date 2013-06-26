@@ -3,14 +3,15 @@
 # panic <asimetriaperfecta@hotmail.es>, 2012
 # audreylingstuyl <audreylingstuyl@gmail.com>, 2012
 # jhcaiced <jhcaiced@gmail.com>, 2012
+# manzo_mauricio <manzo.mauricio@gmail.com>, 2013
 # Nicolas Pereyra Molinas <pereyra@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 18:39+0000\n"
+"Last-Translator: manzo_mauricio <manzo.mauricio@gmail.com>\n"
 "Language-Team: Spanish (Argentina) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_AR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -81,7 +82,7 @@ msgstr "Alertas Recibidas"
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -482,7 +483,7 @@ msgstr "La librería IMAP PHP no está instalada"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "Credenciales incorrectas"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -1087,12 +1088,12 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "Lamentablemente, la página a la que estás intentando acceder no está aquí.<p><strong>¿Hiciste clic en un vínculo de alguna página de nuestro sitio?</strong><br />Si llegaste a esta página desde otra parte de nuestro sitio, <a href=\"%s\">comunícate con nosotros</a> para que podamos resolverlo.</p><p><strong>¿Usaste un vínculo de otro sitio? </strong><br />Los vínculos de otros sitios puedes estar desactualizados o incluir errores tipográficos. <a href=\"%s\">Indícanos</a> de dónde provienes para que intentemos comunicarnos con el otro sitio y resolver el problema.</p><p><strong>¿Escribiste la URL? </strong><br />Es posible que hayas escrito incorrectamente la dirección (URL). Verifica que la hayas escrito sin errores tipográficos y que hayas usado correctamente las mayúsculas y minúsculas, etc. </p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Lamentablemente, la página a la que está intentando acceder no está aquí."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1216,7 +1217,7 @@ msgstr "Denunciar título"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Fecha del informe"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1268,7 +1269,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Este correo electrónico ya tiene una cuenta administrada por CrowdmapID. El usuario necesitará usar su contraseña existente de Crowmap para iniciar sesión."
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1312,7 +1313,7 @@ msgstr "Las instrucciones están disponibles en el Wiki"
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "Seleccione el formato de informe que desea usar para descargarlo:"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1455,7 +1456,7 @@ msgstr "Administrar usuarios"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "Error de tiempo de espera"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1605,7 +1606,7 @@ msgstr "Wiki"
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

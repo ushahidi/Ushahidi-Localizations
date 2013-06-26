@@ -2,13 +2,14 @@
 # Translators:
 # andrearichetta <andrea.richetta@gmail.com>, 2012
 # past12 <pallicca@gmail.com>, 2012
+# tania <tania.monti@gmx.it>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 21:30+0000\n"
+"Last-Translator: tania <tania.monti@gmx.it>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -128,7 +129,7 @@ msgstr "Il campo vita della cache delle pagine contiene un valore non valido"
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "Il campo vita della cache delle pagine è obbligatorio."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -160,19 +161,19 @@ msgstr "Pulisci URL"
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "Il campo del numero API di Clickatell non deve essere più lungo di 20 caratteri."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "È necessario il campo API di Clickatell."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Il campo password di Clickatell deve contenere un minimo di 5 e un massimo 50 caratteri."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
@@ -269,29 +270,29 @@ msgstr "The Mail server port field is too long"
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "È necessario indicare il tipo di mail server."
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Il nome utente del mail server non può essere più lungo di 50 caratteri."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "Il campo nome utente del server di posta elettronica è necessario."
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Opzioni di configurazione di Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "Per ottenere le informazioni sottostanti sarà necessario creare una nuova applicazione Facebook su"
 
 #: settings.facebook.description_2
 msgctxt "settings.facebook.description_2"
@@ -315,7 +316,7 @@ msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr ""
+msgstr "Il campo di Google Analytics deve contenere un ID di proprietà web valido nel formato UA-XXXXX-XX."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
@@ -446,7 +447,7 @@ msgstr "Includere RSS News Feed sul Website"
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Permette agli utenti di abbonarsi alle notifiche"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -461,12 +462,12 @@ msgstr "Chiave Akismet"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Banner del sito"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "blocchi per riga"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
@@ -538,7 +539,7 @@ msgstr "Indirizzo email del sito"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -582,12 +583,12 @@ msgstr "Lingua del Sito"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Approvazione manuale utenti"
 
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Messaggio del sito"
 
 #: settings.site.name
 msgctxt "settings.site.name"
@@ -597,17 +598,17 @@ msgstr "Nome Sito"
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "Deployment privato"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Conferma email dell'utente necessaria."
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Invia rapporto"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -622,7 +623,7 @@ msgstr "Tagline Sito"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Fuso orario"
 
 #: settings.site.title
 msgctxt "settings.site.title"
@@ -648,12 +649,12 @@ msgstr "The site email field does not appear to contain a valid email address?"
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr ""
+msgstr "Il campo email deve essere lungo almeno 4 caratteri e non più di 100."
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "Il campo nome deve essere lungo almeno 3 caratteri e non più di 50."
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"

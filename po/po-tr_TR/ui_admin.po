@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Caner BAŞARAN <basaran.caner@gmail.com>, 2012
+# IOrbit Schnauzer <orbitc@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 18:46+0000\n"
+"Last-Translator: IOrbit Schnauzer <orbitc@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +34,7 @@ msgstr "Giriş engellendi. İsteğiniz iletildi ancak zaman gibi çeşitli kıs�
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Erişim Seviyesi"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
@@ -43,7 +44,7 @@ msgstr "Eylemler"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Kategori Ekle"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -68,12 +69,12 @@ msgstr "Yönetici"
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Uyarılar"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Uyarılar Alındı"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -93,12 +94,12 @@ msgstr "Gizli"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Herhangi biri"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Herhangi bir yer"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
@@ -168,17 +169,17 @@ msgstr "Formları değiştirmek istediğinize emin misiniz"
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Ata"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Atamalar"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Rozet Ata"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -203,17 +204,17 @@ msgstr "IP'yi engelle"
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Vakitler Arasında"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Sütun"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr ""
+msgstr "Beden"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
@@ -248,7 +249,7 @@ msgstr "Lütfen kısa mesaj ayarlarınızı kontrol edin!"
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Yer Bildirim Detayları"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
@@ -273,7 +274,7 @@ msgstr "Kod sürümü güncel değil."
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Renk"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
@@ -293,7 +294,7 @@ msgstr "Bu kullanıcı"
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Say"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
@@ -318,12 +319,12 @@ msgstr "Kritik Güncelleme"
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Şu Anda Aktif"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
@@ -369,7 +370,7 @@ msgstr ""
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Haftanın günleri"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"

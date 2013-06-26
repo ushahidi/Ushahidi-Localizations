@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-26 04:29+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -28,7 +29,7 @@ msgstr "Будь ласка, введіть код безпеки"
 #: message.email.email
 msgctxt "message.email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "Поле email містить неправильну електронну адресу."
 
 #: message.email.length
 msgctxt "message.email.length"

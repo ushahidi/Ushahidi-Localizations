@@ -1,13 +1,14 @@
 # 
 # Translators:
+# davidebeatrici <davidebeatrici@gmail.com>, 2013
 # Tony Goodyear <fswitch20@hotmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 18:35+0000\n"
+"Last-Translator: davidebeatrici <davidebeatrici@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,12 +23,12 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Questo aggiunge la segnalazione a categorie aggiuntive. Se selezioni \"Categoria 1\" qui e la segnalazione è nella \"Categoria 2\", avrà sia \"Categoria 1\" che \"Categoria 2\"."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr "Approva un reporto o no. Se approvato, sarà visibile pubblicamente."
+msgstr "Approva una segnalazione o no. Se approvata, sarà visibile pubblicamente."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
@@ -68,7 +69,7 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr "Corpo del messaggio che sarà inviata."
+msgstr "Corpo della email che sarà inviata."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
@@ -171,7 +172,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr "Contrassegna come report verificato o no."
+msgstr "Contrassegna una segnalazione come verificata o no."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -183,7 +184,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr "Separare ogni calore con una virgola, e.g. valore1,valore2"
+msgstr "Separare ogni valore con una virgola. Esempio: valore1,valore2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -191,17 +192,17 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "Separare ogni valore con una virgola. Esempio: valore1,valore2. Nel caso in cui tu voglia impostare un valore predefinito, concludi la tua lista delle opzioni con :: Esempio: Se vuoi mettere \"valore3\" come predefinito, dovrai mettere valore1,valore2,valore3::valore3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "Separa ogni scelta con una virgola, esempio: Scelta 1, Scelta 2 etc."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Comincia a scrivere per visualizzare i membri."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
@@ -219,7 +220,7 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "Puoi scegliere un colore che verrà visualizzato sotto l'immagine profilo del tuo profilo pubblico. Questo colore sarà anche quello del punto che verrà visualizzato per le tue selezioni."
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
@@ -231,14 +232,14 @@ msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr "Il tuo nome completo"
+msgstr "Questo è uno dei modi in cui sarai riconosciuto nel sito. Ricorda che è pubblico!"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "Se selezionata, questa sarà la tua nuova password. Lascia il campo vuoto se vuoi tenere la tua password corrente."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -246,14 +247,14 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "Questa è una richiesta quando viene creato un nuovo utente e sarà la password degli utenti. Dovresti informare il tuo nuovo utente di cambiare la password dopo essersi connesso per la prima volta."
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr "Seleziona SI' per essere avvisato via email quando nuove segnalazioni o commenti vengono inviati al sito"
+msgstr "Seleziona SI' per essere avvisato via email quando nuove segnalazioni o commenti vengono inviati al sito."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
@@ -268,17 +269,17 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "Il tuo profilo può essere visto da chiunque su Internet se selezioni questa opzione. Questo è anche il modo più facile per fare vedere le segnalazioni che hai inviato, le tue selezioni, i tuoi badges, etc. Tutto in una pagina."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr "Questo è l'indirizzo dove trovare il tuo profilo pubblico."
+msgstr "Questo è l'indirizzo dove si trova il tuo profilo pubblico."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
 msgid "Your username cannot be changed."
-msgstr "Non è possibile modificare lo username"
+msgstr "Il tuo nome utente non può essere cambiato."
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
@@ -313,7 +314,7 @@ msgstr "Permetti agli utenti di commentare le segnalazioni sul sito pubblico"
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
-msgstr "Permetti di visualizzare i Feed Rss di notizie sul sito pubblico"
+msgstr "Permetti di visualizzare i Feed RSS di notizie sul sito pubblico"
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
@@ -387,7 +388,7 @@ msgstr "Colore di default per le categorie"
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Seleziona una sola icona per tutte le categorie sul sito."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"

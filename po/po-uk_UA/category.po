@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-26 04:33+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -60,7 +61,7 @@ msgstr "Будь ласка, введіть назву."
 #: category.parent_id.already_parent
 msgctxt "category.parent_id.already_parent"
 msgid "You cannot subcategorize a category with subcategories."
-msgstr ""
+msgstr "Ви не можете робити підкатегоризацію категорії з підкатегоріями."
 
 #: category.parent_id.exists
 msgctxt "category.parent_id.exists"
@@ -75,7 +76,7 @@ msgstr "Назва батьківської папки має складатис
 #: category.parent_id.parent_trusted
 msgctxt "category.parent_id.parent_trusted"
 msgid "The parent category cannot be a special category"
-msgstr ""
+msgstr "Батьківська категорія не може бути спеціальною категорією"
 
 #: category.parent_id.required
 msgctxt "category.parent_id.required"
@@ -90,4 +91,4 @@ msgstr "Папка та батьківська папка не можуть ма
 #: category.parent_id.special
 msgctxt "category.parent_id.special"
 msgid "Special categories cannot be subcategorised."
-msgstr ""
+msgstr "Спеціальні категорії не можуть бути підкатегоризовані."

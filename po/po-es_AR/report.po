@@ -1,14 +1,15 @@
 # 
 # Translators:
 # audreylingstuyl <audreylingstuyl@gmail.com>, 2012
+# juliabis <juliassantos5@gmail.com>, 2013
 # Nicolas Pereyra Molinas <pereyra@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 22:15+0000\n"
+"Last-Translator: juliabis <juliassantos5@gmail.com>\n"
 "Language-Team: Spanish (Argentina) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_AR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -37,42 +38,42 @@ msgstr "Por favor ingrese un valor válido para uno de sus items de formulario c
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "El campo \"%s\" debe ser numérico"
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "El campo \"%s\" es requerido."
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr "El campo \"%s\" no existe."
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "El campo \"%s\" no puede ser editado por su cuenta."
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "El campo \"%s\" debe conterner una dirección de correo electrónico válida."
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "El campo \"%s\" debe contener un número de teléfono válido"
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "El campo \"%s\" debe contener una fécha válida (MM/DD/YYYY)"
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "El campo \"%s\" debe contener una fecha válida (DD/MM/YYYY)"
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
@@ -138,12 +139,12 @@ msgstr "Por favor seleccionar un tipo válido de informe a descargar"
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "Debe seleccionar un formato de descarga. Seleccione CSV o XML"
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "Por favor, seleccione un formato válido para descargar sus reportes."
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"

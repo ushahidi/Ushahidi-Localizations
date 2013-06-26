@@ -1,5 +1,6 @@
 # 
 # Translators:
+# davidebeatrici <davidebeatrici@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2012
 # Damtux <sun_lion@live.com>, 2012
 msgid ""
@@ -7,8 +8,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-25 18:40+0000\n"
+"Last-Translator: davidebeatrici <davidebeatrici@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,62 +33,62 @@ msgstr "Questa installazione comprende solo una nazione. Assicurati che la segna
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for one of your custom form items."
-msgstr "Inserisci un valore valido per uno degli item del tuo custom form"
+msgstr "Inserisci un valore valido per una delle scelte del tuo campo personalizzato."
 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "Il campo \"%s\" dev'essere numerico."
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "Il campo \"%s\" è richiesto."
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr "Il campo \"%s\" non esiste."
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "Il campo \"%s\" non può essere modificato dal tuo account."
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "Il campo \"%s\" deve contenere un indirizzo email valido."
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "Il campo \"%s\" deve contenere un numero di telefono valido."
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "Il campo \"%s\" deve contenere una data valida (MM/DD/YYYY)."
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "Il campo \"%s\" deve contenere una data valida (MM/DD/YYYY)."
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr "Seleziona un item valido da includere nel download"
+msgstr "Seleziona un oggetto valido da includere nel download."
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr "Seleziona un item valido da includere nel download"
+msgstr "Seleziona un oggetto valido da includere nel download"
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr "Seleziona \"Segnalazioni da approvare\" o \"Segnalazioni approvate\" o entrambi"
+msgstr "Seleziona \"Segnalazioni da approvare\" o \"Segnalazioni approvate\" o entrambi."
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
@@ -138,12 +139,12 @@ msgstr "Seleziona un tipo di segnalazione valido da scaricare"
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "Devi selezionare un formato di download. Scegli CSV o XML."
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "Scegli un formato valido in cui scaricare le tue segnalazioni"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
