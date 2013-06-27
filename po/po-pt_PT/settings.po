@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alfalb_mansil <manuela.silva@sky.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-26 16:52+0000\n"
+"Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,22 +19,22 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr "The allow comments field does not appear to contain a valid value?"
+msgstr "O campo de autorização dos comentários não parece conter um valor válido."
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "É necessário o campo de autorização dos comentários."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr "The include feed field does not appear to contain a valid value?"
+msgstr "O campo de incluir o Feed não parece conter um valor válido."
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr ""
+msgstr "É necessário o campo de incluir o Feed."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -110,12 +111,12 @@ msgstr ""
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr ""
+msgstr "É necessário o campo da cache das páginas."
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "O campo da cache das páginas parece não conter um valor válido."
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
@@ -148,12 +149,12 @@ msgstr "This option makes Ushahidi to be accessed via \"clean\" URLs. Without \"
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Ativar Limpar os URL's"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr " Limpar URL's"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
@@ -190,12 +191,12 @@ msgstr ""
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "Configurar Mapa"
 
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "Localização Predefinida"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
@@ -215,27 +216,27 @@ msgstr ""
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "Visualização de Mapa Predefinida"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "Nível do Zoom Predefinido"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "Obter as Cidades a partir do Geonames"
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr "The Mail server port field is too long"
+msgstr "O campo da porta do servidor de Mail é muito longo."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "O campo da porta do servidor de Mail só deverá conter números."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
@@ -282,7 +283,7 @@ msgstr ""
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Opções  de Configuração do Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
@@ -301,7 +302,7 @@ msgstr ""
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Id. da App do facebook"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
@@ -318,7 +319,7 @@ msgstr ""
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Ativar HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -337,7 +338,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -372,7 +373,7 @@ msgstr "Setting up your map provider is a straight- forward process. Select a pr
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "Nível do Zoom"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
@@ -387,7 +388,7 @@ msgstr ""
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr ""
+msgstr "Obter um Código API"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
@@ -409,7 +410,7 @@ msgstr ""
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Definições do Mapa"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -479,22 +480,22 @@ msgstr ""
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "Ativar Verificações"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "Declaração dos direitos de Autor do Site"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr ""
+msgstr "Cor Predefinida para Todas as Categorias"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Ícone Predefinido para Todas as Categorias"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
@@ -504,7 +505,7 @@ msgstr ""
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Apagar Ícone Predefinido"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -531,7 +532,7 @@ msgstr ""
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Endereço de e-mail do Site"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
@@ -551,7 +552,7 @@ msgstr ""
 #: settings.site.items_per_page_admin
 msgctxt "settings.site.items_per_page_admin"
 msgid "Items Per Page - Admin"
-msgstr ""
+msgstr "Itens por Página - Administrador"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
@@ -575,12 +576,12 @@ msgstr ""
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "Idioam do Site"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Aprovar Utilizadores Manualmente"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -590,7 +591,7 @@ msgstr ""
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "Nome do Site"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
@@ -625,7 +626,7 @@ msgstr ""
 #: settings.site.title
 msgctxt "settings.site.title"
 msgid "Site Settings"
-msgstr ""
+msgstr "Definições do Site"
 
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"

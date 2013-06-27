@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Gideon van Melle <translations@gvmelle.com>, 2013
 # Andrea_Pio <ivan.schepens@wynns.be>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-26 08:42+0000\n"
+"Last-Translator: Gideon van Melle <translations@gvmelle.com>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,7 +25,7 @@ msgstr "Systeempad"
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr ""
+msgstr "Database"
 
 #: installer.database_host
 msgctxt "installer.database_host"
@@ -56,7 +57,7 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
 "target=\"_blank\">this article</a> on the wiki that talks about databases in"
 " more detail."
-msgstr ""
+msgstr "Voor meer informatie kunt u  <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">dit artikel</a> op de wiki raadplegen dat dieper ingaat op databases."
 
 #: installer.default_language
 msgctxt "installer.default_language"
@@ -70,7 +71,7 @@ msgid ""
 "translations. You can also <a "
 "href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\""
 " target=\"_blank\">add your own</a>."
-msgstr ""
+msgstr "Elke installatie van Ushahidi bevat een aantal ingebouwde talen. U kunt ook <a href=\"http://wiki.ushahidi.com/doku.php?id=localisation_l10n_internationlisation_i18n&s[]=language#enabling_new_languages\" target=\"_blank\">uw eigen vertaling toevoegen</a>."
 
 #: installer.disable
 msgctxt "installer.disable"
@@ -94,7 +95,7 @@ msgid ""
 " have automatically detected this value, please make sure that it is "
 "correct.</strong> If the field is empty, do not worry, it means ushahidi is "
 "installed at the top level directory."
-msgstr ""
+msgstr "De plaats op uw server waar u Ushahidi bestanden heeft neergezet. <strong>We hebben dit automatisch gedetecteerd. Overtuig u ervan dat het correct is.</strong> Als het veld leeg is, hoeft u zich geen zorgen te maken. Het betekent dat ushahidi op het hoogste niveau in de mappenstructuur is geïnstalleerd. "
 
 #: installer.finished
 msgctxt "installer.finished"
@@ -134,7 +135,7 @@ msgctxt "installer.index.advanced_installation_description"
 msgid ""
 "Get all the basic settings completed through this 5-step process.  This "
 "includes server, map, site name and contact details."
-msgstr ""
+msgstr "Voltooi alle belangrijkste instellingen met dit 5-stappen proces. Dit omvat server, kaart, website naam en contact details."
 
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
@@ -147,7 +148,7 @@ msgid ""
 "Simple and fast. All you need is your website's root directory and your "
 "database information. Choose this option if you want to get up and running "
 "quickly, and you can always configure everything else later."
-msgstr ""
+msgstr "Eenvoudig en snel. Alles wat u nodig heeft is de root map van uw website en de database informatie. Kies deze optie als u snel aan de slag wilt. U kunt altijd later de rest configureren."
 
 #: installer.index.proceed
 msgctxt "installer.index.proceed"
@@ -159,7 +160,7 @@ msgctxt "installer.index.welcome"
 msgid ""
 "Welcome to the Ushahidi server install process.  Choose which type of "
 "installation you would like to use below."
-msgstr ""
+msgstr "Welkom bij het Ushahidi server installatie proces. Kies hieronder welk type installatie u wilt gebruiken."
 
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
@@ -212,7 +213,7 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Internet Message Access Protocol (IMAP) of Post Office Protocol (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Wat is het verschil?</a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
@@ -224,7 +225,7 @@ msgctxt "installer.mail_server_username_description"
 msgid ""
 "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email address "
 "as a username."
-msgstr ""
+msgstr "Als u Gmail, Hotmail, or Yahoo Mail gebruikt, vul dan een volledig e-mailadres in als gebruikersnaam."
 
 #: installer.map
 msgctxt "installer.map"
@@ -242,7 +243,7 @@ msgid ""
 "Ushahidi works equally well with any of these three mapping providers: "
 "Google, Bing or Open Street Map. Choose the one that has the most detail in "
 "your area."
-msgstr ""
+msgstr "Ushahidi werkt met elk van de volgende drie mapping providers even goed: Google, Bing of Open Street Map. Kies er een die de meeste details heeft in uw gebied."
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
@@ -280,7 +281,7 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr ""
+msgstr "Sommige mail servers geven u de optie  <abbr title=\"Secure Sockets Layer\">SSL</abbr>  te gebruiken voor het maken van een verbinding. SSL is aanbevolen, aangezien het een extra beschermingslaag geeft."
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
@@ -295,7 +296,7 @@ msgstr "E-mail adres van deze website"
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "Website alert e-mailadres"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -303,12 +304,12 @@ msgid ""
 "When your site visitors sign up for email alerts, they will receive emails "
 "from this address. This email address does not have to be the same as the "
 "Site Email Address."
-msgstr ""
+msgstr "Wanneer uw website bezoekers zich registreren voor alert e-mails zullen ze e-mailberichten ontvangen van dit adres. Dit e-mailadres hoeft niet hetzelfde te zijn als het Website E-mailadres."
 
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr ""
+msgstr "Algemene website communicatie zal geleid worden door dit adres"
 
 #: installer.site_name
 msgctxt "installer.site_name"
@@ -323,18 +324,18 @@ msgstr "Naam van de website"
 #: installer.site_tagline
 msgctxt "installer.site_tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Website tagline"
 
 #: installer.site_tagline_description
 msgctxt "installer.site_tagline_description"
 msgid "Your tagline"
-msgstr ""
+msgstr "Uw tagline"
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
 msgid ""
 "The files and folders listed below need to be writable by your webserver."
-msgstr ""
+msgstr "Onderstaande bestanden en mappen moeten door uw webserver beschrijfbaar zijn."
 
 #: installer.summary.text_2
 msgctxt "installer.summary.text_2"
@@ -344,7 +345,7 @@ msgid ""
 "            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n"
 "            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n"
 "        </ul>"
-msgstr ""
+msgstr "<p>Hier staan de instructies voor het veranderen van de bestandsrechten:</p>\n        <ul>\n            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n        </ul>"
 
 #: installer.summary.text_3
 msgctxt "installer.summary.text_3"
@@ -352,7 +353,7 @@ msgid ""
 "Before you get started, you will need to make sure the following files and "
 "folders are writable by your webserver. This involves changing file "
 "permissions."
-msgstr ""
+msgstr "Voor u begint moet u zorgen dat de volgende bestanden en mappen door je webserver beschrijfbaar zijn. Dit betreft wijzigingen van de bestandsrechten."
 
 #: installer.summary.text_4
 msgctxt "installer.summary.text_4"
@@ -372,7 +373,7 @@ msgid ""
 "Normally you would not change the table prefix. However, if you want to run "
 "multiple Ushahidi installations from a single database, you can do that by "
 "changing the prefix here."
-msgstr ""
+msgstr "Normaal gezien zult u de tabel prefix niet veranderen. Als u echter meerder Ushahidi installaties van één database wilt draaien, kunt u dat doen door hier de prefix te veranderen."
 
 #: installer.title
 msgctxt "installer.title"
@@ -402,7 +403,7 @@ msgstr "Database gebruikersnaam"
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
 msgid "and use the following credentials"
-msgstr ""
+msgstr "en gebruik de volgende inloggegevens"
 
 #: installer.view_site
 msgctxt "installer.view_site"

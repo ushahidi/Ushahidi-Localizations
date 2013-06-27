@@ -1,12 +1,13 @@
 # 
 # Translators:
+# alfalb_mansil <manuela.silva@sky.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-26 16:55+0000\n"
+"Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,27 +19,27 @@ msgstr ""
 #: bug.captcha.default
 msgctxt "bug.captcha.default"
 msgid "Please enter a valid security code."
-msgstr "Por favor insira um código de segurança válido"
+msgstr "Por favor, insira um código de segurança válido."
 
 #: bug.captcha.required
 msgctxt "bug.captcha.required"
 msgid "Please enter the security code."
-msgstr "Por favor insira o código de segurança"
+msgstr "Por favor, insira o código de segurança."
 
 #: bug.email.email
 msgctxt "bug.email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr "O campo do Email parece conter um endereço de email inválido?"
+msgstr "O campo do e-mail parece não conter um endereço de e-mail inválido?"
 
 #: bug.email.length
 msgctxt "bug.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr "O campo do Email deve ter entre 4 a 64 caracteres."
+msgstr "O campo do e-mail deve ter entre 4 a 64 carateres."
 
 #: bug.email.required
 msgctxt "bug.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "O campo do Email é obrigatório caso a opção seja seleccionada."
+msgstr "O campo do e-mail é obrigatório, se a opção for selecionada."
 
 #: bug.error.required
 msgctxt "bug.error.required"
@@ -48,7 +49,7 @@ msgstr "O campo do erro é obrigatório."
 #: bug.subject.length
 msgctxt "bug.subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr "O campo do assunto deve ter pelo menos 3 caracteres."
+msgstr "O campo do assunto deve ter pelo menos 3 carateres."
 
 #: bug.subject.required
 msgctxt "bug.subject.required"
@@ -58,7 +59,7 @@ msgstr "O campo do assunto é obrigatório."
 #: bug.yourname.length
 msgctxt "bug.yourname.length"
 msgid "The name field must be at least 3 characters long."
-msgstr "O campo do nome deve ter pelos 3 caracteres."
+msgstr "O campo do nome deve ter pelos 3 carateres."
 
 #: bug.yourname.required
 msgctxt "bug.yourname.required"

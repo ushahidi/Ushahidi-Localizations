@@ -1,13 +1,14 @@
 # 
 # Translators:
+# pratik kumar <kpratik217@gmail.com>, 2013
 # Rishab Arora <ra.rishab@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-27 05:56+0000\n"
+"Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr "ईमेल क्षेत्र में मान्य ईमेल पता नहीं है?"
+msgstr " क्या यह ईमेल क्षेत्र एक मान्य ईमेल पता नहीं रखता ?"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
@@ -48,28 +49,28 @@ msgstr "यह प्रणाली एक देश तक ही सीमि
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "आपने मानचित्र पर एक मान्य स्थान का चयन नही किया है|"
 
 #: alerts.alert_lat.required
 msgctxt "alerts.alert_lat.required"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "आपने मानचित्र पर एक सही स्थान का चयन नही किया है| "
 
 #: alerts.alert_lon.between
 msgctxt "alerts.alert_lon.between"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "आपने मानचित्र पर एक सही स्थान का चयन नही किया है| "
 
 #: alerts.alert_lon.required
 msgctxt "alerts.alert_lon.required"
 msgid "You have not selected a valid location on the map."
-msgstr ""
+msgstr "आपने मानचित्र पर एक सही स्थान का चयन नही किया है| "
 
 #: alerts.alert_mobile.length
 msgctxt "alerts.alert_mobile.length"
 msgid ""
 "The Mobile Phone field does not seem to contain the right amount of digits."
-msgstr ""
+msgstr "यह चल दूरभाष का क्षेत्र सही मात्रा मे अक्षर से युक्त नही है|"
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
