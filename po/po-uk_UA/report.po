@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-27 17:43+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,14 +19,14 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "помилка!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "Це розгортання охоплює лише одну країну. Будь ласка, переконайтеся, що розташування звіту знаходиться в країні %s."
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -35,42 +36,42 @@ msgstr "Введіть значення у форми в правильному 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "Поле \"%s\" мусить бути числовим."
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "Поле \"%s\" є обов'язковим"
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr "Поле \"%s\" не існує."
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "Поле \"%s\" не може редагуватися вашим профілем."
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "Поле \"%s\" мусить містити вірну електронну адресу."
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "Поле \"%s\" мусить містити вірний телефонний номер."
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "Поле \"%s\" мусить містити вірну дату (ММ/ДД/РРРР)."
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "Поле \"%s\" мусить містити вірну дату (ДД/ММ/РРРР)."
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
@@ -85,38 +86,38 @@ msgstr "Виберіть правильний формат для заванта
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Виберіть \"Звіти, які очікують схвалення\" або \"Схвалені звіти\" чи обидва."
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Виберіть \"Звіти, які очікують схвалення\" або \"Схвалені звіти\" чи обидва."
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "Виберіть \"Звіти, які очікують схвалення\" або \"Схвалені звіти\" чи обидва."
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Виберіть \"Звіти, які очікують перевірки\" або \"Перевірені звіти\" чи обидва."
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Виберіть \"Звіти, які очікують перевірки\" або \"Перевірені звіти\" чи обидва."
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "Виберіть \"Звіти, які очікують перевірки\" або \"Перевірені звіти\" чи обидва."
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
@@ -136,12 +137,12 @@ msgstr "Будь ласка, виберіть правильний тип зві
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "Ви повинні вибрати формат завантаження. Виберіть CSV або XML."
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "Будь ласка, виберіть вірний формат для завантаження вашого звіту"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
@@ -275,7 +276,7 @@ msgstr "Введіть назву."
 #: report.incident_title.csrf
 msgctxt "report.incident_title.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a report?"
-msgstr ""
+msgstr "Можлива атака CSRF. Ви дійсно хочете створювати / редагувати звіт?"
 
 #: report.incident_verified.between
 msgctxt "report.incident_verified.between"

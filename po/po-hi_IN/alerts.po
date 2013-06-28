@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-06-27 05:56+0000\n"
+"PO-Revision-Date: 2013-06-27 07:48+0000\n"
 "Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
@@ -77,124 +77,124 @@ msgctxt "alerts.alert_mobile.mobile_check"
 msgid ""
 "That Mobile Phone Number has already been registered to receive alerts for "
 "that location."
-msgstr ""
+msgstr "यह चल दूरभाष सूचना प्राप्त करने के लिए पहले से ही पंजीकृत है|"
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
 msgid ""
 "The Mobile Phone field does not appear to contain a valid phone. Please "
 "input numbers only including Country Code."
-msgstr ""
+msgstr "यह चल दूरभाष का क्षेत्र एक सही दूरभाष के ना होने का अनुमान होता है| कृपया वही संख्या निवेस करे जो राष्ट्र कूट सहित है| "
 
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
 msgid "You must enter either your Mobile Phone Number or your Email Address."
-msgstr ""
+msgstr "आप आपना दूरभाष संख्या या ईमेल पता प्रवेस करे|"
 
 #: alerts.alert_mobile.required
 msgctxt "alerts.alert_mobile.required"
 msgid "The Mobile Phone field is required if the checkbox is checked."
-msgstr ""
+msgstr "अगर चेकबॉक्स जाँचा गया तो चल दूरभाष का क्षेत्र आवश्यक होगा| "
 
 #: alerts.alert_radius.in_array
 msgctxt "alerts.alert_radius.in_array"
 msgid "You have not set a valid radius on the map."
-msgstr ""
+msgstr "आपने मानचित्र पर एक सही त्रिज्या निर्धारित नही किया है|"
 
 #: alerts.alert_radius.required
 msgctxt "alerts.alert_radius.required"
 msgid "You have not set your radius on the map."
-msgstr ""
+msgstr "आपने मानचित्र पर आपना त्रिज्या निर्धारित नही किया है|"
 
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr ""
+msgstr "आपना सूचनाओ के लिए एक प्राप्तकर्ता को निर्धारित नही किया है|"
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr ""
+msgstr "आपना निम्नलिखित विभगो के लिए सूचनाओ का अभिदत्त है|"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
 msgid "This code has been verified before!"
-msgstr ""
+msgstr "यह कूट पहले भी सत्यापित की जा चुकी है!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
-msgstr ""
+msgstr "सत्यापित कूट प्राप्त नही किया गया! कृपया पुष्टि करे आपके पास सही  URL है|"
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr ""
+msgstr "आपके कूट को सत्यापित कर दिया गया है| आपको अब  सूचनाओ की प्राप्ति होगी जैसे जैसे घटनाए होती जाएँगी|"
 
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
 msgid "To confirm your alert request, please go to "
-msgstr ""
+msgstr "अपने सूचना आवेदन की पुष्टि के लिए कृपया यहा जाए"
 
 #: alerts.create_more_alerts
 msgctxt "alerts.create_more_alerts"
 msgid "Return to the Alerts page to create more alerts"
-msgstr ""
+msgstr "और सूचना प्राप्त करने के लिए सूचना पृष्ठ मे जाए"
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
-msgstr ""
+msgstr "आपकी ईमेल सूचना के लिए आवेदन कर दिया गया है और प्रमाणन संदेस एस पर भेज दिया गया है|"
 
 #: alerts.email_code
 msgctxt "alerts.email_code"
 msgid "Please enter the Email confirmation code you received below: "
-msgstr ""
+msgstr "कृपया नीचे दिए गए ईमेल पुष्टिकरण कूट को प्रवीस्ट करे|"
 
 #: alerts.email_error_head
 msgctxt "alerts.email_error_head"
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "आपकी ईमेल सूचना के लिए आवेदन को संचित नही किया गया है|"
 
 #: alerts.email_ok_head
 msgctxt "alerts.email_ok_head"
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr ""
+msgstr "आपकी ईमेल सूचना के लिए आवेदन को संचित नही किया गया है|"
 
 #: alerts.error
 msgctxt "alerts.error"
 msgid "The system was not able to process your confirmation request!"
-msgstr ""
+msgstr "यह तंत्र आपके प्रमाणन आवेदन को \tपरिष्कृत करने मे अस्मर्थ रहा|"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr ""
+msgstr "आपके दूरभाष सूचना के आवेदन को तैयार कर दिया गया है और प्रमाणन संदेस एस पर भेज दिया गया है"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr ""
+msgstr "कृपया चल दूरभाष मे प्राप्त किए गए पुष्टिकरण संदेस को नीचे प्रविष्ट करे:"
 
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "आपके चल दूरभाष सूचना आवेदन संचित नही किया गया है!"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr ""
+msgstr "आपके चल दूरभाष सूचना आवेदन संचित  किया गया है!"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"

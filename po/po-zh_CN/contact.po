@@ -1,12 +1,13 @@
 # 
 # Translators:
+# xiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-27 14:33+0000\n"
+"Last-Translator: xiaojoe <1303133601@qq.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr "验证码输入不正确"
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "请输入一个有效地安全地代码。"
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -73,4 +74,4 @@ msgstr "主题是必填项"
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "有个错误正发到你的消息里。"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# xiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-27 11:41+0000\n"
+"Last-Translator: xiaojoe <1303133601@qq.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -95,17 +96,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "该网站横幅似乎并不包含一个有效的图像。只接受 .JPG, .PNG and .GIF格式。"
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "请确认“横幅图像”的大小不超过250 KB。"
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "“横幅图像”似乎并不包含有效文件。"
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -296,17 +297,17 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "这些设置允许用户通过 Facebook登录，这个<strong>不是</strong>在你的部属上建立一个facebook应用"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Facebook应用程序的秘密"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -337,7 +338,7 @@ msgstr "该选项使 Ushahidi 以安全的模式访问；<strong>包括</strong>
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -404,7 +405,7 @@ msgstr "地图提供商"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "地图时间表"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -712,12 +713,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS是免费和开源的软件，这使用户通过手机发送和接受短信和一大群人。点击下面的框从FrontlineSMS.com下载最新版。"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "下载和安装FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -727,22 +728,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "详细地说明了可用的安装就是如何从你的FronlineSMS发送短信<strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">here</a></strong>. 下面的URL和API键需要和FrontlineSMS设置成同步。"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "复制并粘贴到 FrontlineSMS地址字段。"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "复制并粘贴到FrontlineSMS \"Ushahidi API键\" 字段"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr " 把FrontlineSMS连接到Ushahidi部署。"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -802,36 +803,36 @@ msgstr "电话号码3只能包括数字"
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Twitter设置选项"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "得到信息如下，在一个新的Twitter应用程序上设置你的部署"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "消费者关键"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "消费者秘密"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "访问令牌"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "访问令牌秘密"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "测试设置"

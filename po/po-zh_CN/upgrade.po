@@ -1,12 +1,13 @@
 # 
 # Translators:
+# xiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-27 10:02+0000\n"
+"Last-Translator: xiaojoe <1303133601@qq.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -79,12 +80,12 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidi 软件已更新！在继续操作之前，你需要把你的数据库更新至最新版本 (%s)。"
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "你的数据库版本是最新的。"
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
@@ -164,7 +165,7 @@ msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "你当前使用在 %3$s上运行Ushahidi v%1$s 和数据库版本 %2$d "
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
@@ -201,7 +202,7 @@ msgstr "您已经更新到最新版本 Ushahidi."
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "不需要再更新。"
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
@@ -226,74 +227,74 @@ msgstr "数据库:"
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
 msgid "Ushahidi %s"
-msgstr ""
+msgstr "Ushahidi %s"
 
 #: upgrade.beta
 msgctxt "upgrade.beta"
 msgid "BETA!"
-msgstr ""
+msgstr "测试版"
 
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "下载最新的ushahidi版本"
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "日志文件"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "下载成功。解压中．．．"
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "下载失败"
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "升级成功。正在复制文件．．．"
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "解压失败"
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "复制成功。正在升级数据库……"
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "复制文件失败。"
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "数据库备份并升级成功。"
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "数据库备份失败。"
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "数据库升级成功。"
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "正在删除下载文件．．．"
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "升级成功。查看<a href=\"%s\" target=\"_blank\">日志文件</a>"

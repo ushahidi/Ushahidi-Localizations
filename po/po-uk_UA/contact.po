@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-27 16:58+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr "Будь ласка, введіть правильний код безп
 #: contact.captcha.valid
 msgctxt "contact.captcha.valid"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "Будь ласка, введіть правильний код безпеки."
 
 #: contact.captcha.required
 msgctxt "contact.captcha.required"
@@ -33,7 +34,7 @@ msgstr "Будь ласка, введіть код безпеки"
 #: contact.contact_email.email
 msgctxt "contact.contact_email.email"
 msgid "The Email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "Поле email містить неправильну електронну адресу."
 
 #: contact.contact_email.length
 msgctxt "contact.contact_email.length"
@@ -43,7 +44,7 @@ msgstr "Поле електронної пошти повинно бути до�
 #: contact.contact_email.required
 msgctxt "contact.contact_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "Потрібно ввести Email адресу або зніміть прапорець."
 
 #: contact.contact_message.required
 msgctxt "contact.contact_message.required"
@@ -73,4 +74,4 @@ msgstr "Поле теми є обов'язковим."
 #: contact.email_send.failed
 msgctxt "contact.email_send.failed"
 msgid "There was an error sending your message."
-msgstr ""
+msgstr "Трапилася помилка при надсиланні вашого повідомлення."
