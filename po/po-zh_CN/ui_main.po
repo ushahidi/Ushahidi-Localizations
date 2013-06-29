@@ -1,13 +1,14 @@
 # 
 # Translators:
+# leeshzh <Leeshzh@gmail.com>, 2013
 # Plato Leung <popoutdoor@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-28 09:37+0000\n"
+"Last-Translator: leeshzh <Leeshzh@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,7 +150,7 @@ msgstr "接收你附近的报道"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "提醒已经被"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -243,7 +244,7 @@ msgstr "和"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -485,7 +486,7 @@ msgstr "您已经成功地确认您的电子邮件地址！请在下面登录。
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "电子邮件认证失败！您可以在下面申请重新认证。"
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -535,7 +536,7 @@ msgstr "信息标题"
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr ""
+msgstr "Copyright ©"
 
 #: ui_main.create
 msgctxt "ui_main.create"
@@ -590,7 +591,7 @@ msgstr "日期"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(mm/dd/yyyy)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -700,7 +701,7 @@ msgstr "下载报道"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -807,7 +808,7 @@ msgstr "可用的或不可用的SSL连接"
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---空---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
@@ -1014,7 +1015,7 @@ msgstr "线条宽度"
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "前往"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -1059,12 +1060,12 @@ msgstr "可以通过那些方式报道案例?"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1154,7 +1155,7 @@ msgstr "含有经度(Longitude)"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "包含个人信息"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1336,7 +1337,7 @@ msgstr "链接"
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "清单"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
@@ -1601,7 +1602,7 @@ msgstr "没有数据"
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1646,7 +1647,7 @@ msgstr "没有结果"
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "关"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
@@ -1656,7 +1657,7 @@ msgstr "官方&媒体消息"
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "开"
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1846,7 +1847,7 @@ msgstr "电话"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "图片"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
@@ -2079,7 +2080,7 @@ msgstr "分类(至少选择一项)"
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d 报道"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2241,7 +2242,7 @@ msgstr "需求地址"
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "必须项"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
@@ -2518,12 +2519,12 @@ msgstr "网站地址"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "小地图"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "短信"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
@@ -2628,7 +2629,7 @@ msgstr "系统"
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "高地图"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
@@ -2748,7 +2749,7 @@ msgstr "译文已保存"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "受信任的"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2865,7 +2866,7 @@ msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "至少要包含一项个人信息（例如名，姓，电子邮件等）。空记录不会被导入。"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
@@ -2925,7 +2926,7 @@ msgstr "上传视频"
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "链接"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -3055,7 +3056,7 @@ msgstr "等待验证"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "宽地图"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# xiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-28 14:29+0000\n"
+"Last-Translator: xiaojoe <1303133601@qq.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -77,7 +78,7 @@ msgstr "收到提醒"
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -358,17 +359,17 @@ msgstr "日期与时间"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "添加日期"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "修改日期"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "这个礼拜。"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -423,7 +424,7 @@ msgstr "Divider 结束"
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div类目"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
@@ -438,7 +439,7 @@ msgstr "下拉选择"
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "编辑"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -463,7 +464,7 @@ msgstr "电子邮件"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "集体"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -478,7 +479,7 @@ msgstr "IMAP PHP库未安装"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "错误的证书"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -543,12 +544,12 @@ msgstr "数据类型"
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "审定"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -583,7 +584,7 @@ msgstr "域名称"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr ""
+msgstr "切换"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -668,12 +669,12 @@ msgstr "需要帮助"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "得到更多的主题"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
 msgid "Get more plugins"
-msgstr ""
+msgstr "得到更多地插件"
 
 #: ui_admin.header_actions
 msgctxt "ui_admin.header_actions"
@@ -725,7 +726,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "安装文件夹依然存在，删除安装文件夹，这是一个潜在地安全漏洞。"
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -845,12 +846,12 @@ msgstr "添加/编辑用户"
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "管理你的公共列表"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "标记为"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
@@ -895,12 +896,12 @@ msgstr "您的信息已发送！"
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
 msgid "MHI"
-msgstr ""
+msgstr "MHI"
 
 #: ui_admin.minute
 msgctxt "ui_admin.minute"
 msgid "Minute"
-msgstr ""
+msgstr "分钟"
 
 #: ui_admin.minutes
 msgctxt "ui_admin.minutes"
@@ -1048,12 +1049,12 @@ msgstr "自"
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "关于具体计算"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID's"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1083,12 +1084,12 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "抱歉，你正在访问的页面不在这里。<p><strong>你是从我们的网站上打开链接的？</strong><br />如果你是从我们的网站的另一个链接到了这个页面，请 <a href=\"%s\">联系我们</a>以便我们能纠正错误。</p><p><strong>你是从另一个网站打开下面的链接吗？</strong><br />从其他网站链接有时可能超时或拼写有误。<a href=\"%s\">告诉我们</a>你是从哪个网站访问的，我们可以试着联系其他的网站来解决这个问题。</p><p><strong>你输入网址了吗？</strong><br />你可能输入的是错误地地址（网站）。检查以确保你的拼写是正确的，以及大小写等等。</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "抱歉，你访问的页面不在这里。"
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1212,7 +1213,7 @@ msgstr "报告标题"
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "报告日期"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1264,7 +1265,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "CrowdmapID管理已有的Email账号，用户登录时需有Crowdmap 密码。"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1279,7 +1280,7 @@ msgstr "搜索"
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "搜索报告"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1308,7 +1309,7 @@ msgstr "维基(Wiki)说明："
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "选择你想要的报告下载格式"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1368,7 +1369,7 @@ msgstr "显示结果"
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "显示"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
@@ -1451,7 +1452,7 @@ msgstr "管理用户"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "超时错误"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1536,7 +1537,7 @@ msgstr "上传报告"
 #: ui_admin.user
 msgctxt "ui_admin.user"
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 #: ui_admin.users
 msgctxt "ui_admin.users"
@@ -1546,7 +1547,7 @@ msgstr "用户"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1601,7 +1602,7 @@ msgstr "维基"
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"

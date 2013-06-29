@@ -3,6 +3,7 @@
 # Jai Luthra <jailuthra6sep@gmail.com>, 2012
 # jayeshvani <jayeshvani@gmail.com>, 2013
 # nikhilsheth <nikhil.js@gmail.com>, 2012
+# pratik kumar <kpratik217@gmail.com>, 2013
 # Rishab Arora <ra.rishab@gmail.com>, 2012
 # santhosh <santhosh.thottingal@gmail.com>, 2013
 # Shantanu Sarkar <shantanusarkar.me@gmail.com>, 2013
@@ -11,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-06-26 13:13+0000\n"
-"Last-Translator: jayeshvani <jayeshvani@gmail.com>\n"
+"PO-Revision-Date: 2013-06-29 04:55+0000\n"
+"Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1536,7 +1537,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "एस प्रस्तरण को अभिगम करने के लाइ अपने ईमेल के पते की पुष्टि करे| अगर आपने स्वीकृति ईमेल को खो दिया है तो आप न्ये के लाइ आवेदन कर सकते है|"
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1786,37 +1787,37 @@ msgstr "पेज शीर्षक\n "
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr ""
+msgstr "उत्पादक विभाग"
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr ""
+msgstr "पैस्वर्ड"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr ""
+msgstr "पैस्वर्ड प्रमाणित करे"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "पैस्वर्ड सफलतापूर्वक बदल दिया गया है! लॉगिन करे|"
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "क्या आप पैस्वर्ड भूल चुके है?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr ""
+msgstr "नये पैस्वर्ड के लिए आपने ईमेल को जाचे|"
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr ""
+msgstr "ईस कम्प्यूटर पर लॉग्ड ईन्न रहे|"
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
@@ -1836,12 +1837,12 @@ msgstr "बाकी"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "प्रति"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr ""
+msgstr "व्यक्तिगत सूचना  <span>वैकल्पिक </span>"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
@@ -1869,7 +1870,7 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "* स्थानीए नाम या विश्व रेखान्तर के सहारे आपने स्थान को खोजे, देशांतर निर्देशांक(फॉर्मॅट: 38.19, 85.61),सही स्थान को ठीक से निर्धारित करने के लिए मानचित्र पर क्लिक करें|"
 
 #: ui_main.play
 msgctxt "ui_main.play"
@@ -2166,7 +2167,7 @@ msgstr "आपका रिपोर्ट समीक्षा के लि�
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
-msgstr ""
+msgstr "नये रिपोर्ट जमा करे"
 
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
@@ -2201,27 +2202,27 @@ msgstr "विस्तुरित रिपोर्ट"
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr ""
+msgstr "संदेस भेज कर"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr ""
+msgstr "ईमेल भेज कर"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr ""
+msgstr "हैशटैग के साथ ट्वीट भेज कर"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr ""
+msgstr "वेबसाईट पर एस फॉर्म को भरके"
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "एस अप्प कआ प्रयोग करके"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
@@ -2256,22 +2257,22 @@ msgstr "आवश्यकता"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "स्वीकृति ईमेल को फिर से भेजे"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr ""
+msgstr "रिसेट"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "सभी फिलटर्स को रिसेट करे"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr ""
+msgstr "पासवर्ड को रिसेट करे"
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
@@ -2368,17 +2369,17 @@ msgstr "खोजें"
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
 msgid "Search Results"
-msgstr ""
+msgstr "परिणाम को खोजे"
 
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
 msgid "Security Code"
-msgstr ""
+msgstr "सुरक्षा कूट"
 
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr ""
+msgstr "सभी का चयन करे"
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"

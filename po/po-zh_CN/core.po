@@ -1,12 +1,13 @@
 # 
 # Translators:
+# xiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-10 03:37+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-28 14:32+0000\n"
+"Last-Translator: xiaojoe <1303133601@qq.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -50,7 +51,7 @@ msgstr "您可以连接到 <a href=\"%s\">主页</a> 或 <a href=\"%s\">再试�
 #: core.error_file_line
 msgctxt "core.error_file_line"
 msgid "<tt>%s <strong>[%s]:</strong></tt>"
-msgstr ""
+msgstr "<tt>%s <strong>[%s]:</strong></tt>"
 
 #: core.generic_error
 msgctxt "core.generic_error"
@@ -134,7 +135,7 @@ msgstr "载入用时{execution_time}秒，使用内存{memory_usage}. 由 Ushahi
 #: core.text_direction
 msgctxt "core.text_direction"
 msgid "ltr"
-msgstr ""
+msgstr "ltr"
 
 #: core.there_can_be_only_one
 msgctxt "core.there_can_be_only_one"

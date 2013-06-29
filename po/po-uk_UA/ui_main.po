@@ -2,13 +2,14 @@
 # Translators:
 # aemon <aemon@yandex.ru>, 2013
 # skolesnyk <skolesnyk@gmail.com>, 2012
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-28 15:25+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -150,7 +151,7 @@ msgstr "Отримувати сповіщення"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Оповіщення вже було"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -219,12 +220,12 @@ msgstr "Дозволені"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Дозволені теги HTML: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "Фрейми дозволені лише від: %s."
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -244,7 +245,7 @@ msgstr "та"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -299,12 +300,12 @@ msgstr "Автор"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Автореєстрація"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "Сер. число звітів за день"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -319,32 +320,32 @@ msgstr "Очікування перевірки"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Значок"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Значки"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "Зображення значка"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Або ви можете завантажити своє власне зображення знака замість цього."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Пакунок значків"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Вибрати значок"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -354,7 +355,7 @@ msgstr "Блог"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Перегляд профілів"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -389,17 +390,17 @@ msgstr "Назва категорії"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Змінити інтервал дат"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "Змінити пароль"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Змінити моє зображення"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -414,7 +415,7 @@ msgstr "Вибрати точку даних для завантаження"
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr ""
+msgstr "Або виберіть свій власний діапазон дат"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
@@ -429,7 +430,7 @@ msgstr "Чисті URL"
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
@@ -480,13 +481,13 @@ msgstr "Налаштувати"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "Ви успішно підтвердили свою електронну адресу. Будь ласка, увійдіть нижче."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "Підтвердження електронною поштою не вдалося! Ви можете запитати нове підтвердження по електронній пошті нижче."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -496,22 +497,22 @@ msgstr "Контакти"
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "Код безпеки"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
 msgid "Your Email Address"
-msgstr ""
+msgstr "Ваша електронна пошта"
 
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr ""
+msgstr "Повідомлення"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "Ваше повідомлення вже надіслано!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
@@ -531,7 +532,7 @@ msgstr "Надіслати Повідомлення"
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr ""
+msgstr "Тема повідомлення"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
@@ -571,12 +572,12 @@ msgstr "Достовірність"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "Поточний пароль"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Власні поля"
 
 #: ui_main.data
 msgctxt "ui_main.data"
@@ -591,7 +592,7 @@ msgstr "Дата"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(мм/дд/рррр)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -606,7 +607,7 @@ msgstr "день"
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
 msgid "Deactivate"
-msgstr ""
+msgstr "Деактивувати"
 
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
@@ -721,7 +722,7 @@ msgstr "Редагувати звіт"
 #: ui_main.email
 msgctxt "ui_main.email"
 msgid "Email"
-msgstr ""
+msgstr "Ел. пошта"
 
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
@@ -788,7 +789,7 @@ msgstr "Пароль Email"
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Найчастіші порти: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
@@ -808,7 +809,7 @@ msgstr "Увімкнути або вимкнути SSL підключення"
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr "---ПОРОЖНЬО---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
@@ -833,17 +834,17 @@ msgstr "Україна"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Зовнішні програми"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Посилання на зовнішнє відео"
 
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Фейсбук"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -865,32 +866,32 @@ msgstr "Залиште свою думку натиснувши кнопку н�
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr ""
+msgstr "Стрічки"
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr ""
+msgstr "Стрічка вже була"
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr ""
+msgstr "Елементи стрічки"
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr ""
+msgstr "Назва стрічки"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr ""
+msgstr "URL стрічки"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr ""
+msgstr "Невикористане поле"
 
 #: ui_main.file
 msgctxt "ui_main.file"
@@ -900,7 +901,7 @@ msgstr "Файл"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Ваш файл перевищує максимальний дозволений розмір."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -910,17 +911,17 @@ msgstr "Фільтри"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "Фільтрувати звіти"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "Фільтрувати звіти за"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "Фільтрувати звіти, що містять"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -940,7 +941,7 @@ msgstr "Ім'я"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Примусовий запуск планувальника"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -1010,12 +1011,12 @@ msgstr "Мітка"
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "Товщина риски"
 
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Перейти"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -1060,17 +1061,17 @@ msgstr "Як повідомити"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ІД"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Використане, щоб ідентифікувати вас на сайті відносно інших користувачів."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1125,7 +1126,7 @@ msgstr "Включити категорії"
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Включити власні поля"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
@@ -1155,7 +1156,7 @@ msgstr "Включити довготу"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Включити особисту інформацію"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1177,7 +1178,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Ваш обліковий запис не має права, щоб повністю увійти сюди. Зв'яжіться з адміністратором."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1192,7 +1193,7 @@ msgstr "IP адреса"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "Це ваш профіль?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
@@ -1222,7 +1223,7 @@ msgstr "Ключ"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Ключові слова"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -1237,12 +1238,12 @@ msgstr "Відправити KMZ/KML файл"
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1307,7 +1308,7 @@ msgstr "Лишити коментар"
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Менше інформації"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1337,12 +1338,12 @@ msgstr "Посилання"
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Список"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Завантаження звітів"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1367,65 +1368,65 @@ msgstr "Логін"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Обліковий запис успішно створено. Ви можете увійти зараз."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "Підтвердження вже надіслано на вашу електронну адресу."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Електронна адреса не існує. Спробуйте іншу або створіть нову."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Клацніть постачальника вашого облікового запису"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Увійти з"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "Електронна пошта та пароль"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Реєстрація"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Створити обліковий запис"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Дякуємо вам за реєстрацію о %1$s. Щоб підтвердити вашу електронну пошту, перейдіть на наступну URL: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Підтвердження реєстрації"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Створити обліковий запис зараз, щоб скористатися більшими можливостями на сайті."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1450,7 +1451,7 @@ msgstr "Виділити як непрочитане"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Найбільший розмір файлу"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1465,12 +1466,12 @@ msgstr "Meдia фільтр"
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Учасники"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "Управління вашим профілем"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1490,12 +1491,12 @@ msgstr "Інформація про лист"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Повідомлення від нечислового джерела:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Мобільний"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
@@ -1532,7 +1533,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Ви повинні підтвердити вашу електронну пошту для доступу до цього використання. Якщо ви втратили ваш лист підтвердження, то ви можете запросити новий нижче."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1542,7 +1543,7 @@ msgstr "Назва"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "Сусідній звіт"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1592,7 +1593,7 @@ msgstr "Ні"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Нема реєстрацій для відображення."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
@@ -1797,7 +1798,7 @@ msgstr "Введіть пароль знову"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "Пароль успішно змінено. Увійдіть нижче."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
@@ -1832,7 +1833,7 @@ msgstr "Очікування"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "за"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1890,12 +1891,12 @@ msgstr "Вебсайт додатку"
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "Публічний профіль"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "URL публічного профілю"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1920,12 +1921,12 @@ msgstr "Попереднє"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "Приватний"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "Колір профілю"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
@@ -1975,7 +1976,7 @@ msgstr "Оновити стрічки новин"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "Зареєстрована адреса"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -1995,7 +1996,7 @@ msgstr "Звіт"
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr ""
+msgstr "Звіти <span> (на карті, перераховані у хронологічному порядку) </span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
@@ -2070,7 +2071,7 @@ msgstr "Відправити"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "Звіти від цього користувача"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2080,7 +2081,7 @@ msgstr "Категорії"
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d Звіти"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2105,7 +2106,7 @@ msgstr "Електронна пошта"
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr ""
+msgstr "Можливості"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
@@ -2217,7 +2218,7 @@ msgstr "Заповнивши цю форму"
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "За використанням програми"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
@@ -2252,17 +2253,17 @@ msgstr "Вимоги"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "Повторне підтвердження електронною поштою"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Переустановка"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "Очистити усі фільтри"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
@@ -2277,14 +2278,14 @@ msgstr "Отримати назви міст для вибраних країн"
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Облікові записи управляються службою %s."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "У вас вже є обліковий запис, керований CrowdmapID! Спробуйте використати вашу пошту CrowdmapID та пароль для входу."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2294,12 +2295,12 @@ msgstr "Роль"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
 msgid "Save"
-msgstr ""
+msgstr "Зберегти"
 
 #: ui_main.saved
 msgctxt "ui_main.saved"
@@ -2309,7 +2310,7 @@ msgstr "Збережений"
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "Зберегти і додати нове"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
@@ -2414,7 +2415,7 @@ msgstr "Відправити"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Надіслати підтвердження"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
@@ -2469,7 +2470,7 @@ msgstr "Спільна інформація"
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "Обмін вже був"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
@@ -2494,12 +2495,12 @@ msgstr "Показати всі"
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "Показати повідомлення"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "Показані звіти від <span class=\"time-period\">%1$s до %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2524,12 +2525,12 @@ msgstr "Менша карта"
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "СМС"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "На жаль, ви не маєте жодних значків."
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2584,7 +2585,7 @@ msgstr "Відправити звіт"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "Поданий від <strong>%1$s</strong> через <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2619,7 +2620,7 @@ msgstr "Прізвище"
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "Огляд"
 
 #: ui_main.system
 msgctxt "ui_main.system"
@@ -2669,7 +2670,7 @@ msgstr "В цьому місяці"
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr ""
+msgstr "Цього тижня"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
@@ -2679,7 +2680,7 @@ msgstr "В цьому році"
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "Це ваш профіль."
 
 #: ui_main.time
 msgctxt "ui_main.time"
@@ -2709,7 +2710,7 @@ msgstr "Сьогодні в"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Знак"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2754,12 +2755,12 @@ msgstr "Перевірено"
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "Тип"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Твіттер"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
@@ -2794,17 +2795,17 @@ msgstr "Завантажити"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Переглянути наш звіт вивантаживши посібники: -"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Вивантажити інструкцію XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Вивантажити інструкцію CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2822,7 +2823,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Власне поле стовпців повинно мати свій form_id докладений до них, наприклад, власне поле Тест, на типовій формі, ідентифікатор якої є 1, буде Тест-1. Під час імпорту власних полів форми, переконайтеся, що"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2833,14 +2834,14 @@ msgstr "У даній формі, ви можете імпортувати по�
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Звіти мають бути вивантажені у форматі CSV або XML."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Якщо ID події вже існує в БД, то запис у CSV/XML файлі не буде принятий."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2852,28 +2853,28 @@ msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Якщо стовпці широти і довготи не надані, то місце розташування буде прив'язана до місцевості за допомогою Google Geocoder."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Якщо імпорт додаткової інформації, тобто особистої інформації та / або власних полів форми"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Принаймні одне з полів особистої інформації (ім'я, прізвище, адресу електронної пошти) повинне існувати. Порожні рядки не будуть імпортовані"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Ваші дані для випадаючого списку полів, перемикачів і прапорців збігаються з параметрами, наданими для власного поля на вашому екземплярі"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2881,14 +2882,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Декілька параметрів мають бути відокремлені комами, наприклад, якщо ваш вибір фруктів - яблука, манго і виноград, то ваші записи для цього повинні бути \"яблука, манго, виноград\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Значення полів дати є у наступному форматі: мм/дд/рррр, тобто 3 жовтня 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2921,12 +2922,12 @@ msgstr "Завантаження успішно завершене"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "Вивантажити Відео"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2941,7 +2942,7 @@ msgstr "Логін"
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr ""
+msgstr "Адміністратор Ushahidi"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
@@ -2976,7 +2977,7 @@ msgstr "Версія"
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr ""
+msgstr "через"
 
 #: ui_main.video
 msgctxt "ui_main.video"
@@ -3021,7 +3022,7 @@ msgstr "Дивитися більше"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Переглянути публічний профіль"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -3036,7 +3037,7 @@ msgstr "Показати звіт"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Переглянути відео"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3061,12 +3062,12 @@ msgstr "Ширша карта"
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Веб-форма"
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Веб"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
@@ -3086,12 +3087,12 @@ msgstr "Вчора"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Ваша дошка"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "Ваш файл"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"

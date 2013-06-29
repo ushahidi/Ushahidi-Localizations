@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-28 18:10+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,12 +39,12 @@ msgstr "Поле про RSS-стрічку має бути заповнене."
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "Це поле дозволу сповіщень не містить правильне значення."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "Поле дозволу сповіщень обов'язкове."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -95,17 +96,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Поле банера сайту повинно містити вірне зображення. Прийнятні лише формати .JPG, .PNG та .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Переконайтеся, що розмір зображення банера не менший за 250 КБ."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "Поле зображення банера не містить правильного файлу."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -282,31 +283,31 @@ msgstr "Введіть ім'я користувача сервера пошти.
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Параметри установки Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "Щоб отримати інформацію нижче вам потрібно створити новий додаток Facebook на"
 
 #: settings.facebook.description_2
 msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Ці параметри дозволяють користувачам увійти через Facebook,  <strong> не </strong> створюючи програм під facebook для вашого використання"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "ID програми на Facebook"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Секрет програми Facebook"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -318,26 +319,26 @@ msgstr "Поле Google Analytics повинне містити діючий Web
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Увімкнути HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "Цей параметр надає Ushahidi доступ у небезпечному режимі; <strong>без</strong> \"https://\" у префіксі URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "Цей параметр надає Ushahidi доступ у безпечному режимі; з <strong>https</strong> у префіксі URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -404,7 +405,7 @@ msgstr "Провайдер карти"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Карта часової шкали"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -444,7 +445,7 @@ msgstr "Включити стрічку новин RSS на головній с�
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Дозволити користувачам підписатися на оповіщення"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
@@ -459,12 +460,12 @@ msgstr "Akismet ключ"
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Банер сайту"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "блоків на рядок"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
@@ -479,7 +480,7 @@ msgstr "Час кешування сторінок"
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "Увімкнути реєстрації"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -494,17 +495,17 @@ msgstr "Колір за замовчуванням для всіх катего�
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Типова піктограма для всіх категорій"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Видалити зображення банера"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Видалити типову піктограму"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
@@ -536,7 +537,7 @@ msgstr "Email Веб сайта"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -580,7 +581,7 @@ msgstr "Мова сайта"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Ручне схвалення користувачів"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -600,12 +601,12 @@ msgstr "Окреме розгортання"
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Вимагати підтвердження електронної адреси користувача"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Надіслати повідомлення звіту"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -620,7 +621,7 @@ msgstr "Заголовок сайту"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Часовий пояс"
 
 #: settings.site.title
 msgctxt "settings.site.title"
@@ -712,12 +713,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS - вільна програма з відкритим вихідним кодом,  яка дозволяє користувачам відправляти і отримувати текстові повідомлення з великими групами людей за допомогою мобільних телефонів. Клацніть на кнопку, щоб завантажити останню версію FrontlineSMS.com"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Завантажити та встановити FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -727,22 +728,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Детальні вказівки, як надіслати СМС з вашої програми FronlineSMS, доступна <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">тут</a></strong>.  URL та API ключ нижче потрібні, щоб налаштувати синхронізацію з FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Копіювати та вставити це у поле від FrontlineSMS \"Адреса\""
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Копіювати та вставити це у поле від FrontlineSMS \"Ushahidi API Ключ\""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Підключення FrontlineSMS до цього розгортання Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -802,36 +803,36 @@ msgstr "Телефон 3 має включати лише цифри."
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Параметри установки Твіттера"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Щоб отримати інформацію нижче вам потрібно створити новий додаток Твіттера на"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Ключ покупця"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Таємниця покупця"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Маркер доступу"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Секрет маркера доступу"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Тестові параметри"
