@@ -2,14 +2,15 @@
 # Translators:
 # aemon <aemon@yandex.ru>, 2013
 # Bericender <shl00913@myport.ac.uk>, 2013
+# sher <sher@online.ua>, 2013
 # televizor <televizor.by@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-29 12:07+0000\n"
+"Last-Translator: sher <sher@online.ua>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -106,12 +107,12 @@ msgstr "доде́ланный "
 #: installer.general
 msgctxt "installer.general"
 msgid "General"
-msgstr ""
+msgstr "Общее"
 
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> Ключ API"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
@@ -119,7 +120,7 @@ msgid ""
 "Anyone can get an api key. <a id=\"api-link\" "
 "href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Get "
 "yours now</a>"
-msgstr ""
+msgstr "Любой человек может получить ключ api. <a id=\"api-link\" href=\"http://code.google.com/apis/maps/signup.html\" target=\"_blank\">Получите ваш сейчас</a>"
 
 #: installer.go_back
 msgctxt "installer.go_back"
@@ -154,7 +155,7 @@ msgstr "Simple and fast. All you need is your website's root directory and your 
 #: installer.index.proceed
 msgctxt "installer.index.proceed"
 msgid "Proceed"
-msgstr ""
+msgstr "Перейти"
 
 #: installer.index.welcome
 msgctxt "installer.index.welcome"
@@ -186,27 +187,27 @@ msgstr "Например, mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "Пароль почтового сервера"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr ""
+msgstr "Пароль, который вы обычно используете для входа на сервер электронной почты"
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "Порт почтового сервера"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Обычные Порты: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Тип почтового сервера"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -214,12 +215,12 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Протокол Доступа Сообщения Интернет (IMAP) или Почтовый Офисный Протокол (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Какая разница?</a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Имя пользователя Почтового Сервера"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
@@ -231,12 +232,12 @@ msgstr "If you are using Gmail, Hotmail, or Yahoo Mail, enter a full email addre
 #: installer.map
 msgctxt "installer.map"
 msgid "Map"
-msgstr ""
+msgstr "Карта"
 
 #: installer.map_provider
 msgctxt "installer.map_provider"
 msgid "Map Provider"
-msgstr ""
+msgstr "Поставщик карты"
 
 #: installer.map_provider_description
 msgctxt "installer.map_provider_description"
@@ -249,27 +250,27 @@ msgstr "Ushahidi works equally well with any of these four mapping providers: Go
 #: installer.other_steps
 msgctxt "installer.other_steps"
 msgid "Other steps..."
-msgstr ""
+msgstr "Другие шаги..."
 
 #: installer.password
 msgctxt "installer.password"
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: installer.password_description
 msgctxt "installer.password_description"
 msgid "Your database password"
-msgstr ""
+msgstr "Пароль вашей базы данных"
 
 #: installer.previous
 msgctxt "installer.previous"
 msgid "Previous"
-msgstr ""
+msgstr "Предыдущий"
 
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr ""
+msgstr "Пожалуйста, перезапустите сервер Apache"
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
@@ -292,12 +293,12 @@ msgstr "Setup your SMS server"
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Адрес электронной почты сайта"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr ""
+msgstr "Email адрес оповещений сайта"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
@@ -310,27 +311,27 @@ msgstr "When your site visitors sign up for email alerts, they will recieve emai
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr ""
+msgstr "Обширная переписка сайта будет направляться через этот адрес"
 
 #: installer.site_name
 msgctxt "installer.site_name"
 msgid "Site Name"
-msgstr ""
+msgstr "Имя Сайта"
 
 #: installer.site_name_description
 msgctxt "installer.site_name_description"
 msgid "The name of your site"
-msgstr ""
+msgstr "Имя вашего сайта"
 
 #: installer.site_tagline
 msgctxt "installer.site_tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Слоган сайта"
 
 #: installer.site_tagline_description
 msgctxt "installer.site_tagline_description"
 msgid "Your tagline"
-msgstr ""
+msgstr "Ваш слоган"
 
 #: installer.summary.text_1
 msgctxt "installer.summary.text_1"
@@ -346,7 +347,7 @@ msgid ""
 "            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n"
 "            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n"
 "        </ul>"
-msgstr ""
+msgstr "<p>Ниже приведены инструкции для изменения прав доступа к файлам:</p>\n        <ul>\n            <li><a href=\"http://www.washington.edu/computing/unix/permissions.html\" target=\"_blank\">Unix/Linux</a></li>\n            <li><a href=\"http://support.microsoft.com/kb/308419\" target=\"_blank\">Windows</a></li>\n        </ul>"
 
 #: installer.summary.text_3
 msgctxt "installer.summary.text_3"
@@ -366,7 +367,7 @@ msgstr "For the installation process, please have the following bits of informat
 #: installer.table_prefix
 msgctxt "installer.table_prefix"
 msgid "Table Prefix"
-msgstr ""
+msgstr "Префикс таблицы"
 
 #: installer.table_prefix_description
 msgctxt "installer.table_prefix_description"
@@ -379,34 +380,34 @@ msgstr "Normally you would not change the table prefix. However, If you want to 
 #: installer.title
 msgctxt "installer.title"
 msgid "Title"
-msgstr ""
+msgstr "Название"
 
 #: installer.to_login
 msgctxt "installer.to_login"
 msgid "To login, go to"
-msgstr ""
+msgstr "Для входа в систему, перейдите к"
 
 #: installer.upload_data
 msgctxt "installer.upload_data"
 msgid "Upload report data"
-msgstr ""
+msgstr "Загрузить данные отчета"
 
 #: installer.username
 msgctxt "installer.username"
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
 #: installer.username_description
 msgctxt "installer.username_description"
 msgid "Your database username"
-msgstr ""
+msgstr "Ваше имя пользователя базы данных"
 
 #: installer.use_credentials
 msgctxt "installer.use_credentials"
 msgid "and use the following credentials"
-msgstr ""
+msgstr "и использовать следующие учетные данные"
 
 #: installer.view_site
 msgctxt "installer.view_site"
 msgid "View your website"
-msgstr ""
+msgstr "Просмотреть свой веб-сайт"

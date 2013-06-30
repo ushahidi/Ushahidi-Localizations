@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-29 04:57+0000\n"
+"PO-Revision-Date: 2013-06-29 11:08+0000\n"
 "Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
@@ -1329,7 +1329,7 @@ msgstr "Ви повинні вибрати тригер, перш ніж виб�
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "Ви повинні вибрати тригер, перш ніж визначити кваліфікацію."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1382,7 +1382,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "Це особлива категорія, яка не буде відображатися на формі подачі звітів для користувачів, які подають звіти. Це використовується в поєднанні з функцією \"Довірені Репортери\"."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1477,17 +1477,17 @@ msgstr "Перекласти повідомлення"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr ""
+msgstr "Тригер"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr ""
+msgstr "Тригерний користувач "
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr ""
+msgstr "Тригери"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"

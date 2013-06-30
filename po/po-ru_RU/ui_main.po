@@ -1,14 +1,15 @@
 # 
 # Translators:
 # aemon <aemon@yandex.ru>, 2013
+# sher <sher@online.ua>, 2013
 # televizor <televizor.by@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-29 10:19+0000\n"
+"Last-Translator: sher <sher@online.ua>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -219,12 +220,12 @@ msgstr "Допущенный"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Разрешенные HTML теги: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "I-кадры разрешены только от: % s."
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -843,7 +844,7 @@ msgstr "Ссылка на видео"
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -2284,7 +2285,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Вы уже имеете учетную запись CrowdmapID! Попробуйте использовать ваш CrowdmapID адрес электронной почты и пароль для входа."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2822,7 +2823,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Столбцы заказного поля должны иметь свой form_id присоединенный к ним, например, заказное поле Test, в форме по умолчанию, чей id = 1, будет Test-1. При импорте поля заказной формы, проверьте это"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2859,21 +2860,21 @@ msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "При импорте дополнительной информации, т.е. личной информации и-или заказных полей формы"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "По крайней мере одно из полей личной информации ( имя, фамилия, email) должно быть заполнено. Пустые строки не будут импортированы"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Ваши данные для выпадающего списка, переключателей и флажков соответствует возможностям, предоставляемым для заказного поля в вашем экземпляре"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2881,7 +2882,7 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Опции переключателя отделяет запятая, например, если вы выбрали фрукты - яблоки, манго и виноград, вы должны ввести \"яблоки,манго,виноград\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"

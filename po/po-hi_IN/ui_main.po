@@ -12,8 +12,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-06-29 04:55+0000\n"
-"Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
+"PO-Revision-Date: 2013-06-29 20:08+0000\n"
+"Last-Translator: Shantanu Sarkar <shantanusarkar.me@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -2277,12 +2277,12 @@ msgstr "पासवर्ड को रिसेट करे"
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr ""
+msgstr "चयनित देश के शहरों के नाम पुन: प्राप्त करें"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "लेखा %s सेवा द्वारा प्रबंधित."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
@@ -2384,27 +2384,27 @@ msgstr "सभी का चयन करे"
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr ""
+msgstr "एक फील्ड प्रकार का चयन करें"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr ""
+msgstr "पर्चा एक प्रकार का चयन करें"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr ""
+msgstr "नक्शे में चुने"
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr ""
+msgstr "जरूरत के रूप में चयन करें"
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "यदि आपने किसी वस्तु की जाँच की है तो कृपया सत्यापित करें"
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
@@ -2464,22 +2464,22 @@ msgstr "सेवा का यूज़र-आइडी"
 #: ui_main.share
 msgctxt "ui_main.share"
 msgid "Share"
-msgstr ""
+msgstr "शेयर"
 
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr ""
+msgstr "साझा डेटा"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "इस शेयर को"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr ""
+msgstr "सहभाजन"
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
@@ -2699,7 +2699,7 @@ msgstr "पद"
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr ""
+msgstr "को"
 
 #: ui_main.today
 msgctxt "ui_main.today"
@@ -2714,42 +2714,42 @@ msgstr "आज"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "टोकन"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr ""
+msgstr "कुल रिपोर्टें"
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
 msgid "Translated"
-msgstr ""
+msgstr "अनूवादित"
 
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr ""
+msgstr "अनूवादित विवरण"
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
 msgid "Translated Title"
-msgstr ""
+msgstr "अनूवादित शीर्षक"
 
 #: ui_main.translate_to
 msgctxt "ui_main.translate_to"
 msgid "Translate to"
-msgstr ""
+msgstr "अनुवाद करें"
 
 #: ui_main.translation
 msgctxt "ui_main.translation"
 msgid "Translation"
-msgstr ""
+msgstr "अनुवाद"
 
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr ""
+msgstr "अनुवाद संचय किया गया"
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
@@ -2759,7 +2759,7 @@ msgstr "विश्वसनीय"
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "प्रकार"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
@@ -2769,7 +2769,7 @@ msgstr "ट्विटर"
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "ईमेल भेजने में असमर्थ."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
@@ -2779,17 +2779,17 @@ msgstr ""
 #: ui_main.unread
 msgctxt "ui_main.unread"
 msgid "unread"
-msgstr ""
+msgstr "अपठित"
 
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr ""
+msgstr "असत्यापित"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "अद्यतन फ़ीड"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
@@ -2833,7 +2833,7 @@ msgstr ""
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "नीचे दिए गए फार्म के साथ, आप Ushahidi इंजन में घटनाओं को आयात कर सकते हैं."
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
@@ -2850,21 +2850,21 @@ msgstr "अगर इन्सिडेंट ID डेटबेस में �
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr ""
+msgstr "इसमे कम से कम घटनाओं के शीर्षक और घटनाओं के तिथि होने चाहिए."
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "कोई अक्षांश और देशांतर कॉलम आपूर्ति की जाती है, तो स्थान गूगल Geocoder उपयोग कर भूकूटित किया जाएगा."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "अतिरिक्त जानकारी यानी व्यक्तिगत जानकारी और / या कस्टम प्रपत्र फ़ील्ड का आयात करते हैं"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
@@ -2878,7 +2878,7 @@ msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "लटकती क्षेत्रों, रेडियो बटन और चेक बॉक्स के लिए अपनी प्रविष्टियां अपनी आवृत्ति पर कस्टम क्षेत्र के लिए उपलब्ध विकल्पों मैच करते हैं"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2886,7 +2886,7 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "चेकबॉक्स विकल्प एक अल्पविराम से अलग होती है उदाहरण अगर आपके चुने हुए फल के विकल्प सेब, आपकी प्रविष्टि \"सेब, आम, अंगूर\" होनी चाहिए"
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
@@ -2898,7 +2898,7 @@ msgstr "तारीख़ फील्ड का फॉर्मॅट ऐस�
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "एक नमूना CSV रिपोर्ट"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2936,12 +2936,12 @@ msgstr "URL"
 #: ui_main.user
 msgctxt "ui_main.user"
 msgid "User"
-msgstr ""
+msgstr "उपभोक्ता"
 
 #: ui_main.username
 msgctxt "ui_main.username"
 msgid "Username"
-msgstr ""
+msgstr "यूज़रनेम"
 
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
@@ -2976,7 +2976,7 @@ msgstr "रिपोर्ट प्रमाणित करें"
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr ""
+msgstr "संस्करण"
 
 #: ui_main.via
 msgctxt "ui_main.via"

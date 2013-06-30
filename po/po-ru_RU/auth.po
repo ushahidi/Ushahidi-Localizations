@@ -1,13 +1,14 @@
 # 
 # Translators:
+# sher <sher@online.ua>, 2013
 # Сёмка Гавриленко <2507496@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-06-21 15:21+0000\n"
-"Last-Translator: Сёмка Гавриленко <2507496@gmail.com>\n"
+"PO-Revision-Date: 2013-06-29 10:43+0000\n"
+"Last-Translator: sher <sher@online.ua>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -88,34 +89,34 @@ msgstr "Пароль введен неверно. Попробуйте ещё р
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "В поле пароля должно быть не менее 8 символов."
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Убедитесь, что Вы ввели правильный адрес электронной почты и пароль ."
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Введите одинаковые пароли в оба поля паролей."
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Поле для ввода пароля не нужно."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Поле пароля должно иметь только алфавитные символы, знаки # и @ , цифры, символы подчеркивания и тире"
 
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "Возникла ошибка при попытке вашего входа в систему."
 
 #: auth.password.length
 msgctxt "auth.password.length"
@@ -140,19 +141,19 @@ msgstr "Введите пароль"
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
-msgstr ""
+msgstr "Сервер аутентификации не работает. Повторите попытку позже."
 
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Поле пароль может  содержать в только буквы, символы # и @, цифры, символы подчеркивание и тире."
 
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
@@ -177,17 +178,17 @@ msgstr "Введите e-mail"
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "Только СуперАдмин может сменить СуперАдмина или обновить пользователя до администратора."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
 msgid "Invalid role format."
-msgstr ""
+msgstr "Недопустимый формат роли."
 
 #: auth.roles.length
 msgctxt "auth.roles.length"
 msgid "The role field must be at least 5 and no more than 30 characters long."
-msgstr ""
+msgstr "Поле \"роль\" должно быть не менее 5 и не более 30 символов."
 
 #: auth.roles.required
 msgctxt "auth.roles.required"
@@ -202,12 +203,12 @@ msgstr "Выберите АДМИНИСТРАТОР или ПОЛЬЗОВАТЕ�
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr ""
+msgstr "Маркер \"забыт пароль\" неверен"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr ""
+msgstr "Нужен маркер \"забыт пароль\""
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
@@ -217,7 +218,7 @@ msgstr "Роль пользователя Администратор не мож
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "В поле URL общедоступный профиль должен содержать только цифры и буквы."
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
@@ -249,4 +250,4 @@ msgstr "Роль пользователя Суперадминистратор �
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "Возможны CSRF атаки. Вы действительно собираетесь создать/редактировать пользователя?"

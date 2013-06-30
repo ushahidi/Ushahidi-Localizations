@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-29 16:34+0000\n"
+"Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,19 +22,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Дозволяє додавати додаткові категорії до звіту. Якщо ви виберете \"Категорія1\" для повідомлення, яке вже знаходиться в \"Категорія2\", то повідомлення буде прив'язано до обох категорій."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Затверджує звіт чи ні. У разі схвалення він буде відображатися публічно."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "Ви зможете призначити значок для тригерного користувача. Виберіть тут значок для призначення."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -44,7 +45,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "Це діапазон годин і / або хвилин в 24-годинному форматі. Якщо ви вводите більш ранній час у друге поле, воно буде дзеркально відображено в першому. Ці значення часу повинні бути в межах одного дня. Крім того, цей час звіряється з налаштуванням часу на вашому сайті в налаштуваннях сайту і <strong> НЕ </strong> обов'язково з часовим поясом користувача, який зв'язується з вашим розгортанням. Залиште його з 00:00 до 00:00, щоб ігнорувати цей специфікатор."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -54,7 +55,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "Ви можете задати умову активації тригерів при використанні певних категорій. Наприклад, якщо ви вибрали умову \"Категорія1 і Категорія2\", а повідомлення прив'язане до Категорія2 і Категорія3, то вона виконає задану умову."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -62,17 +63,17 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr ""
+msgstr "Якщо ці дії відбуваються в певні дні тижня, задайте це тут. Майте на увазі, день визначається часовим поясом, налаштованим в розгортанні. Утримуйте shift, command, або control, для вибору декількох днів."
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Тіло листа, який буде надіслано."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Тема листа, який буде надіслано."
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -80,7 +81,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "Каналом можуть бути всі канали або конкретні канали. Якщо ви хочете тільки конкретні канали для активації тригера, ви можете вибрати їх тут. В іншому випадку, залиште «все»"
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -88,7 +89,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "Ім'я користувача Twitter (або багато імен користувачів через коми). Якщо Ви хочете активізувати тригери тільки для повідомлень twitter від конкретного користувача, введіть його ім'я користувача тут (без @)"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -98,7 +99,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "Ви можете залишити це поле порожнім, якщо ви не хочете перевірити за ключовими словами. Якщо ви додаєте слова тут, ви повинні розділити їх комами (,). Наприклад, якщо ви хочете, щоб активувати тригер, коли хтось згадує „любов\" або „мир\" у своєму посланні, вам потрібно буде додати „любов, мир\" у ​​вікні ключових слів."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -109,7 +110,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "Ви можете вибрати \"де завгодно\" або вказати місце розташування. Якщо ви вибрали місце розташування, ви можете вказати периметр, де відбувається дія. Наприклад, якщо ви хочете активувати тригер, коли будь-хто вкаже крапку в Івано-Франківській області, вам необхідно виділити дану область одним або декількома прямокутниками."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -117,12 +118,12 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "Цей визначник активує тригер на N-ому числі або для бази всього колективу користувачів або для кожного окремого користувача. Залиште це поле порожнім, щоб його ігнорувати."
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Ця типова назва для додавання в звіт."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -130,7 +131,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "Якщо всі критерії вище були пройдені, то тригер запустить дію - від схвалення повідомлення до електронного листа користувачу. Виберіть необхідні додаткові опції."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -140,14 +141,14 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "При виборі \"Тригерний користувач\" електронного листа буде відіслано користувачеві, який виконав дію. При використанні радіо-кнопки після поля введення ви зможете ввести будь-який інший e-mail. Це корисно, коли ви встановлюєте тригери для повідомлення користувачів про зміни, що відбулися."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "Ви можете вибрати кілька днів тут. Дати визначається вашими налаштуваннями часового поясу розгортання. Для того, щоб за замовчуванням залишилися всі дати, що не відзначайте жодних дат."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -156,7 +157,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "Тригер є основним елементом для налаштування \"Дій за умовою\". Ви можете вибрати будь-яку дію, коли хто-небудь відправить нове повідомлення, зареєструється і т. д."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -165,24 +166,24 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr ""
+msgstr "Користувачем може бути будь-хто або конкретний користувач. Якщо ви хочете, щоб лише певні користувачі активували тригер, то ви будете хотіти вибрати їх тут. В іншому випадку, ви захочете залишити це як \"кожному\", бо більшість тригерів створені для всіх користувачів, що взаємодіють з системою"
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Позначає звіт як перевірений або ні."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr ""
+msgstr "Аватари анкет даного сайту використовують сервіс Gravatar. Натиснувши на ваш аватар, ви будете переадресовані на їхній сайт, де зможете змінити зображення."
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Відокремте кожне значення комою. Наприклад: Значення1, Значення2 і т. д."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -190,27 +191,27 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "Кожне значення відокремлюється комою, наприклад, value1, value2. Якщо ви хочете задати значення за замовчуванням, закінчите список опцій :: наприклад, якщо ви хочете задати value3 як замовчування, це буде value1, value2, value3 :: value3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "Відокремте кожний елемент комою. Наприклад: пункт 1, пункт 2 і т. д."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Почніть набирати, щоб випав список користувачів."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Тема приватного повідомлення"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Приватне повідомлення"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -218,7 +219,7 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "Ви можете вибрати колір, який буде відображений під вашим аватаром. Цим кольором також будуть відображатися повідомлення, які ви відправили."
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
@@ -237,7 +238,7 @@ msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "Якщо задано, це буде ваш новий пароль. Залиште це поле порожнім, якщо ви хочете зберегти ваш поточний пароль."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -245,7 +246,7 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "Це потрібно при створенні нового користувача і буде паролем користувача. Ви повинні інформувати свого нового користувача про можливість зміни пароля після першого входу в систему."
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
@@ -267,12 +268,12 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "Ваша анкета може бути переглянута ким завгодно, якщо ви відзначите цю опцію. Це також найпростіший спосіб показати звіти, які ви відправили, ваші повернення, значки, і т.д. все на одній сторінці."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Це - адреса, де можна знайти ваш громадський профіль."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -287,7 +288,7 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr ""
+msgstr "Рівень доступу використовується для обмеження доступу до користувацьких полів. Володар великого рівня зможе побачити поля з меншим рівнем. Суперадміністратор має вищий рівень доступу (100). Дані, призначені для публічного перегляду мають нижчий рівень (0). Члени мають рівень доступу 10. Адміністратор має типовий рівень доступу 90."
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
@@ -297,7 +298,7 @@ msgstr "Цей email буде використаний для відправки
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Дозволити користувачам підписатися на повідомлення через мережу."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -341,12 +342,12 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr ""
+msgstr "Заставка показується нагорі вашого сайту, якщо тема її підтримує. Оптимальний розмір залежить від використовуваної теми. Зверніть увагу, що заставка замінить собою назву і слоган сайту."
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Число блоків, які будуть показані у кожному ряду."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -386,7 +387,7 @@ msgstr "Вибрати один колір для всіх категорій н
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Вибрати одну піктограму для всіх категорій на сайті."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
@@ -445,7 +446,7 @@ msgid ""
 "If you set this option to yes, you must approve every individual user who "
 "creates an account on your site by assigning them roles (ie. Member, Admin, "
 "Superadmin)."
-msgstr ""
+msgstr "Якщо ви встановлюєте цей параметр \"так\", ви повинні схвалити кожного окремого користувача, який створить обліковий запис на вашому сайті, призначаючи їм ролі (тобто Член, Адмін, СуперАдмін)."
 
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
@@ -456,7 +457,7 @@ msgstr "Визначає, яка карта буде використана на
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "Це відображає на часовій шкалі дату і час надходження звіту"
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
@@ -472,7 +473,7 @@ msgid ""
 "allowed to log into the deployment if this is set to yes. If you enable this"
 " after your deployment has accepted users, they will be prompted to confirm "
 "their account before they will be allowed to continue using it."
-msgstr ""
+msgstr "Якщо встановлено \"так\", користувачі отримають email з посиланням підтвердження перед дозволом реєстрації в розгортанні. Якщо Ви дозволите це після того, як ваше розгортання брало користувачів, їм буде відправлений запит підтвердити їх обліковий запис, щоб їм дозволили продовжити використовувати її."
 
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
@@ -549,7 +550,7 @@ msgctxt "tooltips.settings_site_submit_report_message"
 msgid ""
 "This is a message that will show up on the submit report page. This is good "
 "for disclaimers or further instructions for your visitors who are reporting."
-msgstr ""
+msgstr "Повідомлення, яке буде показуватися користувачам на сторінці заповнення даних про новий повідомленні. Можливе використання для інформування про юридичну відповідальність або інших інструкцій."
 
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
@@ -562,7 +563,7 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr ""
+msgstr "Це часовий пояс, в якому ваш сайт буде працювати. Це впливає на будь-які дії, які ви задали, що використовують час і дату, а також поточний час за замовчуванням для звітів на передній і задній частині сайту."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"

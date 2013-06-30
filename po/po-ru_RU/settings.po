@@ -1,13 +1,14 @@
 # 
 # Translators:
 # aemon <aemon@yandex.ru>, 2013
+# sher <sher@online.ua>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-06-29 13:03+0000\n"
+"Last-Translator: sher <sher@online.ua>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,12 +40,12 @@ msgstr "Заполните поле о ленте RSS."
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "Поле разрешить оповещения, кажется, содержит недопустимое значение."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "Поле \"Разрешить оповещения\" - обязательно."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -96,22 +97,22 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Поле баннер сайта, не содержит ни одного действительного изображения. Принимаются только форматы . JPG, . PNG и . GIF ."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Убедитесь , что \"Картинка Баннер\" размером менее 250 КБ."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "Поле \"Картинка Баннер\" не содержит допуститмый файл."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr ""
+msgstr "Поле страниц кэша - обязательно."
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
@@ -236,7 +237,7 @@ msgstr "В поле \"Адрес почтового сервера\" слишк�
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Поле порта Почтового сервера должно содержать только цифры."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
@@ -297,17 +298,17 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Эти настройки позволяют пользователям входить через Facebook, это <strong>не</strong> создает приложение facebook для вашего размещения"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "Секретное приложение Facebook"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -495,7 +496,7 @@ msgstr "Цвет по умолчанию для всех категорий"
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Значок по умолчанию для всех категорий"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
@@ -581,7 +582,7 @@ msgstr "Язык сайта"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Вручную утвердить пользователей"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -601,12 +602,12 @@ msgstr "Закрытый доступ"
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Требует подтверждения E-mail пользователя "
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Отправить сообщение с отчетом"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -621,7 +622,7 @@ msgstr "Слоган"
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Часовой пояс"
 
 #: settings.site.title
 msgctxt "settings.site.title"
@@ -713,12 +714,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS - со свободным и открытым исходным кодом, что позволяет пользователям отправлять и получать текстовые сообщения с большими группами людей через мобильные телефоны. Нажмите на поле ниже, чтобы скачать последнюю версию с FrontlineSMS.com."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Скачать и установить FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -728,22 +729,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Детальные команды, как послать СМС с вашей FronlineSMS доступны <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">здесь</a></strong>. Ключи URL и API ниже нужны для синхронизации с FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Скопируйте и вставьте его в поле «Адрес» FrontlineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Скопируйте и вставьте это в поле FrontlineSMS «Ushahidi API ключ»"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Соединение FrontlineSMS с этим размещением Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -803,36 +804,36 @@ msgstr "Телефон 3 должен содержать только цифры
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Параметры настройки Twitter"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Чтобы получить информацию ниже, установите ваше размещение как новое приложение Twitter"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Ключ потребителя"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Секрет потребителя"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Маркер доступа"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Секрет идентификатора доступа"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Настройки теста"
