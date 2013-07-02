@@ -1,105 +1,115 @@
-#. extracted from en_US/auth.php, hi_IN/auth.php#
-# Translators: 
+# 
+# Translators:
+# pratik kumar <kpratik217@gmail.com>, 2013
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
+"Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-20 22:16+0000\n"
-"PO-Revision-Date: 2012-09-20 22:16+0000\n"
+"POT-Creation-Date: 2012-12-09 06:11+0000\n"
+"PO-Revision-Date: 2013-07-01 07:22+0000\n"
+"Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
+"Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "जो ईमेल आपने प्रवेश किया है वो एक सही ईमेल का पता नही है|"
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr ""
+msgstr "माफ़ करे!एस ईमेल के पते पर यूज़र अकाउंट पहले से मौजूद है|"
 
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "ईमेल क्षेत्र कम से कम से कम 4 और ज़्यादा से ज़्यादा 64 वर्ण के होने चाहिए"
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "ईमेल क्षेत्र ज़रूरी है|"
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "नाम क्षेत्र कम से कम 3 और ज़्यादा से ज़्यादा 100 वर्ण बरा होना चाहिए|"
 
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "नाम क्षेत्र ज़रूरी है|"
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr ""
+msgstr "यूज़र नाम क्षेत्र अमान्य वर्णो से निहित है|"
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "कूट शब्द कम से कम 8 वर्ण लंबी होनी चाहिए|"
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "कृपया जाँच ले की आपने सही ईमेल और कूट शब्द को प्रवेश किया है|"
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "कृपया समान कूट शब्द को प्रवेश करे|"
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "यहा कूट शब्द क्षेत्र ज़रूरी है|"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
-msgid "The current password you entered for your account is incorrect. Please try again."
+msgid ""
+"The current password you entered for your account is incorrect. Please try "
+"again."
 msgstr ""
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "यहा कूट शब्द क्षेत्र कम से कम 8 वर्ण लंबी होनी चाहिए"
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "कृपया जाँच ले की आपने सही ईमेल और कूट शब्द को प्रवेश किया है|"
 
 #: auth.new_password.matches
 msgctxt "auth.new_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "कृपया समान कूट शब्द को प्रवेश करे|"
 
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "यहा कूट शब्द क्षेत्र ज़रूरी है|"
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password.default
@@ -132,9 +142,16 @@ msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
 msgstr ""
 
+#: auth.password.riverid
+msgctxt "auth.password.riverid"
+msgid "%s"
+msgstr ""
+
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
-msgid "The password field must have alphabetical characters, the # and @ symbols, numbers, underscores and dashes only"
+msgid ""
+"The password field must have alphabetical characters, the # and @ symbols, "
+"numbers, underscores and dashes only"
 msgstr ""
 
 #: auth.password_confirm.matches
@@ -145,17 +162,17 @@ msgstr ""
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "जो ईमेल आपने प्रवेश किया है वो एक सही ईमेल का पता नही है|"
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr ""
+msgstr "माफ़ करे ह्मारे पास आपके ईमेल का पता नही है|"
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "ईमेल क्षेत्र ज़रूरी है|"
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
@@ -182,6 +199,16 @@ msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
 msgstr ""
 
+#: auth.token.invalid
+msgctxt "auth.token.invalid"
+msgid "The forgotten password token is invalid"
+msgstr ""
+
+#: auth.token.required
+msgctxt "auth.token.required"
+msgid "Forgotten password token was required"
+msgstr ""
+
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
@@ -199,7 +226,9 @@ msgstr ""
 
 #: auth.username.length
 msgctxt "auth.username.length"
-msgid "The public profile URL field must be at least 2 and no more 100 characters long."
+msgid ""
+"The public profile URL field must be at least 2 and no more 100 characters "
+"long."
 msgstr ""
 
 #: auth.username.login error
@@ -221,4 +250,3 @@ msgstr ""
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
 msgstr ""
-
