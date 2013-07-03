@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Andi Chandler <andi@gowling.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-06-28 19:57+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-02 21:35+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/ushahidi-localizations/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,19 +22,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "This adds the report to additional categories. If you select Category 1 here and the report already has Category 2 attached to it, the report will then have both Category 1 and Category 2."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Approves a report or not. If approved, it will show up publicly."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "You will be able to assign a badge to the triggering user. Pick the badge that gets assigned here."
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -44,7 +45,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "This is a range of hours and/or minutes between two times in 24 hour format. If you input an earlier time in the second field, it will be flipped with the first. These times must be within a single day. Also, this time is checked against the time you have configured on your site in site settings and <strong>not</strong> necessarily the timezone of the user interacting with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -54,7 +55,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "If you would like to activate triggers only when a certain category is being used, you can set that here. This will allow a trigger to be activated if only one of the categories is used. For instance, if you select Category 1 and Category 2 here and a report is submitted using Category 2 and Category 3, it will pass the test."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -62,17 +63,17 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr ""
+msgstr "If these actions happen on certain days of the week, set that here. Keep in mind the day is determined by the timezone configured on your deployment. Hold shift, command, or control for multiple day selection."
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Body of the email that will be sent."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Subject of email that will be sent."
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -98,7 +99,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "You can choose to leave this blank if you do not want to check against keywords. If you add words here, you will need to separate them with a comma (,). For example, if you want to activate a trigger when someone mentions \"love\" or \"peace\" in their message, you will want to add \"love, peace\" in the keywords box."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"

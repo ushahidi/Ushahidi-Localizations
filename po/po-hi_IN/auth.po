@@ -1,13 +1,14 @@
 # 
 # Translators:
 # pratik kumar <kpratik217@gmail.com>, 2013
+# Sandeep Satavlekar <sandysat@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-07-01 07:22+0000\n"
-"Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
+"PO-Revision-Date: 2013-07-02 15:45+0000\n"
+"Last-Translator: Sandeep Satavlekar <sandysat@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,12 +20,12 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr "जो ईमेल आपने प्रवेश किया है वो एक सही ईमेल का पता नही है|"
+msgstr "जो ईमेल आपने प्रवेशित किया है वो एक सही ईमेल का पता नही है|"
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr "माफ़ करे!एस ईमेल के पते पर यूज़र अकाउंट पहले से मौजूद है|"
+msgstr "माफ़ करे! एस ईमेल के पते का उपभोक्ता खाता पहले से मौजूद है|"
 
 #: auth.email.length
 msgctxt "auth.email.length"
@@ -49,7 +50,7 @@ msgstr "नाम क्षेत्र ज़रूरी है|"
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr "यूज़र नाम क्षेत्र अमान्य वर्णो से निहित है|"
+msgstr "इस्तेमाल कर्ता नाम क्षेत्र अमान्य वर्णो से निहित है|"
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
@@ -59,36 +60,36 @@ msgstr "कूट शब्द कम से कम 8 वर्ण लंबी 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr "कृपया जाँच ले की आपने सही ईमेल और कूट शब्द को प्रवेश किया है|"
+msgstr "कृपया जाँच ले की आपने सही ईमेल और कूट शब्द को प्रवेशित किया है|"
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr "कृपया समान कूट शब्द को प्रवेश करे|"
+msgstr "कृपया दोनो कूटशब्द क्षेत्रो में समान कूट शब्द प्रवेशित करे|"
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr "यहा कूट शब्द क्षेत्र ज़रूरी है|"
+msgstr "यह कूट शब्द क्षेत्र ज़रूरी है|"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "कूटशब्द क्षेत्र में सिर्फ वर्णाक्षर, # एवं @ चिन्ह, संख्याऐं, निम्नरेखाऐं और dashes हि होने चाहिये|"
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "आप ने हाल हि में प्रवेशित किया हुआ कूटशब्द गलत हैं| कृपया फिर कोशिश करें|"
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr "यहा कूट शब्द क्षेत्र कम से कम 8 वर्ण लंबी होनी चाहिए"
+msgstr "यहा कूट शब्द क्षेत्र कम से कम 8 वर्ण लंबी होनी चाहिए|"
 
 #: auth.new_password.login error
 msgctxt "auth.new_password.login error"
