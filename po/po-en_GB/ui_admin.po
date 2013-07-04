@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Andi Chandler <andi@gowling.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-28 19:57+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-03 18:41+0000\n"
+"Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/ushahidi-localizations/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,59 +21,59 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "Access denied. Either your credentials are not valid or your request has been refused."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr ""
+msgstr "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Access Level"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
 msgid "Actions"
-msgstr ""
+msgstr "Actions"
 
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Add to Category"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
 msgid "added"
-msgstr ""
+msgstr "added"
 
 #: ui_admin.added_edited
 msgctxt "ui_admin.added_edited"
 msgid "added/edited"
-msgstr ""
+msgstr "added/edited"
 
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Addons"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Alerts"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Alerts Received"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -82,197 +83,197 @@ msgstr ""
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonymous"
 
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Anyone"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Anywhere"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "API Banned"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "API Logs"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "API Settings"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "UNBAN"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "UNBAN ALL"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
 msgid "approved"
-msgstr ""
+msgstr "approved"
 
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
-msgstr ""
+msgstr "Auto Approve"
 
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
-msgstr ""
+msgstr "Manually Approve"
 
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Archived"
 
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr ""
+msgstr "Are you sure you want to"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr ""
+msgstr "Are you sure you want to delete this item?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr ""
+msgstr "Are you sure you want to delete this photo?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Are you sure you want to switch forms?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Assign"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Assignments"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Assign Badge"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "Author"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr ""
+msgstr "Author email"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
 msgid "Back"
-msgstr ""
+msgstr "Back"
 
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "Ban IP"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Between Times"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Blocks"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr ""
+msgstr "Body"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: ui_admin.categories
 msgctxt "ui_admin.categories"
 msgid "Categories"
-msgstr ""
+msgstr "Categories"
 
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Error displaying chart"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
-msgstr ""
+msgstr "Please make sure your message is valid."
 
 #: ui_admin.check_number
 msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
-msgstr ""
+msgstr "Please make sure the number is valid."
 
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
-msgstr ""
+msgstr "Please check your SMS settings!"
 
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Checkin Details"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Checkins"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "Cities loaded"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "code"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr ""
+msgstr "Code version out of sync."
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Colour"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
