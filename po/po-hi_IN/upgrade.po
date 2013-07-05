@@ -1,14 +1,15 @@
 # 
 # Translators:
 # arunkumarrathore <arunkumar0029@gmail.com>, 2013
+# jayeshvani <jayeshvani@gmail.com>, 2013
 # Shantanu Sarkar <shantanusarkar.me@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-06-29 20:18+0000\n"
-"Last-Translator: Shantanu Sarkar <shantanusarkar.me@gmail.com>\n"
+"PO-Revision-Date: 2013-07-05 05:43+0000\n"
+"Last-Translator: jayeshvani <jayeshvani@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgstr ""
 #: upgrade.upgrade.between
 msgctxt "upgrade.upgrade.between"
 msgid "Invalid input data. It can either be 0 for No or 1 for Yes."
-msgstr "अवैध इनपुट डाटा | यह नहीं  के लिए 0 या  हाँ के लिए 1 हो सकता है । "
+msgstr "अवैध इनपुट डाटा | यहाँ ना के लिए 0 या  हाँ के लिए 1 हो सकता है । "
 
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
@@ -147,14 +148,14 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong>Step 3:</strong> <strong>SQL</strong> फोल्डर में देखिए ! मॅन्यूयेली यह अपग्रेडेड फाइल <xx>-<xx>.sql रन करे! अपग्रेड की शुरुआत अपने इन्स्टलेशन के करंट db वरजन से कीजिए! और इसे फाइनल sql अपग्रेड फाइल तक रन कीजिए !"
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr ""
+msgstr "<strong>Step 4:</strong> <strong>\"कंटिन्यू\" </strong> बटन को क्लिक कीजिए ताकी ज़रूरी टेबल्स अपग्रेड हो जाये !"
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
