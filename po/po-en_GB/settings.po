@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-07-03 18:34+0000\n"
+"PO-Revision-Date: 2013-07-05 22:03+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/ushahidi-localizations/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
@@ -96,17 +96,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "The Site Banner field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Please ensure that \"Banner Image\" size is less than 250 KB."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "The \"Banner Image\" field does not appear to contain a valid file."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -576,118 +576,118 @@ msgstr "Laconica Site "
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "Site Language"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Manually Approve Users"
 
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Site Message"
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "Site Name"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "Private Deployment"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Require User Email Confirmation"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Submit Report Message"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr ""
+msgstr "Enable Statistics (Stored on Ushahidi's server)"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Site Tagline"
 
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Timezone"
 
 #: settings.site.title
 msgctxt "settings.site.title"
 msgid "Site Settings"
-msgstr ""
+msgstr "Site Settings"
 
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
 msgid "Twitter Search Terms"
-msgstr ""
+msgstr "Twitter Search Terms"
 
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
-msgstr ""
+msgstr "Hashtags - Separate with commas "
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
 msgid "The site email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "The site email field does not appear to contain a valid email address."
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr ""
+msgstr "The site email field must be at least 4 and no more 100 characters long."
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "The site name field must be at least 3 and no more 50 characters long."
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "The site name field is required."
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "The tagline field must be at least 3 and no more 100 characters long."
 
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
-msgstr ""
+msgstr "The tagline field is required."
 
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
 msgid "Your Clickatell API Number"
-msgstr ""
+msgstr "Your Clickatell API Number"
 
 #: settings.sms.clickatell_check_balance
 msgctxt "settings.sms.clickatell_check_balance"
 msgid "Check Your Clickatell Credit Balance"
-msgstr ""
+msgstr "Check Your Clickatell Credit Balance"
 
 #: settings.sms.clickatell_load_balance
 msgctxt "settings.sms.clickatell_load_balance"
 msgid "Load Credit Balance"
-msgstr ""
+msgstr "Load Credit Balance"
 
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "Your Clickatell Password"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -695,17 +695,17 @@ msgid ""
 "Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
-msgstr ""
+msgstr "Sign up for Clickatells service by <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">clicking here</a>"
 
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
 msgid "Enter your Clickatell access information below"
-msgstr ""
+msgstr "Enter your Clickatell access information below"
 
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr ""
+msgstr "Your Clickatell User Name"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -713,12 +713,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS is free and open source software that enables users to send and receive text messages with large groups of people through mobile phones. Click on the box below to download the latest version from FrontlineSMS.com."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Download and install FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -728,12 +728,12 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Detailed instructions on how to send SMS from your FronlineSMS installation are available <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">here</a></strong>. The URL and API Key below are required to set up the sync with FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Copy and paste this into the FrontlineSMS \"Address\" field"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
@@ -748,89 +748,89 @@ msgstr ""
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr ""
+msgstr "Enter phone number(s) connected to Frontline SMS in the field(s) below"
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
-msgstr ""
+msgstr "Enter the number without any + or dashes below"
 
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr ""
+msgstr "Option 1: Use Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr ""
+msgstr "Option 2: Use a Global SMS Gateway"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "SMS Setup Options"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
 msgid "The phone 1 field does not appear to contain a valid value."
-msgstr ""
+msgstr "The phone 1 field does not appear to contain a valid value."
 
 #: settings.sms_no1.numeric
 msgctxt "settings.sms_no1.numeric"
 msgid "The phone 1 field should contain numbers only."
-msgstr ""
+msgstr "The phone 1 field should contain numbers only."
 
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
-msgstr ""
+msgstr "The phone 2 field is too long."
 
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr ""
+msgstr "The phone 2 field should contain numbers only."
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
-msgstr ""
+msgstr "The phone 3 field is too long."
 
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr ""
+msgstr "The phone 3 field should contain numbers only."
 
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Twitter Setup Options"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "To get the information below, set up your deployment as a new Twitter application at"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Consumer Key"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Consumer secret"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Access Token"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Access Token Secret"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"

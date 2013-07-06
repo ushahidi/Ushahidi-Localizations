@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-06-27 20:47+0000\n"
+"PO-Revision-Date: 2013-07-05 15:48+0000\n"
 "Last-Translator: ppanhh <ppanhh@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -149,7 +149,7 @@ msgstr "Nhận Thông Báo"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Cảnh báo đã được"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -218,12 +218,12 @@ msgstr "Cho phép"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Cho phép các thẻ đánh dấu HTLM: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "Iframes chỉ được cho phép từ: %s."
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -283,7 +283,7 @@ msgstr "Đã sao lưu"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Tăng dần"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -485,7 +485,7 @@ msgstr "Bạn đã xác nhận thành công địa chỉ email của bạn! Hãy
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "Việc xác nhận email không thành công! Bạn có thể được quyền yêu cầu thêm một email xác nhận nữa bên dưới."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -665,7 +665,7 @@ msgstr "Mô tả"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "Giảm dần"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -700,7 +700,7 @@ msgstr "Tải về báo cáo"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "Tải xuống"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -842,7 +842,7 @@ msgstr "Liên kết video bổ sung"
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -1154,7 +1154,7 @@ msgstr "Bao gồm kinh độ"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Bao gồm thông tin cá nhân"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1221,7 +1221,7 @@ msgstr "Khóa"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Từ khóa"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
@@ -1236,627 +1236,627 @@ msgstr "Tải lên tập tin KMZ/KML"
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr ""
+msgstr "Ngôn ngữ"
 
 #: ui_main.last
 msgctxt "ui_main.last"
 msgid "Last"
-msgstr ""
+msgstr "Trước đó"
 
 #: ui_main.last_month
 msgctxt "ui_main.last_month"
 msgid "Last Month"
-msgstr ""
+msgstr "Tháng trước"
 
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr "Họ"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
 msgid "Last Year"
-msgstr ""
+msgstr "Năm trước"
 
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "Vĩ độ"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "Lớp"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "Lớp khác"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "Lớp đã bị"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "Tên lớp"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "Đường dẫn đến lớp"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Để lại bình luận"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Ít thông ti"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "Cấp độ"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "Cấp độ này được"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "Tên cấp độ"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "Hạn chế"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "Đường liên kết"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Danh sách"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Đang tải báo cáo"
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "Địa điểm"
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "Địa điểm"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "Thành phố, Bang và/hoặc quốc gia"
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "Đăng nhập"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Tài khoản đã được tạo thành công. Bạn có thể đăng nhập ngay bây giờ."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "Xác nhận đã được gửi đến địa chỉ email của bạn."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Địa chỉ email không tồn tại. Xin vui lòng thử một địa chỉ khác hoặc tạo một tài khoản."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Xin vui lòng click vào nhà cung cấp tài khoản của bạn"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Đăng nhập với"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "Email và mật khẩu"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Đăng ký"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Tạo một tài khoản"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Cảm ơn bạn đã đăng ký tại %1$s. Để có thể xác nhận email của mình, vui lòng truy cập đường dẫn sau: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Xác nhận đăng ký"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Tạo một tài khoản mới sẽ tận dụng được nhiều tính năng trên trang này"
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "Kinh độ"
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "Bản đồ"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr ""
+msgstr "Đánh dấu đã đọc"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Đánh dấu chưa đọc"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Kích thước tối đa của tập tin"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr ""
+msgstr "Bộ lọc media"
 
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Thành viên"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "Quản lý tài khoản"
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr ""
+msgstr "Tin nhắn"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr ""
+msgstr "Tin nhắn"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr ""
+msgstr "Chi tiết tin nhắn"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Tin nhắn được gửi từ một nguồn không rõ số liệu:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Di động"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr ""
+msgstr "Chỉnh sửa ngày tháng"
 
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr ""
+msgstr "tháng"
 
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr ""
+msgstr "Các phần khác"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "Thông tin bổ sung"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "Does this Ushahidi Deployment Span Multiple Countries"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Bạn phải xác nhận email để có thể truy cập đến phần này. Nếu bạn mất thư xác nhận, bạn có thể yêu cầu gửi lại mã xác nhận một lần nữa bên dưới."
 
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr ""
+msgstr "Tên"
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "Báo cáo gần đây"
 
 #: ui_main.new
 msgctxt "ui_main.new"
 msgid "New"
-msgstr ""
+msgstr "Mới"
 
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr ""
+msgstr "Tin tức"
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "Tin tức feed"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr ""
+msgstr "Nguồn tin tức"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "Tạo phân loại mới"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "Mật khẩu mới"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr ""
+msgstr "Báo cáo mới"
 
 #: ui_main.next
 msgctxt "ui_main.next"
 msgid "Next"
-msgstr ""
+msgstr "Tiếp theo"
 
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "Không đồng ý"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Không có thông tin về đăng nhập để hiển thị."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Không có dữ liệu"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Không"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr ""
+msgstr "Chú ý"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr ""
+msgstr "Chưa được cho phép"
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr ""
+msgstr "Chưa được cho phép"
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---Chưa được chọn---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr ""
+msgstr "không phải spam"
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "Chưa được xác định"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr ""
+msgstr "Không có báo cáo nào"
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
 msgid "There are no results"
-msgstr ""
+msgstr "Không có kết quả nào"
 
 #: ui_main.off
 msgctxt "ui_main.off"
 msgid "Off"
-msgstr ""
+msgstr "Tắt"
 
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr ""
+msgstr "Dòng &amp; tin tức chính thức"
 
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr ""
+msgstr "Mở"
 
 #: ui_main.option
 msgctxt "ui_main.option"
 msgid "Option"
-msgstr ""
+msgstr "Tùy chọn"
 
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr ""
+msgstr "Tùy chọn"
 
 #: ui_main.options
 msgctxt "ui_main.options"
 msgid "Options"
-msgstr ""
+msgstr "Tùy chọn"
 
 #: ui_main.organization
 msgctxt "ui_main.organization"
 msgid "Organization"
-msgstr ""
+msgstr "Tổ chức"
 
 #: ui_main.organizations
 msgctxt "ui_main.organizations"
 msgid "Organizations"
-msgstr ""
+msgstr "Tổ chức"
 
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr ""
+msgstr "Mô tả về tổ chức"
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
 msgid "Organization Email"
-msgstr ""
+msgstr "Email tổ chức"
 
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr ""
+msgstr "Tổ chức đã được"
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
 msgid "Organization Name"
-msgstr ""
+msgstr "Tên tổ chức"
 
 #: ui_main.organization_phone_1
 msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
-msgstr ""
+msgstr "Điện thoại tổ chức 1"
 
 #: ui_main.organization_phone_2
 msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
-msgstr ""
+msgstr "Điện thoại tổ chức 2"
 
 #: ui_main.organization_website
 msgctxt "ui_main.organization_website"
 msgid "Organization Website"
-msgstr ""
+msgstr "Website của tổ chức"
 
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr ""
+msgstr "Nguyên bản"
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
 msgid "Original Description"
-msgstr ""
+msgstr "Mô tả nguyên bản"
 
 #: ui_main.original_title
 msgctxt "ui_main.original_title"
 msgid "Original Title"
-msgstr ""
+msgstr "Tiêu đề gốc"
 
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr ""
+msgstr "Các tiến trình khác"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
 msgid "Outbox"
-msgstr ""
+msgstr "Hộp thư gửi đi"
 
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr ""
+msgstr "Đang gửi đi"
 
 #: ui_main.page
 msgctxt "ui_main.page"
 msgid "Page"
-msgstr ""
+msgstr "Trang"
 
 #: ui_main.pages
 msgctxt "ui_main.pages"
 msgid "Pages"
-msgstr ""
+msgstr "TRang"
 
 #: ui_main.page_description
 msgctxt "ui_main.page_description"
 msgid "Page Description"
-msgstr ""
+msgstr "Mô tả về trang"
 
 #: ui_main.page_has_been
 msgctxt "ui_main.page_has_been"
 msgid "The Page Has Been"
-msgstr ""
+msgstr "Trang đã bị"
 
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr ""
+msgstr "Tên tab của trang"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
 msgid "Page Title"
-msgstr ""
+msgstr "Tiêu đề trang"
 
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr ""
+msgstr "Phân loại gốc"
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr ""
+msgstr "Mật khẩu"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr ""
+msgstr "Xác nhận mật khẩu"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "Mật khẩu đã được thay đổi thành công! Vui lòng đăng nhập trở lại bên dứoi"
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Quên mật khẩu?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr ""
+msgstr "Kiểm tra email của bạn về mật khẩu mới."
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr ""
+msgstr "Giữ trạng thái đăng nhập trên máy tính này?"
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
 msgid "Past Month"
-msgstr ""
+msgstr "Tháng trước đó"
 
 #: ui_main.past_year
 msgctxt "ui_main.past_year"
 msgid "Past Year"
-msgstr ""
+msgstr "Năm trước đó"
 
 #: ui_main.pending
 msgctxt "ui_main.pending"
 msgid "Pending"
-msgstr ""
+msgstr "Đang đợi"
 
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "mỗi"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr ""
+msgstr "<span>Tùy chọn</span>thông tin cá nhân."
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "Hình chụp"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr ""
+msgstr "Hình ảnh"
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
-msgstr ""
+msgstr "Hình ảnh và video"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
@@ -1864,956 +1864,956 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "* Tìm kiếm địa chỉ của bạn dựa vào tên địa điểm hoặc vị trí vĩ độ, kinh độ (theo định dạng: 38.19, 85.61), HOẶC click vào bản đồ và chọn phần địa điểm chính xác hiện tại của bạn."
 
 #: ui_main.play
 msgctxt "ui_main.play"
 msgid "Play"
-msgstr ""
+msgstr "Phát"
 
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr ""
+msgstr "Để lại ghi chú"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Tiện ích"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Tiện ích Website"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "Hồ sơ công cộng"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "Đường dẫn đến hồ sơ công cộng"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
 msgid "Preview"
-msgstr ""
+msgstr "Xem thử"
 
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr ""
+msgstr "Xem thử đối tượng"
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
 msgid "Preview Message"
-msgstr ""
+msgstr "Xem thử tin nhắn"
 
 #: ui_main.previous
 msgctxt "ui_main.previous"
 msgid "Previous"
-msgstr ""
+msgstr "Trước đó"
 
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "Riêng tư"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "Màu sắc hồ sơ"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
-msgstr ""
+msgstr "Hồ sơ của bạn đã được lưu"
 
 #: ui_main.quick_stats
 msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
-msgstr ""
+msgstr "Trạng thái nhanh"
 
 #: ui_main.rating
 msgctxt "ui_main.rating"
 msgid "Rating"
-msgstr ""
+msgstr "Xếp hạng"
 
 #: ui_main.read
 msgctxt "ui_main.read"
 msgid "Read"
-msgstr ""
+msgstr "Đọc"
 
 #: ui_main.receive
 msgctxt "ui_main.receive"
 msgid "Receive"
-msgstr ""
+msgstr "Nhận"
 
 #: ui_main.receive_from
 msgctxt "ui_main.receive_from"
 msgid "Receive from"
-msgstr ""
+msgstr "Nhận từ"
 
 #: ui_main.receive_notifications
 msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
-msgstr ""
+msgstr "Thông báo nhận được"
 
 #: ui_main.recent_reports
 msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
-msgstr ""
+msgstr "Báo cáo gần đây"
 
 #: ui_main.refresh_news_feeds
 msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
-msgstr ""
+msgstr "Cập nhật lại tin tức feed"
 
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "Email đã đăng ký"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
 msgid "Remove"
-msgstr ""
+msgstr "Loại bỏ"
 
 #: ui_main.reply
 msgctxt "ui_main.reply"
 msgid "Reply"
-msgstr ""
+msgstr "Trả lời"
 
 #: ui_main.report
 msgctxt "ui_main.report"
 msgid "Report"
-msgstr ""
+msgstr "Báo cáo"
 
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr ""
+msgstr "Báo cáo <span>(từ bản đồ, được liệt kê theo thứ tự niên đại)</span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr ""
+msgstr "Người báo cáo"
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Người báo cáo"
 
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr ""
+msgstr "Ngày người gửi báo cáo"
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
-msgstr ""
+msgstr "Email của người gửi báo cáo"
 
 #: ui_main.reporter_first_name
 msgctxt "ui_main.reporter_first_name"
 msgid "Reporter First Name"
-msgstr ""
+msgstr "Tên của người gửi báo cáo"
 
 #: ui_main.reporter_has_been
 msgctxt "ui_main.reporter_has_been"
 msgid "The Reporter Has Been"
-msgstr ""
+msgstr "Người báo cáo đã được"
 
 #: ui_main.reporter_ip
 msgctxt "ui_main.reporter_ip"
 msgid "Reporter IP Address"
-msgstr ""
+msgstr "Địa chỉ IP của người báo cáo"
 
 #: ui_main.reporter_last_name
 msgctxt "ui_main.reporter_last_name"
 msgid "Reporter Last Name"
-msgstr ""
+msgstr "Họ của người báo cáo"
 
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr ""
+msgstr "Cấp độ người báo cáo"
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "Cấp độ người báo cáo"
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
-msgstr ""
+msgstr "Điện thoại người báo cáo"
 
 #: ui_main.reports
 msgctxt "ui_main.reports"
 msgid "Reports"
-msgstr ""
+msgstr "Báo cáo"
 
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr ""
+msgstr "Duyệt tìm"
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
 msgid "Submit"
-msgstr ""
+msgstr "Đệ trình"
 
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "Báo cáo thực hiện bởi người dùng này"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
 msgid "Categories"
-msgstr ""
+msgstr "Phân loại"
 
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d Báo cáo"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
 msgid "Date"
-msgstr ""
+msgstr "Ngày tháng"
 
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr ""
+msgstr "Báo cáo sẽ được tải về dưới định dạng CSV"
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr ""
+msgstr "Tính năng"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
-msgstr ""
+msgstr "Tìm một địa điểm gần bạn"
 
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
 msgid "First Name"
-msgstr ""
+msgstr "Tên"
 
 #: ui_main.reports_last
 msgctxt "ui_main.reports_last"
 msgid "Last Name"
-msgstr ""
+msgstr "Họ"
 
 #: ui_main.reports_location_name
 msgctxt "ui_main.reports_location_name"
 msgid "Location Name"
-msgstr ""
+msgstr "Tên địa điểm"
 
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr ""
+msgstr "Đường dẫn đến nguồn tin"
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
-msgstr ""
+msgstr "Thông tin tùy chọn"
 
 #: ui_main.reports_photos
 msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
-msgstr ""
+msgstr "Tải lên hình chụp"
 
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr ""
+msgstr "Quay trở lại trang báo cáo"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
-msgstr ""
+msgstr "Chọn một thành phố"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr ""
+msgstr "Báo cáo của bạn đã được đệ trình đến đội ngũ để xem xét. Chúng tôi sẽ trả lời bạn trong thời gian ngắn nhất có thể."
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
 msgid "Submit a New Report"
-msgstr ""
+msgstr "Đệ trình một báo cáo mới"
 
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
 msgid "Time"
-msgstr ""
+msgstr "Thời gian"
 
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr ""
+msgstr "Thời gian báo cáo"
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Tiêu đề báo cáo"
 
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
 msgid "Video link"
-msgstr ""
+msgstr "Đường liên kết video"
 
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr ""
+msgstr "Báo cáo sự việc nào đó"
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr ""
+msgstr "Chi tiết báo cáo"
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr ""
+msgstr "Bằng cách gửi tin nhắn tới"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr ""
+msgstr "Bằng cách gửi email"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr ""
+msgstr "Bằng cách gửi tweet với mã hashtag/s"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr ""
+msgstr "Bằng việc điền vào lá đơn này trên website của chúng tôi."
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "Bằng việc sử dụng ứng dụng này"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
-msgstr ""
+msgstr "Báo cáo của bạn đã được lưu"
 
 #: ui_main.report_title
 msgctxt "ui_main.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Tiêu đề báo cáo"
 
 #: ui_main.request_information
 msgctxt "ui_main.request_information"
 msgid "Request more information"
-msgstr ""
+msgstr "Yêu cầu gửi thêm thông tin"
 
 #: ui_main.request_location
 msgctxt "ui_main.request_location"
 msgid "Request location"
-msgstr ""
+msgstr "Yêu cầu về địa điểm"
 
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "Đã yêu cầu"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
 msgid "Requirements"
-msgstr ""
+msgstr "Các yêu cầu cần có"
 
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "Gửi lại email xác nhận"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Thiết đặt lại"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "Thiết đặt lại tất cả bộ lọc"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr ""
+msgstr "Thiết đặt lại mật khẩu"
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr ""
+msgstr "Nhận thông tin về tên thành phố của quốc gia được chọn"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Tài khoản được quản lý bởi %s dịch vụ."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Bạn đã có tài khoản được quản lý bởi CrowdmapID! Hãy thử sử dụng email của CrowdmapID mà bạn có cùng mật khẩu để đăng nhập."
 
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr ""
+msgstr "Vai trò"
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 #: ui_main.saved
 msgctxt "ui_main.saved"
 msgid "Saved"
-msgstr ""
+msgstr "Đã lưu"
 
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "Lưu &Thêm mới"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
 msgid "Save & Close"
-msgstr ""
+msgstr "Lưu & Đóng lại"
 
 #: ui_main.save_report
 msgctxt "ui_main.save_report"
 msgid "Save Report"
-msgstr ""
+msgstr "Lưu lại báo cáo"
 
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr ""
+msgstr "Thời khóa biểu"
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr ""
+msgstr "Người lập thời khóa biểu"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
 msgid "Day"
-msgstr ""
+msgstr "Ngày"
 
 #: ui_main.scheduler_hour
 msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
-msgstr ""
+msgstr "Giờ"
 
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr ""
+msgstr "Nhật trình người lập thời khóa biểu"
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
-msgstr ""
+msgstr "Phút"
 
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr ""
+msgstr "Ngày trong tuần"
 
 #: ui_main.search
 msgctxt "ui_main.search"
 msgid "Search"
-msgstr ""
+msgstr "Tìm kiếm"
 
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
 msgid "Search Results"
-msgstr ""
+msgstr "Tìm kết quả"
 
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
 msgid "Security Code"
-msgstr ""
+msgstr "Mã an ninh"
 
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr ""
+msgstr "Chọn tất cả"
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr ""
+msgstr "Chọn một loại khung thông tin"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr ""
+msgstr "Chọn một loại đơn"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr ""
+msgstr "Chọn trong bản đồ"
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr ""
+msgstr "Chọn theo nhu cầu"
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Xin xác nhận bạn đã chọn đối tượng"
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
 msgid "Select Theme"
-msgstr ""
+msgstr "Chọn giao diện"
 
 #: ui_main.send
 msgctxt "ui_main.send"
 msgid "Send"
-msgstr ""
+msgstr "Gửi"
 
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Xác nhận gửi"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr ""
+msgstr "Đang gửi đến"
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
 msgid "Sent"
-msgstr ""
+msgstr "Đã gửi"
 
 #: ui_main.sent_by
 msgctxt "ui_main.sent_by"
 msgid "Sent by"
-msgstr ""
+msgstr "Được gửi bởi"
 
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr ""
+msgstr "Địa chỉ server"
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
 msgid "Server type"
-msgstr ""
+msgstr "Loại server"
 
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr ""
+msgstr "Dịch vụ"
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr ""
+msgstr "Dịch vụ tên người dùng"
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr ""
+msgstr "Chỉ số dịch vụ người dùng"
 
 #: ui_main.share
 msgctxt "ui_main.share"
 msgid "Share"
-msgstr ""
+msgstr "Chia sẻ"
 
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr ""
+msgstr "Dữ liệu được chia sẻ"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "Việc chia sẻ đã được"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr ""
+msgstr "Đang chia sẻ"
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Bản đồ ngắn hơn"
 
 #: ui_main.show
 msgctxt "ui_main.show"
 msgid "Show"
-msgstr ""
+msgstr "Hiển thị"
 
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
 msgid "Show all"
-msgstr ""
+msgstr "Hiển thị tất cả"
 
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "Hiển thị tin nhắn"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "Đang hiển thị báo cáo từ <span class=\"time-period\">%1$s đến %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
 msgid "Website"
-msgstr ""
+msgstr "Website"
 
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
 msgid "site email address"
-msgstr ""
+msgstr "địa chỉ email của trang"
 
 #: ui_main.site_url
 msgctxt "ui_main.site_url"
 msgid "Site URL"
-msgstr ""
+msgstr "Đường dẫn"
 
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Bản đồ nhỏ hơn"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "Rất tiếc, bạn chưa có huy hiệu nào."
 
 #: ui_main.source
 msgctxt "ui_main.source"
 msgid "Source"
-msgstr ""
+msgstr "Nguồn"
 
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
-msgstr ""
+msgstr "Tên nguồn"
 
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Sắp xếp"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Sắp xếp theo"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr ""
+msgstr "Đường dẫn đến nguồn"
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
-msgstr ""
+msgstr "Hỗ trợ SSL?"
 
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
 msgid "From"
-msgstr ""
+msgstr "Từ"
 
 #: ui_main.step
 msgctxt "ui_main.step"
 msgid "Step"
-msgstr ""
+msgstr "Bước"
 
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr ""
+msgstr "Đệ trình một báo cáo"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "Được đệ trình bởi <strong>%1$s</strong> thông qua <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
-msgstr ""
+msgstr "Đệ trình thông qua SMS"
 
 #: ui_main.submit_sms1
 msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
-msgstr ""
+msgstr "Gửi SMS của bạn đến"
 
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr ""
+msgstr "trên điện thoại"
 
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr ""
+msgstr "Thành công!"
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr ""
+msgstr "Đã nhập dữ liệu thành công"
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
 msgid "Surname"
-msgstr ""
+msgstr "Tên"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "Khảo sát"
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr ""
+msgstr "Hệ thống"
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Bản đồ cao hơn"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "Cổng kết nối TCP"
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
 msgid "Themes"
-msgstr ""
+msgstr "Giao diện"
 
 #: ui_main.theme_default
 msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
-msgstr ""
+msgstr "Sử dụng giao diện mặc định"
 
 #: ui_main.theme_settings
 msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
-msgstr ""
+msgstr "Thiết lập giao diện"
 
 #: ui_main.this
 msgctxt "ui_main.this"
 msgid "This"
-msgstr ""
+msgstr "Đây"
 
 #: ui_main.this_day
 msgctxt "ui_main.this_day"
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 #: ui_main.this_month
 msgctxt "ui_main.this_month"
 msgid "This Month"
-msgstr ""
+msgstr "Tháng này"
 
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr ""
+msgstr "Tuần này"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
 msgid "This Year"
-msgstr ""
+msgstr "Năm này"
 
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "Đây là hồ sơ của bạn."
 
 #: ui_main.time
 msgctxt "ui_main.time"
 msgid "Time"
-msgstr ""
+msgstr "Thời gian"
 
 #: ui_main.title
 msgctxt "ui_main.title"
 msgid "Title "
-msgstr ""
+msgstr "Tiêu đề"
 
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr ""
+msgstr "đến"
 
 #: ui_main.today
 msgctxt "ui_main.today"
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 #: ui_main.today_at
 msgctxt "ui_main.today_at"
 msgid "Today at"
-msgstr ""
+msgstr "Hôm nay tại"
 
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr ""
+msgstr "Tổng số báo cáo"
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
 msgid "Translated"
-msgstr ""
+msgstr "Đã được dịch"
 
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr ""
+msgstr "Mô tả đã được dịch"
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
 msgid "Translated Title"
-msgstr ""
+msgstr "Tiêu đề đã được dịch"
 
 #: ui_main.translate_to
 msgctxt "ui_main.translate_to"
 msgid "Translate to"
-msgstr ""
+msgstr "Dịch sang"
 
 #: ui_main.translation
 msgctxt "ui_main.translation"
 msgid "Translation"
-msgstr ""
+msgstr "Dịch thuật"
 
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr ""
+msgstr "Dịch thuật đã được lưu"
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Được tin tưởng"
 
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "Loại"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "Không thể gửi email."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Báo cáo chưa được phân loại"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
 msgid "unread"
-msgstr ""
+msgstr "chưa đọc"
 
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr ""
+msgstr "Chưa xác nhận"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "Cập nhật feed"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr ""
+msgstr "Tải lên"
 
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Xem hướng dẫn tải lên báo cáo của chúng tôi:-"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Hướng dẫn tải lên XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Hướng dẫn tải lên CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
-msgstr ""
+msgstr "Tải lên tập tin"
 
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Tải lên báo cáo"
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
@@ -2821,58 +2821,58 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Custom field columns must have their form_id appended to them e.g custom field Test, on the default form, whose id is 1, will be Test-1. During custom form field import, ensure that"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "Với đơn bên dưới, bạn có thể nhập vào các dữ kiện của mình đến trung tâm xử lý của Ushahidi."
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Báo cáo phải được tải lên ở định dạng CSV hoặc XML."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Khi có một ID nào đó đã tồn tại trước đó trong cơ sở dữ liệu, phần khung thông tin trong tập tin CSV/XML sẽ được bỏ qua."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr ""
+msgstr "Phải chứa tiêu đề và ngày tháng xảy ra sự kiện."
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "Nếu không có vĩ độ và kinh độ cho cột số liệu, phần địa điểm sẽ được thiết lập bởi Google Geocoder."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Nếu nhập các dữ liệu bổ sung ví dụ như thông tin cá nhân và/hoặc khung thông tin mẫu đơn"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Có ít nhất một khung thông tin cá nhân (tên, họ, email) PHẢI được liệt kê. Các khung thông tin rỗng sẽ không được nhập dữ liệu vào"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Các khung thông tin của bạn cho menu xổ xuống, lựa chọn khoanh tròn và đánh dấu chọn vào các tùy chọn được cung cấp tùy theo trường hợp của bạn"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2880,19 +2880,19 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Đánh dấu tùy chọn được ngăn cách nhau bởi dấu phẩy, thí dụ nếu lựa chọn của bạn là trái cây và liên quan đến táo, xoài và nho, thì dòng thông tin bạn nên điền vào là \"táo,xoài,nho\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Khung giá trị ngày tháng nên ở định dạng: tt/nn/nnnn ví dụ ngày 3 tháng mười năm 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "Mẫu báo cáo CSV"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2902,7 +2902,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,INCIDENT TITLE,INCIDENT DATE,LOCATION,DESCRIPTION,CATEGORY,APPROVED,VERIFIED,LATITUDE,LONGITUDE<br />\"1\",\"Suspected death in Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2910,194 +2910,194 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, \",YES,NO,\"5.55\",\"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr ""
+msgstr "Tải lên thành công"
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "Tải lên video"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "Đường dẫn"
 
 #: ui_main.user
 msgctxt "ui_main.user"
 msgid "User"
-msgstr ""
+msgstr "Người dùng"
 
 #: ui_main.username
 msgctxt "ui_main.username"
 msgid "Username"
-msgstr ""
+msgstr "Tên người dùng"
 
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr ""
+msgstr "Quản trị viên"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "Xác nhận"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr ""
+msgstr "Đã xác nhận"
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr ""
+msgstr "Báo cáo đã được xác nhận"
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr ""
+msgstr "Xác nhận"
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr ""
+msgstr "Xác nhận báo cáo này"
 
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr ""
+msgstr "Phiên bản"
 
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr ""
+msgstr "thông qua"
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ui_main.view
 msgctxt "ui_main.view"
 msgid "View"
-msgstr ""
+msgstr "Xem"
 
 #: ui_main.views
 msgctxt "ui_main.views"
 msgid "Views"
-msgstr ""
+msgstr "Xem"
 
 #: ui_main.view_all
 msgctxt "ui_main.view_all"
 msgid "View All"
-msgstr ""
+msgstr "Xem tất cả"
 
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr ""
+msgstr "Xem tất cả feed"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
-msgstr ""
+msgstr "Xem tất cả báo cáo"
 
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr ""
+msgstr "Xem các đối tượng"
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr ""
+msgstr "Xem thêm nữa"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Xem Hồ Sơ Công Cộng"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "Xem báo cáo"
 
 #: ui_main.view_reports
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
-msgstr ""
+msgstr "Xem báo cáo"
 
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Xem video"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr ""
+msgstr "Cho phép hiển thị"
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr ""
+msgstr "Đang đợi chấp thuận"
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr ""
+msgstr "Đang đợi xác nhận"
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Bản đồ rộng hơn"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Mẫu đơn web"
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
 msgid "Weight"
-msgstr ""
+msgstr "Cân nặng"
 
 #: ui_main.yes
 msgctxt "ui_main.yes"
 msgid "Yes"
-msgstr ""
+msgstr "Đồng ý"
 
 #: ui_main.yesterday
 msgctxt "ui_main.yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "Ngày hôm qua"
 
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "Bảng điều khiển của bạn"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "Tập tin của bạn"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "Phóng to"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "Thu nhỏ"

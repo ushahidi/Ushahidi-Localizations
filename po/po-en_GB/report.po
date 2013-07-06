@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-07-03 18:37+0000\n"
+"PO-Revision-Date: 2013-07-05 22:01+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/ushahidi-localizations/language/en_GB/)\n"
 "MIME-Version: 1.0\n"
@@ -36,42 +36,42 @@ msgstr "Please enter a valid value for one of your custom form items."
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "The \"%s\" field must be numeric."
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "The \"%s\" field is required."
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr "The \"%s\" field is does not exist."
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "The \"%s\" field cannot be edited by your account."
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "The \"%s\" field must contain a valid email address."
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "The \"%s\" field must contain a valid phone number."
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
@@ -137,12 +137,12 @@ msgstr "Please select a valid type of report to download."
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "You must select a download format. Select either CSV or XML."
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "Please select a valid format to download your reports in"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"
@@ -336,58 +336,58 @@ msgctxt "report.location_name.length"
 msgid ""
 "The \"Location Name\" field must be at least 3 and no more 200 characters "
 "long."
-msgstr ""
+msgstr "The \"Location Name\" field must be at least 3 and no more 200 characters long."
 
 #: report.location_name.required
 msgctxt "report.location_name.required"
 msgid "The \"Location Name\" field is required."
-msgstr ""
+msgstr "The \"Location Name\" field is required."
 
 #: report.longitude.between
 msgctxt "report.longitude.between"
 msgid "The longitude field does not appear to contain a valid longitude."
-msgstr ""
+msgstr "The longitude field does not appear to contain a valid longitude."
 
 #: report.longitude.required
 msgctxt "report.longitude.required"
 msgid ""
 "The longitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr ""
+msgstr "The longitude field is required. Please click on the map to pinpoint a location."
 
 #: report.person_email.email
 msgctxt "report.person_email.email"
 msgid "The email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "The email field does not appear to contain a valid email address."
 
 #: report.person_email.length
 msgctxt "report.person_email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "The email field must be at least 4 and no more 64 characters long."
 
 #: report.person_first.length
 msgctxt "report.person_first.length"
 msgid ""
 "The first name field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "The first name field must be at least 3 and no more 100 characters long."
 
 #: report.person_last.length
 msgctxt "report.person_last.length"
 msgid ""
 "The last name field must be at least 2 and no more 100 characters long."
-msgstr ""
+msgstr "The last name field must be at least 2 and no more 100 characters long."
 
 #: report.to_date.date_mmddyyyy
 msgctxt "report.to_date.date_mmddyyyy"
 msgid "The TO date field does not appear to contain a valid date."
-msgstr ""
+msgstr "The TO date field does not appear to contain a valid date."
 
 #: report.to_date.range
 msgctxt "report.to_date.range"
 msgid "Please enter a valid TO date. It cannot be greater than today."
-msgstr ""
+msgstr "Please enter a valid TO date. It cannot be greater than today."
 
 #: report.to_date.range_greater
 msgctxt "report.to_date.range_greater"
 msgid "Your FROM date cannot be greater than your TO date."
-msgstr ""
+msgstr "Your FROM date cannot be greater than your TO date."
