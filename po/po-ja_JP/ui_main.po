@@ -1,12 +1,13 @@
 # 
 # Translators:
+# k_tanabe <tanatakax@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-06 18:12+0000\n"
+"Last-Translator: k_tanabe <tanatakax@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +19,7 @@ msgstr ""
 #: ui_main.about
 msgctxt "ui_main.about"
 msgid "About "
-msgstr "アバウト"
+msgstr "概略"
 
 #: ui_main.access
 msgctxt "ui_main.access"
@@ -68,7 +69,7 @@ msgstr "追加者"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "備考"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
@@ -217,7 +218,7 @@ msgstr "許可"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "許可されているHTMlタグは以下のとおりです: \"%s\""
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
@@ -232,7 +233,7 @@ msgstr "全カテゴリ"
 #: ui_main.all_time
 msgctxt "ui_main.all_time"
 msgid "All Time"
-msgstr ""
+msgstr "常に"
 
 #: ui_main.and
 msgctxt "ui_main.and"
@@ -242,7 +243,7 @@ msgstr "と"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -282,7 +283,7 @@ msgstr "アーカイブ済み"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "昇順"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -297,7 +298,7 @@ msgstr "著者"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "自動チェックイン"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -392,12 +393,12 @@ msgstr ""
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "パスワードを変更する"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "自分の画像を変更する"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -427,7 +428,7 @@ msgstr "URLをクリアにする"
 #: ui_main.clear
 msgctxt "ui_main.clear"
 msgid "Clear"
-msgstr ""
+msgstr "消去する"
 
 #: ui_main.clear_map
 msgctxt "ui_main.clear_map"
@@ -484,7 +485,7 @@ msgstr ""
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "メールによる確認に失敗しました。以下で、確認メールの再送信を要請できます。"
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -554,7 +555,7 @@ msgstr "新規追加"
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "新しいパスワードを作成する"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -569,7 +570,7 @@ msgstr "信頼"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "現在のパスワード"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
@@ -664,7 +665,7 @@ msgstr "説明"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "降順"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -831,12 +832,12 @@ msgstr "ケニヤ"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "外部アプリ"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "外部のビデオへのリンク"
 
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
@@ -898,7 +899,7 @@ msgstr "ファイル"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "ファイル容量が大き過ぎます。"
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
@@ -908,17 +909,17 @@ msgstr "フィルター"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr ""
+msgstr "レポートを選別する"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "レポートを以下の基準で選別する:"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "以下を含むレポートのみを取り出す:"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -1013,7 +1014,7 @@ msgstr "幅"
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "移動する"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -1058,12 +1059,12 @@ msgstr "レポートする方法"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
@@ -1153,7 +1154,7 @@ msgstr "経度を含む"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "個人情報を含む"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1190,7 +1191,7 @@ msgstr "IP アドレス"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "これはあなたの情報ですか?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
@@ -1340,7 +1341,7 @@ msgstr ""
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "レポートを読み込んでいます..."
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1365,18 +1366,18 @@ msgstr "ログイン"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "アカウントの作成が完了しました。ログインが可能です。"
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "指定されたメールアドレスに、確認用のメールを送信しました。"
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "メールアドレスが存在しません。別のメールアドレスを指定するか、作成するかして下さい。"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
@@ -1386,27 +1387,27 @@ msgstr ""
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "以下のユーザ名でログイン:"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "メールアドレスとパスワード"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "登録"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "アカウントを作成する"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
@@ -1418,12 +1419,12 @@ msgstr ""
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "登録確認"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "このサイトの新たな機能を使用するために、アカウントを作成する。"
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1448,7 +1449,7 @@ msgstr "未読"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "最大のファイルサイズ"
 
 #: ui_main.media
 msgctxt "ui_main.media"
@@ -1463,12 +1464,12 @@ msgstr "メディアフィルタ"
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "メンバー"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "アカウントを管理する"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1620,7 +1621,7 @@ msgstr "未承認"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---未選択---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1795,7 +1796,7 @@ msgstr "パスワードを再度入力してください。"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "パスワードの変更が完了しました。以下からログインして下さい。"
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
@@ -1830,7 +1831,7 @@ msgstr "保留"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "毎"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1845,7 +1846,7 @@ msgstr "電話番号"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "写真"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
@@ -1888,12 +1889,12 @@ msgstr "プラグインウェブサイト"
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "公開プロフィール"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "公開プロフィールのURL"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1918,7 +1919,7 @@ msgstr "前の"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "非公開"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
@@ -1973,7 +1974,7 @@ msgstr "新しいフィードを再度読み込む"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "登録されたメールアドレス"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -1998,7 +1999,7 @@ msgstr ""
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr ""
+msgstr "レポート作成者"
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
@@ -2240,7 +2241,7 @@ msgstr "ロケーションを求める"
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "必須"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
@@ -2292,7 +2293,7 @@ msgstr "ロール"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2547,7 +2548,7 @@ msgstr ""
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "以下の項目によって並び替え:"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2617,7 +2618,7 @@ msgstr "名字"
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "調査"
 
 #: ui_main.system
 msgctxt "ui_main.system"
@@ -2667,7 +2668,7 @@ msgstr "今月"
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr ""
+msgstr "今週"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
@@ -2747,7 +2748,7 @@ msgstr "翻訳は保存されました。"
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "信頼出来る"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2762,12 +2763,12 @@ msgstr "ツイッター"
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "メールを送信出来ません。"
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "未分類のレポート"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2831,7 +2832,7 @@ msgstr "以下のフォーム内で、Ushahidiエンジンにインシデント�
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "レポートは、CSVまたはXML形式でなければなりません。"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
@@ -2864,7 +2865,7 @@ msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "少なくともひとつの個人情報(名前、名字、メールアドレス)が入力されていなければなりません。"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
@@ -2919,12 +2920,12 @@ msgstr "アップロードに成功しました"
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "動画をアップロードする"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2944,7 +2945,7 @@ msgstr "Ushahidi管理"
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "認証"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
@@ -3019,7 +3020,7 @@ msgstr "もっと見る"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "公開プロフィールを閲覧する"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -3034,7 +3035,7 @@ msgstr "レポートを見る"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "動画を閲覧する"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3064,7 +3065,7 @@ msgstr ""
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Web"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
@@ -3084,12 +3085,12 @@ msgstr "機能"
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "ダッシュボード"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "ファイル"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# k_tanabe <tanatakax@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-06 17:36+0000\n"
+"Last-Translator: k_tanabe <tanatakax@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -79,12 +80,12 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidiの最新版が公開されました。作業をする前に、データベースを最新版(%s)に更新して下さい。"
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "データベースは最新のものが使用されています。"
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
@@ -157,14 +158,14 @@ msgstr "自動アップグレードは、以下のボタンをクリックして
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "自動アップデートを有効にするには、下のボタンをクリックして下さい。"
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "Ushahidi v%1$sは、%3$s上でバージョン%2$dのデータベースとともに運用されています。"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
@@ -176,7 +177,7 @@ msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "かんたんアップグレードを続行するため、あなたのWebサイトが保存されているFTPサーバは以下の情報を必要とします。"
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
@@ -186,47 +187,47 @@ msgstr ""
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "FTPパスワード:"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "FTPユーザ名:"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "あなたは最新版のUshahidiを使用しています。"
 
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "アップグレードする必要はありません。"
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "データベースのバージョン: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "警告: ソフトウェアのバージョンが、version.phpに書かれているものとデータベースのものとで一致しません。"
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "警告: データベースのバージョンが、version.phpのものとデータベースのもので一致しません。"
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "データベース:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
 msgid "Ushahidi %s"
-msgstr ""
+msgstr "Ushahidi %s"
 
 #: upgrade.beta
 msgctxt "upgrade.beta"
@@ -236,64 +237,64 @@ msgstr ""
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "Ushahidiの最新版をダウンロードしています..."
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "ログファイル"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "ダウンロードが完了しました。ファイルを解凍しています..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "ダウンロードに失敗しました。"
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "ファイルの解凍に成功しました。ファイルをコピーしています..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "ファイルの解凍に失敗しました。"
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "ファイルのコピーが完了しました。データーベースをアップグレードしています..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "ファイルのコピーに失敗しました。"
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "データベースのバックアップとアップグレードが完了しました。"
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "データベースのバックアップに失敗しました。"
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "データベースのアップグレードが完了しました。"
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "ダウンロードしたファイルを削除しています..."
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "アップグレードが完了しました。作業の詳細については、<a href=\"%s\" target=\"_blank\">ログファイル</a>を参照して下さい。"

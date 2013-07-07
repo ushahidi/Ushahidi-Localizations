@@ -1,12 +1,13 @@
 # 
 # Translators:
+# k_tanabe <tanatakax@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-06 18:29+0000\n"
+"Last-Translator: k_tanabe <tanatakax@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -100,7 +101,7 @@ msgstr ""
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "バナー画像の容量が250KB未満であることを確認して下さい。"
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
@@ -318,7 +319,7 @@ msgstr "Google Analyticsは有効なUA-XXXXX-XXというフォーマットのウ
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "HTTPSを使用する"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -337,7 +338,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -499,7 +500,7 @@ msgstr ""
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "バナー画像を削除する"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
@@ -712,12 +713,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMSは、無料の、そしてオープンソースのソフトウェアです。FrontlineSMSを使用して、携帯電話で多くの人と文章のメッセージをやり取りすることができます。下にある四角形をクリックすると、FrontlineSMS.comから最新版をダウンロードします。"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "FrontlineSMSをダウンロードし、インストールする"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -802,7 +803,7 @@ msgstr "電話番号フィールド3は番号のみ入力可です。"
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Twitterの設定"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
@@ -834,4 +835,4 @@ msgstr ""
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "設定を試す"
