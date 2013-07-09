@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-07-06 16:23+0000\n"
+"PO-Revision-Date: 2013-07-08 16:38+0000\n"
 "Last-Translator: ppanhh <ppanhh@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -83,49 +83,49 @@ msgctxt "alerts.alert_mobile.numeric"
 msgid ""
 "The Mobile Phone field does not appear to contain a valid phone. Please "
 "input numbers only including Country Code."
-msgstr ""
+msgstr "Phần thông tin về điện thoại di động chứa dữ liệu không hợp lệ. Xin vui lòng nhập vào số liệu kèm theo mã quốc gia."
 
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
 msgid "You must enter either your Mobile Phone Number or your Email Address."
-msgstr ""
+msgstr "Bạn phải điền vào hoặc phần số di động của bạn hoặc địa chỉ email"
 
 #: alerts.alert_mobile.required
 msgctxt "alerts.alert_mobile.required"
 msgid "The Mobile Phone field is required if the checkbox is checked."
-msgstr ""
+msgstr "Khung thông tin điện thoại di động cần được đánh dấu chọn."
 
 #: alerts.alert_radius.in_array
 msgctxt "alerts.alert_radius.in_array"
 msgid "You have not set a valid radius on the map."
-msgstr ""
+msgstr "Bạn vẫn chưa thiết lập bán kính hợp lệ trên bản đồ."
 
 #: alerts.alert_radius.required
 msgctxt "alerts.alert_radius.required"
 msgid "You have not set your radius on the map."
-msgstr ""
+msgstr "Bạn vẫn chưa chọn bán kính trên bản đồ."
 
 #: alerts.alert_recipient.required
 msgctxt "alerts.alert_recipient.required"
 msgid "You have not set a recipient for alerts."
-msgstr ""
+msgstr "Bạn vẫn chưa chỉnh cảnh báo về người gửi."
 
 #: alerts.alerts_subscribed
 msgctxt "alerts.alerts_subscribed"
 msgid "You have subscribed for alerts with the following categories"
-msgstr ""
+msgstr "Bạn đã đăng ký phần cảnh báo cho các phần mục sau"
 
 #: alerts.code_already_verified
 msgctxt "alerts.code_already_verified"
 msgid "This code has been verified before!"
-msgstr ""
+msgstr "Mã đã được xác nhận trước đó!"
 
 #: alerts.code_not_found
 msgctxt "alerts.code_not_found"
 msgid ""
 "This verification code was not found! Please confirm that you have the "
 "correct URL."
-msgstr ""
+msgstr "Không tìm thấy mã xác nhận! Xin vui lòng xác nhận rằng bạn đã điền vào đúng đường dẫn liên kết."
 
 #: alerts.code_verified
 msgctxt "alerts.code_verified"
