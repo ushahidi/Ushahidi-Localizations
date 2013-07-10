@@ -1,62 +1,60 @@
 # 
 # Translators:
-# iR0b1n <lalo1985@gmail.com>, 2013
-# carupek <elcarupanero@gmail.com>, 2013
-# xhiena <xhiena@gmail.com>, 2013
+# NirabPudasaini <nirab@mobera.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-07-09 19:54+0000\n"
-"Last-Translator: carupek <elcarupanero@gmail.com>\n"
-"Language-Team: Spanish (Spain) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_ES/)\n"
+"PO-Revision-Date: 2013-07-10 05:20+0000\n"
+"Last-Translator: NirabPudasaini <nirab@mobera.org>\n"
+"Language-Team: Nepali (Nepal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ne_NP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_ES\n"
+"Language: ne_NP\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: ushahidi-i18n-manager\n"
 
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr "El campo de permitir comentarios no parece que contenga un valor válido,"
+msgstr ""
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr "El campo de permitir comentarios es obligatorio."
+msgstr ""
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr "El campo de incluir feed no parece que contenga un valor válido."
+msgstr ""
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr "El campo de incluir feed es obligatorio."
+msgstr ""
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr "El campo de permitir alertas no contiene un valor válido."
+msgstr ""
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr "El campo de permitir alertas es obligatorio."
+msgstr ""
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr "El campo Reportes Permitidos no contiene un valor correcto."
+msgstr ""
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr "El campo Reportes Permitidos es requerido."
+msgstr ""
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
@@ -299,7 +297,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr "Esta configuración permite a los usuarios entrar mediante Facebook, this <strong>no</strong> crea una aplicación de facebook para su despliegue"
+msgstr ""
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -397,27 +395,27 @@ msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "नक्सा छान्न , नक्सा को सोर्र्त छान्नुहोस्, नक्सा को सोर्र्तको साईट बाट ए.पी.आइ की प्राप्त गर्नुहोस र ए.पी.आइ की हल्नुहॊस"
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "नक्शा सोर्र्त"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "नक्शा समयरेखा"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "नक्शा प्राथमिकता"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr ""
+msgstr "के यो उशाहिदी दीप्लोय्मेंट एक भन्दा बदी राष्ट्र मा फैलिएको छ ?"
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -427,17 +425,17 @@ msgstr ""
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "तपाईं को सहि स्थान रखन् नक्सा लाई थिचेर सर्नुहूस"
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
-msgstr ""
+msgstr "प्रतिबेदन्हारू लाई नक्सा मा समूह मा देखाउनुहोस"
 
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr ""
+msgstr "प्रयोगकर्ताहरु लाई परतिबेदनमा पर्तिक्रिया जनाउन दिनुहोस"
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
@@ -492,12 +490,12 @@ msgstr ""
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr "Color Por Defecto Para Todas las Categorías"
+msgstr ""
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr "Icono Por Defecto Para Todas Las Categorías"
+msgstr ""
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
@@ -507,12 +505,12 @@ msgstr ""
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr "Eliminar Icono Por Defecto"
+msgstr ""
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr "Mostrar Página De Contacto"
+msgstr ""
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
@@ -522,24 +520,24 @@ msgstr ""
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr "Dirección de Correo Electrónico de Alertas"
+msgstr ""
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
 msgid ""
 "<span>In order to receive reports by email, please configure your email "
 "account settings.</span>"
-msgstr "<span>Para recibir reportes por correo electrónico, por favor configure los datos de su cuenta de correo electrónico</span>"
+msgstr ""
 
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr "Dirección de Correo Electrónico del Sitio"
+msgstr ""
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr "Google Analytics"
+msgstr ""
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -578,7 +576,7 @@ msgstr ""
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr "Idioma del Sitio"
+msgstr ""
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
@@ -588,22 +586,22 @@ msgstr ""
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr "Mensaje del Sitio"
+msgstr ""
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr "Nombre del Sitio"
+msgstr ""
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr "Despliegue Privado"
+msgstr ""
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr "Requiere Confirmación por Correo Electrónico del Usuario"
+msgstr ""
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
@@ -613,7 +611,7 @@ msgstr ""
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr "Habilitar Estadísticas (Se almacenarán en el servidor de Ushahidi)"
+msgstr ""
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
@@ -633,7 +631,7 @@ msgstr ""
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
 msgid "Twitter Search Terms"
-msgstr "Términos de Búsqueda de Twitter"
+msgstr ""
 
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
@@ -643,23 +641,23 @@ msgstr ""
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
 msgid "The site email field does not appear to contain a valid email address."
-msgstr "El campo de correo electrónico del sitio no parece contenter una dirección de correo válida."
+msgstr ""
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr "El campo de correo electrónico del sitio debe tener entre 4 y 100 caracteres de longitud."
+msgstr ""
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr "El campo del nombre del sitio debe tener entre 3 y 50 caracteres de longitud."
+msgstr ""
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr "El campo de nombre del sitio es obligatorio"
+msgstr ""
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
@@ -720,7 +718,7 @@ msgstr ""
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr "Descargar e Instalar FrontlineSMS"
+msgstr ""
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -775,32 +773,32 @@ msgstr ""
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
 msgid "The phone 1 field does not appear to contain a valid value."
-msgstr "El campo teléfono 1 no parece tener un valor válido."
+msgstr ""
 
 #: settings.sms_no1.numeric
 msgctxt "settings.sms_no1.numeric"
 msgid "The phone 1 field should contain numbers only."
-msgstr "El campo teléfono 1 debe contener sólo números."
+msgstr ""
 
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
-msgstr "El campo teléfono 2 es demasiado largo"
+msgstr ""
 
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr "El campo teléfono 2 debe contener sólo números."
+msgstr ""
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
-msgstr "El campo teléfono 3 es demasiado largo"
+msgstr ""
 
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr "El campo teléfono 3 debe contener sólo números."
+msgstr ""
 
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
@@ -837,4 +835,4 @@ msgstr ""
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr "Probar configuración"
+msgstr ""

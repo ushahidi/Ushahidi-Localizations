@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-07-08 16:38+0000\n"
+"PO-Revision-Date: 2013-07-09 12:15+0000\n"
 "Last-Translator: ppanhh <ppanhh@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr ""
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr "Phần thông tin email dường như chứa địa chỉ email không hợp lệ?"
+msgstr "Phần khung thông tin email dường như chứa địa chỉ email không hợp lệ?"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
@@ -31,12 +31,12 @@ msgstr "Phần địa chỉ email đã được đăng ký và nhận cảnh bá
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr "Phần thông tin email phải chứa ít nhất 4 và không được nhiều hơn 64 ký tự."
+msgstr "Phần khung thông tin email phải chứa ít nhất 4 và không được nhiều hơn 64 ký tự."
 
 #: alerts.alert_email.required
 msgctxt "alerts.alert_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "Phần thông tin email được yêu cầu nếu phần lựa chọn được chọn."
+msgstr "Phần khung thông tin email được yêu cầu nếu phần lựa chọn được chọn."
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
@@ -69,7 +69,7 @@ msgstr "Bạn vẫn chưa chọn một địa điểm hợp lệ trên bản đ�
 msgctxt "alerts.alert_mobile.length"
 msgid ""
 "The Mobile Phone field does not seem to contain the right amount of digits."
-msgstr "Phần thông tin di động dường như không chứa các chữ số hợp với yêu cầu."
+msgstr "Phần khung thông tin di động dường như không chứa các chữ số hợp với yêu cầu."
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
@@ -83,7 +83,7 @@ msgctxt "alerts.alert_mobile.numeric"
 msgid ""
 "The Mobile Phone field does not appear to contain a valid phone. Please "
 "input numbers only including Country Code."
-msgstr "Phần thông tin về điện thoại di động chứa dữ liệu không hợp lệ. Xin vui lòng nhập vào số liệu kèm theo mã quốc gia."
+msgstr "Phần khung thông tin về điện thoại di động chứa dữ liệu không hợp lệ. Xin vui lòng nhập vào số liệu kèm theo mã quốc gia."
 
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
@@ -132,100 +132,100 @@ msgctxt "alerts.code_verified"
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr ""
+msgstr "Mã của bạn không được xác nhận chính xác. Bạn sẽ nhận được cảnh báo về vấn đề này ngay lập tức."
 
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
 msgid "To confirm your alert request, please go to "
-msgstr ""
+msgstr "Để xác nhận yêu cầu về cảnh báo của bạn, vui lòng truy cập"
 
 #: alerts.create_more_alerts
 msgctxt "alerts.create_more_alerts"
 msgid "Return to the Alerts page to create more alerts"
-msgstr ""
+msgstr "Quay trở về trang cảnh báo để tạo các cảnh báo khác"
 
 #: alerts.email_alert_request_created
 msgctxt "alerts.email_alert_request_created"
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
-msgstr ""
+msgstr "Yêu cầu nhận cảnh báo bằng email của bạn đã được tạo và tin nhắn xác nhận đã được gửi đến"
 
 #: alerts.email_code
 msgctxt "alerts.email_code"
 msgid "Please enter the Email confirmation code you received below: "
-msgstr ""
+msgstr "Xin điền vào mã xác nhận từ email mà bạn nhận được ở phần bên dưới:"
 
 #: alerts.email_error_head
 msgctxt "alerts.email_error_head"
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "Yêu cầu gửi email cảnh báo của bạn VẪN CHƯA được lưu!"
 
 #: alerts.email_ok_head
 msgctxt "alerts.email_ok_head"
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr ""
+msgstr "Yêu cầu nhận email cảnh báo của bạn đã được lưu!"
 
 #: alerts.error
 msgctxt "alerts.error"
 msgid "The system was not able to process your confirmation request!"
-msgstr ""
+msgstr "Hiện hệ thống không thể xử lý yêu cầu xác nhận của bạn!"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr ""
+msgstr "Yêu cầu nhận cảnh báo bằng điện thoại của bạn đã được tạo và tin nhắn xác nhận đã được gửi đến"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
 msgid ""
 "Please enter the SMS confirmation code you received on your mobile phone "
 "below: "
-msgstr ""
+msgstr "Xin điền vào mã xác nhận từ SMS mà bạn nhận được trên điện thoại ở phần bên dưới:"
 
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr ""
+msgstr "Yêu cầu gửi tin nhắn cảnh báo đến điện thoại của bạn VẪN CHƯA được lưu!"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr ""
+msgstr "Yêu cầu nhận tin nhắn cảnh báo trên điện thoại của bạn đã được lưu!"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr ""
+msgstr "Việc triển khai này vẫn chưa được thiết lập chính xác trong việc xử lý các cảnh báo"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
-msgstr ""
+msgstr "Bạn nhận được email này vì bạn đã đăng ký theo dõi việc nhận các cảnh báo. Nếu bạn không muốn nhận các cảnh báo trong thời gian tới hãy truy cập"
 
 #: alerts.unsubscribed
 msgctxt "alerts.unsubscribed"
 msgid "You will no longer receive alerts from "
-msgstr ""
+msgstr "Bạn sẽ không còn nhận các cảnh báo từ"
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
 msgid ""
 "We were not able to unsubscribe you. Please confirm that you have the "
 "correct URL."
-msgstr ""
+msgstr "Hiện chúng tôi không thể gỡ bỏ chế độ đăng ký từ bạn. Xin vui lòng xác nhận là bạn đã truy cập vào liên kết đúng cú pháp."
 
 #: alerts.verification_email_subject
 msgctxt "alerts.verification_email_subject"
 msgid "alerts - verification"
-msgstr ""
+msgstr "cảnh báo - xác nhận"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
-msgstr ""
+msgstr "Bạn sẽ không còn nhận được các cảnh báo về địa điểm này cho tới khi bạn xác nhận yêu cầu của mình."
