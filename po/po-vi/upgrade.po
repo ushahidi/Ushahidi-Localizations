@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-07-10 05:34+0000\n"
+"PO-Revision-Date: 2013-07-10 20:23+0000\n"
 "Last-Translator: ppanhh <ppanhh@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -80,12 +80,12 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidi đã được cập nhật! Trước khi tiếp tục, bạn cần cập nhật phiên bản mới nhất (%s) của cơ sở dữ liệu bạn hiện có."
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "Phiên bản cơ sở dữ liệu của bạn là phiên bản mới nhất."
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
@@ -138,7 +138,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr ""
+msgstr "<dt><strong>Sao lưu</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php and ./applications/config/auth.php files. </dd><dd>- Để đề phòng trục trặc có thể xảy ra, chúng tôi khuyên bạn nên chọn việc sao lưu toàn bộ dự án của mình.</dd><dt><strong>Sao chép các tập tin</strong></dt><dd>- Giải nén các tập tin dạng zip</dd><dd>- Tùy thuộc vào hệ điều hành đang chạy trên nền web server nào, thì hãy sử dụng công cụ/chế độ tương thích kèm theo (ví dụ: Telnet, FTP, SSH) để đăng nhập vào webserver và thay đổi nội dung của tất cả các thư mục với phần nội dung mới nhất vừa tạo.</dd><dt><strong>Nâng cấp cơ sở dữ liệu</strong></dt><dd>- Trước tiên hãy xác định phiên bản cơ sở dữ liệu dựa vào giá trị <strong>db_version</strong> trong phần bảng thiết lập hoặc dựa vào thông tin cập nhật từ Ushahidi hiển thị ở  phía trên cùng của trang này. </dd><dd>- Nếu phiên bản của bạn hiện ở mốc 25, bạn cần nâng cấp theo hướng 25-26, 26-27, 27-28 và cứ tiếp tục như thế đối với các tập tin SQL mới nhất <strong>/sql</strong> trong thư mục.</dd><dd>- Với phần cơ sở dữ liệu phía client, nâng cấp cơ sở dữ liệu bởi việc thi hành lệnh trên tập tin thích hợp upgradex-x.sql.</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -146,155 +146,155 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong>Bước 3:</strong> Quan sát phía bên trong <strong>sql</strong> thư mục. Thiết lập lệnh nâng cấp<xx>-<xx>.sql file bắt đầu từ cơ sở dữ liệu hiện tại của phần mà bạn cài đặt cho đến tập tin nâng cấp sql cuối cùng."
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr ""
+msgstr "<strong>Bước 4:</strong> Click vào phần <strong>\"Tiếp tục\"</strong>để nâng cấp các bảng dữ liệu cần thiết."
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "Để thực hiện chế độ nâng cấp tự động, click vào nút bên dưới."
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "Bạn hiện đang sử dụng phiên bản Ushahidi v%1$s kèm theo cơ sở dữ liệu có phiên bản %2$d được chạy trên nền %3$s"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "Đang nâng cấp"
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "Để tiếp tục phần nâng cấp theo hướng dễ dàng, các thông tin này cần có máy chủ dạng FTP và website mà bạn đặt trên host đó."
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "FTP Hostname: <span>Ví dụ: \"localhost\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "Mật khẩu FTP:"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "Tên người dùng FTP:"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "Bạn hiện đang sử dụng phiên bản mới nhất từ Ushahidi."
 
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "Bạn không cần thiết phải thực hiện thao tác cập nhật."
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "Phiên bản cơ sở dữ liệu: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "Cảnh báo: Phiên bản phần mềm trong version.php và cơ sở dữ liệu không khớp lẫn nhau."
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "Cảnh báo:  phiên bản cơ sở dữ liệu trong version.php và cơ sở dữ liệu không khớp lẫn nhau."
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "Cơ sở dữ liệu:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
 msgid "Ushahidi %s"
-msgstr ""
+msgstr "Ushahidi %s"
 
 #: upgrade.beta
 msgctxt "upgrade.beta"
 msgid "BETA!"
-msgstr ""
+msgstr "THỬ NGHIỆM!"
 
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "Đang tải về phiên bản mới nhất từ Ushahidi..."
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "Tập tin nhật trình"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "Đã tải về thành công. Đang mở các gói dữ liệu..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "Xảy ra lỗi khi đang tải về."
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "Đã mở các gói thành công. Đang sao chép các tập tin..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "Xảy ra lỗi khi mở các gói dữ liệu."
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "Đã sao chép thành công. Đang cập nhật cơ sở dữ liệu..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "Xảy ra lỗi khi sao chép các tập tin"
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "Đã sao lưu và cập nhật cơ sở dữ liệu thành công."
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "Thất bại khi thực hiện thao tác sao lưu cơ sở dữ liệu."
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "Đã cập nhật cơ sở dữ liệu thành công."
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "Đang xóa các tập tin đã được tải về..."
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "CẬP NHẬT THÀNH CÔNG. Xem <a href=\"%s\" target=\"_blank\">Tập tin nhật trình</a>"
