@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Andrea_Pio <ivan.schepens@wynns.be>, 2012
+# Peter van den Heuvel <peter@pvandenheuvel.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-29 23:03+0000\n"
+"Last-Translator: Peter van den Heuvel <peter@pvandenheuvel.nl>\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,14 +22,14 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr "Access denied. Either your credentials are not valid or your request has been refused"
+msgstr "Toegang geweigerd. Ofwel uw gegevens zijn niet geldig of uw aanvraag is afgewezen."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr "Access denied. Your request has been understood, but denied due to access limits like time. Try Back Later"
+msgstr "Toegang geweigerd. Uw aanvraag is ontvangen, maar afgewezen vanwege toegangslimieten zoals tijd. Probeer het later nog eens. "
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -48,37 +49,37 @@ msgstr "Toevoegen aan categorie"
 #: ui_admin.added
 msgctxt "ui_admin.added"
 msgid "added"
-msgstr ""
+msgstr "toegevoegd"
 
 #: ui_admin.added_edited
 msgctxt "ui_admin.added_edited"
 msgid "added/edited"
-msgstr ""
+msgstr "toegevoegd/bewerkt"
 
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Addons"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Ontvang notificaties"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Alarm ontvangen"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
 msgid "All"
-msgstr ""
+msgstr "Alles"
 
 #: ui_admin.am
 msgctxt "ui_admin.am"
@@ -88,7 +89,7 @@ msgstr ""
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
-msgstr ""
+msgstr "Anoniem"
 
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
@@ -103,12 +104,12 @@ msgstr "Overal"
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "API verbannen"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "API Logs"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
@@ -128,22 +129,22 @@ msgstr ""
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
 msgid "approved"
-msgstr ""
+msgstr "toegestaan"
 
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
-msgstr ""
+msgstr "automatisch toestaan"
 
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
-msgstr ""
+msgstr "Handmatig toestaan"
 
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Gearchiveerd"
 
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
@@ -163,7 +164,7 @@ msgstr "Ben je zeker dat je deze foto wil verwijderen?"
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Weet u zeker dat u wilt schakelen tussen de formulieren ?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
@@ -183,17 +184,17 @@ msgstr ""
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr ""
+msgstr "Auteur e-mail"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
 msgid "Back"
-msgstr ""
+msgstr "Terug"
 
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
@@ -203,7 +204,7 @@ msgstr "IP verbannen"
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Tussen de tijden"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
@@ -218,17 +219,17 @@ msgstr ""
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleer"
 
 #: ui_admin.categories
 msgctxt "ui_admin.categories"
 msgid "Categories"
-msgstr ""
+msgstr "Categorieën "
 
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Foutmelding tijdens het vertonen van kaart"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
@@ -243,27 +244,27 @@ msgstr "Please make sure the number is valid"
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
-msgstr ""
+msgstr "Controleer uw SMS instellingen a.u.b!"
 
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Checkin Details"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Checkins"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "Steden geladen"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "code"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
@@ -278,17 +279,17 @@ msgstr "Kleur"
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Commentaar"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
-msgstr ""
+msgstr "Uw alarm bevestigingscode is:"
 
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "De gebruiker is"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -298,17 +299,17 @@ msgstr "Aantal"
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "Land niet gevonden"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
 msgid "created/edited"
-msgstr ""
+msgstr "aangemaakt/bewerkt"
 
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr ""
+msgstr "Maak een verslag"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
@@ -318,7 +319,7 @@ msgstr "Kritische upgrade"
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
@@ -334,12 +335,12 @@ msgstr "Momenteel niet actief"
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "U heeft onvoldoende bevoegdheid om de volgende velden te bewerken."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "Dagelijks"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
@@ -349,62 +350,62 @@ msgstr "Overzicht"
 #: ui_admin.database
 msgctxt "ui_admin.database"
 msgid "database"
-msgstr ""
+msgstr "database"
 
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "Datum & Tijd"
 
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "Datum toegevoegd"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "Datum aangepast"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Dagen van de week"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr ""
+msgstr "DB versie is niet synchroon."
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr ""
+msgstr "verwijderd"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
 msgid "Delete"
-msgstr ""
+msgstr "Verwijder"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete All"
-msgstr ""
+msgstr "Verwijder alles"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "Verwijder badge"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
 msgid "Description"
-msgstr ""
+msgstr "Omschrijving"
 
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
@@ -424,17 +425,17 @@ msgstr ""
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Download verslagen"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr ""
+msgstr "Dropdown keuzes"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
@@ -444,7 +445,7 @@ msgstr "BEWERKT"
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr ""
+msgstr "Bewerkt door"
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
@@ -454,7 +455,7 @@ msgstr "Muteren"
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr ""
+msgstr "Bewerk Logboek"
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
@@ -464,7 +465,7 @@ msgstr "e-mail"
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Hele gemeenschap"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -489,17 +490,17 @@ msgstr "Fout"
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr ""
+msgstr "Error, incident kon niet gepost worden"
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
 msgid "Every Six Hours"
-msgstr ""
+msgstr "Elke zes uur"
 
 #: ui_admin.every_twelve_hours
 msgctxt "ui_admin.every_twelve_hours"
 msgid "Every Twelve Hours"
-msgstr ""
+msgstr "Elke twaalf uur"
 
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
@@ -509,22 +510,22 @@ msgstr "Experimenteel"
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
 msgid "FAQ's"
-msgstr ""
+msgstr "Veel gestelde vragen"
 
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
 msgid "feed"
-msgstr ""
+msgstr "feed"
 
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
 msgid "Feedback"
-msgstr ""
+msgstr "terugkoppeling"
 
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
 msgid "feeds"
-msgstr ""
+msgstr "feeds"
 
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
@@ -534,7 +535,7 @@ msgstr "Keuzelijst"
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr ""
+msgstr "Standaardwaarde"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
@@ -544,12 +545,12 @@ msgstr "Datatype"
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Opmaak"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
@@ -574,12 +575,12 @@ msgstr "Verborgen veld"
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
-msgstr ""
+msgstr "Maximale lengte karakter"
 
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
 msgid "Field Name"
-msgstr ""
+msgstr "Veld naam"
 
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
@@ -604,27 +605,27 @@ msgstr "Ja, standaard open"
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
 msgid "Could not find uploaded file"
-msgstr ""
+msgstr "Kan geüploade bestand niet vinden"
 
 #: ui_admin.file_open_error
 msgctxt "ui_admin.file_open_error"
 msgid "Could not open file for reading"
-msgstr ""
+msgstr "Kan het bestand niet openen om te lezen"
 
 #: ui_admin.form_not_exists
 msgctxt "ui_admin.form_not_exists"
 msgid "That Form Does Not Exist!"
-msgstr ""
+msgstr "Dat formulier bestaat niet!"
 
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr ""
+msgstr "Tekstveld (Vrije tekst)"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
@@ -634,17 +635,17 @@ msgstr "Datumveld"
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr ""
+msgstr "keuzerondjes veld"
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
 msgid "Checkboxes Field"
-msgstr ""
+msgstr "Checkboxes veld"
 
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr ""
+msgstr "dropdown veld"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -659,7 +660,7 @@ msgstr "Van"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr ""
+msgstr "Geonames onderbrekingsfout"
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -684,7 +685,7 @@ msgstr "Acties"
 #: ui_admin.header_add_edit
 msgctxt "ui_admin.header_add_edit"
 msgid "Add/Edit"
-msgstr ""
+msgstr "toevoegen/bewerken"
 
 #: ui_admin.header_email
 msgctxt "ui_admin.header_email"
@@ -709,17 +710,17 @@ msgstr "Gebruiker"
 #: ui_admin.help
 msgctxt "ui_admin.help"
 msgid "help"
-msgstr ""
+msgstr "help"
 
 #: ui_admin.hourly
 msgctxt "ui_admin.hourly"
 msgid "Hourly"
-msgstr ""
+msgstr "ieder uur"
 
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr ""
+msgstr "Incident feed voor"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
@@ -731,12 +732,12 @@ msgstr ""
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
 msgid "Instance"
-msgstr ""
+msgstr "voorbeeld"
 
 #: ui_admin.instances
 msgctxt "ui_admin.instances"
 msgid "Instances"
-msgstr ""
+msgstr "voorbeelden"
 
 #: ui_admin.instance_details
 msgctxt "ui_admin.instance_details"
@@ -746,17 +747,17 @@ msgstr ""
 #: ui_admin.invalid_parameter
 msgctxt "ui_admin.invalid_parameter"
 msgid "Invalid Parameter"
-msgstr ""
+msgstr "Ongeldige parameter"
 
 #: ui_admin.ip_address
 msgctxt "ui_admin.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "IP adres"
 
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
-msgstr ""
+msgstr "Is dit een datum veld?"
 
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
@@ -851,27 +852,27 @@ msgstr ""
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "Markeer als"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "markeer als geen spam"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "gemarkeerd als spam"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "heeft geen overeenkomstige documenten opgeleverd"
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
 msgid "Message"
-msgstr ""
+msgstr "Bericht"
 
 #: ui_admin.messages
 msgctxt "ui_admin.messages"
@@ -891,7 +892,7 @@ msgstr "Tweets"
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "Uw bericht is verzonden!"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
@@ -911,7 +912,7 @@ msgstr "Minuten"
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "Ontbrekende parameter"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
@@ -931,12 +932,12 @@ msgstr "Tijdzone-instelling wijzigen"
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
 msgid "move down"
-msgstr ""
+msgstr "naar beneden"
 
 #: ui_admin.move_up_action
 msgctxt "ui_admin.move_up_action"
 msgid "move up"
-msgstr ""
+msgstr "naar boven"
 
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
@@ -951,7 +952,7 @@ msgstr ""
 #: ui_admin.my_checkins
 msgctxt "ui_admin.my_checkins"
 msgid "My Checkins"
-msgstr ""
+msgstr "Mijn Checkins"
 
 #: ui_admin.my_profile
 msgctxt "ui_admin.my_profile"
@@ -986,7 +987,7 @@ msgstr "Naam"
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
 msgid "Create New Alert"
-msgstr ""
+msgstr "Maak nieuwe alarmering aan"
 
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
@@ -1019,7 +1020,7 @@ msgstr "Notificatie"
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr ""
+msgstr "Deze is niet hoofdletter gevoelig"
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
@@ -1034,12 +1035,12 @@ msgstr "Geen gegevens. Er zijn geen resultaten om weer te geven."
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "Geen fout"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr ""
+msgstr "Geen resultaten om te tonen!"
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
@@ -1069,7 +1070,7 @@ msgstr ""
 #: ui_admin.page_not_found
 msgctxt "ui_admin.page_not_found"
 msgid "Page Not Found"
-msgstr ""
+msgstr "Pagina niet gevonden"
 
 #: ui_admin.page_not_found_message_with_contact
 msgctxt "ui_admin.page_not_found_message_with_contact"
@@ -1099,46 +1100,46 @@ msgstr ""
 #: ui_admin.password
 msgctxt "ui_admin.password"
 msgid "Password"
-msgstr ""
+msgstr "Wachtwoord"
 
 #: ui_admin.password_reset
 msgctxt "ui_admin.password_reset"
 msgid "Password Reset"
-msgstr ""
+msgstr "Wachtwoord opnieuw instellen"
 
 #: ui_admin.password_reset_message_line_1
 msgctxt "ui_admin.password_reset_message_line_1"
 msgid "Dear"
-msgstr ""
+msgstr "Beste"
 
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "Wij hebben een verzoek voor het wijzigen van het wachtwoord ontvangen van"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr ""
+msgstr "Om uw wachtwoord te wijzigen, klik op de link hier beneden (of kopieer en plak deze link in uw browser)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "Zoals u verzocht is uw wachtwoord nu gewijzigd. Uw nieuwe gegevens zijn"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr ""
+msgstr "Ushahidi wachtwoord herstel"
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
 msgid "Phone"
-msgstr ""
+msgstr "Telefoon"
 
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
@@ -1198,7 +1199,7 @@ msgstr ""
 #: ui_admin.read
 msgctxt "ui_admin.read"
 msgid "read"
-msgstr ""
+msgstr "lezen"
 
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
@@ -1208,17 +1209,17 @@ msgstr "Relevantie"
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Verslag titel"
 
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "Verslag datum"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "Verslaggever"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
@@ -1233,7 +1234,7 @@ msgstr "Berichten"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "Reputatie score"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1265,7 +1266,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "Dit e-mailadres bestaat al bij CrowdmapID. De gebruiker dient zijn bestaande Crowdmap wachtwoord te gebruiken om in te loggen. "
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1304,7 +1305,7 @@ msgstr ""
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "Instructies zijn beschikbaar op de wiki:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
@@ -1374,7 +1375,7 @@ msgstr ""
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "Speciale categorie"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1387,7 +1388,7 @@ msgstr ""
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "Specifiek gebied"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
@@ -1417,12 +1418,12 @@ msgstr ""
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "Specifieke dagen"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr ""
+msgstr "Onderwerp"
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
@@ -1432,12 +1433,12 @@ msgstr ""
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
-msgstr ""
+msgstr "Taak voltooid"
 
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
 msgid "Text Field"
-msgstr ""
+msgstr "Tekstveld"
 
 #: ui_admin.theme_name
 msgctxt "ui_admin.theme_name"
