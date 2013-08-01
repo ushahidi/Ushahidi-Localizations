@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Talha Okur <oscarpenn18@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-07-31 08:31+0000\n"
+"Last-Translator: Talha Okur <oscarpenn18@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -337,7 +338,7 @@ msgstr "Bu ayar Ushahidiye güvenli bir şekilde erişilmesini sağlar; bağlant
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -404,7 +405,7 @@ msgstr "Harita sağlayıcı"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Harita zaman tüneli"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -536,7 +537,7 @@ msgstr "Sitenin E-posta Adresi"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -605,7 +606,7 @@ msgstr ""
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Bildirim Mesajını Gönder"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -717,7 +718,7 @@ msgstr ""
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "FrotlineSMS'i indir ve yükle."
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -767,7 +768,7 @@ msgstr "Seçenek 2: Global SMS Gateway Kullan"
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "SMS Kurulum Ayarları"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
@@ -802,14 +803,14 @@ msgstr "Telefon 3 kısmı sadece rakamlardan oluşmalıdır."
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Twitter Kurulum Ayarları"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Aşağıdaki bilgileri almak için yeni bir Twitter uygulaması oluşturmanız gerekir"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
@@ -834,4 +835,4 @@ msgstr ""
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Deneme Ayarları"
