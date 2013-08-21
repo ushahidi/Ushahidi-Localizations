@@ -5,7 +5,7 @@ $lang = array(
 		'single_country' => 'This deployment spans within one country only. Please make sure the report location is within the country %s.',
 	) ,
 	'custom_field' => array(
-		'values' => 'Please enter a valid value for one of your custom form items.',
+		'values' => 'Please enter a valid value for the "%s" field.',
 		'numeric' => 'The "%s" field must be numeric.',
 		'required' => 'The "%s" field is required.',
 		'not_exist' => 'The "%s" field is does not exist.',
