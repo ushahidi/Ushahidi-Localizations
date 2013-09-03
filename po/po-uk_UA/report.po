@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-09 06:15+0000\n"
-"PO-Revision-Date: 2013-06-27 17:43+0000\n"
+"POT-Creation-Date: 2013-08-22 06:26+0000\n"
+"PO-Revision-Date: 2013-08-22 07:43+0000\n"
 "Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
@@ -30,8 +30,8 @@ msgstr "Це розгортання охоплює лише одну країн�
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
-msgid "Please enter a valid value for one of your custom form items."
-msgstr "Введіть значення у форми в правильному форматі"
+msgid "Please enter a valid value for the \"%s\" field."
+msgstr "Будь ласка, введіть вірне значення для поля \"%s\"."
 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
