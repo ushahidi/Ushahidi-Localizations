@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-06-28 15:25+0000\n"
+"POT-Creation-Date: 2013-09-03 06:26+0000\n"
+"PO-Revision-Date: 2013-09-03 07:08+0000\n"
 "Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
@@ -482,6 +482,13 @@ msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
 msgstr "Ви успішно підтвердили свою електронну адресу. Будь ласка, увійдіть нижче."
+
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr "Ви успішно підтвердили свою електронну адресу! Адміністратор повинен схвалити ваш обліковий запис перед вашим входом"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -1375,6 +1382,13 @@ msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "Підтвердження вже надіслано на вашу електронну адресу."
 
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr "Обліковий запис створено. Він має бути схвалений адміністратором, аби ви могли увійти."
+
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
@@ -1422,6 +1436,30 @@ msgstr "Дякуємо вам за реєстрацію о %1$s. Щоб підт
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "Підтвердження реєстрації"
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr "Новий користувач вже зареєструвався о %1$s. Для схвалення вашої реєстрації, будь ласка, перейдіть на наступну URL: %2$s"
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr "Схвалення нового користувача"
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr "Ваш обліковий запис вже схвалено для %1$s. Для входу перейдіть за наступним посиланням: %2$s"
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
+msgstr "Схвалений обліковий запис"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"

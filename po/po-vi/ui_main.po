@@ -1,12 +1,13 @@
 # 
 # Translators:
 # ppanhh <ppanhh@gmail.com>, 2013
+# ppanhh <ppanhh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-07-05 15:48+0000\n"
+"POT-Creation-Date: 2013-09-03 06:26+0000\n"
+"PO-Revision-Date: 2013-09-03 06:30+0000\n"
 "Last-Translator: ppanhh <ppanhh@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
@@ -480,6 +481,13 @@ msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
 msgstr "Bạn đã xác nhận thành công địa chỉ email của bạn! Hãy đăng nhập bên dưới, biên dịch bởi Phan Anh."
+
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr "Bạn đã xác nhận thành công địa chỉ email của bạn! Quản trị viên phải chấp thuận tài khoản của bạn trước khi đăng nhập vào"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -1373,6 +1381,13 @@ msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "Xác nhận đã được gửi đến địa chỉ email của bạn."
 
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr "Đã tạo xong tài khoản. Tài khoản của bạn phải được chấp thuận bởi quản trị viên trước khi bạn có thể đăng nhập vào."
+
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
@@ -1420,6 +1435,30 @@ msgstr "Cảm ơn bạn đã đăng ký tại %1$s. Để có thể xác nhận 
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "Xác nhận đăng ký"
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr "Một người dùng mới đã đăng ký tại %1$s. Để chấp thuận việc đăng ký này vui lòng truy cập vào đường dẫn sau: %2$s"
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr "Chấp thuận yêu cầu đăng ký"
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr "Tài khoản của bạn đã được chấp thuận về %1$s. Để có thể đăng nhập hãy truy cập vào đường dẫn sau: %2$s"
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
+msgstr "Đã chấp thuận tài khoản mới"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
