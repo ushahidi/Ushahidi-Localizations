@@ -313,5 +313,8 @@ $lang = array(
 	'xml' => 'XML',
 	'yes' => 'Yes',
 	'your_search_for' => 'Your search for',
+	'user_no_logins'			=> 'Number of logins',
+	'user_last_login'			=> 'Last login',
+	'user_confirmed_account'	=> 'Confirmed account?'
 );
 ?>
