@@ -1,6 +1,7 @@
 # 
 # Translators:
 # Alexandre Breteau <0xfuture@gmail.com>, 2013
+# ranaud80 <arneir77@gmail.com>, 2013
 # lyly95, 2013
 # CedricMoro <cedric.moro@i-resilience.fr>, 2013
 msgid ""
@@ -8,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-06-26 08:38+0000\n"
-"Last-Translator: lyly95\n"
+"PO-Revision-Date: 2013-09-05 20:13+0000\n"
+"Last-Translator: ranaud80 <arneir77@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -57,7 +58,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "Si vous souhaitez activer les déclencheurs seulement quand une certaine catégorie est utilisée, vous pouvez régler cela ici. Cela permettra à un déclencheur d'être activé si l'une des catégories est utilisée. Pour instace, si vous sélectionnez des catégories 1 et 2 ici et un rapport est présenté à l'aide de catégories 2 et 3, il va passer le test."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -65,7 +66,7 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr ""
+msgstr "Si ces actions se produisent sur ​​certains jours de la semaine, réglez-le ici. Gardez à l'esprit de la journée est déterminée par le fuseau horaire configuré sur votre déploiement. Maintenez la touche shift ou de contrôle pour la sélection de plusieurs jours."
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
@@ -101,7 +102,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "Vous pouvez choisir de laisser ce champ vide si vous ne voulez plus vérifier les mots clés. Si vous ajoutez des mots ici, vous aurez besoin de les séparer par une virgule (,). Par exemple, si vous souhaitez activer un déclencheur lorsque quelqu'un mentionne «amour» ou «paix» dans leur message, vous voudrez ajouter «amour,paix\" dans la zone des mots clés."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -203,7 +204,7 @@ msgstr "Sépare chaque choix avec une virgule, ex. Item 1, Item 2 etc."
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Commencez à taper à la liste des membres."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
@@ -305,7 +306,7 @@ msgstr "Autoriser les utilisateurs de souscrire à des alertes via le web."
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
 msgid "This allows bundling of similar reports into a single dot on the map"
-msgstr ""
+msgstr "Cela permet le regroupement des rapports similaires en un seul point sur la carte"
 
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
@@ -344,12 +345,12 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr ""
+msgstr "La bannière du site apparaît dans la partie supérieure de la page public de votre site web si le thème que vous utilisez le prend en charge. La taille recommandée pour cette bannière dépendra du thème que vous utilisez. Gardez à l'esprit que cela va remplacer le titre du site et le slogan en haut de la page."
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Nombre de blocs colonnes qui seront affichés sur chaque ligne."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -358,7 +359,7 @@ msgid ""
 "response times. We recommend using caching on high traffic sites. **Remember"
 " that reports will be populated on the front end based on the schedule you "
 "set below (Cache Lifetime)."
-msgstr ""
+msgstr "Activer ou désactiver la mise en cache. Les pages s'affichent plus rapidement en réduisant les temps de réponse. Nous vous recommandons d'utiliser la mise en cache sur des sites à fort trafic. ** Rappelez-vous que les rapports seront remplis sur les pages publiques sur ​​la base du calendrier que vous définissez ci-dessous (temps de vie du cache)."
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
@@ -374,17 +375,17 @@ msgid ""
 "make sure your timezone setting is on UTC and your theme supports checkins. "
 "When you enable this, checkin-only themes will become enabled under your "
 "addons/themes settings page."
-msgstr ""
+msgstr "Ce réglage permet des vérifications sur votre déploiement. Il s'agit d'un type de rapport simplifié qui n'est pas modérée avant qu'il ne passe sur la page d'accueil et nécessite que votre site soit configuré d'une certaine manière. Lorsque vous activez cette option, assurez-vous que votre réglage de fuseau horaire est UTC et sur ​​votre thème supporte les vérifications. Lorsque vous activez cette option, seul les thèmes type a vérifier seront activées sous vos addons / page Paramètres des thèmes."
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
 msgid "Set the map to cover a specific location."
-msgstr ""
+msgstr "Configurez la carte pour couvrir un emplacement spécifique."
 
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr ""
+msgstr "Définir une couleur pour toutes les catégories sur ce site."
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
@@ -404,7 +405,7 @@ msgstr "Visibilité de l'onglet Contact."
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"
 msgid "Turn the How to Help Tab on or off on the main site."
-msgstr ""
+msgstr "Activer ou désactiver l'onglet Comment Aider sur le site principal."
 
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
@@ -420,7 +421,7 @@ msgstr "Ceci est le nombre de signalements affichés par page sur l'interface d'
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
 msgid "This is the hub for incoming messages."
-msgstr ""
+msgstr "C'est le lieu pour les messages entrants."
 
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
@@ -435,7 +436,7 @@ msgstr "Numéros de téléphones sur lesquels les messages sont reçus."
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
 msgid "Tracks visitors of your site. Get detailed visitor statistics."
-msgstr ""
+msgstr "Suit les visiteurs de votre site. Obtenez des statistiques détaillées pour les visiteurs."
 
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
@@ -453,7 +454,7 @@ msgstr ""
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
 msgid "This defines which map is to be used on the site."
-msgstr ""
+msgstr "Ceci définit la carte qui doit être utilisée sur le site."
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
