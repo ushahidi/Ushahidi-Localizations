@@ -1,12 +1,14 @@
 # 
 # Translators:
+# bizover, 2013
+# ppanhh <ppanhh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-08-07 12:42+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"PO-Revision-Date: 2013-09-06 15:33+0000\n"
+"Last-Translator: bizover\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,36 +20,36 @@ msgstr ""
 #: feeds.date
 msgctxt "feeds.date"
 msgid "DATE"
-msgstr ""
+msgstr "NGÀY THÁNG"
 
 #: feeds.feed_name.length
 msgctxt "feeds.feed_name.length"
 msgid ""
 "The feed name field must be at least 3 and no more \n"
 "\t\t\t70 characters long."
-msgstr ""
+msgstr "Phần khung thông tin tên feed phải có ít nhất 3 ký tự \n\t\t\ttối đa 70 ký tự về độ dài."
 
 #: feeds.feed_name.required
 msgctxt "feeds.feed_name.required"
 msgid "Please enter the name of the feed."
-msgstr ""
+msgstr "hãy nhập tên của nguồn cung cấp dữ liệu."
 
 #: feeds.feed_url.required
 msgctxt "feeds.feed_url.required"
 msgid "Please enter feed's URL."
-msgstr ""
+msgstr "hãy nhập đường dẫn liên kết của nguồn cung cấp dữ liệu."
 
 #: feeds.feed_url.url
 msgctxt "feeds.feed_url.url"
 msgid "Please enter a valid URL, e.g. http://www.ushahidi.com"
-msgstr ""
+msgstr "Vui lòng điền vào đường dẫn hợp lệ, ví dụ: http://www.ushahidi.com"
 
 #: feeds.source
 msgctxt "feeds.source"
 msgid "SOURCE"
-msgstr ""
+msgstr "NGUỒN"
 
 #: feeds.title
 msgctxt "feeds.title"
 msgid "Title"
-msgstr ""
+msgstr "Tiêu đề"
