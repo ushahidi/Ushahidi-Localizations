@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-09-05 20:13+0000\n"
+"PO-Revision-Date: 2013-09-09 17:18+0000\n"
 "Last-Translator: ranaud80 <arneir77@gmail.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "Le flux peut être tous les flux ou un flux spécifique. Si vous souhaitez un flux spécifiques pour activer un déclencheur, vous voudrez le sélectionner ici. Sinon, laissez su \"tous\""
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -92,7 +92,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "Nom d'utilisateur auteur Twitter(ou plusieurs noms d'utilisateurs séparés par des virgules). Si vous souhaitez que le déclencheur ne se déclenche que pour les messages Twitter d'un utilisateur particulier, entrez son pseudo ici (à l'exclusion de @)"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -113,7 +113,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "Vous pouvez sélectionner n'importe où ou un emplacement spécifique. Si vous sélectionnez un emplacement spécifique, vous serez invité à tracer un cadre autour de la zone qui qualifie une action. Par exemple, si vous voulez que ce déclencheur soit activé lorsque quelqu'un soumet un rapport au Brésil, vous devrez sélectionner \"zone spécifique\" puis dessiner la zone autour du Brésil. Vous pouvez effectuer ces boîtes aussi petite ou aussi grande que vous le souhaitez. Vous pouvez également dessiner plusieurs boîtes."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -121,7 +121,7 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "Ce qualificatif va activer la règle au bout de la N-ième fois, soit pour l'ensemble de la base d'utilisateurs collectif ou pour chaque utilisateur individuel. Laissez ce champ vide pour l'ignorer."
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
@@ -134,7 +134,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "Si tous les qualificatifs ci-dessus sont valides, le déclencheur lancera une réponse. Cela peut aller de l'approbation d'un rapport à l'envoi d'un mail à  un utilisateur. Sélectionnez la réponse ici pour activer des options supplémentaires pour les réponses spécifiques."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -144,14 +144,14 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "Si vous sélectionnez \"Déclencheur personnalisé\", l'e-mail sera envoyé à l'utilisateur qui aura effectué l'action. Si vous sélectionnez le bouton radio à côté de la zone de saisie, vous serez en mesure de saisir une adresse email personnalisée. Ceci est utile si vous mettez en place des déclencheurs pour informer les gens lorsque certaines parties de la carte voient des rapports, vérifictions ou une autre activité."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "Vous pouvez sélectionner plusieurs jours ici. Les dates sont déterminées par le paramètre de fuseau horaire de déploiement. Par défaut pour toutes les dates, ne sélectionnez pas de dates."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -160,7 +160,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "Le déclencheur est la composante de base de la configuration de vos déclencheurs d'action. C'est là que vous déterminez si vous souhaitez que quelque chose se passe lorsque quelqu'un soumet un rapport, effectue un enregistrement, etc Vous serez en mesure de filtrer les réponses à ces actions après en avoir sélectionné une."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -169,7 +169,7 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr ""
+msgstr "L'utilisateur peut être n'importe qui ou un utilisateur spécifique. Si vous souhaitez seulement que des utilisateurs spécifiques pour activer un déclencheur, vous voudrez les sélectionner ici. Autrement vous voudrez bien laisser «n'importe qui» puisque la plupart des éléments déclencheurs sont mis en place pour tous les utilisateurs interagissant avec le système"
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
@@ -181,7 +181,7 @@ msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr ""
+msgstr "Les pages de profil sur ce site utilisent Gravatar. En cliquant sur l'image, vous serez redirigé vers le site Gravatar où vous pouvez changer votre photo de profil."
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
@@ -194,7 +194,7 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "Séparez chaque valeur par une virgule, par exemple valeur1, valeur2. Dans le cas où vous souhaitez définir une valeur par défaut, mettre fin à votre liste d'options avec par exemple :: Si vous voulez faire valeur3 la valeur par défaut, la liste sera valeur1, valeur2, valeur3 :: valeur3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
@@ -222,7 +222,7 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "Vous pouvez sélectionner une couleur qui apparaîtra sous votre photo de profil sur votre profil public. Cette couleur sera également le point de couleur qui apparaît sur ​​la carte pour vos vérifications."
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
@@ -241,7 +241,7 @@ msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "S'il est défini, ce sera votre nouveau mot de passe. Laissez ce champ vide si vous souhaitez garder votre mot de passe actuel."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -249,7 +249,7 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "C'est une exigence lors de la création d'un nouvel utilisateur et sera le mot de passe des utilisateurs. Vous devez inviter votre nouvel utilisateur à changer son mot de passe après s'être connecté pour la première fois."
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
@@ -271,7 +271,7 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "Votre profil peut être consulté par n'importe qui sur Internet si vous cochez cette option. C'est aussi la meilleure façon de montrer les rapports que vous avez soumis, vos vérifications, insignes, etc tous sur une seule page."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
@@ -291,7 +291,7 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr ""
+msgstr "Les niveaux d'accès sont utilisés pour restreindre l'accès aux données de champ de formulaire personnalisés. Des niveaux d'accès plus élevés peuvent accéder aux champs des niveaux inférieurs. Superadmin a le niveau d'accès le plus élevé (100). Les données publiques sont affichées au niveau de l'accès le plus bas (0). Les membres ont un niveau d'accès 10. Admin est le niveau d'accès 90 par défaut."
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
@@ -426,7 +426,7 @@ msgstr "C'est le lieu pour les messages entrants."
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr ""
+msgstr "Cela permet de synchroniser les messages avec la plate-forme Ushahidi."
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
@@ -449,7 +449,7 @@ msgid ""
 "If you set this option to yes, you must approve every individual user who "
 "creates an account on your site by assigning them roles (ie. Member, Admin, "
 "Superadmin)."
-msgstr ""
+msgstr "Si vous définissez cette option à oui, vous devez approuver chaque utilisateur individuel qui crée un compte sur votre site en leur attribuant des rôles (c.-à-Membre, Admin, Superadmin)."
 
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
@@ -460,14 +460,14 @@ msgstr "Ceci définit la carte qui doit être utilisée sur le site."
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "Cela montre une ligne temporelle basé sur la date et l'heure de soumission des rapports"
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
 msgid ""
 "Setting this value to true or yes will make your deployment private so only "
 "users with accounts that you specify will be able to access the deployment."
-msgstr ""
+msgstr "La définition de cette valeur sur vrai ou oui rendra votre déploiement privé de sorte que seuls les utilisateurs disposant de comptes que vous spécifiez seront en mesure d'accéder au déploiement."
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
@@ -476,23 +476,23 @@ msgid ""
 "allowed to log into the deployment if this is set to yes. If you enable this"
 " after your deployment has accepted users, they will be prompted to confirm "
 "their account before they will be allowed to continue using it."
-msgstr ""
+msgstr "Les utilisateurs recevront par courriel avec un lien de confirmation à cliquer avant qu'ils ne soient autorisés à se connecter sur le déploiement si ce paramètre est réglé sur Oui. Si vous activez cette option après que votre déploiement ai été accepté par les utilisateurs, ils seront invités à confirmer leur compte avant qu'ils ne soient autorisés à continuer à l'utiliser."
 
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
 msgid "This is where the emails reside"
-msgstr ""
+msgstr "C'est ici que résident les e-mails"
 
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr ""
+msgstr "C'est le mot de passe pour l'adresse e-mail qui reçoit des rapports."
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
 msgid ""
 "This is required to accept incoming connections from the email address."
-msgstr ""
+msgstr "Cela est nécessaire pour accepter des connexions entrantes à partir de l'adresse e-mail."
 
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
@@ -502,7 +502,7 @@ msgstr "Ceci est requis pour améliorer la sécurisation de la connexion."
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
 msgid "This is required to retrieve e-mails from the host server."
-msgstr ""
+msgstr "Cela est nécessaire pour récupérer les e-mails à partir du serveur hôte."
 
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"
@@ -516,7 +516,7 @@ msgid ""
 "this option, you gain access to hit statistics directly in your admin panel."
 " By disabling it, you will stop collecting statistics and will be unable to "
 "recover traffic stats collected while this is turned off."
-msgstr ""
+msgstr "Les statistiques sont stockés sur un serveur contrôlé par Ushahidi. En activant cette option, vous aurez accès aux statistiques directement dans votre panneau d'administration. En désactivant, vous allez arrêter de collecter des statistiques et ne serez pas en mesure de récupérer les statistiques de trafic collectées pendant que cette option est désactivée."
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
@@ -526,7 +526,7 @@ msgid ""
 "https://creativecommons.org/choose/ if you are interested in specifying what"
 " others are able to do with your work. And remember to be specific about "
 "what elements of the site you are licensing!"
-msgstr ""
+msgstr "Ce que les autres ont le droit de publier de textes, images, vidéo et / ou des thèmes de conception que vous et vos utilisateurs créez? Aller à https://creativecommons.org/choose/ si vous êtes intéressé à préciser ce que les autres sont capables de faire avec votre travail. Et n'oubliez pas d'être précis sur les éléments du site, que vous soumettez à licence!"
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
@@ -541,7 +541,7 @@ msgid ""
 "This is text that will appear above the map on the homepage. This is useful "
 "for giving important information to visitors on the site. To remove the box,"
 " simply delete the message here."
-msgstr ""
+msgstr "Ceci est un texte qui apparaîtra au-dessus de la carte sur la page d'accueil. Ceci est utile pour donner des informations importantes pour les visiteurs sur le site. Pour supprimer la boîte, il suffit de supprimer le message ici."
 
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
@@ -553,7 +553,7 @@ msgctxt "tooltips.settings_site_submit_report_message"
 msgid ""
 "This is a message that will show up on the submit report page. This is good "
 "for disclaimers or further instructions for your visitors who are reporting."
-msgstr ""
+msgstr "C'est un message qui s'affichera sur la page de soumission de  rapport. C'est utile pour les avertissements ou des instructions supplémentaires pour vos visiteurs qui font des rapports."
 
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
@@ -566,7 +566,7 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr ""
+msgstr "C'est le fuseau horaire que votre site va opérer. Cela a un impact sur ​​toutes les actions que vous avez mis en place qui utilisent l'heure et la date, ainsi que l'heure actuelle par défaut pour les rapports sur la partie public et privée du site."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
