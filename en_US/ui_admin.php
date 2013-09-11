@@ -313,5 +313,11 @@ $lang = array(
 	'xml' => 'XML',
 	'yes' => 'Yes',
 	'your_search_for' => 'Your search for',
+	'delete_all'				=> "Delete all reports",
+	'delete_all_instructions'	=> "Clicking the button below will delete ALL reports on the database. You should use this with precaution as this operation cannot be undone.",
+	'delete_all_backup'			=> "We recommend you backup your database before proceeding",
+	'delete_all_button'			=> "I'm sure I want to delete all %s report(s) from the database.",
+	'delete_all_confirm'		=> "Are you sure you want to delete all reports?",
+	'delete_all_no_reports'		=> "There are no reports to be deleted.",
 );
 ?>
