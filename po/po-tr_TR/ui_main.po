@@ -6,9 +6,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-06-28 09:49+0000\n"
-"Last-Translator: Talha Okur <oscarpenn18@gmail.com>\n"
+"POT-Creation-Date: 2013-09-04 06:26+0000\n"
+"PO-Revision-Date: 2013-09-04 06:21+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-localizations/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -482,6 +482,13 @@ msgid ""
 "You have successfully confirmed your email address! Please login below."
 msgstr "E-posta adresiniz doğrulandı! Lütfen giriş yapın."
 
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr ""
+
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
@@ -858,8 +865,8 @@ msgstr ""
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
+"Please give us feedback about your experience by sending an email to "
+"info@ushahidi.com."
 msgstr ""
 
 #: ui_main.feeds
@@ -1374,6 +1381,13 @@ msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr ""
 
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr ""
+
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
@@ -1420,6 +1434,30 @@ msgstr ""
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
+msgstr ""
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr ""
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr ""
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr ""
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
 msgstr ""
 
 #: ui_main.login_signup_text

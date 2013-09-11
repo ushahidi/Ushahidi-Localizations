@@ -1,12 +1,14 @@
 # 
 # Translators:
+# bizover, 2013
+# ppanhh <ppanhh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-08-07 12:42+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"PO-Revision-Date: 2013-09-05 06:59+0000\n"
+"Last-Translator: bizover\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,89 +20,89 @@ msgstr ""
 #: permissions.reports_view
 msgctxt "permissions.reports_view"
 msgid "View Reports"
-msgstr ""
+msgstr "Xem báo cáo"
 
 #: permissions.reports_edit
 msgctxt "permissions.reports_edit"
 msgid "Create/Edit/Delete Reports"
-msgstr ""
+msgstr "Tạo/Chỉnh Sửa/Xóa báo cáo"
 
 #: permissions.reports_approve
 msgctxt "permissions.reports_approve"
 msgid "Approve Reports"
-msgstr ""
+msgstr "chấp thuận báo cáo"
 
 #: permissions.reports_verify
 msgctxt "permissions.reports_verify"
 msgid "Verify Reports"
-msgstr ""
+msgstr "Xác nhận báo cáo"
 
 #: permissions.reports_comments
 msgctxt "permissions.reports_comments"
 msgid "Manage Report Comments"
-msgstr ""
+msgstr "Quản lý các bình luận báo cáo"
 
 #: permissions.reports_download
 msgctxt "permissions.reports_download"
 msgid "Download Reports"
-msgstr ""
+msgstr "Tải về báo cáo"
 
 #: permissions.reports_upload
 msgctxt "permissions.reports_upload"
 msgid "Upload Reports"
-msgstr ""
+msgstr "Tải lên báo cáo"
 
 #: permissions.messages
 msgctxt "permissions.messages"
 msgid "Manage Messages"
-msgstr ""
+msgstr "Quản lý tin nhắn"
 
 #: permissions.messages_reporters
 msgctxt "permissions.messages_reporters"
 msgid "Manage Message Reporters"
-msgstr ""
+msgstr "Quản lý tin nhắn từ người báo cáo"
 
 #: permissions.stats
 msgctxt "permissions.stats"
 msgid "View Stats"
-msgstr ""
+msgstr "Xem trạng thái"
 
 #: permissions.settings
 msgctxt "permissions.settings"
 msgid "Modify Settings"
-msgstr ""
+msgstr "Chỉnh sửa Thiết Lập"
 
 #: permissions.manage
 msgctxt "permissions.manage"
 msgid "Manage Panel"
-msgstr ""
+msgstr "Quản lý Khung Điều Khiển"
 
 #: permissions.users
 msgctxt "permissions.users"
 msgid "Manage Users"
-msgstr ""
+msgstr "Quản lý người dùng"
 
 #: permissions.manage_roles
 msgctxt "permissions.manage_roles"
 msgid "Manage Roles"
-msgstr ""
+msgstr "Quản lý Vai Trò"
 
 #: permissions.checkin
 msgctxt "permissions.checkin"
 msgid "Can checkin"
-msgstr ""
+msgstr "Có thể đi đến"
 
 #: permissions.checkin_admin
 msgctxt "permissions.checkin_admin"
 msgid "Manage checkins"
-msgstr ""
+msgstr "Quản lý điểm đến"
 
 #: permissions.admin_ui
 msgctxt "permissions.admin_ui"
 msgid "Access Admin UI"
-msgstr ""
+msgstr "Truy cập giao diện Quản Trị Viên"
 
 #: permissions.member_ui
 msgctxt "permissions.member_ui"
 msgid "Access Members UI"
-msgstr ""
+msgstr "Truy cập giao diện Thành Viên"

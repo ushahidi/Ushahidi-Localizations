@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-08-30 10:42+0000\n"
+"PO-Revision-Date: 2013-09-05 07:27+0000\n"
 "Last-Translator: jayeshvani <jayeshvani@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
@@ -21,14 +21,14 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "प्रवेश निषेध. या तो आपका परिचय ग़लत है या फिर आपकी रिक्वेस्ट को इस वक़्त नामंज़ूर किया गया है."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr ""
+msgstr "प्रवेश निषेध. आपकी रिक्वेस्ट समझी गयी है परंतु इस वक़्त समय की बाधा होने के कारण इसे रद्द किया गया है. कुछ समय के बाद पुनः प्रयत्न करें."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -359,12 +359,12 @@ msgstr "दिनांक और समय"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "इस तारीख को डाला गया"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "इस तारीख को बदला गया"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -479,7 +479,7 @@ msgstr "IMAP PHP लाईब्रॅरी इनस्टॉल नही ह
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "ग़लत परिचय"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -719,14 +719,14 @@ msgstr "घंटो में"
 #: ui_admin.incident_feed
 msgctxt "ui_admin.incident_feed"
 msgid "Incident feed for"
-msgstr ""
+msgstr "इन्सिडेंट फीड फॉर"
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "इनस्टॉलर फोल्डर अभी भी है. इसे तुरंत डेलीट करे. यह सेक्यूरिटी के लिए से हानिकारक हो सकता है."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -761,12 +761,12 @@ msgstr "क्या यह डेट फील्ड है?"
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
 msgid "Who Can View Answers"
-msgstr ""
+msgstr "कौन जवाब देख सकता है"
 
 #: ui_admin.ispublic_submit
 msgctxt "ui_admin.ispublic_submit"
 msgid "Who Can Submit Answers"
-msgstr ""
+msgstr "कौन जवाब दे सकता है"
 
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
@@ -806,7 +806,7 @@ msgstr "यूज़रनेम :"
 #: ui_admin.layers
 msgctxt "ui_admin.layers"
 msgid "Layers"
-msgstr ""
+msgstr "परतें"
 
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
@@ -841,32 +841,32 @@ msgstr "यूज़र्स दिखाएँ"
 #: ui_admin.manage_users_edit
 msgctxt "ui_admin.manage_users_edit"
 msgid "Add/Edit Users"
-msgstr ""
+msgstr "जोडें/बदलें यूज़र्स"
 
 #: ui_admin.manage_public_listing
 msgctxt "ui_admin.manage_public_listing"
 msgid "Manage Your Public Listing"
-msgstr ""
+msgstr "अपना पब्लिक लिसटिंग मेनेज करें"
 
 #: ui_admin.mark_as
 msgctxt "ui_admin.mark_as"
 msgid "Mark As"
-msgstr ""
+msgstr "अंकित करे"
 
 #: ui_admin.marked_as_not_spam
 msgctxt "ui_admin.marked_as_not_spam"
 msgid "marked as not spam"
-msgstr ""
+msgstr "स्पैम नहीं अंकित किया गया है"
 
 #: ui_admin.marked_as_spam
 msgctxt "ui_admin.marked_as_spam"
 msgid "marked as spam"
-msgstr ""
+msgstr "स्पैम अंकित किया गया है"
 
 #: ui_admin.match_no_documents
 msgctxt "ui_admin.match_no_documents"
 msgid "did not match any documents"
-msgstr ""
+msgstr "किसी भी अन्य डॉक्युमेंट्स से मैच नही हुआ"
 
 #: ui_admin.message
 msgctxt "ui_admin.message"
@@ -911,7 +911,7 @@ msgstr "मिनिट्स"
 #: ui_admin.missing_parameter
 msgctxt "ui_admin.missing_parameter"
 msgid "Missing Parameter"
-msgstr ""
+msgstr "लापता पेरामीटर"
 
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
@@ -921,12 +921,12 @@ msgstr "मॉडारेटर"
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
 msgid "modified"
-msgstr ""
+msgstr "मॉडिफाइड"
 
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "मॉडिफाइ टाइम-ज़ोन सेट्टिंग"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -941,7 +941,7 @@ msgstr "उपर चलें"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr ""
+msgstr "मल्टिपल होस्टेड इन्स्टेन्सस"
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -1009,7 +1009,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "यह एक विशिष्ठ केटेगरी है जो यूज़र्स द्वारा दिए गये रिपोर्ट सबमिशन फॉर्म में देखिई नही देगी. यह केटेगरी उन रिपोर्ट्स के लिए है जिनकी केटेगरीस डेलीट की जा चुकी है (अन-कॅटेगरिज़्ड रिपोर्ट्स)."
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1019,7 +1019,7 @@ msgstr "अधिसूचना"
 #: ui_admin.not_case_sensitive
 msgctxt "ui_admin.not_case_sensitive"
 msgid "This is not case sensitive."
-msgstr ""
+msgstr "यह केस सेन्सिटिव नही है."
 
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
@@ -1034,7 +1034,7 @@ msgstr "यहा कोई परिणाम  नही है "
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "कोई भूल नही है"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
@@ -1044,12 +1044,12 @@ msgstr "यहा कोई परिणाम नही है "
 #: ui_admin.of
 msgctxt "ui_admin.of"
 msgid "of"
-msgstr ""
+msgstr "ऑफ"
 
 #: ui_admin.on_specific_count
 msgctxt "ui_admin.on_specific_count"
 msgid "On Specific Count"
-msgstr ""
+msgstr "ओन स्पेसिफिक काउंट"
 
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
@@ -1084,17 +1084,17 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "क्षमा करें, जो पेज आप देखना चाहते है वो मौज़ूद नही है. <p><strong> क्या आप इस लिंक पर हमारी साइट पर से आए है? </strong><br /> अगर ऐसा है तो हमे यहाँ <a href=\"%s\">संपर्क कीजिए </a> ताकि हम अपनी ग़लती सुधार सके. </p><p><strong>क्या आप किसी दूसरी साइट से इस लिंक पर आए है?</strong><br /> कभी कभी दूसरी साइट्स पर लिंक्स आउटडेटेड हो जाते है या स्पेलिंग मिस्टेक्स हो जाती है. <a href=\"%s\"> हमें बताए </a> ताकि हम इस समस्या को सुलझा सके. </p><p><strong>क्या आपने URL टाइप किया था?</strong><br /> हो सकता हैं आपने (URL) टाइप करने में कोई ग़लती कर दी हो. कृपया करके स्पेलिंग इत्यादि चेक करें. </p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "क्षमा करें, जो पेज आप देखना चाहते है वो मौज़ूद नही है."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
 msgid "Parameters Used"
-msgstr ""
+msgstr "पेरामीटर यूज़्ड "
 
 #: ui_admin.password
 msgctxt "ui_admin.password"
@@ -1114,21 +1114,21 @@ msgstr "डियर"
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr ""
+msgstr "आपके इस पासवर्ड को रिसेट करने का अनुरोध हमे मिला है"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr ""
+msgstr "अपना पासवर्ड बदलने के लिए, कृपया करके नीचे दिए गये लिंक पर क्लिक करे (या उसे कॉपी करके अपने ब्राउज़र में पेस्ट करे)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "आपके के अनुरोध पर आपका पासवर्ड रिसेट किया गया है! आपका नया विवरण इस प्रकार है"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
@@ -1153,7 +1153,7 @@ msgstr "PM"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr ""
+msgstr "डेटा पोस्ट मेथड द्वारा नही भेजा गया है"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1183,17 +1183,17 @@ msgstr "विषय"
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "टू"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
 msgid "Public Listing"
-msgstr ""
+msgstr "पब्लिक लिसटिंग"
 
 #: ui_admin.qualifiers
 msgctxt "ui_admin.qualifiers"
 msgid "Qualifiers"
-msgstr ""
+msgstr "क्वालिफाइयर्स"
 
 #: ui_admin.read
 msgctxt "ui_admin.read"
@@ -1203,7 +1203,7 @@ msgstr "पढ़ा हुआ"
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr ""
+msgstr "रेलवेन्स"
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
@@ -1233,7 +1233,7 @@ msgstr "रिपोर्ट्स"
 #: ui_admin.reputation
 msgctxt "ui_admin.reputation"
 msgid "Reputation Score"
-msgstr ""
+msgstr "रेप्युटेशन स्कोर"
 
 #: ui_admin.required
 msgctxt "ui_admin.required"
@@ -1258,14 +1258,14 @@ msgstr "परिणाम"
 #: ui_admin.revoke
 msgctxt "ui_admin.revoke"
 msgid "Revoke"
-msgstr ""
+msgstr "रिवोक"
 
 #: ui_admin.riverid_exists_admin
 msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "इस ईमेल पर पहले से ही CrowdmapID का अकाउंट है! कृपया लॉगिन करने के लिए अपना Crowdmap पासवर्ड का इस्तेमाल करे !"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1285,31 +1285,31 @@ msgstr "रिपोर्टर्स खोजें"
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
 msgid "searching for"
-msgstr ""
+msgstr "सर्चिंग फॉर"
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "एनक्रिपशन-की कि वॅल्यू अभी तक डिफॉल्ट है. यह असुरक्षित है और इसे तुरंत बदल दें."
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "यह साइट HTTP द्वारा प्रस्तुत की जा रही है. इसे ज़्यादा सुरक्षित करने के लिए इसे HTTPS पर कीजिए."
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "सूचनाएँ सारी विकी पर मौजूद है:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "अपने डाउनलोड किए रिपोर्ट्स का फॉर्मॅट चुने:-"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1324,12 +1324,12 @@ msgstr "कृपया करके एक आइटम चुने"
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
 msgid "You must select a Trigger before you can select a Response."
-msgstr ""
+msgstr "रेस्पॉन्स सेलेक्ट करने पहले आपको ट्रिग्गर सेलेक्ट करना पड़ेगा."
 
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr ""
+msgstr "क्वालिफाइयर्स डिफाइन करने के पहले आपको ट्रिग्गर सेलेक्ट करना पड़ेगा."
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1344,7 +1344,7 @@ msgstr "जिसे भेजना है"
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "यह संदेश आपके वेबसाइट पर से भेज गया था इस वक़्त"
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
@@ -1374,7 +1374,7 @@ msgstr "दिखाया जाना"
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
 msgid "Special Category"
-msgstr ""
+msgstr "स्पेशल श्रेणी"
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
@@ -1382,12 +1382,12 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "यह एक विशिष्ठ केटेगरी है जो यूज़र्स द्वारा दिए गये रिपोर्ट सबमिशन फॉर्म में देखिई नही देगी. यह केटेगरी \"ट्रस्टेड रिपोर्टर्स\" से संबंधित है."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
 msgid "Specific Area"
-msgstr ""
+msgstr "स्पेसिफिक क्षेत्र"
 
 #: ui_admin.state
 msgctxt "ui_admin.state"
@@ -1417,7 +1417,7 @@ msgstr "आँकड़े प्राप्‍त नही हुए !"
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr ""
+msgstr "स्पेसिफिक डेज़"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
@@ -1432,7 +1432,7 @@ msgstr "सूपर एडमिन"
 #: ui_admin.task_performed
 msgctxt "ui_admin.task_performed"
 msgid "Task Performed"
-msgstr ""
+msgstr "टास्क पर्फॉर्म्ड"
 
 #: ui_admin.text_field
 msgctxt "ui_admin.text_field"
@@ -1452,7 +1452,7 @@ msgstr "मेनेज यूज़र्स"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "टाइम-आउट एरर"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1492,17 +1492,17 @@ msgstr "ट्रिगर्स"
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
 msgid "unapproved"
-msgstr ""
+msgstr "अस्वीकृत"
 
 #: ui_admin.unknown
 msgctxt "ui_admin.unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "अज्ञात"
 
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "अज्ञात असफलता"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
@@ -1512,12 +1512,12 @@ msgstr "अपठित"
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
 msgid "You will no longer receive alerts from"
-msgstr ""
+msgstr "आपको इनसे से चेतावनिया प्राप्त नही होगी"
 
 #: ui_admin.update_link
 msgctxt "ui_admin.update_link"
 msgid " Click here to upgrade now"
-msgstr ""
+msgstr "अपग्रेड करने के लिए यहाँ क्लिक करे"
 
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
@@ -1552,12 +1552,12 @@ msgstr "उशहीदी"
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
 msgid "Verified/Unverified"
-msgstr ""
+msgstr "वेरिफाइड/अनवेरिफाइड"
 
 #: ui_admin.verify_unverify
 msgctxt "ui_admin.verify_unverify"
 msgid "Verify/Unverify"
-msgstr ""
+msgstr "वेरिफाइ/अनवेरिफाइ"
 
 #: ui_admin.version
 msgctxt "ui_admin.version"
@@ -1567,7 +1567,7 @@ msgstr "संस्करण"
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
-msgstr ""
+msgstr "अपग्रेड के लिए उप्लब्द है."
 
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
@@ -1612,4 +1612,4 @@ msgstr "हा"
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
-msgstr ""
+msgstr "आपकी सर्च"

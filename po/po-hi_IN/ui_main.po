@@ -11,9 +11,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-07-01 06:37+0000\n"
-"Last-Translator: pratik kumar <kpratik217@gmail.com>\n"
+"POT-Creation-Date: 2013-09-04 06:26+0000\n"
+"PO-Revision-Date: 2013-09-05 05:58+0000\n"
+"Last-Translator: jayeshvani <jayeshvani@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -487,6 +487,13 @@ msgid ""
 "You have successfully confirmed your email address! Please login below."
 msgstr "आपने सफलतापूर्वक अपने ईमेल पते की पुष्टि की है!कृपया नीचे लॉगिन करें|"
 
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr "आपने सफलतापूर्वक अपने ईमेल पते की पुष्टि की है! एड्मिनिस्ट्रेटर द्वारा आपके अकाउंट को स्वीकृति मिलने के बाद ही आप लॉगिन कर सकते है!"
+
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
@@ -863,9 +870,9 @@ msgstr " प्रतिक्रिया प्रदान करें"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
-msgstr "कृपया नीचे दिए गए बटन पर क्लिक करके अपने अनुभव के बारे में हमें प्रतिक्रिया दें|"
+"Please give us feedback about your experience by sending an email to "
+"info@ushahidi.com."
+msgstr "अपने अनुभवों की जानकारी आप हमे इस ईमेल पर भेज सकते है: info@ushahidi.com."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -1379,6 +1386,13 @@ msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "आपके ईमेल पते पर एक पुष्टिकरण भेजा गया है।"
 
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr "आपका अकाउंट बन गया है! एड्मिनिस्ट्रेटर द्वारा आपके अकाउंट को स्वीकृति मिलने के बाद ही आप लॉगिन कर सकते है!"
+
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
@@ -1426,6 +1440,30 @@ msgstr "%1$s पर रजिस्ट्रेशन के लिए धन्
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "रजिस्ट्रेशन का पुष्टिकरण"
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr "%1$s पर एक नये यूज़र ने रेजिस्टर किया है! उसके रेजिस्ट्रेशन को स्वीकृति देने के लिए इस URL पर जाए : %2$s"
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr "नये यूज़र की स्वीकृति"
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr "आपके यूज़र अकाउंट को इस %1$s की मंज़ूरी दी गयी है! लॉगिन करने के लिए इस URL पर जाए: %2$s"
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
+msgstr "यूज़र अकाउंट स्वीकृत"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"

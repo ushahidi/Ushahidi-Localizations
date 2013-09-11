@@ -1,12 +1,14 @@
 # 
 # Translators:
+# bizover, 2013
+# ppanhh <ppanhh@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-08-07 12:42+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"PO-Revision-Date: 2013-09-05 16:17+0000\n"
+"Last-Translator: bizover\n"
 "Language-Team: Vietnamese (Viet Nam) (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi_VN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,54 +20,54 @@ msgstr ""
 #: reporters.latitude.between
 msgctxt "reporters.latitude.between"
 msgid "The latitude field does not appear to contain a valid latitude."
-msgstr ""
+msgstr "Phần khung thông tin về vĩ độ không chứa định dạng vĩ độ hợp lệ."
 
 #: reporters.latitude.required
 msgctxt "reporters.latitude.required"
 msgid ""
 "The latitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr ""
+msgstr "Phần khung thông tin về vĩ độ không được để trống. Xin vui lòng click vào bản đồ để chọn địa điểm."
 
 #: reporters.level_id.numeric
 msgctxt "reporters.level_id.numeric"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr ""
+msgstr "Phần khung thông tin về Người Báo Cáo không chứa định dạng tập tin hợp lệ."
 
 #: reporters.level_id.required
 msgctxt "reporters.level_id.required"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr ""
+msgstr "lĩnh vực về Cấp Độ Người Báo Cáo không chứa định dạng tập tin hợp lệ."
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
 msgid ""
 "The location name field must be at least 3 and no more 200 characters long."
-msgstr ""
+msgstr "lĩnh vực tên địa điểm phải có ít nhất 3 ký tự và không hơn 200 ký tự về độ dài."
 
 #: reporters.location_name.required
 msgctxt "reporters.location_name.required"
 msgid "The location name field is required."
-msgstr ""
+msgstr "lĩnh vực tên địa điểm được yêu cầu."
 
 #: reporters.longitude.between
 msgctxt "reporters.longitude.between"
 msgid "The longitude field does not appear to contain a valid longitude."
-msgstr ""
+msgstr "lĩnh vực kinh độ không chứa định dạng kinh độ hợp lệ."
 
 #: reporters.longitude.required
 msgctxt "reporters.longitude.required"
 msgid ""
 "The longitude field is required. Please click on the map to pinpoint a "
 "location."
-msgstr ""
+msgstr "lĩnh vực kinh độ được yêu cầu. Xin vui lòng click vào bản đồ để chọn địa điểm."
 
 #: reporters.reporter_id.numeric
 msgctxt "reporters.reporter_id.numeric"
 msgid "Invalid Reporter"
-msgstr ""
+msgstr "Người Báo Cáo không hợp lệ"
 
 #: reporters.reporter_id.required
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
-msgstr ""
+msgstr "Người Báo Cáo không hợp lệ"

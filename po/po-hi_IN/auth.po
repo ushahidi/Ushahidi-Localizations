@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-08-30 10:48+0000\n"
+"PO-Revision-Date: 2013-09-05 07:56+0000\n"
 "Last-Translator: jayeshvani <jayeshvani@gmail.com>\n"
 "Language-Team: Hindi (India) (http://www.transifex.com/projects/p/ushahidi-localizations/language/hi_IN/)\n"
 "MIME-Version: 1.0\n"
@@ -117,7 +117,7 @@ msgstr "कूटशब्द क्षेत्र में सिर्फ �
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "आपको लॉगिन कराते वक़्त भूल हुई है."
 
 #: auth.password.length
 msgctxt "auth.password.length"
@@ -142,7 +142,7 @@ msgstr "यह कूट शब्द क्षेत्र ज़रूरी �
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
-msgstr ""
+msgstr "औथएंटिकेशन सर्वर बंद है! कृपया करके वापस प्रयतन् कीजिए !"
 
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
@@ -159,7 +159,7 @@ msgstr "कूटशब्द क्षेत्र में सिर्फ �
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr ""
+msgstr "पासवर्ड कन्फर्मेशन क्षेत्र और पासवर्ड क्षेत्र मेच होने चाईए."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
@@ -179,76 +179,76 @@ msgstr "ईमेल क्षेत्र ज़रूरी है|"
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
 msgid "Only a superadmin may modify a superadmin or upgrade a user to admin."
-msgstr ""
+msgstr "केवल सूपर-एडमिन ही सूपर-आडमिन को मॉडिफाइ कर सकता है या यूज़र को एडमिन में अपग्रेड कर सकता है."
 
 #: auth.roles.alpha_numeric
 msgctxt "auth.roles.alpha_numeric"
 msgid "Invalid role format."
-msgstr ""
+msgstr "ग़लत रोल फॉर्मॅट"
 
 #: auth.roles.length
 msgctxt "auth.roles.length"
 msgid "The role field must be at least 5 and no more than 30 characters long."
-msgstr ""
+msgstr "रोल क्षेत्र कम से कम 5 और अधिकतम 30 अक्षर का होना चाहिए "
 
 #: auth.roles.required
 msgctxt "auth.roles.required"
 msgid "You must define at least one role."
-msgstr ""
+msgstr "कम से कम एक रोल डिफाइन कीजिए."
 
 #: auth.roles.values
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
-msgstr ""
+msgstr "कृपया करके एडमिन रोल या यूज़र रोल में से किसी एक को चुने."
 
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr ""
+msgstr "फॉरगोटन पासवर्ड का टोकन ग़लत है"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr ""
+msgstr "फॉरगोटन पासवर्ड का टोकन ज़रूरी है "
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
-msgstr ""
+msgstr "Admin भूमिका नहीं बदली जा सकती "
 
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
 msgid "The public profile URL field must only contain numbers and letters."
-msgstr ""
+msgstr "पब्लिक प्रोफाइल URL क्षेत्र में केवल अंक या अक्षर हो सकते हैं "
 
 #: auth.username.exists
 msgctxt "auth.username.exists"
 msgid "Sorry, this public profile URL is already in use."
-msgstr ""
+msgstr "क्षमा करे, यह पब्लिक प्रोफाइल URL पहले से इस्तेमाल में है."
 
 #: auth.username.length
 msgctxt "auth.username.length"
 msgid ""
 "The public profile URL field must be at least 2 and no more 100 characters "
 "long."
-msgstr ""
+msgstr "पब्लिक प्रोफाइल URL क्षेत्र कम से कम 2 और अधिकतम 100 अक्षर का होना चाहिए|"
 
 #: auth.username.login error
 msgctxt "auth.username.login error"
 msgid "Please check that you entered the correct public profile URL."
-msgstr ""
+msgstr "कृपया जाँच ले की आपने सही पब्लिक प्रोफाइल URL प्रवेशित किया है."
 
 #: auth.username.required
 msgctxt "auth.username.required"
 msgid "The public profile URL field is required."
-msgstr ""
+msgstr "पब्लिक प्रोफाइल URL क्षेत्र ज़रूरी हैं."
 
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"
 msgid "The super admin role cannot be modified."
-msgstr ""
+msgstr "Super Admin भूमिका बदली नहीं जा सकती "
 
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr ""
+msgstr "संभावित CSRF अटेक है. क्या आप सही माईने में यूज़र क्रियेट/एडिट करना चाहते थे?"
