@@ -319,5 +319,8 @@ $lang = array(
 	'delete_all_button'			=> "I'm sure I want to delete all %s report(s) from the database.",
 	'delete_all_confirm'		=> "Are you sure you want to delete all reports?",
 	'delete_all_no_reports'		=> "There are no reports to be deleted.",
+	'user_no_logins'			=> 'Number of logins',
+	'user_last_login'			=> 'Last login',
+	'user_confirmed_account'	=> 'Confirmed account?'
 );
 ?>
