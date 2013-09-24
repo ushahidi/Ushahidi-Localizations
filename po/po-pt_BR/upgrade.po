@@ -2,13 +2,14 @@
 # Translators:
 # allviana <allnoronha@gmail.com>, 2012
 # solstag <solstag@member.fsf.org>, 2013
+# solstag <solstag@member.fsf.org>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-09-23 19:16+0000\n"
+"Last-Translator: solstag <solstag@member.fsf.org>\n"
 "Language-Team: Portuguese (Brazil) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -69,7 +70,7 @@ msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr "Fazer backup do banco de dados antes da atualização? (<strong style=\"color:#FF0000;\">Highly recommended</strong>)"
+msgstr "Fazer backup do banco de dados antes da atualização?(<strong style=\"color:#FF0000;\">Fortemente recomendado</strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
@@ -86,7 +87,7 @@ msgstr "Ushahidi foi atualizado! Antes de continuar, você precisa atualizar o s
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr "Sua versão de banco de dados é atualizado."
+msgstr "Sua versão do banco de dados está atualizada."
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
@@ -101,7 +102,7 @@ msgstr "Atualização Manual"
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr "Status da atualização da Ushahidi"
+msgstr "Status da atualização do Ushahidi"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
@@ -113,12 +114,12 @@ msgstr "As instruções abaixo detalham como atualizar essa versão do Ushahidi 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr "1º passo: Baixe a versão mais recente do ushahidi a partir de <a href=\"http://download.ushahidi.com/\">http://download.ushahidi.com</a>"
+msgstr "<dl><dt><strong>Download</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr "2º passo: A depender do sistema operacional do servidor usado, escolha a ferramenta/mode (ex: telnet, ftp, ssh) para fazer login ao servidor e substituir o conteúdo de todos os arquivos com os mais novos. Todos EXCETO:"
+msgstr "<dd>- Faça o download da versão mais recente do Ushahidi de"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -139,7 +140,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr "3º passo: Use seu cliente de Mysql preferido (ex. phpMyAdmin), e execute o <code>upgrade.sql</code>. O script deverá atualizar e alterar as respectivas tabelas."
+msgstr "<dt><strong>Backup</strong></dt><dd>- os arquivos .htaccess, ./applications/config/config.php, ./applications/config/database.php e ./applications/config/auth.php. </dd><dd>- Para caso algo dê errado, é recomendado que você faça um backup completo da sua instalação do Ushahidi.</dd><dt><strong>Copie arquivos</strong></dt><dd>- Extraia o arquivo zip baixado</dd><dd>- Dependendo do sistema operacional rodando no servidor web, use seu modo/ferramenta preferido (e.g. Telnet, FTP, SSH) para fazer login no servidor web e trocar o conteúdo de todas as pastas pelos mais novos da versão recente.</dd><dt><strong>Atualize o banco de dados</strong></dt><dd>- Primeiro determine a versão do schema do seu banco de dados olhando o valor <strong>db_version</strong> na tabela settings ou olhe as informações de atualização do Ushahidi no topo desta página. </dd><dd>- Se você está na versão 25, você precisa atualizar da 25-26, 26-27, 27-28 e assim por diante até o mais recente arquivo SQL no diretório <strong>/sql</strong>.</dd><dd>- Com seu cliente de banco de dados, atualize o banco de dados executando o arquivo upgradex-x.sql apropriado.</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -147,14 +148,14 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr "<strong> Etapa 3: </ strong> Olhe dentro da pasta<strong>sql</ strong>. Execute manualmente o upgrade do arquivo<xx>-<xx>.sql a partir da versão db atual de sua instalação até o final da atualização do sql."
+msgstr "<strong> Etapa 3: </ strong> Olhe dentro da pasta<strong>sql</ strong>. Execute manualmente o arquivo upgrade<xx>-<xx>.sql a partir da versão db atual de sua instalação até o último arquivo de atualização sql."
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr "Para fazer a atualização automática, clique no botão abaixo"
+msgstr "<strong>Etapa 4:</strong> Clique no botão <strong>\"Continuar\"</strong> para atualizar as tabelas necessárias."
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
@@ -183,7 +184,7 @@ msgstr "Para continuar com a atualização simplificada, a seguinte informação
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr "FTP Hostname: <span>Example: \"localhost\"</span>"
+msgstr "FTP Hostname: <span>Exemplo: \"localhost\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
@@ -208,17 +209,17 @@ msgstr "Você não precisa atualizar."
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr "Database version: %d"
+msgstr "Versão do banco de dados: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr "Aviso: Versão de software em version.php e banco de dados não coincidem."
+msgstr "Atenção: Versão de software em version.php e banco de dados não coincidem."
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr "Aviso: Versão de banco de dados em version.php e banco de dados  não coincidem."
+msgstr "Atenção: Versão de banco de dados em version.php e banco de dados  não coincidem."
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
@@ -243,7 +244,7 @@ msgstr "Baixando a última versão do Ushahid..."
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr "Log File"
+msgstr "Arquivo Log"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
@@ -258,7 +259,7 @@ msgstr "Falha no download."
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr "Descomprimido com sucesso. Copiando de arquivos ..."
+msgstr "Descomprimido com sucesso. Copiando arquivos ..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
@@ -283,7 +284,7 @@ msgstr "Backup de banco de dados e atualização bem sucedidas."
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr "Falha backup de banco de dados."
+msgstr "Falha no backup do banco de dados."
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
@@ -298,4 +299,4 @@ msgstr "Apagando arquivos baixados ..."
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr "UPGRADE BEM SUCEDIDO. Veja <a href=\"%s\" target=\"_blank\">Log File</a>"
+msgstr "UPGRADE BEM SUCEDIDO. Veja o <a href=\"%s\" target=\"_blank\">Arquivo Log</a>"
