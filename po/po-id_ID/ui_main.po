@@ -1,13 +1,14 @@
 # 
 # Translators:
 # lbell <goingdriftless@hotmail.com>, 2012
+# suwandiahmad <ahmad.suwandi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-04 06:26+0000\n"
-"PO-Revision-Date: 2013-09-04 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-10-17 03:44+0000\n"
+"Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,7 @@ msgstr "Akses"
 #: ui_main.access_limits
 msgctxt "ui_main.access_limits"
 msgid "Access Limits"
-msgstr "Limit Akses"
+msgstr "Batas Akses"
 
 #: ui_main.account_name
 msgctxt "ui_main.account_name"
@@ -44,7 +45,7 @@ msgstr "Tindakan"
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
 msgid "This action cannot be undone. Are you sure you want to continue?"
-msgstr "Tindakan ini tidak akan bisa dibatalkan, yakin mau diteruskan ?"
+msgstr "Tindakan ini tidak akan bisa dibatalkan, Anda yakin mau meneruskan?"
 
 #: ui_main.activate
 msgctxt "ui_main.activate"
@@ -69,12 +70,12 @@ msgstr "Ditambahkan oleh"
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
 msgid "Additional Data"
-msgstr ""
+msgstr "Data Tambahan"
 
 #: ui_main.additional_reports
 msgctxt "ui_main.additional_reports"
 msgid "Additional Reports"
-msgstr "Laporan tambahan"
+msgstr "Laporan Tambahan"
 
 #: ui_main.add_edit
 msgctxt "ui_main.add_edit"
@@ -84,27 +85,27 @@ msgstr "Tambah/Sunting"
 #: ui_main.add_field
 msgctxt "ui_main.add_field"
 msgid "Add a Field"
-msgstr "Tambahkan sebuah isian"
+msgstr "Tambahkan Kolom"
 
 #: ui_main.add_language
 msgctxt "ui_main.add_language"
 msgid "Add Language"
-msgstr "Tambahkan bahasa"
+msgstr "Tambahkan Bahasa"
 
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr "Tambahkan yang baru"
+msgstr "Tambahan Baru"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr "Tambahkan kategori baru"
+msgstr "Tambahkan Kategori Baru"
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
 msgid "Add Translation"
-msgstr "Tambahkan terjemahan"
+msgstr "Tambahkan Terjemahan"
 
 #: ui_main.admin
 msgctxt "ui_main.admin"
@@ -114,22 +115,22 @@ msgstr "Administrasi"
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "Mendapatkan pemberitahuan"
+msgstr "Dapatkan Pemberitahuan"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
 msgid "Alert me if a report is filed in, or around:"
-msgstr "Beritahukan bila ada laporan yang masuk, atau tentang :"
+msgstr "Beritahukan saya bila ada laporan yang masuk tentang:"
 
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "Rekam pemberitahuan saya"
+msgstr "Rekam Pemberitahuan Saya"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
 msgid "Email address:"
-msgstr "Alamat surel :"
+msgstr "Alamat Surel:"
 
 #: ui_main.alerts_enter_email
 msgctxt "ui_main.alerts_enter_email"
@@ -139,36 +140,36 @@ msgstr "masukkan alamat surel "
 #: ui_main.alerts_enter_mobile
 msgctxt "ui_main.alerts_enter_mobile"
 msgid "enter mobile number with country code"
-msgstr "masukkan nomor telpon genggam beserta kode negaranya"
+msgstr "masukkan nomor ponsel beserta kode negaranya"
 
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "Dapatkan pemberitahuan"
+msgstr "Dapatkan Pemberitahuan"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Peringatan telah"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
 msgid "Mobile phone:"
-msgstr "Telpon genggam :"
+msgstr "Nomor Ponsel:"
 
 #: ui_main.alerts_place_spot
 msgctxt "ui_main.alerts_place_spot"
 msgid ""
 "Or place a spot on the map below, and we will alert you when a report is "
 "submitted within 20 kilometers."
-msgstr "Atau, tandai pada peta dibawah ini, dan kami akan beritahukan bila ada laporan yang masuk dalam radius 20 Kilometer darinya."
+msgstr "Atau tandai pada peta di bawah ini, dan kami akan beritahukan bila ada laporan yang masuk dalam radius 20 KM dari tanda yang Anda masukkan."
 
 #: ui_main.alerts_place_spot2
 msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr "Jika tidak menemukan lokasi anda, klik pada peta untuk menentukan lokasi yang benar."
+msgstr "Jika Anda tidak dapat menemukan lokasi yang diinginkan, klik pada peta untuk menentukan lokasi yang benar."
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -183,7 +184,7 @@ msgstr "Pilih kota"
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
 msgid "<strong>Step 1:</strong> Select your city or location:"
-msgstr "<strong>Langkah 1:</strong> Pilih kota atau lokasi anda:"
+msgstr "<strong>Langkah 1:</strong> Pilih kota atau lokasi Anda:"
 
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
@@ -193,12 +194,12 @@ msgstr "<strong>Langkah 2:</strong> Kirim pemberitahuan ke:"
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr "<strong>langkah 3 (Optional):</strong> Pilih Kategori"
+msgstr "<strong>Langkah 3 (Optional):</strong> Pilih Kategori"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Setujui Permintaan Pemberitahuan Anda Sebelumnya"
+msgstr "Konfirmasi Permintaan Pemberitahuan Anda Sebelumnya"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
@@ -208,7 +209,7 @@ msgstr "Pemberitahuan Anda Telah Disimpan!"
 #: ui_main.all
 msgctxt "ui_main.all"
 msgid "All"
-msgstr "Semuanya"
+msgstr "Semua"
 
 #: ui_main.allowed
 msgctxt "ui_main.allowed"
@@ -218,12 +219,12 @@ msgstr "Diijinkan"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Tags HTML: \"%s\" diperkenankan."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "Iframe dari %s saja yang diperkenankan."
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -243,7 +244,7 @@ msgstr "dan"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -263,7 +264,7 @@ msgstr "Laporan yang Disetujui"
 #: ui_main.approve_this_report
 msgctxt "ui_main.approve_this_report"
 msgid "Approve this Report"
-msgstr "Menyetujui Laporan Ini"
+msgstr "Setujui Laporan Ini"
 
 #: ui_main.approximate
 msgctxt "ui_main.approximate"
@@ -283,7 +284,7 @@ msgstr "Diarsipkan"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "Urutan dari awal"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -303,7 +304,7 @@ msgstr "Daftarkan Otomatis"
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr "Rerata Laporan per-Hari"
+msgstr "Rerata Laporan Perhari"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -333,7 +334,7 @@ msgstr "Gambar Lambang"
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr "Atau anda dapat mengunggah gambar lambang disini"
+msgstr "Atau Anda dapat mengunggah gambar lambang di sini."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
@@ -348,7 +349,7 @@ msgstr "Pilih Lambang"
 #: ui_main.blog
 msgctxt "ui_main.blog"
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
@@ -378,7 +379,7 @@ msgstr "Filter Kategori"
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr "kategori telah "
+msgstr "Kategori telah "
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
@@ -413,17 +414,17 @@ msgstr "Pilih poin data yang akan diunduh"
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr "Atau pilih jeda tanggal anda"
+msgstr "Atau pilih jeda tanggal yang Anda inginkan"
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
 msgid "Choose field type"
-msgstr ""
+msgstr "Pilih jenis kolom"
 
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr "Clean URLs"
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
@@ -443,7 +444,7 @@ msgstr "Tutup"
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr ""
+msgstr "bagian"
 
 #: ui_main.color
 msgctxt "ui_main.color"
@@ -479,20 +480,20 @@ msgstr "Sesuaikan"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr "Surel anda telah dikonfirmasi, silahkan masuk."
+msgstr "Surel Anda telah dikonfirmasi, silahkan masuk."
 
 #: ui_main.confirm_email_successful_and_approval
 msgctxt "ui_main.confirm_email_successful_and_approval"
 msgid ""
 "You have successfully confirmed your email address! An administrator must "
 "approve your account before you login"
-msgstr ""
+msgstr "Anda berhasil mengkonfirmasi alamat surel. Seorang admministrator harus disetujui oleh akun Anda sebelum memulai login."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "Surel konfirmasi gagal terkirim. Anda bisa meminta surel baru untuk konfirmasi di bawah ini."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -517,7 +518,7 @@ msgstr "Pesan"
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr "Pesan anda telah dikirim!"
+msgstr "Pesan Anda telah dikirim!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
@@ -527,7 +528,7 @@ msgstr "Nama Anda"
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr "Nomor Telefon Anda"
+msgstr "Nomor Ponsel Anda"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
@@ -542,7 +543,7 @@ msgstr "Judul Pesan"
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
 msgid "Copyright ©"
-msgstr ""
+msgstr "Hak Cipta ©"
 
 #: ui_main.create
 msgctxt "ui_main.create"
@@ -552,17 +553,17 @@ msgstr "Buat"
 #: ui_main.create_edit
 msgctxt "ui_main.create_edit"
 msgid "Create/Edit"
-msgstr "Buat/Ubah"
+msgstr "Buat/Sunting"
 
 #: ui_main.create_new
 msgctxt "ui_main.create_new"
 msgid "Create New"
-msgstr "Buat baru"
+msgstr "Buat Baru"
 
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr "Buat password baru"
+msgstr "Buat Password Baru"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -577,17 +578,17 @@ msgstr "Kepercayaan"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr "Password saat ini"
+msgstr "Password Saat Ini"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
 msgid "Custom Fields"
-msgstr ""
+msgstr "Kolom yang Disesuaikan"
 
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr ""
+msgstr "Informasi"
 
 #: ui_main.date
 msgctxt "ui_main.date"
@@ -637,17 +638,17 @@ msgstr "terhapus"
 #: ui_main.delete_disabled
 msgctxt "ui_main.delete_disabled"
 msgid "Delete Disabled"
-msgstr ""
+msgstr "Penghapusan Tidak Diperkenankan"
 
 #: ui_main.delete_last
 msgctxt "ui_main.delete_last"
 msgid "Delete Last"
-msgstr ""
+msgstr "Hapus yang Terakhir"
 
 #: ui_main.delete_report
 msgctxt "ui_main.delete_report"
 msgid "Delete this Report"
-msgstr "Mnghapus Laporan Ini "
+msgstr "Menghapus Laporan Ini "
 
 #: ui_main.delete_selected
 msgctxt "ui_main.delete_selected"
@@ -662,7 +663,7 @@ msgstr "Hapus Spam"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_main.description
 msgctxt "ui_main.description"
@@ -672,12 +673,12 @@ msgstr "Deskripsi"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "Urutan dari akhir"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr ""
+msgstr "Contoh: Depan Pasar Besar, Jl. Raya Pasar Besar 5 Nomor 4, Jakarta Utara"
 
 #: ui_main.details
 msgctxt "ui_main.details"
@@ -687,17 +688,17 @@ msgstr "Detil"
 #: ui_main.direct_report
 msgctxt "ui_main.direct_report"
 msgid "Direct Report"
-msgstr ""
+msgstr "Laporan Langsung"
 
 #: ui_main.disabled
 msgctxt "ui_main.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Tidak Diperkenankan"
 
 #: ui_main.disapprove
 msgctxt "ui_main.disapprove"
 msgid "Unapprove"
-msgstr ""
+msgstr "Tidak Disetujui"
 
 #: ui_main.download_reports
 msgctxt "ui_main.download_reports"
@@ -707,7 +708,7 @@ msgstr "Unduh Laporan"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "Unduh"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -732,12 +733,12 @@ msgstr "Surel"
 #: ui_main.email_address
 msgctxt "ui_main.email_address"
 msgid "Email Address"
-msgstr "Alamat surel"
+msgstr "Alamat Surel"
 
 #: ui_main.email_configuration
 msgctxt "ui_main.email_configuration"
 msgid "Mail Server Settings"
-msgstr "Pengaturan server surel"
+msgstr "Pengaturan Server Surel"
 
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
@@ -757,59 +758,59 @@ msgstr "Port Mail Server"
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "Mail Server SSL support"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "Jenis Mail Server"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "Nama Pengguna Mail Server"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "jadi semua pengaturan Anda akan dikaitkan dengan surel ini"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "Untuk permintaan penerimaan laporan melalui surel, masukkan pengaturan surel Anda di bawah ini. Perlu diketahui, surel akan Anda terima"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "Beberapa server membutuhkan alamat surel yang lengkap"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "Password akun surel"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Port yang lazim digunakan: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "Contoh: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "Contoh: pop3, imap"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "Perbolehkan atau tidak perbolehkan koneksi SSL"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
@@ -839,64 +840,64 @@ msgstr "Indonesia"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "Aplikasi dari Luar"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "Tautan Video dari Luar"
 
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr ""
+msgstr "Umpan"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "Menyediakan Masukan"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by sending an email to "
 "info@ushahidi.com."
-msgstr ""
+msgstr "Mohon kiranya Anda berkenan memberikan masukan kepada kami berdasarkan pengalaman dengan mengirimkan surel ke info@ushahidi.com."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
 msgid "Feeds"
-msgstr ""
+msgstr "Umpan"
 
 #: ui_main.feed_has_been
 msgctxt "ui_main.feed_has_been"
 msgid "The feed has been"
-msgstr ""
+msgstr "Umpan ini sudah"
 
 #: ui_main.feed_items
 msgctxt "ui_main.feed_items"
 msgid "Feed Items"
-msgstr ""
+msgstr "Bagian-bagian di Umpan"
 
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr ""
+msgstr "Nama Umpan"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr ""
+msgstr "Alamat Umpan"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr ""
+msgstr "Kolom yang tidak digunakan"
 
 #: ui_main.file
 msgctxt "ui_main.file"
@@ -906,12 +907,12 @@ msgstr "Berkas"
 #: ui_main.file_over_max_allowed
 msgctxt "ui_main.file_over_max_allowed"
 msgid "Your file is over the maximum allowed filesize."
-msgstr ""
+msgstr "Ukuran berkas Anda melebihi batas yang diijinkan."
 
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "Saringan"
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
@@ -921,7 +922,7 @@ msgstr "Menyaring Laporan"
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr "Menyaring Laporan Oleh"
+msgstr "Menyaring Laporan oleh"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
@@ -946,7 +947,7 @@ msgstr "Nama depan"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Jadwal Force Run"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -1011,12 +1012,12 @@ msgstr "Komentar"
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "Label"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "Lebar Stroke"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -1066,17 +1067,17 @@ msgstr "Cara Melapor"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "Identitas"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Sudah digunakan untuk mengidentifikasi Anda pada situs ini oleh pengguna lain."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1111,7 +1112,7 @@ msgstr "Peristiwa"
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
 msgid "Incidents Nearby"
-msgstr ""
+msgstr "Kejadian Terdekat"
 
 #: ui_main.incident_location
 msgctxt "ui_main.incident_location"
@@ -1126,99 +1127,99 @@ msgstr "Termasuk"
 #: ui_main.include_categories
 msgctxt "ui_main.include_categories"
 msgid "Include Categories"
-msgstr "Kategori didalamnya"
+msgstr "Kategori di dalamnya"
 
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Kolom yang Disesuaikan di dalamnya"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
 msgid "Include Description"
-msgstr "Harap Sertakan Deskripsi"
+msgstr "Sertakan Deskripsi"
 
 #: ui_main.include_detail
 msgctxt "ui_main.include_detail"
 msgid "Include as much detail as possible"
-msgstr "Harapan sertakan rincian lengkap"
+msgstr "Sertakan rincian selengkap mungkin"
 
 #: ui_main.include_latitude
 msgctxt "ui_main.include_latitude"
 msgid "Include Latitude"
-msgstr "Termasuk Latitude"
+msgstr "Termasuk Lintang"
 
 #: ui_main.include_location_information
 msgctxt "ui_main.include_location_information"
 msgid "Include Location Information"
-msgstr "Harap sertakan informasi lokasi"
+msgstr "Sertakan Informasi Lokasi"
 
 #: ui_main.include_longitude
 msgctxt "ui_main.include_longitude"
 msgid "Include Longitude"
-msgstr "Sertakan bujur"
+msgstr "Sertakan Bujur"
 
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "Termasuk Informasi Pribadi"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "Incoming Media"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
 msgid "Information Evaluation"
-msgstr ""
+msgstr "Evaluasi pada Informasi"
 
 #: ui_main.input_location
 msgctxt "ui_main.input_location"
 msgid "Enter your precise location"
-msgstr ""
+msgstr "Masukkan lokasi yang tepat."
 
 #: ui_main.insufficient_role
 msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Akun Anda tidak memiliki ijin untuk masuk ke fitur ini. Kontak Administrator."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
 msgid "In response to"
-msgstr ""
+msgstr "Sebagai tanggapan atas"
 
 #: ui_main.ip_address
 msgctxt "ui_main.ip_address"
 msgid "IP Address"
-msgstr ""
+msgstr "Alamat IP"
 
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "Apakah ini profil Anda?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "bagian"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "bagian-bagian"
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "item_details"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "Judul Bagian"
 
 #: ui_main.key
 msgctxt "ui_main.key"
@@ -1228,27 +1229,27 @@ msgstr "Kunci"
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "Kata kunci"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "Berkas KMZ/KML"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "Unggah Berkas KMZ/KML"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "Alamat tautan KML"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1278,22 +1279,22 @@ msgstr "Tahun lalu"
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "Lintang"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "Layers"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "Layers Lainnya"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "Layer ini Sudah"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
@@ -1303,32 +1304,32 @@ msgstr "Nama Layer"
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "Tautan Layer"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "Tinggalkan Pesan"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Kurang Informasi"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "Tingkat"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "Tingkat ini sudah"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "Nama Tingkat"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
@@ -1343,12 +1344,12 @@ msgstr "Tautan"
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Daftar"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Mengakses Laporan"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1373,30 +1374,30 @@ msgstr "Masuk"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Akun sudah selesai dibuat. Anda bisa log in sekarang."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "Sebuah konfirmasi telah terkirim ke surel Anda."
 
 #: ui_main.login_approval_required
 msgctxt "ui_main.login_approval_required"
 msgid ""
 "Account created. Your account must be approved by an admin before you can "
 "login."
-msgstr ""
+msgstr "Akun sudah dibuat. Akun Anda harus disetujui oleh admin sebelum bisa digunakan."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "Alamat surel tidak ada. Gunakan alamat lain atau buatlah baru terlebih dulu."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Klik penyedia akun Anda"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
@@ -1411,7 +1412,7 @@ msgstr "Surel dan Password"
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
@@ -1421,98 +1422,98 @@ msgstr "Mendaftar"
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr "Buat akun baru"
+msgstr "Buat Akun Baru"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Terima kasih telah mendaftarkan diri di %1$s. Untuk menkonfirmasikan alamat surel, silahkan ikuti tautan: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Konfirmasi Pendaftaran"
 
 #: ui_main.login_signup_admin_approval_message
 msgctxt "ui_main.login_signup_admin_approval_message"
 msgid ""
 "An new user has signed up at %1$s. To approve their registration please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Seorang pengguna baru telah mendaftar pada %1$s. Untuk menyetujui pendaftaran ini silahkan ke tautan: %2$s"
 
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
 msgid "New User Approval"
-msgstr ""
+msgstr "Persetujuan Pengguna Baru"
 
 #: ui_main.login_signup_approval_message
 msgctxt "ui_main.login_signup_approval_message"
 msgid ""
 "Your user account has been approved for %1$s. To login go to the following "
 "URL: %2$s"
-msgstr ""
+msgstr "Akun baru Anda telah disetujui untuk %1$s. Untuk login silahkan ke tautan: %2$s"
 
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
 msgid "User account approved"
-msgstr ""
+msgstr "Akun pengguna telah disetujui"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Buat akun baru untuk memperoleh banyak keuntungan dari fitur-fitur di situs ini."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "Bujur"
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "peta"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr ""
+msgstr "Tandai Sudah Dibaca"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "Tandai Belum Dibaca"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Ukuran paling besar"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr ""
+msgstr "Penyaring Media"
 
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Anggota"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "Pengaturan Akun Anda"
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr ""
+msgstr "Pesan"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
@@ -1522,32 +1523,32 @@ msgstr "Pesan"
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr ""
+msgstr "Detil Pesan"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Pesan dari sumber:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Perangkat Bergerak"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr ""
+msgstr "Modifikasi"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr ""
+msgstr "Modifikasi Tanggal"
 
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr "Bulan"
+msgstr "bulan"
 
 #: ui_main.more
 msgctxt "ui_main.more"
@@ -1557,19 +1558,19 @@ msgstr "Lebih"
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr "Informasi lain"
+msgstr "Informasi Lainnya"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "Apakah Ushahidi ini digunakan untuk wilayah dari beberapa negara yang berbeda?"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Anda harus mengkonfirmasi alamat surel untuk mengakses pengembangan ini. Jika Anda kehilangan surel yang berisi konfirmasi, Anda bisa meminta lagi di bawah ini."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1579,7 +1580,7 @@ msgstr "Nama"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr "Laporan terdekat"
+msgstr "Laporan Terdekat"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1594,12 +1595,12 @@ msgstr "Berita"
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "Umpan Berita"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr ""
+msgstr "Sumber Berita"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
@@ -1609,12 +1610,12 @@ msgstr "Kategori Baru"
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "Password Baru"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr ""
+msgstr "Laporan Baru"
 
 #: ui_main.next
 msgctxt "ui_main.next"
@@ -1629,12 +1630,12 @@ msgstr "Tidak"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Tidak ada chekin untuk ditampilkan."
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Tidak ada data"
 
 #: ui_main.none
 msgctxt "ui_main.none"
@@ -1644,12 +1645,12 @@ msgstr "Tanpa"
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr ""
+msgstr "Catatan"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr "Tidak disetujui"
+msgstr "Tidak Disetujui"
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
@@ -1659,7 +1660,7 @@ msgstr "Tidak Disetujui"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr "---tidak terpilih---"
+msgstr "---Tidak Dipilih---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1669,7 +1670,7 @@ msgstr "bukan spam"
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "Tidak Ditentukan"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
@@ -1689,12 +1690,12 @@ msgstr "Mati"
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr ""
+msgstr "&amp; Berita Resmi "
 
 #: ui_main.on
 msgctxt "ui_main.on"
 msgid "On"
-msgstr "Hidup"
+msgstr "Menyala"
 
 #: ui_main.option
 msgctxt "ui_main.option"
@@ -1704,7 +1705,7 @@ msgstr "Pilihan"
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr ""
+msgstr "Opsional"
 
 #: ui_main.options
 msgctxt "ui_main.options"
@@ -1724,7 +1725,7 @@ msgstr "Organisasi"
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr "Deskripsi Organisasi"
+msgstr "Gambaran Organisasi"
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
@@ -1734,7 +1735,7 @@ msgstr "Surel Organisasi"
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr ""
+msgstr "Organisasi Sudah"
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
@@ -1744,17 +1745,17 @@ msgstr "Nama Organisasi"
 #: ui_main.organization_phone_1
 msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
-msgstr "Telefon Organisasi 1"
+msgstr "Nomor Telepon Organisasi 1"
 
 #: ui_main.organization_phone_2
 msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
-msgstr "Telefon Organisasi 2"
+msgstr "Nomor Telepon Organisasi 2"
 
 #: ui_main.organization_website
 msgctxt "ui_main.organization_website"
 msgid "Organization Website"
-msgstr "Website Organisasi"
+msgstr "Situs Organisasi"
 
 #: ui_main.original
 msgctxt "ui_main.original"
@@ -1774,7 +1775,7 @@ msgstr "Judul Asli"
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr ""
+msgstr "Pengembangan Lainnya"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
@@ -1809,7 +1810,7 @@ msgstr "Halaman Telah"
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr ""
+msgstr "Nama Tab Halaman"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
@@ -1819,12 +1820,12 @@ msgstr "Judul Halaman"
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr "Kategori Utama"
+msgstr "Kategori Induk"
 
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
@@ -1844,22 +1845,22 @@ msgstr "Lupa password?"
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr "Periksa Surel Untuk Konfirmasi Password Baru Anda."
+msgstr "Periksa konfirmasi password baru di surel Anda."
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
 msgid "Stay logged in on this computer?"
-msgstr ""
+msgstr "Anda ingin tetap login di komputer ini?"
 
 #: ui_main.past_month
 msgctxt "ui_main.past_month"
 msgid "Past Month"
-msgstr ""
+msgstr "Bulan Lalu"
 
 #: ui_main.past_year
 msgctxt "ui_main.past_year"
 msgid "Past Year"
-msgstr ""
+msgstr "Tahun Lalu"
 
 #: ui_main.pending
 msgctxt "ui_main.pending"
@@ -1869,17 +1870,17 @@ msgstr "Tertunda"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "per"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
 msgid "Personal Information <span>Optional.</span>"
-msgstr ""
+msgstr "Informasi Pribadi <span>Opsional.</span>"
 
 #: ui_main.phone
 msgctxt "ui_main.phone"
 msgid "Phone"
-msgstr "Telefon"
+msgstr "Telepon"
 
 #: ui_main.photos
 msgctxt "ui_main.photos"
@@ -1902,7 +1903,7 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr "* Cari lokasi anda berdasarkan nama lokasi atau koordinat (format: 38.19,-85.61), atau klik lokasi yang dimaksud pada peta yang tersedia"
+msgstr "* Cari lokasi Anda berdasarkan nama lokasi atau koordinat (format: 38.19,-85.61), atau klik lokasi yang dimaksud pada peta yang tersedia."
 
 #: ui_main.play
 msgctxt "ui_main.play"
@@ -1912,27 +1913,27 @@ msgstr "Mainkan"
 #: ui_main.please_note
 msgctxt "ui_main.please_note"
 msgid "Please Note"
-msgstr ""
+msgstr "Harap Dicatat"
 
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr ""
+msgstr "Plugins"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Plugin Situs "
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "Profil untuk Umum"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "Tautan Profil untuk Umum"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1942,7 +1943,7 @@ msgstr "Pratinjau"
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr "Pratinjau Item"
+msgstr "Pratinjau Bagian"
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
@@ -1957,7 +1958,7 @@ msgstr "Sebelumnya"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "Pribadi"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
@@ -1967,12 +1968,12 @@ msgstr "Warna Profil"
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
 msgid "Your Profile Has Been Saved"
-msgstr "Profil anda telah disimpan"
+msgstr "Profil Anda Sudah Disimpan"
 
 #: ui_main.quick_stats
 msgctxt "ui_main.quick_stats"
 msgid "Quick Stats"
-msgstr ""
+msgstr "Status Versi Cepat"
 
 #: ui_main.rating
 msgctxt "ui_main.rating"
@@ -1997,17 +1998,17 @@ msgstr "diterima dari"
 #: ui_main.receive_notifications
 msgctxt "ui_main.receive_notifications"
 msgid "Receive Notifications"
-msgstr "Notifikasi Penerimaan"
+msgstr "Menerima Notifikasi"
 
 #: ui_main.recent_reports
 msgctxt "ui_main.recent_reports"
 msgid "Recent Reports"
-msgstr "Laporan Baru"
+msgstr "Laporan Terbaru"
 
 #: ui_main.refresh_news_feeds
 msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
-msgstr "Perbarui umpan berita"
+msgstr "Perbarui Umpan Berita"
 
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
@@ -2032,7 +2033,7 @@ msgstr "Laporan"
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr "Laporan <span>(Dari Peta, diurutkan berdasar tanggal kejadian)</span>"
+msgstr "Laporan <span>(dari peta, diurutkan berdasar tanggal kejadian)</span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
@@ -2077,17 +2078,17 @@ msgstr "Nama Belakang Pelapor"
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr ""
+msgstr "Tingkat Pelapor"
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "Tingkatan Pelapor"
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
-msgstr ""
+msgstr "Nomor Telepon Pelapor"
 
 #: ui_main.reports
 msgctxt "ui_main.reports"
@@ -2097,7 +2098,7 @@ msgstr "Laporan-laporan"
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr ""
+msgstr "Jelajahi"
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
@@ -2107,94 +2108,94 @@ msgstr "Kirim"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "Laporan dari Pelapor Ini"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
 msgid "Categories"
-msgstr ""
+msgstr "Kategori"
 
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "Laporan %d "
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
 msgid "Date"
-msgstr ""
+msgstr "Tanggal"
 
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
 msgid "Description"
-msgstr ""
+msgstr "Gambaran"
 
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr ""
+msgstr "Laporan bisa diunduh dalam format CSV"
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr ""
+msgstr "Surel"
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr ""
+msgstr "Fitur"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
-msgstr ""
+msgstr "Temukan lokasi terdekat dengan Anda"
 
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
 msgid "First Name"
-msgstr ""
+msgstr "Nama Pertama"
 
 #: ui_main.reports_last
 msgctxt "ui_main.reports_last"
 msgid "Last Name"
-msgstr ""
+msgstr "Nama Keluarga"
 
 #: ui_main.reports_location_name
 msgctxt "ui_main.reports_location_name"
 msgid "Location Name"
-msgstr "Refine Location Name"
+msgstr "Nama Lokasi"
 
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr ""
+msgstr "Tautan Sumber Berita"
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
 msgid "Optional Information"
-msgstr ""
+msgstr "Informasi Tambahan"
 
 #: ui_main.reports_photos
 msgctxt "ui_main.reports_photos"
 msgid "Upload Photos"
-msgstr ""
+msgstr "Unggah Foto"
 
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr ""
+msgstr "Kembali ke halaman pelaporan"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
-msgstr ""
+msgstr "Pilih Kota"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr ""
+msgstr "Laporan Anda sudah dikirimkan ke staf kami untuk diperiksa, Kami akan segera memgabari Anda."
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
@@ -2204,124 +2205,124 @@ msgstr "Kirim Laporan Baru"
 #: ui_main.reports_time
 msgctxt "ui_main.reports_time"
 msgid "Time"
-msgstr ""
+msgstr "Waktu"
 
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr ""
+msgstr "Linimasa Laporan"
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Judul Laporan"
 
 #: ui_main.reports_video
 msgctxt "ui_main.reports_video"
 msgid "Video link"
-msgstr ""
+msgstr "Tautan Video"
 
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr ""
+msgstr "Laporkan Kejadian"
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
 msgid "Report Details"
-msgstr ""
+msgstr "Detil Laporan"
 
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr ""
+msgstr "Dengan mengirimkan sebuah pesan ke"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr ""
+msgstr "Dengan mengirimkan sebuah surel"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr ""
+msgstr "Dengan mengirimkan tweet dengan tagar/hashtag"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr ""
+msgstr "Dengan mengisi formulir di situs kami"
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "Dengan menggunakan aplikasi"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
-msgstr ""
+msgstr "Laporan Anda Telah Disimpan"
 
 #: ui_main.report_title
 msgctxt "ui_main.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "Judul Laporan"
 
 #: ui_main.request_information
 msgctxt "ui_main.request_information"
 msgid "Request more information"
-msgstr ""
+msgstr "Permintaan informasi lebih lanjut"
 
 #: ui_main.request_location
 msgctxt "ui_main.request_location"
 msgid "Request location"
-msgstr ""
+msgstr "Permintaan lokasi"
 
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "Diminta"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
 msgid "Requirements"
-msgstr ""
+msgstr "Syarat"
 
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "Kirim Ulang Surel Konfirmasi"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Reset"
 
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "Reset semua penyaringan"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr ""
+msgstr "Reset Password"
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr ""
+msgstr "Mendapatkan daftar nama kota dari negara yang dipilih"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Akun dikelola oleh layanan %s."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Anda telah memiliki sebuah akun yang dikelola CrowdMapID! Cobalah menggunakan surel dan password Anda di CrowdMapID untuk login."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2331,7 +2332,7 @@ msgstr "Aturan"
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2341,7 +2342,7 @@ msgstr "Simpan"
 #: ui_main.saved
 msgctxt "ui_main.saved"
 msgid "Saved"
-msgstr "Telah Disimpan"
+msgstr "Tersimpan"
 
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
@@ -2381,7 +2382,7 @@ msgstr "Jam"
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr "Log Penjadwal"
+msgstr "Penjadwal Pencatatan"
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
@@ -2391,7 +2392,7 @@ msgstr "Menit"
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr ""
+msgstr "Hari dalam Seminggu"
 
 #: ui_main.search
 msgctxt "ui_main.search"
@@ -2416,7 +2417,7 @@ msgstr "Pilih Semua"
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr ""
+msgstr "Pilih Jenis Kolom"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
@@ -2436,7 +2437,7 @@ msgstr "Pilih beberapa"
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "Pastikan Anda telah memilih satu bagian"
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
@@ -2451,12 +2452,12 @@ msgstr "Kirim"
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Kirim Konfirmasi"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr "Dikirim ke"
+msgstr "Kirim ke"
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
@@ -2471,27 +2472,27 @@ msgstr "Dikirim oleh"
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr ""
+msgstr "Alamat server"
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
 msgid "Server type"
-msgstr ""
+msgstr "Jenis server"
 
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr ""
+msgstr "Layanan"
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr ""
+msgstr "Layanan Nama Pengguna"
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr ""
+msgstr "Layanan User ID"
 
 #: ui_main.share
 msgctxt "ui_main.share"
@@ -2501,12 +2502,12 @@ msgstr "Bagi"
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr ""
+msgstr "Berbagi Data"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "Pembagian telah"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
@@ -2516,7 +2517,7 @@ msgstr "Berbagi"
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "Peta Lebih Pendek"
 
 #: ui_main.show
 msgctxt "ui_main.show"
@@ -2536,12 +2537,12 @@ msgstr "Tampilkan Pesan"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "Menampilkan Laporan Dari <span class=\"time-period\">%1$s to %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
 msgid "Website"
-msgstr ""
+msgstr "Situs"
 
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
@@ -2556,12 +2557,12 @@ msgstr "URL Situs"
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "Peta Lebih Kecil"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
@@ -2576,27 +2577,27 @@ msgstr "Sumber"
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
-msgstr "nama Sumber"
+msgstr "Nama Sumber"
 
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "Disortir"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "Disortir oleh"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr "URL Sumber"
+msgstr "Tautan Sumber"
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
@@ -2621,7 +2622,7 @@ msgstr "Kirim Laporan"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "Dikirimkan oleh <strong>%1$s</strong> melalui <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2636,7 +2637,7 @@ msgstr "Kirim SMS ke"
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr ""
+msgstr "di telepon Anda"
 
 #: ui_main.success
 msgctxt "ui_main.success"
@@ -2646,7 +2647,7 @@ msgstr "Berhasil!"
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr ""
+msgstr "Berhasil diimpor"
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
@@ -2666,12 +2667,12 @@ msgstr "Sistim"
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "Peta Lebih Tinggi"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "Port TCP"
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
@@ -2746,12 +2747,12 @@ msgstr "Hari ini di"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr ""
+msgstr "Semua Laporan"
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
@@ -2761,17 +2762,17 @@ msgstr "Diterjemahkan"
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr ""
+msgstr "Gambaran yang sudah diterjemahkan"
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
 msgid "Translated Title"
-msgstr ""
+msgstr "Judul Terjemahan"
 
 #: ui_main.translate_to
 msgctxt "ui_main.translate_to"
 msgid "Translate to"
-msgstr ""
+msgstr "Diterjemahkan dalam"
 
 #: ui_main.translation
 msgctxt "ui_main.translation"
@@ -2781,12 +2782,12 @@ msgstr "Terjemahan"
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr ""
+msgstr "Penerjemahan sudah disimpan"
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "Dipercaya"
 
 #: ui_main.type
 msgctxt "ui_main.type"
@@ -2796,7 +2797,7 @@ msgstr "Tipe"
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
@@ -2806,7 +2807,7 @@ msgstr "Gagal mengirim surel."
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "Laporan Belum Terkategori"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
@@ -2821,7 +2822,7 @@ msgstr "Belum Terbukti"
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "Update umpan"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
@@ -2831,17 +2832,17 @@ msgstr "Unggah"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Simak panduan unggah laporan kami:-"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Panduan unggah XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Panduan unggah CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2859,58 +2860,58 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Kolom yang disesuaikan harus memiliki form_id yang ditambahkan. Misalnya untuk kolom Test, pada formulir standar, id 1 akan menajdi Test-1. Sepanjang kolom yang disesuaikan untuk diimpor, pastikan bahwa"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr "With the form below, you can import incidents into the Ushahidi engine"
+msgstr "Dengan formulir di bawah ini, Anda bisa mengimpor kejadian ke dalam sistem Ushahidi."
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Laporan harus diunggah dalam bentuk CSV atau XML."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "Jika ID sebuah kejadian sudah ada dalam database, maka masukan dari berkas CSV/XML akan diabaikan."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr "It must contain at least Incident Title and Incident Date"
+msgstr "Setidaknya berisi Judul Kejadian dan Tanggal Kejadian"
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr "If no latitude and longitude columns are supplied the location will be geocoded using the Google Geocoder"
+msgstr "Jika tidak ada koordinat yang disediakan, maka lokasi akan ditentukan berdasarka Google Geocoder."
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Jika mengimpor informasi tambahan seperti informasi pribadi dan/atau kolom yang sudah disesuaikan"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Setidaknya satu dari informasi pribadi (nama, nama lengkap, surel) yang dimasukkan HARUS tersedia. Isian yang kosong tidak bisa diimpor."
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Isian Anda untuk kolom dropdwon, tombol dan tanda centang sesuai dengan pilihan yang disediakan untuk kolom yang sudah disesuaikan sebagai contoh"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2918,19 +2919,19 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Pilihan pada tanda centang dipisahkan dengan koma, misalnya tersedia pilihan Apel, Mangga dan Anggur, maka entri untuk ini akan berbentuk \"Apel,Mangga,Anggur\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Kolom tanggal harus dalam bentuk bb/dd/tttt, misalnya 3 Oktober 2013 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "Contoh Laporan Berbentuk CSV"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2940,7 +2941,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,JUDULKEJADIAN,TANGGAL KEAJDIAN,LOKASI,DESKRIPSI,KATEGORI,DISETUJUI,DIPERIKSA,LINTANG<BUJUR<br/>\"1\",\"Perkiraan korban tewas di Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Tiga kasus sudah dikonfirmasi\",\"Tewas, Warga Sipil, \",Ya,Ya,\"-1.287\",\"36.821\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2948,7 +2949,7 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Penjarahan di mana-mana\",\"Kerusuhan, Kematian, Kehilangan Harta, \",Ya,Tidak,\"5.55\",\"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
@@ -2963,7 +2964,7 @@ msgstr "Unggah Video"
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2978,7 +2979,7 @@ msgstr "Nama Pengguna"
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr ""
+msgstr "Admin Ushahidi"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
@@ -2998,7 +2999,7 @@ msgstr "Laporan Terpercaya"
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr ""
+msgstr "Buktikan"
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
@@ -3013,12 +3014,12 @@ msgstr "Versi"
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr "lewat"
+msgstr "melalui"
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ui_main.view
 msgctxt "ui_main.view"
@@ -3058,7 +3059,7 @@ msgstr "Lihat Lebih Banyak"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Lihat Profil untuk Umum"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -3073,7 +3074,7 @@ msgstr "Lihat Laporan-laporan"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Lihat Video"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3093,17 +3094,17 @@ msgstr "Menunggu Pembuktian"
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "Peta Lebih Lebar"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Formulir di Situs"
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Situs"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
