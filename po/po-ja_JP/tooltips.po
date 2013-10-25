@@ -1,12 +1,13 @@
 # 
 # Translators:
+# k_tanabe <tanatakax@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-10-24 09:16+0000\n"
+"Last-Translator: k_tanabe <tanatakax@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,19 +22,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "レポートをもう一つのカテゴリに所属させます。ここでカテゴリ1を選択したとき、そのレポートがすでにカテゴリ2に属していた場合には、そのレポートはカテゴリ1とカテゴリ2の両方に属することになります。"
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "報告を認めるかどうか。認めた場合、全体に対して公開されます。"
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "きっかけになったユーザに対して、バッジを進呈することができます。進呈するバッジを選んでください。"
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -67,12 +68,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "送信されるメールの本文"
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "送信されるメールの件名"
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -98,7 +99,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "キーワードについて印を付けなくても良い場合は空欄のままにしてください。複数の言葉を追加する場合には、それぞれの言葉をコンマ(,)で区切る必要があります。例えば、誰かがメッセージの中で\"love\"とか\"peace\"について言及していた時に反応するようにしたい場合は、\"キーワードボックスにlove, peace\"と入力する必要があります。"
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -122,7 +123,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "これは、既定のレポート件名です。"
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -170,7 +171,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "レポートの内容が確認されたかどうか印す。"
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -182,7 +183,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "それぞれの値はコンマで区切ってください。具体的には、\"value1, value2\"のようになります。"
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -205,12 +206,12 @@ msgstr ""
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "プライベートメッセージの件名"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "プライベートメッセージ"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -218,7 +219,7 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "公開プロフィールで使う、あなたのプロフィール写真の背景の色を選択できます。ここで指定した色は、あなたのチェックインの際に地図に表示される点の色にもなります。"
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
@@ -237,7 +238,7 @@ msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "入力された文字列は、あなたの新しいパスワードになります。パスワードを変更したくない場合は空白のままにしてください。"
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -267,12 +268,12 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "このオプションを有効にすると、あなたのプロフィールをインターネットにアクセスするすべての人が閲覧できるようになります。また、このオプションを有効化することは、あなたの投稿やチェックイン、バッジなどをまとめて他の人に見せる最も簡単な方法でもあります。"
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "これは、あなたの公開プロフィールのアドレスです。"
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -346,7 +347,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "一行に表示される項目の数"
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -562,7 +563,7 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr ""
+msgstr "Webサイトのタイムゾーンです。この設定は、デフォルトの時間が表示に影響を与えるのと同じように、日時の情報に関連するすべての操作に影響します。"
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"

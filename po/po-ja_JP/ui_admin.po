@@ -1,12 +1,13 @@
 # 
 # Translators:
+# k_tanabe <tanatakax@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-10-24 11:52+0000\n"
+"Last-Translator: k_tanabe <tanatakax@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +43,7 @@ msgstr "アクション"
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "カテゴリに追加する"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
@@ -72,7 +73,7 @@ msgstr ""
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "受信したアラート"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -92,7 +93,7 @@ msgstr "匿名"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "無制限"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
@@ -358,12 +359,12 @@ msgstr "日&時間"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "追加日時"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr ""
+msgstr "修正日時"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
@@ -388,7 +389,7 @@ msgstr "削除"
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete all reports"
-msgstr ""
+msgstr "すべてのレポートを削除する"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -478,7 +479,7 @@ msgstr "IMAP PHP ライブラリがインストールされていません。"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "不正な証明書"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -543,7 +544,7 @@ msgstr ""
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
@@ -558,7 +559,7 @@ msgstr ""
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "自由記述"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
@@ -668,7 +669,7 @@ msgstr "ヘルプを得る"
 #: ui_admin.get_more_themes
 msgctxt "ui_admin.get_more_themes"
 msgid "Get more themes"
-msgstr ""
+msgstr "新しいテーマを取得する"
 
 #: ui_admin.get_more_plugins
 msgctxt "ui_admin.get_more_plugins"
@@ -725,7 +726,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "インストール先フォルダがまだ残っています。セキュリティ上の問題になる可能性があるため、削除してください。"
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -925,7 +926,7 @@ msgstr "編集済み"
 #: ui_admin.modify_timezone
 msgctxt "ui_admin.modify_timezone"
 msgid "Modify Timezone Setting"
-msgstr ""
+msgstr "タイムゾーンの設定を変更する"
 
 #: ui_admin.move_down_action
 msgctxt "ui_admin.move_down_action"
@@ -980,7 +981,7 @@ msgstr ""
 #: ui_admin.name
 msgctxt "ui_admin.name"
 msgid "Name"
-msgstr ""
+msgstr "名前"
 
 #: ui_admin.new_alert
 msgctxt "ui_admin.new_alert"
@@ -990,7 +991,7 @@ msgstr ""
 #: ui_admin.new_private
 msgctxt "ui_admin.new_private"
 msgid "Create New Message"
-msgstr ""
+msgstr "新しいメッセージを作成する"
 
 #: ui_admin.new_password
 msgctxt "ui_admin.new_password"
@@ -1008,7 +1009,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used to hold reports left without"
 " categories(uncategorized reports) as a result of category deletion."
-msgstr ""
+msgstr "これは特殊なカテゴリであり、レポートを投稿しようとするユーザに対しては表示されません。これは、カテゴリ削除の結果生じた、カテゴリに属していないレポート(未分類レポート)を保持するために使用されます。"
 
 #: ui_admin.notification
 msgctxt "ui_admin.notification"
@@ -1053,7 +1054,7 @@ msgstr ""
 #: ui_admin.openids
 msgctxt "ui_admin.openids"
 msgid "OpenID's"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_admin.page
 msgctxt "ui_admin.page"
@@ -1083,12 +1084,12 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr ""
+msgstr "ご指定のページはここには存在しません。<p><strong>このページにこのサイトの他のページのリンクから移動してきましたか?</strong><br />もしもこのサイトの別のページから移動してきた場合には、修正いたしますので、お手数ですが<a href=\"%s\">管理者</a>までご連絡ください。</p><p><strong>ほかのサイトのページから移動しましたか?</strong><br />ほかのサイトのページのリンクは、情報が古くなっていたり、間違っていたりする可能性があります。どのページから移動してきたのか、<a href=\"%s\">管理者</a>までご連絡ください。そのサイトの管理者に連絡を取り、問題を修正できるかもしれません。</p><p><strong>URLを直接指定してアクセスしましたか?</strong><br />ご指定のアドレス(URL)が間違っているかもしれません。URLの綴りは正しいか、また大文字と小文字の使い分けは正しいのかなどを確認して下さい。</p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "ご指定のページはここには存在しません。"
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1157,32 +1158,32 @@ msgstr "データが送信方法で送られませんでした"
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
 msgid "Preview"
-msgstr ""
+msgstr "プレビュー"
 
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "メッセージ"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
 msgid "Private Messages"
-msgstr ""
+msgstr "プライベートメッセージ"
 
 #: ui_admin.private_sent
 msgctxt "ui_admin.private_sent"
 msgid "Private Message Sent"
-msgstr ""
+msgstr "送信済みプライベートメッセージ"
 
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "件名"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
 msgid "To"
-msgstr ""
+msgstr "送信先"
 
 #: ui_admin.public_listing
 msgctxt "ui_admin.public_listing"
@@ -1207,12 +1208,12 @@ msgstr "関連性"
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "レポートの件名"
 
 #: ui_admin.report_date
 msgctxt "ui_admin.report_date"
 msgid "Report Date"
-msgstr ""
+msgstr "レポート作成日時"
 
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
@@ -1264,7 +1265,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr ""
+msgstr "そのメールアドレスはすでにCrowdmapIDに登録されています。CrowdmapIDに登録した際のパスワードでログインしてください。"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1279,7 +1280,7 @@ msgstr "検索"
 #: ui_admin.search_reports
 msgctxt "ui_admin.search_reports"
 msgid "Search Reports"
-msgstr ""
+msgstr "レポートを検索する"
 
 #: ui_admin.searching_for
 msgctxt "ui_admin.searching_for"
@@ -1291,24 +1292,24 @@ msgctxt "ui_admin.security_info_encryption_key"
 msgid ""
 "The encryption key is still set to the default value. This is insecure and "
 "must be changed."
-msgstr ""
+msgstr "暗号化のための鍵が初期設定のままです。セキュリティ上安全でないため、必ず変更してください。"
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
 msgid ""
 "This site being served over HTTP. This should be set to HTTPS for increased "
 "security."
-msgstr ""
+msgstr "このサイトのデータはHTTPを通して送信されています。セキュリティを向上させるためには、HTTPSを使用する必要があります。"
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
-msgstr ""
+msgstr "説明はwikiで閲覧できます:"
 
 #: ui_admin.select_download_format
 msgctxt "ui_admin.select_download_format"
 msgid "Select your desired reports download format:-"
-msgstr ""
+msgstr "レポートをどの形式でダウンロードするのか、選択してください。"
 
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
@@ -1381,7 +1382,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr ""
+msgstr "これは特殊なカテゴリで、レポートを送信するユーザのためのレポート送信画面には表示されません。\"信用できるレポート送信者\"機能をシステムに追加するために使用されます。"
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1451,7 +1452,7 @@ msgstr "ユーザーの管理"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr ""
+msgstr "処理時間超過エラー"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1576,7 +1577,7 @@ msgstr ""
 #: ui_admin.view_private
 msgctxt "ui_admin.view_private"
 msgid "Private Messages"
-msgstr ""
+msgstr "プライベートメッセージ"
 
 #: ui_admin.view_site
 msgctxt "ui_admin.view_site"
@@ -1586,7 +1587,7 @@ msgstr "サイトを見る"
 #: ui_admin.view_report
 msgctxt "ui_admin.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "レポートを閲覧する"
 
 #: ui_admin.welcome
 msgctxt "ui_admin.welcome"
@@ -1623,7 +1624,7 @@ msgstr ""
 #: ui_admin.delete_all_backup
 msgctxt "ui_admin.delete_all_backup"
 msgid "We recommend you backup your database before proceeding"
-msgstr ""
+msgstr "処理を実行する前に、データベースのバックアップをとることをおすすめします。"
 
 #: ui_admin.delete_all_button
 msgctxt "ui_admin.delete_all_button"
@@ -1633,12 +1634,12 @@ msgstr ""
 #: ui_admin.delete_all_confirm
 msgctxt "ui_admin.delete_all_confirm"
 msgid "Are you sure you want to delete all reports?"
-msgstr ""
+msgstr "本当にすべてのレポートを削除しますか?"
 
 #: ui_admin.delete_all_no_reports
 msgctxt "ui_admin.delete_all_no_reports"
 msgid "There are no reports to be deleted."
-msgstr ""
+msgstr "削除可能なレポートがありません。"
 
 #: ui_admin.user_no_logins
 msgctxt "ui_admin.user_no_logins"
