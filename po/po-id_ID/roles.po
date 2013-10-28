@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-10-16 18:07+0000\n"
+"PO-Revision-Date: 2013-10-27 10:47+0000\n"
 "Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -20,12 +20,12 @@ msgstr ""
 msgctxt "roles.description.length"
 msgid ""
 "The Description field must be at least 3 and no more 100 characters long."
-msgstr "Isi kolom Keterangan minimal 3 karakter dan tidak boleh lebih dari 100 karakter."
+msgstr "Isi kolom Keterangan setidaknya 3 dan tidak boleh lebih dari 100 karakter."
 
 #: roles.description.required
 msgctxt "roles.description.required"
 msgid "The Description field is required."
-msgstr "Kolom Keteranga tidak boleh dikosongkan."
+msgstr "Kolom Keterangan tidak boleh dikosongkan."
 
 #: roles.name.alpha_numeric
 msgctxt "roles.name.alpha_numeric"
@@ -35,12 +35,12 @@ msgstr "Kolom Nama hanya boleh diisi huruf atau angka."
 #: roles.name.length
 msgctxt "roles.name.length"
 msgid "The Name field must be at least 2 and no more than 30 characters long."
-msgstr "Isi kolom Nama minimal 2 dan tidak boleh lebih dari 30 karakter."
+msgstr "Isi kolom Nama setidaknya 2 dan tidak boleh lebih dari 30 karakter."
 
 #: roles.name.nomodify
 msgctxt "roles.name.nomodify"
 msgid "SuperAdmin Role Cannot Be Modified."
-msgstr "Hak Akses SuperAdmin Tidak Bisa Diubah."
+msgstr "Peran SuperAdmin Tidak Bisa Diubah."
 
 #: roles.name.required
 msgctxt "roles.name.required"

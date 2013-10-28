@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-10-23 06:54+0000\n"
+"PO-Revision-Date: 2013-10-28 00:09+0000\n"
 "Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgstr "Maaf, alamat surel ini sudah digunakan pengguna lain."
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "Panjang isian alamat surel setidaknya terdiri dari 4 karakter dan tidak lebih dari 64 karakter."
+msgstr "Panjang isian alamat surel setidaknya terdiri dari 4 dan tidak lebih dari 64 karakter."
 
 #: auth.email.required
 msgctxt "auth.email.required"
@@ -44,7 +44,7 @@ msgstr "Kolom nama lengkap setidaknya 3 dan tidak lebih dari 100 karakter."
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr "Isian nama lengkap harus diisi"
+msgstr "Isian nama lengkap harus diisi."
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"

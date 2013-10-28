@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-10-16 17:19+0000\n"
+"PO-Revision-Date: 2013-10-27 10:46+0000\n"
 "Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -31,23 +31,23 @@ msgstr "Kolom Lintang tidak boleh dikosongkan. Anda bisa klik lokasi di peta unt
 #: reporters.level_id.numeric
 msgctxt "reporters.level_id.numeric"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr "Isi pada kolom Reporter Level tidak benar."
+msgstr "Isi pada kolom Level Reporter tidak benar."
 
 #: reporters.level_id.required
 msgctxt "reporters.level_id.required"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr "Isi pada kolom Reporter Level tidak benar."
+msgstr "Isi pada kolom Level Reporter tidak benar."
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
 msgid ""
 "The location name field must be at least 3 and no more 200 characters long."
-msgstr "Isi kolom Lokasi setidaknya terdiri atas 3 dan tidak lebih dari 200 karakter."
+msgstr "Nama lokasi setidaknya terdiri atas 3 dan tidak lebih dari 200 karakter."
 
 #: reporters.location_name.required
 msgctxt "reporters.location_name.required"
 msgid "The location name field is required."
-msgstr "Kolom Lokasi tidak boleh dikosongkan."
+msgstr "Kolom nama lokasi tidak boleh dikosongkan."
 
 #: reporters.longitude.between
 msgctxt "reporters.longitude.between"
@@ -64,9 +64,9 @@ msgstr "Kolom Bujur tidak boleh dikosongkan. Anda bisa klik lokasi di peta untuk
 #: reporters.reporter_id.numeric
 msgctxt "reporters.reporter_id.numeric"
 msgid "Invalid Reporter"
-msgstr "Pelapor tidak dikenal."
+msgstr "Pelapor Tidak Dikenal"
 
 #: reporters.reporter_id.required
 msgctxt "reporters.reporter_id.required"
 msgid "Invalid Reporter"
-msgstr "Pelapor tidak dikenal."
+msgstr "Pelapor Tidak Dikenal"
