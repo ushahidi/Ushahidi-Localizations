@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-10-28 21:25+0000\n"
+"PO-Revision-Date: 2013-10-29 12:59+0000\n"
 "Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -19,77 +19,77 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian komentar tidak akan ditampilkan apabila tidak mengandung kebenaran."
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "Isian komentar tidak boleh dikosongkan."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian umpan tidak akan ditampilkan apabila tidak benar cara penulisannya."
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr ""
+msgstr "Isian umpan harus diisi."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian peringatan tidak akan ditampilkan apabila tidak diisi dengan benar."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "Isian peringatan harus diisi."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian laporan yang diijinkan tidak akan ditampilkan apabila tidak diisi dengan benar."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr ""
+msgstr "Isian laporan yang diijinkan harus diisi."
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian stat berbagi tidak akan ditampilkan apabila tidak diisi dengan benar."
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "Isian status berbagi harus diisi."
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "Jumlah standar rekaman yang diambil untuk setiap permintaan API"
 
 #: settings.api.maximum_record_limit
 msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Jumlah maksimal rekaman yang diambil untuk setiap permintaan API"
 
 #: settings.api.maximum_requests_per_ip_address
 msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Jumlah maksimal permintaan API untuk tiap alamat IP"
 
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian pada kolom Akismet tidak benar."
 
 #: settings.api_akismet.length
 msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian pada kolom Akismet tidak benar."
 
 #: settings.banner_image.type
 msgctxt "settings.banner_image.type"
@@ -111,23 +111,23 @@ msgstr "\"Banner SItus\" tidak benar."
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr ""
+msgstr "Kolom cache halaman harus diisi."
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "Kolom cache halaman tidak benar."
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr ""
+msgstr "Batas kadaluarsa cache halaman tidak benar."
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "Batas kadaluarsa cache halaman harus diisi."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -137,76 +137,76 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "Sepertinya server Anda tidak diatur supaya bias mengatasi clean URL. Anda perlu mengubah konfigurasi server sebelum memperbolehkan penggunaan clean URL. Lihat lebih lanjut mengenai clean URL di <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">forum diskusi ini</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr ""
+msgstr "Opsi ini akan menjadikan Ushahidi bisa diakses melalui clean URL (tanpa \"index.php\" dalam tautan)."
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Memperbolehkan Clean URL"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "Clean URL"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "Kolom nomor API Clickatell tidak boleh lebih dari 20 karakter."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "Kolom isian nomor API Clickatell wajib diisi."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Kolom kata sandi CLiackatell setidaknya terdiri atas 5 dan tidak ;ebih dari 50 karakter."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "Kata sandi Cliackatell wajib diisi."
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "Kolom Nama Pengguna Clickatell tidak boleh lebih dari 50 karakter."
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr ""
+msgstr "Kolom Nama Pengguna Clickatell tidak boleh kosong."
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "Pengaturan Peta"
 
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "Lokasi Standar"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "Kolom warna umpan tidak benar."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "Kolom warna tidak boleh lebih dari 6 karakter."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
@@ -236,29 +236,29 @@ msgstr "Kolom port mail server terlalu panjang."
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Kolom port Mail Server hanya bisa diisi dengan angka."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "Kata sandi Mail Server setidaknya terdiri atas 5 dan tidak lebih dari 50 karakter."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "Kata sandi untuk Mail Server tidak boleh dikosongkan."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "Isi kolom Port Mail Server terlalu panjang."
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "Kolom port Mail Server hanya bisa diisi dengan angka."
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
@@ -326,14 +326,14 @@ msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "Opsi ini memungkinkan Ushahidi bisa diakses dalam moda tidak aman; <strong>tanpa</strong> \"https://\" dalam awalan tautan"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "Opsi ini memungkinkan Ushahidi bisa diakses dalam moda aman; dengan awalan <strong>https</strong> di tautan"
 
 #: settings.https.title
 msgctxt "settings.https.title"
@@ -345,30 +345,30 @@ msgctxt "settings.items_per_page.between"
 msgid ""
 "The items per page (Frontend) field does not appear to contain a valid "
 "value."
-msgstr ""
+msgstr "Isian dalam kolom jumlah item per halaman (Halaman Depan) tidak benar."
 
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
-msgstr ""
+msgstr "Isian dalam kolom jumlah item per halaman (Halaman Admin) tidak benar."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
 msgid ""
 "The items per page (Admin) field does not appear to contain a valid value."
-msgstr ""
+msgstr "Isian dalam kolom jumlah item per halaman (Halaman Depan) tidak benar."
 
 #: settings.items_per_page_admin.required
 msgctxt "settings.items_per_page_admin.required"
 msgid "The items per page (Admin) field is required."
-msgstr ""
+msgstr "Kolom item per halaman (Admin) wajib diisi."
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "Pengaturan penyedia peta yang Anda pilih adalah proses yang searah. Pilih penyedianya, dapatnya kunci API dari situs penyedia peta tersebut, dan masukkan kunci API."
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
