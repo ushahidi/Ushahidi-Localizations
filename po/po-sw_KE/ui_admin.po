@@ -1,12 +1,13 @@
 # 
 # Translators:
+# stephenwanjau <wanjaustev@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-11-02 08:07+0000\n"
+"Last-Translator: stephenwanjau <wanjaustev@gmail.com>\n"
 "Language-Team: Swahili (Kenya) (http://www.transifex.com/projects/p/ushahidi-localizations/language/sw_KE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -388,7 +389,7 @@ msgstr "Futa"
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete all reports"
-msgstr ""
+msgstr "Futa ripoti zote"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -478,7 +479,7 @@ msgstr "Maktaba ya IMAP PHP hayajabandikwa"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "Hati tambulishi sio sahihi"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -1618,27 +1619,27 @@ msgctxt "ui_admin.delete_all_instructions"
 msgid ""
 "Clicking the button below will delete ALL reports on the database. You "
 "should use this with caution as this operation cannot be undone."
-msgstr ""
+msgstr "Kubofya kitufe hapa chini kutafuta ripoti ZOTE kwa hifadhidata.Unafaa kutumia kitufe hicho kwa makini kwa maana operesheni hii haiwezi kutenguliwa."
 
 #: ui_admin.delete_all_backup
 msgctxt "ui_admin.delete_all_backup"
 msgid "We recommend you backup your database before proceeding"
-msgstr ""
+msgstr "Tunapendekeza uhifadhi hifadhidata yako mahala pengine kable ya kuendelea."
 
 #: ui_admin.delete_all_button
 msgctxt "ui_admin.delete_all_button"
 msgid "I'm sure I want to delete all %s report(s) from the database."
-msgstr ""
+msgstr "Nina uhakika nataka kufuta ripoti z(y)ote %s kutoka kwa hifadhidata."
 
 #: ui_admin.delete_all_confirm
 msgctxt "ui_admin.delete_all_confirm"
 msgid "Are you sure you want to delete all reports?"
-msgstr ""
+msgstr "Una uhakika unataka kufuta ripoti zote?"
 
 #: ui_admin.delete_all_no_reports
 msgctxt "ui_admin.delete_all_no_reports"
 msgid "There are no reports to be deleted."
-msgstr ""
+msgstr "Hakuna ripoti za kufutwa."
 
 #: ui_admin.user_no_logins
 msgctxt "ui_admin.user_no_logins"
@@ -1653,4 +1654,4 @@ msgstr ""
 #: ui_admin.user_confirmed_account
 msgctxt "ui_admin.user_confirmed_account"
 msgid "Confirmed account?"
-msgstr ""
+msgstr "Akaunti iliyodhibitishwa?"
