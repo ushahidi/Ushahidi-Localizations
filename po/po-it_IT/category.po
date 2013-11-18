@@ -1,13 +1,14 @@
 # 
 # Translators:
+# pibinko <pibinko@gmail.com>, 2013
 # Tony Goodyear <fswitch20@hotmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-11-17 23:38+0000\n"
+"Last-Translator: pibinko <pibinko@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,17 +25,17 @@ msgstr "Il campo colore deve contenere 6 caratteri."
 #: category.category_color.required
 msgctxt "category.category_color.required"
 msgid "The color field is required."
-msgstr "Il campo colore "
+msgstr "Il campo colore è necessario"
 
 #: category.category_description.required
 msgctxt "category.category_description.required"
 msgid "The description field is required."
-msgstr "Il campo descrizione "
+msgstr "Il campo descrizione è necessario"
 
 #: category.category_image.size
 msgctxt "category.category_image.size"
 msgid "Please ensure that image uploads sizes are limited to 50KB."
-msgstr "Assicurati che il peso delle immagini caricate non sia superiore a 50KB."
+msgstr "Assicurati che la dimensione delle immagini caricate non sia superiore a 50KB."
 
 #: category.category_image.type
 msgctxt "category.category_image.type"
@@ -56,7 +57,7 @@ msgstr "Il campo titolo deve essere lungo almeno 3 caratteri non pi"
 #: category.category_title.required
 msgctxt "category.category_title.required"
 msgid "The title field is required."
-msgstr "Il campo titolo "
+msgstr "Il campo titolo è necessario."
 
 #: category.parent_id.already_parent
 msgctxt "category.parent_id.already_parent"
