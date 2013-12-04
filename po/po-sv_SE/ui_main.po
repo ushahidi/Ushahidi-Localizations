@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-04 06:26+0000\n"
-"PO-Revision-Date: 2013-12-02 23:22+0000\n"
+"PO-Revision-Date: 2013-12-03 22:56+0000\n"
 "Last-Translator: Krillz <krystian.hoffman@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/ushahidi-localizations/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -1023,7 +1023,7 @@ msgstr "Penseltjocklek"
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Gå"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
@@ -1430,7 +1430,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Tack för att du registrerade dig på %1$s. För att bekräfta din e-postadress, var god och tryck här: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -1442,7 +1442,7 @@ msgctxt "ui_main.login_signup_admin_approval_message"
 msgid ""
 "An new user has signed up at %1$s. To approve their registration please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "En ny användare registrerade på %1$s. För att godkänna registreringen, tryck här %2$s"
 
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
@@ -1454,7 +1454,7 @@ msgctxt "ui_main.login_signup_approval_message"
 msgid ""
 "Your user account has been approved for %1$s. To login go to the following "
 "URL: %2$s"
-msgstr ""
+msgstr "Ditt användarkonto på %1$s har godkänts. För att logga in, tryck här %2$s"
 
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
@@ -1571,7 +1571,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Du måste bekräfta din e-postadress för att få tillträde. Om ditt bekräftelsemejl har försvunnit, kan du begära ett nytt nedanför. "
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1871,7 +1871,7 @@ msgstr "Avvaktande"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "per"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1919,12 +1919,12 @@ msgstr "Observera"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Bilder"
+msgstr "Tillägg"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Sida med Tillägg"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
@@ -2861,7 +2861,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Skräddarsydda fältkolumner måste ha deras form_id infogade t.ex. fältet Test, på standard formuläret, vars ID är 1, kommer blir Test-1. Under importering av skräddarsydda fält, se till att"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2898,7 +2898,7 @@ msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Om ytterligare information ska importeras t.ex personlig information och/eller skräddarsydda formulärfält"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
@@ -2912,7 +2912,7 @@ msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Din indata för formulärfälten stämmer överens med de konfigurationsval givna för denna instansen. "
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2920,7 +2920,7 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Valen för kryssruta separeras med ett kommatecken t.ex. om dina val för frukter är äpplen,mongon och vindruvor, så ska du skriva \"äpplen,mangon,vindruvor\"  "
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
