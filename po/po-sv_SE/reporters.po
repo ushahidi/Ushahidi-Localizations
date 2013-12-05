@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-12-03 23:26+0000\n"
+"PO-Revision-Date: 2013-12-04 21:29+0000\n"
 "Last-Translator: Krillz <krystian.hoffman@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/ushahidi-localizations/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Fältet för reporternivå verkar inte innehålla en giltig nivå."
 #: reporters.level_id.required
 msgctxt "reporters.level_id.required"
 msgid "The Reporter Level field does not appear to contain a valid Level."
-msgstr ""
+msgstr "Reporterfältet verkar inte innehålla ett giltigt värde."
 
 #: reporters.location_name.length
 msgctxt "reporters.location_name.length"
