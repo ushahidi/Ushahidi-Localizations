@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-12-02 08:50+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"PO-Revision-Date: 2013-12-10 22:42+0000\n"
+"Last-Translator: xandasbolas <xandasbolas@riseup.net>\n"
 "Language-Team: Galician (http://www.transifex.com/projects/p/ushahidi-localizations/language/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,19 +21,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "Esto inclúe informes de categorías adicionáis. Se selecciona Categoría 1 eiquíe o Informe xa ten a Categoría 2 vencellada, o Informe terá asociadas ambalasdúas."
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "Aproba o informe ou non. Se o aproba, aparecerá publicado."
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "Poderá asignar un distintivo a un/ha usuario/a disparador/a"
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -44,7 +44,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "Trátase dun rango horario entre dous espazos de tempo en formato de 24hs. Se se introduce un tempo anterior no segundo campo, trocarase cara ao primeiro. Ambos tempos deben estar no mesmo día. Amais, este tempo é comparado co que se establecera no site nas configuracións e pode <strong>non estar definido</strong>necesariamente no mesmo fuso horario da/o usuaria/o que participa no Ushahidi.Deixe os valores a 00:00 e 00:00 para ignorar este habilitador."
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -54,7 +54,7 @@ msgid ""
 "only one of the categories is used. For instace, if you select Category 1 "
 "and Category 2 here and a report is submitted using Category 2 and Category "
 "3, it will pass the test."
-msgstr ""
+msgstr "Se quere activar un disparador só cando certa categoría estea sendo usada pode facelo eiquí. Esto permite cun disparador se active únicamente candose empregue determiñada categoría. Por exemplo, se se seleccionan as Categorías 1 e 2 eiquí e un informe he enviado empregando as Categorías  2 e 3, o informe pasará o test."
 
 #: tooltips.actions.days_of_the_week
 msgctxt "tooltips.actions.days_of_the_week"
@@ -62,17 +62,17 @@ msgid ""
 "If these actions happen on certain days of the week, set that here. Keep in "
 "mind the day is determined by the timezone configured on your deployment. "
 "Hold shift, command, or control for multiple day selection."
-msgstr ""
+msgstr "Se esas accións acontecen en certos días da semana, definao eiquí. Teña en conta que o día determíñase segundo o fuso horario configurado na súa instancia do Ushahidi. Empregue Shift, Command ou Control para seleccionar múltiples días."
 
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "Corpo do correo a enviar."
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "Asunto do correo a enviar."
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -80,7 +80,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "O feed pode ser de todolos feeds ou dun feed específico. Se se quere que só certos feeds activen un disparador, debense escoller eiquí. En caso contrario deixe esto co valor predetermiñado: \"todos\""
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -88,7 +88,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "Nome da/o usuario/a no Twitter (ou múltiples nomes separados por comas). Se ten intención de activar disparadores só para twits dun/ha usuario/a concreto/a introduza o seu nome eiquí (sen incluir a @)"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -98,7 +98,7 @@ msgid ""
 " (,). For example, if you want to activate a trigger when someone mentions "
 "\"love\" or \"peace\" in their message, you will want to add \"love, peace\""
 " in the keywords box."
-msgstr ""
+msgstr "Pódese deixar en branco se non se queren verificar palabras-chave. Se se engaden palabras eiquí, hai que separalas con comas (,). Por exemplo, se se queren activar disparadores cando alguén mencione \"amor\" ou \"paz\"na súa mensaxe, haberá que engadir: \"paz, amor\" na caixa de palabras-chave."
 
 #: tooltips.actions.location
 msgctxt "tooltips.actions.location"
@@ -109,7 +109,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "Pódese seleccionar calquera lugar ou unha localización específica. Neste último caso, solicitarase que debuxe unha caixa delimitando a área que require unha acción. Por exemplo, se se quere cun disparador se active cando alguén presente un informe sobre Ourense, hai que seleccionar \"área específica\" e deseguido debuxar unha \"caixa\" en torno a Ourense. Pódense facer éstas tan grandes ou pequenas como se queira. Tamén é posible debuxar múltiples caixas."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -117,12 +117,12 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "Este habilitador activará o disparador na conta nº X contrastándoa contra o conxunto de usuarias/os ou para cada usuaria/o individualmente. Deixeo en branco se prefire ignoralo."
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "Este é o título predetermiñado para engadir a un informe."
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -130,7 +130,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "Se todolos habilitadores enriba estibesen activos, o disparador iniciaría unha resposta. Esto pode se dende aprobar un Informe a enviar un email a un/ha usuario/a. Seleccione eiquí a resposta para activar opcións adicionáis para respostas específicas."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -140,14 +140,14 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "Se selecciona \"Usuario/a Disparador/a\", o correo será enviado a/ao usuaria/o que executou a acción concreta. Se se selcciona o botón de radio ao carón da caixa de entrada, poderá incluir un enderezo de correo persoalizado. Ésto é útil se se están configurando disparadores para notificar á xente cando certas zonas no mapa reciben informes, chekins ou calqueira outra actividade."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "Pode seleccionar múltiples días eiquí. As datas veñen determiñadas polo fuso horario definido na configuración do site. Se non selecciona nengunha data, o sistema amosará predetermiñadamente tódalas datas."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -156,7 +156,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "O disparador é o compoñente central na configuración das Accións Disparadoras.Eiquí é onde se determiña qué aconterá cando alguén envía un informe, fai un checkin, etc. Eiquí pode filtrar as respostas a esas accións despois de seleccionar un disparador."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -165,24 +165,24 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr ""
+msgstr "A/o usuaria/o pode ser un/ha calquera ou un/ha específico/a. Se se quere traballar con un/ha concreto/a, hai que seleccionalo/a. En caso contrario, hai que deixar o valor a \"calquera\" xa que a maioría dos disparadores establécense para todolas/os usuarias/os que interactúan co sistema."
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "Marca o informe como verificado ou non."
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr ""
+msgstr "As páxinas de perfil no site empregan Gravatar. Ao premer na súa imaxe, será redirixida/o ao site Gravatar onde poderá trocar a súa foto de perfil."
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "Separe cada valor cunha cona, p.ex. valor1, valor2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -190,27 +190,27 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr ""
+msgstr "Separe cada valor cunha coma, p.ex. valor1, valor2. No caso de querer definir un valor predetermiñado, remate a súa lista de opcións con :: P.ex. se quere que o valor3 sexa o predetermiñado, a cousa sería: valor1, valor2, valor3::valor3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "Separe cada elemento seleccionado cunha coma, p.ex.: Elemento1, Elemento2, etc."
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Comence a escreber a lista de membros."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "Asunto da mensaxe privada"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "Mensaxe privada"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -218,26 +218,26 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr ""
+msgstr "Pode seleccionar unha cor que será a que apareza baixo a súa imaxe no perfil público. Esta cor será tamén asociada aos puntos dos seus checkins no mapa."
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
 msgid "Your email address"
-msgstr ""
+msgstr "O seu enderezo de correo"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr ""
+msgstr "Este é un dos xeitos nos que será identificado no site. Téñao en conta, pois é un dato público!"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "Se se define, ésta ha ser o seu novo contrasinal. Deixe o campo en branco se prefire manter o actual."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -245,21 +245,21 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "Este é un requisito cando se crea un/ha novo/a usuario/a e establece os seus respectivos contrasináis. Debe avisar ás/aos novas/os usuarias/os de que troquen o seu contrasinal ao acceder por vez primeira á conta."
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr ""
+msgstr "Ao seleccionar SÍ, recibirá alertas via mail en canto un novo informe ou un comentario sexa publicado no site."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr ""
+msgstr "O seu contrasinal actual. É preciso que introduza o sue contrasinal para alguén sen autorización poda trocar cousas na súa conta."
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
