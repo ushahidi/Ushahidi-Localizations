@@ -1,6 +1,7 @@
 # 
 # Translators:
 # andrearichetta <andrea.richetta@gmail.com>, 2012
+# davidebeatrici <davidebeatrici@gmail.com>, 2013
 # PeppeMessoMalex <giuseppe.murabito@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2012
 # Sigisbaldo <sigismondo.baldovino@gmail.com>, 2013
@@ -10,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-11-02 12:12+0000\n"
-"Last-Translator: PeppeMessoMalex <giuseppe.murabito@gmail.com>\n"
+"PO-Revision-Date: 2013-12-22 12:56+0000\n"
+"Last-Translator: davidebeatrici <davidebeatrici@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -301,7 +302,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Queste impostazioni permettono agli utenti di connettersi tramite Facebook, questo <strong>non</strong> crea un'applicazione di Facebook per la tua installazione"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -671,7 +672,7 @@ msgstr "Il campo tagline deve contenere almeno 3 caratteri e non più di 100."
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
-msgstr ""
+msgstr "Il campo \"tagline\" è richiesto."
 
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
@@ -686,7 +687,7 @@ msgstr "Controlla il tuo credito Your Clickatell Credit Balance"
 #: settings.sms.clickatell_load_balance
 msgctxt "settings.sms.clickatell_load_balance"
 msgid "Load Credit Balance"
-msgstr ""
+msgstr "Carica il saldo"
 
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
@@ -717,7 +718,7 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS è un software gratuito e open source che abilita gli utenti a inviare e ricevere messaggi di testo con grandi gruppi di persone tramite i cellulari. Clicca sul pulsante sotto per scaricare l'ultima versione da FrontlineSMS.com."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
@@ -732,7 +733,7 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Istruzioni dettagliate su come inviare SMS dalla tua installazione FrontlineSMS sono disponibili <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">qui</a></strong>. L'URL e la chiave API sottostanti sono richiesti per configurare la sincronizzazione con FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
@@ -747,7 +748,7 @@ msgstr "Copia e incolla questo nel campo \"Ushahidi API Key\" FrontlineSMS"
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Connettendo FrontlineSMS a questa installazione di Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -814,27 +815,27 @@ msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Per ricevere le informazioni sottostanti, configura la tua installazione come una nuova applicazione Twitter a"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Chiave consumatore"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Segreto del consumatore"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Permesso di accesso"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Permesso di accesso segreto"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"

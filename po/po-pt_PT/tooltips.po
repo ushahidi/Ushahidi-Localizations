@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-06-27 21:47+0000\n"
+"PO-Revision-Date: 2013-12-22 20:45+0000\n"
 "Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -184,7 +184,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr "Separar valores com uma vírgula, ex. valor1, valor2."
+msgstr "Separar os valores com uma vírgula, ex.: valor1, valor2."
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -202,7 +202,7 @@ msgstr ""
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "Inicie a digitação para a lista de membros."
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
@@ -225,14 +225,14 @@ msgstr ""
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
 msgid "Your email address"
-msgstr "O teu endereço de e-mail"
+msgstr "O seu endereço de e-mail"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr "Your full name"
+msgstr ""
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
@@ -254,14 +254,14 @@ msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr "Selecting YES lets you get alerts via email when new reports or comments are posted on your website"
+msgstr "Ao selecionar 'SIM' deixa-o receber os alertas através do e-mail quando são publicados novos relatórios ou comentários no seu site da web."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr "Your password. Leave this field blank if you wish to keep your current password"
+msgstr "A sua senha atual. Nós necessitamos que insira a sua senha para evitar qualquer alteração não autorizada à sua conta."
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -279,7 +279,7 @@ msgstr ""
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
 msgid "Your username cannot be changed."
-msgstr "Your username cannot be changed"
+msgstr "O seu nome de utilizador não pode ser alterado."
 
 #: tooltips.settings_access_level
 msgctxt "tooltips.settings_access_level"
@@ -299,7 +299,7 @@ msgstr ""
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr "Permitir aos utilizadores para subscreverem a alertas pela web"
+msgstr "Permite que os utilizadores subscrevam para os alertas através da web."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
@@ -309,7 +309,7 @@ msgstr ""
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
 msgid "Allow users to comment on reports on the main site."
-msgstr "Permite que os utilizadores comentem nos relatórios do site principal."
+msgstr "Permite que os utilizadores comentem nos relatórios no site principal."
 
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
@@ -378,22 +378,22 @@ msgstr ""
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
 msgid "Set the map to cover a specific location."
-msgstr "Set the map to cover a specific location "
+msgstr "Defina o mapa para cobrir uma localização especifica."
 
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr "Set one color code for all the categories on the site"
+msgstr "Defina um código da cor para todas as categorias no site."
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "Defina um ícone para todas as categhorias no site."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr "This is the country the site is being deployed"
+msgstr "Este é o país em que o site está a ser implementado."
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
@@ -419,27 +419,27 @@ msgstr ""
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
 msgid "This is the hub for incoming messages."
-msgstr "This is the hub for incoming messages"
+msgstr "Este é o concentrador para as mensagens a receber."
 
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr "This synchronizes the messages in the hub with the Ushahidi platform"
+msgstr ""
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr "Phone numbers through which the text messages are received"
+msgstr ""
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
 msgid "Tracks visitors of your site. Get detailed visitor statistics."
-msgstr "Tracks visitors of your site. Get detailed visitor statistics"
+msgstr "Rastos dos visitantes do seu site. Obtenha as estatísticas detalhadas do visitante."
 
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
 msgid "Sets the language that will be used in the site."
-msgstr ""
+msgstr "Define o idioma que será utilizado no site."
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
