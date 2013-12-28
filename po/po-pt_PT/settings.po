@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-26 16:52+0000\n"
+"PO-Revision-Date: 2013-12-27 17:22+0000\n"
 "Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -29,42 +29,42 @@ msgstr "É necessário o campo de autorização dos comentários."
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr "O campo de incluir o Feed não parece conter um valor válido."
+msgstr "O campo de incluir a fonte não parece conter um valor válido."
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr "É necessário o campo de incluir o Feed."
+msgstr "É necessário o campo de incluir a fonte."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "O campo de alertas de permissão parece não conter um valor válido."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "É necessário o campo de alertas de permisssão."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr "The allow reports field does not appear to contain a valid value?"
+msgstr "O campo dos relatórios de permissão parecem não conter um valor válido."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr ""
+msgstr "É necessário o campo de relatórios de permissão."
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr "The stat sharing field does not appear to contain a valid value?"
+msgstr "O campo do estado de compartilhar parece não conter um valor válido."
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "É necessário o campo do estado de compartilhar."
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -201,7 +201,7 @@ msgstr "Localização Predefinida"
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr "The color feed field does not appear to contain a valid value?"
+msgstr "O campo da cor da fonte parece não conter um valor válido."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
@@ -211,7 +211,7 @@ msgstr ""
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "É necessário o campo da cor."
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
@@ -378,7 +378,7 @@ msgstr "Nível do Zoom"
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
-msgstr ""
+msgstr "Selecione um Fornecedor de Mapas"
 
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
@@ -400,12 +400,12 @@ msgstr "Setting up your map provider is a straight- forward process. Select a pr
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "Fornecedor de Mapas"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Barra Cronológica do Mapa"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -420,12 +420,12 @@ msgstr "Does this Ushahidi Deployment Span Multiple Countries"
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "Por favor, selecione um país predefinido"
 
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "Clique e arraste o mapa para definir o seu local exato."
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
@@ -435,22 +435,22 @@ msgstr ""
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr ""
+msgstr "Permitir que os Utilizadores Submetam os Comentários para os Relatórios"
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "Incluir Fonte de Notícias RSS no Site da Web"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Permitir que os Utilizadores Subscrevam para os Alertas"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr ""
+msgstr "Permitir que os utilizadores Submetam Relatórios"
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
@@ -460,7 +460,7 @@ msgstr ""
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Faixa de Site"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -500,7 +500,7 @@ msgstr "Ícone Predefinido para Todas as Categorias"
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Apagar Imagem da Faixa"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
@@ -510,17 +510,17 @@ msgstr "Apagar Ícone Predefinido"
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "Exibir Página de Contactos"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "Exibir Página \"Como Ajudar\""
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "Endereço de e-mail dos Alertas"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -566,12 +566,12 @@ msgstr ""
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr ""
+msgstr "Credenciais do Laconica"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr ""
+msgstr "Site do Laconica"
 
 #: settings.site.language
 msgctxt "settings.site.language"
@@ -586,7 +586,7 @@ msgstr "Aprovar Utilizadores Manualmente"
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Mensagem do Site"
 
 #: settings.site.name
 msgctxt "settings.site.name"
@@ -621,7 +621,7 @@ msgstr ""
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Zona Horária"
 
 #: settings.site.title
 msgctxt "settings.site.title"
@@ -687,7 +687,7 @@ msgstr ""
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "A Sua Senha Clickatell"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -705,7 +705,7 @@ msgstr ""
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr ""
+msgstr "O Seu Nome de Utilizador Clickatell"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -768,7 +768,7 @@ msgstr ""
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "Opções da Configuração de SMS"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
@@ -803,7 +803,7 @@ msgstr ""
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Opções de Configuração do Twitter"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
