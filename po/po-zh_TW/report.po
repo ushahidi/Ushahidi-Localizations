@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Cai Fang Ye, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-08-22 06:26+0000\n"
-"PO-Revision-Date: 2013-08-22 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-01 17:08+0000\n"
+"Last-Translator: Cai Fang Ye\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,47 +31,47 @@ msgstr "您報告的事件地點跨越了本網站部署的國家範圍。請確
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for the \"%s\" field."
-msgstr ""
+msgstr "請輸入一個有效的值於\"%s\" 欄位"
 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "\"%s\" 欄位必須是數字"
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "\"%s\" 欄位是必須的"
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr "\"%s\" 欄位不存在"
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "您的帳號無法編輯\"%s\" 欄位"
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "\"%s\" 欄位必須包含有效的電子郵件地址"
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "\"%s\" 欄位必須包含一個有效的電話號碼"
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "\"%s\" 欄位必須包含有效的日期 (MM/DD/YYYY)"
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "\"%s\" 欄位必須包含有效的日期 (DD/MM/YYYY)"
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
@@ -136,12 +137,12 @@ msgstr "一個選擇有效的事件報告類型進行下載"
 #: report.format.required
 msgctxt "report.format.required"
 msgid "You must select a download format. Select either CSV or XML."
-msgstr ""
+msgstr "您必須選擇下載的格式, CSV或XML"
 
 #: report.format.valid
 msgctxt "report.format.valid"
 msgid "Please select a valid format to download your reports in"
-msgstr ""
+msgstr "請選擇有效的格式來下載您的回報"
 
 #: report.from_date.date_mmddyyyy
 msgctxt "report.from_date.date_mmddyyyy"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Cai Fang Ye, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-11-19 16:10+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-01 16:58+0000\n"
+"Last-Translator: Cai Fang Ye\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -53,36 +54,36 @@ msgstr "使用者名稱出現不能使用的字元"
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "密碼至少8個字元"
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "請確認您是否輸入正確的電子郵件和密碼"
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "請輸入一樣的密碼在兩個密碼欄位裡"
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "密碼欄位是必要的"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "密碼欄位必須有英文字元, 另外, 其餘符號只能是#、@、數字、底線或破折號"
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
 msgid ""
 "The current password you entered for your account is incorrect. Please try "
 "again."
-msgstr ""
+msgstr "該帳號您輸入的密碼不正確, 請再試一次"
 
 #: auth.new_password.length
 msgctxt "auth.new_password.length"
@@ -114,7 +115,7 @@ msgstr "密碼只能由字母，數字和符號#，@，_以及-組成"
 #: auth.password.default
 msgctxt "auth.password.default"
 msgid "There has been an error attempting to log you in."
-msgstr ""
+msgstr "之前曾有試圖登入的錯誤"
 
 #: auth.password.length
 msgctxt "auth.password.length"
@@ -139,12 +140,12 @@ msgstr "密碼為必填欄位"
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
 msgid "The authentication server is down. Please try again later."
-msgstr ""
+msgstr "認證伺服器當機, 請稍後再試"
 
 #: auth.password.riverid
 msgctxt "auth.password.riverid"
 msgid "%s"
-msgstr ""
+msgstr "%s"
 
 #: auth.password.alpha_dash
 msgctxt "auth.password.alpha_dash"
@@ -201,12 +202,12 @@ msgstr "必須選擇是管理者或使用者"
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr ""
+msgstr "忘記密碼憑證無效"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr ""
+msgstr "需要忘記密碼的憑證"
 
 #: auth.username.admin
 msgctxt "auth.username.admin"

@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Cai Fang Ye, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-01 16:41+0000\n"
+"Last-Translator: Cai Fang Ye\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,12 +24,12 @@ msgstr "根路徑"
 #: installer.database
 msgctxt "installer.database"
 msgid "Database"
-msgstr "數據庫"
+msgstr "資料庫"
 
 #: installer.database_host
 msgctxt "installer.database_host"
 msgid "Database Host"
-msgstr "數據庫主機"
+msgstr "資料庫主機"
 
 #: installer.database_host_description
 msgctxt "installer.database_host_description"
@@ -36,7 +37,7 @@ msgid ""
 "If you are running Ushahidi on your own computer, this will more than likely"
 " be \"localhost\". If you are running Ushahidi from a web server, you will "
 "get your host information from your web hosting provider."
-msgstr "如果您運行Ushahidi在自己的計算機上，該值可能是“localhost”；如果您從Web服務器運行Ushahidi，你需要從您的網站託管服務提供商得到你的主機信息。"
+msgstr "如果您運行Ushahidi在自己的電腦上，該值可能是“localhost”；如果您從Web服務器運行Ushahidi，你需要從您的網站託管服務提供商得到你的主機信息。"
 
 #: installer.database_name
 msgctxt "installer.database_name"
@@ -108,7 +109,7 @@ msgstr "一般的"
 #: installer.google_key
 msgctxt "installer.google_key"
 msgid "<span>Google</span> API Key"
-msgstr ""
+msgstr "<span>Google</span> API Key"
 
 #: installer.google_key_description
 msgctxt "installer.google_key_description"
