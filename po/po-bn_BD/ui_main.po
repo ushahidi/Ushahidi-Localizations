@@ -1,13 +1,13 @@
 # 
 # Translators:
-# Shourav Nath <shourav9884@gmail.com>, 2013
+# Shourav Nath <shourav9884@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-04 06:26+0000\n"
-"PO-Revision-Date: 2013-09-04 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-07 06:17+0000\n"
+"Last-Translator: Shourav Nath <shourav9884@gmail.com>\n"
 "Language-Team: Bengali (Bangladesh) (http://www.transifex.com/projects/p/ushahidi-localizations/language/bn_BD/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -677,7 +677,7 @@ msgstr "ক্রমহ্রাসমান"
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
 msgid "Example: Corner of City Market, 5th Street & 4th Avenue, Johannesburg"
-msgstr ""
+msgstr "সিটি মার্কেটের কোনায়, ৫ম রাস্তা এবং ৪র্থ এভিনিউ, জোহাননেসবার্গ"
 
 #: ui_main.details
 msgctxt "ui_main.details"
@@ -779,12 +779,12 @@ msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "ইমেইল এর মাধ্যমে রিপোর্ট সমূহ পাওয়ার জন্য অনুগ্রহ করে নিচে আপনার ইমেইল এড্রেসটি প্রবেশ করান। "
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "কিছু কিছু সার্ভারে সম্পুর্ন ইমেইল এড্রেসএর প্রয়োজন হয়"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
@@ -794,12 +794,12 @@ msgstr "ই-মেইল একাউন্টের পাসওয়ার্ড
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "উদাহরণঃ mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
@@ -809,22 +809,22 @@ msgstr "উদাহরণঃ pop2,imap"
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "SSL connections এনাবল বা ডিজেবল করুন"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
 msgid "---EMPTY---"
-msgstr ""
+msgstr " ---EMPTY---"
 
 #: ui_main.end_point
 msgctxt "ui_main.end_point"
 msgid "to"
-msgstr ""
+msgstr "প্রতি"
 
 #: ui_main.error
 msgctxt "ui_main.error"
 msgid "Error!"
-msgstr ""
+msgstr "ভুল!"
 
 #: ui_main.example
 msgctxt "ui_main.example"
@@ -839,12 +839,12 @@ msgstr "কেনিয়া"
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
 msgid "External Apps"
-msgstr ""
+msgstr "এক্সটার্নাল অ্যাপস"
 
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "এক্সটার্নাল ভিডিও লিংক"
 
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
@@ -854,12 +854,12 @@ msgstr "ফেইসবুক"
 #: ui_main.feed
 msgctxt "ui_main.feed"
 msgid "Feed"
-msgstr ""
+msgstr "ফিড"
 
 #: ui_main.feedback
 msgctxt "ui_main.feedback"
 msgid "Provide Feedback"
-msgstr ""
+msgstr "ফিডব্যাক দিন"
 
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
@@ -921,12 +921,12 @@ msgstr "রিপোর্ট ছাঁকুন"
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr ""
+msgstr "রিপোর্ট গুলো ফিল্টার করুন"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
 msgid "Filter reports that contain"
-msgstr ""
+msgstr "রিপোর্ট গুলো ফিল্টার করুন যেগুলোর মধ্যে আছে"
 
 #: ui_main.find
 msgctxt "ui_main.find"
@@ -946,7 +946,7 @@ msgstr "প্রথন নাম"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Force Run Scheduler"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -1031,7 +1031,7 @@ msgstr "হ্যাশট্যাগ"
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr ""
+msgstr "হয়ে আসছে"
 
 #: ui_main.help
 msgctxt "ui_main.help"
@@ -1066,7 +1066,7 @@ msgstr "কীভাবে রিপোর্ট করবেন?"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
@@ -1233,17 +1233,17 @@ msgstr ""
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "KMZ/KML ফাইল"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "KMZ/KML ফাইল আপলোড করুন"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
@@ -1293,7 +1293,7 @@ msgstr "অন্যান্য লেয়ারসমূহ"
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "এই লেয়ার"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
@@ -1323,7 +1323,7 @@ msgstr "লেভেল"
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "এই লেভেল"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
@@ -1527,7 +1527,7 @@ msgstr "বিস্তারিত বার্তা"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "একটি non-numeric সোর্স থেকে মেসেজঃ"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
