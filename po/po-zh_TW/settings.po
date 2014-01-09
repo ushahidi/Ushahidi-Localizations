@@ -1,12 +1,13 @@
 # 
 # Translators:
+# kiang <kiange@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-09 00:54+0000\n"
+"Last-Translator: kiang <kiange@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr "The allow comments field does not appear to contain a valid value?"
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "允許評論欄位是必填的"
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
@@ -148,7 +149,7 @@ msgstr "This option makes Ushahidi to be accessed via \"clean\" URLs. Without \"
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "啟用簡潔網址"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
@@ -190,12 +191,12 @@ msgstr ""
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "設定地圖"
 
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "預設地點"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
@@ -205,27 +206,27 @@ msgstr "The color feed field does not appear to contain a valid value?"
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "顏色欄位不能夠超過 6 個字元"
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "顏色欄位是必填的"
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "預設地圖畫面"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "預設放大層級"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "從 Geonames 取得城市資料"
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
