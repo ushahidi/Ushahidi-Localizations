@@ -3,13 +3,14 @@
 # jui <appukonrad@gmail.com>, 2013
 # jui <appukonrad@gmail.com>, 2012-2013
 # JacobCZ <jacobcz@mineland.cz>, 2013
+# Pavel Dvořák <pavel@pavel-dvorak.cz>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-04 06:26+0000\n"
-"PO-Revision-Date: 2013-09-04 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-21 03:03+0000\n"
+"Last-Translator: Pavel Dvořák <pavel@pavel-dvorak.cz>\n"
 "Language-Team: Czech (Czech Republic) (http://www.transifex.com/projects/p/ushahidi-localizations/language/cs_CZ/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -868,7 +869,7 @@ msgctxt "ui_main.feedback_reports"
 msgid ""
 "Please give us feedback about your experience by sending an email to "
 "info@ushahidi.com."
-msgstr ""
+msgstr "Prosím, zašlete nám zpětnou vazbu jaké máte zkušenosti na e-mail info@ushahidi.com."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -888,12 +889,12 @@ msgstr "Položky zdroje"
 #: ui_main.feed_name
 msgctxt "ui_main.feed_name"
 msgid "Feed Name"
-msgstr ""
+msgstr "Jméno zdroje"
 
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr ""
+msgstr "URL zdroje"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
@@ -948,7 +949,7 @@ msgstr "Jméno"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Spustit cron"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -1023,12 +1024,12 @@ msgstr ""
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Jdi"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1447,7 +1448,7 @@ msgstr ""
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
 msgid "New User Approval"
-msgstr ""
+msgstr "Schválení nového uživatele"
 
 #: ui_main.login_signup_approval_message
 msgctxt "ui_main.login_signup_approval_message"
@@ -1459,7 +1460,7 @@ msgstr ""
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
 msgid "User account approved"
-msgstr ""
+msgstr "Uživatelský účet byl schválen"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
