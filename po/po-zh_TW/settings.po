@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2014-01-09 00:54+0000\n"
+"PO-Revision-Date: 2014-01-28 18:31+0000\n"
 "Last-Translator: kiang <kiange@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -34,17 +34,17 @@ msgstr "The include feed field does not appear to contain a valid value?"
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr ""
+msgstr "包含的來源欄位是必填的"
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "允許警示欄位沒有輸入正確的資料"
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "允許警示欄位是必填的"
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
@@ -64,7 +64,7 @@ msgstr "The stat sharing field does not appear to contain a valid value?"
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "統計資訊分享欄位是必填的"
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -596,7 +596,7 @@ msgstr ""
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "私人網站"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
