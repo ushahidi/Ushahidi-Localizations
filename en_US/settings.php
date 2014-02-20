@@ -176,6 +176,7 @@ $lang = array(
 		'title' => 'Site Settings',
 		'twitter_configuration' => 'Twitter Search Terms',
 		'twitter_hashtags' => 'Hashtags - Separate with commas ',
+		'feed_geolocation_user' => 'Feeds geolocation - Geonames username'
 	) ,
 	'banner_image' => array(
 		'type' => 'The Site Banner field does not appear to contain a valid image. The only accepted formats are .JPG, .PNG and .GIF.',
@@ -234,7 +235,7 @@ $lang = array(
 		'token' => 'Access Token',
 		'token_secret' => 'Access Token Secret',
 	),
-	'test_settings' => 'Test settings' 
+	'test_settings' => 'Test settings'
 
 );
 ?>
