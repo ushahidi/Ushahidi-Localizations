@@ -1,13 +1,14 @@
 # 
 # Translators:
+# jgrocha <jgr@di.uminho.pt>, 2013
 # luislago <luisalveslago@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:04+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-11-19 16:10+0000\n"
+"Last-Translator: jgrocha <jgr@di.uminho.pt>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr "O campo do Email parece conter um endereço de email inválido?"
+msgstr "O email inserido não é válido."
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
@@ -59,7 +60,7 @@ msgstr "A sua palavra-passe deve ter um mínimo de 8 carateres"
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "Por favor, certifique-se que colocou o email e a password correctamente."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"

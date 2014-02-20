@@ -1,25 +1,31 @@
-#. extracted from en_US/ui_admin.php, sr/ui_admin.php#
-# Translators: 
+# 
+# Translators:
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi-Localizations\n"
+"Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-09-25 00:10+0000\n"
-"PO-Revision-Date: 2012-09-25 00:10+0000\n"
+"POT-Creation-Date: 2013-09-11 06:22+0000\n"
+"PO-Revision-Date: 2012-06-07 02:49+0000\n"
+"Language-Team: Serbian (http://www.transifex.com/projects/p/ushahidi-localizations/language/sr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: ushahidi-i18n-manager\n"
 "Language: sr\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: ushahidi-i18n-manager\n"
 
 #: ui_admin.access_denied_credentials
 msgctxt "ui_admin.access_denied_credentials"
-msgid "Access denied. Either your credentials are not valid or your request has been refused."
+msgid ""
+"Access denied. Either your credentials are not valid or your request has "
+"been refused."
 msgstr ""
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
-msgid "Access denied. Your request has been understood, but denied due to access limits like time. Try back later."
+msgid ""
+"Access denied. Your request has been understood, but denied due to access "
+"limits like time. Try back later."
 msgstr ""
 
 #: ui_admin.access_level
@@ -324,7 +330,8 @@ msgstr ""
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
-msgid "You don't have sufficient permissions to edit the following custom fields."
+msgid ""
+"You don't have sufficient permissions to edit the following custom fields."
 msgstr ""
 
 #: ui_admin.daily
@@ -345,6 +352,16 @@ msgstr ""
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
+msgstr ""
+
+#: ui_admin.date_added
+msgctxt "ui_admin.date_added"
+msgid "Date Added"
+msgstr ""
+
+#: ui_admin.date_modified
+msgctxt "ui_admin.date_modified"
+msgid "Date Modified"
 msgstr ""
 
 #: ui_admin.days_of_the_week
@@ -369,7 +386,7 @@ msgstr ""
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
-msgid "Delete All"
+msgid "Delete all reports"
 msgstr ""
 
 #: ui_admin.delete_badge
@@ -455,6 +472,11 @@ msgstr ""
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
+msgstr ""
+
+#: ui_admin.error_twitter
+msgctxt "ui_admin.error_twitter"
+msgid "Incorrect Credentials"
 msgstr ""
 
 #: ui_admin.error_msg
@@ -699,7 +721,9 @@ msgstr ""
 
 #: ui_admin.installer_info
 msgctxt "ui_admin.installer_info"
-msgid "The installer folder still exists. Delete the installer folder. It is a potential security vulnerability."
+msgid ""
+"The installer folder still exists. Delete the installer folder. It is a "
+"potential security vulnerability."
 msgstr ""
 
 #: ui_admin.instance
@@ -979,7 +1003,10 @@ msgstr ""
 
 #: ui_admin.none_category_explanation
 msgctxt "ui_admin.none_category_explanation"
-msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used to hold reports left without categories(uncategorized reports) as a result of category deletion."
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used to hold reports left without"
+" categories(uncategorized reports) as a result of category deletion."
 msgstr ""
 
 #: ui_admin.notification
@@ -1042,9 +1069,24 @@ msgctxt "ui_admin.page_not_found"
 msgid "Page Not Found"
 msgstr ""
 
+#: ui_admin.page_not_found_message_with_contact
+msgctxt "ui_admin.page_not_found_message_with_contact"
+msgid ""
+"Sorry, the page you are trying to view is not here.<p><strong>Did you follow"
+" a link from somewhere else on our site?</strong><br />If you reached this "
+"page from another part of our site, please <a href=\"%s\">contact us</a> so "
+"that we can correct our mistake.</p><p><strong>Did you follow a link from "
+"another site? </strong><br />Links from other sites can sometimes be "
+"outdated or misspelled. <a href=\"%s\">Tell us</a> where you came from and "
+"we can try to contact the other site in order to fix the "
+"problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
+"typed the address (URL) incorrectly. Check to make sure you have got the "
+"exact right spelling, capitalization, etc. </p>"
+msgstr ""
+
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
-msgid "Sorry, the page you are trying to view is not here.<p><strong>Did you follow a link from somewhere else on our site?</strong><br />If you reached this page from another part of our site, please <a href=\"#\">contact us</a> so that we can correct our mistake.</p><p><strong>Did you follow a link from another site? </strong><br />Links from other sites can sometimes be outdated or misspelled. <a href=\"#\">Tell us</a> where you came from and we can try to contact the other site in order to fix the problem.</p><p><strong>Did you type the URL? </strong><br />You may have typed the address (URL) incorrectly. Check to make sure you have got the exact right spelling, capitalization, etc. </p>"
+msgid "Sorry, the page you are trying to view is not here."
 msgstr ""
 
 #: ui_admin.parameters_used
@@ -1074,12 +1116,16 @@ msgstr ""
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
-msgid "To change your password, please click on the link below (or copy and paste it into your browser)."
+msgid ""
+"To change your password, please click on the link below (or copy and paste "
+"it into your browser)."
 msgstr ""
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
-msgid "As you requested, your password has now been reset. Your new details are as follows"
+msgid ""
+"As you requested, your password has now been reset. Your new details are as "
+"follows"
 msgstr ""
 
 #: ui_admin.password_reset_subject
@@ -1162,6 +1208,11 @@ msgctxt "ui_admin.report_title"
 msgid "Report Title"
 msgstr ""
 
+#: ui_admin.report_date
+msgctxt "ui_admin.report_date"
+msgid "Report Date"
+msgstr ""
+
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
@@ -1207,6 +1258,13 @@ msgctxt "ui_admin.revoke"
 msgid "Revoke"
 msgstr ""
 
+#: ui_admin.riverid_exists_admin
+msgctxt "ui_admin.riverid_exists_admin"
+msgid ""
+"This email already has an account managed by CrowdmapID. The user will need "
+"to use their existing Crowdmap password to login."
+msgstr ""
+
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
 msgid "Save Settings"
@@ -1229,17 +1287,26 @@ msgstr ""
 
 #: ui_admin.security_info_encryption_key
 msgctxt "ui_admin.security_info_encryption_key"
-msgid "The encryption key is still set to the default value. This is insecure and must be changed."
+msgid ""
+"The encryption key is still set to the default value. This is insecure and "
+"must be changed."
 msgstr ""
 
 #: ui_admin.security_info_https
 msgctxt "ui_admin.security_info_https"
-msgid "This site being served over HTTP. This should be set to HTTPS for increased security."
+msgid ""
+"This site being served over HTTP. This should be set to HTTPS for increased "
+"security."
 msgstr ""
 
 #: ui_admin.security_info_instructions
 msgctxt "ui_admin.security_info_instructions"
 msgid "Instructions are available on the wiki: "
+msgstr ""
+
+#: ui_admin.select_download_format
+msgctxt "ui_admin.select_download_format"
+msgid "Select your desired reports download format:-"
 msgstr ""
 
 #: ui_admin.select_field_type
@@ -1309,7 +1376,10 @@ msgstr ""
 
 #: ui_admin.special_category_explanation
 msgctxt "ui_admin.special_category_explanation"
-msgid "This is a special category that will not show up on the report submission form for users submitting reports. This is used in conjunction with the \"Trusted Reporters\" feature."
+msgid ""
+"This is a special category that will not show up on the report submission "
+"form for users submitting reports. This is used in conjunction with the "
+"\"Trusted Reporters\" feature."
 msgstr ""
 
 #: ui_admin.specific_area
@@ -1375,6 +1445,11 @@ msgstr ""
 #: ui_admin.title
 msgctxt "ui_admin.title"
 msgid "Manage Users"
+msgstr ""
+
+#: ui_admin.timeout
+msgctxt "ui_admin.timeout"
+msgid "Timeout Error"
 msgstr ""
 
 #: ui_admin.to
@@ -1522,6 +1597,11 @@ msgctxt "ui_admin.wiki"
 msgid "Wiki"
 msgstr ""
 
+#: ui_admin.xml
+msgctxt "ui_admin.xml"
+msgid "XML"
+msgstr ""
+
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
 msgid "Yes"
@@ -1532,3 +1612,44 @@ msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr ""
 
+#: ui_admin.delete_all_instructions
+msgctxt "ui_admin.delete_all_instructions"
+msgid ""
+"Clicking the button below will delete ALL reports on the database. You "
+"should use this with caution as this operation cannot be undone."
+msgstr ""
+
+#: ui_admin.delete_all_backup
+msgctxt "ui_admin.delete_all_backup"
+msgid "We recommend you backup your database before proceeding"
+msgstr ""
+
+#: ui_admin.delete_all_button
+msgctxt "ui_admin.delete_all_button"
+msgid "I'm sure I want to delete all %s report(s) from the database."
+msgstr ""
+
+#: ui_admin.delete_all_confirm
+msgctxt "ui_admin.delete_all_confirm"
+msgid "Are you sure you want to delete all reports?"
+msgstr ""
+
+#: ui_admin.delete_all_no_reports
+msgctxt "ui_admin.delete_all_no_reports"
+msgid "There are no reports to be deleted."
+msgstr ""
+
+#: ui_admin.user_no_logins
+msgctxt "ui_admin.user_no_logins"
+msgid "Number of logins"
+msgstr ""
+
+#: ui_admin.user_last_login
+msgctxt "ui_admin.user_last_login"
+msgid "Last login"
+msgstr ""
+
+#: ui_admin.user_confirmed_account
+msgctxt "ui_admin.user_confirmed_account"
+msgid "Confirmed account?"
+msgstr ""

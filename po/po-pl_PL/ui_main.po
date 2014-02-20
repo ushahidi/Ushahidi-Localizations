@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-05-03 05:35+0000\n"
+"POT-Creation-Date: 2013-09-04 06:26+0000\n"
+"PO-Revision-Date: 2013-10-15 17:17+0000\n"
 "Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -484,6 +484,13 @@ msgid ""
 "You have successfully confirmed your email address! Please login below."
 msgstr "Adres e-mail został prawidłowo potwierdzony, możesz się zalogować!"
 
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr "E-mail został potwierdzony! Administrator musi jednak zaakceptować Twoje konto zanim będzie można się na nie zalogować"
+
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
@@ -860,9 +867,9 @@ msgstr "Wyślij swoją opinię"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
-msgstr "Prosimy o Twoje opinie (kliknij na link poniżej)."
+"Please give us feedback about your experience by sending an email to "
+"info@ushahidi.com."
+msgstr "Daj nam znać co myślisz o Ushahidi, wyślij email na info@ushahidi.com."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -1376,6 +1383,13 @@ msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "Potwierdzenie zostało wysłane na podany adres e-mail."
 
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr "Konto zostało utworzone. Musi zostać zatwierdzone przez admina, zanim będzie można się na nie zalogować."
+
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
@@ -1423,6 +1437,30 @@ msgstr "Dziękujemy za rejestrację  %1$s. Aby potwierdzić swój adres e-mail, 
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "Potwierdzenie rejestracji"
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr "Nowy użytkownik założył konto jako %1$s. Żeby zaakceptować jego rejestrację przejdź do tego adresu: %2$s"
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr "Akceptacja nowych użytkowników"
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr "Twoje konto zostało zaakceptowane przez %1$s. Żeby się zalogować przejdź do tego adresu: %2$s"
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
+msgstr "Konto użytkownika zostało zatwierdzone"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"

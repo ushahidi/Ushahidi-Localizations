@@ -2,16 +2,18 @@
 # Translators:
 # dauriabros <dau.avatar@gmail.com>, 2012
 # davidebeatrici <davidebeatrici@gmail.com>, 2013
+# PeppeMessoMalex <giuseppe.murabito@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2012
+# pibinko <pibinko@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2013
 # Damtux <sun_lion@live.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-06-25 18:22+0000\n"
-"Last-Translator: davidebeatrici <davidebeatrici@gmail.com>\n"
+"POT-Creation-Date: 2013-09-04 06:26+0000\n"
+"PO-Revision-Date: 2013-12-26 16:27+0000\n"
+"Last-Translator: PeppeMessoMalex <giuseppe.murabito@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -485,6 +487,13 @@ msgid ""
 "You have successfully confirmed your email address! Please login below."
 msgstr "Hai correttamente confermato il tuo indirizzo email! Accedi adesso."
 
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr "Hai confermato con successo il tuo indirizzo e-mail! Un amministratore deve approvare il tuo account prima di poter effettuare il login"
+
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
@@ -861,9 +870,9 @@ msgstr "Invia feedback"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
-msgstr "Per favore inviaci del feedback cliccando sul bottone qui sotto"
+"Please give us feedback about your experience by sending an email to "
+"info@ushahidi.com."
+msgstr "Per favore inviaci un riscontro sulla tua esperienza mandando una email a info@ushahidi.com"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -1377,6 +1386,13 @@ msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
 msgstr "Un messaggio di conferma è stata inviata al tuo indirizzo email."
 
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr "Account creato. Il tuo account deve essere approvato da un amministratore prima di poter accedere."
+
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
@@ -1424,6 +1440,30 @@ msgstr "Grazie per esserti iscritto a %1$s. Per confermare il tuo indirizzo e-ma
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
 msgstr "Conferma iscrizione"
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr "Un nuovo utente si è registrato su %1$s. Per approvare l'iscrizione si prega di visitare il seguente URL: %2$s"
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr "Approvazione nuovo utente"
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr "Il tuo account è stato approvato per %1$s. Per accedere andare al seguente URL: %2$s"
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
+msgstr "Account utente approvato"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"

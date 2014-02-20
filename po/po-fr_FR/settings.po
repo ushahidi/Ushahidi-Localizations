@@ -1,14 +1,16 @@
 # 
 # Translators:
+# ranaud80 <arneir77@gmail.com>, 2013
 # Freddydelanuit Dec <fred.dec@free.fr>, 2013
+# CedricMoro <cedric.moro@i-resilience.fr>, 2014
 # Titier <titier@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-25 18:45+0000\n"
-"Last-Translator: Freddydelanuit Dec <fred.dec@free.fr>\n"
+"PO-Revision-Date: 2014-02-14 11:09+0000\n"
+"Last-Translator: CedricMoro <cedric.moro@i-resilience.fr>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -97,17 +99,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "Le champ de la Bannière du Site ne ​​semble pas contenir une image valide. Les formats reconnus sont seulement .JPG, .PNG et .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Veuillez vous assurer que la taille de «l'image bannière\" est inférieure à 250 KB."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "L\\'image bannière ne ​​semble pas contenir un fichier valide."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -298,7 +300,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Ces paramètres permettent aux utilisateurs de se connecter via Facebook, <strong>ceci ne créé pas</ strong> une application Facebook pour votre déploiement"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -567,7 +569,7 @@ msgstr "Prévenir les commentaires spam en utilisant <a href=\"http://akismet.co
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr ""
+msgstr "Certificat Laconica"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
@@ -714,12 +716,12 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS est un logiciel libre open source qui donne la possibilité aux utilisateurs d\\'envoyer et de recevoir des messages texte avec de grands groupes de personnes par téléphones mobiles. Cliquez sur la case ci dessous pour télécharger la dernière application via FrontlineSMS.com"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Télécharger et installer FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -729,22 +731,22 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Des instructions détaillées sur la façon d'envoyer des SMS à partir de votre installation FronlineSMS sont disponibles à <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">here</a></strong>. L'URL et la clé de l'API ci-dessous sont nécessaires pour mettre en place la synchronisation avec FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Copiez et collez le dans le champ \"Adresse\" FrontlineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Copiez et collez le dans le champ FrontlineSMS \"Ushahidi API Key\""
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Connecter FrontlineSMS à ce déploiement Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -804,36 +806,36 @@ msgstr "Le troisième numéro de téléphone ne doit comporter que des chiffres.
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Options de configuration de Twitter"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Pour obtenir les informations ci-dessous, vous aurez besoin de créer une nouvelle application Twitter sur "
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "Clef utilisateur"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Secret utilisateur"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Jeton d'accès"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Jeton secret d'accès"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Paramètres de test"

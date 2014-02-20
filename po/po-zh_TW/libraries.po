@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Cai Fang Ye, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-01-01 17:03+0000\n"
+"Last-Translator: Cai Fang Ye\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -114,4 +115,4 @@ msgstr "下載的Ushahidi壓縮文件<code>%s</coded>無法寫入"
 #: libraries.riverid_variable_not_available
 msgctxt "libraries.riverid_variable_not_available"
 msgid "%s is not available in the RiverID class."
-msgstr ""
+msgstr "%s 在RiverID類別中無法使用"

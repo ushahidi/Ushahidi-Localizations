@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-05-03 05:32+0000\n"
+"POT-Creation-Date: 2013-09-11 06:22+0000\n"
+"PO-Revision-Date: 2013-10-15 17:21+0000\n"
 "Last-Translator: lidiacibor <lidka.cibor@gmail.com>\n"
 "Language-Team: Polish (Poland) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pl_PL/)\n"
 "MIME-Version: 1.0\n"
@@ -391,8 +391,8 @@ msgstr "Skasuj"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
-msgid "Delete All"
-msgstr "Skasuj wszystkie"
+msgid "Delete all reports"
+msgstr "Usuń wszystkie raporty"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -1616,3 +1616,45 @@ msgstr "Tak"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "Twoje wyszukiwanie"
+
+#: ui_admin.delete_all_instructions
+msgctxt "ui_admin.delete_all_instructions"
+msgid ""
+"Clicking the button below will delete ALL reports on the database. You "
+"should use this with caution as this operation cannot be undone."
+msgstr "Kliknięcie w poniższy przycisk usunie WSZYSTKIE raporty z bazy danych. Operacji nie będzie można cofnąć."
+
+#: ui_admin.delete_all_backup
+msgctxt "ui_admin.delete_all_backup"
+msgid "We recommend you backup your database before proceeding"
+msgstr "Zalecamy utworzenie kopii zapasowej bazy danych przed rozpoczęciem działania"
+
+#: ui_admin.delete_all_button
+msgctxt "ui_admin.delete_all_button"
+msgid "I'm sure I want to delete all %s report(s) from the database."
+msgstr "Jestem pewny że chcę skasować wszystkie %s raporty(ów) z bazy danych."
+
+#: ui_admin.delete_all_confirm
+msgctxt "ui_admin.delete_all_confirm"
+msgid "Are you sure you want to delete all reports?"
+msgstr "Na pewno usunąć wszystkie raporty?"
+
+#: ui_admin.delete_all_no_reports
+msgctxt "ui_admin.delete_all_no_reports"
+msgid "There are no reports to be deleted."
+msgstr "Żadne raporty nie zostaną usunięte."
+
+#: ui_admin.user_no_logins
+msgctxt "ui_admin.user_no_logins"
+msgid "Number of logins"
+msgstr "Liczba logowań."
+
+#: ui_admin.user_last_login
+msgctxt "ui_admin.user_last_login"
+msgid "Last login"
+msgstr "Ostatnie logowanie"
+
+#: ui_admin.user_confirmed_account
+msgctxt "ui_admin.user_confirmed_account"
+msgid "Confirmed account?"
+msgstr "Potwierdzić to konto?"

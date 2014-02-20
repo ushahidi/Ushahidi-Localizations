@@ -1,13 +1,14 @@
 # 
 # Translators:
-# ppanhh <ppanhh@gmail.com>, 2013
+# ppanhh <vietnamesel10n@gmail.com>, 2013
+# ppanhh <vietnamesel10n@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-07-06 16:19+0000\n"
-"Last-Translator: ppanhh <ppanhh@gmail.com>\n"
+"POT-Creation-Date: 2013-09-11 06:22+0000\n"
+"PO-Revision-Date: 2013-09-11 11:21+0000\n"
+"Last-Translator: ppanhh <vietnamesel10n@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -388,8 +389,8 @@ msgstr "Xóa"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
-msgid "Delete All"
-msgstr "Xóa tất cả"
+msgid "Delete all reports"
+msgstr "Xóa tất cả các báo cáo"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -1613,3 +1614,45 @@ msgstr "Đồng ý"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "Tìm kiếm của bạn về"
+
+#: ui_admin.delete_all_instructions
+msgctxt "ui_admin.delete_all_instructions"
+msgid ""
+"Clicking the button below will delete ALL reports on the database. You "
+"should use this with caution as this operation cannot be undone."
+msgstr "Click vào nút bên dưới sẽ xóa TOÀN BỘ các báo cáo trong cơ sở dữ liệu. Bạn nên sử dụng nút này với sự cẩn trọng tối đa vì tiến trình này không thể được hủy bỏ."
+
+#: ui_admin.delete_all_backup
+msgctxt "ui_admin.delete_all_backup"
+msgid "We recommend you backup your database before proceeding"
+msgstr "Chúng tôi khuyến nghị bạn nên sao lưu lại cơ sở dữ liệu của mình trước khi tiếp tục"
+
+#: ui_admin.delete_all_button
+msgctxt "ui_admin.delete_all_button"
+msgid "I'm sure I want to delete all %s report(s) from the database."
+msgstr "Tôi chắc chắc rằng tôi muốn xóa toàn bộ %s (các) báo cáo trong cơ sở dữ liệu."
+
+#: ui_admin.delete_all_confirm
+msgctxt "ui_admin.delete_all_confirm"
+msgid "Are you sure you want to delete all reports?"
+msgstr "Bạn có chắc chắc rằng bạn muốn xóa toàn bộ các báo cáo?"
+
+#: ui_admin.delete_all_no_reports
+msgctxt "ui_admin.delete_all_no_reports"
+msgid "There are no reports to be deleted."
+msgstr "Hiện không có báo cáo nào để xóa."
+
+#: ui_admin.user_no_logins
+msgctxt "ui_admin.user_no_logins"
+msgid "Number of logins"
+msgstr "Số lần đăng nhập"
+
+#: ui_admin.user_last_login
+msgctxt "ui_admin.user_last_login"
+msgid "Last login"
+msgstr "Lần đăng nhập cuối cùng"
+
+#: ui_admin.user_confirmed_account
+msgctxt "ui_admin.user_confirmed_account"
+msgid "Confirmed account?"
+msgstr "Đã xác nhận tài khoản?"

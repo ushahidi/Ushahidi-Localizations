@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Sutha <sutha@open.org.kh>, 2014
 # khoemsokhem <sokhem@open.org.kh>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:06+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2013-09-11 06:22+0000\n"
+"PO-Revision-Date: 2014-01-03 03:46+0000\n"
+"Last-Translator: Sutha <sutha@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +45,7 @@ msgstr "គ្រប់គ្រង​មតិ​យោបល់​របាយ
 #: permissions.reports_download
 msgctxt "permissions.reports_download"
 msgid "Download Reports"
-msgstr "ទាញយក​របាយការណ៍"
+msgstr "ទាញ​យក​របាយការណ៍"
 
 #: permissions.reports_upload
 msgctxt "permissions.reports_upload"
@@ -59,7 +60,7 @@ msgstr "គ្រប់គ្រង​សារ"
 #: permissions.messages_reporters
 msgctxt "permissions.messages_reporters"
 msgid "Manage Message Reporters"
-msgstr "គ្រប់គ្រង​អ្នក​រាយការណ៍សារ"
+msgstr "គ្រប់គ្រង​អ្នក​រាយការណ៍​សារ"
 
 #: permissions.stats
 msgctxt "permissions.stats"
@@ -105,3 +106,8 @@ msgstr "ចំណុច​ប្រទាក់​ចូល​ជា​អ្ន
 msgctxt "permissions.member_ui"
 msgid "Access Members UI"
 msgstr "ចំណុច​ប្រទាក់ចូលជា​​អ្នក​សមាជិក"
+
+#: permissions.delete_all_reports
+msgctxt "permissions.delete_all_reports"
+msgid "Delete all reports"
+msgstr "លុប​របាយការណ៍​ទាំងអស់"

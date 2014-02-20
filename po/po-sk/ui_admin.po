@@ -1,12 +1,13 @@
 # 
 # Translators:
+# borylad <micuch.jakub@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-28 19:57+0000\n"
-"Last-Translator: angelaoduor <angela@ushahidi.com>\n"
+"POT-Creation-Date: 2013-09-11 06:22+0000\n"
+"PO-Revision-Date: 2013-11-14 07:05+0000\n"
+"Last-Translator: borylad <micuch.jakub@gmail.com>\n"
 "Language-Team: Slovak (http://www.transifex.com/projects/p/ushahidi-localizations/language/sk/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +21,7 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr ""
+msgstr "Prístup bol odmietnutý. Buď nie sú platné vaše poverenia, alebo vaša žiadosť bola zamietnutá."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
@@ -32,47 +33,47 @@ msgstr ""
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
 msgid "Access Level"
-msgstr ""
+msgstr "Úroveň prístupu"
 
 #: ui_admin.actions
 msgctxt "ui_admin.actions"
 msgid "Actions"
-msgstr ""
+msgstr "Opatrenia"
 
 #: ui_admin.add_to_category
 msgctxt "ui_admin.add_to_category"
 msgid "Add to Category"
-msgstr ""
+msgstr "Pridať do kategórie"
 
 #: ui_admin.added
 msgctxt "ui_admin.added"
 msgid "added"
-msgstr ""
+msgstr "Pridané"
 
 #: ui_admin.added_edited
 msgctxt "ui_admin.added_edited"
 msgid "added/edited"
-msgstr ""
+msgstr "Pridané/Upravené"
 
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr ""
+msgstr "Prídavky"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
 msgid "Admin"
-msgstr ""
+msgstr "Admin"
 
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "Upozornenia"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr ""
+msgstr "Upozornenia prijaté"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -82,278 +83,278 @@ msgstr ""
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
-msgstr ""
+msgstr "Anonymné"
 
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "Hocikto"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "Hocikde"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr ""
+msgstr "API zablokované"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr ""
+msgstr "API výpisy"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
 msgid "API Settings"
-msgstr ""
+msgstr "API nastavenia"
 
 #: ui_admin.api_unban
 msgctxt "ui_admin.api_unban"
 msgid "UNBAN"
-msgstr ""
+msgstr "Odblokovať"
 
 #: ui_admin.api_unban_all
 msgctxt "ui_admin.api_unban_all"
 msgid "UNBAN ALL"
-msgstr ""
+msgstr "Odblokovať všetko"
 
 #: ui_admin.approved
 msgctxt "ui_admin.approved"
 msgid "approved"
-msgstr ""
+msgstr "overené"
 
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
-msgstr ""
+msgstr "Automatické overenie"
 
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
-msgstr ""
+msgstr "Manuálne overenie"
 
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
 msgid "Archived"
-msgstr ""
+msgstr "Archivované"
 
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
 msgid "Are you sure you want to"
-msgstr ""
+msgstr "Ste si istý, že chcete"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_item
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_item"
 msgid "Are you sure you want to delete this item?"
-msgstr ""
+msgstr "Ste si istý, že chcete odstrániť túto položku?"
 
 #: ui_admin.are_you_sure_you_want_to_delete_this_photo
 msgctxt "ui_admin.are_you_sure_you_want_to_delete_this_photo"
 msgid "Are you sure you want to delete this photo?"
-msgstr ""
+msgstr "Ste si istý, že chcete odstrániť túto fotku?"
 
 #: ui_admin.are_you_sure_you_want_to_switch_forms
 msgctxt "ui_admin.are_you_sure_you_want_to_switch_forms"
 msgid "Are you sure you want to switch forms?"
-msgstr ""
+msgstr "Ste si istý, že chcete prepnúť formulár?"
 
 #: ui_admin.assign
 msgctxt "ui_admin.assign"
 msgid "Assign"
-msgstr ""
+msgstr "Priradiť"
 
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "Priradenia"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr ""
+msgstr "Priradiť znak"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
 msgid "Author email"
-msgstr ""
+msgstr "E-mail autora"
 
 #: ui_admin.back
 msgctxt "ui_admin.back"
 msgid "Back"
-msgstr ""
+msgstr "Späť"
 
 #: ui_admin.banip_action
 msgctxt "ui_admin.banip_action"
 msgid "Ban IP"
-msgstr ""
+msgstr "Zablokovanie IP"
 
 #: ui_admin.between_times
 msgctxt "ui_admin.between_times"
 msgid "Between Times"
-msgstr ""
+msgstr "Medzi časmi"
 
 #: ui_admin.blocks
 msgctxt "ui_admin.blocks"
 msgid "Blocks"
-msgstr ""
+msgstr "Bloky"
 
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr ""
+msgstr "Telo"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušiť"
 
 #: ui_admin.categories
 msgctxt "ui_admin.categories"
 msgid "Categories"
-msgstr ""
+msgstr "Kategórie"
 
 #: ui_admin.chart_display_error
 msgctxt "ui_admin.chart_display_error"
 msgid "Error displaying chart"
-msgstr ""
+msgstr "Chyba pri zobrazení grafu"
 
 #: ui_admin.check_message_valid
 msgctxt "ui_admin.check_message_valid"
 msgid "Please make sure your message is valid."
-msgstr ""
+msgstr "Prosím uistite sa, že vaša správa je platná."
 
 #: ui_admin.check_number
 msgctxt "ui_admin.check_number"
 msgid "Please make sure the number is valid."
-msgstr ""
+msgstr "Prosím uistite sa, že číslo je platné."
 
 #: ui_admin.check_sms_settings
 msgctxt "ui_admin.check_sms_settings"
 msgid "Please check your SMS settings!"
-msgstr ""
+msgstr "Prosím skontrolujte si nastavenia SMS!"
 
 #: ui_admin.checkin_details
 msgctxt "ui_admin.checkin_details"
 msgid "Checkin Details"
-msgstr ""
+msgstr "Overenie detailov"
 
 #: ui_admin.checkins
 msgctxt "ui_admin.checkins"
 msgid "Checkins"
-msgstr ""
+msgstr "Overenia"
 
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr ""
+msgstr "Mestá načítané"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
 msgid "code"
-msgstr ""
+msgstr "kód"
 
 #: ui_admin.code_out_of_sync
 msgctxt "ui_admin.code_out_of_sync"
 msgid "Code version out of sync."
-msgstr ""
+msgstr "Verzia kódu je neaktuálna"
 
 #: ui_admin.color
 msgctxt "ui_admin.color"
 msgid "Color"
-msgstr ""
+msgstr "Farba"
 
 #: ui_admin.comments
 msgctxt "ui_admin.comments"
 msgid "Comments"
-msgstr ""
+msgstr "Komentáre"
 
 #: ui_admin.confirmation_code
 msgctxt "ui_admin.confirmation_code"
 msgid "Your alerts confirmation code is: "
-msgstr ""
+msgstr "Váš potvrdzovací kód upozornení je:"
 
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr ""
+msgstr "Uživateľ bol"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "Počítať"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "Krajina nenájdená"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
 msgid "created/edited"
-msgstr ""
+msgstr "vytvorené/zmenené"
 
 #: ui_admin.create_report
 msgctxt "ui_admin.create_report"
 msgid "Create a Report"
-msgstr ""
+msgstr "Vytvoriť udalosť"
 
 #: ui_admin.critical_upgrade
 msgctxt "ui_admin.critical_upgrade"
 msgid "Critical Upgrade"
-msgstr ""
+msgstr "Kritický upgrade"
 
 #: ui_admin.csv
 msgctxt "ui_admin.csv"
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: ui_admin.currently_active
 msgctxt "ui_admin.currently_active"
 msgid "Currently Active"
-msgstr ""
+msgstr "Momentálne aktívny"
 
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "Momentálne neaktívny"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr ""
+msgstr "Nemáte dostatočné oprávnenia pre úpravu nasledujúcich polí."
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "Denne"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr ""
+msgstr "Palubovka"
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
 msgid "database"
-msgstr ""
+msgstr "databáza"
 
 #: ui_admin.date_time
 msgctxt "ui_admin.date_time"
 msgid "Date & Time"
-msgstr ""
+msgstr "Dátum a čas"
 
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
@@ -368,67 +369,67 @@ msgstr ""
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "Dni v týždni"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
 msgid "DB version out of sync."
-msgstr ""
+msgstr "DB verzia nie je aktuálna"
 
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr ""
+msgstr "vymazané"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
 msgid "Delete"
-msgstr ""
+msgstr "Vymazať"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
-msgid "Delete All"
+msgid "Delete all reports"
 msgstr ""
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr ""
+msgstr "Vymazať znak"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_admin.description
 msgctxt "ui_admin.description"
 msgid "Description"
-msgstr ""
+msgstr "Popis"
 
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr ""
+msgstr "Zablokované"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
 msgid "Divider Start"
-msgstr ""
+msgstr "Začiatok oddelovača"
 
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr ""
+msgstr "Koniec oddelovača"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
 msgid "div class"
-msgstr ""
+msgstr "div class"
 
 #: ui_admin.download_reports
 msgctxt "ui_admin.download_reports"
 msgid "Download Reports"
-msgstr ""
+msgstr "Stiahnuť udalosti"
 
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
@@ -438,32 +439,32 @@ msgstr ""
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr ""
+msgstr "UPRAVENÉ"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
 msgid "Edited By"
-msgstr ""
+msgstr "Upravené"
 
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "Upraviť"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr ""
+msgstr "Upraviť výpis"
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: ui_admin.entire_collective
 msgctxt "ui_admin.entire_collective"
 msgid "Entire Collective"
-msgstr ""
+msgstr "Kolektívny celok"
 
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
@@ -473,7 +474,7 @@ msgstr ""
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
 msgid "IMAP PHP Library is not installed"
-msgstr ""
+msgstr "Knižnica IMAP PHP nie je nainštalovaná"
 
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
@@ -483,32 +484,32 @@ msgstr ""
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr ""
+msgstr "Chyba"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr ""
+msgstr "Chyba, nie je možné uverejniť incident"
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
 msgid "Every Six Hours"
-msgstr ""
+msgstr "Každých šesť hodín"
 
 #: ui_admin.every_twelve_hours
 msgctxt "ui_admin.every_twelve_hours"
 msgid "Every Twelve Hours"
-msgstr ""
+msgstr "Každých dvanásť hodín"
 
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimentálny"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
 msgid "FAQ's"
-msgstr ""
+msgstr "FAQ"
 
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
@@ -518,7 +519,7 @@ msgstr ""
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
 msgid "Feedback"
-msgstr ""
+msgstr "Spätná väzba"
 
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
@@ -528,52 +529,52 @@ msgstr ""
 #: ui_admin.field_choices
 msgctxt "ui_admin.field_choices"
 msgid "List of Choices"
-msgstr ""
+msgstr "Zoznam rozhodnutí"
 
 #: ui_admin.field_default
 msgctxt "ui_admin.field_default"
 msgid "Default Value"
-msgstr ""
+msgstr "Pôvodná hodnota"
 
 #: ui_admin.field_datatype
 msgctxt "ui_admin.field_datatype"
 msgid "Data Type"
-msgstr ""
+msgstr "Typ dát"
 
 #: ui_admin.field_datatype_javascript
 msgctxt "ui_admin.field_datatype_javascript"
 msgid "Javascript"
-msgstr ""
+msgstr "Javascript"
 
 #: ui_admin.field_datatype_markup
 msgctxt "ui_admin.field_datatype_markup"
 msgid "Markup"
-msgstr ""
+msgstr "Značky"
 
 #: ui_admin.field_datatype_numeric
 msgctxt "ui_admin.field_datatype_numeric"
 msgid "Numeric"
-msgstr ""
+msgstr "Číselná"
 
 #: ui_admin.field_datatype_text
 msgctxt "ui_admin.field_datatype_text"
 msgid "Free Text"
-msgstr ""
+msgstr "Ľubovoľný text"
 
 #: ui_admin.field_height
 msgctxt "ui_admin.field_height"
 msgid "Height (In Rows)"
-msgstr ""
+msgstr "Výška (v riadkoch)"
 
 #: ui_admin.field_hidden
 msgctxt "ui_admin.field_hidden"
 msgid "Hidden Field"
-msgstr ""
+msgstr "Skryté pole"
 
 #: ui_admin.field_maxlength
 msgctxt "ui_admin.field_maxlength"
 msgid "Maximum Character Length"
-msgstr ""
+msgstr "Maximálna dĺžka znakov"
 
 #: ui_admin.field_name
 msgctxt "ui_admin.field_name"
@@ -1611,4 +1612,46 @@ msgstr ""
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
+msgstr ""
+
+#: ui_admin.delete_all_instructions
+msgctxt "ui_admin.delete_all_instructions"
+msgid ""
+"Clicking the button below will delete ALL reports on the database. You "
+"should use this with caution as this operation cannot be undone."
+msgstr ""
+
+#: ui_admin.delete_all_backup
+msgctxt "ui_admin.delete_all_backup"
+msgid "We recommend you backup your database before proceeding"
+msgstr ""
+
+#: ui_admin.delete_all_button
+msgctxt "ui_admin.delete_all_button"
+msgid "I'm sure I want to delete all %s report(s) from the database."
+msgstr ""
+
+#: ui_admin.delete_all_confirm
+msgctxt "ui_admin.delete_all_confirm"
+msgid "Are you sure you want to delete all reports?"
+msgstr ""
+
+#: ui_admin.delete_all_no_reports
+msgctxt "ui_admin.delete_all_no_reports"
+msgid "There are no reports to be deleted."
+msgstr ""
+
+#: ui_admin.user_no_logins
+msgctxt "ui_admin.user_no_logins"
+msgid "Number of logins"
+msgstr ""
+
+#: ui_admin.user_last_login
+msgctxt "ui_admin.user_last_login"
+msgid "Last login"
+msgstr ""
+
+#: ui_admin.user_confirmed_account
+msgctxt "ui_admin.user_confirmed_account"
+msgid "Confirmed account?"
 msgstr ""

@@ -1,14 +1,15 @@
 # 
 # Translators:
+# Krillz <krystian.hoffman@gmail.com>, 2013
 # T68 <tlindstrom68@gmail.com>, 2013
 # T68 <tlindstrom68@gmail.com>, 2012-2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-16 06:15+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"POT-Creation-Date: 2013-09-04 06:26+0000\n"
+"PO-Revision-Date: 2013-12-03 22:56+0000\n"
+"Last-Translator: Krillz <krystian.hoffman@gmail.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/ushahidi-localizations/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -110,7 +111,7 @@ msgstr "L&auml;gg till &ouml;vers&auml;ttning"
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr ""
+msgstr "Administration"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
@@ -150,7 +151,7 @@ msgstr "H&auml;mta meddelanden"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "Underrättelse har skickats"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -194,7 +195,7 @@ msgstr "<strong>Steg 2:</strong> Skicka meddelande till min:"
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr ""
+msgstr "<strong>Steg 3 (Frivilligt):</strong> Välj Kategorier"
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
@@ -219,12 +220,12 @@ msgstr "Till&aring;ten"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Tillåtna HTML taggar: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "Iframes är endast tillåtna från: %s."
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -244,7 +245,7 @@ msgstr "och"
 #: ui_main.api
 msgctxt "ui_main.api"
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: ui_main.approve
 msgctxt "ui_main.approve"
@@ -299,12 +300,12 @@ msgstr "Skribent"
 #: ui_main.auto_checkin
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
-msgstr ""
+msgstr "Automatisk Incheckning"
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr ""
+msgstr "Rapporter Per Dag i Genomsnitt"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -319,32 +320,32 @@ msgstr "V&auml;ntar p&aring verifiering"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "Emblem"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "Emblem"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "Emblembild"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "Eller så kan du istället ladda upp din egna emblembild"
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "Emblempack"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "Välj Emblem"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -354,7 +355,7 @@ msgstr "Blogg"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "Bläddra Bland Profiler"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -389,17 +390,17 @@ msgstr "Kategorinamn"
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr ""
+msgstr "Ändra Datumsintervall"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
 msgid "Change Password"
-msgstr ""
+msgstr "Ändra Lösenord"
 
 #: ui_main.change_picture
 msgctxt "ui_main.change_picture"
 msgid "Change My Picture"
-msgstr ""
+msgstr "Ändra Min Bild"
 
 #: ui_main.choose
 msgctxt "ui_main.choose"
@@ -424,7 +425,7 @@ msgstr "V&auml;lj f&auml;lttyp"
 #: ui_main.cleanurl
 msgctxt "ui_main.cleanurl"
 msgid "Clean URLs"
-msgstr ""
+msgstr "Rena URL:er "
 
 #: ui_main.clear
 msgctxt "ui_main.clear"
@@ -480,13 +481,20 @@ msgstr "Konfigurera"
 msgctxt "ui_main.confirm_email_successful"
 msgid ""
 "You have successfully confirmed your email address! Please login below."
-msgstr ""
+msgstr "Du har framgångsrikt bekräftat din e-postsadress! Logga in nedanför."
+
+#: ui_main.confirm_email_successful_and_approval
+msgctxt "ui_main.confirm_email_successful_and_approval"
+msgid ""
+"You have successfully confirmed your email address! An administrator must "
+"approve your account before you login"
+msgstr "Du har framgångsrikt bekräftat din e-postadress! En administratör måste godkänna ditt konto innan du loggar in"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "E-post bekräftelse misslyckades! Du kan begära en ny e-post bekräftelse nedanför."
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -496,7 +504,7 @@ msgstr "Kontakta oss"
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
 msgid "Security Code"
-msgstr ""
+msgstr "Säkerhetskod"
 
 #: ui_main.contact_email
 msgctxt "ui_main.contact_email"
@@ -511,7 +519,7 @@ msgstr "Meddelande"
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr ""
+msgstr "Ditt Meddelande Har Skickats!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
@@ -531,7 +539,7 @@ msgstr "Sänd meddelande"
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr ""
+msgstr "Meddelandets Ämne"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
@@ -556,7 +564,7 @@ msgstr "Skapa ny"
 #: ui_main.create_new_password
 msgctxt "ui_main.create_new_password"
 msgid "Create New Password"
-msgstr ""
+msgstr "Skapa Nytt Lösenord"
 
 #: ui_main.create_report
 msgctxt "ui_main.create_report"
@@ -571,7 +579,7 @@ msgstr "Trov&auml;rdighet"
 #: ui_main.current_password
 msgctxt "ui_main.current_password"
 msgid "Current Password"
-msgstr ""
+msgstr "Nuvarande Lösenord"
 
 #: ui_main.custom_fields
 msgctxt "ui_main.custom_fields"
@@ -581,7 +589,7 @@ msgstr "Anpassade fält"
 #: ui_main.data
 msgctxt "ui_main.data"
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: ui_main.date
 msgctxt "ui_main.date"
@@ -591,7 +599,7 @@ msgstr "Datum"
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
 msgid "(mm/dd/yyyy)"
-msgstr ""
+msgstr "(mm/dd/åååå)"
 
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
@@ -656,7 +664,7 @@ msgstr "Ta bort spam"
 #: ui_main.demo
 msgctxt "ui_main.demo"
 msgid "Demo"
-msgstr ""
+msgstr "Demo"
 
 #: ui_main.description
 msgctxt "ui_main.description"
@@ -843,7 +851,7 @@ msgstr "Länk till video (youtube, Vimeo osv)"
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -858,9 +866,9 @@ msgstr "Ge feedback"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid ""
-"Please give us feedback about your experience by clicking on the button "
-"below."
-msgstr "Ge oss g&auml;rna feedback om vad du tycker om sajten genom att klicka p&aring knappen nedan."
+"Please give us feedback about your experience by sending an email to "
+"info@ushahidi.com."
+msgstr "Vi ber dig skicka återkoppling om din upplevelse, skicka e-post till info@ushahidi.com."
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -940,7 +948,7 @@ msgstr "F&ouml;rnamn"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "Schemaläggare för Tvingade Körningar"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -1005,22 +1013,22 @@ msgstr "Kommentarer"
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr ""
+msgstr "Etikett"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "Penseltjocklek"
 
 #: ui_main.go
 msgctxt "ui_main.go"
 msgid "Go"
-msgstr ""
+msgstr "Gå"
 
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "Hashtag"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
@@ -1035,7 +1043,7 @@ msgstr "Hur hj&auml;lper man"
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr ""
+msgstr "Gömd"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
@@ -1060,17 +1068,17 @@ msgstr "Hur rapporterar man"
 #: ui_main.https
 msgctxt "ui_main.https"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "Används för att identifiera dig på sidan för andra användare."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1090,17 +1098,17 @@ msgstr "Bild/Ikon"
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr ""
+msgstr "Inaktiv"
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "Brevlåda"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
 msgid "Incident"
-msgstr ""
+msgstr "Incident"
 
 #: ui_main.incidents_nearby
 msgctxt "ui_main.incidents_nearby"
@@ -1125,7 +1133,7 @@ msgstr "Inkludera kategorier"
 #: ui_main.include_custom_fields
 msgctxt "ui_main.include_custom_fields"
 msgid "Include Custom Fields"
-msgstr ""
+msgstr "Inkludera skräddarsydda fält"
 
 #: ui_main.include_description
 msgctxt "ui_main.include_description"
@@ -1177,7 +1185,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "Ditt konto har inte behörighet för att logga in. Var god kontakta administratören."
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1192,7 +1200,7 @@ msgstr "IP Adress"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "Är detta din profil?"
 
 #: ui_main.item
 msgctxt "ui_main.item"
@@ -1237,12 +1245,12 @@ msgstr "Ladda upp KMZ/KML Fil"
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
@@ -1307,7 +1315,7 @@ msgstr "Skriv en kommentar"
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "Mindre Information"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1337,12 +1345,12 @@ msgstr "L&auml;nk"
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "Laddar Rapporter"
 
 #: ui_main.location
 msgctxt "ui_main.location"
@@ -1367,65 +1375,96 @@ msgstr "Logga in"
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
 msgid "Account created successfully. You may log in now."
-msgstr ""
+msgstr "Kontot har framgångsrikt skapats. Du kan nu logga in."
 
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "En bekräftelse har skickats till din e-postadress."
+
+#: ui_main.login_approval_required
+msgctxt "ui_main.login_approval_required"
+msgid ""
+"Account created. Your account must be approved by an admin before you can "
+"login."
+msgstr "Konton skapat. Ditt konto måste godkännas av en administratör innan du kan logga in."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "E-postadressen existerar inte. Prova en annan adress eller skapa ett konto."
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "Var god tryck på din kontoleverantör"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "Logga in med"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "E-post och Lösenord"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "OpenID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "Registrera"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "Skapa ett Konto"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Tack för att du registrerade dig på %1$s. För att bekräfta din e-postadress, var god och tryck här: %2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "Registreringsbekräftelse"
+
+#: ui_main.login_signup_admin_approval_message
+msgctxt "ui_main.login_signup_admin_approval_message"
+msgid ""
+"An new user has signed up at %1$s. To approve their registration please go "
+"to the following URL: %2$s"
+msgstr "En ny användare registrerade på %1$s. För att godkänna registreringen, tryck här %2$s"
+
+#: ui_main.login_signup_admin_approval_subject
+msgctxt "ui_main.login_signup_admin_approval_subject"
+msgid "New User Approval"
+msgstr "Godkännande av nya Användare"
+
+#: ui_main.login_signup_approval_message
+msgctxt "ui_main.login_signup_approval_message"
+msgid ""
+"Your user account has been approved for %1$s. To login go to the following "
+"URL: %2$s"
+msgstr "Ditt användarkonto på %1$s har godkänts. För att logga in, tryck här %2$s"
+
+#: ui_main.login_signup_approval_subject
+msgctxt "ui_main.login_signup_approval_subject"
+msgid "User account approved"
+msgstr "Ditt konto har godkänts"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Skapa ett konto för att ta del utav fler funktioner på sidan."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1450,12 +1489,12 @@ msgstr "Markera som ol&auml;st"
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "Maximal filstorlek"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "Media"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
@@ -1465,12 +1504,12 @@ msgstr "Mediafilter"
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "Medlemmar"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "Hantera Ditt Konto"
 
 #: ui_main.message
 msgctxt "ui_main.message"
@@ -1490,12 +1529,12 @@ msgstr "Meddelandedetaljer"
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "Meddelande från en icke-numerisk källa:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobil"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
@@ -1510,7 +1549,7 @@ msgstr "&Auml;ndra datum"
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr ""
+msgstr "månad"
 
 #: ui_main.more
 msgctxt "ui_main.more"
@@ -1520,7 +1559,7 @@ msgstr "Mer"
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "Mer Information"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
@@ -1532,7 +1571,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "Du måste bekräfta din e-postadress för att få tillträde. Om ditt bekräftelsemejl har försvunnit, kan du begära ett nytt nedanför. "
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1542,7 +1581,7 @@ msgstr "Namn"
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "Närliggande Rapport"
 
 #: ui_main.new
 msgctxt "ui_main.new"
@@ -1592,17 +1631,17 @@ msgstr "Nej"
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "Inga incheckningar att visa"
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "Ingen data"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1622,7 +1661,7 @@ msgstr "Inte godk&auml;nd"
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---Inget Valt---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -1632,7 +1671,7 @@ msgstr "inte_spam"
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "Inte Specificierat"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
@@ -1722,7 +1761,7 @@ msgstr "Organisation Hemsida"
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
@@ -1797,7 +1836,7 @@ msgstr "Skriv l&ouml;senordet igen"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr ""
+msgstr "Lösenordet bytades framgångsrikt! Logga in nedanför."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
@@ -1832,7 +1871,7 @@ msgstr "Avvaktande"
 #: ui_main.per
 msgctxt "ui_main.per"
 msgid "per"
-msgstr ""
+msgstr "per"
 
 #: ui_main.personal_information
 msgctxt "ui_main.personal_information"
@@ -1847,7 +1886,7 @@ msgstr "Telefon"
 #: ui_main.photos
 msgctxt "ui_main.photos"
 msgid "Photos"
-msgstr ""
+msgstr "Foton"
 
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
@@ -1880,22 +1919,22 @@ msgstr "Observera"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Bilder"
+msgstr "Tillägg"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "Sida med Tillägg"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "Publik Profil"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "Publik Profil URL"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1925,7 +1964,7 @@ msgstr "Visas ej"
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "Profilfärg"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
@@ -1975,7 +2014,7 @@ msgstr "Uppdatera nyhetsfl&ouml;de"
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
 msgid "Registered Email"
-msgstr ""
+msgstr "Registrerad E-postadress"
 
 #: ui_main.remove
 msgctxt "ui_main.remove"
@@ -2070,7 +2109,7 @@ msgstr "Skicka"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "Rapporter Från Denna Användare"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
@@ -2080,7 +2119,7 @@ msgstr "Kategorisera"
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d Rapporter"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2105,7 +2144,7 @@ msgstr "E-post"
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr ""
+msgstr "Funktioner"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
@@ -2242,7 +2281,7 @@ msgstr "Efterfr&aring;ga plats"
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "Nödvändig"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
@@ -2252,7 +2291,7 @@ msgstr "Krav"
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
 msgid "Resend Confirmation Email"
-msgstr ""
+msgstr "Skicka om E-post Bekräftelse"
 
 #: ui_main.reset
 msgctxt "ui_main.reset"
@@ -2277,24 +2316,24 @@ msgstr "H&auml;mta st&auml;der f&ouml;r valt land"
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "Hanterade konton av %s tjänsten."
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "Du har redan ett konto som hanteras av CrowdmapID! Försök använda din CrowdmapID e-postadress och ditt lösenord för att logga in."
 
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr ""
+msgstr "Roll"
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
@@ -2344,7 +2383,7 @@ msgstr "Timme"
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr ""
+msgstr "Schemarläggarlogg"
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
@@ -2524,12 +2563,12 @@ msgstr "Mindre karta"
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "Tyvärr har du inga emblem."
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2559,7 +2598,7 @@ msgstr "K&auml;llans URL"
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr ""
+msgstr "Spam"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
@@ -2584,7 +2623,7 @@ msgstr "Skicka in en rapport"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "Skickat av <strong>%1$s</strong> via <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2619,12 +2658,12 @@ msgstr "Efternamn"
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "Undersökning"
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
@@ -2679,7 +2718,7 @@ msgstr "Detta &aringr"
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "Detta är din profil."
 
 #: ui_main.time
 msgctxt "ui_main.time"
@@ -2709,7 +2748,7 @@ msgstr "Idag klockan"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "Pollett"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2754,12 +2793,12 @@ msgstr "Pålitlig"
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
@@ -2794,17 +2833,17 @@ msgstr "Ladda upp"
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "Se våra riktlinjer för rapportuppladdning:- "
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "Uppladdningsguide  XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "Uppladdningsguide CSV"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
@@ -2822,7 +2861,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "Skräddarsydda fältkolumner måste ha deras form_id infogade t.ex. fältet Test, på standard formuläret, vars ID är 1, kommer blir Test-1. Under importering av skräddarsydda fält, se till att"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2833,14 +2872,14 @@ msgstr "Med formul&auml;ret nedan, kan du importera h&auml;ndelser till Ushahidi
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "Rapporten måste laddas up i antingen CSV eller XML format."
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "När incident ID redan existerar i databasen kommer noteringen i CSV/XML filen att ignoreras."
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2859,21 +2898,21 @@ msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "Om ytterligare information ska importeras t.ex personlig information och/eller skräddarsydda formulärfält"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "Åtminstone ett av fälten för personlig information(namn, efternamn, e-post) MÅSTE existera. Tomma protokoll kommer inte att importeras"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "Din indata för formulärfälten stämmer överens med de konfigurationsval givna för denna instansen. "
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2881,14 +2920,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "Valen för kryssruta separeras med ett kommatecken t.ex. om dina val för frukter är äpplen,mongon och vindruvor, så ska du skriva \"äpplen,mangon,vindruvor\"  "
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "Värden för datumfälten har följande format: mm/dd/åååå t.ex. 3:e Oktober 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2926,7 +2965,7 @@ msgstr "Ladda upp video"
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
@@ -2941,7 +2980,7 @@ msgstr "Anv&auml;ndarnamn"
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr ""
+msgstr "Ushahidi Administratör"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
@@ -2971,17 +3010,17 @@ msgstr "Verifiera denna rapport"
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr ""
+msgstr "via"
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 #: ui_main.view
 msgctxt "ui_main.view"
@@ -3021,7 +3060,7 @@ msgstr "Visa fler"
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "Se Publik Profil"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
@@ -3036,7 +3075,7 @@ msgstr "Visa rapporter"
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "Se Video"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
@@ -3061,12 +3100,12 @@ msgstr "Bredare karta"
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "Webb Formulär"
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "Webb"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"

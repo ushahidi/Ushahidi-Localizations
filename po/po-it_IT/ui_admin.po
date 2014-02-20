@@ -2,15 +2,16 @@
 # Translators:
 # dauriabros <dau.avatar@gmail.com>, 2012
 # davidebeatrici <davidebeatrici@gmail.com>, 2013
+# PeppeMessoMalex <giuseppe.murabito@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2012
 # Tony Goodyear <fswitch20@hotmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-25 18:30+0000\n"
-"Last-Translator: davidebeatrici <davidebeatrici@gmail.com>\n"
+"POT-Creation-Date: 2013-09-11 06:22+0000\n"
+"PO-Revision-Date: 2013-11-02 12:39+0000\n"
+"Last-Translator: PeppeMessoMalex <giuseppe.murabito@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -391,8 +392,8 @@ msgstr "Cancella"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
-msgid "Delete All"
-msgstr "Cancella tutti"
+msgid "Delete all reports"
+msgstr "Cancella tutti i rapporti"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -1616,3 +1617,45 @@ msgstr "Sì"
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
 msgstr "La tua ricerca per"
+
+#: ui_admin.delete_all_instructions
+msgctxt "ui_admin.delete_all_instructions"
+msgid ""
+"Clicking the button below will delete ALL reports on the database. You "
+"should use this with caution as this operation cannot be undone."
+msgstr "Facendo clic sul pulsante qui sotto eliminerete TUTTI i rapporti sul database. Si consiglia procedere con cautela in quanto questa operazione non potrà essere annullata."
+
+#: ui_admin.delete_all_backup
+msgctxt "ui_admin.delete_all_backup"
+msgid "We recommend you backup your database before proceeding"
+msgstr "Si consiglia un backup del database prima di procedere"
+
+#: ui_admin.delete_all_button
+msgctxt "ui_admin.delete_all_button"
+msgid "I'm sure I want to delete all %s report(s) from the database."
+msgstr "Sono sicuro di voler cancellare %s rapporto(i) dal database."
+
+#: ui_admin.delete_all_confirm
+msgctxt "ui_admin.delete_all_confirm"
+msgid "Are you sure you want to delete all reports?"
+msgstr "Sei sicuro di voler eliminare tutti i rapporti?"
+
+#: ui_admin.delete_all_no_reports
+msgctxt "ui_admin.delete_all_no_reports"
+msgid "There are no reports to be deleted."
+msgstr "Non ci sono rapporti da cancellare."
+
+#: ui_admin.user_no_logins
+msgctxt "ui_admin.user_no_logins"
+msgid "Number of logins"
+msgstr "Numero di accessi"
+
+#: ui_admin.user_last_login
+msgctxt "ui_admin.user_last_login"
+msgid "Last login"
+msgstr "Ultimo accesso"
+
+#: ui_admin.user_confirmed_account
+msgctxt "ui_admin.user_confirmed_account"
+msgid "Confirmed account?"
+msgstr "Account confermato?"

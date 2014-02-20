@@ -1,12 +1,13 @@
 # 
 # Translators:
+# k_tanabe <tanatakax@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-08-22 06:26+0000\n"
-"PO-Revision-Date: 2013-08-22 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2013-10-24 12:14+0000\n"
+"Last-Translator: k_tanabe <tanatakax@gmail.com>\n"
 "Language-Team: Japanese (Japan) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ja_JP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,52 +26,52 @@ msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "複数の国にまたがるレポートを扱うことはできません。レポートで扱っている場所が%sの国内であるか、確認して下さい。"
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for the \"%s\" field."
-msgstr ""
+msgstr "\"%s\"欄に正しい形式のデータを入力してください。"
 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"
 msgid "The \"%s\" field must be numeric."
-msgstr ""
+msgstr "\"%s\"欄は数値でなければなりません。"
 
 #: report.custom_field.required
 msgctxt "report.custom_field.required"
 msgid "The \"%s\" field is required."
-msgstr ""
+msgstr "\"%s\"は必須項目です。"
 
 #: report.custom_field.not_exist
 msgctxt "report.custom_field.not_exist"
 msgid "The \"%s\" field is does not exist."
-msgstr ""
+msgstr "\"%s\"欄は存在しません。"
 
 #: report.custom_field.permission
 msgctxt "report.custom_field.permission"
 msgid "The \"%s\" field cannot be edited by your account."
-msgstr ""
+msgstr "あなたには\"%s\"を編集する権限はありません。"
 
 #: report.custom_field.email
 msgctxt "report.custom_field.email"
 msgid "The \"%s\" field must contain a valid email address."
-msgstr ""
+msgstr "\"%s\"欄には正しい形式のメールアドレスを入力する必要があります。"
 
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr ""
+msgstr "\"%s\"欄には正しい形式の電話番号を入力する必要があります。"
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
 msgid "The \"%s\" field must contain a valid date (MM/DD/YYYY)."
-msgstr ""
+msgstr "\"%s\"欄には正しい形式の日付を入力する必要があります。(月2桁/日2桁/年4桁)"
 
 #: report.custom_field.date_ddmmyyyy
 msgctxt "report.custom_field.date_ddmmyyyy"
 msgid "The \"%s\" field must contain a valid date (DD/MM/YYYY)."
-msgstr ""
+msgstr "\"%s\"欄には正しい形式の日付を入力する必要があります。(日2桁/月2桁/年4桁)"
 
 #: report.data_include.between
 msgctxt "report.data_include.between"
