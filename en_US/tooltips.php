@@ -45,6 +45,7 @@ $lang = array(
 	'settings_allow_clustering' => 'This allows bundling of similar reports into a single dot on the map',
 	'settings_allow_comments' => 'Allow users to comment on reports on the main site.',
 	'settings_allow_feed' => 'This allows RSS News feeds to be displayed on the main site.',
+	'settings_allow_feed_category' => 'This allows creating new Category from RSS News feeds.',
 	'settings_allow_reports' => 'Allow users to submit information via the web form.',
 	'settings_api_default_record_limit' => 'Default number of records to be fetched per API request',
 	'settings_api_max_record_limit' => 'Maximum number of records to be fetched per API request',

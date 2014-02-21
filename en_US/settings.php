@@ -8,6 +8,10 @@ $lang = array(
 		'between' => 'The include feed field does not appear to contain a valid value.',
 		'required' => 'The include feed field is required.',
 	) ,
+	'allow_feed_category' => array(
+		'between' => 'The include feed category field does not appear to contain a valid value.',
+		'required' => 'The include feed category field is required.',
+	) ,
 	'allow_alerts' => array(
 		'between' => 'The allow alerts field does not appear to contain a valid value.',
 		'required' => 'The allow alerts field is required.',
@@ -133,6 +137,7 @@ $lang = array(
 		'allow_clustering' => 'Cluster Reports on Map',
 		'allow_comments' => 'Allow Users to Submit Comments to Reports',
 		'allow_feed' => 'Include RSS News Feed on Website',
+		'allow_feed_category' => 'Create New Category from Feeds',
 		'allow_alerts' => 'Allow Users To Subscribe For Alerts',
 		'allow_reports' => 'Allow Users To Submit Reports',
 		'api_akismet' => 'Akismet Key',
