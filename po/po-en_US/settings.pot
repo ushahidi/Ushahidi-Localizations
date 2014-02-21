@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi-Localizations\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,6 +29,16 @@ msgstr ""
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
+msgstr ""
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid "The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
 msgstr ""
 
 #: settings.allow_alerts.between
@@ -404,6 +414,11 @@ msgstr ""
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
+msgstr ""
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
 msgstr ""
 
 #: settings.site.allow_alerts
