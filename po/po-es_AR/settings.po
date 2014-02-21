@@ -1,14 +1,15 @@
 # 
 # Translators:
 # audreylingstuyl <audreylingstuyl@gmail.com>, 2012
+# Juan Ignacio Lacueva <juanignacio@gmail.com>, 2014
 # juliabis, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-26 02:39+0000\n"
-"Last-Translator: juliabis\n"
+"PO-Revision-Date: 2014-02-20 07:37+0000\n"
+"Last-Translator: Juan Ignacio Lacueva <juanignacio@gmail.com>\n"
 "Language-Team: Spanish (Argentina) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_AR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -804,14 +805,14 @@ msgstr "El campo teléfono 3 debe contener sólo números."
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Opciones de configuración de Twitter"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Para obtener la información a continuación, configura el sitio como una nueva aplicación de Twitter en"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
@@ -821,19 +822,19 @@ msgstr ""
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "Llave de seguridad"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Token de acceso"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Clave de Token de Acceso"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Probar la configuración"
