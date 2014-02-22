@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-12-27 17:22+0000\n"
-"Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 06:21+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,6 +35,17 @@ msgstr "O campo de incluir a fonte não parece conter um valor válido."
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "É necessário o campo de incluir a fonte."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr ""
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -441,6 +452,11 @@ msgstr "Permitir que os Utilizadores Submetam os Comentários para os Relatório
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "Incluir Fonte de Notícias RSS no Site da Web"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr ""
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

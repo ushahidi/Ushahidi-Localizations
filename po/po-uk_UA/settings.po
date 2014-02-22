@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-06-28 18:10+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 10:24+0000\n"
 "Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,17 @@ msgstr "Поле про RSS-стрічку заповнене невірно"
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "Поле про RSS-стрічку має бути заповнене."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr "Поле категорії RSS-стрічки заповнене невірно"
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr "Поле категорії стрічки є обов'язковим."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -441,6 +452,11 @@ msgstr "Дозволити користувачам відправляти ко�
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "Включити стрічку новин RSS на головній сторінці сайта"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr "Створити Нову категорію з каналів"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

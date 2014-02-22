@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 06:21+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Georgian (Georgia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ka_GE/)\n"
 "MIME-Version: 1.0\n"
@@ -34,6 +34,17 @@ msgstr "მომცველ ველს არ აქვს მართე�
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "მომცველი ველის არსებობა აუცილებელია."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr ""
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -440,6 +451,11 @@ msgstr "ნება დართეთ მომხმარებლებს 
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "დაურთეთ RSS სიახლეების ველი ვებ გვერდს"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr ""
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

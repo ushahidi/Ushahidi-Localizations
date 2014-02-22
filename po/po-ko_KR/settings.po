@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 06:21+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Korean (Korea) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ko_KR/)\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,17 @@ msgstr "Feed 란 내용이 유효하지 않습니다."
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "Feed 항목 입력은 필수입니다."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr ""
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -441,6 +452,11 @@ msgstr "사용자 코멘트 활성화"
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "RSS 뉴스피드 표시 활성화"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr ""
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

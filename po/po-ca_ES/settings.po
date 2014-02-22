@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-04-17 06:07+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 06:21+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Catalan (Spain) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ca_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,17 @@ msgstr "El camp Incloure Feed no sembla tenir un valor vàlid"
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "El camp Incloure Feed és obligatori."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr ""
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -441,6 +452,11 @@ msgstr "Permetre als Usuaris Enviar Comentaris als Informes Reportats"
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "Incloure Feed RSS de Notícies al Website"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr ""
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

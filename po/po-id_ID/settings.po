@@ -1,12 +1,12 @@
 # 
 # Translators:
-# suwandiahmad <ahmad.suwandi@gmail.com>, 2013
+# suwandiahmad <ahmad.suwandi@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2013-10-29 12:59+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 11:25+0000\n"
 "Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -35,6 +35,17 @@ msgstr "Isian umpan tidak akan ditampilkan apabila tidak benar cara penulisannya
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "Isian umpan harus diisi."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr "Kolom isian kategori feed tidak benar."
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr "Kolom isian kategori feed harus diisi."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -441,6 +452,11 @@ msgstr "Ijinkan Pengguna untuk Berkomentar dalam Laporan"
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "Termasuk Umpan Berita RSS di Situs"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr "Membuat Kategori Baru danri Feeds"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

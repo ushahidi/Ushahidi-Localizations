@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2014-02-14 11:09+0000\n"
-"Last-Translator: CedricMoro <cedric.moro@i-resilience.fr>\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 06:21+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: French (France) (http://www.transifex.com/projects/p/ushahidi-localizations/language/fr_FR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -38,6 +38,17 @@ msgstr "Le champ de retours ne contient pas de valeur valide."
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
 msgstr "Le champs de retour inclus est nécessaire."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
+msgstr ""
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -444,6 +455,11 @@ msgstr "Autoriser les utilisateurs a formuler des commentaires aux rapports"
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "Inclure les News en flux RSS sur le site web"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr ""
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"

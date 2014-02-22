@@ -1,12 +1,12 @@
 # 
 # Translators:
-# Андрій Бандура <andriykopanytsia@gmail.com>, 2013
+# Андрій Бандура <andriykopanytsia@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-06-29 16:34+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 10:22+0000\n"
 "Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
@@ -314,6 +314,11 @@ msgstr "Дозволити користувачам коментувати по�
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
 msgstr "Дозволяє додавання стрічки новий RSS на головній сторінці."
+
+#: tooltips.settings_allow_feed_category
+msgctxt "tooltips.settings_allow_feed_category"
+msgid "This allows creating new Category from RSS News feeds."
+msgstr "Це дозволяє створити нову категорію із каналів новин RSS."
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"

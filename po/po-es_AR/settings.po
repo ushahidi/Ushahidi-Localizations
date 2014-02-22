@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2013-04-17 06:05+0000\n"
-"PO-Revision-Date: 2014-02-20 07:37+0000\n"
+"POT-Creation-Date: 2014-02-21 06:26+0000\n"
+"PO-Revision-Date: 2014-02-21 21:03+0000\n"
 "Last-Translator: Juan Ignacio Lacueva <juanignacio@gmail.com>\n"
 "Language-Team: Spanish (Argentina) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_AR/)\n"
 "MIME-Version: 1.0\n"
@@ -36,6 +36,17 @@ msgstr "El campo incluir feed no contiene un valor válido?"
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
+msgstr "El campo incluir feed es obligatorio."
+
+#: settings.allow_feed_category.between
+msgctxt "settings.allow_feed_category.between"
+msgid ""
+"The include feed category field does not appear to contain a valid value."
+msgstr ""
+
+#: settings.allow_feed_category.required
+msgctxt "settings.allow_feed_category.required"
+msgid "The include feed category field is required."
 msgstr "El campo incluir feed es obligatorio."
 
 #: settings.allow_alerts.between
@@ -108,7 +119,7 @@ msgstr "Por favor, asegúrese de que el tamaño de la imagen del banner es menor
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "El campo \"imagen de banner\" no contiene un archivo válido."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -443,6 +454,11 @@ msgstr "Cualquiera puede agregar información a los reportes"
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
 msgstr "Incluir noticias?"
+
+#: settings.site.allow_feed_category
+msgctxt "settings.site.allow_feed_category"
+msgid "Create New Category from Feeds"
+msgstr "Crear nueva Categoría desde feeds"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
