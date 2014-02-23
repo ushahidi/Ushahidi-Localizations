@@ -1,12 +1,13 @@
 # 
 # Translators:
+# johnarupire <jarjacha@riseup.net>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-02-22 22:18+0000\n"
+"Last-Translator: johnarupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -74,7 +75,7 @@ msgstr ""
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr ""
+msgstr "El campo compartir estadísticas es obligatorio"
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -159,12 +160,12 @@ msgstr ""
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Permitir URLs limpias"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "URLs limpias"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
@@ -201,7 +202,7 @@ msgstr ""
 #: settings.configure_map
 msgctxt "settings.configure_map"
 msgid "Configure Map"
-msgstr ""
+msgstr "Configurar mapa"
 
 #: settings.default_location
 msgctxt "settings.default_location"
@@ -221,7 +222,7 @@ msgstr ""
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "El campo color es obligatorio."
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
@@ -312,7 +313,7 @@ msgstr ""
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
 msgid "Facebook App ID"
-msgstr ""
+msgstr "Facebook App ID"
 
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
@@ -329,7 +330,7 @@ msgstr ""
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
 msgid "Enable HTTPS"
-msgstr ""
+msgstr "Habilitar HTTPS"
 
 #: settings.https.https_disabled
 msgctxt "settings.https.https_disabled"
@@ -348,7 +349,7 @@ msgstr ""
 #: settings.https.title
 msgctxt "settings.https.title"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 #: settings.items_per_page.between
 msgctxt "settings.items_per_page.between"
@@ -388,7 +389,7 @@ msgstr ""
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
 msgid "Select a Map Provider"
-msgstr ""
+msgstr "Seleccionar proveedor de mapas"
 
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
@@ -410,7 +411,7 @@ msgstr ""
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
 msgid "Map provider"
-msgstr ""
+msgstr "Proveedor de Mapas"
 
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
@@ -420,7 +421,7 @@ msgstr ""
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr ""
+msgstr "Configuración del Mapa"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -535,7 +536,7 @@ msgstr ""
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
 msgid "Alerts Email Address"
-msgstr ""
+msgstr "Dirección de correo para alertas"
 
 #: settings.site.email_notice
 msgctxt "settings.site.email_notice"
@@ -547,7 +548,7 @@ msgstr ""
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
 msgid "Site Email Address"
-msgstr ""
+msgstr "Dirección de correo electrónico del sitio"
 
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
@@ -591,7 +592,7 @@ msgstr ""
 #: settings.site.language
 msgctxt "settings.site.language"
 msgid "Site Language"
-msgstr ""
+msgstr "Idioma del sitio"
 
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
@@ -601,12 +602,12 @@ msgstr ""
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr ""
+msgstr "Mensaje del sitio"
 
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr ""
+msgstr "Nombre del Sitio"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
