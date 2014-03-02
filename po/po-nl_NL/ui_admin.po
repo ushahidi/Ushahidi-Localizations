@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Andrea_Pio <ivan.schepens@wynns.be>, 2012
+# Rodolfo_Jadon, 2014
 # Peter van den Heuvel <peter@pvandenheuvel.nl>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-03-01 14:39+0000\n"
+"Last-Translator: Rodolfo_Jadon\n"
 "Language-Team: Dutch (Netherlands) (http://www.transifex.com/projects/p/ushahidi-localizations/language/nl_NL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -84,7 +85,7 @@ msgstr "Alles"
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "VM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -390,7 +391,7 @@ msgstr "Verwijder"
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete all reports"
-msgstr ""
+msgstr "Alle rapporten verwijderen"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -882,7 +883,7 @@ msgstr "Postvak"
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
 msgid "Laconica Messages"
-msgstr ""
+msgstr "Laconica-berichten"
 
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
@@ -1345,7 +1346,7 @@ msgstr "Sturen naar"
 #: ui_admin.sent_from_website
 msgctxt "ui_admin.sent_from_website"
 msgid "This message was sent from your website at "
-msgstr ""
+msgstr "Dit bericht werd verstuurd van je website om"
 
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
@@ -1498,7 +1499,7 @@ msgstr "niet goedgekeurd"
 #: ui_admin.unknown
 msgctxt "ui_admin.unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "Onbekend"
 
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
@@ -1548,7 +1549,7 @@ msgstr "Gebruikers"
 #: ui_admin.ushahidi
 msgctxt "ui_admin.ushahidi"
 msgid "Ushahidi"
-msgstr ""
+msgstr "Ushahidi"
 
 #: ui_admin.verified_unverified
 msgctxt "ui_admin.verified_unverified"
@@ -1598,12 +1599,12 @@ msgstr "Welkom, "
 #: ui_admin.wiki
 msgctxt "ui_admin.wiki"
 msgid "Wiki"
-msgstr ""
+msgstr "Wiki"
 
 #: ui_admin.xml
 msgctxt "ui_admin.xml"
 msgid "XML"
-msgstr ""
+msgstr "XML"
 
 #: ui_admin.yes
 msgctxt "ui_admin.yes"
@@ -1613,7 +1614,7 @@ msgstr "Ja"
 #: ui_admin.your_search_for
 msgctxt "ui_admin.your_search_for"
 msgid "Your search for"
-msgstr ""
+msgstr "Je zoekopdracht naar"
 
 #: ui_admin.delete_all_instructions
 msgctxt "ui_admin.delete_all_instructions"
@@ -1635,22 +1636,22 @@ msgstr ""
 #: ui_admin.delete_all_confirm
 msgctxt "ui_admin.delete_all_confirm"
 msgid "Are you sure you want to delete all reports?"
-msgstr ""
+msgstr "Weet je zeker dat je alle rapporten wil verwijderen?"
 
 #: ui_admin.delete_all_no_reports
 msgctxt "ui_admin.delete_all_no_reports"
 msgid "There are no reports to be deleted."
-msgstr ""
+msgstr "Er zijn geen rapporten om te verwijderen."
 
 #: ui_admin.user_no_logins
 msgctxt "ui_admin.user_no_logins"
 msgid "Number of logins"
-msgstr ""
+msgstr "Aantal aanmeldingen"
 
 #: ui_admin.user_last_login
 msgctxt "ui_admin.user_last_login"
 msgid "Last login"
-msgstr ""
+msgstr "Laatste aanmelding"
 
 #: ui_admin.user_confirmed_account
 msgctxt "ui_admin.user_confirmed_account"
