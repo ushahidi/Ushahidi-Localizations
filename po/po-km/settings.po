@@ -1,14 +1,15 @@
 # 
 # Translators:
 # Sutha <sutha@open.org.kh>, 2013
+# khoemsokhem <sokhem@open.org.kh>, 2014
 # soksophea <sksophea@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-03-07 08:15+0000\n"
+"Last-Translator: khoemsokhem <sokhem@open.org.kh>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-localizations/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -41,12 +42,12 @@ msgstr "បាន​ទាមទារ​ឲ្យ​ដាក់​បញ្ច
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr ""
+msgstr "ដាក់បញ្ចូល​វាល​ប្រភេទ​អត្ថបទ​ព័ត៌មាន​មិន​បង្ហាញ​ថា​​មាន​តម្លៃ​ត្រឹមត្រូវ​ទេ។"
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr ""
+msgstr "ដាក់​បញ្ចូល​វាល​ប្រភេទ​អត្ថបទ​ព័ត៌មាន​ត្រូវ​បាន​ទាមទារ។"
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -457,7 +458,7 @@ msgstr "រួម​ទាំង​មតិ​ព័ត៌មាន RSS នៅ�
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr ""
+msgstr "បង្ហាញ​ប្រភេទ​ថ្មី​ពីអត្ថបទ​ព័ត៌មាន"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
