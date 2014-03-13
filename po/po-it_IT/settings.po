@@ -5,13 +5,13 @@
 # PeppeMessoMalex <giuseppe.murabito@gmail.com>, 2013
 # past12 <pallicca@gmail.com>, 2012
 # Sigisbaldo <sigismondo.baldovino@gmail.com>, 2013
-# tania <tania.monti@gmx.it>, 2013
+# Tania Monti <tania.monti@gmx.it>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:21+0000\n"
+"POT-Creation-Date: 2014-03-12 06:26+0000\n"
+"PO-Revision-Date: 2014-03-12 06:20+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -658,6 +658,11 @@ msgstr "Credenziali Twitter"
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
 msgstr "Hashtags - Separati da virgola "
+
+#: settings.site.feed_geolocation_user
+msgctxt "settings.site.feed_geolocation_user"
+msgid "Feeds geolocation - Geonames username"
+msgstr ""
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"

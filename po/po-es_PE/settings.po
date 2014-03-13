@@ -5,9 +5,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-22 22:18+0000\n"
-"Last-Translator: johnarupire <jarjacha@riseup.net>\n"
+"POT-Creation-Date: 2014-03-12 06:26+0000\n"
+"PO-Revision-Date: 2014-03-12 06:20+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -652,6 +652,11 @@ msgstr ""
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
+msgstr ""
+
+#: settings.site.feed_geolocation_user
+msgctxt "settings.site.feed_geolocation_user"
+msgid "Feeds geolocation - Geonames username"
 msgstr ""
 
 #: settings.site_email.email

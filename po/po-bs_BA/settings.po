@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:21+0000\n"
+"POT-Creation-Date: 2014-03-12 06:26+0000\n"
+"PO-Revision-Date: 2014-03-12 06:20+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Bosnian (Bosnia and Herzegovina) (http://www.transifex.com/projects/p/ushahidi-localizations/language/bs_BA/)\n"
 "MIME-Version: 1.0\n"
@@ -659,6 +659,11 @@ msgstr "Termini za pretraživanje Twittera"
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
 msgstr "Hashtag - odvojeni zarezima"
+
+#: settings.site.feed_geolocation_user
+msgctxt "settings.site.feed_geolocation_user"
+msgid "Feeds geolocation - Geonames username"
+msgstr ""
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"

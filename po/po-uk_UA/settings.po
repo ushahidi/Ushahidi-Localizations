@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 10:24+0000\n"
+"POT-Creation-Date: 2014-03-12 06:26+0000\n"
+"PO-Revision-Date: 2014-03-12 18:53+0000\n"
 "Last-Translator: Андрій Бандура <andriykopanytsia@gmail.com>\n"
 "Language-Team: Ukrainian (Ukraine) (http://www.transifex.com/projects/p/ushahidi-localizations/language/uk_UA/)\n"
 "MIME-Version: 1.0\n"
@@ -653,6 +653,11 @@ msgstr "Twitter аккаунт"
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
 msgstr "Хэштеги - відокремте комами"
+
+#: settings.site.feed_geolocation_user
+msgctxt "settings.site.feed_geolocation_user"
+msgid "Feeds geolocation - Geonames username"
+msgstr "Геолокація стрічок - ім'я користувача Geonames"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
