@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-27 18:40+0000\n"
+"PO-Revision-Date: 2014-03-28 16:41+0000\n"
 "Last-Translator: lcs <lucas-r-l@hotmail.com>\n"
 "Language-Team: Spanish (Spain) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_ES/)\n"
 "MIME-Version: 1.0\n"
@@ -130,18 +130,18 @@ msgstr "El campo de Caché e página es obligatorio."
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo de caché parece que no contiene un valor válido."
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr ""
+msgstr "La duración de la caché de las páginas contiene un dato inválido."
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "La duración de la caché es obligatoria."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -151,46 +151,46 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "Parece que tu servidor no está configurado para utilizar URLs limpias. Tienes que configurar tu servidor antes de poder activar las URLs limpias. Más información sombre como activar las URLs limpias en <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">este post</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr ""
+msgstr "Esta opción hace que Ushahidi pueda acceder via URLs limpiar (sin \"index.php\" en la URL)"
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr ""
+msgstr "Activar URL limpias"
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr ""
+msgstr "URLs limpias."
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "La API de Clickatell no puede tener más de 20 caracteres."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "La API de clickatell es obligatoria."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "La contraseña de Clickatell tiene que tener entre 5 y 50 caracteres."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "La contraseña de Clickatell es obligatorio."
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
