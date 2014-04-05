@@ -1,13 +1,13 @@
 # 
 # Translators:
-# johnarupire <jarjacha@riseup.net>, 2014
+# Johnattan Rupire <jarjacha@riseup.net>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:20+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-04-04 15:29+0000\n"
+"Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -207,7 +207,7 @@ msgstr "Configurar mapa"
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr ""
+msgstr "Ubicación predeterminada"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
@@ -227,12 +227,12 @@ msgstr "El campo color es obligatorio."
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr ""
+msgstr "Vista de mapa predeterminada"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "Nivel de zoom predeterminado"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
@@ -384,7 +384,7 @@ msgstr ""
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
 msgid "Zoom Level"
-msgstr ""
+msgstr "Nivel de zoom"
 
 #: settings.map_provider.choose
 msgctxt "settings.map_provider.choose"
@@ -416,7 +416,7 @@ msgstr "Proveedor de Mapas"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "Cronología del mapa"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -441,7 +441,7 @@ msgstr ""
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
 msgid "Cluster Reports on Map"
-msgstr ""
+msgstr "Agrupar los reportes en el mapa"
 
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
@@ -476,7 +476,7 @@ msgstr ""
 #: settings.site.banner
 msgctxt "settings.site.banner"
 msgid "Site Banner"
-msgstr ""
+msgstr "Baner del sitio"
 
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
@@ -496,7 +496,7 @@ msgstr ""
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
 msgid "Enable Checkins"
-msgstr ""
+msgstr "Registros habilitados"
 
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
@@ -516,22 +516,22 @@ msgstr ""
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr ""
+msgstr "Eliminar imagen de baner"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr ""
+msgstr "Eliminar icono predeterminado"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
 msgid "Display Contact Page"
-msgstr ""
+msgstr "Mostrar página de contacto"
 
 #: settings.site.display_howtohelp_page
 msgctxt "settings.site.display_howtohelp_page"
 msgid "Display \"How to Help\" Page"
-msgstr ""
+msgstr "Mostra página \"Cómo ayudar\""
 
 #: settings.site.email_alerts
 msgctxt "settings.site.email_alerts"
@@ -553,7 +553,7 @@ msgstr "Dirección de correo electrónico del sitio"
 #: settings.site.google_analytics
 msgctxt "settings.site.google_analytics"
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
@@ -587,7 +587,7 @@ msgstr ""
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
 msgid "Laconica Site "
-msgstr ""
+msgstr "Sitio Laconica "
 
 #: settings.site.language
 msgctxt "settings.site.language"
@@ -637,7 +637,7 @@ msgstr ""
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
 msgid "Timezone"
-msgstr ""
+msgstr "Zona horaria"
 
 #: settings.site.title
 msgctxt "settings.site.title"
