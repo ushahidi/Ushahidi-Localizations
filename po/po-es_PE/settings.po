@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-04-04 15:29+0000\n"
+"PO-Revision-Date: 2014-04-13 05:18+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +19,12 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo de permitir comentarios no parece que contenga un valor válido."
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr ""
+msgstr "El campo de permitir comentarios es requerido."
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
@@ -55,22 +55,22 @@ msgstr ""
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr ""
+msgstr "El campo de permitir alertas es requerido"
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo de permitir reportes no parece contener un valor válido."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr ""
+msgstr "El campo de permitir reportes es requerido"
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo para compartir estadísticas parece no contener un valor válido."
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
@@ -122,7 +122,7 @@ msgstr ""
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr ""
+msgstr "El campo de cache de páginas es requerido."
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
@@ -259,12 +259,12 @@ msgstr ""
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr ""
+msgstr "El campo Contraseña del Servidor de Correo es obligatorio."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "El campo puerto de servidor de correo es demasiado largo."
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
@@ -274,12 +274,12 @@ msgstr ""
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "El campo puerto de servidor de correos es demasiado largo."
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr ""
+msgstr "El campo Tipo de servidor de correo es obligatorio."
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
@@ -289,12 +289,12 @@ msgstr ""
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr ""
+msgstr "El campo Nombre de usuario para el servidor de correo es obligatorio."
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
 msgid "Facebook Setup Options"
-msgstr ""
+msgstr "Opciones de configuración de Facebook"
 
 #: settings.facebook.description
 msgctxt "settings.facebook.description"
@@ -394,12 +394,12 @@ msgstr "Seleccionar proveedor de mapas"
 #: settings.map_provider.enter_api
 msgctxt "settings.map_provider.enter_api"
 msgid "Enter the new API Key"
-msgstr ""
+msgstr "Introduce una nueva clave de API"
 
 #: settings.map_provider.get_api
 msgctxt "settings.map_provider.get_api"
 msgid "Get an API Key"
-msgstr ""
+msgstr "Obtén una clave API"
 
 #: settings.map_provider.info
 msgctxt "settings.map_provider.info"
@@ -431,7 +431,7 @@ msgstr ""
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr ""
+msgstr "Por favor selecciona un país predeterminado"
 
 #: settings.set_location
 msgctxt "settings.set_location"
@@ -446,7 +446,7 @@ msgstr "Agrupar los reportes en el mapa"
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr ""
+msgstr "Permitir a los usuarios hacer comentarios a los reportes"
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
@@ -461,17 +461,17 @@ msgstr ""
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
 msgid "Allow Users To Subscribe For Alerts"
-msgstr ""
+msgstr "Permitir a los usuarios suscribirse para recibir alertas"
 
 #: settings.site.allow_reports
 msgctxt "settings.site.allow_reports"
 msgid "Allow Users To Submit Reports"
-msgstr ""
+msgstr "Permitir a los usuarios generar reportes"
 
 #: settings.site.api_akismet
 msgctxt "settings.site.api_akismet"
 msgid "Akismet Key"
-msgstr ""
+msgstr "Clave Akismet"
 
 #: settings.site.banner
 msgctxt "settings.site.banner"
@@ -481,17 +481,17 @@ msgstr "Baner del sitio"
 #: settings.site.blocks_per_row
 msgctxt "settings.site.blocks_per_row"
 msgid "Blocks Per Row"
-msgstr ""
+msgstr "Bloques por fila"
 
 #: settings.site.cache_pages
 msgctxt "settings.site.cache_pages"
 msgid "Cache Pages"
-msgstr ""
+msgstr "Caché de las páginas "
 
 #: settings.site.cache_pages_lifetime
 msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
-msgstr ""
+msgstr "Tiempo de vida de la caché de las páginas"
 
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
@@ -506,12 +506,12 @@ msgstr ""
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr ""
+msgstr "Color predeterminado para todas las categorías"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr ""
+msgstr "Icono predeterminado para todas las categorías"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
@@ -568,7 +568,7 @@ msgstr ""
 #: settings.site.items_per_page_admin
 msgctxt "settings.site.items_per_page_admin"
 msgid "Items Per Page - Admin"
-msgstr ""
+msgstr "Ítems por páginas - Administración"
 
 #: settings.site.kismet_notice
 msgctxt "settings.site.kismet_notice"
@@ -582,7 +582,7 @@ msgstr ""
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
 msgid "Laconica Credentials"
-msgstr ""
+msgstr "Credenciales de Laconica"
 
 #: settings.site.laconica_site
 msgctxt "settings.site.laconica_site"
@@ -597,7 +597,7 @@ msgstr "Idioma del sitio"
 #: settings.site.manually_approve_users
 msgctxt "settings.site.manually_approve_users"
 msgid "Manually Approve Users"
-msgstr ""
+msgstr "Aprobar usuarios manualmente"
 
 #: settings.site.message
 msgctxt "settings.site.message"
@@ -617,7 +617,7 @@ msgstr ""
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
 msgid "Require User Email Confirmation"
-msgstr ""
+msgstr "Se requiere la confirmación del correo electrónico"
 
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
@@ -647,12 +647,12 @@ msgstr ""
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
 msgid "Twitter Search Terms"
-msgstr ""
+msgstr "Términos de búsqueda en Twitter"
 
 #: settings.site.twitter_hashtags
 msgctxt "settings.site.twitter_hashtags"
 msgid "Hashtags - Separate with commas "
-msgstr ""
+msgstr "Hashtags - Separados por comas"
 
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
@@ -662,7 +662,7 @@ msgstr ""
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
 msgid "The site email field does not appear to contain a valid email address."
-msgstr ""
+msgstr "El campo Dirección de correo para no contener una dirección de correo válida."
 
 #: settings.site_email.length
 msgctxt "settings.site_email.length"
@@ -678,7 +678,7 @@ msgstr ""
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
 msgid "The site name field is required."
-msgstr ""
+msgstr "El campo Nombre del sitio es obligatorio."
 
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
@@ -693,7 +693,7 @@ msgstr ""
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
 msgid "Your Clickatell API Number"
-msgstr ""
+msgstr "Tu número de API Clickatell"
 
 #: settings.sms.clickatell_check_balance
 msgctxt "settings.sms.clickatell_check_balance"
@@ -708,7 +708,7 @@ msgstr ""
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr ""
+msgstr "Tu contraseña de Clickatell"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"
@@ -721,12 +721,12 @@ msgstr ""
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
 msgid "Enter your Clickatell access information below"
-msgstr ""
+msgstr "Ingresa tu información de acceso a Clickatell abajo"
 
 #: settings.sms.clickatell_username
 msgctxt "settings.sms.clickatell_username"
 msgid "Your Clickatell User Name"
-msgstr ""
+msgstr "Tu nombre de usuario de Clickatell"
 
 #: settings.sms.flsms_description
 msgctxt "settings.sms.flsms_description"
@@ -739,7 +739,7 @@ msgstr ""
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
 msgid "Download and install FrontlineSMS"
-msgstr ""
+msgstr "Descargar e instalar FrontlineSMS"
 
 #: settings.sms.flsms_instructions
 msgctxt "settings.sms.flsms_instructions"
@@ -779,52 +779,52 @@ msgstr ""
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
 msgid "Option 1: Use Frontline SMS"
-msgstr ""
+msgstr "Opción 1: Usar Frontline SMS"
 
 #: settings.sms.option_2
 msgctxt "settings.sms.option_2"
 msgid "Option 2: Use a Global SMS Gateway"
-msgstr ""
+msgstr "Opción 2: Usar un puerto SMS global"
 
 #: settings.sms.title
 msgctxt "settings.sms.title"
 msgid "SMS Setup Options"
-msgstr ""
+msgstr "Opciones de configuración de SMS"
 
 #: settings.sms_no1.length
 msgctxt "settings.sms_no1.length"
 msgid "The phone 1 field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo Teléfono 1 parece no contener un valor válido."
 
 #: settings.sms_no1.numeric
 msgctxt "settings.sms_no1.numeric"
 msgid "The phone 1 field should contain numbers only."
-msgstr ""
+msgstr "El campo Teléfono 1 debe contener únicamente números"
 
 #: settings.sms_no2.length
 msgctxt "settings.sms_no2.length"
 msgid "The phone 2 field is too long."
-msgstr ""
+msgstr "El campo Teléfono 2 es muy largo."
 
 #: settings.sms_no2.numeric
 msgctxt "settings.sms_no2.numeric"
 msgid "The phone 2 field should contain numbers only."
-msgstr ""
+msgstr "El campo Teléfono 2 debe contener únicamente números."
 
 #: settings.sms_no3.length
 msgctxt "settings.sms_no3.length"
 msgid "The phone 3 field is too long."
-msgstr ""
+msgstr "El campo teléfono 3 es demasiado largo"
 
 #: settings.sms_no3.numeric
 msgctxt "settings.sms_no3.numeric"
 msgid "The phone 3 field should contain numbers only."
-msgstr ""
+msgstr "El campo teléfono 3 debe contener únicamente números."
 
 #: settings.twitter.title
 msgctxt "settings.twitter.title"
 msgid "Twitter Setup Options"
-msgstr ""
+msgstr "Opciones de configuración de Twitter"
 
 #: settings.twitter.description
 msgctxt "settings.twitter.description"
@@ -846,7 +846,7 @@ msgstr ""
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
 msgid "Access Token"
-msgstr ""
+msgstr "Token de acceso"
 
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
