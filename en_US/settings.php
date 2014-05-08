@@ -140,6 +140,7 @@ $lang = array(
 		'allow_feed_category' => 'Create New Category from Feeds',
 		'allow_alerts' => 'Allow Users To Subscribe For Alerts',
 		'allow_reports' => 'Allow Users To Submit Reports',
+		'max_upload_size' => 'Maximum Upload Size (in Mb)',
 		'api_akismet' => 'Akismet Key',
 		'banner' => 'Site Banner',
 		'blocks_per_row' => 'Blocks Per Row',
