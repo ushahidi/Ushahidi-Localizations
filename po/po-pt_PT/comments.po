@@ -1,13 +1,14 @@
 # 
 # Translators:
 # luislago <luisalveslago@gmail.com>, 2013
+# alfalb_mansil <manuela.silva@sky.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-04-17 06:05+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-04-23 17:29+0000\n"
+"Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,17 +35,17 @@ msgstr "Introduziu o código de segurança errado"
 #: comments.comment_author.length
 msgctxt "comments.comment_author.length"
 msgid "The name field must be at least 3 characters long."
-msgstr ""
+msgstr "O campo do nome deve ter pelos 3 caracteres."
 
 #: comments.comment_author.required
 msgctxt "comments.comment_author.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "O campo do nome é obrigatório."
 
 #: comments.comment_description.required
 msgctxt "comments.comment_description.required"
 msgid "The comments field is required."
-msgstr ""
+msgstr "O campo dos comentários é obrigatório."
 
 #: comments.comment_email.email
 msgctxt "comments.comment_email.email"
@@ -59,4 +60,4 @@ msgstr ""
 #: comments.comment_email.required
 msgctxt "comments.comment_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "O campo do e-mail é obrigatório, se a opção estiver selecionada."

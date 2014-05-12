@@ -1,13 +1,14 @@
 # 
 # Translators:
 # suwandiahmad <ahmad.suwandi@gmail.com>, 2013
+# suwandiahmad <ahmad.suwandi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-08-22 06:26+0000\n"
-"PO-Revision-Date: 2013-10-17 00:55+0000\n"
-"Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
+"PO-Revision-Date: 2014-04-30 05:48+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -61,7 +62,7 @@ msgstr "Kolom \"%s\" harus berisi alamat surel yang benar."
 #: report.custom_field.phone
 msgctxt "report.custom_field.phone"
 msgid "The \"%s\" field must contain a valid phone number."
-msgstr "Kolom \"%s\" harus berisi nomor ponsel yang benar."
+msgstr "Kolom \"%s\" harus berisi nomor telepon seluler yang benar."
 
 #: report.custom_field.date_mmddyyyy
 msgctxt "report.custom_field.date_mmddyyyy"
@@ -363,7 +364,7 @@ msgstr "Alamat surel Anda tidak benar."
 #: report.person_email.length
 msgctxt "report.person_email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "ALamat surel setidaknya terdiri dari 4 karakter dan tidak lebih dari 64 karakter."
+msgstr "Alamat surel setidaknya terdiri dari 4 karakter dan tidak lebih dari 64 karakter."
 
 #: report.person_first.length
 msgctxt "report.person_first.length"

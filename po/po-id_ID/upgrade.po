@@ -1,13 +1,14 @@
 # 
 # Translators:
 # suwandiahmad <ahmad.suwandi@gmail.com>, 2013
+# suwandiahmad <ahmad.suwandi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2013-10-28 01:25+0000\n"
-"Last-Translator: suwandiahmad <ahmad.suwandi@gmail.com>\n"
+"PO-Revision-Date: 2014-04-30 06:11+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -29,7 +30,7 @@ msgstr "Perbaruan Otomatis"
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr "Upgrade Tersedia"
+msgstr "Perbaruan (Upgrade) Tersedia"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
@@ -138,7 +139,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php dan ./applications/config/auth.php files. </dd><dd>- Untuk menghindari hal-hal yang tidak diinginkan, kami sarankan Anda men-backup semua isi Ushahidi terlebih dahulu.</dd><dt><strong>Salin berkas-berkas</strong></dt><dd>- Ekstrak zip hasil unduhan</dd><dd>- Tergantung sistem operasi dalam server Anda, gunakan aplikasi yang Anda sukai (misalnya Telnet, FTP, SSH) untuk mask dal am server dan mengganti semua isinya dengan yang terbaru.</dd><dt><strong>Upgrade database</strong></dt><dd>- Pertama, perks duly verso database Anda dal am <strong>db_version</strong> bagian pengaturan table atau simak informasi Ushahidi di bagian paling atlas halaman ini. </dd><dd>- Jika Anda masih menggunakan versi 25, Anda bisa meng-upgrade ke dari versi 25 ke 26, kemudian 26 ke 27, dan seterusnya hingga versi berkas SQL terkini di folder <strong>/sql</strong>.</dd><dd>- Dengan klien database Anda, upgrade database dengan mengeksekusi berkas upgradex-x.sql yang sesuai.</dd></dl>"
+msgstr "<dt><strong>Backup</strong></dt><dd>- .htaccess, ./applications/config/config.php, ./applications/config/database.php dan ./applications/config/auth.php files. </dd><dd>- Untuk menghindari hal-hal yang tidak diinginkan, kami sarankan Anda men-backup semua isi Ushahidi terlebih dahulu.</dd><dt><strong>Salin berkas-berkas</strong></dt><dd>- Ekstrak zip hasil unduhan</dd><dd>- Tergantung sistem operasi dalam server Anda, gunakan aplikasi yang Anda sukai (misalnya Telnet, FTP, SSH) untuk masuk dalam server dan mengganti semua isinya dengan yang terbaru.</dd><dt><strong>Perbarui database</strong></dt><dd>- Pertama, periksa dulu versi database Anda dalam <strong>db_version</strong> bagian pengaturan table atau simak informasi Ushahidi di bagian paling atas halaman ini. </dd><dd>- Jika Anda masih menggunakan versi 25, Anda bisa memperbarui dari versi 25 ke 26, kemudian 26 ke 27, dan seterusnya hingga versi berkas SQL terkini di folder <strong>/sql</strong>.</dd><dd>- Dengan klien database Anda, perbarui database dengan mengeksekusi berkas upgradex-x.sql yang sesuai.</dd></dl>"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -153,7 +154,7 @@ msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr "<strong>Langkah 4:</strong> Klik tomboy <strong>\"Continue\"</strong> untuk memperbarui tabel yang diperlukan."
+msgstr "<strong>Langkah 4:</strong> Klik tombol <strong>\"Continue\"</strong> untuk memperbarui tabel yang diperlukan."
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
@@ -247,7 +248,7 @@ msgstr "Berkas Log"
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr "Pengunduhan Berhasil. Unpack berkas-berkas..."
+msgstr "Pengunduhan Berhasil. Bongkar berkas-berkas..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
@@ -257,12 +258,12 @@ msgstr "Pengunduhan gagal."
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr "Proses Unpack Berhasil. Berkas diduplikasi..."
+msgstr "Proses bongkar berhasil. Berkas diduplikasi..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr "Proses unpack gagal."
+msgstr "Proses bongkar gagal."
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
@@ -287,7 +288,7 @@ msgstr "Backup database gagal."
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr "Upgrade database berhasil."
+msgstr "Perbaruan database berhasil."
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
@@ -297,4 +298,4 @@ msgstr "Menghapus berkas yang sudah diunduh..."
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr "UPGRADE BERHASUL. Lihat <a href=\"%s\" target=\"_blank\">Berkas Log</a>"
+msgstr "Pembaruan BERHASIL. Lihat <a href=\"%s\" target=\"_blank\">Berkas Log</a>"

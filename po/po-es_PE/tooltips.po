@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-04-05 14:34+0000\n"
+"PO-Revision-Date: 2014-04-24 16:01+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -148,7 +148,7 @@ msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "Puede seleccionar varios días aquí. Las fechas se determina por la zona horaria en la configuración de este proyecto. Para seleccionar todas las fechas, no seleccione ninguna."
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -238,7 +238,7 @@ msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "Si se establece, esta será su nueva contraseña. Deje este campo en blanco si desea mantener su contraseña actual."
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -253,7 +253,7 @@ msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr ""
+msgstr "Seleccionando SÍ recibirás alertas vía correo electrónico cuando se registren nuevos reportes o comentarios en tu sitio web."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
@@ -273,7 +273,7 @@ msgstr ""
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
 msgid "This is the address where your public profile can be found."
-msgstr ""
+msgstr "Esta es la dirección donde tu perfil público puede ser encontrado."
 
 #: tooltips.profile_username
 msgctxt "tooltips.profile_username"
@@ -293,37 +293,37 @@ msgstr ""
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr ""
+msgstr "Esta es la dirección de correo que será usada para enviar correos de alerta."
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "Permitir a los usuarios suscribirse para recibir alertas vía web."
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
 msgid "This allows bundling of similar reports into a single dot on the map"
-msgstr ""
+msgstr "Esto permite la agrupación de informes similares en un único punto en el mapa"
 
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
 msgid "Allow users to comment on reports on the main site."
-msgstr ""
+msgstr "Permitir a los usuarios comentar los reportes en la página principal del sitio."
 
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
-msgstr ""
+msgstr "Esto permite que las Noticias de boletines RSS se muestren en la página principal del sitio."
 
 #: tooltips.settings_allow_feed_category
 msgctxt "tooltips.settings_allow_feed_category"
 msgid "This allows creating new Category from RSS News feeds."
-msgstr ""
+msgstr "Esto permite crear nuevas categorias a partir de las Noticias de los boletines RSS."
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
 msgid "Allow users to submit information via the web form."
-msgstr ""
+msgstr "Permitir a los usuarios enviar información vía el formulario web."
 
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
@@ -352,7 +352,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "Número de bloques de columnas que serán mostrados en cada fila."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -428,12 +428,12 @@ msgstr "Este es el hub para los mensajes entrantes"
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr ""
+msgstr "Esto sincroniza los mensajes en el conector con la plataforma Ushahidi."
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr ""
+msgstr "Los números de teléfono a través de los cuales se reciben los mensajes de texto."
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
@@ -443,7 +443,7 @@ msgstr ""
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
 msgid "Sets the language that will be used in the site."
-msgstr ""
+msgstr "Establece el idioma que se utilizará en el sitio."
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
@@ -456,13 +456,13 @@ msgstr ""
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
 msgid "This defines which map is to be used on the site."
-msgstr ""
+msgstr "Esto define qué mapa se utilizará en el sitio."
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "Esto muestra la línea de tiempo basada en la fecha y hora de los reportes registrados. "
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
@@ -488,7 +488,7 @@ msgstr ""
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr ""
+msgstr "Esta es la contraseña para la dirección de correo electrónico donde se reciben los reportes."
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
@@ -499,17 +499,17 @@ msgstr ""
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
 msgid "This is required to enhance a secure connection."
-msgstr ""
+msgstr "Esto es necesario para mejorar una conexión segura."
 
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
 msgid "This is required to retrieve e-mails from the host server."
-msgstr ""
+msgstr "Esto es necesario para recuperar mensajes de correo electrónico desde el servidor host."
 
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"
 msgid "This is the email address that receives reports."
-msgstr ""
+msgstr "Esta es la dirección de correo electrónico que recibe los reportes."
 
 #: tooltips.settings_share_site_stats
 msgctxt "tooltips.settings_share_site_stats"
@@ -548,7 +548,7 @@ msgstr ""
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
 msgid "This is the name of the site that appears at the top of the main site."
-msgstr ""
+msgstr "Este es el nombre del sitio que aparecerá en la parte superior de la página principal."
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
@@ -573,7 +573,7 @@ msgstr ""
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
 msgid "Set the twitter hashtag that will be used on a tweet"
-msgstr ""
+msgstr "Establece el hashtag de Twitter que será usado en un tweet"
 
 #: tooltips.feed_geolocation_user
 msgctxt "tooltips.feed_geolocation_user"

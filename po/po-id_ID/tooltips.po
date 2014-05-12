@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Imron Fauzi <imronfauzi@gmail.com>, 2014
 # suwandiahmad <ahmad.suwandi@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-04-23 18:41+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -191,7 +192,7 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr "Pisahkan antar nilai dengan tanda koma. Jika Anda menginginkan pengaturan nilai standar, akhiri dftar pilihan dengan ::. Misalnya Anda ingin agar bilangan3 menjadi standar, maka yang harus ditulis adalah bilangan1, bilangan2, bilangan3::bilangan3"
+msgstr "Pisahkan antar nilai dengan tanda koma. Jika Anda menginginkan pengaturan nilai standar, akhiri daftar pilihan dengan ::. Misalnya Anda ingin agar bilangan3 menjadi standar, maka yang harus ditulis adalah bilangan1, bilangan2, bilangan3::bilangan3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
@@ -288,7 +289,7 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr "Tingkat Akses digunakan untuk membatasi akses pada data. Semakin tinggi tingkat akses, semakin besar pula hak aksesnya. Tingkat Superadmin adalah pemilik Tingkat Akses tertinggi (100). Data utuk publik adalah Tingkat Akses terendah (0). Secara standar, anggota memiliki Tingkat Akses 10 dan Admin Tingkat Aksesnya 90. "
+msgstr "Tingkat akses digunakan untuk membatasi akses pada data. Semakin tinggi tingkat akses, semakin besar pula hak aksesnya. Tingkat Superadmin adalah pemilik Tingkat Akses tertinggi (100). Data untuk publik adalah Tingkat Akses terendah (0). Secara standar, anggota memiliki Tingkat Akses 10 dan Admin Tingkat Aksesnya 90. "
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
@@ -352,7 +353,7 @@ msgstr "Banner ini akan muncul di bagian paling atas pada bagian depan situs And
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr "Jumlah Kotak kolom yang akan ditampilkan dalam setiap lajur."
+msgstr "Jumlah kotak kolom yang akan ditampilkan dalam setiap lajur."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -469,7 +470,7 @@ msgctxt "tooltips.settings_private_deployment"
 msgid ""
 "Setting this value to true or yes will make your deployment private so only "
 "users with accounts that you specify will be able to access the deployment."
-msgstr "Pengaturan ini menjadi Benar atau Ya akan menyebabkan situs menjadi privat. Sehingga hanya akun tertentu saja yang bisa mengaksesnya."
+msgstr "Pengaturan ini menjadi Benar atau Ya akan menyebabkan situs menjadi terbatas. Sehingga hanya akun tertentu saja yang bisa mengaksesnya."
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
@@ -581,4 +582,4 @@ msgid ""
 "If you want to geocode your feed entries, grab an user http://geonames.org, "
 "enable the free webservices and enter it here. Leave empty to disable this "
 "function.<br /><br />Beware of the the use limits!"
-msgstr ""
+msgstr "Jika Anda ingin geocode pada kolom umpan Anda, ambil pengguna http://geonames.org, untuk mengaktifkan layanan web ini dengan memasukkan di sini. Biarkan kosong untuk menonaktifkan fungsi ini. <br /> <br /> Perhatikan pada batas penggunaan!"

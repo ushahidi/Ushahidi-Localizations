@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-04-13 05:18+0000\n"
+"PO-Revision-Date: 2014-05-05 23:12+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -318,7 +318,7 @@ msgstr "Facebook App ID"
 #: settings.facebook.app_secret
 msgctxt "settings.facebook.app_secret"
 msgid "Facebook App Secret"
-msgstr ""
+msgstr "App Secreta de Facebook"
 
 #: settings.google_analytics.length
 msgctxt "settings.google_analytics.length"
@@ -367,12 +367,12 @@ msgstr ""
 msgctxt "settings.items_per_page_admin.between"
 msgid ""
 "The items per page (Admin) field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo Elementos por página (Administración) parece no contener un valor válido."
 
 #: settings.items_per_page_admin.required
 msgctxt "settings.items_per_page_admin.required"
 msgid "The items per page (Admin) field is required."
-msgstr ""
+msgstr "El campo Elementos por página (Administración) es requerido"
 
 #: settings.map.default_location
 msgctxt "settings.map.default_location"
@@ -456,7 +456,7 @@ msgstr ""
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr ""
+msgstr "Crear nuevas categorías desde los boletines"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -501,7 +501,7 @@ msgstr "Registros habilitados"
 #: settings.site.copyright_statement
 msgctxt "settings.site.copyright_statement"
 msgid "Site Copyright Statement"
-msgstr ""
+msgstr "Declaración del copyright del sitio"
 
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"

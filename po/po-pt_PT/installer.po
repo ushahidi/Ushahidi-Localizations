@@ -1,13 +1,13 @@
 # 
 # Translators:
 # luislago <luisalveslago@gmail.com>, 2013
-# alfalb_mansil <manuela.silva@sky.com>, 2013
+# alfalb_mansil <manuela.silva@sky.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-12-22 20:25+0000\n"
+"PO-Revision-Date: 2014-04-23 17:21+0000\n"
 "Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -213,7 +213,7 @@ msgid ""
 "Internet Message Access Protocol (IMAP) or Post Office Protocol (POP). <a "
 "href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" "
 "target=\"_blank\">What is the difference?</a>"
-msgstr ""
+msgstr "Protocolo de Acesso de Mensagens da Internet (IMAP) ou Protocolo \"Post Office\" (POP). <a href=\"http://saturn.med.nyu.edu/it/help/email/imap/index.html\" target=\"_blank\">Qual é a diferença?</a>"
 
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
@@ -243,7 +243,7 @@ msgid ""
 "Ushahidi works equally well with any of these three mapping providers: "
 "Google, Bing or Open Street Map. Choose the one that has the most detail in "
 "your area."
-msgstr ""
+msgstr "Ushahidi funciona igualmente bem com qualquer um destes três provedores de mapeamento: Google, Bing ou Open Street Map. Escolha um que tenha o maior detalhe da sua área."
 
 #: installer.other_steps
 msgctxt "installer.other_steps"
@@ -281,7 +281,7 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr ""
+msgstr "Alguns servidores de e-mail oferecem a opção para utilizar <abbr title=\"Camada \"Sockets\" Segura\">SSL</abbr> quando efetua uma coneção. è recomendado que utilize SSL porque este proporciona um nível de segurança mais elevado."
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
@@ -304,12 +304,12 @@ msgid ""
 "When your site visitors sign up for email alerts, they will receive emails "
 "from this address. This email address does not have to be the same as the "
 "Site Email Address."
-msgstr ""
+msgstr "Quando os visitantes do seu site se registarem para os alertas por e-mail, eles irão receber e-mails deste endereço. Este endereço de e-mail não tem de ser o mesmo Endereço de e-mail do Site."
 
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr ""
+msgstr "A comunicação de e-mail do site irá ser enviada através deste endereço"
 
 #: installer.site_name
 msgctxt "installer.site_name"
@@ -373,7 +373,7 @@ msgid ""
 "Normally you would not change the table prefix. However, if you want to run "
 "multiple Ushahidi installations from a single database, you can do that by "
 "changing the prefix here."
-msgstr ""
+msgstr "Normalmente não pode alterar o prefixo da tabela. Contudo, se desejar executar múltiplas instalações Ushahidi de uma única base de dados, pode fazer isso, alterando aqui o prefixo."
 
 #: installer.title
 msgctxt "installer.title"

@@ -2,13 +2,14 @@
 # Translators:
 # jgrocha <jgr@di.uminho.pt>, 2013
 # luislago <luisalveslago@gmail.com>, 2013
+# alfalb_mansil <manuela.silva@sky.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-11-19 16:10+0000\n"
-"Last-Translator: jgrocha <jgr@di.uminho.pt>\n"
+"PO-Revision-Date: 2014-04-23 17:39+0000\n"
+"Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,7 +36,7 @@ msgstr "O campo do email deve ter entre 4 a 64 caracteres."
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr "O campo do email é obrigatório."
+msgstr "O campo do e-mail é obrigatório."
 
 #: auth.name.length
 msgctxt "auth.name.length"
@@ -45,7 +46,7 @@ msgstr "O campo do nome completo deve ter entre 3 a 100 caracteres."
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr "O campo do nome completo é obrigatório."
+msgstr "O campo do nome é obrigatório."
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
@@ -70,7 +71,7 @@ msgstr ""
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr "O campo de palavra-passe é obrigatório"
+msgstr "O campo da senha é obrigatório."
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
@@ -104,7 +105,7 @@ msgstr ""
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr "O campo de palavra-passe é obrigatório"
+msgstr "O campo da senha é obrigatório."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
@@ -136,7 +137,7 @@ msgstr "Por favor insira a mesma palavra-chave nos dois campos de palavra-chave.
 #: auth.password.required
 msgctxt "auth.password.required"
 msgid "The password field is required."
-msgstr "O campo da palavra-chave é obrigatório."
+msgstr "O campo da senha é obrigatório."
 
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
@@ -173,7 +174,7 @@ msgstr "Desculpe, não temos o seu endereço de email."
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr "O campo do email é obrigatório."
+msgstr "O campo do e-mail é obrigatório."
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
@@ -240,7 +241,7 @@ msgstr "Por favor certifique que inseriu o nome de utilizador correcto."
 #: auth.username.required
 msgctxt "auth.username.required"
 msgid "The public profile URL field is required."
-msgstr "O campo do nome de utilizador é obrigatório."
+msgstr "O campo do URL do perfil público é obrigatório."
 
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"

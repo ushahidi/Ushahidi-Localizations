@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Imron Fauzi <imronfauzi@gmail.com>, 2014
 # suwandiahmad <ahmad.suwandi@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:20+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-04-23 18:22+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -112,12 +113,12 @@ msgstr "Kolom banner situs harus menggunakan format berkas gambar yang sesuai. S
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr "Pastikan bahwa ukuran  \"Banner SItus\" tidak lebih dari 250 KB."
+msgstr "Pastikan bahwa ukuran  \"Banner Situs\" tidak lebih dari 250 KB."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr "\"Banner SItus\" tidak benar."
+msgstr "\"Banner Situs\" tidak benar."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -148,7 +149,7 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr "Sepertinya server Anda tidak diatur supaya bias mengatasi clean URL. Anda perlu mengubah konfigurasi server sebelum memperbolehkan penggunaan clean URL. Lihat lebih lanjut mengenai clean URL di <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">forum diskusi ini</a>"
+msgstr "Sepertinya server Anda tidak diatur supaya bisa mengatasi clean URL. Anda perlu mengubah konfigurasi server sebelum memperbolehkan penggunaan clean URL. Lihat lebih lanjut mengenai clean URL di <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">forum diskusi ini</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
@@ -182,7 +183,7 @@ msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "Kolom kata sandi CLiackatell setidaknya terdiri atas 5 dan tidak ;ebih dari 50 karakter."
+msgstr "Kolom kata sandi Clickatell setidaknya terdiri atas 5 dan tidak lebih dari 50 karakter."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
@@ -242,12 +243,12 @@ msgstr "Menerima Daftar Kota dari Geonames"
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr "Kolom port mail server terlalu panjang."
+msgstr "Kolom port server mail terlalu panjang."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr "Kolom port Mail Server hanya bisa diisi dengan angka."
+msgstr "Kolom port Server Mail hanya bisa diisi dengan angka."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
@@ -284,7 +285,7 @@ msgstr "Kolom Jenis Mail Server wajib diisi."
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr "Nama pengguna dal am mail server tidak bole lebih dari 50 karakter."
+msgstr "Nama pengguna dalam mail server tidak boleh lebih dari 50 karakter."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
@@ -446,7 +447,7 @@ msgstr "Sekelompok Laporan dalam Peta"
 #: settings.site.allow_comments
 msgctxt "settings.site.allow_comments"
 msgid "Allow Users to Submit Comments to Reports"
-msgstr "Ijinkan Pengguna untuk Berkomentar dalam Laporan"
+msgstr "Ijinkan Pengguna untuk berkomentar dalam laporan"
 
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
@@ -456,7 +457,7 @@ msgstr "Termasuk Umpan Berita RSS di Situs"
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr "Membuat Kategori Baru danri Feeds"
+msgstr "Membuat Kategori Baru dari Umpan"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -607,12 +608,12 @@ msgstr "Pesan dalam Situs"
 #: settings.site.name
 msgctxt "settings.site.name"
 msgid "Site Name"
-msgstr "Nama SItus"
+msgstr "Nama Situs"
 
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr "Pengembangan untuk Pribadi"
+msgstr "Pengembangan untuk kalangan terbatas"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
@@ -657,7 +658,7 @@ msgstr "Tagar - Dipisahkan dengan koma"
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr ""
+msgstr "Umpan geolocation - Geonames nama pengguna"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"

@@ -1,13 +1,13 @@
 # 
 # Translators:
 # luislago <luisalveslago@gmail.com>, 2013
-# alfalb_mansil <manuela.silva@sky.com>, 2013
+# alfalb_mansil <manuela.silva@sky.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-12-27 13:36+0000\n"
+"PO-Revision-Date: 2014-04-23 17:37+0000\n"
 "Last-Translator: alfalb_mansil <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -26,7 +26,7 @@ msgstr "O campo da descrição deve ter pelo entre 3 e 100 carateres."
 #: roles.description.required
 msgctxt "roles.description.required"
 msgid "The Description field is required."
-msgstr "É necessário o campo da descrição."
+msgstr "O campo Descrição é obrigatório."
 
 #: roles.name.alpha_numeric
 msgctxt "roles.name.alpha_numeric"
@@ -46,7 +46,7 @@ msgstr "A Função do \"Super Administrador\" Não Pode Ser Modificada."
 #: roles.name.required
 msgctxt "roles.name.required"
 msgid "The Name field is required."
-msgstr "É necessário o campo do nome."
+msgstr "É o campo Nome é obrigatório."
 
 #: roles.access_level.numeric
 msgctxt "roles.access_level.numeric"

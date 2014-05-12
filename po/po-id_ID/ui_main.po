@@ -1,14 +1,17 @@
 # 
 # Translators:
 # lbell <goingdriftless@hotmail.com>, 2012
+# lbell <goingdriftless@hotmail.com>, 2012
+# Imron Fauzi <imronfauzi@gmail.com>, 2014
+# suwandiahmad <ahmad.suwandi@gmail.com>, 2013
 # suwandiahmad <ahmad.suwandi@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:22+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-04-23 18:25+0000\n"
+"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -723,7 +726,7 @@ msgstr "Ubah Formulir"
 #: ui_main.edit_report
 msgctxt "ui_main.edit_report"
 msgid "Edit Report"
-msgstr "Ubah Laporan"
+msgstr "Sunting Laporan"
 
 #: ui_main.email
 msgctxt "ui_main.email"
@@ -743,32 +746,32 @@ msgstr "Pengaturan Server Surel"
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr "Host Mail Server"
+msgstr "Host Server Surel"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "Password Mail Server"
+msgstr "Kata Sandi Server Mail"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "Port Mail Server"
+msgstr "Port Server Mail"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr "Mail Server SSL support"
+msgstr "Dukungan SSL Server Mail"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr "Jenis Mail Server"
+msgstr "Jenis Server Mail"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr "Nama Pengguna Mail Server"
+msgstr "Nama Pengguna Server Mail"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
@@ -790,7 +793,7 @@ msgstr "Beberapa server membutuhkan alamat surel yang lengkap"
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr "Password akun surel"
+msgstr "Kata Sandi akun surel"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
@@ -800,7 +803,7 @@ msgstr "Port yang lazim digunakan: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMA
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr "Contoh: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
+msgstr "Contoh: mail.websiteanda.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
@@ -865,7 +868,7 @@ msgstr "Menyediakan Masukan"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr ""
+msgstr "Tolong beri kami umpan balik tentang pengalaman Anda dengan mengirimkan email ke"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -915,12 +918,12 @@ msgstr "Saringan"
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
 msgid "Filter Reports"
-msgstr "Menyaring Laporan"
+msgstr "Saring Laporan"
 
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr "Menyaring Laporan oleh"
+msgstr "Saring Laporan menurut"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
@@ -950,7 +953,7 @@ msgstr "Jadwal Force Run"
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr "Lupa Password?"
+msgstr "Lupa Kata Sandi?"
 
 #: ui_main.form
 msgctxt "ui_main.form"
@@ -1045,12 +1048,12 @@ msgstr "Tersembunyi"
 #: ui_main.hide
 msgctxt "ui_main.hide"
 msgid "Hide"
-msgstr "sembunyi"
+msgstr "Sembunyikan"
 
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr "Sembunyikan Pesan Ini"
+msgstr "sembunyikan pesan ini"
 
 #: ui_main.home
 msgctxt "ui_main.home"
@@ -1282,27 +1285,27 @@ msgstr "Lintang"
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr "Layers"
+msgstr "Lapisan"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr "Layers Lainnya"
+msgstr "Lapisan Lainnya"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr "Layer ini Sudah"
+msgstr "Lapisan ini Sudah"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr "Nama Layer"
+msgstr "Nama Lapisan"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr "Tautan Layer"
+msgstr "Tautan Lapisan"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
@@ -1405,7 +1408,7 @@ msgstr "Masuk menggunakan"
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr "Surel dan Password"
+msgstr "Surel dan Kata Sandi"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
@@ -1471,7 +1474,7 @@ msgstr "Bujur"
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr "peta"
+msgstr "Peta"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
@@ -1608,7 +1611,7 @@ msgstr "Kategori Baru"
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr "Password Baru"
+msgstr "Kata Sandi Baru"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
@@ -1823,27 +1826,27 @@ msgstr "Kategori Induk"
 #: ui_main.password
 msgctxt "ui_main.password"
 msgid "Password"
-msgstr "Password"
+msgstr "Kata Sandi"
 
 #: ui_main.password_again
 msgctxt "ui_main.password_again"
 msgid "Verify Password"
-msgstr "Ulangi Password"
+msgstr "Ulangi Kata Sandi"
 
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr "Password Telah Diganti! Silahkan Login."
+msgstr "Kata Sandi Telah Diganti! Silahkan Login."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr "Lupa password?"
+msgstr "Lupa kata sandi?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr "Periksa konfirmasi password baru di surel Anda."
+msgstr "Periksa konfirmasi kata sandi baru di surel Anda."
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
@@ -1916,7 +1919,7 @@ msgstr "Harap Dicatat"
 #: ui_main.plugins
 msgctxt "ui_main.plugins"
 msgid "Plugins"
-msgstr "Plugins"
+msgstr "Plugin"
 
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
@@ -1956,7 +1959,7 @@ msgstr "Sebelumnya"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr "Pribadi"
+msgstr "Akses Terbatas"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
@@ -2303,7 +2306,7 @@ msgstr "Reset semua penyaringan"
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr "Reset Password"
+msgstr "Reset Kata Sandi"
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
@@ -2320,7 +2323,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr "Anda telah memiliki sebuah akun yang dikelola CrowdMapID! Cobalah menggunakan surel dan password Anda di CrowdMapID untuk login."
+msgstr "Anda telah memiliki sebuah akun yang dikelola CrowdMapID! Cobalah menggunakan surel dan kata sandi Anda di CrowdMapID untuk login."
 
 #: ui_main.role
 msgctxt "ui_main.role"
