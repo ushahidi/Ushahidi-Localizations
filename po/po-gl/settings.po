@@ -1,12 +1,13 @@
 # 
 # Translators:
+# Xnake, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:20+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-05-19 22:49+0000\n"
+"Last-Translator: Xnake\n"
 "Language-Team: Galician (http://www.transifex.com/projects/p/ushahidi-localizations/language/gl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -39,12 +40,12 @@ msgstr "O campo Incluir Feed é obrigatorio."
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr ""
+msgstr "O campo de incluir categoría de feed parece non ter un valor válido."
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr ""
+msgstr "Requírese o campo de incluir categoría de feed."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -455,7 +456,7 @@ msgstr "Incluir Feed de Novas no site"
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr ""
+msgstr "Crear nova Categorñia dende os Feeds"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -656,7 +657,7 @@ msgstr "Hashtags - Separados por comas "
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr ""
+msgstr "Geoloclaización dos Feeds - Nome de usuario Xeonomes"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
