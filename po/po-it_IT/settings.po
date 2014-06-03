@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-16 11:38+0000\n"
+"PO-Revision-Date: 2014-06-02 08:57+0000\n"
 "Last-Translator: PeppeMessoMalex <giuseppe.murabito@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -45,12 +45,12 @@ msgstr "Il campo inclusione del feed è necessario"
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr ""
+msgstr "Il campo categoria del feed non sembra contenere un valore valido."
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr ""
+msgstr "Il campo inclusione del feed è necessario."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -461,7 +461,7 @@ msgstr "Includere RSS News Feed sul Website"
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr ""
+msgstr "Crea Nuova Categoria dai Feed"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -662,7 +662,7 @@ msgstr "Hashtags - Separati da virgola "
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr ""
+msgstr "Feed geolocalizzazione - Geonames nome utente"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"

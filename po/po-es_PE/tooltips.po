@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-04-24 16:01+0000\n"
+"PO-Revision-Date: 2014-06-02 13:35+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -328,17 +328,17 @@ msgstr "Permitir a los usuarios enviar información vía el formulario web."
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "Número predeterminado de registros que serán devueltos en cada llamada a la API"
 
 #: tooltips.settings_api_max_record_limit
 msgctxt "tooltips.settings_api_max_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Número máximo de registros que serán devueltos en cada llamada a la API"
 
 #: tooltips.settings_api_max_requests_per_ip
 msgctxt "tooltips.settings_api_max_requests_per_ip"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Número máximo de llamadas a la API por dirección IP"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
@@ -438,7 +438,7 @@ msgstr "Los números de teléfono a través de los cuales se reciben los mensaje
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
 msgid "Tracks visitors of your site. Get detailed visitor statistics."
-msgstr ""
+msgstr "Sigue a los visitantes de tu sitio. Obtén estadísticas detalladas de los visitantes"
 
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
@@ -483,7 +483,7 @@ msgstr ""
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
 msgid "This is where the emails reside"
-msgstr ""
+msgstr "Esto es dónde los emails residen"
 
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
@@ -494,7 +494,7 @@ msgstr "Esta es la contraseña para la dirección de correo electrónico donde s
 msgctxt "tooltips.settings_server_port"
 msgid ""
 "This is required to accept incoming connections from the email address."
-msgstr ""
+msgstr "Esto es requerido para aceptar conexiones desde la dirección de correo electrónico"
 
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
