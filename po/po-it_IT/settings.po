@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-06-02 08:57+0000\n"
+"PO-Revision-Date: 2014-06-03 10:17+0000\n"
 "Last-Translator: PeppeMessoMalex <giuseppe.murabito@gmail.com>\n"
 "Language-Team: Italian (Italy) (http://www.transifex.com/projects/p/ushahidi-localizations/language/it_IT/)\n"
 "MIME-Version: 1.0\n"
@@ -212,7 +212,7 @@ msgstr "Configura la Mappa"
 #: settings.default_location
 msgctxt "settings.default_location"
 msgid "Default Location"
-msgstr "Luogo di default"
+msgstr "Posizione Predefinita"
 
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
@@ -232,12 +232,12 @@ msgstr "Il campo colore è necessario"
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr "Vista Mappa di Default"
+msgstr "Vista Mappa Predefinita"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr "Livello di default dello zoom"
+msgstr "Livello predefinito dello zoom"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
@@ -426,7 +426,7 @@ msgstr "Timeline mappa"
 #: settings.map_settings
 msgctxt "settings.map_settings"
 msgid "Map Settings"
-msgstr "Setting Mappa"
+msgstr "Impostazioni Mappa"
 
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
@@ -436,7 +436,7 @@ msgstr "Questa installazione di Ushahidi "
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
 msgid "Please select a default country"
-msgstr "Seleziona un paese di default"
+msgstr "Seleziona un paese predefinito"
 
 #: settings.set_location
 msgctxt "settings.set_location"
@@ -511,12 +511,12 @@ msgstr "Copyright del sito"
 #: settings.site.default_category_colors
 msgctxt "settings.site.default_category_colors"
 msgid "Default Color For All Categories"
-msgstr "Colore di default per tutte le categorie"
+msgstr "Colore predefinito per tutte le categorie"
 
 #: settings.site.default_category_icons
 msgctxt "settings.site.default_category_icons"
 msgid "Default Icon For All Categories"
-msgstr "Icona di default per tutte le categorie"
+msgstr "Icona predefinita per tutte le categorie"
 
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
@@ -526,7 +526,7 @@ msgstr "Elimina immagine di testata"
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
 msgid "Delete Default Icon"
-msgstr "Elimina icona di default"
+msgstr "Elimina icona predefinita"
 
 #: settings.site.display_contact_page
 msgctxt "settings.site.display_contact_page"
