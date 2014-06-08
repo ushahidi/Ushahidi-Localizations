@@ -1,13 +1,14 @@
 # 
 # Translators:
+# elioqoshi <elioqoshi94@gmail.com>, 2014
 # eno <no-proofs@msn.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-06-07 08:37+0000\n"
+"Last-Translator: elioqoshi <elioqoshi94@gmail.com>\n"
 "Language-Team: Albanian (Albania) (http://www.transifex.com/projects/p/ushahidi-localizations/language/sq_AL/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,14 +22,14 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr "Aksesi nuk u aprovua. Kredencialet tuaja mund t&euml; jen&euml; t&euml; pavlefshme ose k&euml;rkesa juaj &euml;sht&euml; refuzuar."
+msgstr "Aksesi nuk u aprovua. Kredencialet tuaja mund të jenë të pavlefshme ose kërkesa juaj është refuzuar."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr "Aksesi nuk u aprovua. K&euml;rkesa juaj &euml;sht&euml; kuptuar, por &euml;sht&euml; refuzuar si pasoj&euml; e aksesit t&euml; kufizuar. Ju lutem provoni m&euml; von&euml;."
+msgstr "Aksesi nuk u aprovua. Kërkesa juaj është kuptuar, por është refuzuar si pasojë e aksesit të kufizuar. Ju lutem provojeni më vonë."
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -53,12 +54,12 @@ msgstr "u shtua"
 #: ui_admin.added_edited
 msgctxt "ui_admin.added_edited"
 msgid "added/edited"
-msgstr "u shtua/u modifikua"
+msgstr "u shtua/ u modifikua"
 
 #: ui_admin.addons
 msgctxt "ui_admin.addons"
 msgid "Addons"
-msgstr "Adonse"
+msgstr "Shtojca"
 
 #: ui_admin.admin_role
 msgctxt "ui_admin.admin_role"
@@ -73,7 +74,7 @@ msgstr "Njoftime"
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr "Njoftime t&euml; marra"
+msgstr "Njoftime të marra"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -83,7 +84,7 @@ msgstr ""
 #: ui_admin.am
 msgctxt "ui_admin.am"
 msgid "AM"
-msgstr ""
+msgstr "AM"
 
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
@@ -93,7 +94,7 @@ msgstr "Anonim"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr "dokush"
+msgstr "çdokush"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
@@ -108,7 +109,7 @@ msgstr "API e ndaluar"
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
 msgid "API Logs"
-msgstr "API Logse"
+msgstr "API Shënime"
 
 #: ui_admin.api_settings
 msgctxt "ui_admin.api_settings"
