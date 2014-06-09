@@ -1,13 +1,14 @@
 # 
 # Translators:
+# samisepp <samiseppa@outlook.com>, 2014
 # Tomi Toivio <tomi@sange.fi>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:22+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-06-08 13:57+0000\n"
+"Last-Translator: samisepp <samiseppa@outlook.com>\n"
 "Language-Team: Finnish (http://www.transifex.com/projects/p/ushahidi-localizations/language/fi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -99,7 +100,7 @@ msgstr "Lisää uusi"
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
 msgid "Add New Category"
-msgstr ""
+msgstr "Lisää uusi kategoria"
 
 #: ui_main.add_translation
 msgctxt "ui_main.add_translation"
@@ -109,7 +110,7 @@ msgstr "Lisää käännös"
 #: ui_main.admin
 msgctxt "ui_main.admin"
 msgid "Administration"
-msgstr ""
+msgstr "Ylläpito"
 
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
@@ -218,7 +219,7 @@ msgstr "Sallittu"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Sallitut HTML elementit: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
@@ -373,17 +374,17 @@ msgstr ""
 #: ui_main.category_filter
 msgctxt "ui_main.category_filter"
 msgid "Category Filter"
-msgstr ""
+msgstr "Kategorian suodatin"
 
 #: ui_main.category_has_been
 msgctxt "ui_main.category_has_been"
 msgid "The category has been "
-msgstr ""
+msgstr "Kategoria on ollut"
 
 #: ui_main.category_name
 msgctxt "ui_main.category_name"
 msgid "Category Name"
-msgstr ""
+msgstr "Kategorian nimi"
 
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
@@ -864,7 +865,7 @@ msgstr ""
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr ""
+msgstr "Lähetä meille palautetta palvelun käyttökokemuksistasi lähettämällä sähköpostia"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -909,7 +910,7 @@ msgstr ""
 #: ui_main.filters
 msgctxt "ui_main.filters"
 msgid "Filters"
-msgstr ""
+msgstr "Suodattimet"
 
 #: ui_main.filter_reports
 msgctxt "ui_main.filter_reports"
@@ -1034,7 +1035,7 @@ msgstr ""
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "Kuinka auttaa?"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
@@ -1059,7 +1060,7 @@ msgstr ""
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
-msgstr ""
+msgstr "Kuinka raportoida?"
 
 #: ui_main.https
 msgctxt "ui_main.https"
@@ -1460,7 +1461,7 @@ msgstr ""
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "Luo käyttäjätili nyt saadaksesi hyödyt sivuston lisäominaisuuksista."
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
@@ -1550,12 +1551,12 @@ msgstr ""
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr ""
+msgstr "Lisää"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "Lisätietoja"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
@@ -1587,22 +1588,22 @@ msgstr ""
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr ""
+msgstr "Uutiset"
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "Uutisvirta"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr ""
+msgstr "Uutislähde"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "Uusi kategoria"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
@@ -1817,7 +1818,7 @@ msgstr ""
 #: ui_main.parent_category
 msgctxt "ui_main.parent_category"
 msgid "Parent Category"
-msgstr ""
+msgstr "Ylempi kategoria"
 
 #: ui_main.password
 msgctxt "ui_main.password"
@@ -1887,12 +1888,12 @@ msgstr ""
 #: ui_main.pictures
 msgctxt "ui_main.pictures"
 msgid "Pictures"
-msgstr ""
+msgstr "Kuvat"
 
 #: ui_main.pictures_and_videos
 msgctxt "ui_main.pictures_and_videos"
 msgid "Pictures and Videos"
-msgstr ""
+msgstr "Kuvat ja videot"
 
 #: ui_main.pinpoint_location
 msgctxt "ui_main.pinpoint_location"
@@ -2005,7 +2006,7 @@ msgstr ""
 #: ui_main.refresh_news_feeds
 msgctxt "ui_main.refresh_news_feeds"
 msgid "Refresh News Feeds"
-msgstr ""
+msgstr "Päivitä uutisvirrat"
 
 #: ui_main.registered_email
 msgctxt "ui_main.registered_email"
@@ -2030,7 +2031,7 @@ msgstr ""
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr ""
+msgstr "Raportit <span>(kartalla, listattu aikajärjestyksessä)</span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
@@ -2165,7 +2166,7 @@ msgstr ""
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr ""
+msgstr "Uutislähteen linkki"
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
@@ -2232,27 +2233,27 @@ msgstr ""
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr ""
+msgstr "Lähettämällä viesti"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr ""
+msgstr "Lähettämällä sähköpostia"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr ""
+msgstr "Lähettämällä tweetti hashtagillä"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr ""
+msgstr "Täyttämällä tämä lomake sivuillamme."
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "Käyttämällä sovellusta"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
@@ -2267,7 +2268,7 @@ msgstr ""
 #: ui_main.request_information
 msgctxt "ui_main.request_information"
 msgid "Request more information"
-msgstr ""
+msgstr "Pyydä lisätietoja"
 
 #: ui_main.request_location
 msgctxt "ui_main.request_location"
@@ -2297,7 +2298,7 @@ msgstr ""
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr ""
+msgstr "Tyhjennä suodattimet"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
@@ -2454,7 +2455,7 @@ msgstr ""
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr ""
+msgstr "Lähetetään"
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
@@ -2519,22 +2520,22 @@ msgstr ""
 #: ui_main.show
 msgctxt "ui_main.show"
 msgid "Show"
-msgstr ""
+msgstr "Näytä"
 
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
 msgid "Show all"
-msgstr ""
+msgstr "Näytä kaikki"
 
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "Näytä viestit"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "Näytetään raportit <span class=\"time-period\">%1$s to %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -3051,7 +3052,7 @@ msgstr ""
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr ""
+msgstr "Katso lisää"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
