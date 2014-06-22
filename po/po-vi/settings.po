@@ -1,13 +1,14 @@
 # 
 # Translators:
+# daidungsi <daidungsi@gmail.com>, 2014
 # Anh Phan <vietnamesel10n@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:20+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-06-21 12:51+0000\n"
+"Last-Translator: daidungsi <daidungsi@gmail.com>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/projects/p/ushahidi-localizations/language/vi/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,12 +41,12 @@ msgstr "Phần khung thông tin bao gồm feed không được để trống."
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr ""
+msgstr "Lĩnh vực danh mục nguồn cấp dữ liệu bao gồm không chứa một giá trị hợp lệ."
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr ""
+msgstr "Lĩnh vực danh mục nguồn cấp dữ liệu bao gồm là bắt buộc."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -456,7 +457,7 @@ msgstr "Bao gồm thông tin RSS dạng Feed trên Website"
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr ""
+msgstr "Tạo hạng mục mới từ những nguồn cấp dữ liệu"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -657,7 +658,7 @@ msgstr "Hashtags - Tách biệt bởi dấu phẩy"
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr ""
+msgstr "Cấp dữ liệu vị trí địa lý - cơ sở dữ liệu địa lý tên người dùng"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
