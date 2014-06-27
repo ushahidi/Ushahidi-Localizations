@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 # penguinarmy <penguinarmy@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-06-05 22:49+0000\n"
-"Last-Translator: penguinarmy <penguinarmy@gmail.com>\n"
+"PO-Revision-Date: 2014-06-27 06:07+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -149,7 +150,7 @@ msgstr "รับการแจ้งเตือน"
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "ได้รับการแจ้งเตือน"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -218,12 +219,12 @@ msgstr "อนุญาต"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "แท็ก HTML ที่อนุญาต: \"% s\""
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "Iframes จะได้รับอนุญาตจากเพียง:% s"
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -283,7 +284,7 @@ msgstr "ที่จัดเก็บเอกสาร"
 #: ui_main.ascending
 msgctxt "ui_main.ascending"
 msgid "Ascending"
-msgstr ""
+msgstr "จากน้อยไปมาก"
 
 #: ui_main.at
 msgctxt "ui_main.at"
@@ -318,32 +319,32 @@ msgstr "รอตรวจสอบความเป็นจริง"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "ตรา"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr ""
+msgstr "ตรา"
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr ""
+msgstr "ภาพตรา"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr ""
+msgstr "หรือคุณสามารถอัปโหลดตราของคุณเองแทน"
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr ""
+msgstr "ตราแพ็ค"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr ""
+msgstr "เลือกตรา"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -353,7 +354,7 @@ msgstr "บล็อค"
 #: ui_main.browse_profiles
 msgctxt "ui_main.browse_profiles"
 msgid "Browse Profiles"
-msgstr ""
+msgstr "เรียกดูโปรไฟล์"
 
 #: ui_main.cancel
 msgctxt "ui_main.cancel"
@@ -486,13 +487,13 @@ msgctxt "ui_main.confirm_email_successful_and_approval"
 msgid ""
 "You have successfully confirmed your email address! An administrator must "
 "approve your account before you login"
-msgstr ""
+msgstr "คุณได้ยืนยันที่อยู่อีเมลของคุณเรียบร้อยแล้ว! ผู้ดูแลระบบต้องอนุมัติบัญชีของคุณก่อนที่คุณจะเข้าสู่ระบบได้"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
 msgid ""
 "Email confirmation failed! You can request a new email confirmation below."
-msgstr ""
+msgstr "อีเมล์ยืนยันล้มเหลว คุณสามารถขออีเมลยืนยันใหม่ข้างล่าง"
 
 #: ui_main.contact
 msgctxt "ui_main.contact"
@@ -617,7 +618,7 @@ msgstr "ไม่ทำงาน"
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr ""
+msgstr "ไนโรบี, เคนยา"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -672,7 +673,7 @@ msgstr "รายละเอียด"
 #: ui_main.descending
 msgctxt "ui_main.descending"
 msgid "Descending"
-msgstr ""
+msgstr "จากมากไปน้อย"
 
 #: ui_main.detailed_location_example
 msgctxt "ui_main.detailed_location_example"
@@ -707,7 +708,7 @@ msgstr "ดาวน์โหลดรายงาน"
 #: ui_main.download
 msgctxt "ui_main.download"
 msgid "Download"
-msgstr ""
+msgstr "ดาวน์โหลด"
 
 #: ui_main.edit
 msgctxt "ui_main.edit"
@@ -742,74 +743,74 @@ msgstr "ตั้งค่าเมล์เซอร์เวอร์"
 #: ui_main.email_server_host
 msgctxt "ui_main.email_server_host"
 msgid "Mail Server Host"
-msgstr ""
+msgstr "เมลเซิร์ฟเวอร์โฮสต์"
 
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr ""
+msgstr "อีเมลรหัสผ่านสำหรับเซิร์ฟเวอร์"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr ""
+msgstr "พอร์ตเซิร์ฟเวอร์สำหรับอีเมล"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr ""
+msgstr "ให้บริการช่วยเหลือเซิร์ฟเวอร์อีเมล SSL"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr ""
+msgstr "ประเภทเซิร์ฟเวอร์อีเมล"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr ""
+msgstr "อีเมลชื่อผู้ใช้งาน"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
 msgid "so your settings have to be associated with this email address"
-msgstr ""
+msgstr "ดังนั้นการตั้งค่าของคุณจะต้องเกี่ยวข้องกับที่อยู่อีเมลนี้"
 
 #: ui_main.email_settings_comment_00
 msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr ""
+msgstr "เพื่อที่จะได้รับรายงานทางอีเมลโปรดเข้าการตั้งค่าบัญชีอีเมลของคุณด้านล่าง โปรดทราบว่าอีเมลจะได้รับในอีเมลที่อยู่ของคุณ"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
 msgid "Some servers require a complete email address"
-msgstr ""
+msgstr "เซิร์ฟเวอร์บางอย่างต้องใช้ที่อยู่อีเมล"
 
 #: ui_main.email_settings_comment_2
 msgctxt "ui_main.email_settings_comment_2"
 msgid "Email account password"
-msgstr ""
+msgstr "รหัสผ่านของบัญชีอีเมล"
 
 #: ui_main.email_settings_comment_3
 msgctxt "ui_main.email_settings_comment_3"
 msgid "Common ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr ""
+msgstr "พอร์ตสามัญ: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
 
 #: ui_main.email_settings_comment_4
 msgctxt "ui_main.email_settings_comment_4"
 msgid "Examples: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
-msgstr ""
+msgstr "ตัวอย่าง: mail.yourwebsite.com, imap.gmail.com, pop.gmail.com"
 
 #: ui_main.email_settings_comment_5
 msgctxt "ui_main.email_settings_comment_5"
 msgid "Examples: pop3, imap"
-msgstr ""
+msgstr "ตัวอย่าง: pop3, IMAP"
 
 #: ui_main.email_settings_comment_6
 msgctxt "ui_main.email_settings_comment_6"
 msgid "Enable or disable SSL connections"
-msgstr ""
+msgstr "เปิดหรือปิดการใช้งานการเชื่อมต่อ SSL"
 
 #: ui_main.empty
 msgctxt "ui_main.empty"
@@ -834,7 +835,7 @@ msgstr "ตัวอย่าง"
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
 msgid "Kenya"
-msgstr ""
+msgstr "ประเทศเคนย่า"
 
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
@@ -844,12 +845,12 @@ msgstr "แอปฯ ภายนอก"
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr ""
+msgstr "วิดีโอลิงค์"
 
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -894,7 +895,7 @@ msgstr "ฟีต URL"
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
 msgid "Unused field"
-msgstr ""
+msgstr "ข้อมูลที่ไม่ได้ใช้"
 
 #: ui_main.file
 msgctxt "ui_main.file"
@@ -944,7 +945,7 @@ msgstr "ชื่อจริง"
 #: ui_main.force_run_scheduler
 msgctxt "ui_main.force_run_scheduler"
 msgid "Force Run Scheduler"
-msgstr ""
+msgstr "บังคับการจัดตารางเวลา"
 
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
@@ -994,7 +995,7 @@ msgstr "ชื่อจริง"
 #: ui_main.geolocation_available
 msgctxt "ui_main.geolocation_available"
 msgid "GeoLocation Available"
-msgstr ""
+msgstr "มี GeoLocation"
 
 #: ui_main.geometry_color
 msgctxt "ui_main.geometry_color"
@@ -1014,7 +1015,7 @@ msgstr "ป้าย"
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr ""
+msgstr "ความกว้างของเส้น"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -1024,17 +1025,17 @@ msgstr "ไป"
 #: ui_main.hashtag
 msgctxt "ui_main.hashtag"
 msgid "Hashtag"
-msgstr ""
+msgstr "#"
 
 #: ui_main.has_been
 msgctxt "ui_main.has_been"
 msgid "Has Been"
-msgstr ""
+msgstr "เคยมี"
 
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr ""
+msgstr "วิธีการช่วยเหลือ"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
@@ -1074,32 +1075,32 @@ msgstr "ID"
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr ""
+msgstr "ใช้ในการระบุตัวตนของคุณบนเว็บไซต์ของผู้อื่น"
 
 #: ui_main.image
 msgctxt "ui_main.image"
 msgid "Image"
-msgstr ""
+msgstr "รูปภาพ"
 
 #: ui_main.images
 msgctxt "ui_main.images"
 msgid "Images"
-msgstr ""
+msgstr "รูปภาพ"
 
 #: ui_main.image_icon
 msgctxt "ui_main.image_icon"
 msgid "Image/Icon"
-msgstr ""
+msgstr "รูปภาพ/ไอคอน"
 
 #: ui_main.inactive
 msgctxt "ui_main.inactive"
 msgid "Inactive"
-msgstr ""
+msgstr "ไม่ได้ทำงาน"
 
 #: ui_main.inbox
 msgctxt "ui_main.inbox"
 msgid "Inbox"
-msgstr ""
+msgstr "กล่องขาเข้า"
 
 #: ui_main.incident
 msgctxt "ui_main.incident"
@@ -1159,12 +1160,12 @@ msgstr "รวมถึงลองจิจูด"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "รวมข้อมูลส่วนบุคคล"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr ""
+msgstr "สื่อที่เข้ามา"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
@@ -1181,7 +1182,7 @@ msgctxt "ui_main.insufficient_role"
 msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
-msgstr ""
+msgstr "บัญชีของคุณไม่ได้รับอนุญาตที่เหมาะสมในการรองรับการเข้าสู่ระบบ กรุณาติดต่อผู้ดูแล"
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1196,177 +1197,177 @@ msgstr "หมายเลขไอพี"
 #: ui_main.is_this_your_profile
 msgctxt "ui_main.is_this_your_profile"
 msgid "Is this your profile?"
-msgstr ""
+msgstr "นี้เป็นรายละเอียดของคุณหรือไม่"
 
 #: ui_main.item
 msgctxt "ui_main.item"
 msgid "item"
-msgstr ""
+msgstr "รายการ"
 
 #: ui_main.items
 msgctxt "ui_main.items"
 msgid "items"
-msgstr ""
+msgstr "รายการ"
 
 #: ui_main.item_details
 msgctxt "ui_main.item_details"
 msgid "item_details"
-msgstr ""
+msgstr "รายการ_รายละเอียด"
 
 #: ui_main.item_title
 msgctxt "ui_main.item_title"
 msgid "Item Title"
-msgstr ""
+msgstr "ชื่อรายการ"
 
 #: ui_main.key
 msgctxt "ui_main.key"
 msgid "Key"
-msgstr ""
+msgstr "กุญแจ"
 
 #: ui_main.keywords
 msgctxt "ui_main.keywords"
 msgid "Keywords"
-msgstr ""
+msgstr "คำหลัก"
 
 #: ui_main.kml_kmz_file
 msgctxt "ui_main.kml_kmz_file"
 msgid "KMZ/KML File"
-msgstr ""
+msgstr "ไฟล์ KMZ/KML"
 
 #: ui_main.kml_kmz_upload
 msgctxt "ui_main.kml_kmz_upload"
 msgid "Upload KMZ/KML File"
-msgstr ""
+msgstr "อัปโหลดไฟล์ KMZ/KML"
 
 #: ui_main.kml_url
 msgctxt "ui_main.kml_url"
 msgid "KML URL"
-msgstr ""
+msgstr "KML URL"
 
 #: ui_main.laconica
 msgctxt "ui_main.laconica"
 msgid "Laconica"
-msgstr ""
+msgstr "Laconica"
 
 #: ui_main.language
 msgctxt "ui_main.language"
 msgid "Language"
-msgstr ""
+msgstr "ภาษา"
 
 #: ui_main.last
 msgctxt "ui_main.last"
 msgid "Last"
-msgstr ""
+msgstr "สุดท้าย"
 
 #: ui_main.last_month
 msgctxt "ui_main.last_month"
 msgid "Last Month"
-msgstr ""
+msgstr "เดือนที่แล้ว"
 
 #: ui_main.last_name
 msgctxt "ui_main.last_name"
 msgid "Last Name"
-msgstr ""
+msgstr "นามสกุล"
 
 #: ui_main.last_year
 msgctxt "ui_main.last_year"
 msgid "Last Year"
-msgstr ""
+msgstr "ปีก่อน"
 
 #: ui_main.latitude
 msgctxt "ui_main.latitude"
 msgid "Latitude"
-msgstr ""
+msgstr "ละติจูด"
 
 #: ui_main.layers
 msgctxt "ui_main.layers"
 msgid "Layers"
-msgstr ""
+msgstr "ชั้น"
 
 #: ui_main.layers_filter
 msgctxt "ui_main.layers_filter"
 msgid "Other Layers"
-msgstr ""
+msgstr "ชั้นอื่นๆ"
 
 #: ui_main.layer_has_been
 msgctxt "ui_main.layer_has_been"
 msgid "The Layer Has Been"
-msgstr ""
+msgstr "ชั้นที่ได้รับการ"
 
 #: ui_main.layer_name
 msgctxt "ui_main.layer_name"
 msgid "Layer Name"
-msgstr ""
+msgstr "ชื่อชั้น"
 
 #: ui_main.layer_url
 msgctxt "ui_main.layer_url"
 msgid "Layer URL"
-msgstr ""
+msgstr "ชั้น URL"
 
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr ""
+msgstr "แสดงความคิดเห็น"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr ""
+msgstr "ข้อมูลน้อยลง"
 
 #: ui_main.level
 msgctxt "ui_main.level"
 msgid "Level"
-msgstr ""
+msgstr "ระดับ"
 
 #: ui_main.level_has_been
 msgctxt "ui_main.level_has_been"
 msgid "This level has been"
-msgstr ""
+msgstr "ระดับนี้ได้รับ"
 
 #: ui_main.level_name
 msgctxt "ui_main.level_name"
 msgid "Level Name"
-msgstr ""
+msgstr "ชื่อระดับ"
 
 #: ui_main.limited
 msgctxt "ui_main.limited"
 msgid "Limited"
-msgstr ""
+msgstr "จำกัด"
 
 #: ui_main.link
 msgctxt "ui_main.link"
 msgid "Link"
-msgstr ""
+msgstr "ลิงค์"
 
 #: ui_main.list
 msgctxt "ui_main.list"
 msgid "List"
-msgstr ""
+msgstr "รายชื่อ"
 
 #: ui_main.loading_reports
 msgctxt "ui_main.loading_reports"
 msgid "Loading Reports"
-msgstr ""
+msgstr "โหลดรายงาน"
 
 #: ui_main.location
 msgctxt "ui_main.location"
 msgid "Location"
-msgstr ""
+msgstr "สถานที่"
 
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr ""
+msgstr "สถานที่"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr ""
+msgstr "เมือง, รัฐ และ/หรือ ประเทศ"
 
 #: ui_main.login
 msgctxt "ui_main.login"
 msgid "Login"
-msgstr ""
+msgstr "เข้าสู่ระบบ"
 
 #: ui_main.login_account_creation_successful
 msgctxt "ui_main.login_account_creation_successful"
@@ -1376,74 +1377,74 @@ msgstr "บัญชีผู้ใช้ถูกสร้างแล้ว �
 #: ui_main.login_confirmation_sent
 msgctxt "ui_main.login_confirmation_sent"
 msgid "A confirmation has been sent to your email address."
-msgstr ""
+msgstr "ข้อความยืนยันได้ถูกส่งไปยังที่อยู่อีเมลของคุณ"
 
 #: ui_main.login_approval_required
 msgctxt "ui_main.login_approval_required"
 msgid ""
 "Account created. Your account must be approved by an admin before you can "
 "login."
-msgstr ""
+msgstr "บัญชีถูกสร้างขึ้นแล้ว บัญชีของคุณจะต้องได้รับการอนุมัติโดยผู้ดูแลระบบก่อนที่คุณจะสามารถเข้าสู่ระบบได้"
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
 msgid ""
 "Email address doesn't exist. Try a different address or create an account."
-msgstr ""
+msgstr "ที่อยู่อีเมลไม่ถูกต้อง ลองใช้ที่อยู่อีเมลอื่น หรือสร้างบัญชีใหม่"
 
 #: ui_main.login_select_openid
 msgctxt "ui_main.login_select_openid"
 msgid "Please click your account provider"
-msgstr ""
+msgstr "กรุณาลือกผู้ให้บริการบัญชีของคุณ"
 
 #: ui_main.login_with
 msgctxt "ui_main.login_with"
 msgid "Login with"
-msgstr ""
+msgstr "เข้าสู่ระบบด้วย"
 
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr ""
+msgstr "อีเมล์และรหัสผ่าน"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
 msgid "OpenID"
-msgstr ""
+msgstr "เปิด ID"
 
 #: ui_main.login_signup
 msgctxt "ui_main.login_signup"
 msgid "Sign Up"
-msgstr ""
+msgstr "สมัคร"
 
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr ""
+msgstr "สร้างบัญชี"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "ขอขอบคุณสำหรับการลงทะเบียนที่% 1 $ s เพื่อยืนยันอีเมลของคุณโปรดไปที่ URL ต่อไปนี้:% 2 $ s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
 msgid "Signup Confirmation"
-msgstr ""
+msgstr "ยืนยันการลงทะเบียน"
 
 #: ui_main.login_signup_admin_approval_message
 msgctxt "ui_main.login_signup_admin_approval_message"
 msgid ""
 "An new user has signed up at %1$s. To approve their registration please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "ผู้ใช้ใหม่ได้ลงทะเบียนที่% 1 $ s เพื่ออนุมัติการลงทะเบียนของพวกเขาโปรดไปที่ URL ต่อไปนี้:% 2 $ s"
 
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
 msgid "New User Approval"
-msgstr ""
+msgstr "อนุมัติผู้ใช้ใหม่"
 
 #: ui_main.login_signup_approval_message
 msgctxt "ui_main.login_signup_approval_message"
@@ -1460,224 +1461,224 @@ msgstr ""
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
 msgid "Create an account now to take advantage of more features on the site."
-msgstr ""
+msgstr "สร้างบัญชีตอนนี้เพื่อใช้คุณสมบัติเพิ่มเติมของเว็บไซต์"
 
 #: ui_main.longitude
 msgctxt "ui_main.longitude"
 msgid "Longitude"
-msgstr ""
+msgstr "ลองจิจูด"
 
 #: ui_main.map
 msgctxt "ui_main.map"
 msgid "Map"
-msgstr ""
+msgstr "แผนที่"
 
 #: ui_main.mark_read
 msgctxt "ui_main.mark_read"
 msgid "Mark as Read"
-msgstr ""
+msgstr "มาร์คว่าอ่าน"
 
 #: ui_main.mark_unread
 msgctxt "ui_main.mark_unread"
 msgid "Mark as Unread"
-msgstr ""
+msgstr "มาร์คว่ายังไม่ได้อ่าน"
 
 #: ui_main.maximum_filesize
 msgctxt "ui_main.maximum_filesize"
 msgid "Maximum filesize"
-msgstr ""
+msgstr "ขนาดไฟล์สูงสุด"
 
 #: ui_main.media
 msgctxt "ui_main.media"
 msgid "Media"
-msgstr ""
+msgstr "สื่อ"
 
 #: ui_main.media_filter
 msgctxt "ui_main.media_filter"
 msgid "Media Filter"
-msgstr ""
+msgstr "กรองสื่อ"
 
 #: ui_main.members
 msgctxt "ui_main.members"
 msgid "Members"
-msgstr ""
+msgstr "สมาชิก"
 
 #: ui_main.manage_your_account
 msgctxt "ui_main.manage_your_account"
 msgid "Manage Your Account"
-msgstr ""
+msgstr "จัดการบัญชีของคุณ"
 
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr ""
+msgstr "ข้อความ"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr ""
+msgstr "ข้อความ"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr ""
+msgstr "รายละเอียดข้อความ"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr ""
+msgstr "ข้อความจากแหล่งที่ไม่ใช่ตัวเลข"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "โทรศัพท์มือถือ"
 
 #: ui_main.modify
 msgctxt "ui_main.modify"
 msgid "Modify"
-msgstr ""
+msgstr "แก้ไข"
 
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr ""
+msgstr "แก้ไขวันที่"
 
 #: ui_main.month
 msgctxt "ui_main.month"
 msgid "month"
-msgstr ""
+msgstr "เดือน"
 
 #: ui_main.more
 msgctxt "ui_main.more"
 msgid "More"
-msgstr ""
+msgstr "เพิ่มเติม"
 
 #: ui_main.more_information
 msgctxt "ui_main.more_information"
 msgid "More Information"
-msgstr ""
+msgstr "ข้อมูลเพิ่มเติม"
 
 #: ui_main.multi_country_instance
 msgctxt "ui_main.multi_country_instance"
 msgid "Does this Ushahidi Deployment Span Multiple Countries"
-msgstr ""
+msgstr "การใช้งาน Ushahidi ข้ามหลายประเทศไม่?"
 
 #: ui_main.must_confirm_email_address
 msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr ""
+msgstr "คุณต้องยืนยันอีเมลของคุณในการใช้งานนี้ ถ้าคุณสูญเสียอีเมลยืนยันของคุณ คุณสามารถขอใหม่ด้านล่าง"
 
 #: ui_main.name
 msgctxt "ui_main.name"
 msgid "Name"
-msgstr ""
+msgstr "ชื่อ"
 
 #: ui_main.nearby_report
 msgctxt "ui_main.nearby_report"
 msgid "Nearby Report"
-msgstr ""
+msgstr "รายงานที่อยู่ใกล้ๆ"
 
 #: ui_main.new
 msgctxt "ui_main.new"
 msgid "New"
-msgstr ""
+msgstr "ใหม่"
 
 #: ui_main.news
 msgctxt "ui_main.news"
 msgid "News"
-msgstr ""
+msgstr "ข่าว"
 
 #: ui_main.news_feeds
 msgctxt "ui_main.news_feeds"
 msgid "News Feeds"
-msgstr ""
+msgstr "ฟีดข่าว"
 
 #: ui_main.news_source
 msgctxt "ui_main.news_source"
 msgid "News Source"
-msgstr ""
+msgstr "แหล่งที่มาของข่าว"
 
 #: ui_main.new_category
 msgctxt "ui_main.new_category"
 msgid "New Category"
-msgstr ""
+msgstr "หมวดหมู่ใหม่"
 
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr ""
+msgstr "รหัสผ่านใหม่"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
 msgid "New Report"
-msgstr ""
+msgstr "รายงานใหม่"
 
 #: ui_main.next
 msgctxt "ui_main.next"
 msgid "Next"
-msgstr ""
+msgstr "ต่อไป"
 
 #: ui_main.no
 msgctxt "ui_main.no"
 msgid "No"
-msgstr ""
+msgstr "ไม่"
 
 #: ui_main.no_checkins
 msgctxt "ui_main.no_checkins"
 msgid "No checkins to display."
-msgstr ""
+msgstr "ไม่มีเช็คอินเพื่อแสดง"
 
 #: ui_main.no_data
 msgctxt "ui_main.no_data"
 msgid "No data"
-msgstr ""
+msgstr "ไม่มีข้อมูล"
 
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "ไม่มี"
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr ""
+msgstr "คำชี้แจง"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
 msgid "Not Approved"
-msgstr ""
+msgstr "ไม่ได้รับการอนุมัติ"
 
 #: ui_main.not_approved_singular
 msgctxt "ui_main.not_approved_singular"
 msgid "Not Approved"
-msgstr ""
+msgstr "ไม่ได้รับการอนุมัติ"
 
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr ""
+msgstr "---ไม่ได้เลือก---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
 msgid "not spam"
-msgstr ""
+msgstr "ไม่ใช่สแปม"
 
 #: ui_main.not_specified
 msgctxt "ui_main.not_specified"
 msgid "Not Specified"
-msgstr ""
+msgstr "ไม่ระบุ"
 
 #: ui_main.no_reports
 msgctxt "ui_main.no_reports"
 msgid "There are no reports"
-msgstr ""
+msgstr "ไม่มีรายงาน"
 
 #: ui_main.no_results
 msgctxt "ui_main.no_results"
 msgid "There are no results"
-msgstr ""
+msgstr "ไม่มีผลลัพธ์"
 
 #: ui_main.off
 msgctxt "ui_main.off"
@@ -1687,7 +1688,7 @@ msgstr "ปิด"
 #: ui_main.official_news
 msgctxt "ui_main.official_news"
 msgid "Official &amp; mainstream news"
-msgstr ""
+msgstr "ทางการ และ ข่าวกระแสหลัก"
 
 #: ui_main.on
 msgctxt "ui_main.on"
@@ -1697,82 +1698,82 @@ msgstr "เปิด"
 #: ui_main.option
 msgctxt "ui_main.option"
 msgid "Option"
-msgstr ""
+msgstr "ตัวเลือก"
 
 #: ui_main.optional
 msgctxt "ui_main.optional"
 msgid "Optional"
-msgstr ""
+msgstr "ทางเลือก"
 
 #: ui_main.options
 msgctxt "ui_main.options"
 msgid "Options"
-msgstr ""
+msgstr "ตัวเลือก"
 
 #: ui_main.organization
 msgctxt "ui_main.organization"
 msgid "Organization"
-msgstr ""
+msgstr "องค์กร"
 
 #: ui_main.organizations
 msgctxt "ui_main.organizations"
 msgid "Organizations"
-msgstr ""
+msgstr "องค์กร"
 
 #: ui_main.organization_description
 msgctxt "ui_main.organization_description"
 msgid "Organization Description"
-msgstr ""
+msgstr "รายละเอียดองค์กร"
 
 #: ui_main.organization_email
 msgctxt "ui_main.organization_email"
 msgid "Organization Email"
-msgstr ""
+msgstr "อีเมล์องค์กร"
 
 #: ui_main.organization_has_been
 msgctxt "ui_main.organization_has_been"
 msgid "The Organization Has Been"
-msgstr ""
+msgstr "องค์กรได้รับการ"
 
 #: ui_main.organization_name
 msgctxt "ui_main.organization_name"
 msgid "Organization Name"
-msgstr ""
+msgstr "ชื่อองค์กร"
 
 #: ui_main.organization_phone_1
 msgctxt "ui_main.organization_phone_1"
 msgid "Organization Phone 1"
-msgstr ""
+msgstr "เบอร์โทรศัพท์องค์การ 1"
 
 #: ui_main.organization_phone_2
 msgctxt "ui_main.organization_phone_2"
 msgid "Organization Phone 2"
-msgstr ""
+msgstr "เบอร์โทรศัพท์องค์การ 2"
 
 #: ui_main.organization_website
 msgctxt "ui_main.organization_website"
 msgid "Organization Website"
-msgstr ""
+msgstr "เว็บไซต์องค์กร"
 
 #: ui_main.original
 msgctxt "ui_main.original"
 msgid "Original"
-msgstr ""
+msgstr "ต้นฉบับ"
 
 #: ui_main.original_description
 msgctxt "ui_main.original_description"
 msgid "Original Description"
-msgstr ""
+msgstr "อธิบายต้นฉบับ"
 
 #: ui_main.original_title
 msgctxt "ui_main.original_title"
 msgid "Original Title"
-msgstr ""
+msgstr "ชื่อต้นฉบับ"
 
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr ""
+msgstr "ปรับใช้อื่น ๆ"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
@@ -1782,7 +1783,7 @@ msgstr "กล่องออก"
 #: ui_main.outgoing
 msgctxt "ui_main.outgoing"
 msgid "Outgoing"
-msgstr ""
+msgstr "ขาออก"
 
 #: ui_main.page
 msgctxt "ui_main.page"
@@ -1807,7 +1808,7 @@ msgstr "หน้านี้ถูก"
 #: ui_main.page_tab_name
 msgctxt "ui_main.page_tab_name"
 msgid "Page Tab Name"
-msgstr ""
+msgstr "ชื่อหน้าแท็บ"
 
 #: ui_main.page_title
 msgctxt "ui_main.page_title"
@@ -1900,7 +1901,7 @@ msgid ""
 "* Search for your location using a location name OR latitude,longitude "
 "coordinates (format: 38.19, 85.61), OR click on the map to pinpoint the "
 "correct location."
-msgstr ""
+msgstr "* ค้นหาสถานที่ตั้งของคุณโดยใช้ชื่อสถานที่ หรือ ละติจูดและลองจิจูด (รูปแบบ: 38.19, 85.61) หรือคลิกที่แผนที่เพื่อหาตำแหน่งที่ถูกต้อง"
 
 #: ui_main.play
 msgctxt "ui_main.play"
@@ -1920,17 +1921,17 @@ msgstr "ส่วนเสริม"
 #: ui_main.plugin_url
 msgctxt "ui_main.plugin_url"
 msgid "Plugin Website"
-msgstr ""
+msgstr "ปลั๊กอินเว็บไซต์"
 
 #: ui_main.public_profile
 msgctxt "ui_main.public_profile"
 msgid "Public Profile"
-msgstr ""
+msgstr "โปรไฟล์ส่วนกลาง"
 
 #: ui_main.public_profile_url
 msgctxt "ui_main.public_profile_url"
 msgid "Public Profile URL"
-msgstr ""
+msgstr "URL โปรไฟล์ส่วนกลาง"
 
 #: ui_main.preview
 msgctxt "ui_main.preview"
@@ -1940,7 +1941,7 @@ msgstr "ตัวอย่าง"
 #: ui_main.preview_item
 msgctxt "ui_main.preview_item"
 msgid "Preview Item"
-msgstr ""
+msgstr "แสดงตัวอย่างรายการ"
 
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
@@ -1955,12 +1956,12 @@ msgstr "ก่อนหน้า"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr ""
+msgstr "ส่วนตัว"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
 msgid "Profile Color"
-msgstr ""
+msgstr "สีโปรไฟล์"
 
 #: ui_main.profile_saved
 msgctxt "ui_main.profile_saved"
@@ -2030,22 +2031,22 @@ msgstr "รายงาน"
 #: ui_main.reports_listed
 msgctxt "ui_main.reports_listed"
 msgid "Reports <span>(from the map, listed in chronological order)</span>"
-msgstr ""
+msgstr "รายงาน <span> (จากแผนที่ที่ระบุไว้ตามลำดับ) </ span>"
 
 #: ui_main.reporter
 msgctxt "ui_main.reporter"
 msgid "Reporter"
-msgstr ""
+msgstr "ผู้รายงานข่าว"
 
 #: ui_main.reporters
 msgctxt "ui_main.reporters"
 msgid "Reporters"
-msgstr ""
+msgstr "ผู้รายงานข่าว"
 
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr ""
+msgstr "ข่าววันที่"
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
@@ -2075,27 +2076,27 @@ msgstr "นามสกุลผู้รายงาน"
 #: ui_main.reporter_level
 msgctxt "ui_main.reporter_level"
 msgid "Reporter Level"
-msgstr ""
+msgstr "ระดับผู้รายงาน"
 
 #: ui_main.reporter_levels
 msgctxt "ui_main.reporter_levels"
 msgid "Reporter Levels"
-msgstr ""
+msgstr "ระดับผู้รายงาน"
 
 #: ui_main.reporter_phone
 msgctxt "ui_main.reporter_phone"
 msgid "Reporter Phone"
-msgstr ""
+msgstr "เบอร์ผู้รายงาน"
 
 #: ui_main.reports
 msgctxt "ui_main.reports"
 msgid "Reports"
-msgstr ""
+msgstr "รายงาน"
 
 #: ui_main.reports_btn_browse
 msgctxt "ui_main.reports_btn_browse"
 msgid "Browse"
-msgstr ""
+msgstr "ค้นหา"
 
 #: ui_main.reports_btn_submit
 msgctxt "ui_main.reports_btn_submit"
@@ -2105,17 +2106,17 @@ msgstr "ส่ง"
 #: ui_main.reports_by_this_user
 msgctxt "ui_main.reports_by_this_user"
 msgid "Reports By This User"
-msgstr ""
+msgstr "รายงานโดยผู้ใช้นี้"
 
 #: ui_main.reports_categories
 msgctxt "ui_main.reports_categories"
 msgid "Categories"
-msgstr ""
+msgstr "หมวดหมู่"
 
 #: ui_main.reports_count
 msgctxt "ui_main.reports_count"
 msgid "%d Reports"
-msgstr ""
+msgstr "%d รายงาน"
 
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
@@ -2130,7 +2131,7 @@ msgstr "รายละเอียด"
 #: ui_main.reports_download_csv
 msgctxt "ui_main.reports_download_csv"
 msgid "Reports will be downloaded in CSV format"
-msgstr ""
+msgstr "รายงานจะถูกดาวน์โหลดในรูปแบบ CSV"
 
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
@@ -2140,12 +2141,12 @@ msgstr "อีเมล์"
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
 msgid "Features"
-msgstr ""
+msgstr "คุณสมบัติ"
 
 #: ui_main.reports_find_location
 msgctxt "ui_main.reports_find_location"
 msgid "Find a location near you"
-msgstr ""
+msgstr "หาที่อยู่ใกล้คุณ"
 
 #: ui_main.reports_first
 msgctxt "ui_main.reports_first"
@@ -2165,7 +2166,7 @@ msgstr "ชื่อสถานที่"
 #: ui_main.reports_news
 msgctxt "ui_main.reports_news"
 msgid "News Source Link"
-msgstr ""
+msgstr "ลิงค์ข่าว"
 
 #: ui_main.reports_optional
 msgctxt "ui_main.reports_optional"
@@ -2192,7 +2193,7 @@ msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr ""
+msgstr "รายงานของคุณได้ถูกส่งไปยังเจ้าหน้าที่ของเราเพื่อรับการพิจารณา ถ้าจำเป็นเราจะติดต่อกลับมาหาคุณในไม่ช้า"
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
@@ -2207,7 +2208,7 @@ msgstr "เวลา"
 #: ui_main.reports_timeline
 msgctxt "ui_main.reports_timeline"
 msgid "Reports Timeline"
-msgstr ""
+msgstr "ระยะเวลารายงาน"
 
 #: ui_main.reports_title
 msgctxt "ui_main.reports_title"
@@ -2222,7 +2223,7 @@ msgstr "ลิงค์วีดีโอ"
 #: ui_main.report_an_incident
 msgctxt "ui_main.report_an_incident"
 msgid "Report an Incident"
-msgstr ""
+msgstr "รายงานเหตุการณ์"
 
 #: ui_main.report_details
 msgctxt "ui_main.report_details"
@@ -2232,57 +2233,57 @@ msgstr "รายละเอียดรายงาน"
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr ""
+msgstr "โดยการส่งข้อความไปยัง"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr ""
+msgstr "โดยการส่งอีเมลไปยัง"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
 msgid "By sending a tweet with the hashtag/s"
-msgstr ""
+msgstr "โดยการส่งทวีตพร้อม #"
 
 #: ui_main.report_option_4
 msgctxt "ui_main.report_option_4"
 msgid "By filling this form on our website."
-msgstr ""
+msgstr "โดยการกรอกแบบฟอร์มนี้ในเว็บไซต์ของเรา"
 
 #: ui_main.report_option_external_apps
 msgctxt "ui_main.report_option_external_apps"
 msgid "By using an app"
-msgstr ""
+msgstr "โดยใช้แอพ"
 
 #: ui_main.report_saved
 msgctxt "ui_main.report_saved"
 msgid "Your Report Has Been Saved"
-msgstr ""
+msgstr "รายงานของคุณได้รับการบันทึกแล้ว"
 
 #: ui_main.report_title
 msgctxt "ui_main.report_title"
 msgid "Report Title"
-msgstr ""
+msgstr "ชื่อรายงาน"
 
 #: ui_main.request_information
 msgctxt "ui_main.request_information"
 msgid "Request more information"
-msgstr ""
+msgstr "ขอข้อมูลเพิ่มเติม"
 
 #: ui_main.request_location
 msgctxt "ui_main.request_location"
 msgid "Request location"
-msgstr ""
+msgstr "ขอตำแหน่ง"
 
 #: ui_main.required
 msgctxt "ui_main.required"
 msgid "Required"
-msgstr ""
+msgstr "จำเป็น"
 
 #: ui_main.requirements
 msgctxt "ui_main.requirements"
 msgid "Requirements"
-msgstr ""
+msgstr "ต้องการ"
 
 #: ui_main.resend_confirm_email
 msgctxt "ui_main.resend_confirm_email"
@@ -2307,549 +2308,549 @@ msgstr "ตั้งรหัสใหม่"
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
 msgid "Retrieve city names for the selected country"
-msgstr ""
+msgstr "ชื่อเมืองของประเทศที่เลือก"
 
 #: ui_main.riverid_information
 msgctxt "ui_main.riverid_information"
 msgid "Accounts managed by the %s service."
-msgstr ""
+msgstr "บัญชีที่จัดการโดยบริการ % s"
 
 #: ui_main.riverid_exists_login
 msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "คุณมีบัญชี CrowdmapID แล้ว! ลองใช้อีเมล CrowdmapID ของคุณและรหัสผ่านเพื่อเข้าสู่ระบบ"
 
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr ""
+msgstr "บทบาท"
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: ui_main.save
 msgctxt "ui_main.save"
 msgid "Save"
-msgstr ""
+msgstr "บันทึก"
 
 #: ui_main.saved
 msgctxt "ui_main.saved"
 msgid "Saved"
-msgstr ""
+msgstr "บันทึกแล้ว"
 
 #: ui_main.save_add_new
 msgctxt "ui_main.save_add_new"
 msgid "Save & Add New"
-msgstr ""
+msgstr "บันทึกและเพิ่มใหม่"
 
 #: ui_main.save_close
 msgctxt "ui_main.save_close"
 msgid "Save & Close"
-msgstr ""
+msgstr "บันทึกและปิด"
 
 #: ui_main.save_report
 msgctxt "ui_main.save_report"
 msgid "Save Report"
-msgstr ""
+msgstr "บันทึกรายงาน"
 
 #: ui_main.schedule
 msgctxt "ui_main.schedule"
 msgid "Schedule"
-msgstr ""
+msgstr "ตารางเวลา"
 
 #: ui_main.scheduler
 msgctxt "ui_main.scheduler"
 msgid "Scheduler"
-msgstr ""
+msgstr "จัดตารางเวลา"
 
 #: ui_main.scheduler_day
 msgctxt "ui_main.scheduler_day"
 msgid "Day"
-msgstr ""
+msgstr "วัน"
 
 #: ui_main.scheduler_hour
 msgctxt "ui_main.scheduler_hour"
 msgid "Hour"
-msgstr ""
+msgstr "ชั่วโมง"
 
 #: ui_main.scheduler_log
 msgctxt "ui_main.scheduler_log"
 msgid "Scheduler Log"
-msgstr ""
+msgstr "ข้อมูลการจัดตารางเวลา"
 
 #: ui_main.scheduler_minute
 msgctxt "ui_main.scheduler_minute"
 msgid "Minute"
-msgstr ""
+msgstr "นาที"
 
 #: ui_main.scheduler_weekday
 msgctxt "ui_main.scheduler_weekday"
 msgid "Day of the Week"
-msgstr ""
+msgstr "วันของสัปดาห์"
 
 #: ui_main.search
 msgctxt "ui_main.search"
 msgid "Search"
-msgstr ""
+msgstr "ค้นหา"
 
 #: ui_main.search_results
 msgctxt "ui_main.search_results"
 msgid "Search Results"
-msgstr ""
+msgstr "ผลการค้นหา"
 
 #: ui_main.security_code
 msgctxt "ui_main.security_code"
 msgid "Security Code"
-msgstr ""
+msgstr "รหัสความปลอดภัย"
 
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr ""
+msgstr "เลือกทั้งหมด"
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr ""
+msgstr "เลือกประเภทฟิลด์"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr ""
+msgstr "เลือกประเภทแบบฟอร์ม"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr ""
+msgstr "เลือกในแผนที่"
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr ""
+msgstr "เลือกเท่าที่ต้องการ"
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
 msgid "Please verify that you have checked an item"
-msgstr ""
+msgstr "โปรดตรวจสอบว่าคุณได้เลือกรายการ"
 
 #: ui_main.select_theme
 msgctxt "ui_main.select_theme"
 msgid "Select Theme"
-msgstr ""
+msgstr "เลือกชุดรูปแบบ"
 
 #: ui_main.send
 msgctxt "ui_main.send"
 msgid "Send"
-msgstr ""
+msgstr "ส่ง"
 
 #: ui_main.send_confirmation
 msgctxt "ui_main.send_confirmation"
 msgid "Send Confirmation"
-msgstr ""
+msgstr "ส่งการยืนยัน"
 
 #: ui_main.sending_to
 msgctxt "ui_main.sending_to"
 msgid "Sending To"
-msgstr ""
+msgstr "ส่งไปยัง"
 
 #: ui_main.sent
 msgctxt "ui_main.sent"
 msgid "Sent"
-msgstr ""
+msgstr "ส่งแล้ว"
 
 #: ui_main.sent_by
 msgctxt "ui_main.sent_by"
 msgid "Sent by"
-msgstr ""
+msgstr "ส่งมาจาก"
 
 #: ui_main.server_address
 msgctxt "ui_main.server_address"
 msgid "Server address"
-msgstr ""
+msgstr "ที่อยู่ของเซิร์ฟเวอร์"
 
 #: ui_main.server_type
 msgctxt "ui_main.server_type"
 msgid "Server type"
-msgstr ""
+msgstr "ชนิดของเซิร์ฟเวอร์"
 
 #: ui_main.service
 msgctxt "ui_main.service"
 msgid "Service"
-msgstr ""
+msgstr "บริการ"
 
 #: ui_main.service_username
 msgctxt "ui_main.service_username"
 msgid "Service Username"
-msgstr ""
+msgstr "ชื่อผู้ให้บริการ"
 
 #: ui_main.service_user_id
 msgctxt "ui_main.service_user_id"
 msgid "Service User ID"
-msgstr ""
+msgstr "ID ผู้ให้บริการ"
 
 #: ui_main.share
 msgctxt "ui_main.share"
 msgid "Share"
-msgstr ""
+msgstr "แบ่ง"
 
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr ""
+msgstr "ข้อมูลที่ใช้ร่วมกัน"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
 msgid "The share has been"
-msgstr ""
+msgstr "ส่วนแบ่งที่ได้รับ"
 
 #: ui_main.sharing
 msgctxt "ui_main.sharing"
 msgid "Sharing"
-msgstr ""
+msgstr "ใช้ร่วมกัน"
 
 #: ui_main.shorter_map
 msgctxt "ui_main.shorter_map"
 msgid "Shorter Map"
-msgstr ""
+msgstr "แผนที่ที่สั้นกว่า"
 
 #: ui_main.show
 msgctxt "ui_main.show"
 msgid "Show"
-msgstr ""
+msgstr "แสดง"
 
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
 msgid "Show all"
-msgstr ""
+msgstr "แสดงทั้งหมด"
 
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr ""
+msgstr "แสดงข้อความ"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr ""
+msgstr "แสดงรายงานจาก <span class=\"time-period\">% 1 $ s% 2 $ s </ span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
 msgid "Website"
-msgstr ""
+msgstr "เว็บไซต์"
 
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
 msgid "site email address"
-msgstr ""
+msgstr "อีเมล์ของเว็บไซต์"
 
 #: ui_main.site_url
 msgctxt "ui_main.site_url"
 msgid "Site URL"
-msgstr ""
+msgstr "URL เว็บไซต์"
 
 #: ui_main.smaller_map
 msgctxt "ui_main.smaller_map"
 msgid "Smaller Map"
-msgstr ""
+msgstr "แผนที่ที่สั้นกว่า"
 
 #: ui_main.sms
 msgctxt "ui_main.sms"
 msgid "SMS"
-msgstr ""
+msgstr "SMS"
 
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "ขออภัยคุณไม่ได้มีป้ายใด ๆ"
 
 #: ui_main.source
 msgctxt "ui_main.source"
 msgid "Source"
-msgstr ""
+msgstr "แหล่ง"
 
 #: ui_main.source_name
 msgctxt "ui_main.source_name"
 msgid "Source name"
-msgstr ""
+msgstr "ชื่อแหล่งที่มา"
 
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "แยกกลุ่ม"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "แยกกลุ่มโดย"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr ""
+msgstr "URL แหล่งที่มา"
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
 msgid "Spam"
-msgstr ""
+msgstr "สแปม"
 
 #: ui_main.ssl_support
 msgctxt "ui_main.ssl_support"
 msgid "SSL Support?"
-msgstr ""
+msgstr "SSL สนับสนุน?"
 
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
 msgid "From"
-msgstr ""
+msgstr "จาก"
 
 #: ui_main.step
 msgctxt "ui_main.step"
 msgid "Step"
-msgstr ""
+msgstr "ขั้นตอน"
 
 #: ui_main.submit
 msgctxt "ui_main.submit"
 msgid "Submit a Report"
-msgstr ""
+msgstr "ส่งรายงาน"
 
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "เขียนโดย <strong>% 1 $ s </ strong> ผ่าน <strong>% 2 $ s </ strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
 msgid "Submit via SMS"
-msgstr ""
+msgstr "ส่งผ่านทาง SMS"
 
 #: ui_main.submit_sms1
 msgctxt "ui_main.submit_sms1"
 msgid "Send your SMS to"
-msgstr ""
+msgstr "ส่ง SMS ของคุณไปยัง"
 
 #: ui_main.submit_sms2
 msgctxt "ui_main.submit_sms2"
 msgid "on your phone"
-msgstr ""
+msgstr "ในโทรศัพท์ของคุณ"
 
 #: ui_main.success
 msgctxt "ui_main.success"
 msgid "Success!"
-msgstr ""
+msgstr "สำเร็จ!"
 
 #: ui_main.successfuly_imported
 msgctxt "ui_main.successfuly_imported"
 msgid "Succesfully imported"
-msgstr ""
+msgstr "นำเข้ามาสำเร็จ"
 
 #: ui_main.surname
 msgctxt "ui_main.surname"
 msgid "Surname"
-msgstr ""
+msgstr "นามสกุล"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr ""
+msgstr "ตรวจสอบ"
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr ""
+msgstr "ระบบ"
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
 msgid "Taller Map"
-msgstr ""
+msgstr "แผนที่ที่สูงกว่า"
 
 #: ui_main.tcp_port
 msgctxt "ui_main.tcp_port"
 msgid "TCP Port"
-msgstr ""
+msgstr "พอร์ต TCP "
 
 #: ui_main.themes
 msgctxt "ui_main.themes"
 msgid "Themes"
-msgstr ""
+msgstr "ธีมส์"
 
 #: ui_main.theme_default
 msgctxt "ui_main.theme_default"
 msgid "Default Ushahidi Theme"
-msgstr ""
+msgstr "ธีมเริ่มต้นของ Ushahidi "
 
 #: ui_main.theme_settings
 msgctxt "ui_main.theme_settings"
 msgid "Theme Settings"
-msgstr ""
+msgstr "ตั้งค่ารูปแบบ"
 
 #: ui_main.this
 msgctxt "ui_main.this"
 msgid "This"
-msgstr ""
+msgstr "นี้"
 
 #: ui_main.this_day
 msgctxt "ui_main.this_day"
 msgid "Today"
-msgstr ""
+msgstr "วันนี้"
 
 #: ui_main.this_month
 msgctxt "ui_main.this_month"
 msgid "This Month"
-msgstr ""
+msgstr "เดือนนี้"
 
 #: ui_main.this_week
 msgctxt "ui_main.this_week"
 msgid "This Week"
-msgstr ""
+msgstr "สัปดาห์นี้"
 
 #: ui_main.this_year
 msgctxt "ui_main.this_year"
 msgid "This Year"
-msgstr ""
+msgstr "ปีนี้"
 
 #: ui_main.this_is_your_profile
 msgctxt "ui_main.this_is_your_profile"
 msgid "This is your profile."
-msgstr ""
+msgstr "นี้เป็นโปรไฟล์ของคุณ"
 
 #: ui_main.time
 msgctxt "ui_main.time"
 msgid "Time"
-msgstr ""
+msgstr "เวลา"
 
 #: ui_main.title
 msgctxt "ui_main.title"
 msgid "Title "
-msgstr ""
+msgstr "ชื่อเรื่อง"
 
 #: ui_main.to
 msgctxt "ui_main.to"
 msgid "to"
-msgstr ""
+msgstr "ไปยัง"
 
 #: ui_main.today
 msgctxt "ui_main.today"
 msgid "Today"
-msgstr ""
+msgstr "วันนี้"
 
 #: ui_main.today_at
 msgctxt "ui_main.today_at"
 msgid "Today at"
-msgstr ""
+msgstr "วันนี้เวลา"
 
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "เครื่องหมาย"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
 msgid "Total Reports"
-msgstr ""
+msgstr "รายงานทั้งหมด"
 
 #: ui_main.translated
 msgctxt "ui_main.translated"
 msgid "Translated"
-msgstr ""
+msgstr "แปล"
 
 #: ui_main.translated_description
 msgctxt "ui_main.translated_description"
 msgid "Translated Description"
-msgstr ""
+msgstr "แปลรายละเอียด"
 
 #: ui_main.translated_title
 msgctxt "ui_main.translated_title"
 msgid "Translated Title"
-msgstr ""
+msgstr "แปลชื่อเรื่อง"
 
 #: ui_main.translate_to
 msgctxt "ui_main.translate_to"
 msgid "Translate to"
-msgstr ""
+msgstr "แปลเป็น"
 
 #: ui_main.translation
 msgctxt "ui_main.translation"
 msgid "Translation"
-msgstr ""
+msgstr "แปลความหมาย"
 
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr ""
+msgstr "ที่แปลได้รับการบันทึกแล้ว"
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
 msgid "Trusted"
-msgstr ""
+msgstr "ที่เชื่อถือ"
 
 #: ui_main.type
 msgctxt "ui_main.type"
 msgid "Type"
-msgstr ""
+msgstr "พิมพ์"
 
 #: ui_main.twitter
 msgctxt "ui_main.twitter"
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr ""
+msgstr "ไม่สามารถส่งอีเมล"
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
 msgid "Uncategorized Reports"
-msgstr ""
+msgstr "รายงานไม่มีหมวดหมู่"
 
 #: ui_main.unread
 msgctxt "ui_main.unread"
 msgid "unread"
-msgstr ""
+msgstr "ไม่ได้อ่าน"
 
 #: ui_main.unverified
 msgctxt "ui_main.unverified"
 msgid "Unverified"
-msgstr ""
+msgstr "ไม่ได้ตรวจสอบ"
 
 #: ui_main.update_feeds
 msgctxt "ui_main.update_feeds"
 msgid "Update feeds"
-msgstr ""
+msgstr "ปรับปรุงฟีด"
 
 #: ui_main.upload
 msgctxt "ui_main.upload"
 msgid "Upload"
-msgstr ""
+msgstr "อัปโหลด"
 
 #: ui_main.upload_guide
 msgctxt "ui_main.upload_guide"
 msgid "View our report upload guides:-"
-msgstr ""
+msgstr "ดูคำแนะนำการอัปโหลดรายงานของเรา: -"
 
 #: ui_main.upload_docs_1
 msgctxt "ui_main.upload_docs_1"
 msgid "XML Upload guide"
-msgstr ""
+msgstr "คู่มืออัพโหลด XML"
 
 #: ui_main.upload_docs_2
 msgctxt "ui_main.upload_docs_2"
 msgid "CSV Upload guide"
-msgstr ""
+msgstr "คู่มืออัพโหลด CVS"
 
 #: ui_main.upload_file
 msgctxt "ui_main.upload_file"
 msgid "File to upload"
-msgstr ""
+msgstr "ไฟล์ที่จะอัปโหลด"
 
 #: ui_main.upload_reports
 msgctxt "ui_main.upload_reports"
 msgid "Upload Reports"
-msgstr ""
+msgstr "อัปโหลดรายงาน"
 
 #: ui_main.upload_reports_custom_forms
 msgctxt "ui_main.upload_reports_custom_forms"
@@ -2857,58 +2858,58 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "คอลัมน์ฟิลด์ที่กำหนดเองจะต้องมี form_id ของพวกเขาต่อท้าย เช่นทดสอบฟิลด์ที่กำหนดเองในรูปแบบเริ่มต้นที่มี id1 จะได้รับการทดสอบ-1 ในระหว่างการนำเข้าข้อมูลฟอร์มที่กำหนดเองให้แน่ใจว่า"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
 msgid ""
 "With the form below, you can import incidents into the Ushahidi engine."
-msgstr ""
+msgstr "คุณสามารถนำเข้าอุบัติการณ์ลงใน Ushahidi โดยการใช้แบบฟอร์มด้านล่าง"
 
 #: ui_main.upload_reports_detail_2
 msgctxt "ui_main.upload_reports_detail_2"
 msgid "Reports must be uploaded in either CSV or XML format."
-msgstr ""
+msgstr "รายงานต้องอัพโหลดทั้งในรูปแบบ CSV หรือ XML"
 
 #: ui_main.upload_reports_detail_3
 msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "ในเหตุการณ์ที่มี ID ในฐานข้อมูลอยู่แล้ว รายการในไฟล์ CSV / XML จะถูกละเว้น"
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
 msgid "It must contain at least Incident Title and Incident Date."
-msgstr ""
+msgstr "ต้องมีอย่างน้อยชื่อเรื่องเหตุการณ์และวันที่เหตุการณ์เกิด"
 
 #: ui_main.upload_reports_detail_4b
 msgctxt "ui_main.upload_reports_detail_4b"
 msgid ""
 "If no latitude and longitude columns are supplied, the location will be "
 "geocoded using the Google Geocoder."
-msgstr ""
+msgstr "ถ้าไม่มีคอลัมน์สำหรับละติจูดและลองจิจูด ตำแหน่งจะถูก geocoded โดยการใช้ Google Geocoder แทน"
 
 #: ui_main.upload_reports_detail_4c
 msgctxt "ui_main.upload_reports_detail_4c"
 msgid ""
 "If importing additional info i.e personal information and/or custom form "
 "fields"
-msgstr ""
+msgstr "ถ้านำเข้าข้อมูลเพิ่มเติมเช่นข้อมูลส่วนบุคคลและ/หรือฟอร์มที่กำหนดเอง"
 
 #: ui_main.upload_reports_detail_4d
 msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr ""
+msgstr "อย่างน้อยต้องมีหนึ่งข้อมูลส่วนตัว (ชื่อ, นามสกุล, อีเมล) เพื่อทำการบันทึก ถ้านทึกว่างเปล่าจะไม่ถูกนำเข้า"
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "ในกรณีของคุณ รายการข้อมูลแบบเลื่อนลง ปุ่มวิทยุและช่องตรงกับตัวเลือก เหมาะสำหรับฟิลด์ที่คุณกำหนดเอง"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2916,19 +2917,19 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "ช่องทำเครื่องหมายจะถูกแยกออกด้วยจุลภาค เช่นถ้าคุณเลือกผลไม้แอปเปิ้ล มะม่วง และองุ่น รายการของคุณนี้ควรจะเป็น \"แอปเปิ้ล,มะม่วง,องุ่น\""
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "ข้อมูลวันที่อยู่ในรูปแบบดังต่อไปนี้: mm / dd / yyyy เช่น 3 ตุลาคม 2012 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
 msgid "A Sample CSV Report"
-msgstr ""
+msgstr "ตัวอย่างรายงาน CSV"
 
 #: ui_main.upload_reports_detail_6
 msgctxt "ui_main.upload_reports_detail_6"
@@ -2938,7 +2939,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr ""
+msgstr "#,ชื่อเรื่องเหตุการณ์,เหตุการณ์\nวันที่,ที่ตั้ง,รายละเอียด,ประเภท,ได้รับการอนุมัติ,การตรวจสอบ,ละติจูด,ลองจิจูด <br /> \"1\", \"สงสัยว่าการตายในไนโรบี\", \"2009-05-15 01:06:00\", \"ไนโรบี \",\" สามกรณีที่ได้รับการยืนยันใน C. เดลอุรุกวัย \",\" ตายพลเรือน \"ใช่ใช่\" -1.287 \",\" 36.821 \""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -2946,194 +2947,194 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"2\",\"ขโมย\",\"2009-03-18 10:10:00\",\"อักกรา\",\"ปล้นสะดมที่เกิดขึ้นทุกที่\", \"การจลาจล,ตาย,สูญเสียทรัพย์สิน, \",ใช่,ไม่ใช่,\"5.55\", \"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr ""
+msgstr "อัปโหลดสำเร็จ"
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
 msgid "Upload Video"
-msgstr ""
+msgstr "อัปโหลดวิดีโอ"
 
 #: ui_main.url
 msgctxt "ui_main.url"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: ui_main.user
 msgctxt "ui_main.user"
 msgid "User"
-msgstr ""
+msgstr "ผู้ใช้"
 
 #: ui_main.username
 msgctxt "ui_main.username"
 msgid "Username"
-msgstr ""
+msgstr "ชื่อผู้ใช้"
 
 #: ui_main.ushahidi_admin
 msgctxt "ui_main.ushahidi_admin"
 msgid "Ushahidi Admin"
-msgstr ""
+msgstr "ผู้ดูแลระบบ Ushahidi"
 
 #: ui_main.verification
 msgctxt "ui_main.verification"
 msgid "Verification"
-msgstr ""
+msgstr "ตรวจสอบ"
 
 #: ui_main.verified
 msgctxt "ui_main.verified"
 msgid "Verified"
-msgstr ""
+msgstr "ตรวจสอบแล้ว"
 
 #: ui_main.verified_reports
 msgctxt "ui_main.verified_reports"
 msgid "Verified Reports"
-msgstr ""
+msgstr "รายงานที่ตรวจสอบแล้ว"
 
 #: ui_main.verify
 msgctxt "ui_main.verify"
 msgid "Verify"
-msgstr ""
+msgstr "ตรวจสอบ"
 
 #: ui_main.verify_this_report
 msgctxt "ui_main.verify_this_report"
 msgid "Verify this Report"
-msgstr ""
+msgstr "ตรวจสอบรายงานนี้"
 
 #: ui_main.version
 msgctxt "ui_main.version"
 msgid "Version"
-msgstr ""
+msgstr "เวอร์ชัน"
 
 #: ui_main.via
 msgctxt "ui_main.via"
 msgid "via"
-msgstr ""
+msgstr "ผ่านทาง"
 
 #: ui_main.video
 msgctxt "ui_main.video"
 msgid "Video"
-msgstr ""
+msgstr "วีดีโอ"
 
 #: ui_main.view
 msgctxt "ui_main.view"
 msgid "View"
-msgstr ""
+msgstr "ดู"
 
 #: ui_main.views
 msgctxt "ui_main.views"
 msgid "Views"
-msgstr ""
+msgstr "ดู"
 
 #: ui_main.view_all
 msgctxt "ui_main.view_all"
 msgid "View All"
-msgstr ""
+msgstr "ดูทั้งหมด"
 
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr ""
+msgstr "ดูฟีดทั้งหมด"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"
 msgid "View all reports"
-msgstr ""
+msgstr "ดูรายงานทั้งหมด"
 
 #: ui_main.view_items
 msgctxt "ui_main.view_items"
 msgid "View Items"
-msgstr ""
+msgstr "ดูรายการ"
 
 #: ui_main.view_more
 msgctxt "ui_main.view_more"
 msgid "View More"
-msgstr ""
+msgstr "ดูเพิ่มเติม"
 
 #: ui_main.view_public_profile
 msgctxt "ui_main.view_public_profile"
 msgid "View Public Profile"
-msgstr ""
+msgstr "ดูรายละเอียด"
 
 #: ui_main.view_report
 msgctxt "ui_main.view_report"
 msgid "View Report"
-msgstr ""
+msgstr "ดูรายงาน"
 
 #: ui_main.view_reports
 msgctxt "ui_main.view_reports"
 msgid "View Reports"
-msgstr ""
+msgstr "ดูรายงาน"
 
 #: ui_main.view_video
 msgctxt "ui_main.view_video"
 msgid "View Video"
-msgstr ""
+msgstr "ดูวิดีโอ"
 
 #: ui_main.visible
 msgctxt "ui_main.visible"
 msgid "Visible"
-msgstr ""
+msgstr "มองเห็นได้"
 
 #: ui_main.waiting_approval
 msgctxt "ui_main.waiting_approval"
 msgid "Waiting Approval"
-msgstr ""
+msgstr "รอการอนุมัติ"
 
 #: ui_main.waiting_verification
 msgctxt "ui_main.waiting_verification"
 msgid "Waiting Verification"
-msgstr ""
+msgstr "รอการตรวจสอบ"
 
 #: ui_main.wider_map
 msgctxt "ui_main.wider_map"
 msgid "Wider Map"
-msgstr ""
+msgstr "แผนที่ที่กว้างขึ้น"
 
 #: ui_main.web_form
 msgctxt "ui_main.web_form"
 msgid "Web Form"
-msgstr ""
+msgstr "เว็บฟอร์ม"
 
 #: ui_main.web
 msgctxt "ui_main.web"
 msgid "Web"
-msgstr ""
+msgstr "เว็บ"
 
 #: ui_main.weight
 msgctxt "ui_main.weight"
 msgid "Weight"
-msgstr ""
+msgstr "น้ำหนัก"
 
 #: ui_main.yes
 msgctxt "ui_main.yes"
 msgid "Yes"
-msgstr ""
+msgstr "ใช่"
 
 #: ui_main.yesterday
 msgctxt "ui_main.yesterday"
 msgid "Yesterday"
-msgstr ""
+msgstr "เมื่อวาน"
 
 #: ui_main.your_dashboard
 msgctxt "ui_main.your_dashboard"
 msgid "Your Dashboard"
-msgstr ""
+msgstr "แผงควบคุมของคุณ"
 
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "ไฟล์ของคุณ"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr ""
+msgstr "ซูมเข้า"
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "ซูมออก"
