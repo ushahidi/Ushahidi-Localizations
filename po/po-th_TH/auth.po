@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-06-01 06:00+0000\n"
+"PO-Revision-Date: 2014-06-27 08:52+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,57 +19,57 @@ msgstr ""
 #: auth.email.email
 msgctxt "auth.email.email"
 msgid "The email you entered is not a valid email address."
-msgstr ""
+msgstr "อีเมลที่คุณใส่ไม่ถูกต้อง"
 
 #: auth.email.exists
 msgctxt "auth.email.exists"
 msgid "Sorry, a user account already exists for this email address."
-msgstr ""
+msgstr "ขออภัย มีบัญชีที่ใช้อีเมลนี้แล้ว"
 
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "อีเมล์ต้องมีอย่างน้อย 4 และม่เกิน 64 ตัวอักษร"
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr ""
+msgstr "ช่องอีเมลจำเป็นต้องใส่"
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "ชื่อฟิลด์จะต้องไม่น้อยกว่า 3 และไม่มากกว่า 100 ตัวอักษร"
 
 #: auth.name.required
 msgctxt "auth.name.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "จำเป็นต้องระบุชื่อ"
 
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr ""
+msgstr "ชื่อผู้ใช้มีอักขระที่ไม่ถูกต้อง"
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr ""
+msgstr "รหัสผ่านฟิลด์ต้องมีอย่างน้อย 8 ตัวอักษร"
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr ""
+msgstr "กรุณาตรวจสอบว่าคุณได้ใส่อีเมลและรหัสผ่านที่ถูกต้อง"
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "กรุณากรอกรหัสผ่านเดิมในสองช่องสำหรับใส่รหัสผ่าน"
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่รหัสผ่านฟิลด์"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
