@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-06-01 06:01+0000\n"
+"PO-Revision-Date: 2014-06-30 04:13+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,49 +19,49 @@ msgstr ""
 #: bug.captcha.default
 msgctxt "bug.captcha.default"
 msgid "Please enter a valid security code."
-msgstr ""
+msgstr "กรุณาใส่รหัสรักษาความปลอดภัยที่ถูกต้อง"
 
 #: bug.captcha.required
 msgctxt "bug.captcha.required"
 msgid "Please enter the security code."
-msgstr ""
+msgstr "กรุณาใส่รหัสรักษาความปลอดภัย"
 
 #: bug.email.email
 msgctxt "bug.email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr ""
+msgstr "ช่องอีเมล์ไม่ปรากฏอีเมลที่ถูกต้อง?"
 
 #: bug.email.length
 msgctxt "bug.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "ช่องอีเมล์ต้องมีอย่างน้อย 4 และไม่เกิน 64 ตัวอักษร"
 
 #: bug.email.required
 msgctxt "bug.email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "จำเป็นต้องใส่อีเมล์ถ้าช่องทำเครื่องหมายได้เช็คถูก"
 
 #: bug.error.required
 msgctxt "bug.error.required"
 msgid "The error field is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่ข้อมูลผิดพลาด"
 
 #: bug.subject.length
 msgctxt "bug.subject.length"
 msgid "The subject field must be at least 3 characters long."
-msgstr ""
+msgstr "ช่องวประเด็นต้องมีอย่างน้อย 3 ตัวอักษร"
 
 #: bug.subject.required
 msgctxt "bug.subject.required"
 msgid "The subject field is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่ประเด็น"
 
 #: bug.yourname.length
 msgctxt "bug.yourname.length"
 msgid "The name field must be at least 3 characters long."
-msgstr ""
+msgstr "ชื่อเประเด็นต้องมีอย่างน้อย 3 ตัวอักษร"
 
 #: bug.yourname.required
 msgctxt "bug.yourname.required"
 msgid "The name field is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่ชื่่อประเด็น"
