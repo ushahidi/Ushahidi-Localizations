@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-08-22 06:26+0000\n"
-"PO-Revision-Date: 2012-06-07 02:49+0000\n"
+"PO-Revision-Date: 2014-07-01 06:13+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,14 +19,14 @@ msgstr ""
 #: report.comments_form_error
 msgctxt "report.comments_form_error"
 msgid "error!"
-msgstr ""
+msgstr "ผิดพลาด!"
 
 #: report.country_name.single_country
 msgctxt "report.country_name.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the report "
 "location is within the country %s."
-msgstr ""
+msgstr "การใช้งานนี้ครอบคลุมภายในประเทศเดียวเท่านั้น โปรดตรวจสอบให้แน่ใจว่าสถานที่รายงานอยู่ในประเทศ%s"
 
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
@@ -74,48 +76,48 @@ msgstr ""
 #: report.data_include.between
 msgctxt "report.data_include.between"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "กรุณาเลือกรายการที่ถูกต้องที่จะรวมอยู่ในการดาวน์โหลด"
 
 #: report.data_include.numeric
 msgctxt "report.data_include.numeric"
 msgid "Please select a valid item to include in the download."
-msgstr ""
+msgstr "กรุณาเลือกรายการที่ถูกต้องที่จะรวมอยู่ในการดาวน์โหลด"
 
 #: report.data_active.between
 msgctxt "report.data_active.between"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "กรุณาเลือก \"รายงานรอการอนุมัติ\" หรือ \"รายงานได้รับการอนุมัติ\" หรือทั้งสองอย่าง"
 
 #: report.data_active.numeric
 msgctxt "report.data_active.numeric"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "กรุณาเลือก \"รายงานรอการอนุมัติ\" หรือ \"รายงานได้รับการอนุมัติ\" หรือทั้งสองอย่าง"
 
 #: report.data_active.required
 msgctxt "report.data_active.required"
 msgid "Please select \"Reports Awaiting Approval\" or \"Approved Reports\" or both."
-msgstr ""
+msgstr "กรุณาเลือก \"รายงานรอการอนุมัติ\" หรือ \"รายงานได้รับการอนุมัติ\" หรือทั้งสองอย่าง"
 
 #: report.data_verified.between
 msgctxt "report.data_verified.between"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "กรุณาเลือก \"รายงานรอการอนุมัติ\" หรือ \"รายงานได้รับการอนุมัติ\" หรือทั้งสองอย่าง"
 
 #: report.data_verified.numeric
 msgctxt "report.data_verified.numeric"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "กรุณาเลือก \"รายงานรอการอนุมัติ\" หรือ \"รายงานได้รับการอนุมัติ\" หรือทั้งสองอย่าง"
 
 #: report.data_verified.required
 msgctxt "report.data_verified.required"
 msgid ""
 "Please select \"Reports Awaiting Verification\" or \"Verified Reports\" or "
 "both."
-msgstr ""
+msgstr "กรุณาเลือก \"รายงานรอการอนุมัติ\" หรือ \"รายงานได้รับการอนุมัติ\" หรือทั้งสองอย่าง"
 
 #: report.data_point.between
 msgctxt "report.data_point.between"
