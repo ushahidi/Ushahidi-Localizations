@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-08-17 07:00+0000\n"
+"PO-Revision-Date: 2014-07-01 07:31+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,54 +19,54 @@ msgstr ""
 #: sharing.date
 msgctxt "sharing.date"
 msgid "Ingress date"
-msgstr ""
+msgstr "วันที่เข้า"
 
 #: sharing.date_added
 msgctxt "sharing.date_added"
 msgid "Date Added"
-msgstr ""
+msgstr "เพิ่มเมื่อวันที่"
 
 #: sharing.last_access
 msgctxt "sharing.last_access"
 msgid "Last Access"
-msgstr ""
+msgstr "เข้ามาครั้งล่าสุด"
 
 #: sharing.sharing_color.length
 msgctxt "sharing.sharing_color.length"
 msgid "The color field must be 6 characters long."
-msgstr ""
+msgstr "พื้นที่สีต้องมี 6 ตัวอักษร"
 
 #: sharing.sharing_color.required
 msgctxt "sharing.sharing_color.required"
 msgid "The color field is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่พื้นที่สี"
 
 #: sharing.sharing_name.length
 msgctxt "sharing.sharing_name.length"
 msgid "The Sharing name does not appear to be valid."
-msgstr ""
+msgstr "ชื่อที่ใช้ร่วมไม่ถูกต้อง"
 
 #: sharing.sharing_name.required
 msgctxt "sharing.sharing_name.required"
 msgid "A Sharing name is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่ชื่อที่ใช้ร่วม"
 
 #: sharing.sharing_url.exists
 msgctxt "sharing.sharing_url.exists"
 msgid "The site URL already exists."
-msgstr ""
+msgstr "URL เว็บไซต์นี้ใช้แล้ว"
 
 #: sharing.sharing_url.length
 msgctxt "sharing.sharing_url.length"
 msgid "The site URL does not appear to be valid."
-msgstr ""
+msgstr "URL ของเว็บไซต์ไม่ถูกต้อง"
 
 #: sharing.sharing_url.required
 msgctxt "sharing.sharing_url.required"
 msgid "The site URL is required."
-msgstr ""
+msgstr "จำเป็นต้องใส่ URL เว็บไซต์"
 
 #: sharing.sharing_url.url
 msgctxt "sharing.sharing_url.url"
 msgid "The site URL field does not appear to contain a valid URL."
-msgstr ""
+msgstr "URL ของเว็บไซต์ไม่ถูกต้อง"

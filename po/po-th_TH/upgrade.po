@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2012-06-07 02:50+0000\n"
+"PO-Revision-Date: 2014-07-02 01:41+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,105 +19,105 @@ msgstr ""
 #: upgrade.upgrade.between
 msgctxt "upgrade.upgrade.between"
 msgid "Invalid input data. It can either be 0 for No or 1 for Yes."
-msgstr ""
+msgstr "ใส่ข้อมูลที่ไม่ถูกต้อง โปรดใส่ 0 เพื่อใช่ หรือ 1 เพื่อไม่ใช่ "
 
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
 msgid "Automatic Upgrade"
-msgstr ""
+msgstr "อัพเกรดอัตโนมัติ"
 
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr ""
+msgstr "อัพเกรดที่ทำได้"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
 msgid "Continue"
-msgstr ""
+msgstr "ต่อไป"
 
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr ""
+msgstr "อัพเกรด"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr ""
+msgstr "ดังนั้นเราจะอัพเกรดฐานข้อมูลของคุณจากรุ่น"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr ""
+msgstr "ฐานข้อมูลรุ่นใหม่ล่าสุด"
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
 msgid "Click on the \"Upgrade\" button and just chillax as I perform the magic."
-msgstr ""
+msgstr "คลิกที่ปุ่ม \"อัพเกรด\" และ chillax จะดำเนินการ"
 
 #: upgrade.upgrade_db_text_4
 msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr ""
+msgstr "โอ้ถ้าคุณต้องการให้เราสำรองฐานข้อมูลของคุณเพียงแค่ติ๊กปุ่มตรวจสอบด้านล่างและเราจะทำให้คุณทันที"
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr ""
+msgstr "สำรองฐานข้อมูลก่อนที่จะอัพเกรด (<strong style=\"color:#FF0000;\"> สูงแนะนำ </ strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
 msgid "Ushahidi database upgrade"
-msgstr ""
+msgstr "อัพเกรดฐานข้อมูล Ushahidi"
 
 #: upgrade.upgrade_db_info
 msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr ""
+msgstr "Ushahidi ได้รับการปรับปรุง! ก่อนที่คุณจะดำเนินการต่อคุณจำเป็นต้องปรับปรุงฐานข้อมูลของคุณให้เป็นรุ่นใหม่ล่าสุด (% s)"
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr ""
+msgstr "รุ่นฐานข้อมูลของคุณเป็นรุ่นใหม่ล่าสุด"
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
 msgid "Upgrade failed at some point"
-msgstr ""
+msgstr "อัพเกรดล้มเหลวในบางจุด"
 
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr ""
+msgstr "อัพเกรดด้วยตนเอง"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr ""
+msgstr "สถานะการอัพเกรด Ushahidi"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
 msgid ""
 "The instructions below detail how to manually upgrade your Ushahidi "
 "deploymentl"
-msgstr ""
+msgstr "คำแนะนำด้านล่างเป็นรายละเอียดวิธีการอัพเกรด Ushahidi deployment ด้วยตนเอง"
 
 #: upgrade.upgrade_text_2
 msgctxt "upgrade.upgrade_text_2"
 msgid "<dl><dt><strong>Download</strong></dt>"
-msgstr ""
+msgstr "<dl><dt><strong>ดาวน์โหลด</strong></dt>"
 
 #: upgrade.upgrade_text_3
 msgctxt "upgrade.upgrade_text_3"
 msgid "<dd>- Download the most recent Ushahidi build from"
-msgstr ""
+msgstr "<dd>- ดาวน์โหลด Ushahidi build รุ่นล่าสุดจาก"
 
 #: upgrade.upgrade_text_4
 msgctxt "upgrade.upgrade_text_4"
@@ -151,148 +153,148 @@ msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr ""
+msgstr "<strong> ขั้นที่ 4: </strong>คลิกที่ปุ่ม<strong>\"ต่อ\"</strong>เพื่อที่จะอัพเกรดตารางที่จำเป็น"
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr ""
+msgstr "สำหรับการอัพเกรดอัตโนมัติให้คลิกที่ปุ่มด้านล่าง"
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
 msgid ""
 "You are currently using Ushahidi v%1$s with database version %2$d running on"
 " %3$s"
-msgstr ""
+msgstr "คุณกำลังใช้ Ushahidi v%1$s กับรุ่นฐานข้อมูล %2$d ที่ทำงานบน %3$s"
 
 #: upgrade.upgrading
 msgctxt "upgrade.upgrading"
 msgid "Upgrading"
-msgstr ""
+msgstr "กำลังอัพเกรด"
 
 #: upgrade.upgrade_ftp_text
 msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr ""
+msgstr "เพื่อที่จะดำเนินการอัพเกรดที่ง่าย ข้อมูลต่อไปนี้เป็นสิ่งจำเป็นสำหรับเซิร์ฟเวอร์ที่เว็บไซต์ของคุณเป็นโฮสต์"
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr ""
+msgstr "ชื่อโฮสต์ FTP: <span>ตัวอย่าง:\"โฮสต์ท้องถิ่น\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
 msgid "FTP Password:"
-msgstr ""
+msgstr "รหัสผ่าน FTP:"
 
 #: upgrade.upgrade_ftp_username
 msgctxt "upgrade.upgrade_ftp_username"
 msgid "FTP User Name:"
-msgstr ""
+msgstr "ชื่อผู้ใช้ FTP:"
 
 #: upgrade.upgrade_status_info
 msgctxt "upgrade.upgrade_status_info"
 msgid "You have the latest version of Ushahidi."
-msgstr ""
+msgstr "คุณมีรุ่นล่าสุดของ Ushahidi"
 
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr ""
+msgstr "คุณไม่จำเป็นต้องอัพเกรด"
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr ""
+msgstr "ฐานข้อมูลรุ่น: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr ""
+msgstr "คำเตือน: รุ่นซอฟต์แวร์ใน version.php และฐานข้อมูลไม่ตรงกับ"
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr ""
+msgstr "คำเตือน: รุ่นซอฟต์แวร์ใน version.php และฐานข้อมูลไม่ตรงกับ"
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr ""
+msgstr "ฐานข้อมูล:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
 msgid "Ushahidi %s"
-msgstr ""
+msgstr "Ushahidi %s"
 
 #: upgrade.beta
 msgctxt "upgrade.beta"
 msgid "BETA!"
-msgstr ""
+msgstr "BETA!"
 
 #: upgrade.download
 msgctxt "upgrade.download"
 msgid "Downloading latest version of ushahidi..."
-msgstr ""
+msgstr "กำลังดาวน์โหลดรุ่นล่าสุดของ Ushahidi..."
 
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr ""
+msgstr "เข้าสู่ระบบไฟล์"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr ""
+msgstr "ดาวน์โหลดประสบความสำเร็จ เอาออก เปิดออก..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
 msgid "Failed downloading."
-msgstr ""
+msgstr "การดาวน์โหลดล้มเหลว"
 
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr ""
+msgstr "ยกเลิกการบรรจุประสบความสำเร็จ กำลังคัดลอกไฟล์..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr ""
+msgstr "ยกเลิกการบรรจุล้มเหลว"
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr ""
+msgstr "ประสบความสำเร็จในการคัดลอก อัพเกรดฐานข้อมูล..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr ""
+msgstr "คัดลอกไฟล์ล้มเหลว"
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr ""
+msgstr "สำรองฐานข้อมูลและการอัพเกรดประสบความสำเร็จ"
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr ""
+msgstr "ล้มเหลวในการสำรองฐานข้อมูล"
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr ""
+msgstr "อัพเกรดฐานข้อมูลประสบความสำเร็จ"
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
 msgid "Deleting downloaded files..."
-msgstr ""
+msgstr "กำลังลบไฟล์ที่ดาวน์โหลด..."
 
 #: upgrade.upgrade_success
 msgctxt "upgrade.upgrade_success"
 msgid "UPGRADE SUCCESSFUL. View <a href=\"%s\" target=\"_blank\">Log File</a>"
-msgstr ""
+msgstr "UPGRADE ประสบความสำเร็จ ดู <a href=\"%s\" target=\"_blank\">Log File</a>"

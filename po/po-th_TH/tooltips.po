@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Boripat Lebel <boripatlebel@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2012-06-07 02:49+0000\n"
+"PO-Revision-Date: 2014-07-01 08:20+0000\n"
+"Last-Translator: Boripat Lebel <boripatlebel@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,19 +22,19 @@ msgid ""
 "This adds the report to additional categories. If you select Category 1 here"
 " and the report already has Category 2 attached to it, the report will then "
 "have both Category 1 and Category 2."
-msgstr ""
+msgstr "รายงานนี้จะถูกเพิ่มในหมวดหมู่เพิ่มเติม หากคุณเลือกหมวดหมู่ที่ 1 แต่รายงานที่มีอยู่ติดกับรายงานประเภทที่ 2 ทางระบบจะหมายรายงานนี้ว่าเป็นทั้งหมวด 1 และหมวด 2"
 
 #: tooltips.actions.approve
 msgctxt "tooltips.actions.approve"
 msgid "Approves a report or not. If approved, it will show up publicly."
-msgstr ""
+msgstr "อนุมัติรายงานหรือไม่ หากได้รับการอนุมัติก็จะแสดงขึ้นต่อสาธารณชน"
 
 #: tooltips.actions.assign_badge
 msgctxt "tooltips.actions.assign_badge"
 msgid ""
 "You will be able to assign a badge to the triggering user. Pick the badge "
 "that gets assigned here."
-msgstr ""
+msgstr "คุณสามารถที่จะกำหนดตราให้กับผู้ใช้ trigger เลือกตราที่จะให้ที่นี่"
 
 #: tooltips.actions.between_times
 msgctxt "tooltips.actions.between_times"
@@ -43,7 +45,7 @@ msgid ""
 "checked against the time you have configured on your site in site settings "
 "and <strong>not</strong> necessarily the timezone of the user interacting "
 "with your deployment. Leave this at 00:00 to 00:00 to ignore this qualifier."
-msgstr ""
+msgstr "นี้เป็นช่วงของเวลาและ/หรือนาทีระหว่างสองเวลาในรูปแบบ 24 ชั่วโมง หากคุณใส่เวลาก่อนหน้านี้ในฟิลด์ที่สองมันก็จะถูกพลิกกับครั้งแรก เวลาพวกนี้จะต้องอยู่ภายในวันเดียวกัน นอกจากนี้เวลานี้มีการตรวจสอบกับเวลาที่คุณได้กำหนดค่าบนเว็บไซต์ของคุณในการตั้งค่าเว็บไซต์และ<strong>not</strong> จำเป็นต้องคำนวณเวลาที่ผู้ใช้มีปฏิสัมพันธ์กับการใช้งานของคุณ ถ้าไม่สนใจรอบคัดเลือกนี้ให้ทิ้งไว้ที่ 0:00-00:00 "
 
 #: tooltips.actions.category
 msgctxt "tooltips.actions.category"
@@ -66,12 +68,12 @@ msgstr ""
 #: tooltips.actions.email_body
 msgctxt "tooltips.actions.email_body"
 msgid "Body of the email that will be sent."
-msgstr ""
+msgstr "เนื้อหาของอีเมลที่จะส่ง"
 
 #: tooltips.actions.email_subject
 msgctxt "tooltips.actions.email_subject"
 msgid "Subject of email that will be sent."
-msgstr ""
+msgstr "เรื่องของอีเมลที่จะส่ง"
 
 #: tooltips.actions.feed_id
 msgctxt "tooltips.actions.feed_id"
@@ -121,7 +123,7 @@ msgstr ""
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
 msgid "This is the default title to add to the report."
-msgstr ""
+msgstr "นี้เป็นชื่อที่เริ่มต้นที่จะเพิ่มการรายงาน"
 
 #: tooltips.actions.response
 msgctxt "tooltips.actions.response"
@@ -146,7 +148,7 @@ msgctxt "tooltips.actions.specific_days"
 msgid ""
 "You can select multiple days here. Dates are determined by your deployment "
 "timezone setting. In order to default to all dates, do not select any dates."
-msgstr ""
+msgstr "คุณสามารถเลือกหลายวันได้ที่นี่ วันที่จะถูกกำหนดโดยการตั้งค่าเขตเวลาของคุณ เพื่อที่จะตั้งค่าวันที่ทั้งหมดโปรดไม่เลือกวันที่ใดๆ"
 
 #: tooltips.actions.trigger
 msgctxt "tooltips.actions.trigger"
@@ -169,7 +171,7 @@ msgstr ""
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
 msgid "Marks a report as verified or not."
-msgstr ""
+msgstr "เช็คเป็นรายงานที่ได้รับการการตรวจสอบแล้วหรือไม่"
 
 #: tooltips.change_picture
 msgctxt "tooltips.change_picture"
@@ -181,7 +183,7 @@ msgstr ""
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
 msgid "Separate each value with a comma, e.g. value1, value2."
-msgstr ""
+msgstr "แยกแต่ละค่าด้วยเครื่องหมายจุลภาคเช่น value1, value2"
 
 #: tooltips.radio_choices
 msgctxt "tooltips.radio_choices"
@@ -194,22 +196,22 @@ msgstr ""
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
 msgid "Separate each choice item with a comma, e.g. Item 1, Item 2 etc."
-msgstr ""
+msgstr "แยกแต่ละค่าด้วยเครื่องหมายจุลภาคเช่น Item 1, Item 2 ฯลฯ"
 
 #: tooltips.private_to
 msgctxt "tooltips.private_to"
 msgid "Start typing to list members."
-msgstr ""
+msgstr "เริ่มพิมพ์เพื่อเพิ่มรายชื่อสมาชิก"
 
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr ""
+msgstr "เรื่องข้อความส่วนตัว"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr ""
+msgstr "ข้อความส่วนตัว"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -222,21 +224,21 @@ msgstr ""
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
 msgid "Your email address"
-msgstr ""
+msgstr "ที่อยู่อีเมลของคุณ"
 
 #: tooltips.profile_name
 msgctxt "tooltips.profile_name"
 msgid ""
 "This is one of the ways that you are identified on the website. Keep in mind"
 " that this is public!"
-msgstr ""
+msgstr "นี้เป็นหนึ่งในวิธีที่คุณสามารถระบุตัวเองบนเว็บไซต์ โปรดรู้ไว้ว่าคนทั่วไปสารมารถเห็นนี้ได้!"
 
 #: tooltips.profile_new_password
 msgctxt "tooltips.profile_new_password"
 msgid ""
 "If set, this will be your new password. Leave this field blank if you wish "
 "to keep your current password."
-msgstr ""
+msgstr "ถ้าตั้งค่าแบบนี้ นี้ก็จะเป็นรหัสผ่านใหม่ของคุณ ให้ปล่อยช่องนี้ว่างเปล่าถ้าคุณต้องการไม่เปลี่ยนรหัสผ่านปัจจุบันของคุณ"
 
 #: tooltips.profile_new_users_password
 msgctxt "tooltips.profile_new_users_password"
@@ -291,52 +293,52 @@ msgstr ""
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
 msgid "This is the email address that will be used to send email alerts."
-msgstr ""
+msgstr "นี่คือที่อยู่อีเมลที่จะใช้ในการส่งการแจ้งเตือนทางอีเมล์"
 
 #: tooltips.settings_allow_alerts
 msgctxt "tooltips.settings_allow_alerts"
 msgid "Allow users to subscribe for alerts via the web."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้สมัครเป็นสมาชิกสำหรับการแจ้งเตือนผ่านทางเว็บ"
 
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
 msgid "This allows bundling of similar reports into a single dot on the map"
-msgstr ""
+msgstr "นี้จะช่วยให้ bundling ของรายงานที่คล้ายกันเป็นจุดเดียวบนแผนที่"
 
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
 msgid "Allow users to comment on reports on the main site."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้แสดงความคิดเห็นเกี่ยวกับรายงานในหน้าหลักของเว็บไซต์"
 
 #: tooltips.settings_allow_feed
 msgctxt "tooltips.settings_allow_feed"
 msgid "This allows RSS News feeds to be displayed on the main site."
-msgstr ""
+msgstr "นี้จะช่วยให้ RSS ฟีดข่าวแสดงบนหน้าหลักของเว็บไซต์"
 
 #: tooltips.settings_allow_feed_category
 msgctxt "tooltips.settings_allow_feed_category"
 msgid "This allows creating new Category from RSS News feeds."
-msgstr ""
+msgstr "นี้จะช่วยให้การสร้างหมวดหมู่ใหม่จาก RSS ฟีดข่าว"
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
 msgid "Allow users to submit information via the web form."
-msgstr ""
+msgstr "อนุญาตให้ผู้ใช้ส่งข้อมูลผ่านทางแบบฟอร์มบนเว็บ"
 
 #: tooltips.settings_api_default_record_limit
 msgctxt "tooltips.settings_api_default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "หมายเลขเริ่มต้นของระเบียนที่จะเรียกตามคำขอ API"
 
 #: tooltips.settings_api_max_record_limit
 msgctxt "tooltips.settings_api_max_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "จำนวนสูงสุดของรายการที่จะเรียกตามคำขอ API"
 
 #: tooltips.settings_api_max_requests_per_ip
 msgctxt "tooltips.settings_api_max_requests_per_ip"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "จำนวนสูงสุดของการร้องขอ API ต่อที่อยู่ IP"
 
 #: tooltips.settings_banner
 msgctxt "tooltips.settings_banner"
@@ -350,7 +352,7 @@ msgstr ""
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr ""
+msgstr "จำนวนของคอลัมน์ที่ถูจะกแสดงในแต่ละแถว"
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -364,7 +366,7 @@ msgstr ""
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
 msgid "Set the lifetime of the cache."
-msgstr ""
+msgstr "กำหนดอายุการใช้งานของแคช"
 
 #: tooltips.settings_checkins
 msgctxt "tooltips.settings_checkins"
@@ -380,68 +382,68 @@ msgstr ""
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
 msgid "Set the map to cover a specific location."
-msgstr ""
+msgstr "ตั้งแผนที่เพื่อให้ครอบคลุมสถานที่เฉพาะ"
 
 #: tooltips.settings_default_category_colors
 msgctxt "tooltips.settings_default_category_colors"
 msgid "Set one color code for all the categories on the site."
-msgstr ""
+msgstr "ตั้งค่ารหัสสีหนึ่งสำหรับทุกประเภทในเว็บไซต์"
 
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr ""
+msgstr "ตั้งค่าไอคอนหนึ่งสำหรับทุกประเภทในเว็บไซต์"
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr ""
+msgstr "นี้ป็นประเทศที่เว็บไซต์จะทำการนำเข้าไปใช้งาน"
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"
 msgid "Turn the Contact Tab on or off on the main site."
-msgstr ""
+msgstr "เปิดหรือปิดแท็บที่ติดต่อในเว็บไซต์หน้าหลัก"
 
 #: tooltips.settings_display_howtohelp
 msgctxt "tooltips.settings_display_howtohelp"
 msgid "Turn the How to Help Tab on or off on the main site."
-msgstr ""
+msgstr "เปิดหรือปิดแท็บช่วยเหลือในเว็บไซต์หน้าหลัก"
 
 #: tooltips.settings_display_items_per_page
 msgctxt "tooltips.settings_display_items_per_page"
 msgid "This is the number of reports displayed per page on the main site."
-msgstr ""
+msgstr "นี้เป็นจำนวนรายงานแสดงต่อหนึ่งหน้าในเว็บไซต์หน้าหลัก"
 
 #: tooltips.settings_display_items_per_page_admin
 msgctxt "tooltips.settings_display_items_per_page_admin"
 msgid ""
 "This is the number of reports displayed per page on the admin Back End."
-msgstr ""
+msgstr "นี้เป็นจำนวนรายงานที่แสดงต่อหนึ่งหน้าผู้ดูแลระบบ Back End"
 
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
 msgid "This is the hub for incoming messages."
-msgstr ""
+msgstr "นี้เป็นศูนย์กลางสำหรับข้อความที่เข้ามา"
 
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr ""
+msgstr "นี้ประสานข้อความในฮับกับแพลตฟอร์ม Ushahidi"
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
 msgid "Phone numbers through which the text messages are received."
-msgstr ""
+msgstr "หมายเลขโทรศัพท์ที่จะได้รับข้อความ"
 
 #: tooltips.settings_google_analytics
 msgctxt "tooltips.settings_google_analytics"
 msgid "Tracks visitors of your site. Get detailed visitor statistics."
-msgstr ""
+msgstr "ติดตามผู้เข้าชมเว็บไซต์ของคุณ ดูรายละเอียดสถิติผู้เข้าชม"
 
 #: tooltips.settings_locale
 msgctxt "tooltips.settings_locale"
 msgid "Sets the language that will be used in the site."
-msgstr ""
+msgstr "เลือกภาษาที่จะใช้ในเว็บไซต์"
 
 #: tooltips.settings_manually_approve_users
 msgctxt "tooltips.settings_manually_approve_users"
@@ -454,13 +456,13 @@ msgstr ""
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
 msgid "This defines which map is to be used on the site."
-msgstr ""
+msgstr "สามารถกำหนดแผนที่ที่จะใช้ในเว็บไซต์ได้ที่นี่"
 
 #: tooltips.settings_map_timeline
 msgctxt "tooltips.settings_map_timeline"
 msgid ""
 "This shows the timeline based on the date and time reports were submitted"
-msgstr ""
+msgstr "นี่แสดงให้เห็นระยะเวลาที่รายงานถูกส่ง"
 
 #: tooltips.settings_private_deployment
 msgctxt "tooltips.settings_private_deployment"
@@ -481,12 +483,12 @@ msgstr ""
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
 msgid "This is where the emails reside"
-msgstr ""
+msgstr "นี้คือที่อยู่อีเมล"
 
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr ""
+msgstr "นี้เป็นรหัสผ่านสำหรับที่อยู่อีเมลที่ได้รับรายงาน"
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
@@ -497,12 +499,12 @@ msgstr ""
 #: tooltips.settings_server_ssl_support
 msgctxt "tooltips.settings_server_ssl_support"
 msgid "This is required to enhance a secure connection."
-msgstr ""
+msgstr "นี้เป็นสิ่งจำเป็นเพื่อที่จะเสริมสร้างความเชื่อมต่อที่ปลอดภัย"
 
 #: tooltips.settings_server_type
 msgctxt "tooltips.settings_server_type"
 msgid "This is required to retrieve e-mails from the host server."
-msgstr ""
+msgstr "นี้เป็นสิ่งจำเป็นเพื่อดึงอีเมลจากเซิร์ฟเวอร์โฮสต์"
 
 #: tooltips.settings_server_username
 msgctxt "tooltips.settings_server_username"
@@ -533,7 +535,7 @@ msgctxt "tooltips.settings_site_email"
 msgid ""
 "This is the email address that will receive email reports and messages from "
 "the contact form."
-msgstr ""
+msgstr "นี่คือที่อยู่อีเมลที่จะได้รับรายงานทางอีเมลและข้อความจากแบบฟอร์มติดต่อ"
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
@@ -546,7 +548,7 @@ msgstr ""
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"
 msgid "This is the name of the site that appears at the top of the main site."
-msgstr ""
+msgstr "นี่คือชื่อของเว็บไซต์ที่จะปรากฏขึ้นที่ด้านบนหน้าหลักของเว็บไซต์"
 
 #: tooltips.settings_site_submit_report_message
 msgctxt "tooltips.settings_site_submit_report_message"
@@ -558,7 +560,7 @@ msgstr ""
 #: tooltips.settings_site_tagline
 msgctxt "tooltips.settings_site_tagline"
 msgid "In a few words, explain what this site is about."
-msgstr ""
+msgstr "ในไม่กี่คำ อธิบายว่าเว็บไซต์นี้เป็นเรื่องเกี่ยวกับอะไร"
 
 #: tooltips.settings_site_timezone
 msgctxt "tooltips.settings_site_timezone"
