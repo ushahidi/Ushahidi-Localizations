@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-05-05 23:12+0000\n"
+"PO-Revision-Date: 2014-07-16 22:59+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -29,12 +29,12 @@ msgstr "El campo de permitir comentarios es requerido."
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
 msgid "The include feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo incluir feed no parece tener un valor válido."
 
 #: settings.allow_feed.required
 msgctxt "settings.allow_feed.required"
 msgid "The include feed field is required."
-msgstr ""
+msgstr "El campo incluir feed es obligatorio."
 
 #: settings.allow_feed_category.between
 msgctxt "settings.allow_feed_category.between"
@@ -50,7 +50,7 @@ msgstr ""
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
 msgid "The allow alerts field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo permitir alertas no parece contener un valor válido."
 
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
@@ -80,27 +80,27 @@ msgstr "El campo compartir estadísticas es obligatorio"
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
 msgid "Default number of records to be fetched per API request"
-msgstr ""
+msgstr "Número de registros predefinidos a obtener en cada llamada API"
 
 #: settings.api.maximum_record_limit
 msgctxt "settings.api.maximum_record_limit"
 msgid "Maximum number of records to be fetched per API request"
-msgstr ""
+msgstr "Máximo número de registros a obtener en una llamada API"
 
 #: settings.api.maximum_requests_per_ip_address
 msgctxt "settings.api.maximum_requests_per_ip_address"
 msgid "Maximum number of API requests per IP address"
-msgstr ""
+msgstr "Máximo número de registros por llamada API por dirección IP cliente"
 
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo Akismet no parece contener un valor válido."
 
 #: settings.api_akismet.length
 msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo Akismet no parece contener un valor válido."
 
 #: settings.banner_image.type
 msgctxt "settings.banner_image.type"
@@ -127,18 +127,18 @@ msgstr "El campo de cache de páginas es requerido."
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo páginas de cache no parece contener un valor válido."
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo Duración de Páginas en Caché no contiene un valor válido."
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr ""
+msgstr "El campo Duración de Páginas en Caché es obligatorio."
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -155,7 +155,7 @@ msgctxt "settings.cleanurl.clean_url_enabled"
 msgid ""
 "This option makes Ushahidi to be accessed via \"clean\" URLs (without "
 "\"index.php\" in the URL)."
-msgstr ""
+msgstr "Esta opción permite que se pueda acceder a Ushahidi via URLs \"limpias\", (es decir sin \"index.php\" en la URL)."
 
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
@@ -170,34 +170,34 @@ msgstr "URLs limpias"
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr ""
+msgstr "El campo número de API Clickatell debe tener a lo más 20 caracteres de largo."
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr ""
+msgstr "El campo número de API Clickatell es obligatorio."
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "El campo clave de Clickatell debe tener al menos 5 y no más de 50 caracteres de largo."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr ""
+msgstr "El campo Constraseña de Clickatell es obligatorio"
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr ""
+msgstr "El campo Usuario de Clickatell no debe contener más de 50 caracteres de largo."
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr ""
+msgstr "El campo Usuario de Clickatell es obligatorio."
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
@@ -212,12 +212,12 @@ msgstr "Ubicación predeterminada"
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo color de feed no parece contener un valor válido."
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr ""
+msgstr "El campo color no debe contener más de 6 caracteres de largo."
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
@@ -237,24 +237,24 @@ msgstr "Nivel de zoom predeterminado"
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
 msgid "Retrieve Cities From Geonames"
-msgstr ""
+msgstr "Descargar lista de ciudades desde Geonames"
 
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr ""
+msgstr "El puerto del servidor de correo es demasiado largo."
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "El campo puerto del servidor de correo debe contener únicamente números."
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr ""
+msgstr "El campo Contraseña del Puerto del Servidor de Correo debe contener no menos de 5 ni más de 50 caracteres de largo."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
@@ -269,7 +269,7 @@ msgstr "El campo puerto de servidor de correo es demasiado largo."
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr ""
+msgstr "El campo Puerto del Servidor de Correo debe contener únicamente números."
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
@@ -284,7 +284,7 @@ msgstr "El campo Tipo de servidor de correo es obligatorio."
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr ""
+msgstr "El campo Usuario del Servidor de Correo no debe contener más de 50 caracteres de largo."
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
@@ -301,7 +301,7 @@ msgctxt "settings.facebook.description"
 msgid ""
 "To get the information below you will need to create a new Facebook "
 "application at"
-msgstr ""
+msgstr "Para obtener esta información deberá crear una nueva aplicación de Facebook en"
 
 #: settings.facebook.description_2
 msgctxt "settings.facebook.description_2"
@@ -563,7 +563,7 @@ msgstr ""
 #: settings.site.items_per_page
 msgctxt "settings.site.items_per_page"
 msgid "Items Per Page - Front End"
-msgstr ""
+msgstr "Ítems por página - Front end"
 
 #: settings.site.items_per_page_admin
 msgctxt "settings.site.items_per_page_admin"
