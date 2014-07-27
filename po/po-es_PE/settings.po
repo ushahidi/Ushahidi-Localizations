@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-07-16 22:59+0000\n"
+"PO-Revision-Date: 2014-07-26 22:08+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -40,12 +40,12 @@ msgstr "El campo incluir feed es obligatorio."
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr ""
+msgstr "El campo Incluir categoría de feed no parece contener un valor válido."
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr ""
+msgstr "El campo incluir feed es obligatorio."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -107,17 +107,17 @@ msgctxt "settings.banner_image.type"
 msgid ""
 "The Site Banner field does not appear to contain a valid image. The only "
 "accepted formats are .JPG, .PNG and .GIF."
-msgstr ""
+msgstr "El campo Imagen del Sitio parece contener una imagen no válida. Los formatos aceptados son .JPG .PNG y .GIF."
 
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr ""
+msgstr "Por favor, asegúrate que el peso de \"imagen del banner\" sea menor a 250 KB."
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr ""
+msgstr "El campo \"Imagen de banner\" parece no contener un archivo válido."
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
@@ -148,7 +148,7 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "Al parecer tu servidor no está configurado para manejar URLs limpias. Necesitas cambiar la configuración de tu servidor antes de que actives las URLs limpias. Puedes ver más información sobre cómo activar las URLs limpias en <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">este foro</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
@@ -308,7 +308,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "Estas opciones permiten a sus usuarios acceder a través de facebook, esto <strong>no</strong> crea una aplicación de facebook para tu Ushahidi."
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -325,7 +325,7 @@ msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr ""
+msgstr "El campo Google Analytics debe contener una Web Property ID válida, en formato UA-XXXXX-XX."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
@@ -337,14 +337,14 @@ msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr ""
+msgstr "Esta opción hace que se pueda acceder Ushahidi en modo inseguro; <strong>sin</strong> \"https://\" el el prefijo de la URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr ""
+msgstr "Esta opción hace que Ushahidi puede ser accedido de modo seguro; con <strong>https</strong> en el prefijo de la URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
@@ -356,12 +356,12 @@ msgctxt "settings.items_per_page.between"
 msgid ""
 "The items per page (Frontend) field does not appear to contain a valid "
 "value."
-msgstr ""
+msgstr "El campo Elementos por página (Frontend) no parece contener un valor válido."
 
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
-msgstr ""
+msgstr "El campo Elementos por página (Frontend) es obligatorio."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
@@ -379,7 +379,7 @@ msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "Configura tu proveedor de mapas en u proceso sencillo. Selecciona un proveedor, obtén una llave API desde el sitio del proveedor e introduce la llave API."
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
@@ -406,7 +406,7 @@ msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "Configura tu proveedor de mapas en u proceso sencillo. Selecciona un proveedor, obtén una llave API desde el sitio del proveedor e introduce la llave API."
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
@@ -426,7 +426,7 @@ msgstr "Configuración del Mapa"
 #: settings.multiple_countries
 msgctxt "settings.multiple_countries"
 msgid "Does this Ushahidi Deployment span multiple countries?"
-msgstr ""
+msgstr "¿Este Ushahidi abarca a múltiples países? "
 
 #: settings.select_default_location
 msgctxt "settings.select_default_location"
@@ -436,7 +436,7 @@ msgstr "Por favor selecciona un país predeterminado"
 #: settings.set_location
 msgctxt "settings.set_location"
 msgid "Click and drag the map to set your exact location"
-msgstr ""
+msgstr "Haz clic y señala en el mapa tu ubicación exacta"
 
 #: settings.site.allow_clustering
 msgctxt "settings.site.allow_clustering"
@@ -451,7 +451,7 @@ msgstr "Permitir a los usuarios hacer comentarios a los reportes"
 #: settings.site.allow_feed
 msgctxt "settings.site.allow_feed"
 msgid "Include RSS News Feed on Website"
-msgstr ""
+msgstr "Incluir feed de Noticias en tu sitio web"
 
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
@@ -543,7 +543,7 @@ msgctxt "settings.site.email_notice"
 msgid ""
 "<span>In order to receive reports by email, please configure your email "
 "account settings.</span>"
-msgstr ""
+msgstr "<span>A fin de recibir reportes vía correo electrónico, por favor, configura tu cuenta de correo en la configuración.</span>"
 
 #: settings.site.email_site
 msgctxt "settings.site.email_site"
@@ -558,7 +558,7 @@ msgstr "Google Analytics"
 #: settings.site.google_analytics_example
 msgctxt "settings.site.google_analytics_example"
 msgid "Web Property ID - Format: UA-XXXXX-XX"
-msgstr ""
+msgstr "Web Property ID - Formato: UA-XXXXX-XX"
 
 #: settings.site.items_per_page
 msgctxt "settings.site.items_per_page"
@@ -577,7 +577,7 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
+msgstr "Puedes prevenir el spam usando <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a>. <BR />Puedes obtener una llave API gratuita con <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">tu cuenta de WordPress.com</a>"
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
@@ -612,7 +612,7 @@ msgstr "Nombre del Sitio"
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr ""
+msgstr "Implementación Privada"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
@@ -622,17 +622,17 @@ msgstr "Se requiere la confirmación del correo electrónico"
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr ""
+msgstr "Enviar un reporte"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
 msgid "Enable Statistics (Stored on Ushahidi's server)"
-msgstr ""
+msgstr "Activar Estadísticas (Almacenada en los servidores de Ushahidi)"
 
 #: settings.site.tagline
 msgctxt "settings.site.tagline"
 msgid "Site Tagline"
-msgstr ""
+msgstr "Subtítulo del sitio"
 
 #: settings.site.timezone
 msgctxt "settings.site.timezone"
@@ -642,7 +642,7 @@ msgstr "Zona horaria"
 #: settings.site.title
 msgctxt "settings.site.title"
 msgid "Site Settings"
-msgstr ""
+msgstr "Configuración del sistema"
 
 #: settings.site.twitter_configuration
 msgctxt "settings.site.twitter_configuration"
@@ -657,7 +657,7 @@ msgstr "Hashtags - Separados por comas"
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr ""
+msgstr "Feeds geolocalización - Nombre de usuario de Geonames"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
@@ -668,12 +668,12 @@ msgstr "El campo Dirección de correo para no contener una dirección de correo 
 msgctxt "settings.site_email.length"
 msgid ""
 "The site email field must be at least 4 and no more 100 characters long."
-msgstr ""
+msgstr "El campo Email del sitio debe ser de al menos 4 y no más de 100 caracteres."
 
 #: settings.site_name.length
 msgctxt "settings.site_name.length"
 msgid "The site name field must be at least 3 and no more 50 characters long."
-msgstr ""
+msgstr "El campo Nombre del sitio debe contener al menos 3 y no más de 50 caracteres."
 
 #: settings.site_name.required
 msgctxt "settings.site_name.required"
@@ -683,12 +683,12 @@ msgstr "El campo Nombre del sitio es obligatorio."
 #: settings.site_tagline.length
 msgctxt "settings.site_tagline.length"
 msgid "The tagline field must be at least 3 and no more 100 characters long."
-msgstr ""
+msgstr "El campo Subtítulo del sitio debe tener al menos 3 y no más de 100 caracteres."
 
 #: settings.site_tagline.required
 msgctxt "settings.site_tagline.required"
 msgid "The tagline field is required."
-msgstr ""
+msgstr "El campo Subtítulo del sitio es obligatorio."
 
 #: settings.sms.clickatell_api
 msgctxt "settings.sms.clickatell_api"
@@ -698,12 +698,12 @@ msgstr "Tu número de API Clickatell"
 #: settings.sms.clickatell_check_balance
 msgctxt "settings.sms.clickatell_check_balance"
 msgid "Check Your Clickatell Credit Balance"
-msgstr ""
+msgstr "Revisa tu Balance de Crédito Clickatell"
 
 #: settings.sms.clickatell_load_balance
 msgctxt "settings.sms.clickatell_load_balance"
 msgid "Load Credit Balance"
-msgstr ""
+msgstr "Cargar Balance de Crédito"
 
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
@@ -716,7 +716,7 @@ msgid ""
 "Sign up for Clickatells service by <a "
 "href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" "
 "target=\"_blank\">clicking here</a>"
-msgstr ""
+msgstr "Regístrate por el servicio Clickatells <a href=\"https://www.clickatell.com/central/user/client/step1.php?prod_id=2\" target=\"_blank\">haciendo click aquí</a>"
 
 #: settings.sms.clickatell_text_2
 msgctxt "settings.sms.clickatell_text_2"
@@ -734,7 +734,7 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "FrontlineSMS es software gratis, libre y de código abierto que permite a sus usuarios enviar y recibir mensajes de textos con grandes grupos de personas a través de teléfonos móviles. Haz click en la caja de debajo para descargar la última versión desde FrontlineSMS.com."
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
@@ -749,32 +749,32 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "Instrucciones detalladas sobre cómo enviar SMS desde tu instlación de FronlineSMS installation están disponibles <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">aquí</a></strong>. La URL y la llave API de abajo son obligatorias para activar la sincronización con FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
 msgid "Copy and paste this into the FrontlineSMS \"Address\" field"
-msgstr ""
+msgstr "Copia y pega esto en el campo \"Dirección\" de FrontlineSMS"
 
 #: settings.sms.flsms_key
 msgctxt "settings.sms.flsms_key"
 msgid "Copy and paste this into the FrontlineSMS \"Ushahidi API Key\" field"
-msgstr ""
+msgstr "Copia y pega esto en el campo \"Ushahidi llave API\" en FrontlineSMS"
 
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr ""
+msgstr "Conectando FrontelineSMS a este Ushahidi"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
 msgid "Enter phone number(s) connected to Frontline SMS in the field(s) below"
-msgstr ""
+msgstr "Introduzca el/los número(s) teléfónico(s) conectados a FrontlinesSMS en el/los campo(s) de abajo"
 
 #: settings.sms.flsms_text_2
 msgctxt "settings.sms.flsms_text_2"
 msgid "Enter the number without any + or dashes below"
-msgstr ""
+msgstr "Introduzca el número sin ningún + o guiones debajo"
 
 #: settings.sms.option_1
 msgctxt "settings.sms.option_1"
@@ -831,17 +831,17 @@ msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr ""
+msgstr "Obtén la información siguiente, configurando tu Ushahidi como una aplicación de Twitter nueva."
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"
 msgid "Consumer Key"
-msgstr ""
+msgstr "\"Consumer Key\" Llave de consumidor"
 
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr ""
+msgstr "\"Consumer secret\" Secreto de consumidor"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"
@@ -851,9 +851,9 @@ msgstr "Token de acceso"
 #: settings.twitter.token_secret
 msgctxt "settings.twitter.token_secret"
 msgid "Access Token Secret"
-msgstr ""
+msgstr "Acceso secreto Token"
 
 #: settings.test_settings
 msgctxt "settings.test_settings"
 msgid "Test settings"
-msgstr ""
+msgstr "Probar la configuración"
