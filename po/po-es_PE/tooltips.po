@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-07-26 22:20+0000\n"
+"PO-Revision-Date: 2014-07-27 12:26+0000\n"
 "Last-Translator: Johnattan Rupire <jarjacha@riseup.net>\n"
 "Language-Team: Spanish (Peru) (http://www.transifex.com/projects/p/ushahidi-localizations/language/es_PE/)\n"
 "MIME-Version: 1.0\n"
@@ -81,7 +81,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "La feed puede ser una específica o todas en conjunto. Si tu quieres una feed específica para activar el disparador, puedes seleccionarlas aquí. De lo contrario, puedes dejarlas como \"todas\""
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -89,7 +89,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "Nombre de usuario del autor en twitter (o múltiples nombres de usuario separados por comas). Si quieres activar disparadores solo para mensajes de un usuario particular de twitter, introduce su nombre de usuario aquí (sin incluir la @)"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -110,7 +110,7 @@ msgid ""
 "when someone submits a report in Brazil, you will select \"specific area\" "
 "and then draw the box around Brazil. You can make these boxes as small or as"
 " large as you would like. You can also draw multiple boxes."
-msgstr ""
+msgstr "Puedes seleccionar cualquier lugar o una ubicación específica. Si selecciona una ubicación específica, se le pedirá que dibuje un cuadro alrededor del área que califica una acción. Por ejemplo, si deseas que este disparador se active cuando alguien presenta un informe en Ayacucho, tendrás que elegir \"área específica\" y luego dibujar la caja alrededor de Ayacucho. Puedes hacer estos cuadros tan pequeño o tan grande como quieras. También puedes dibujar múltiples cajas."
 
 #: tooltips.actions.on_specific_count
 msgctxt "tooltips.actions.on_specific_count"
@@ -118,7 +118,7 @@ msgid ""
 "This qualifier will activate the trigger on the N-th count either for the "
 "entire collective user base or for each individual user. Leave this blank to"
 " ignore it."
-msgstr ""
+msgstr "Este calificador activará el disparador en el número N ya sea para toda la base de usuarios o para cada usuario individual. Dejar en blanco para ignorarlo."
 
 #: tooltips.actions.report_title
 msgctxt "tooltips.actions.report_title"
@@ -131,7 +131,7 @@ msgid ""
 "If all of the qualifiers above are passed, the trigger will initiate a "
 "response. This can range from approving a report to emailing a user. Select "
 "the response here to activate additional options for the specific responses."
-msgstr ""
+msgstr "Si todas las cualificaciones anteriores se pasan, el disparador se iniciará una respuesta. Esto puede ir desde la aprobación de un reporte de un usuario enviado por correo electrónico. Seleccione la respuesta aquí para activar opciones adicionales para las respuestas específicas."
 
 #: tooltips.actions.send_to
 msgctxt "tooltips.actions.send_to"
@@ -141,7 +141,7 @@ msgid ""
 "you will be able to enter a custom email address. This is useful if you are "
 "setting up triggers to notify people when certain parts of the map are "
 "seeing reports, check ins or some other activity."
-msgstr ""
+msgstr "Si selecciona \"Usuario Disparador\", el correo electrónico se enviará al usuario que realizó la acción. Si selecciona el botón de opción situado junto al cuadro de entrada, serás capaz de introducir una dirección de correo electrónico personalizado. Esto es útil si está configurando disparadores para notificar a las personas cuando ciertas partes del mapa están recibiendo reportes, registros de entrada o alguna otra actividad."
 
 #: tooltips.actions.specific_days
 msgctxt "tooltips.actions.specific_days"
@@ -157,7 +157,7 @@ msgid ""
 "is where you determine if you would like something to happen when someone "
 "submits a report, performs a check in, etc. You will be able to filter "
 "responses to these actions after selecting one."
-msgstr ""
+msgstr "El disparador es el componente principal de la configuración de tu Acción de Disparadores. Aquí es donde se determina si deseas que algo suceda cuando alguien presenta un informe, realiza una comprobación, un registro, etc. Serás capaz de filtrar las respuestas a estas acciones una vez seleccionadas."
 
 #: tooltips.actions.user
 msgctxt "tooltips.actions.user"
@@ -166,7 +166,7 @@ msgid ""
 "users to activate a trigger, you will want to select them here. Otherwise, "
 "you will want to leave this as \"anyone\" since most triggers are set up for"
 " all users interacting with the system"
-msgstr ""
+msgstr "El usuario puede ser cualquiera o una específico. Si quieres únicamente uno específico para activar el disparador debes seleccionarlo aquí. Por lo contrario, tendrás que dejar esto como \"cualquiera\", ya que la mayoría de los disparadores se establecen para todos los usuarios que interactúan con el sistema"
 
 #: tooltips.actions.verify
 msgctxt "tooltips.actions.verify"
@@ -178,7 +178,7 @@ msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr ""
+msgstr "La página de perfil en este sitio usa Gravatar. Clickando sobre tu imagen, irás a la web de Gravatar donde tu puedes cambiar tu imagen de perfil."
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
@@ -246,7 +246,7 @@ msgid ""
 "This is a requirement when creating a new user and will be the users "
 "password. You should inform your new user to change their password after "
 "logging in for the first time."
-msgstr ""
+msgstr "Esto es un requerimiento cuando se crea un nuevo usuario y su contraseña. Debes informar al nuevo usuario que debe cambiar su contraseña después de ingresar por primera vez."
 
 #: tooltips.profile_notify
 msgctxt "tooltips.profile_notify"
@@ -260,7 +260,7 @@ msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr ""
+msgstr "Tu contraseña actual. Necesitamos que introduzcas tu contraseña para prevenir cualquier cambio no autorizado en tu cuenta."
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -268,7 +268,7 @@ msgid ""
 "Your profile can be viewed by anyone on the Internet if you check this "
 "option. This is also the easiest way to show off the reports you've "
 "submitted, your checkins, badges, etc all on one page."
-msgstr ""
+msgstr "Tu perfil podrá ser visto por cualquiera en internet si habilitas esta opción. Esta es también la manera más fácil de mostrar los informes que nos has enviado, tus checkins, insignias, etc todo en una página."
 
 #: tooltips.profile_public_url
 msgctxt "tooltips.profile_public_url"
@@ -288,7 +288,7 @@ msgid ""
 "highest access level (100). Public data is displayed at the lowest access "
 "level (0). Members have access level 10. Admin is access level 90 by "
 "default."
-msgstr ""
+msgstr "Los niveles de acceso se utilizan para restringir el acceso a los campos de formulario personalizado. Niveles de acceso más altos pueden acceder a los campos de los niveles más bajos. Superadmin tiene el nivel de acceso más alto (100). Los datos públicos se visualizan en el nivel de acceso más bajo (0). Los miembros tienen nivel de acceso 10. Administración es el nivel de acceso 90 predefinido."
 
 #: tooltips.settings_alert_email
 msgctxt "tooltips.settings_alert_email"
@@ -347,7 +347,7 @@ msgid ""
 "theme you are using supports it. The recommended size for this banner will "
 "depend on the theme you are using. Keep in mind that this will replace the "
 "site title and tagline at the top of the page."
-msgstr ""
+msgstr "La imagen (banner) del sitio aparecerá en la parte superior de la página de inicio de tu web si el tema que estás utilizando es compatible con ella. El tamaño recomendado para esta imagen dependerá del tema que estés usando. Ten en cuenta que esto va a reemplazar el título del sitio y el subtítulo en la parte superior de la página."
 
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
@@ -361,7 +361,7 @@ msgid ""
 "response times. We recommend using caching on high traffic sites. **Remember"
 " that reports will be populated on the front end based on the schedule you "
 "set below (Cache Lifetime)."
-msgstr ""
+msgstr "Activar o desactivar la caché de páginas. Esto hace que las páginas se muestran más rápido mediante la reducción de los tiempos de respuesta. Le recomendamos que utilice el almacenamiento en caché de los sitios de alto tráfico. ** Recuerde que los informes se rellenarán en la parte pública de la web en base a la programación que ha configurado a continuación (Duración en caché)."
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
@@ -377,7 +377,7 @@ msgid ""
 "make sure your timezone setting is on UTC and your theme supports checkins. "
 "When you enable this, checkin-only themes will become enabled under your "
 "addons/themes settings page."
-msgstr ""
+msgstr "Esta configuración permite checkins en tu Ushahidi. Se trata de un tipo de informe simplificado que no está moderado antes de que entre en la página principal y requiere que tu sitio esté configurado de cierta manera. Cuando se activa esta opción, asegúrate de que la configuración de zona horaria está en hora UTC y su tema es compatible con checkins. Cuando se activa esta opción, temas únicamente para checkin podrán ser activados en la página de configuración de addons/themes."
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
@@ -451,7 +451,7 @@ msgid ""
 "If you set this option to yes, you must approve every individual user who "
 "creates an account on your site by assigning them roles (ie. Member, Admin, "
 "Superadmin)."
-msgstr ""
+msgstr "Si configuras esta opción como Sí, deberás aprobar cada usuario individualmente en tu sitio web, asignándoles algún rol (ejemplo: Miembro, Administrador, Superadministrador)."
 
 #: tooltips.settings_map_provider
 msgctxt "tooltips.settings_map_provider"
@@ -469,7 +469,7 @@ msgctxt "tooltips.settings_private_deployment"
 msgid ""
 "Setting this value to true or yes will make your deployment private so only "
 "users with accounts that you specify will be able to access the deployment."
-msgstr ""
+msgstr "Al establecer este valor en verdadero \"true\" o  sí \"yes\" hará que tu ushahidi sea una implementación privada de modo que sólo los usuarios con cuentas específicas serán capaces de acceder a la implementación."
 
 #: tooltips.settings_require_email_confirmation
 msgctxt "tooltips.settings_require_email_confirmation"
@@ -478,7 +478,7 @@ msgid ""
 "allowed to log into the deployment if this is set to yes. If you enable this"
 " after your deployment has accepted users, they will be prompted to confirm "
 "their account before they will be allowed to continue using it."
-msgstr ""
+msgstr "Los usuarios recibirán un correo electrónico con un enlace de confirmación que deberá ser usado antes de que se les permita ingresar a la implementación de ushahidi si se configura en Sí. Si habilitas esto una vez que los usuarios de la implementación han sido aceptados, se les solicitará que confirmen su cuenta antes de que se les permitirá seguir utilizándola."
 
 #: tooltips.settings_server_host
 msgctxt "tooltips.settings_server_host"
@@ -518,7 +518,7 @@ msgid ""
 "this option, you gain access to hit statistics directly in your admin panel."
 " By disabling it, you will stop collecting statistics and will be unable to "
 "recover traffic stats collected while this is turned off."
-msgstr ""
+msgstr "Las estadísticas de ataque se almacenan en un servidor controlado por Ushahidi. Al activar esta opción, tendrás acceso a acceder a las estadísticas directamente en tu panel de administración. Con su desactivación, se detiene la recopilación de estadísticas y no serás capaz de recuperar las estadísticas de tráfico recogidas mientras estuvo desactivado."
 
 #: tooltips.settings_site_copyright_statement
 msgctxt "tooltips.settings_site_copyright_statement"
@@ -528,7 +528,7 @@ msgid ""
 "https://creativecommons.org/choose/ if you are interested in specifying what"
 " others are able to do with your work. And remember to be specific about "
 "what elements of the site you are licensing!"
-msgstr ""
+msgstr "¿Otras personas tienen derecho de publicar los textos, imágenes, vídeos y/o diseños de temas que tú y tus usuarios a crearon? ve a https://creativecommons.org/choose/ si estás interesado en especificar qué cosas se pueden hacer con tu trabajo. Y recuerda ser específico acerca de qué elementos del sitio web están bajo esa licencia!"
 
 #: tooltips.settings_site_email
 msgctxt "tooltips.settings_site_email"
@@ -568,7 +568,7 @@ msgid ""
 "This is the timezone that your site will operate on. This has an impact on "
 "any actions you have set up that utilize time and date, as well as the "
 "default current time for reports on the front and back end of the site."
-msgstr ""
+msgstr "Esta es la zona horaria en que tu sitio funcionará. Esto tiene un impacto en cualquier acción que haya configurado que utilizan la fecha y hora, así como la hora actual por defecto para informes sobre el lado visible, frente, y parte no visible, trasera, de tu web."
 
 #: tooltips.settings_twitter_configuration
 msgctxt "tooltips.settings_twitter_configuration"
@@ -581,4 +581,4 @@ msgid ""
 "If you want to geocode your feed entries, grab an user http://geonames.org, "
 "enable the free webservices and enter it here. Leave empty to disable this "
 "function.<br /><br />Beware of the the use limits!"
-msgstr ""
+msgstr "Si deseas geocodificar tus entradas de feeds, créate un usuario http://geonames.org, habilita los servicios web gratuitos e introdúcelo aquí. Déjalo en blanco para desactivar esta función. <br /> <br /> Cuidado con los de los limitaciones de uso!"
