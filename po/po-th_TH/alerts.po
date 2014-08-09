@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-07-01 09:48+0000\n"
+"PO-Revision-Date: 2014-08-09 02:15+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -31,19 +32,19 @@ msgstr "อีเมล์นั้นได้รับการลงทะเ
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr "อีเมล์ต้องมีอย่างน้อย 4 และไม่เกิน 64 ตัวอักษร"
+msgstr "อีเมล์ต้องมีอย่างน้อย 4 ตัวอักษร และไม่เกิน 64 ตัวอักษร"
 
 #: alerts.alert_email.required
 msgctxt "alerts.alert_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr "จำเป็นต้องใส่อีเมล์ถ้าช่องเครื่องหมายเช็คถูก"
+msgstr "จำเป็นต้องใส่อีเมล์หากช่องเครื่องหมายเช็คถูก"
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the alert "
 "location is within the country %s."
-msgstr "การใช้งานนี้ครอบคลุมประเทศเดียวเท่านั้น โปรดตรวจสอบว่าสถานการแจ้งเตือนอยู่ภายในประเทศนี้ %s"
+msgstr "การใช้งานนี้ครอบคลุมประเทศเดียวเท่านั้น โปรดตรวจสอบว่าตำแหน่งที่แจ้งเตือนอยู่ภายในประเทศนี้ %s"
 
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
@@ -69,7 +70,7 @@ msgstr "คุณไม่ได้เลือกตำแหน่งที่
 msgctxt "alerts.alert_mobile.length"
 msgid ""
 "The Mobile Phone field does not seem to contain the right amount of digits."
-msgstr "ช่องใส่โทรศัพท์มือถือมีตัวเลขในปริมาณที่ไม่เหมาะสม"
+msgstr "จำนวนตัวเลขในช่องใส่หมายเลขโทรศัพท์มือถือไม่ครบถ้วน"
 
 #: alerts.alert_mobile.mobile_check
 msgctxt "alerts.alert_mobile.mobile_check"
@@ -83,7 +84,7 @@ msgctxt "alerts.alert_mobile.numeric"
 msgid ""
 "The Mobile Phone field does not appear to contain a valid phone. Please "
 "input numbers only including Country Code."
-msgstr "ช่องใส่โทรศัพท์มือถือไม่ถูกต้อง กรุณาใส่ตัวเลขเท่านั้นและรวมรหัสประเทศ"
+msgstr "ช่องใส่โทรศัพท์มือถือไม่ถูกต้อง กรุณาใส่ตัวเลขเท่านั้นพร้อมรหัสประเทศ"
 
 #: alerts.alert_mobile.one_required
 msgctxt "alerts.alert_mobile.one_required"
@@ -132,7 +133,7 @@ msgctxt "alerts.code_verified"
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr "รหัสของคุณถูกตรวจสอบอย่างถูกต้อง ตอนนี้คุณจะได้รับการแจ้งเตือนอุบัติเหตุเวลาที่จะเกิดขึ้น"
+msgstr "รหัสของคุณถูกตรวจสอบอย่างถูกต้อง ตอนนี้คุณจะได้รับการแจ้งเตือนอุบัติการณ์ต่างๆที่เกิดขึ้น"
 
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
@@ -154,7 +155,7 @@ msgstr "อีเมล์แจ้งเตือนของคุณได้
 #: alerts.email_code
 msgctxt "alerts.email_code"
 msgid "Please enter the Email confirmation code you received below: "
-msgstr "กรุณากรอกรหัสยืนยันที่คุณได้รับในอีเมล์ข่างล่าง"
+msgstr "กรุณากรอกรหัสยืนยันที่คุณได้รับในอีเมล์ข้างล่าง"
 
 #: alerts.email_error_head
 msgctxt "alerts.email_error_head"
@@ -164,19 +165,19 @@ msgstr "อีเมล์ขอแจ้งเตือนของคุณไ
 #: alerts.email_ok_head
 msgctxt "alerts.email_ok_head"
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr "อีเมล์ขอแจ้งเตือนของคุณได้รับการบันทึก!"
+msgstr "อีเมล์ขอแจ้งเตือนของคุณได้รับการบันทึกแล้ว!"
 
 #: alerts.error
 msgctxt "alerts.error"
 msgid "The system was not able to process your confirmation request!"
-msgstr "ระบบไม่สามารถดำเนินการจากการยืนยันของคุณ!"
+msgstr "ระบบไม่สามารถดำเนิน สิ่งที่คุณยืนยัน/ร้องขอมาก!"
 
 #: alerts.mobile_alert_request_created
 msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr "มือถือแจ้งเตือนของคุณได้รับการสร้างขึ้นแล้วและข้อความยืนยันได้ถูกส่งไป"
+msgstr "การแจ้งเตือนผ่านระบบมือถือของคุณได้รับการสร้างขึ้นแล้วและข้อความยืนยันได้ถูกส่งไป"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
@@ -198,7 +199,7 @@ msgstr "การขอแจ้งเตือนในมือถือขอ
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr "การใช้งานนี้ไม่ได้ตั้งขึ้นมาเพื่อดำเนินการแจ้งเตือนอย่างถูกต้อว"
+msgstr "การใช้งานนี้ไม่ได้ตั้งขึ้นมาเพื่อดำเนินการแจ้งเตือนอย่างถูกต้อง"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
@@ -228,4 +229,4 @@ msgstr "แจ้งเตือน - ตรวจสอบ"
 msgctxt "alerts.verify_code"
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
-msgstr "คุณจะไม่ได้รับการแจ้งเตือนสำหรับสถานที่นี้จนกว่าคุณได้ทำการยืนยัน"
+msgstr "คุณจะไม่ได้รับการแจ้งเตือนสำหรับสถานที่นี้จนกว่าคำร้องของคุณได้ทำการยืนยัน"
