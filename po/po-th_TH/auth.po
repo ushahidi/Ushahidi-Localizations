@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-08-09 02:15+0000\n"
+"PO-Revision-Date: 2014-08-09 14:47+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -29,17 +30,17 @@ msgstr "ขออภัย มีบัญชีที่ใช้อีเม�
 #: auth.email.length
 msgctxt "auth.email.length"
 msgid "The email field must be at least 4 and no more 64 characters long."
-msgstr "อีเมล์ต้องมีอย่างน้อย 4 และม่เกิน 64 ตัวอักษร"
+msgstr "อีเมล์ต้องมีอย่างน้อย 4 ตัวอักษร และไม่เกิน 64 ตัวอักษร"
 
 #: auth.email.required
 msgctxt "auth.email.required"
 msgid "The email field is required."
-msgstr "ช่องอีเมลจำเป็นต้องใส่"
+msgstr "จำเป็นต้องใส่อีเมล์"
 
 #: auth.name.length
 msgctxt "auth.name.length"
 msgid "The name field must be at least 3 and no more 100 characters long."
-msgstr "ชื่อฟิลด์จะต้องไม่น้อยกว่า 3 และไม่มากกว่า 100 ตัวอักษร"
+msgstr "ชื่อฟิลด์จะต้องไม่น้อยกว่า 3 ตัวอักษร และไม่มากกว่า 100 ตัวอักษร"
 
 #: auth.name.required
 msgctxt "auth.name.required"
@@ -69,7 +70,7 @@ msgstr "กรุณากรอกรหัสผ่านเดิมในส
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr "จำเป็นต้องใส่รหัสผ่านฟิลด์"
+msgstr "จำเป็นต้องใส่รหัสผ่าน"
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
