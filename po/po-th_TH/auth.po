@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-08-11 05:03+0000\n"
+"PO-Revision-Date: 2014-08-11 07:59+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -163,17 +163,17 @@ msgstr "รหัสผ่านในฟิล์ดยืนยันจะต
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"
 msgid "The email you entered is not a valid email address."
-msgstr "อีเมลที่คุณใส่ไม่ถูกต้อง"
+msgstr "อีเมล์ที่คุณใส่ไม่ถูกต้อง"
 
 #: auth.resetemail.invalid
 msgctxt "auth.resetemail.invalid"
 msgid "Sorry, we don't have your email address"
-msgstr "ขออภัย เราไม่มีที่อยู่อีเมลของคุณ"
+msgstr "ขออภัย เราไม่มีที่อยู่อีเมล์ของคุณ"
 
 #: auth.resetemail.required
 msgctxt "auth.resetemail.required"
 msgid "The email field is required."
-msgstr "จำเป็นต้องใส่ข้อมูลอีเมล"
+msgstr "จำเป็นต้องใส่ข้อมูลอีเมล์"
 
 #: auth.role.superadmin_modify
 msgctxt "auth.role.superadmin_modify"
@@ -188,7 +188,7 @@ msgstr "รูปแบบไม่ถูกต้อง"
 #: auth.roles.length
 msgctxt "auth.roles.length"
 msgid "The role field must be at least 5 and no more than 30 characters long."
-msgstr "บทบาทต้องมีอย่างน้อย 5 และไม่เกิน 30 ตัวอักษร"
+msgstr "บทบาทต้องมีอย่างน้อย 5 อักษรและไม่เกิน 30 ตัวอักษร"
 
 #: auth.roles.required
 msgctxt "auth.roles.required"
@@ -198,22 +198,22 @@ msgstr "คุณต้องกำหนดอย่างน้อยหนึ
 #: auth.roles.values
 msgctxt "auth.roles.values"
 msgid "You must select either ADMIN or USER role."
-msgstr "คุณต้องเลือกหนึ่งบทบาท ADMIN หรือผู้ใช้"
+msgstr "คุณต้องเลือกหนึ่งบทบาท ระหว่างเป็นแอดมินหรือเป็นเพียงผู้ใช้"
 
 #: auth.token.invalid
 msgctxt "auth.token.invalid"
 msgid "The forgotten password token is invalid"
-msgstr "โทเค็นลืมรหัสผ่านไม่ถูกต้อง"
+msgstr "รหัสผ่านไม่สามารถใช้งานได้"
 
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr "จำเป็นต้องใส่โทเค็นลืมรหัสผ่าน"
+msgstr "จำเป็นต้องใส่รัหัสผ่าน"
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
 msgid "The admin user role cannot be modified."
-msgstr "บทบาทผู้ใช้และดูแลระบบไม่สามารถแก้ไขได้"
+msgstr "ผู้ใช้แบบแอดมินไม่สามารถทำการแก้ไขได้"
 
 #: auth.username.alpha_numeric
 msgctxt "auth.username.alpha_numeric"
@@ -223,14 +223,14 @@ msgstr "ช่อง URL โปรไฟล์จะต้องมีเพี�
 #: auth.username.exists
 msgctxt "auth.username.exists"
 msgid "Sorry, this public profile URL is already in use."
-msgstr "ขออภัย URL โปรไฟล์นี้มีการใช้งานแล้ว"
+msgstr "ขออภัย URL โปรไฟล์นี้ถูกช้งานแล้ว"
 
 #: auth.username.length
 msgctxt "auth.username.length"
 msgid ""
 "The public profile URL field must be at least 2 and no more 100 characters "
 "long."
-msgstr "ช่อง URL โปรไฟล์ต้องมีอย่างน้อย 2 และไม่มากกว่า 100 ตัวอักษร"
+msgstr "ช่อง URL โปรไฟล์ต้องมีอย่างน้อย 2 ตัวอักษร และไม่มากกว่า 100 ตัวอักษร"
 
 #: auth.username.login error
 msgctxt "auth.username.login error"
@@ -245,9 +245,9 @@ msgstr "จำเป็นต้องใส่ URL โปรไฟล์"
 #: auth.username.superadmin
 msgctxt "auth.username.superadmin"
 msgid "The super admin role cannot be modified."
-msgstr "บทบาทของ super admin ไม่สามารถแก้ไขได้"
+msgstr " superแอดมินไม่สามารถทำการแก้ไขได้"
 
 #: auth.username.csrf
 msgctxt "auth.username.csrf"
 msgid "Possible CSRF attack. Did you really mean to create/edit a user?"
-msgstr "เป็นไปได้ที่มีการโจมตี CSRF คุณตั้งใจที่จะสร้าง/แก้ไขข้อมูลผู้ใช้หรือไม่?"
+msgstr "อาจมีการโจมตี CSRF คุณตั้งใจที่จะสร้าง/แก้ไขข้อมูลผู้ใช้หรือไม่?"
