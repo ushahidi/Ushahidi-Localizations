@@ -1,13 +1,14 @@
 # 
 # Translators:
+# lcs <lucas-r-l@hotmail.com>, 2014
 # Nigel Randsley <nigel.randsley@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:22+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-08-12 14:29+0000\n"
+"Last-Translator: lcs <lucas-r-l@hotmail.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -218,12 +219,12 @@ msgstr "Permitido"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr ""
+msgstr "Etiquetas HTML permitidas: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "Iframes são apenas permitidos desde: %s."
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -486,7 +487,7 @@ msgctxt "ui_main.confirm_email_successful_and_approval"
 msgid ""
 "You have successfully confirmed your email address! An administrator must "
 "approve your account before you login"
-msgstr ""
+msgstr "Você confirmou seu endereço de email! Um administrador deverá aprovar sua conta antes que você possa fazer login."
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -849,7 +850,7 @@ msgstr "Link para Vídeo Externo"
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -864,7 +865,7 @@ msgstr "Dê-nos a sua opinião"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr ""
+msgstr "Por favor, dê a sua opinião sobre a web, enviando um e-mail para"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -1383,7 +1384,7 @@ msgctxt "ui_main.login_approval_required"
 msgid ""
 "Account created. Your account must be approved by an admin before you can "
 "login."
-msgstr ""
+msgstr "Conta criada. Sua conta deve ser aprovada por um administrador antes de poder entrar."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
@@ -1438,24 +1439,24 @@ msgctxt "ui_main.login_signup_admin_approval_message"
 msgid ""
 "An new user has signed up at %1$s. To approve their registration please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Um novo usuário se inscreveu em %1$s. Para aprovar a sua inscrição, por favor vá para o seguinte URL: %2$s"
 
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
 msgid "New User Approval"
-msgstr ""
+msgstr "aprovação de um novo usuário"
 
 #: ui_main.login_signup_approval_message
 msgctxt "ui_main.login_signup_approval_message"
 msgid ""
 "Your user account has been approved for %1$s. To login go to the following "
 "URL: %2$s"
-msgstr ""
+msgstr "Sua conta de usuário foi aprovada para %1$s. Para entrar vá para o seguinte URL: %2$s"
 
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
 msgid "User account approved"
-msgstr ""
+msgstr "Conta de usuário aprovado"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"

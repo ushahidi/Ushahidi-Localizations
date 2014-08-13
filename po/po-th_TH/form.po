@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-08-11 09:37+0000\n"
+"PO-Revision-Date: 2014-08-13 05:08+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -25,28 +26,28 @@ msgstr "ค่าเริ่มต้นที่คุณใส่ไม่ถ
 msgctxt "form.field_default.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 200 characters long."
-msgstr "ชื่่อฟิลด์ต้องมีอย่างน้อย 3 และไม่เกิน 200 ตัวอักษร"
+msgstr "ชื่่อฟิลด์ต้องมีอย่างน้อย 3 ตัวอักษรและไม่เกิน 200 ตัวอักษร"
 
 #: form.field_height.between
 msgctxt "form.field_height.between"
 msgid "Please enter a value 0 to 50 for the Field Height."
-msgstr "กรุณาใส่ค่า 0 ถึง 50 สำหรับความสูงของสนาม"
+msgstr "กรุณาใส่ค่าความสูงของฟิล์ด 0 ถึง 50"
 
 #: form.field_isdate.between
 msgctxt "form.field_isdate.between"
 msgid "You have entered an invalid value for Date Field."
-msgstr "คุณได้ใส่ค่าที่ไม่ถูกต้องสำหรับวันที่ฟิลด์"
+msgstr "คุณได้ใส่ค่าไม่ถูกต้องในช่องวันที่"
 
 #: form.field_isdate.required
 msgctxt "form.field_isdate.required"
 msgid "Please select Yes or No for the Date Field."
-msgstr "กรุณาเลือกใช่หรือไม่ใช่สำหรับวันที่ฟิลด์"
+msgstr "กรุณาเลือกว่า ใช่หรือไม่ใช่ฟิล์ดวันที่"
 
 #: form.field_name.length
 msgctxt "form.field_name.length"
 msgid ""
 "The Field Name must be at least 3 and no more than 100 characters long."
-msgstr "ชื่อฟิลด์ต้องมีอย่างน้อย 3 และไม่เกิน 100 ตัวอักษร"
+msgstr "ชื่อฟิลด์ต้องมีอย่างน้อย 3 ตัวอักษร และไม่เกิน 100 ตัวอักษร"
 
 #: form.field_name.required
 msgctxt "form.field_name.required"
@@ -68,7 +69,7 @@ msgstr "คุณได้ใส่ค่าไม่ถูกต้องสำ
 #: form.field_required.required
 msgctxt "form.field_required.required"
 msgid "Please select Yes or No for Field Required."
-msgstr "กรุณาเลือกใช่หรือไม่ใช่สำหรับฟิลด์ที่จำเป็น"
+msgstr "กรุณาเลือกใช่หรือไม่ใช่สำหรับฟิล์ดที่จำเป็น"
 
 #: form.field_type.numeric
 msgctxt "form.field_type.numeric"
@@ -109,7 +110,7 @@ msgstr "กรุณาเลือกรูปแบบที่จะเติ
 msgctxt "form.form_title.length"
 msgid ""
 "The form name field must be at least 3 and no more than 100 characters long."
-msgstr "ชื่่อของฟิลค์ต้องมีอย่างน้อย 3 และไม่เกิน 100 ตัวอักษร"
+msgstr "ชื่่อของฟิลค์ต้องมีอย่างน้อย 3 ตัวอักษร และไม่เกิน 100 ตัวอักษร"
 
 #: form.form_title.required
 msgctxt "form.form_title.required"
