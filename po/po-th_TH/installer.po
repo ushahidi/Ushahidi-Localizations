@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-08-13 06:05+0000\n"
+"PO-Revision-Date: 2014-08-13 06:37+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -170,12 +170,12 @@ msgstr "ติดตั้งสำเร็จ"
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr "เมลเซิร์ฟเวอร์"
+msgstr "เมล์เซิร์ฟเวอร์"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr "เมลเซิร์ฟเวอร์โฮสต์"
+msgstr "เมล์เซิร์ฟเวอร์โฮสต์"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
@@ -190,12 +190,12 @@ msgstr "รหัสผ่านอีเมลเซิร์ฟเวอร์
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
 msgid "The password you normally use to login in to your email"
-msgstr "รหัสผ่านที่คุณใช้เพื่อเข้าสู่ระบบในอีเมลของคุณ"
+msgstr "รหัสผ่านที่คุณใช้เพื่อเข้าสู่ระบบในอีเมล์ของคุณ"
 
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr "พอร์ตเซิร์ฟเวอร์จดหมาย"
+msgstr "พอร์ตเซิร์ฟเวอร์เมล์"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
@@ -205,7 +205,7 @@ msgstr "พอร์ตสามัญ: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmai
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr "ประเภทเซิร์ฟเวอร์อีเมล"
+msgstr "ประเภทเซิร์ฟเวอร์อีเมล์"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -218,7 +218,7 @@ msgstr "ข้อความอินเทอร์เน็ตโปรโต
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr "ชื่่อเซิร์ฟเวอร์อีเมลผู้ใช้งาน"
+msgstr "ชื่่อเข้าใช้งานเซิร์ฟเวอร์เมล์"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
@@ -248,7 +248,7 @@ msgstr "Ushahidi ทำงานได้ดีกับสามผู้ให
 #: installer.other_steps
 msgctxt "installer.other_steps"
 msgid "Other steps..."
-msgstr "ขั้นตอนอื่น ๆ ..."
+msgstr "ขั้นตอนอื่นๆ ..."
 
 #: installer.password
 msgctxt "installer.password"
@@ -281,7 +281,7 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr "เซิร์ฟเวอร์อีเมลบางอย่างให้คุณเลือกใช้ <abbr title=\"Secure Sockets Layer\"> SSL </ abbr> เมื่อมีการเชื่อมต่อ แนะนำให้ใช้ SSL เพราะจะช่วยเพิ่มระดับความปลอดภัย"
+msgstr "เซิร์ฟเวอร์อีเมล์บางอย่างให้คุณเลือกใช้ <abbr title=\"Secure Sockets Layer\"> SSL </ abbr> เมื่อมีการเชื่อมต่อ แนะนำให้ใช้ SSL เพราะจะช่วยเพิ่มระดับความปลอดภัย"
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
@@ -309,7 +309,7 @@ msgstr "เมื่อผู้เข้าชมเว็บไซต์ขอ
 #: installer.site_email_description
 msgctxt "installer.site_email_description"
 msgid "Site wide email communication will be funneled through this address"
-msgstr "ไซต์อีเมลสื่อสารจะผ่านทางที่อยู่นี้"
+msgstr "ไซต์อีเมล์สื่อสารจะผ่านทางที่อยู่นี้"
 
 #: installer.site_name
 msgctxt "installer.site_name"

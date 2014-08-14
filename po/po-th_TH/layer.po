@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-08-11 09:44+0000\n"
+"PO-Revision-Date: 2014-08-13 06:47+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +25,7 @@ msgstr "พื้นที่สีต้องมี 6 ตัวอักษร
 #: layer.layer_color.required
 msgctxt "layer.layer_color.required"
 msgid "The color field is required."
-msgstr "จำเป็นต้องมีพื้นที่สี"
+msgstr "จำเป็นต้องป้อนข้อมูลในฟิล์ดสี"
 
 #: layer.layer_file.type
 msgctxt "layer.layer_file.type"
@@ -41,7 +42,7 @@ msgstr "ช่องไฟล์ไม่ปรากฏไฟล์ที่ถ
 #: layer.layer_name.length
 msgctxt "layer.layer_name.length"
 msgid "The name field must be at least 3 and no more 80 characters long."
-msgstr "ชื่อจะต้องไม่น้อยกว่า 3 และไม่มากกว่า 80 ตัวอักษร"
+msgstr "ชื่อจะต้องไม่น้อยกว่า 3 ตัวอักษร และไม่มากกว่า 80 ตัวอักษร"
 
 #: layer.layer_name.required
 msgctxt "layer.layer_name.required"
