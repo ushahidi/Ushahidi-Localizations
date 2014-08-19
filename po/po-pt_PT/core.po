@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-10 03:37+0000\n"
-"PO-Revision-Date: 2014-02-08 17:10+0000\n"
+"PO-Revision-Date: 2014-08-18 12:04+0000\n"
 "Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-localizations/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
@@ -35,12 +35,12 @@ msgstr "Controlador"
 #: core.driver_implements
 msgctxt "core.driver_implements"
 msgid "The %s driver for the %s library must implement the %s interface."
-msgstr "The %s driver for the %s library must implement the %s interface"
+msgstr "O controlador %s para a biblioteca %s deve implementar a interface %s"
 
 #: core.driver_not_found
 msgctxt "core.driver_not_found"
 msgid "The %s driver for the %s library could not be found."
-msgstr "The %s driver for the %s library could not be found"
+msgstr "Não foi possível encontrar o controlador %s para a biblioteca %s"
 
 #: core.errors_disabled
 msgctxt "core.errors_disabled"
@@ -68,7 +68,7 @@ msgstr "ajuda"
 msgctxt "core.invalid_filetype"
 msgid ""
 "The requested filetype, .%s, is not allowed in your view configuration file."
-msgstr "The requested filetype, .%s, is not allowed in your view configuration file"
+msgstr "O tipo de ficheiro solicitado, .%s, não é permitido no seu ficheiro  configuração de visualização"
 
 #: core.invalid_method
 msgctxt "core.invalid_method"
@@ -83,12 +83,12 @@ msgstr ""
 #: core.library
 msgctxt "core.library"
 msgid "library"
-msgstr ""
+msgstr "biblioteca"
 
 #: core.log_dir_unwritable
 msgctxt "core.log_dir_unwritable"
 msgid "The log directory is not writable: %s"
-msgstr ""
+msgstr "A diretoria de registos não é gravável: %s"
 
 #: core.model
 msgctxt "core.model"
@@ -109,17 +109,17 @@ msgstr ""
 #: core.page_not_found
 msgctxt "core.page_not_found"
 msgid "The page you requested, %s, could not be found."
-msgstr ""
+msgstr "Não foi possível encontrar a página solicitada, %s."
 
 #: core.report_bug
 msgctxt "core.report_bug"
 msgid "<a href=\"%s\" id=\"show_bugs\">Report This Issue To Ushahidi</a>"
-msgstr ""
+msgstr "<a href=\"%s\" id=\"show_bugs\">Comunique Isto à Ushahidi</a>"
 
 #: core.resource_not_found
 msgctxt "core.resource_not_found"
 msgid "The requested %s, %s, could not be found."
-msgstr "The requested %s, %s, could not be found"
+msgstr "Não foi possível encontrar o %s, %s, solicitado."
 
 #: core.stack_trace
 msgctxt "core.stack_trace"
@@ -141,7 +141,7 @@ msgstr ""
 #: core.there_can_be_only_one
 msgctxt "core.there_can_be_only_one"
 msgid "There can be only one instance of Ushahidi per page request."
-msgstr "There can be only one instance of Ushahidi per page request"
+msgstr "Só pode existir uma instância do Ushahidi por página solicitada"
 
 #: core.uncaught_exception
 msgctxt "core.uncaught_exception"
@@ -156,4 +156,4 @@ msgstr ""
 #: core.view_set_filename
 msgctxt "core.view_set_filename"
 msgid "You must set the the view filename before calling render."
-msgstr "You must set the the view filename before calling render"
+msgstr "Deve definir o nome de ficheiro da visualização antes de executar a renderização"
