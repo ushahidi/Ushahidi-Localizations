@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-08-11 09:35+0000\n"
+"PO-Revision-Date: 2014-08-24 06:38+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -24,14 +25,14 @@ msgstr "กรุณาใส่ชื่อหน้า"
 #: page.page_title.length
 msgctxt "page.page_title.length"
 msgid "Page Title must be at least 3 and no more than 150 characters long."
-msgstr "ชื่อหน้าจะต้องมีอย่างน้อย 3 และไม่เกิน 150 ตัวอักษร"
+msgstr "ชื่อหน้าจะต้องมีอย่างน้อย 3 ตัวอักษร และไม่เกิน 150 ตัวอักษร"
 
 #: page.page_tab.required
 msgctxt "page.page_tab.required"
 msgid "Please enter a Page Tab Name."
-msgstr "กรุณาใส่ชื่อแท็บหน้า"
+msgstr "กรุณาใส่ชื่อของแท็ปเพจ"
 
 #: page.page_description.required
 msgctxt "page.page_description.required"
 msgid "Please enter a Page Description."
-msgstr "กรุณากรอกรายละเอียดเกี่ยวกับหน้า"
+msgstr "กรุณาป้อนรายละเอียดของเพจ"
