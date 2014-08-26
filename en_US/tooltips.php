@@ -88,6 +88,6 @@ $lang = array(
 	'settings_site_tagline' => 'In a few words, explain what this site is about.',
 	'settings_site_timezone' => 'This is the timezone that your site will operate on. This has an impact on any actions you have set up that utilize time and date, as well as the default current time for reports on the front and back end of the site.',
 	'settings_twitter_configuration' => 'Set the twitter hashtag that will be used on a tweet',
-	'feed_geolocation_user'	=> "If you want to geocode your feed entries, grab an user http://geonames.org, enable the free webservices and enter it here. Leave empty to disable this function.<br /><br />Beware of the the use limits!"
+	'feed_geolocation_user'	=> "If you want to geocode your feed entries, grab a user http://geonames.org, enable the free webservices and enter it here. Leave empty to disable this function.<br /><br />Beware of the the use limits!"
 );
 ?>
