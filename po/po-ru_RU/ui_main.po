@@ -1,15 +1,15 @@
 # 
 # Translators:
 # Den <aemon@yandex.ru>, 2013
-# sher <sher@online.ua>, 2013
+# sher <sher@online.ua>, 2013-2014
 # televizor <televizor.by@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:22+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-08-25 16:57+0000\n"
+"Last-Translator: sher <sher@online.ua>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -488,7 +488,7 @@ msgctxt "ui_main.confirm_email_successful_and_approval"
 msgid ""
 "You have successfully confirmed your email address! An administrator must "
 "approve your account before you login"
-msgstr ""
+msgstr "Вы успешно подтвердили свой адрес электронной почты! Чтобы войти в систему, нужно дождаться подтверждения администратора"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -866,7 +866,7 @@ msgstr "Ваше мнение о платформе Ушахиди"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr ""
+msgstr "Пожалуйста, расскажите нам о том, что вы узнали, в письме на электронную почту"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -1385,7 +1385,7 @@ msgctxt "ui_main.login_approval_required"
 msgid ""
 "Account created. Your account must be approved by an admin before you can "
 "login."
-msgstr ""
+msgstr "Учетная запись создана. Ваша учетная запись должна быть одобрена администрацией прежде, чем Вы сможете войти."
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
@@ -1440,24 +1440,24 @@ msgctxt "ui_main.login_signup_admin_approval_message"
 msgid ""
 "An new user has signed up at %1$s. To approve their registration please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "Новый пользователь подписан в %1$s. Чтобы утвердить их регистрацию, перейдите к URL: %2$s"
 
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
 msgid "New User Approval"
-msgstr ""
+msgstr "Подтверждение нового пользователя"
 
 #: ui_main.login_signup_approval_message
 msgctxt "ui_main.login_signup_approval_message"
 msgid ""
 "Your user account has been approved for %1$s. To login go to the following "
 "URL: %2$s"
-msgstr ""
+msgstr "Ваша учетная запись пользователя %1$s подтверждена. Чтобы войти, перейдите к URL: %2$s"
 
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
 msgid "User account approved"
-msgstr ""
+msgstr "Учетная запись пользователя подтверждена"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"

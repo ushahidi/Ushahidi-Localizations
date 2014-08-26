@@ -2,6 +2,7 @@
 # Translators:
 # Den <aemon@yandex.ru>, 2013
 # Constantin <zxnotdead@gmail.com>, 2013
+# sher <sher@online.ua>, 2014
 # televizor <televizor.by@gmail.com>, 2012
 # Yurii Tikhoglaz <usetiskip@gmail.com>, 2012
 msgid ""
@@ -9,8 +10,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-08-25 17:10+0000\n"
+"Last-Translator: sher <sher@online.ua>\n"
 "Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/ushahidi-localizations/language/ru_RU/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -392,7 +393,7 @@ msgstr "Удалить"
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete all reports"
-msgstr ""
+msgstr "Удалить все отчеты"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -1622,39 +1623,39 @@ msgctxt "ui_admin.delete_all_instructions"
 msgid ""
 "Clicking the button below will delete ALL reports on the database. You "
 "should use this with caution as this operation cannot be undone."
-msgstr ""
+msgstr "Нажатие на кнопку ниже, удалит все отчеты в базе данных. Делайте это осторожно, поскольку эта операция не может быть отменена."
 
 #: ui_admin.delete_all_backup
 msgctxt "ui_admin.delete_all_backup"
 msgid "We recommend you backup your database before proceeding"
-msgstr ""
+msgstr "Мы рекомендуем вам сделать резервную копию вашей базы данных, прежде чем продолжить"
 
 #: ui_admin.delete_all_button
 msgctxt "ui_admin.delete_all_button"
 msgid "I'm sure I want to delete all %s report(s) from the database."
-msgstr ""
+msgstr "Я уверен, что хочу удалить все %s сообщений из базы данных."
 
 #: ui_admin.delete_all_confirm
 msgctxt "ui_admin.delete_all_confirm"
 msgid "Are you sure you want to delete all reports?"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить все сообщения?"
 
 #: ui_admin.delete_all_no_reports
 msgctxt "ui_admin.delete_all_no_reports"
 msgid "There are no reports to be deleted."
-msgstr ""
+msgstr "Нет отчётов для удаления."
 
 #: ui_admin.user_no_logins
 msgctxt "ui_admin.user_no_logins"
 msgid "Number of logins"
-msgstr ""
+msgstr "Количество входов"
 
 #: ui_admin.user_last_login
 msgctxt "ui_admin.user_last_login"
 msgid "Last login"
-msgstr ""
+msgstr "Последний вход"
 
 #: ui_admin.user_confirmed_account
 msgctxt "ui_admin.user_confirmed_account"
 msgid "Confirmed account?"
-msgstr ""
+msgstr "Подтвержденный аккаунт?"
