@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Lidia Cibor <lidka.cibor@gmail.com>, 2014
 # Qxiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-08-22 06:26+0000\n"
-"PO-Revision-Date: 2013-08-22 06:21+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-08-30 19:02+0000\n"
+"Last-Translator: Lidia Cibor <lidka.cibor@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,7 +32,7 @@ msgstr "您报告的事件地点跨越了本网站部署的国家范围。请确
 #: report.custom_field.values
 msgctxt "report.custom_field.values"
 msgid "Please enter a valid value for the \"%s\" field."
-msgstr ""
+msgstr "请输入为“%s”字段的有效值。"
 
 #: report.custom_field.numeric
 msgctxt "report.custom_field.numeric"

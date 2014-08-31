@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Lidia Cibor <lidka.cibor@gmail.com>, 2014
 # Qxiaojoe <1303133601@qq.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:20+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-08-30 19:10+0000\n"
+"Last-Translator: Lidia Cibor <lidka.cibor@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -40,12 +41,12 @@ msgstr "包括反馈为必选项"
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr ""
+msgstr "饲料类别字段似乎不包含有效的值。"
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr ""
+msgstr "饲料类别字段是必须的。"
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -456,7 +457,7 @@ msgstr "包括网站上的 RSS 新闻源"
 #: settings.site.allow_feed_category
 msgctxt "settings.site.allow_feed_category"
 msgid "Create New Category from Feeds"
-msgstr ""
+msgstr "您创建从饲料新类别"
 
 #: settings.site.allow_alerts
 msgctxt "settings.site.allow_alerts"
@@ -657,7 +658,7 @@ msgstr "标签，以英文逗号分隔"
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr ""
+msgstr "饲料地理位置 - 地理名称用户名"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"

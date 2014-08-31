@@ -2,14 +2,15 @@
 # Translators:
 # elhuevogrande <kbusch21@yahoo.com>, 2013
 # leeshzh <Leeshzh@gmail.com>, 2013
+# Lidia Cibor <lidka.cibor@gmail.com>, 2014
 # Plato Leung <popoutdoor@gmail.com>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:22+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-08-30 19:13+0000\n"
+"Last-Translator: Lidia Cibor <lidka.cibor@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -225,7 +226,7 @@ msgstr "允许的HTML标签: \"%s\"."
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
 msgid "Iframes are only allowed from: %s."
-msgstr ""
+msgstr "％s的：内部框架只能在允许的。"
 
 #: ui_main.all_categories
 msgctxt "ui_main.all_categories"
@@ -320,7 +321,7 @@ msgstr "未解决"
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr ""
+msgstr "徽章"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
