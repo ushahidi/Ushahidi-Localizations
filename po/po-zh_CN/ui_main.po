@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-08-30 19:13+0000\n"
+"PO-Revision-Date: 2014-08-31 19:48+0000\n"
 "Last-Translator: Lidia Cibor <lidka.cibor@gmail.com>\n"
 "Language-Team: Chinese (China) (http://www.transifex.com/projects/p/ushahidi-localizations/language/zh_CN/)\n"
 "MIME-Version: 1.0\n"
@@ -489,7 +489,7 @@ msgctxt "ui_main.confirm_email_successful_and_approval"
 msgid ""
 "You have successfully confirmed your email address! An administrator must "
 "approve your account before you login"
-msgstr ""
+msgstr "您已成功确认您的电子邮件地址！你登录之前，管理员必须批准您的帐户"
 
 #: ui_main.confirm_email_failed
 msgctxt "ui_main.confirm_email_failed"
@@ -852,7 +852,7 @@ msgstr "外部视频链接"
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
 msgid "Facebook"
-msgstr ""
+msgstr "脸书"
 
 #: ui_main.feed
 msgctxt "ui_main.feed"
@@ -867,7 +867,7 @@ msgstr "快速反馈"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr ""
+msgstr "通过发送电子邮件到请给我们介绍一下您的经验反馈"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -1386,7 +1386,7 @@ msgctxt "ui_main.login_approval_required"
 msgid ""
 "Account created. Your account must be approved by an admin before you can "
 "login."
-msgstr ""
+msgstr "帐号创建。您的帐户必须由管理员批准后才能登录。"
 
 #: ui_main.login_email_doesnt_exist
 msgctxt "ui_main.login_email_doesnt_exist"
@@ -1429,7 +1429,7 @@ msgctxt "ui_main.login_signup_confirmation_message"
 msgid ""
 "Thank you for signing up at %1$s. To confirm your email address, please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "感谢您注册时%1$s。确认您的电子邮件地址，请访问以下网址：%2$s"
 
 #: ui_main.login_signup_confirmation_subject
 msgctxt "ui_main.login_signup_confirmation_subject"
@@ -1441,24 +1441,24 @@ msgctxt "ui_main.login_signup_admin_approval_message"
 msgid ""
 "An new user has signed up at %1$s. To approve their registration please go "
 "to the following URL: %2$s"
-msgstr ""
+msgstr "一个新的用户已签署了位于%1$s。批准其注册请至以下网址：%2$s"
 
 #: ui_main.login_signup_admin_approval_subject
 msgctxt "ui_main.login_signup_admin_approval_subject"
 msgid "New User Approval"
-msgstr ""
+msgstr "新用户 审批"
 
 #: ui_main.login_signup_approval_message
 msgctxt "ui_main.login_signup_approval_message"
 msgid ""
 "Your user account has been approved for %1$s. To login go to the following "
 "URL: %2$s"
-msgstr ""
+msgstr "您的用户帐户已被批准对于%1$s。登录到以下网址：%2$s"
 
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
 msgid "User account approved"
-msgstr ""
+msgstr "用户帐户批准"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
@@ -2322,7 +2322,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr ""
+msgstr "你已经有一个帐户用CrowdmapID管理! 请尝试使用CrowdmapID 电子邮件地址和密码。"
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2582,12 +2582,12 @@ msgstr "来源名称"
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr ""
+msgstr "排序"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
 msgid "Sort By"
-msgstr ""
+msgstr "排序方式"
 
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
@@ -2622,7 +2622,7 @@ msgstr "报道新案例"
 #: ui_main.submitted_by
 msgctxt "ui_main.submitted_by"
 msgid "Submitted by <strong>%1$s</strong> via <strong>%2$s</strong>"
-msgstr ""
+msgstr "提交经 <strong>%1$s</strong> 通过 <strong>%2$s</strong>"
 
 #: ui_main.submit_sms
 msgctxt "ui_main.submit_sms"
@@ -2747,7 +2747,7 @@ msgstr "今天"
 #: ui_main.token
 msgctxt "ui_main.token"
 msgid "Token"
-msgstr ""
+msgstr "令牌"
 
 #: ui_main.total_reports
 msgctxt "ui_main.total_reports"
@@ -2860,7 +2860,7 @@ msgid ""
 "Custom field columns must have their form_id appended to them e.g custom "
 "field Test, on the default form, whose id is 1, will be Test-1. During "
 "custom form field import, ensure that"
-msgstr ""
+msgstr "自定义字段列必须有与其form_id 附加到它们例如自定义字段测试，默认的形式，其ID为1时，这将是Test-1。 如果您将导入自定义表单字段, 你保证"
 
 #: ui_main.upload_reports_detail_1
 msgctxt "ui_main.upload_reports_detail_1"
@@ -2878,7 +2878,7 @@ msgctxt "ui_main.upload_reports_detail_3"
 msgid ""
 "When incident ID already exists in the database, the entry in the CSV/XML "
 "file will be ignored."
-msgstr ""
+msgstr "当事件ID已经存在于数据库中, 该CSV/ XML文件中的条目将被忽略。"
 
 #: ui_main.upload_reports_detail_4
 msgctxt "ui_main.upload_reports_detail_4"
@@ -2911,7 +2911,7 @@ msgctxt "ui_main.upload_reports_detail_4e"
 msgid ""
 "Your entries for dropdown fields, radio buttons and checkboxes match the "
 "options provided for the custom field on your instance"
-msgstr ""
+msgstr "你的项下拉框，单选按钮和复选框符合规定的自定义字段选项在你的榜样"
 
 #: ui_main.upload_reports_detail_4f
 msgctxt "ui_main.upload_reports_detail_4f"
@@ -2919,14 +2919,14 @@ msgid ""
 "Checkbox options are separated by a comma e.g if your selected choice of "
 "fruits is apples,mangoes and grapes, your entry for this should be "
 "\"apples,mangoes,grapes\""
-msgstr ""
+msgstr "复选框选项之间用逗号分隔 例如，如果果您选择的选择是苹果，芒果和葡萄您的输入应“苹果，芒果，葡萄”"
 
 #: ui_main.upload_reports_detail_4g
 msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr ""
+msgstr "日期字段的值是按以下格式: m月d日yyyy 年例如2012年10月3日 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2949,7 +2949,7 @@ msgid ""
 "\"2\",\"Looting\",\"2009-03-18 10:10:00\",\"Accra\",\"Looting happening "
 "everywhere\",\"RIOTS, DEATHS, PROPERTY LOSS, "
 "\",YES,NO,\"5.55\",\"-0.2166667\""
-msgstr ""
+msgstr "\"二\",\"抢劫\",\"2009-03-18 10:10:00\".\"阿克拉\",\"抢劫发生无处不在\",\"骚乱, 死亡, 财产损失, \",是,否,\"5.55\",\"-0.2166667\""
 
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
