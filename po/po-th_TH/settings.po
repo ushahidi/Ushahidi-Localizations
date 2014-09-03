@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-08-11 09:44+0000\n"
+"PO-Revision-Date: 2014-09-03 05:21+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -19,12 +20,12 @@ msgstr ""
 #: settings.allow_comments.between
 msgctxt "settings.allow_comments.between"
 msgid "The allow comments field does not appear to contain a valid value."
-msgstr "ช่องให้แสดงความคิดเห็นไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ฟิล์ดแสดงความคิดเห็นไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.allow_comments.required
 msgctxt "settings.allow_comments.required"
 msgid "The allow comments field is required."
-msgstr "จำเป็นต้องใส่แสดงความคิดที่อนุญาต"
+msgstr "จำเป็นต้องใส่แสดงความคิด"
 
 #: settings.allow_feed.between
 msgctxt "settings.allow_feed.between"
@@ -40,7 +41,7 @@ msgstr "จำเป็นต้องใส่ฟีด"
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr "ช่องมวดหมู่ฟีดไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ช่องมวดหมู่ของฟีดไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
