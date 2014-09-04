@@ -1,12 +1,13 @@
 # 
 # Translators:
 # Boripat Lebel <inactive+boripatlebel@transifex.com>, 2014
+# Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi Web\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2014-08-11 09:44+0000\n"
+"PO-Revision-Date: 2014-09-03 07:38+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
 "Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +29,7 @@ msgctxt "ui_admin.access_denied_others"
 msgid ""
 "Access denied. Your request has been understood, but denied due to access "
 "limits like time. Try back later."
-msgstr "คุณไม่สามารถเข้าใช้งาน การร้องขอของคุณได้รับการพิจรณาแต่ถูกปฏิเสธเนื่องจากข้อจำกัดในการเข้าถึงเช่นเวลา ลองกลับมาใหม่เวลาอื่น"
+msgstr "ไม่สามารถเข้าใช้งานได้ คำขอของคุณได้รับการพิจรณาแล้วแต่ถูกปฏิเสธเนื่องจากมีการจำกัดการเข้าใช้งาน ลองกลับมาใช้ใหม่อีกครั้ง"
 
 #: ui_admin.access_level
 msgctxt "ui_admin.access_level"
@@ -48,7 +49,7 @@ msgstr "เพิ่มหมวดหมู่"
 #: ui_admin.added
 msgctxt "ui_admin.added"
 msgid "added"
-msgstr "ที่เพิ่ม"
+msgstr "เพิ่มแล้ว"
 
 #: ui_admin.added_edited
 msgctxt "ui_admin.added_edited"
