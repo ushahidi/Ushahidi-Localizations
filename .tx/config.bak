@@ -1,0 +1,207 @@
+[main]
+host = https://www.transifex.net
+lang_map = en:en_US
+
+[ushahidi-localizations.alerts]
+file_filter = po/po-<lang>/alerts.po
+source_file = po/po-en_US/alerts.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.auth]
+file_filter = po/po-<lang>/auth.po
+source_file = po/po-en_US/auth.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.bug]
+file_filter = po/po-<lang>/bug.po
+source_file = po/po-en_US/bug.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.category]
+file_filter = po/po-<lang>/category.po
+source_file = po/po-en_US/category.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.comments]
+file_filter = po/po-<lang>/comments.po
+source_file = po/po-en_US/comments.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.contact]
+file_filter = po/po-<lang>/contact.po
+source_file = po/po-en_US/contact.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.core]
+file_filter = po/po-<lang>/core.po
+source_file = po/po-en_US/core.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.database]
+file_filter = po/po-<lang>/database.po
+source_file = po/po-en_US/database.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.datetime]
+file_filter = po/po-<lang>/datetime.po
+source_file = po/po-en_US/datetime.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.feeds]
+file_filter = po/po-<lang>/feeds.po
+source_file = po/po-en_US/feeds.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.footer]
+file_filter = po/po-<lang>/footer.po
+source_file = po/po-en_US/footer.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.form]
+file_filter = po/po-<lang>/form.po
+source_file = po/po-en_US/form.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.imap]
+file_filter = po/po-<lang>/imap.po
+source_file = po/po-en_US/imap.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.installer]
+file_filter = po/po-<lang>/installer.po
+source_file = po/po-en_US/installer.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.layer]
+file_filter = po/po-<lang>/layer.po
+source_file = po/po-en_US/layer.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.libraries]
+file_filter = po/po-<lang>/libraries.po
+source_file = po/po-en_US/libraries.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.maintenance]
+file_filter = po/po-<lang>/maintenance.po
+source_file = po/po-en_US/maintenance.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.message]
+file_filter = po/po-<lang>/message.po
+source_file = po/po-en_US/message.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.mhi]
+file_filter = po/po-<lang>/mhi.po
+source_file = po/po-en_US/mhi.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.notifications]
+file_filter = po/po-<lang>/notifications.po
+source_file = po/po-en_US/notifications.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.page]
+file_filter = po/po-<lang>/page.po
+source_file = po/po-en_US/page.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.permissions]
+file_filter = po/po-<lang>/permissions.po
+source_file = po/po-en_US/permissions.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.private_message]
+file_filter = po/po-<lang>/private_message.po
+source_file = po/po-en_US/private_message.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.report]
+file_filter = po/po-<lang>/report.po
+source_file = po/po-en_US/report.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.reporters]
+file_filter = po/po-<lang>/reporters.po
+source_file = po/po-en_US/reporters.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.reports]
+file_filter = po/po-<lang>/reports.po
+source_file = po/po-en_US/reports.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.roles]
+file_filter = po/po-<lang>/roles.po
+source_file = po/po-en_US/roles.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.settings]
+file_filter = po/po-<lang>/settings.po
+source_file = po/po-en_US/settings.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.sharing]
+file_filter = po/po-<lang>/sharing.po
+source_file = po/po-en_US/sharing.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.stats]
+file_filter = po/po-<lang>/stats.po
+source_file = po/po-en_US/stats.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.tooltips]
+file_filter = po/po-<lang>/tooltips.po
+source_file = po/po-en_US/tooltips.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.ui_admin]
+file_filter = po/po-<lang>/ui_admin.po
+source_file = po/po-en_US/ui_admin.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.ui_main]
+file_filter = po/po-<lang>/ui_main.po
+source_file = po/po-en_US/ui_main.pot
+source_lang = en_US
+type = PO
+
+[ushahidi-localizations.upgrade]
+file_filter = po/po-<lang>/upgrade.po
+source_file = po/po-en_US/upgrade.pot
+source_lang = en_US
+type = PO

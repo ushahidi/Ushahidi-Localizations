@@ -4,12 +4,12 @@
 # Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi Web\n"
+"Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2014-09-03 07:33+0000\n"
+"PO-Revision-Date: 2014-09-07 04:32+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
-"Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
+"Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-v2/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -62,14 +62,14 @@ msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr "โอ้ถ้าคุณต้องการให้เราสำรองฐานข้อมูลของคุณเพียงแค่ติ๊กปุ่มตรวจสอบด้านล่างและเราจะทำให้คุณทันที"
+msgstr "หากคุณต้องการให้เราสำรองฐานของคุณ ทำได้โดยการติ๊กปุ่มตรวจสอบด้านล่างและเราจะทำให้คุณทันที"
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr "สำรองฐานข้อมูลก่อนที่จะอัพเกรด (<strong style=\"color:#FF0000;\"> สูงแนะนำ </ strong>)"
+msgstr "จะสำรองฐานข้อมูลก่อนที่จะอัพเกรดหรือไม่?  (<strong style=\"color:#FF0000;\"> ควรจำทำ </ strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
@@ -81,17 +81,17 @@ msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr "Ushahidi ได้รับการปรับปรุง! ก่อนที่คุณจะดำเนินการต่อคุณจำเป็นต้องปรับปรุงฐานข้อมูลของคุณให้เป็นรุ่นใหม่ล่าสุด (% s)"
+msgstr "Ushahidi ได้รับการปรับปรุงแล้ว! ก่อนที่คุณจะดำเนินการต่อคุณจำเป็นต้องอัพเดทฐานข้อมูลของคุณให้เป็นรุ่นใหม่ล่าสุด (% s)"
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr "รุ่นฐานข้อมูลของคุณเป็นรุ่นใหม่ล่าสุด"
+msgstr "รุ่นฐานข้อมูลของคุณเป็นรุ่นล่าสุด"
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
 msgid "Upgrade failed at some point"
-msgstr "อัพเกรดล้มเหลวในบางจุด"
+msgstr "อัพเกรดล้มเหลว"
 
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
@@ -139,7 +139,7 @@ msgid ""
 "the latest SQL file in your <strong>/sql</strong> directory.</dd><dd>- With "
 "your database client, upgrade the database by executing the appropriate "
 "upgradex-x.sql file.</dd></dl>"
-msgstr ""
+msgstr "< dt > <strong> การสำรองข้อมูล </ strong > </ dt > < dd> - .htaccess , ./applications/config/config.php ./applications/config/database.php และ ./applications/config/auth php ไฟล์ . เพียง ในกรณีที่มีอะไรผิดพลาดจึงแนะนำให้คุณสำรองข้อมูลทั้งหมด ในการใช้งาน Ushahidi <strong > คัดลอกไฟล์ </ strong > < dd> </ dd> < dt > </ dt > - </ dd> < dd> - การอันซิปไฟล์ที่ดาวน์โหลด </ dd> < dd> - ขึ้นอยู่กับระบบปฏิบัติการที่กำลังทำงานบนเว็บเซิร์ฟเวอร์ เลือกใช้เครื่องมือที่ต้องการ/โหมด (เช่น Telnet , FTP, SSH ) ที่จะเข้าสู่ระบบไปยังเว็บเซิร์ฟเวอร์และแทนที่เนื้อหาของทั้งหมด  โฟลเดอร์ที่มีใหม่ล่าสุดจาก ที่สร้า เมื่อเร็วๆ นี้ </ dd> < dt > <strong> ฐานข้อมูล Upgrde </ strong > </ dt > < dd> - ตรวจสอบรุ่นแรก คีมาฐานข้อมูลของคุณ โดยดูที่ <strong> db_version </ strong > ค่าในตาราง การตั้งค่าหรือ ดูที่ Ushahidiข้อมูลการอัพเกรด ที่ด้านบนสุดของหน้านี้ </ dd> < dd> - ถ้าคุณอยู่ที่รุ่น 25 คุณจะต้องอัพเกรด 25-26 , 26-27 , 27-28 และอื่น ๆ ไปยังแฟ้ม SQL ล่าสุดใน <strong > / SQL </ strong >. ไดเรกทอรี </ dd> < dd> - . กับ ฐานข้อมูลลูกค้า ของคุณอัพเกรดฐานข้อมูลโดยการดำเนินการ แฟ้ม upgradex - x.sql ที่เหมาะสม </ dd> </ ดล >"
 
 #: upgrade.upgrade_tables
 msgctxt "upgrade.upgrade_tables"
@@ -147,19 +147,19 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr ""
+msgstr "<strong> ขั้นที่ 3: </ strong> ดูจาก <strong> SQL </ strong> โฟลเดอร์ Manuall ดำเนินการอัพเกรด< xx > - < xx > .sql ไฟล์ เริ่มต้นจาก db ปัจจุบันของคุณ ที่ติดตั้งผ่านไฟล์ SQLล่าสุด"
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
 msgid ""
 "<strong>Step 4:</strong> Click on the <strong>\"Continue\"</strong> button "
 "to upgrade the necessary tables."
-msgstr "<strong> ขั้นที่ 4: </strong>คลิกที่ปุ่ม<strong>\"ต่อ\"</strong>เพื่อที่จะอัพเกรดตารางที่จำเป็น"
+msgstr "<strong> ขั้นที่ 4: </strong>คลิกที่ปุ่ม<strong>\"ต่อไป\"</strong>เช็คเลือกเพื่อที่จะอัพเกรดตารางที่จำเป็น"
 
 #: upgrade.upgrade_text_6
 msgctxt "upgrade.upgrade_text_6"
 msgid "For automatic upgrade, click on the button below."
-msgstr "สำหรับการอัพเกรดอัตโนมัติให้คลิกที่ปุ่มด้านล่าง"
+msgstr "เพื่อการอัพเกรดอัตโนมัติให้คลิกที่ปุ่มด้านล่าง"
 
 #: upgrade.upgrade_title_text
 msgctxt "upgrade.upgrade_title_text"
@@ -178,12 +178,12 @@ msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr "เพื่อที่จะดำเนินการอัพเกรดที่ง่าย ข้อมูลต่อไปนี้เป็นสิ่งจำเป็นสำหรับเซิร์ฟเวอร์ที่เว็บไซต์ของคุณเป็นโฮสต์"
+msgstr "เพื่อที่จะดำเนินการอัพเกรดแบบง่าย ข้อมูลต่อไปนี้เป็นสิ่งจำเป็นสำหรับเซิร์ฟเวอร์ที่เว็บไซต์ของคุณเป็นโฮสต์"
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
 msgid "FTP Hostname: <span>Example: \"localhost\"</span>"
-msgstr "ชื่อโฮสต์ FTP: <span>ตัวอย่าง:\"โฮสต์ท้องถิ่น\"</span>"
+msgstr "ชื่อโฮสต์ FTP: <span>ตัวอย่าง:\"โลคอลโฮสต์\"</span>"
 
 #: upgrade.upgrade_ftp_password
 msgctxt "upgrade.upgrade_ftp_password"
@@ -243,12 +243,12 @@ msgstr "กำลังดาวน์โหลดรุ่นล่าสุด
 #: upgrade.log_file
 msgctxt "upgrade.log_file"
 msgid "Log File"
-msgstr "เข้าสู่ระบบไฟล์"
+msgstr "ตารางบันทึกไฟล์"
 
 #: upgrade.successfully_downloaded
 msgctxt "upgrade.successfully_downloaded"
 msgid "Successfully Downloaded. Unpacking..."
-msgstr "ดาวน์โหลดประสบความสำเร็จ เอาออก เปิดออก..."
+msgstr "ดาวน์โหลดประสบความสำเร็จ  เปิดใช้งาน..."
 
 #: upgrade.failed_downloading
 msgctxt "upgrade.failed_downloading"
@@ -258,37 +258,37 @@ msgstr "การดาวน์โหลดล้มเหลว"
 #: upgrade.successfully_unpacked
 msgctxt "upgrade.successfully_unpacked"
 msgid "Successfully Unpacked. Copying files..."
-msgstr "ยกเลิกการบรรจุประสบความสำเร็จ กำลังคัดลอกไฟล์..."
+msgstr "การเปิดใช้งานสำเร็จแล้ว กำลังคัดลอกไฟล์..."
 
 #: upgrade.failed_unpacking
 msgctxt "upgrade.failed_unpacking"
 msgid "Failed unpacking."
-msgstr "ยกเลิกการบรรจุล้มเหลว"
+msgstr "การเปิดใช้งานล้มเหลว"
 
 #: upgrade.successfully_copied
 msgctxt "upgrade.successfully_copied"
 msgid "Successfully Copied. Upgrading Database..."
-msgstr "ประสบความสำเร็จในการคัดลอก อัพเกรดฐานข้อมูล..."
+msgstr "การคัดลอกประสบความสำเร็จแล้ว  กำลังอัพเกรดฐานข้อมูล..."
 
 #: upgrade.failed_copying
 msgctxt "upgrade.failed_copying"
 msgid "Failed copying files."
-msgstr "คัดลอกไฟล์ล้มเหลว"
+msgstr "การคัดลอกไฟล์ล้มเหลว"
 
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr "สำรองฐานข้อมูลและการอัพเกรดประสบความสำเร็จ"
+msgstr "การสำรองข้อมูลและการอัพเกรดประสบความสำเร็จแล้ว"
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr "ล้มเหลวในการสำรองฐานข้อมูล"
+msgstr "การสำรองฐานข้อมูลหล้มเหลว"
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr "อัพเกรดฐานข้อมูลประสบความสำเร็จ"
+msgstr "การอัพเกรดฐานข้อมูลประสบความสำเร็จ"
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"

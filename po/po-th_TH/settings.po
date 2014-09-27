@@ -4,12 +4,12 @@
 # Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi Web\n"
+"Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-09-03 05:21+0000\n"
+"PO-Revision-Date: 2014-09-12 14:35+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
-"Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
+"Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-v2/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -71,12 +71,12 @@ msgstr "จำเป็นต้องใส่รายงานที่อน
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr "ช่องสถิติร่วมไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ฟิล์ดสถิติไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr "จำเป็นต้องใส่สถิติร่วม"
+msgstr "จำเป็นต้องเพิ่มข้อมูลในฟิล์ดสถิติ"
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -96,12 +96,12 @@ msgstr "จำนวนสูงสุดของการร้องขอ AP
 #: settings.api_akismet.alpha_numeric
 msgctxt "settings.api_akismet.alpha_numeric"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr "ช่อง Akismet ไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ฟิล์ด Akismet ไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.api_akismet.length
 msgctxt "settings.api_akismet.length"
 msgid "The Akismet field does not appear to contain a valid value."
-msgstr "ช่อง Akismet ไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ฟิล์ด Akismet ไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.banner_image.type
 msgctxt "settings.banner_image.type"
@@ -113,33 +113,33 @@ msgstr "ช่องเว็บไซต์แบนเนอร์ไม่ป
 #: settings.banner_image.size
 msgctxt "settings.banner_image.size"
 msgid "Please ensure that \"Banner Image\" size is less than 250 KB."
-msgstr "โปรดตรวจสอบว่า \"แบนเนอร์\" ภาพมีขนาดน้อยกว่า 250 KB"
+msgstr "โปรดตรวจสอบว่า \"ภาพแบนเนอร์\" มีขนาดน้อยกว่า 250 KB"
 
 #: settings.banner_image.valid
 msgctxt "settings.banner_image.valid"
 msgid "The \"Banner Image\" field does not appear to contain a valid file."
-msgstr "ช่อง \"แบนเนอร์ภาพ\" ไม่ปรากฏไฟล์ที่ถูกต้อง"
+msgstr "ช่อง \"ภาพแบนเนอร์\" ไม่ปรากฏไฟล์ที่ถูกต้อง"
 
 #: settings.cache_pages.between
 msgctxt "settings.cache_pages.between"
 msgid "The cache pages field is required."
-msgstr "จำเป็นต้องใส่หน้าสำหรับแคช"
+msgstr "จำเป็นต้องใส่ข้อมูลหน้าแคช"
 
 #: settings.cache_pages.required
 msgctxt "settings.cache_pages.required"
 msgid "The cache pages field does not appear to contain a valid value."
-msgstr "ช่องหน้าสำหรับแคชไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "แคชไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.cache_pages_lifetime.in_array
 msgctxt "settings.cache_pages_lifetime.in_array"
 msgid ""
 "The cache pages lifetime field does not appear to contain a valid value."
-msgstr "ช่องอายุการใช้งานหน้าสำหรับแคชไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ฟิล์ดอายุใช้งานในหน้าสำแคชไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.cache_pages_lifetime.required
 msgctxt "settings.cache_pages_lifetime.required"
 msgid "The cache pages lifetime field is required."
-msgstr "จำเป็นต้องใส่อายุการใช้งานหน้าสำหรับแคช"
+msgstr "จำเป็นต้องใส่ฟิล์ดอายุใช้งานในหน้าแคช"
 
 #: settings.cleanurl.clean_url_disabled
 msgctxt "settings.cleanurl.clean_url_disabled"
@@ -149,7 +149,7 @@ msgid ""
 "URLs. See more info on how to enable clean URLs at <a "
 "href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-"
 "rewrite\" target=\"_blank\">this forum post</a>"
-msgstr ""
+msgstr "ดูเหมือนว่าเซิร์ฟเวอร์ของคุณไม่ได้กำหนดค่า URL ที่สะอาดได้ คุณจะต้องเปลี่ยนการตั้งค่าของเซิร์ฟเวอร์ของคุณก่อนที่คุณจะ สามารถเปิดใช้งาน URL ที่สะอาด ดูข้อมูลเพิ่มเติมเกี่ยวกับ วิธีการเปิดใช้ URL <a href=\"http://forums.ushahidi.com/topic/server-configuration-for-apache-mod-rewrite\" target=\"_blank\">this forum post</a>"
 
 #: settings.cleanurl.clean_url_enabled
 msgctxt "settings.cleanurl.clean_url_enabled"
@@ -161,44 +161,44 @@ msgstr "ตัวเลือกนี้จะทำให้ Ushahidi ที�
 #: settings.cleanurl.enable_clean_url
 msgctxt "settings.cleanurl.enable_clean_url"
 msgid "Enable Clean URLs"
-msgstr "เปิดใช้งาน URLs ที่สะอาด"
+msgstr "เปิดใช้งาน คลีน URLs "
 
 #: settings.cleanurl.title
 msgctxt "settings.cleanurl.title"
 msgid "Clean URLs"
-msgstr "ทำความสะอาด URLs"
+msgstr "คลีน URLs"
 
 #: settings.clickatell_api.length
 msgctxt "settings.clickatell_api.length"
 msgid "The Clickatell API number field must be no more 20 characters long."
-msgstr "ช่องหมายเลข Clickatell API จะต้องไม่เกิน 20 ตัวอักษร"
+msgstr "ฟิล์ดหมายเลขของ Clickatell API จะต้องไม่เกิน 20 ตัวอักษร"
 
 #: settings.clickatell_api.required
 msgctxt "settings.clickatell_api.required"
 msgid "The Clickatell API number field is required."
-msgstr "จำเป็นต้องใส่ตัวเลข Clickatell API"
+msgstr "จำเป็นต้องใส่ตัวเลขในฟิล์ด Clickatell API"
 
 #: settings.clickatell_password.length
 msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "ช่องรหัสผ่าน Clickatell ต้องมีอย่างน้อย 5 และไม่มากกว่า 50 ตัวอักษร"
+msgstr "ฟิล์ดรหัสผ่าน Clickatell ต้องมีอย่างน้อย 5 และไม่มากกว่า 50 ตัวอักษร"
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr "จำเป็นต้องใส่รหัสผ่าน Clickatell"
+msgstr "จำเป็นต้องใส่รหัสผ่านฟิล์ด Clickatell"
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
 msgid "The Clickatell Username field must be no more 50 characters long."
-msgstr "ช่องสำหรับชื่อผู้ใช้งาน Clickatell จะต้องไม่เกิน 50 ตัวอักษร"
+msgstr "ฟิล์ดชื่อผู้ใช้งาน Clickatell จะต้องไม่เกิน 50 ตัวอักษร"
 
 #: settings.clickatell_username.required
 msgctxt "settings.clickatell_username.required"
 msgid "The Clickatell Username field is required."
-msgstr "จำเป็นต้องใส่ชื่อผู้ใช้งาน Clickatell"
+msgstr "จำเป็นต้องใส่ฟิล์ดชื่อผู้ใช้งาน Clickatell"
 
 #: settings.configure_map
 msgctxt "settings.configure_map"
@@ -213,27 +213,27 @@ msgstr "เริ่มต้นที่"
 #: settings.default_map_all.alpha_numeric
 msgctxt "settings.default_map_all.alpha_numeric"
 msgid "The color feed field does not appear to contain a valid value."
-msgstr "ช่องสีไม่ปรากฏค่าที่ถูกต้อง"
+msgstr "ฟิล์ดสีไม่ปรากฏค่าที่ถูกต้อง"
 
 #: settings.default_map_all.length
 msgctxt "settings.default_map_all.length"
 msgid "The color field must be no more 6 characters long."
-msgstr "ช่องพื้นที่สีจะต้องไม่มากกว่า 6 ตัวอักษรยาว"
+msgstr "ฟิล์ดสีจะต้องไม่มากกว่า 6 ตัวอักษรยาว"
 
 #: settings.default_map_all.required
 msgctxt "settings.default_map_all.required"
 msgid "The color field is required."
-msgstr "จำเป็นต้องใส่พื้นที่สี"
+msgstr "จำเป็นต้องใส่ฟิล์ดสี"
 
 #: settings.default_map_view
 msgctxt "settings.default_map_view"
 msgid "Default Map View"
-msgstr "ดูแผนทีแบบเริ่มต้น"
+msgstr "ค่าเริ่มต้นมุมมองแผนที"
 
 #: settings.default_zoom_level
 msgctxt "settings.default_zoom_level"
 msgid "Default Zoom Level"
-msgstr ""
+msgstr "ตั้งการซูมที่ค่าเริ่มต้น"
 
 #: settings.download_city_list
 msgctxt "settings.download_city_list"
@@ -243,54 +243,54 @@ msgstr "เรียกเมืองจาก Geonames"
 #: settings.email_host.length
 msgctxt "settings.email_host.length"
 msgid "The Mail server port field is too long."
-msgstr "ช่องพอร์ตของเซิร์ฟเวอร์จดหมายยาวเกินไป"
+msgstr "ฟิล์ดพอร์ตของเซิร์ฟเวอร์จดหมายยาวเกินไป"
 
 #: settings.email_host.numeric
 msgctxt "settings.email_host.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr "ช่องพอร์ตของเซิร์ฟเวอร์จดหมายควรมีตัวเลขเท่านั้น"
+msgstr "ฟิล์ดพอร์ตของเซิร์ฟเวอร์จดหมายควรมีตัวเลขเท่านั้น"
 
 #: settings.email_password.length
 msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "รหัสผ่านเมลเซิร์ฟเวอร์ต้องมีอย่างน้อย 5 และไม่มากกว่า 50 ตัวอักษร"
+msgstr "รหัสผ่านเมล์เซิร์ฟเวอร์ต้องมีอย่างน้อย 5 และไม่มากกว่า 50 ตัวอักษร"
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr "จำเป็นต้องใส่รหัสผ่านเมลเซิร์ฟเวอร์"
+msgstr "จำเป็นต้องใส่ฟิล์ดรหัสผ่านเมลเซิร์ฟเวอร์"
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
 msgid "The Mail server port field is too long."
-msgstr "พอร์ตของเซิร์ฟเวอร์จดหมายยาวเกินไป"
+msgstr "ฟิล์ดพอร์ตของเซิร์ฟเวอร์จดหมายยาวเกินไป"
 
 #: settings.email_port.numeric
 msgctxt "settings.email_port.numeric"
 msgid "The Mail server port field should contain numbers only."
-msgstr "พอร์ตของเซิร์ฟเวอร์จดหมายควรมีตัวเลขเท่านั้น"
+msgstr "ฟิล์ดพอร์ตของเซิร์ฟเวอร์จดหมายควรมีตัวเลขเท่านั้น"
 
 #: settings.email_servertype.length
 msgctxt "settings.email_servertype.length"
 msgid "The Mail server port field is too long."
-msgstr "พอร์ตของเซิร์ฟเวอร์จดหมายยาวเกินไป"
+msgstr "ฟิล์ดพอร์ตของเซิร์ฟเวอร์จดหมายยาวเกินไป"
 
 #: settings.email_servertype.required
 msgctxt "settings.email_servertype.required"
 msgid "The Mail Server Type field is required."
-msgstr "จำเป็นต้องใส่เซิร์ฟเวอร์จดหมาย"
+msgstr "จำเป็นต้องใส่ฟิล์ดเซิร์ฟเวอร์จดหมาย"
 
 #: settings.email_username.length
 msgctxt "settings.email_username.length"
 msgid "The Mail Server Username field must be no more 50 characters long."
-msgstr "ชื่อผู้ใช้เซิร์ฟเวอร์อีเมลจะต้องไม่มากกว่า 50 ตัวอักษร"
+msgstr "ฟิล์ดชื่อผู้ใช้เซิร์ฟเวอร์อีเมลจะต้องไม่มากกว่า 50 ตัวอักษร"
 
 #: settings.email_username.required
 msgctxt "settings.email_username.required"
 msgid "The Mail Server Username field is required."
-msgstr "จำเป็นต้องใส่ชื่อผู้ใช้เซิร์ฟเวอร์อีเมล"
+msgstr "จำเป็นต้องใส่ฟิล์ดชื่อผู้ใช้เซิร์ฟเวอร์อีเมล์"
 
 #: settings.facebook.title
 msgctxt "settings.facebook.title"
@@ -309,7 +309,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr ""
+msgstr "การตั้งค่าให้ผู้ใช้ระบบสามารถเข้าสู่ระบบผ่านทาง Facebook, นี้ <strong> ไม่ </ strong> สร้าง โปรแกรม Facebookสำหรับใช้งาน"
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -326,7 +326,7 @@ msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr "ช่อง Google Analytics จะต้องมี Web Property ID ในรูปแบบ UA-XXXXX-XX"
+msgstr "ฟิล์ด Google Analytics จะต้องมี Web Property ID ในรูปแบบ UA-XXXXX-XX"
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
@@ -380,7 +380,7 @@ msgctxt "settings.map.default_location"
 msgid ""
 "Setting up your map provider is a straight- forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "การตั้งค่าผู้ให้บริการแผนที่ของคุณกำลังดำเนินการ  เลือกผู้ให้บริการได้รับโดยการใส่ค่า API คีย์ที่ได้รับมาจากผู้ให้บริการ "
 
 #: settings.map.zoom
 msgctxt "settings.map.zoom"
@@ -407,7 +407,7 @@ msgctxt "settings.map_provider.info"
 msgid ""
 "Setting up your map provider is a straight-forward process. Select a "
 "provider, obtain an API key from the provider's site, and enter the API key."
-msgstr ""
+msgstr "การตั้งค่าผู้ให้บริการแผนที่ของคุณ เป็นกระบวนการที่ ตรงไปข้างหน้า เลือกผู้ให้บริการได้รับคีย์ APIจากเว็บไซต์ของผู้ให้บริการ และ ใส่ คีย์ API"
 
 #: settings.map_provider.name
 msgctxt "settings.map_provider.name"
@@ -417,7 +417,7 @@ msgstr "ผู้ให้บริการแผนที่"
 #: settings.map_timeline
 msgctxt "settings.map_timeline"
 msgid "Map Timeline"
-msgstr ""
+msgstr "ไทม์ไลน์แผนที่"
 
 #: settings.map_settings
 msgctxt "settings.map_settings"
@@ -492,7 +492,7 @@ msgstr "หน้าแคช"
 #: settings.site.cache_pages_lifetime
 msgctxt "settings.site.cache_pages_lifetime"
 msgid "Cache Pages Lifetime"
-msgstr "ชีวิตของหน้าแคช"
+msgstr "ช่วงอายุของหน้าแคช"
 
 #: settings.site.checkins
 msgctxt "settings.site.checkins"
@@ -517,7 +517,7 @@ msgstr "ตั้งไอคอนเริ่มต้นสำหรับท
 #: settings.site.delete_banner_image
 msgctxt "settings.site.delete_banner_image"
 msgid "Delete Banner Image"
-msgstr "ลบภาพป้าย"
+msgstr "ลบภาพแบนเนอร์"
 
 #: settings.site.delete_default_map_all_icon
 msgctxt "settings.site.delete_default_map_all_icon"
@@ -578,7 +578,7 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr ""
+msgstr "ป้องกัน สแปมความคิดเห็น โดยใช้ <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com user account</a>"
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
@@ -735,7 +735,7 @@ msgid ""
 "FrontlineSMS is free and open source software that enables users to send and"
 " receive text messages with large groups of people through mobile phones. "
 "Click on the box below to download the latest version from FrontlineSMS.com."
-msgstr ""
+msgstr "Frontline SMS เป็นซอฟต์แวร์ฟรีและเปิดแหล่ง ที่ช่วยให้ ผู้ใช้สามารถส่ง และรับข้อความ กับกลุ่ม ใหญ่ของผู้คน ผ่านโทรศัพท์มือถือ คลิกที่กล่องด้านล่างเพื่อ ดาวน์โหลดรุ่นล่าสุด จาก FrontlineSMS.com"
 
 #: settings.sms.flsms_download
 msgctxt "settings.sms.flsms_download"
@@ -750,7 +750,7 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr ""
+msgstr "คำแนะนำโดยละเอียด เกี่ยวกับวิธีการ ส่ง SMS จากการติดตั้ง FronlineSMS ของคุณมีอยู่ <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">here</a></strong> คีย์ URL และ API ด้านล่าง จะต้องตั้งค่าการซิงค์ กับ FrontlineSMS"
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
@@ -842,7 +842,7 @@ msgstr "คีย์ของผู้บริโภค"
 #: settings.twitter.api_key_secret
 msgctxt "settings.twitter.api_key_secret"
 msgid "Consumer secret"
-msgstr "ความลับของผู้บริโภค"
+msgstr "ข้อมูลส่วนตัวผู้ใช้"
 
 #: settings.twitter.token
 msgctxt "settings.twitter.token"

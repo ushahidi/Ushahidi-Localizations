@@ -4,12 +4,12 @@
 # Ngamnet_review <ngamnetaektasaeng@gmail.com>, 2014
 msgid ""
 msgstr ""
-"Project-Id-Version: Ushahidi Web\n"
+"Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2014-09-03 07:38+0000\n"
+"PO-Revision-Date: 2014-09-12 14:37+0000\n"
 "Last-Translator: Ngamnet_review <ngamnetaektasaeng@gmail.com>\n"
-"Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-localizations/language/th_TH/)\n"
+"Language-Team: Thai (Thailand) (http://www.transifex.com/projects/p/ushahidi-v2/language/th_TH/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -74,7 +74,7 @@ msgstr "การแจ้งเตือน"
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
 msgid "Alerts Received"
-msgstr "การแจ้งเตือนที่ได้รับ"
+msgstr "ได้รับการแจ้งเตือน"
 
 #: ui_admin.all
 msgctxt "ui_admin.all"
@@ -94,7 +94,7 @@ msgstr "ไม่ระบุชื่อ"
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr "ใคร ๆ"
+msgstr "ใครก็ได้"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
@@ -134,17 +134,17 @@ msgstr "ได้รับการอนุมัติ"
 #: ui_admin.approve_auto
 msgctxt "ui_admin.approve_auto"
 msgid "Auto Approve"
-msgstr "ออโต้อนุมัติ"
+msgstr "อนุมัติแบบอัตโนมัติ"
 
 #: ui_admin.approve_manual
 msgctxt "ui_admin.approve_manual"
 msgid "Manually Approve"
-msgstr "อนุมัติด้วยตนเอง"
+msgstr "อนุมัติแบบธรรมดา"
 
 #: ui_admin.archived
 msgctxt "ui_admin.archived"
 msgid "Archived"
-msgstr "คลัง"
+msgstr "จัดเก็บ"
 
 #: ui_admin.are_you_sure_you_want_to
 msgctxt "ui_admin.are_you_sure_you_want_to"
@@ -174,12 +174,12 @@ msgstr "กำหนด"
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr "ที่ได้รับมอบหมาย"
+msgstr "งานที่ได้มอบหมาย"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
 msgid "Assign Badge"
-msgstr "กำหนดตรา"
+msgstr "กำหนดแบดจ์"
 
 #: ui_admin.author
 msgctxt "ui_admin.author"
@@ -214,7 +214,7 @@ msgstr "บล็อก"
 #: ui_admin.body
 msgctxt "ui_admin.body"
 msgid "Body"
-msgstr "ตัว"
+msgstr "เนื้อหา"
 
 #: ui_admin.cancel
 msgctxt "ui_admin.cancel"
@@ -259,7 +259,7 @@ msgstr "ตรวจสอบ"
 #: ui_admin.cities_loaded
 msgctxt "ui_admin.cities_loaded"
 msgid "Cities loaded"
-msgstr "เมืองที่เต็ม"
+msgstr "โหลดเมือง"
 
 #: ui_admin.code
 msgctxt "ui_admin.code"
@@ -289,7 +289,7 @@ msgstr "รหัสยืนยันการแจ้งเตือนขอ
 #: ui_admin.confirm_msg
 msgctxt "ui_admin.confirm_msg"
 msgid "The User Has Been"
-msgstr "ผู้ได้รับการ"
+msgstr "ผู้ใช้ได้รับการ"
 
 #: ui_admin.count
 msgctxt "ui_admin.count"
@@ -335,7 +335,7 @@ msgstr "ไม่ได้ใช้งานในขณะนี้"
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
 msgid ""
 "You don't have sufficient permissions to edit the following custom fields."
-msgstr "ณไม่มีสิทธิ์เพียงพอที่จะแก้ไขฟิลด์ที่กำหนดเองดังต่อไปนี้"
+msgstr "คุณไม่มีสิทธิ์เพียงพอที่จะแก้ไขฟิลด์นี้ได้"
 
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
@@ -345,7 +345,7 @@ msgstr "ประจำวัน"
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
 msgid "Dashboard"
-msgstr "หน้าปัด"
+msgstr "แดชบอร์ด"
 
 #: ui_admin.database
 msgctxt "ui_admin.database"
@@ -360,17 +360,17 @@ msgstr "วันที่และเวลา"
 #: ui_admin.date_added
 msgctxt "ui_admin.date_added"
 msgid "Date Added"
-msgstr "เพิ่มเมื่อวันที่"
+msgstr "เพิ่มวันแล้ว"
 
 #: ui_admin.date_modified
 msgctxt "ui_admin.date_modified"
 msgid "Date Modified"
-msgstr "วันที่แก้ไข"
+msgstr "วันแก้ไขแล้ว"
 
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr "วันของสัปดาห์"
+msgstr "วันในหนึ่งสัปดาห์"
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -380,7 +380,7 @@ msgstr "รุ่น DB ออกจากซิงค์"
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr "ถูกลบ"
+msgstr "ลบแล้ว"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
@@ -395,7 +395,7 @@ msgstr "ลบรายงานทั้งหมด"
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
 msgid "Delete Badge"
-msgstr "ลบตรา"
+msgstr "ลบแบดจ์"
 
 #: ui_admin.demo
 msgctxt "ui_admin.demo"
@@ -410,7 +410,7 @@ msgstr "ลักษณะ"
 #: ui_admin.disabled
 msgctxt "ui_admin.disabled"
 msgid "Disabled"
-msgstr "ถูกปิดการใช้งาน"
+msgstr "ปิดการใช้งานแล้ว"
 
 #: ui_admin.divider_start_field
 msgctxt "ui_admin.divider_start_field"
@@ -420,7 +420,7 @@ msgstr "เริ่มแบ่ง"
 #: ui_admin.divider_end_field
 msgctxt "ui_admin.divider_end_field"
 msgid "Divider End"
-msgstr "แบ่งสุดท้าย"
+msgstr "การแบ่งสิ้นสุด"
 
 #: ui_admin.divider_class
 msgctxt "ui_admin.divider_class"
@@ -435,12 +435,12 @@ msgstr "ดาวน์โหลดรายงาน"
 #: ui_admin.dropdown_choices
 msgctxt "ui_admin.dropdown_choices"
 msgid "Dropdown Choices"
-msgstr "เลือกแบบเลื่อนลง"
+msgstr "ตัวเลือกจาก dropdown"
 
 #: ui_admin.edited
 msgctxt "ui_admin.edited"
 msgid "EDITED"
-msgstr "ถูกแก้ไข"
+msgstr "แก้ไขแล้ว"
 
 #: ui_admin.edited_by
 msgctxt "ui_admin.edited_by"
@@ -455,7 +455,7 @@ msgstr "แก้ไข"
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
 msgid "Edit Log"
-msgstr "ตารางการแก้ไข"
+msgstr "บันทึกการแก้ไข"
 
 #: ui_admin.email
 msgctxt "ui_admin.email"
@@ -490,7 +490,7 @@ msgstr "ผิดพลาด"
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr "เกิดข้อผิดพลาด ไม่สามารถที่จะโพสต์เหตุการณ์ที่เกิดขึ้น"
+msgstr "เกิดข้อผิดพลาด ไม่สามารถที่จะโพสต์ได้"
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
@@ -505,12 +505,12 @@ msgstr "ทุกสิบสองชั่วโมง"
 #: ui_admin.experimental
 msgctxt "ui_admin.experimental"
 msgid "Experimental"
-msgstr "การทดลอง"
+msgstr "ทดลอง"
 
 #: ui_admin.faqs
 msgctxt "ui_admin.faqs"
 msgid "FAQ's"
-msgstr "คำถามที่พบบ่อย"
+msgstr "FAQ's"
 
 #: ui_admin.feed
 msgctxt "ui_admin.feed"
@@ -585,7 +585,7 @@ msgstr "ชื่อฟีลค์"
 #: ui_admin.field_toggle
 msgctxt "ui_admin.field_toggle"
 msgid "Toggle"
-msgstr "สลัก"
+msgstr "Toggle"
 
 #: ui_admin.field_toggle_no
 msgctxt "ui_admin.field_toggle_no"
@@ -595,22 +595,22 @@ msgstr "ไม่"
 #: ui_admin.field_toggle_yes_close
 msgctxt "ui_admin.field_toggle_yes_close"
 msgid "Yes, Closed by default"
-msgstr "ใช่ปิดโดยค่าเริ่มต้น"
+msgstr "ใช่่  ปิดโดยใช้ค่าเริ่มต้น"
 
 #: ui_admin.field_toggle_yes_open
 msgctxt "ui_admin.field_toggle_yes_open"
 msgid "Yes, Open by default"
-msgstr "ใช่เปิดโดยค่าเริ่มต้น"
+msgstr "ใช่ เปิดโดยใช้ค่าเริ่มต้น"
 
 #: ui_admin.file_not_found_upload
 msgctxt "ui_admin.file_not_found_upload"
 msgid "Could not find uploaded file"
-msgstr "ไม่สามารถหาไฟล์อัพโหลด"
+msgstr "ไม่สามารถหาไฟล์ที่อัพโหลด"
 
 #: ui_admin.file_open_error
 msgctxt "ui_admin.file_open_error"
 msgid "Could not open file for reading"
-msgstr "ไม่สามารถเปิดไฟล์สำหรับการอ่าน"
+msgstr "ไม่สามารถเปิดไฟล์ได้"
 
 #: ui_admin.form_not_exists
 msgctxt "ui_admin.form_not_exists"
@@ -620,22 +620,22 @@ msgstr "ไม่มีแบบฟอร์มนี้!"
 #: ui_admin.forum
 msgctxt "ui_admin.forum"
 msgid "Forum"
-msgstr "ฟอรั่ม"
+msgstr "ฟอรัม"
 
 #: ui_admin.free_text_field
 msgctxt "ui_admin.free_text_field"
 msgid "Text Area Field (Free Text)"
-msgstr "พื้นที่ข้อความฟิลด์ (ข้อความ)"
+msgstr "พื้นที่ใส่ข้อความ (ข้อความ)"
 
 #: ui_admin.date_field
 msgctxt "ui_admin.date_field"
 msgid "Date Field"
-msgstr "วันที่ฟีลค์"
+msgstr "ฟีล์ดวันที่"
 
 #: ui_admin.radio_field
 msgctxt "ui_admin.radio_field"
 msgid "Radio Buttons Field"
-msgstr "ปุ่มฟีลค์วิทยุ"
+msgstr "ฟิลด์ปุ่มวิทยุ"
 
 #: ui_admin.checkbox_field
 msgctxt "ui_admin.checkbox_field"
@@ -645,7 +645,7 @@ msgstr "ฟิลด์ช่องทำเครื่องหมาย"
 #: ui_admin.dropdown_field
 msgctxt "ui_admin.dropdown_field"
 msgid "Dropdown Field"
-msgstr "ฟีลค์แบบเลื่อนลง"
+msgstr "ฟีลค์ dropdown"
 
 #: ui_admin.from
 msgctxt "ui_admin.from"
@@ -660,7 +660,7 @@ msgstr "จาก"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr "ข้อผิดพลาด Geonames เวลาหมด"
+msgstr "เกิดข้อผิดพลาดจาก Geonames เวลาหมด"
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -757,7 +757,7 @@ msgstr "ที่อยู่ IP"
 #: ui_admin.is_date
 msgctxt "ui_admin.is_date"
 msgid "Is this a Date Field?"
-msgstr "นี้เป็นวันที่หรือไม่"
+msgstr "นี้เป็นฟิลด์วันที่หรือไม่"
 
 #: ui_admin.ispublic_visible
 msgctxt "ui_admin.ispublic_visible"
@@ -1030,7 +1030,7 @@ msgstr "ไม่พบ"
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
 msgid "No data. There are no results to show."
-msgstr "ไม่มีข้อมูล ไม่มีผลแสดง"
+msgstr "ไม่มีข้อมูลให้แสดง"
 
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
@@ -1040,7 +1040,7 @@ msgstr "ไม่มีข้อผิดพลาด"
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
 msgid "No Results To Display!"
-msgstr "ไม่มีการแสดงผล!"
+msgstr "ไม่มีข้อมูลให้แสดงผลได้!"
 
 #: ui_admin.of
 msgctxt "ui_admin.of"
@@ -1115,7 +1115,7 @@ msgstr "เรียน"
 #: ui_admin.password_reset_message_line_2
 msgctxt "ui_admin.password_reset_message_line_2"
 msgid "We received a request to reset the password for"
-msgstr "เราได้รับคำขอที่จะเปลี่ยนรหัสผ่าน"
+msgstr "เราได้รับคำขอที่จะเปลี่ยนรหัสผ่านสำหรับ"
 
 #: ui_admin.password_reset_message_line_3
 msgctxt "ui_admin.password_reset_message_line_3"
@@ -1154,7 +1154,7 @@ msgstr "PM"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr "ข้อมูลไม่ได้ถูกส่งโดยวิธีการโพสต์"
+msgstr "ข้อมูลไม่ได้ถูกส่งโดยการโพสต์"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1219,12 +1219,12 @@ msgstr "วันที่รายงาน"
 #: ui_admin.reporters
 msgctxt "ui_admin.reporters"
 msgid "Reporters"
-msgstr "ผู้สื่อข่าว"
+msgstr "ผู้รายงาน"
 
 #: ui_admin.reporter_levels
 msgctxt "ui_admin.reporter_levels"
 msgid "Reporter Levels"
-msgstr "ระดับผู้สื่อข่าว"
+msgstr "ระดับของผู้รายงาน"
 
 #: ui_admin.reports
 msgctxt "ui_admin.reports"
@@ -1266,7 +1266,7 @@ msgctxt "ui_admin.riverid_exists_admin"
 msgid ""
 "This email already has an account managed by CrowdmapID. The user will need "
 "to use their existing Crowdmap password to login."
-msgstr "อีเมลนี้มีอยู่แล้วในบัญชีที่จัดการโดย CrowdmapID ผู้ใช้จะต้องใช้รหัสผ่านที่มีอยู่แล้วจาก Crowdmap เพื่อเข้าสู่ระบบ"
+msgstr "อีเมลนี้มีอยู่แล้วในบัญชีที่ของ Crowdmap ID ผู้ใช้จะต้องใช้รหัสผ่านที่มีอยู่แล้วจาก Crowdmap เพื่อเข้าสู่ระบบ"
 
 #: ui_admin.save_settings
 msgctxt "ui_admin.save_settings"
@@ -1330,7 +1330,7 @@ msgstr "คุณต้องเลือกทริกเกอร์ก่อ
 #: ui_admin.select_trigger_before_qualifiers
 msgctxt "ui_admin.select_trigger_before_qualifiers"
 msgid "You must select a Trigger before you can define Qualifiers."
-msgstr "คุณต้องเลือกทริกเกอร์ก่อนที่คุณจะสามารถกำหนดตัวคัดเลือก"
+msgstr "คุณต้องเลือกทริกเกอร์ก่อนที่คุณจะนิยาม Qualifier"
 
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
@@ -1383,7 +1383,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr "อันนี้เป็นหมวดหมู่พิเศษที่จะไม่แสดงในแบบฟอร์มการส่งรายงานสำหรับผู้ใช้ส่งรายงาน ซึ่งจะถูกนำมาใช้ร่วมกับคุณสมบัติ \"ผู้สื่อข่าวที่เชื่อถือได้\" "
+msgstr "อันนี้เป็นหมวดหมู่พิเศษที่จะไม่แสดงในแบบฟอร์มการส่งรายงานสำหรับผู้ใช้ส่งรายงาน ซึ่งจะถูกนำมาใช้ร่วมกับคุณสมบัติ \"รายงานที่ยินยอม\" "
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1418,7 +1418,7 @@ msgstr " เก็บสถิติล้มเหลว"
 #: ui_admin.specific_days
 msgctxt "ui_admin.specific_days"
 msgid "Specific Days"
-msgstr "วันที่เจาะจง"
+msgstr "ระบุวันที่"
 
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
@@ -1453,7 +1453,7 @@ msgstr "จัดการผู้ใช้"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr "ข้อผิดพลาด หมดเวลา"
+msgstr "เกิดข้อผิดพลาด เนื่องจากหมดเวลา"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1478,17 +1478,17 @@ msgstr "แปลรายงาน"
 #: ui_admin.trigger
 msgctxt "ui_admin.trigger"
 msgid "Trigger"
-msgstr "สิ่งกระตุ้น"
+msgstr "Trigger"
 
 #: ui_admin.triggering_user
 msgctxt "ui_admin.triggering_user"
 msgid "Triggering User"
-msgstr "ผู้ใช้สิ่งกระตุ้น"
+msgstr "ผู้ใช้ Trigger"
 
 #: ui_admin.triggers
 msgctxt "ui_admin.triggers"
 msgid "Triggers"
-msgstr "สิ่งกระตุ้น"
+msgstr "Triggers"
 
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
@@ -1503,7 +1503,7 @@ msgstr "ไม่ทราบ"
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr "ไม่ทราบเหตุล้มเหลว"
+msgstr "ล้มเหลว ไม่สามารถระบุสาเหตุ"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
