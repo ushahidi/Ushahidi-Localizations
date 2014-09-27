@@ -1,7 +1,7 @@
 Generating translations
 =======================
 
-Transifex Client - http://help.transifex.com/features/client/
+Transifex Client - http://docs.transifex.com/developer/client/
 -------------------------------------------------------------
 
 ### Upload translations to transifex
