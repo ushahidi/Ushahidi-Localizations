@@ -45,7 +45,7 @@ module enabled.
 ### Adding a new language
 
 To add a new language simply create the language through the
-[transifex web UI](transifex.net/projects/p/ushahidi-localizations/)
+[transifex web UI](https://transifex.net/projects/p/ushahidi-v2/)
 The new language will be picked up automatically when cron runs.
 
 #### Adding a language with existing translation files
@@ -84,7 +84,7 @@ When a new file is added to the PHP source files we need to tell transifex about
 (You can do this using the tx client but its safer to edit the .tx/config file manually)
 
   ```
-  [ushahidi-localizations.incident]
+  [ushahidi-v2.incident]
   file_filter = po/po-<lang>/incident.po
   source_file = po/po-en_US/incident.pot
   source_lang = en_US
@@ -93,7 +93,7 @@ When a new file is added to the PHP source files we need to tell transifex about
 4. Push the file to transifex
 
   ```
-  tx push -s -r ushahidi-localizations.incident
+  tx push -s -r ushahidi-v2.incident
   ```
 
 Converting PHP files to PO and back
