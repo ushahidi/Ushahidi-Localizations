@@ -12,9 +12,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-03-07 08:13+0000\n"
-"Last-Translator: Sokhem Khoem <sokhem@open.org.kh>\n"
+"POT-Creation-Date: 2014-09-27 05:08+0000\n"
+"PO-Revision-Date: 2014-09-27 05:31+0000\n"
+"Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Khmer (http://www.transifex.com/projects/p/ushahidi-v2/language/km/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -306,6 +306,11 @@ msgstr "អ្នកនិពន្ធ"
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
 msgstr "ពិនិត្យ​ចូល​ស្វ័យប្រវត្តិ"
+
+#: ui_main.Auto
+msgctxt "ui_main.Auto"
+msgid "Auto"
+msgstr ""
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -615,6 +620,11 @@ msgstr "កាល​បរិច្ឆេទ និង​ពេល​វេល�
 msgctxt "ui_main.day"
 msgid "day"
 msgstr "ថ្ងៃ"
+
+#: ui_main.Daily
+msgctxt "ui_main.Daily"
+msgid "Daily"
+msgstr ""
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
@@ -1063,6 +1073,11 @@ msgctxt "ui_main.home"
 msgid "Home"
 msgstr "ដើម"
 
+#: ui_main.Hourly
+msgctxt "ui_main.Hourly"
+msgid "Hourly"
+msgstr ""
+
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
@@ -1189,6 +1204,11 @@ msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
 msgstr "គណនី​របស់​អ្នក​មិន​មាន​សិទ្ធិ​គ្រប់គ្រាន់​ក្នុង​ការ​ចូល​ទេ។ សូម​ទាក់ទង​អ្នក​គ្រប់គ្រង​របស់​អ្នក។"
+
+#: ui_main.interval
+msgctxt "ui_main.interval"
+msgid "Interval"
+msgstr ""
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1553,6 +1573,11 @@ msgstr "កែប្រែ​កាលបរិច្ឆេទ"
 msgctxt "ui_main.month"
 msgid "month"
 msgstr "ខែ"
+
+#: ui_main.Monthly
+msgctxt "ui_main.Monthly"
+msgid "Monthly"
+msgstr ""
 
 #: ui_main.more
 msgctxt "ui_main.more"
@@ -3114,6 +3139,11 @@ msgstr "តំបន់បណ្ដាញ"
 msgctxt "ui_main.weight"
 msgid "Weight"
 msgstr "ទម្ងន់"
+
+#: ui_main.Weekly
+msgctxt "ui_main.Weekly"
+msgid "Weekly"
+msgstr ""
 
 #: ui_main.yes
 msgctxt "ui_main.yes"

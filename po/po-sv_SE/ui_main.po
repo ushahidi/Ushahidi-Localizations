@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
-"POT-Creation-Date: 2014-02-21 06:26+0000\n"
-"PO-Revision-Date: 2014-02-21 06:22+0000\n"
+"POT-Creation-Date: 2014-09-27 05:08+0000\n"
+"PO-Revision-Date: 2014-09-27 05:31+0000\n"
 "Last-Translator: ushbot <devteam@ushahidi.com>\n"
 "Language-Team: Swedish (Sweden) (http://www.transifex.com/projects/p/ushahidi-v2/language/sv_SE/)\n"
 "MIME-Version: 1.0\n"
@@ -301,6 +301,11 @@ msgstr "Skribent"
 msgctxt "ui_main.auto_checkin"
 msgid "Auto Checkin"
 msgstr "Automatisk Incheckning"
+
+#: ui_main.Auto
+msgctxt "ui_main.Auto"
+msgid "Auto"
+msgstr ""
 
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
@@ -610,6 +615,11 @@ msgstr "Datum & Tid"
 msgctxt "ui_main.day"
 msgid "day"
 msgstr "Dag"
+
+#: ui_main.Daily
+msgctxt "ui_main.Daily"
+msgid "Daily"
+msgstr ""
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
@@ -1058,6 +1068,11 @@ msgctxt "ui_main.home"
 msgid "Home"
 msgstr "Hem"
 
+#: ui_main.Hourly
+msgctxt "ui_main.Hourly"
+msgid "Hourly"
+msgstr ""
+
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
 msgid "How to Report"
@@ -1184,6 +1199,11 @@ msgid ""
 "Your account doesn't have the proper permission to fully log you in. Please "
 "contact the administrator."
 msgstr "Ditt konto har inte behörighet för att logga in. Var god kontakta administratören."
+
+#: ui_main.interval
+msgctxt "ui_main.interval"
+msgid "Interval"
+msgstr ""
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1548,6 +1568,11 @@ msgstr "&Auml;ndra datum"
 msgctxt "ui_main.month"
 msgid "month"
 msgstr "månad"
+
+#: ui_main.Monthly
+msgctxt "ui_main.Monthly"
+msgid "Monthly"
+msgstr ""
 
 #: ui_main.more
 msgctxt "ui_main.more"
@@ -3109,6 +3134,11 @@ msgstr "Webb"
 msgctxt "ui_main.weight"
 msgid "Weight"
 msgstr "Vikt"
+
+#: ui_main.Weekly
+msgctxt "ui_main.Weekly"
+msgid "Weekly"
+msgstr ""
 
 #: ui_main.yes
 msgctxt "ui_main.yes"
