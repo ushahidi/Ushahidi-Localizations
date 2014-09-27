@@ -45,7 +45,7 @@ module enabled.
 ### Adding a new language
 
 To add a new language simply create the language through the
-[transifex web UI](https://transifex.net/projects/p/ushahidi-v2/)
+[transifex web UI](http://transifex.net/projects/p/ushahidi-v2/)
 The new language will be picked up automatically when cron runs.
 
 #### Adding a language with existing translation files
