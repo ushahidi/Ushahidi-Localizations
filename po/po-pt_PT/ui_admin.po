@@ -4,13 +4,14 @@
 # Luís Lago <luisalveslago@gmail.com>, 2013
 # Manuela Silva <manuela.silva@sky.com>, 2013
 # Nigel Randsley <nigel.randsley@gmail.com>, 2013
+# Sebastian Mitchell <sebastian@ushahidi.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2014-10-03 06:13+0000\n"
+"Last-Translator: Sebastian Mitchell <sebastian@ushahidi.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-v2/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -392,7 +393,7 @@ msgstr "Apagar"
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete all reports"
-msgstr ""
+msgstr "Apagar tudos os relatorios"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -482,7 +483,7 @@ msgstr "A biblioteca PHP IMAP não está instalada"
 #: ui_admin.error_twitter
 msgctxt "ui_admin.error_twitter"
 msgid "Incorrect Credentials"
-msgstr ""
+msgstr "Dados incorrectos"
 
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
@@ -729,7 +730,7 @@ msgctxt "ui_admin.installer_info"
 msgid ""
 "The installer folder still exists. Delete the installer folder. It is a "
 "potential security vulnerability."
-msgstr ""
+msgstr "A pasta de instalação ainda existe. Apaga a pasta de instalação, pois ela cria uma vulnerabilidade de segurança."
 
 #: ui_admin.instance
 msgctxt "ui_admin.instance"
@@ -1092,7 +1093,7 @@ msgstr ""
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
 msgid "Sorry, the page you are trying to view is not here."
-msgstr ""
+msgstr "Desculpa, a página que você quer visualizar não existe."
 
 #: ui_admin.parameters_used
 msgctxt "ui_admin.parameters_used"
@@ -1131,12 +1132,12 @@ msgctxt "ui_admin.password_reset_message_line_4"
 msgid ""
 "As you requested, your password has now been reset. Your new details are as "
 "follows"
-msgstr ""
+msgstr "A sua senha foi redefinida. Seguem os seus dados atualizados"
 
 #: ui_admin.password_reset_subject
 msgctxt "ui_admin.password_reset_subject"
 msgid "Ushahidi password reset"
-msgstr ""
+msgstr "Redefinir senha"
 
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
@@ -1181,7 +1182,7 @@ msgstr "Mensagem privada enviada"
 #: ui_admin.private_subject
 msgctxt "ui_admin.private_subject"
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 #: ui_admin.private_to
 msgctxt "ui_admin.private_to"
@@ -1246,12 +1247,12 @@ msgstr "Obrigatório"
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
 msgid "Reset"
-msgstr ""
+msgstr "Redefinir"
 
 #: ui_admin.response
 msgctxt "ui_admin.response"
 msgid "Response"
-msgstr ""
+msgstr "Resposta"
 
 #: ui_admin.results
 msgctxt "ui_admin.results"
@@ -1337,7 +1338,7 @@ msgstr ""
 #: ui_admin.sender
 msgctxt "ui_admin.sender"
 msgid "Sender"
-msgstr ""
+msgstr "Remitente"
 
 #: ui_admin.send_to
 msgctxt "ui_admin.send_to"
@@ -1352,7 +1353,7 @@ msgstr ""
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "Tempo do servidor"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
@@ -1405,7 +1406,7 @@ msgstr "Estatísticas"
 #: ui_admin.stats
 msgctxt "ui_admin.stats"
 msgid "Stats"
-msgstr ""
+msgstr "Estatísticas"
 
 #: ui_admin.stats_collection_error
 msgctxt "ui_admin.stats_collection_error"
@@ -1425,7 +1426,7 @@ msgstr "Dias específicos"
 #: ui_admin.subject
 msgctxt "ui_admin.subject"
 msgid "Subject"
-msgstr ""
+msgstr "Assunto"
 
 #: ui_admin.superadmin_role
 msgctxt "ui_admin.superadmin_role"
@@ -1525,12 +1526,12 @@ msgstr ""
 #: ui_admin.upgrade_ushahidi
 msgctxt "ui_admin.upgrade_ushahidi"
 msgid "Upgrade Ushahidi"
-msgstr ""
+msgstr "Atualizar o Ushahidi"
 
 #: ui_admin.upgrade_ushahidi_status
 msgctxt "ui_admin.upgrade_ushahidi_status"
 msgid "Upgrade Ushahidi Status"
-msgstr ""
+msgstr "Atualizar estado do Ushahidi"
 
 #: ui_admin.upload_reports
 msgctxt "ui_admin.upload_reports"
@@ -1570,7 +1571,7 @@ msgstr "Versão"
 #: ui_admin.version_available
 msgctxt "ui_admin.version_available"
 msgid " is available for upgrade."
-msgstr ""
+msgstr "pode ser atualizada."
 
 #: ui_admin.video_encoding
 msgctxt "ui_admin.video_encoding"
@@ -1647,14 +1648,14 @@ msgstr ""
 #: ui_admin.user_no_logins
 msgctxt "ui_admin.user_no_logins"
 msgid "Number of logins"
-msgstr ""
+msgstr "Entradas"
 
 #: ui_admin.user_last_login
 msgctxt "ui_admin.user_last_login"
 msgid "Last login"
-msgstr ""
+msgstr "Última entrada"
 
 #: ui_admin.user_confirmed_account
 msgctxt "ui_admin.user_confirmed_account"
 msgid "Confirmed account?"
-msgstr ""
+msgstr "Conta confirmada?"
