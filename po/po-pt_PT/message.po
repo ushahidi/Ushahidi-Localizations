@@ -2,13 +2,14 @@
 # Translators:
 # Luís Lago <luisalveslago@gmail.com>, 2013
 # Manuela Silva <manuela.silva@sky.com>, 2014
+# Sebastian Mitchell <sebastian@ushahidi.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-04-23 17:31+0000\n"
-"Last-Translator: Manuela Silva <manuela.silva@sky.com>\n"
+"PO-Revision-Date: 2014-10-03 06:28+0000\n"
+"Last-Translator: Sebastian Mitchell <sebastian@ushahidi.com>\n"
 "Language-Team: Portuguese (Portugal) (http://www.transifex.com/projects/p/ushahidi-v2/language/pt_PT/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -35,7 +36,7 @@ msgstr "The Email field does not appear to contain a valid email address?"
 #: message.email.length
 msgctxt "message.email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "O campo de email deve ter pelo menos 4 caracteres e no máximo 64 caracteres."
 
 #: message.email.required
 msgctxt "message.email.required"
@@ -50,7 +51,7 @@ msgstr "O campo dos comentários é obrigatório."
 #: message.name.length
 msgctxt "message.name.length"
 msgid "The name field must be at least 3 characters long."
-msgstr ""
+msgstr "O campo de nome deve ter pelo menos 3 caracteres."
 
 #: message.name.required
 msgctxt "message.name.required"
