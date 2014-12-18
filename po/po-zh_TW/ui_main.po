@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2014-12-05 08:56+0000\n"
+"PO-Revision-Date: 2014-12-18 02:40+0000\n"
 "Last-Translator: Jude Lin <linlittlep@e-info.org.tw>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-v2/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
@@ -168,7 +168,7 @@ msgctxt "ui_main.alerts_place_spot2"
 msgid ""
 "If you can't find your location, please click on the map to pinpoint the "
 "correct location."
-msgstr "如果你無法確認地點名稱，請直接在地圖上點選正確地點."
+msgstr "如果你無法確認地點名稱，請直接在地圖上點選正確位置。"
 
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
@@ -502,7 +502,7 @@ msgstr ""
 #: ui_main.contact
 msgctxt "ui_main.contact"
 msgid "Contact Us"
-msgstr "連繫我們"
+msgstr "聯繫我們"
 
 #: ui_main.contact_code
 msgctxt "ui_main.contact_code"
@@ -854,7 +854,7 @@ msgstr "外部應用程式"
 #: ui_main.external_video_link
 msgctxt "ui_main.external_video_link"
 msgid "External Video Link"
-msgstr "外部視頻鏈接"
+msgstr "其他影片連結"
 
 #: ui_main.facebook
 msgctxt "ui_main.facebook"
@@ -929,7 +929,7 @@ msgstr "篩選通報"
 #: ui_main.filter_reports_by
 msgctxt "ui_main.filter_reports_by"
 msgid "Filter Reports By"
-msgstr "通过以下放肆篩選通報"
+msgstr "篩選以下條件通報"
 
 #: ui_main.filter_reports_contain
 msgctxt "ui_main.filter_reports_contain"
@@ -959,7 +959,7 @@ msgstr "強制執行日程安排"
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr "忘記密碼嗎?"
+msgstr "忘記密碼?"
 
 #: ui_main.form
 msgctxt "ui_main.form"
@@ -1439,7 +1439,7 @@ msgstr "註冊"
 #: ui_main.login_signup_click
 msgctxt "ui_main.login_signup_click"
 msgid "Create an Account"
-msgstr "創建賬戶"
+msgstr "註冊新帳戶"
 
 #: ui_main.login_signup_confirmation_message
 msgctxt "ui_main.login_signup_confirmation_message"
