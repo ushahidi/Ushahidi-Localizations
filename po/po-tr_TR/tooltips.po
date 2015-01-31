@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Caner Başaran <basaran.caner@gmail.com>, 2015
 # Talha Okur <oscarpenn18@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2014-09-27 05:31+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2015-01-30 12:50+0000\n"
+"Last-Translator: Caner Başaran <basaran.caner@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-v2/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -206,12 +207,12 @@ msgstr "Üye listesine yazmaya başlayın."
 #: tooltips.private_subject
 msgctxt "tooltips.private_subject"
 msgid "Private message subject"
-msgstr "Özel mesaj konusu"
+msgstr "Özel ileti konusu"
 
 #: tooltips.private_message
 msgctxt "tooltips.private_message"
 msgid "Private message"
-msgstr "Özel Mesaj"
+msgstr "Özel İleti"
 
 #: tooltips.profile_color
 msgctxt "tooltips.profile_color"
@@ -260,7 +261,7 @@ msgctxt "tooltips.profile_password"
 msgid ""
 "Your current password. We require you enter your password to prevent any "
 "unauthorized changes to your account."
-msgstr "Şifreniz. Eğer şuan ki şifrenizi tutmak istiyorsanız bu alanı boş bırakın"
+msgstr "Parolanız. Eğer şuan ki parolanız tutmak istiyorsanız bu alanı boş bırakın"
 
 #: tooltips.profile_public
 msgctxt "tooltips.profile_public"
@@ -423,12 +424,12 @@ msgstr ""
 #: tooltips.settings_flsms_download
 msgctxt "tooltips.settings_flsms_download"
 msgid "This is the hub for incoming messages."
-msgstr "Gelen mesajlar merkezidir"
+msgstr "Gelen iletiler merkezidir"
 
 #: tooltips.settings_flsms_synchronize
 msgctxt "tooltips.settings_flsms_synchronize"
 msgid "This synchronizes the messages in the hub with the Ushahidi platform."
-msgstr "Ushahidi platformu ile merkezdeki mesajları senkronize eder"
+msgstr "Ushahidi platformu ile merkezdeki iletileri senkronize eder"
 
 #: tooltips.settings_flsms_text_1
 msgctxt "tooltips.settings_flsms_text_1"
@@ -488,7 +489,7 @@ msgstr "E-postaların saklandığı yer"
 #: tooltips.settings_server_password
 msgctxt "tooltips.settings_server_password"
 msgid "This is the password for the email address that receives reports."
-msgstr "Raporların geldiği e-posta adresi için şifredir"
+msgstr "Bu parola, raporların geldiği e-posta adresi içindir."
 
 #: tooltips.settings_server_port
 msgctxt "tooltips.settings_server_port"
@@ -535,7 +536,7 @@ msgctxt "tooltips.settings_site_email"
 msgid ""
 "This is the email address that will receive email reports and messages from "
 "the contact form."
-msgstr "İletişim formundan e-posta raporları ve mesajların geldiği e-posta adresidir."
+msgstr "İletişim formundan e-posta raporları ve iletilerin geldiği e-posta adresidir."
 
 #: tooltips.settings_site_message
 msgctxt "tooltips.settings_site_message"
@@ -543,7 +544,7 @@ msgid ""
 "This is text that will appear above the map on the homepage. This is useful "
 "for giving important information to visitors on the site. To remove the box,"
 " simply delete the message here."
-msgstr "Anasayfadaki haritanın üstünde görünecek olan metindir. Sitedeki ziyaretçilere önemli bilgiler vermek için kullanışlıdır. Kutuyu silmek için, buradaki mesajı silin."
+msgstr "Anasayfadaki haritanın üstünde görünecek olan metindir. Sitedeki ziyaretçilere önemli bilgiler vermek için kullanışlıdır. Kutuyu silmek için, buradaki iletiyi silin."
 
 #: tooltips.settings_site_name
 msgctxt "tooltips.settings_site_name"

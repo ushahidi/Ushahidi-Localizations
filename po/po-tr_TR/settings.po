@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Caner Başaran <basaran.caner@gmail.com>, 2015
 # Talha Okur <oscarpenn18@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2014-03-12 06:20+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2015-01-30 12:50+0000\n"
+"Last-Translator: Caner Başaran <basaran.caner@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-v2/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -182,12 +183,12 @@ msgctxt "settings.clickatell_password.length"
 msgid ""
 "The Clickatell Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "Clickatell Şifre kısmı en az 5, en fazla 50 karakter uzunluğunda olmalıdır."
+msgstr "Clickatell Parola kısmı en az 5, en fazla 50 karakter uzunluğunda olmalıdır."
 
 #: settings.clickatell_password.required
 msgctxt "settings.clickatell_password.required"
 msgid "The Clickatell Password field is required."
-msgstr "Clickatell Şifre kısmı boş bırakılamaz."
+msgstr "Clickatell Parola kısmı boş bırakılamaz."
 
 #: settings.clickatell_username.length
 msgctxt "settings.clickatell_username.length"
@@ -254,12 +255,12 @@ msgctxt "settings.email_password.length"
 msgid ""
 "The Mail Server Password field must be at least 5 and no more 50 characters "
 "long."
-msgstr "E-posta Sunucu Şifresi en az 5, en fazla 60 karakter uzunluğunda olmalıdır."
+msgstr "E-posta Sunucu Parolası en az 5, en fazla 50 karakter uzunluğunda olmalıdır."
 
 #: settings.email_password.required
 msgctxt "settings.email_password.required"
 msgid "The Mail Server Password field is required."
-msgstr "E-posta Sunucu Şifresi boş bırakılamaz."
+msgstr "E-posta Sunucu Parolası boş bırakılamaz."
 
 #: settings.email_port.length
 msgctxt "settings.email_port.length"
@@ -602,7 +603,7 @@ msgstr ""
 #: settings.site.message
 msgctxt "settings.site.message"
 msgid "Site Message"
-msgstr "Site Mesajı"
+msgstr "Site İletisi"
 
 #: settings.site.name
 msgctxt "settings.site.name"
@@ -622,7 +623,7 @@ msgstr ""
 #: settings.site.submit_report_message
 msgctxt "settings.site.submit_report_message"
 msgid "Submit Report Message"
-msgstr "Bildirim Mesajını Gönder"
+msgstr "Bildirim İletisini Gönder"
 
 #: settings.site.share_site_stats
 msgctxt "settings.site.share_site_stats"
@@ -708,7 +709,7 @@ msgstr "Hesaba Para Yükle"
 #: settings.sms.clickatell_password
 msgctxt "settings.sms.clickatell_password"
 msgid "Your Clickatell Password"
-msgstr "Clickatell Şifreniz"
+msgstr "Clickatell Parolanız"
 
 #: settings.sms.clickatell_text_1
 msgctxt "settings.sms.clickatell_text_1"

@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Caner Başaran <basaran.caner@gmail.com>, 2015
 # Talha Okur <oscarpenn18@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2013-11-19 16:10+0000\n"
-"Last-Translator: Talha Okur <oscarpenn18@gmail.com>\n"
+"PO-Revision-Date: 2015-01-30 12:48+0000\n"
+"Last-Translator: Caner Başaran <basaran.caner@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-v2/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -54,29 +55,29 @@ msgstr "Kullanıcı ismi geçersiz karakterler içeriyor."
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr "Şifre alanı en az 8 karakter uzunluğunda olmalıdır."
+msgstr "Parola alanı en az 8 karakter uzunluğunda olmalıdır."
 
 #: auth.current_password.login error
 msgctxt "auth.current_password.login error"
 msgid "Please check that you entered the correct email and password."
-msgstr "Lütfen geçerli bir e-posta ve şifre girdiğinizi kontrol edin."
+msgstr "Lütfen geçerli bir e-posta ve parola girdiğinizi kontrol edin."
 
 #: auth.current_password.matches
 msgctxt "auth.current_password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr ""
+msgstr "Lütfen iki parola alanına da aynı parolayı girin."
 
 #: auth.current_password.required
 msgctxt "auth.current_password.required"
 msgid "The password field is required."
-msgstr "Şifre girmek gereklidir."
+msgstr "Parola alanı boş bırakılamaz."
 
 #: auth.current_password.alpha_dash
 msgctxt "auth.current_password.alpha_dash"
 msgid ""
 "The password field must have alphabetical characters, the # and @ symbols, "
 "numbers, underscores and dashes only"
-msgstr ""
+msgstr "Parolanız sadece abecesel karakterler, # ve @ simgeleri, rakamlar, altçizgiler ve tirelerden oluşmalıdır"
 
 #: auth.current_password.incorrect
 msgctxt "auth.current_password.incorrect"
@@ -103,7 +104,7 @@ msgstr ""
 #: auth.new_password.required
 msgctxt "auth.new_password.required"
 msgid "The password field is required."
-msgstr ""
+msgstr "Parola alanı boş bırakılamaz."
 
 #: auth.new_password.alpha_dash
 msgctxt "auth.new_password.alpha_dash"
@@ -120,7 +121,7 @@ msgstr ""
 #: auth.password.length
 msgctxt "auth.password.length"
 msgid "The password field must be at least 8 characters long."
-msgstr "Şifreniz en az 5, en fazla 16 karakterden oluşmalıdır."
+msgstr "Parolanız en az 8 karakterden oluşmalıdır."
 
 #: auth.password.login error
 msgctxt "auth.password.login error"
@@ -130,12 +131,12 @@ msgstr ""
 #: auth.password.matches
 msgctxt "auth.password.matches"
 msgid "Please enter the same password in the two password fields."
-msgstr "Lütfen iki alana da aynı şifreyi girin."
+msgstr "Lütfen iki parola alanına da aynı parolayı girin."
 
 #: auth.password.required
 msgctxt "auth.password.required"
 msgid "The password field is required."
-msgstr "Şifre alanı boş bırakılamaz."
+msgstr "Parola alanı boş bırakılamaz."
 
 #: auth.password.riverid server down
 msgctxt "auth.password.riverid server down"
@@ -157,7 +158,7 @@ msgstr ""
 #: auth.password_confirm.matches
 msgctxt "auth.password_confirm.matches"
 msgid "The password confirmation field must match the password field."
-msgstr "Şifre doğrulama alanı içeriği şifre ile aynı olmalıdır."
+msgstr "Parola doğrulama alanı içeriği parola ile aynı olmalıdır."
 
 #: auth.resetemail.email
 msgctxt "auth.resetemail.email"

@@ -1,6 +1,6 @@
 # 
 # Translators:
-# Caner Başaran <basaran.caner@gmail.com>, 2012-2013
+# Caner Başaran <basaran.caner@gmail.com>, 2012-2013,2015
 # mertakbal <mmert.akbal@googlemail.com>, 2014
 # Talha Okur <oscarpenn18@gmail.com>, 2013
 # Zehramir <zehrawellmann@gmail.com>, 2014
@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2014-12-30 22:54+0000\n"
-"Last-Translator: mertakbal <mmert.akbal@googlemail.com>\n"
+"PO-Revision-Date: 2015-01-30 12:57+0000\n"
+"Last-Translator: Caner Başaran <basaran.caner@gmail.com>\n"
 "Language-Team: Turkish (Turkey) (http://www.transifex.com/projects/p/ushahidi-v2/language/tr_TR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -520,12 +520,12 @@ msgstr "E-posta Adresiniz"
 #: ui_main.contact_message
 msgctxt "ui_main.contact_message"
 msgid "Message"
-msgstr "Mesaj"
+msgstr "İleti"
 
 #: ui_main.contact_message_has_send
 msgctxt "ui_main.contact_message_has_send"
 msgid "Your Message Has Been Sent!"
-msgstr "Mesajınız gönderildi!"
+msgstr "İletiniz gönderildi!"
 
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
@@ -540,12 +540,12 @@ msgstr "Telefon Numaranız"
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
 msgid "Send Message"
-msgstr "Mesaj Gönder"
+msgstr "İleti Gönder"
 
 #: ui_main.contact_subject
 msgctxt "ui_main.contact_subject"
 msgid "Message Subject"
-msgstr "Mesaj Konusu"
+msgstr "İleti Konusu"
 
 #: ui_main.copyright
 msgctxt "ui_main.copyright"
@@ -760,7 +760,7 @@ msgstr "Posta Sunucu Sağlayıcısı"
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "Posta Sunucu Şifresi"
+msgstr "Posta Sunucu Parolası"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
@@ -792,7 +792,7 @@ msgctxt "ui_main.email_settings_comment_00"
 msgid ""
 "In order to receive reports by email, please input your email account "
 "settings below. Please note that emails will be received at your"
-msgstr "Raporları email olarak alabilmek için lütfen email adresini aşağıdaki hesap ayarlarına yaz. Emaillerin şuraya gelecğini unutma"
+msgstr "Raporları e-posta olarak alabilmek için lütfen email adresini aşağıdaki hesap ayarlarına yaz. E-postaların şuraya geleceğini unutma"
 
 #: ui_main.email_settings_comment_1
 msgctxt "ui_main.email_settings_comment_1"
@@ -877,7 +877,7 @@ msgstr "Geri bildirim sağlayın"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr "Bize deneyim hakkında aşağıda belirtilen email adresine geribildirim verin"
+msgstr "Bize deneyim hakkında aşağıda belirtilen e-posta adresine geribildirim verin"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -962,7 +962,7 @@ msgstr "Kuvvet çalışma zamanlayıcı"
 #: ui_main.forgot_password
 msgctxt "ui_main.forgot_password"
 msgid "Forgot your password?"
-msgstr "Şifrenizi mi unuttunuz?"
+msgstr "Parolanızı mı unuttunuz?"
 
 #: ui_main.form
 msgctxt "ui_main.form"
@@ -1062,7 +1062,7 @@ msgstr "Gizle"
 #: ui_main.hide_this_message
 msgctxt "ui_main.hide_this_message"
 msgid "hide this message"
-msgstr "bu mesaji gizle"
+msgstr "bu iletiyi gizle"
 
 #: ui_main.home
 msgctxt "ui_main.home"
@@ -1427,7 +1427,7 @@ msgstr "Giriş"
 #: ui_main.login_userpass
 msgctxt "ui_main.login_userpass"
 msgid "Email and Password"
-msgstr "Email ve şifre ile giriş"
+msgstr "E-posta ve parola ile giriş"
 
 #: ui_main.login_openid
 msgctxt "ui_main.login_openid"
@@ -1533,22 +1533,22 @@ msgstr "Hesabını yönet"
 #: ui_main.message
 msgctxt "ui_main.message"
 msgid "Message"
-msgstr "Mesaj"
+msgstr "İleti"
 
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr "Mesajlar "
+msgstr "İletiler"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
 msgid "Message Details"
-msgstr "Mesaj detaylari"
+msgstr "İleti Detayları"
 
 #: ui_main.message_non_numeric_source
 msgctxt "ui_main.message_non_numeric_source"
 msgid "Message from a non-numeric source:"
-msgstr "Bir sayısal olmayan bir kaynaktan gelen mesaj:"
+msgstr "Bir sayısal olmayan bir kaynaktan gelen ileti:"
 
 #: ui_main.mobile
 msgctxt "ui_main.mobile"
@@ -1635,7 +1635,7 @@ msgstr "Yeni Kategori"
 #: ui_main.new_password
 msgctxt "ui_main.new_password"
 msgid "New Password"
-msgstr "Yeni şifre"
+msgstr "Yeni parola"
 
 #: ui_main.new_report
 msgctxt "ui_main.new_report"
@@ -1860,17 +1860,17 @@ msgstr "Parolayı Doğrula"
 #: ui_main.password_changed_successfully
 msgctxt "ui_main.password_changed_successfully"
 msgid "Password changed successfully! Login below."
-msgstr "Şifre başarıyla değiştirildi! Aşağıda giriş yapabilirsin."
+msgstr "Parola başarıyla değiştirildi! Aşağıda giriş yapabilirsin."
 
 #: ui_main.password_forgot
 msgctxt "ui_main.password_forgot"
 msgid "Forgot your password?"
-msgstr "Şifreyi unuttun mu?"
+msgstr "Parolanızı unuttunuz mu?"
 
 #: ui_main.password_reset_confirm
 msgctxt "ui_main.password_reset_confirm"
 msgid "Check your email for the new password."
-msgstr "Yeni şifre için e-postanı kontrol et."
+msgstr "Yeni parola için e-postanı kontrol et."
 
 #: ui_main.password_save
 msgctxt "ui_main.password_save"
@@ -1973,7 +1973,7 @@ msgstr "Maddeyi Önizle"
 #: ui_main.preview_message
 msgctxt "ui_main.preview_message"
 msgid "Preview Message"
-msgstr "Mesaji Önizle"
+msgstr "İletiyi Önizle"
 
 #: ui_main.previous
 msgctxt "ui_main.previous"
@@ -2078,7 +2078,7 @@ msgstr "Murhabirin Tarihi"
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
 msgid "Reporter Email"
-msgstr "Muhabir Emaili "
+msgstr "Muhabir E-postası"
 
 #: ui_main.reporter_first_name
 msgctxt "ui_main.reporter_first_name"
@@ -2163,7 +2163,7 @@ msgstr "Raporlar csv formatında indirilebilir olacak"
 #: ui_main.reports_email
 msgctxt "ui_main.reports_email"
 msgid "Email"
-msgstr "Email"
+msgstr "E-posta"
 
 #: ui_main.reports_features
 msgctxt "ui_main.reports_features"
@@ -2260,12 +2260,12 @@ msgstr "Rapor detaylari"
 #: ui_main.report_option_1
 msgctxt "ui_main.report_option_1"
 msgid "By sending a message to"
-msgstr "Bir mesaj sonraki adrese yazarak"
+msgstr "Bir ileti sonraki adrese yazarak"
 
 #: ui_main.report_option_2
 msgctxt "ui_main.report_option_2"
 msgid "By sending an email"
-msgstr "Email yazarak"
+msgstr "E-posta yazarak"
 
 #: ui_main.report_option_3
 msgctxt "ui_main.report_option_3"
@@ -2325,12 +2325,12 @@ msgstr "Yeniden ayarla"
 #: ui_main.reset_all_filters
 msgctxt "ui_main.reset_all_filters"
 msgid "Reset all filters"
-msgstr "Bütün filtreleri yeniden ayarla"
+msgstr "Bütün filtreleri sıfırla"
 
 #: ui_main.reset_password
 msgctxt "ui_main.reset_password"
 msgid "Reset Password"
-msgstr "Şifreyi yeniden ayarla"
+msgstr "Parolayı Sıfırla"
 
 #: ui_main.retrieve_city_names
 msgctxt "ui_main.retrieve_city_names"
@@ -2347,7 +2347,7 @@ msgctxt "ui_main.riverid_exists_login"
 msgid ""
 "You already have an account managed by CrowdmapID! Try using your CrowdmapID"
 " email and password to login."
-msgstr "Zaten CrowdmapID tarafından yönetilen bir hesabın var! CrowdmapID emailini ve şifreni kullanarak yeniden giriş yapmayı dene."
+msgstr "Zaten CrowdmapID tarafından yönetilen bir hesabın var! CrowdmapID e-postası ve parolanı kullanarak yeniden giriş yapmayı dene."
 
 #: ui_main.role
 msgctxt "ui_main.role"
@@ -2557,7 +2557,7 @@ msgstr "Hepsini göster"
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
 msgid "Show Messages"
-msgstr "Mesajları göster"
+msgstr "İletileri göster"
 
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
@@ -2572,7 +2572,7 @@ msgstr "Wb sayfası"
 #: ui_main.site_email_address
 msgctxt "ui_main.site_email_address"
 msgid "site email address"
-msgstr "sayfa email adresi"
+msgstr "sayfa e-posta adresi"
 
 #: ui_main.site_url
 msgctxt "ui_main.site_url"
@@ -2827,7 +2827,7 @@ msgstr "Twitter"
 #: ui_main.unable_send_email
 msgctxt "ui_main.unable_send_email"
 msgid "Unable to send email."
-msgstr "Email gönderimi başarısız."
+msgstr "E-posta gönderimi başarısız."
 
 #: ui_main.uncategorized_reports
 msgctxt "ui_main.uncategorized_reports"
@@ -2929,7 +2929,7 @@ msgctxt "ui_main.upload_reports_detail_4d"
 msgid ""
 "At least one of the personal information fields(name, surname,email) entries"
 " MUST exist. Empty records will not be imported"
-msgstr "İsim, soyisim ve email alanlarından en azından bir tanesi girilmiş olmak  ZORUNDADIR. Boş raporlar kayda geçirilmez."
+msgstr "Kişisel bilgi alanlarından (isim, soyisim ve e-posta) en azından bir tanesi girilmiş OLMALIDIR. Boş raporlar kayda geçirilmez."
 
 #: ui_main.upload_reports_detail_4e
 msgctxt "ui_main.upload_reports_detail_4e"
