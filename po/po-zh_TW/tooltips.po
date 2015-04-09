@@ -1,12 +1,13 @@
 # 
 # Translators:
+# kiang <kiange@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2014-09-27 05:31+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2015-04-08 06:32+0000\n"
+"Last-Translator: kiang <kiange@gmail.com>\n"
 "Language-Team: Chinese (Taiwan) (http://www.transifex.com/projects/p/ushahidi-v2/language/zh_TW/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -80,7 +81,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr ""
+msgstr "這個資料來源可以是所有資料來源或是一個特定的資料來源，如果想要指定一個資料來源觸發動作，可以在這邊選擇。或是維持 \"全部\" 的選項即可。"
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -88,7 +89,7 @@ msgid ""
 "Twitter author username (or multiple usernames separated by commas). If you "
 "would like to activate triggers only for twitter messages from a particular "
 "user, enter their username here (not including @)"
-msgstr ""
+msgstr "Twitter 作者帳號（或是透過逗點分隔多個帳號），如果只想要特定使用者 twitter 訊息觸發動作，可以在這裡輸入他們的帳號（不要包含 @）"
 
 #: tooltips.actions.keywords
 msgctxt "tooltips.actions.keywords"
@@ -317,7 +318,7 @@ msgstr "這使得主站點上顯示RSS新聞訂閱。"
 #: tooltips.settings_allow_feed_category
 msgctxt "tooltips.settings_allow_feed_category"
 msgid "This allows creating new Category from RSS News feeds."
-msgstr ""
+msgstr "這可以從 RSS 新聞資料來源建立新分類"
 
 #: tooltips.settings_allow_reports
 msgctxt "tooltips.settings_allow_reports"
@@ -580,4 +581,4 @@ msgid ""
 "If you want to geocode your feed entries, grab a user http://geonames.org, "
 "enable the free webservices and enter it here. Leave empty to disable this "
 "function.<br /><br />Beware of the the use limits!"
-msgstr ""
+msgstr "如果想要將資料來源轉為地理座標，可以在 http://geonames.org 註冊一個帳號然後將網路服務資訊輸入這裡，空白表示停用這個功能。<br /><br />需要注意使用次數限制。"
