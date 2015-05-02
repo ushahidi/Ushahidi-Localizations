@@ -1,13 +1,14 @@
 # 
 # Translators:
+# Vamsi Gopal Vasireddy <vasireddy.vamsi.gopal@gmail.com>, 2015
 # వీవెన్ <veeven@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-09-11 06:17+0000\n"
-"Last-Translator: ushbot <devteam@ushahidi.com>\n"
+"PO-Revision-Date: 2015-05-02 03:39+0000\n"
+"Last-Translator: Vamsi Gopal Vasireddy <vasireddy.vamsi.gopal@gmail.com>\n"
 "Language-Team: Telugu (http://www.transifex.com/projects/p/ushahidi-v2/language/te/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -68,7 +69,7 @@ msgstr ""
 #: ui_admin.alerts
 msgctxt "ui_admin.alerts"
 msgid "Alerts"
-msgstr ""
+msgstr "హెచ్చరికలు"
 
 #: ui_admin.alerts_received
 msgctxt "ui_admin.alerts_received"
@@ -88,17 +89,17 @@ msgstr ""
 #: ui_admin.anonymous
 msgctxt "ui_admin.anonymous"
 msgid "Anonymous"
-msgstr ""
+msgstr "అనామక"
 
 #: ui_admin.anyone_role
 msgctxt "ui_admin.anyone_role"
 msgid "Anyone"
-msgstr ""
+msgstr "ఎవరైనా"
 
 #: ui_admin.anywhere
 msgctxt "ui_admin.anywhere"
 msgid "Anywhere"
-msgstr ""
+msgstr "ఎక్కడైనా"
 
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
@@ -183,7 +184,7 @@ msgstr ""
 #: ui_admin.author
 msgctxt "ui_admin.author"
 msgid "Author"
-msgstr ""
+msgstr "రచయిత"
 
 #: ui_admin.author_email
 msgctxt "ui_admin.author_email"
@@ -384,12 +385,12 @@ msgstr ""
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
 msgid "Delete"
-msgstr ""
+msgstr "తొలగించండి"
 
 #: ui_admin.delete_all
 msgctxt "ui_admin.delete_all"
 msgid "Delete all reports"
-msgstr ""
+msgstr "అన్ని నివేదికలు తొలగించండి"
 
 #: ui_admin.delete_badge
 msgctxt "ui_admin.delete_badge"
@@ -449,7 +450,7 @@ msgstr ""
 #: ui_admin.edit_action
 msgctxt "ui_admin.edit_action"
 msgid "Edit"
-msgstr ""
+msgstr "మార్చు"
 
 #: ui_admin.edit_log
 msgctxt "ui_admin.edit_log"
@@ -484,7 +485,7 @@ msgstr ""
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr ""
+msgstr "లోపం"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
@@ -811,7 +812,7 @@ msgstr ""
 #: ui_admin.login_role
 msgctxt "ui_admin.login_role"
 msgid "Moderator"
-msgstr ""
+msgstr "మధ్యవర్తి"
 
 #: ui_admin.logout
 msgctxt "ui_admin.logout"
@@ -871,12 +872,12 @@ msgstr ""
 #: ui_admin.message
 msgctxt "ui_admin.message"
 msgid "Message"
-msgstr ""
+msgstr "సందేశం"
 
 #: ui_admin.messages
 msgctxt "ui_admin.messages"
 msgid "Messages"
-msgstr ""
+msgstr "సందేశాలు"
 
 #: ui_admin.messages_laconica
 msgctxt "ui_admin.messages_laconica"
@@ -886,12 +887,12 @@ msgstr ""
 #: ui_admin.messages_twitter
 msgctxt "ui_admin.messages_twitter"
 msgid "Twitter Messages"
-msgstr ""
+msgstr "ట్విట్టర్ సందేశాలు"
 
 #: ui_admin.message_sent
 msgctxt "ui_admin.message_sent"
 msgid "Your message has been sent!"
-msgstr ""
+msgstr "మీ సందేశం పంపబడింది !"
 
 #: ui_admin.mhi
 msgctxt "ui_admin.mhi"
@@ -916,7 +917,7 @@ msgstr ""
 #: ui_admin.moderator
 msgctxt "ui_admin.moderator"
 msgid "Moderator"
-msgstr ""
+msgstr "మధ్యవర్తి"
 
 #: ui_admin.modified
 msgctxt "ui_admin.modified"
@@ -1024,7 +1025,7 @@ msgstr ""
 #: ui_admin.not_found
 msgctxt "ui_admin.not_found"
 msgid "Not Found"
-msgstr ""
+msgstr "దొరకలేదు"
 
 #: ui_admin.no_data
 msgctxt "ui_admin.no_data"
@@ -1034,7 +1035,7 @@ msgstr ""
 #: ui_admin.no_error
 msgctxt "ui_admin.no_error"
 msgid "No Error"
-msgstr ""
+msgstr "తప్పు లేదు"
 
 #: ui_admin.no_result_display_msg
 msgctxt "ui_admin.no_result_display_msg"
@@ -1059,12 +1060,12 @@ msgstr ""
 #: ui_admin.page
 msgctxt "ui_admin.page"
 msgid "page"
-msgstr ""
+msgstr "పేజీ"
 
 #: ui_admin.pages
 msgctxt "ui_admin.pages"
 msgid "pages"
-msgstr ""
+msgstr "పేజీలు"
 
 #: ui_admin.page_not_found
 msgctxt "ui_admin.page_not_found"
@@ -1138,7 +1139,7 @@ msgstr ""
 #: ui_admin.phone
 msgctxt "ui_admin.phone"
 msgid "Phone"
-msgstr ""
+msgstr "ఫోన్"
 
 #: ui_admin.please_select
 msgctxt "ui_admin.please_select"
@@ -1163,7 +1164,7 @@ msgstr ""
 #: ui_admin.private_message
 msgctxt "ui_admin.private_message"
 msgid "Message"
-msgstr ""
+msgstr "సందేశం"
 
 #: ui_admin.private_messages
 msgctxt "ui_admin.private_messages"
