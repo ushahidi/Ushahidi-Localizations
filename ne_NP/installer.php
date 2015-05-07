@@ -5,7 +5,10 @@
 // I18n generated at: 2015-05-07 06:22+0000
 // PO revision date:  2015-05-07 03:18+0000
 $lang = array(
-	'name' => array(
-		'required' => 'नाम भएको  क्षेत्र आवश्यक छ ',
+	'index' => array(
+		'advanced' => 'उन्नत स्थापना',
 	) ,
+	'title' => 'शीर्षक',
+	'upload_data' => 'अपलोड रिपोर्ट डाटा',
+	'username' => 'प्रयोगकर्ता नाम',
 );

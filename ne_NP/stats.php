@@ -5,5 +5,7 @@
 // I18n generated at: 2015-05-07 06:22+0000
 // PO revision date:  2015-05-07 03:19+0000
 $lang = array(
-	'profile_email' => 'तपाईंको इमेल ठेगाना',
+	'countries' => 'देशहरु',
+	'reports_status' => 'रिपोर्टको स्थिति',
+	'verified' => 'प्रमाणित',
 );

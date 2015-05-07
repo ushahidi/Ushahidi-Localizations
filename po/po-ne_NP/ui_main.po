@@ -3,6 +3,7 @@
 # Neil Horning <ictsupport@pbi-nepal.org>, 2012
 # Laxman Maharjan <email@mlaxman.com.np>, 2014
 # Nirab Pudasaini <nirab@mobera.org>, 2013
+# (PK) Pradhyumna Kumar Shrestha <pradhyu.shrestha@gmail.com>, 2015
 # Prakash Neupane <nprkshn@gmail.com>, 2013
 # Savi <savibohra@live.com>, 2013
 msgid ""
@@ -10,8 +11,8 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2014-12-26 07:13+0000\n"
-"Last-Translator: Laxman Maharjan <email@mlaxman.com.np>\n"
+"PO-Revision-Date: 2015-05-07 03:16+0000\n"
+"Last-Translator: (PK) Pradhyumna Kumar Shrestha <pradhyu.shrestha@gmail.com>\n"
 "Language-Team: Nepali (Nepal) (http://www.transifex.com/projects/p/ushahidi-v2/language/ne_NP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -43,7 +44,7 @@ msgstr "खाताको नाम"
 #: ui_main.actions
 msgctxt "ui_main.actions"
 msgid "Actions"
-msgstr "कार्य"
+msgstr "कार्यहरू"
 
 #: ui_main.action_confirm
 msgctxt "ui_main.action_confirm"
@@ -63,12 +64,12 @@ msgstr "सक्रिय"
 #: ui_main.add
 msgctxt "ui_main.add"
 msgid "Add"
-msgstr "जोड्नुहोस्"
+msgstr "थप्नुहोस/हल्नुहोस"
 
 #: ui_main.added_by
 msgctxt "ui_main.added_by"
 msgid "Added By"
-msgstr "जम्मा गर्नी  "
+msgstr "कसले हालेको "
 
 #: ui_main.additional_data
 msgctxt "ui_main.additional_data"
@@ -148,12 +149,12 @@ msgstr "कन्ट्री कोड सहीत मोबाईल न. ह
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "अलर्टहरु प्राप्त गर्नुहोस्"
+msgstr "चेतावनी प्राप्त गर्नुहोस्"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
 msgid "Alert has been"
-msgstr ""
+msgstr "चेतावनी गरिएको छ"
 
 #: ui_main.alerts_mobile_phone
 msgctxt "ui_main.alerts_mobile_phone"
@@ -182,7 +183,7 @@ msgstr "फ़ीड आरएसएस (तल को यूआरएल ला
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
 msgid "Select a city"
-msgstr "नगर/सहर छान्नुहोस्"
+msgstr "नगर/शहर चयन गर्नुहोस"
 
 #: ui_main.alerts_step1_select_city
 msgctxt "ui_main.alerts_step1_select_city"
@@ -197,7 +198,7 @@ msgstr "<strong>क्रम २:</strong> मलाई सचेत गर्�
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
 msgid "<strong>Step 3 (Optional):</strong> Select Categories"
-msgstr ""
+msgstr "<strong> क्रम 3</strong>(वैकल्पिक):विभाग चयन गर्नुहोस "
 
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
@@ -327,22 +328,22 @@ msgstr "सत्यापन को लागी प्रतीक्षा �
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr "बैज "
+msgstr "बिल्ला"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
 msgid "Badges"
-msgstr "बैज हरु "
+msgstr "बिल्लाहरु "
 
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr "बैज  प्रतिरूप"
+msgstr "बिल्लाको प्रतिरूप"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr "तपाई को आफ्नै बैज  प्रतिरूप अपलोड गर्नुहोस "
+msgstr "तपाई को आफ्नै बिल्ला प्रतिरूप अपलोड गर्नुहोस "
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
@@ -397,7 +398,7 @@ msgstr "श्रेणीको नाम "
 #: ui_main.change_date_range
 msgctxt "ui_main.change_date_range"
 msgid "Change Date Range"
-msgstr "तिथि सीमा बदलिनुहोस"
+msgstr "मिति सीमा बदलिनुहोस"
 
 #: ui_main.change_password
 msgctxt "ui_main.change_password"
@@ -422,7 +423,7 @@ msgstr "डाउनलोड गर्न लाइ डाटा बिंद�
 #: ui_main.choose_date_range
 msgctxt "ui_main.choose_date_range"
 msgid "Or choose your own date range"
-msgstr "अथवा आफ्नो तिथि सीमा रोज्नुहोस "
+msgstr "अथवा आफ्नो मिति सीमा रोज्नुहोस "
 
 #: ui_main.choose_field_type
 msgctxt "ui_main.choose_field_type"
@@ -531,12 +532,12 @@ msgstr "तपाइको सन्देश प्रेषित "
 #: ui_main.contact_name
 msgctxt "ui_main.contact_name"
 msgid "Your Name"
-msgstr "नााम"
+msgstr "तपाइको नाम"
 
 #: ui_main.contact_phone
 msgctxt "ui_main.contact_phone"
 msgid "Your Phone Number"
-msgstr "फोन नंबर"
+msgstr "तपाइको फोन नंबर"
 
 #: ui_main.contact_send
 msgctxt "ui_main.contact_send"
@@ -601,7 +602,7 @@ msgstr "सूचना"
 #: ui_main.date
 msgctxt "ui_main.date"
 msgid "Date"
-msgstr "\t\n\t\nतिथि"
+msgstr "मिति"
 
 #: ui_main.date_format
 msgctxt "ui_main.date_format"
@@ -611,7 +612,7 @@ msgstr "माहिना /दिन / साल "
 #: ui_main.date_time
 msgctxt "ui_main.date_time"
 msgid "Date & Time"
-msgstr "तिथि र समय "
+msgstr "मिति र समय "
 
 #: ui_main.day
 msgctxt "ui_main.day"
@@ -1023,7 +1024,7 @@ msgstr "टिप्पणी"
 #: ui_main.geometry_label
 msgctxt "ui_main.geometry_label"
 msgid "Label"
-msgstr "\t\nनामपत्र"
+msgstr "नामपत्र"
 
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
@@ -1048,12 +1049,12 @@ msgstr "भाको छ"
 #: ui_main.help
 msgctxt "ui_main.help"
 msgid "How to Help"
-msgstr "\t\nसहायता कसरी गर्ने"
+msgstr "सहायता कसरी गर्ने"
 
 #: ui_main.hidden
 msgctxt "ui_main.hidden"
 msgid "Hidden"
-msgstr "\t\nगुप्त"
+msgstr "गुप्त"
 
 #: ui_main.hide
 msgctxt "ui_main.hide"
@@ -1073,7 +1074,7 @@ msgstr "गृहपृष्ठ"
 #: ui_main.Hourly
 msgctxt "ui_main.Hourly"
 msgid "Hourly"
-msgstr ""
+msgstr "प्रतिघण्टा"
 
 #: ui_main.how_to_report
 msgctxt "ui_main.how_to_report"
@@ -1178,7 +1179,7 @@ msgstr "देशान्तर समावेश गरनुहोस"
 #: ui_main.include_personal_info
 msgctxt "ui_main.include_personal_info"
 msgid "Include Personal Information"
-msgstr ""
+msgstr "व्यक्तिगत सूचना समावेश"
 
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
@@ -1205,7 +1206,7 @@ msgstr ""
 #: ui_main.interval
 msgctxt "ui_main.interval"
 msgid "Interval"
-msgstr ""
+msgstr "अन्तराल"
 
 #: ui_main.in_response_to
 msgctxt "ui_main.in_response_to"
@@ -1380,7 +1381,7 @@ msgstr "स्थान "
 #: ui_main.locations
 msgctxt "ui_main.locations"
 msgid "Locations"
-msgstr "स्थान हरु"
+msgstr "स्थानहरु"
 
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
@@ -1479,7 +1480,7 @@ msgstr ""
 #: ui_main.login_signup_approval_subject
 msgctxt "ui_main.login_signup_approval_subject"
 msgid "User account approved"
-msgstr ""
+msgstr "प्रयोगकर्ता खाता अनुमोदित"
 
 #: ui_main.login_signup_text
 msgctxt "ui_main.login_signup_text"
@@ -1539,7 +1540,7 @@ msgstr "संदेश"
 #: ui_main.messages
 msgctxt "ui_main.messages"
 msgid "Messages"
-msgstr "संदेश हरु"
+msgstr "संदेशहरु"
 
 #: ui_main.message_details
 msgctxt "ui_main.message_details"
@@ -1564,7 +1565,7 @@ msgstr "संशोधित"
 #: ui_main.modify_date
 msgctxt "ui_main.modify_date"
 msgid "Modify Date"
-msgstr "तिथि संशोधित"
+msgstr "मिति संशोधित"
 
 #: ui_main.month
 msgctxt "ui_main.month"
@@ -1666,7 +1667,7 @@ msgstr "कुनै डाटा छैन"
 #: ui_main.none
 msgctxt "ui_main.none"
 msgid "None"
-msgstr ""
+msgstr "कुनै पनि हैन "
 
 #: ui_main.notices
 msgctxt "ui_main.notices"
@@ -1686,7 +1687,7 @@ msgstr "अनुमोदित न भएको "
 #: ui_main.not_selected
 msgctxt "ui_main.not_selected"
 msgid "---Not Selected---"
-msgstr "चयनित न भएको "
+msgstr "---चयनित न भएको---"
 
 #: ui_main.not_spam
 msgctxt "ui_main.not_spam"
@@ -2074,7 +2075,7 @@ msgstr "संवाद-दाता हरु "
 #: ui_main.reporter_date
 msgctxt "ui_main.reporter_date"
 msgid "Reporter Date"
-msgstr "Reporter Date"
+msgstr "रिपोर्टर मिति"
 
 #: ui_main.reporter_email
 msgctxt "ui_main.reporter_email"
@@ -2149,7 +2150,7 @@ msgstr ""
 #: ui_main.reports_date
 msgctxt "ui_main.reports_date"
 msgid "Date"
-msgstr "\t\n\t\nतिथि"
+msgstr "मिति"
 
 #: ui_main.reports_description
 msgctxt "ui_main.reports_description"
@@ -2209,12 +2210,12 @@ msgstr "फोटो अपलोड"
 #: ui_main.reports_return
 msgctxt "ui_main.reports_return"
 msgid "Return to the reports page"
-msgstr ""
+msgstr "रिपोर्टस पगे मा फर्कनुस"
 
 #: ui_main.reports_select_city
 msgctxt "ui_main.reports_select_city"
 msgid "Select a City"
-msgstr "नगर/सहर छान्नुहोस्"
+msgstr "नगर/शहर चयन गर्नुहोस"
 
 #: ui_main.reports_submitted
 msgctxt "ui_main.reports_submitted"
@@ -2438,27 +2439,27 @@ msgstr "सुरक्षा कोड"
 #: ui_main.select_all
 msgctxt "ui_main.select_all"
 msgid "Select All"
-msgstr "छान्नुहोस्"
+msgstr "सबै चयन गर्नुहोस "
 
 #: ui_main.select_field_type
 msgctxt "ui_main.select_field_type"
 msgid "Select a Field Type"
-msgstr "फील्ड प्रकार छान्नुहोस्"
+msgstr "फील्ड प्रकार चयन गर्नुहोस"
 
 #: ui_main.select_form_type
 msgctxt "ui_main.select_form_type"
 msgid "Select A Form Type"
-msgstr " प्रपत्र को प्रकार छान्नुहोस्"
+msgstr " प्रपत्र को प्रकार चयन गर्नुहोस"
 
 #: ui_main.select_in_map
 msgctxt "ui_main.select_in_map"
 msgid "Select in the map"
-msgstr "नक्शा छान्नुहोस्"
+msgstr "नक्शामा चयन गर्नुहोस"
 
 #: ui_main.select_multiple
 msgctxt "ui_main.select_multiple"
 msgid "Select as many as needed"
-msgstr "चाहिए जति छान्नुहाेस्"
+msgstr "चाहिए जति चयन गर्नुहोस"
 
 #: ui_main.select_one
 msgctxt "ui_main.select_one"
@@ -2593,7 +2594,7 @@ msgstr "एस एम एस"
 #: ui_main.sorry_no_badges
 msgctxt "ui_main.sorry_no_badges"
 msgid "Sorry, you do not have any badges."
-msgstr ""
+msgstr "माफ गर्नुहोस्म, तपाइको कुनै पनि बिल्ला छैन।"
 
 #: ui_main.source
 msgctxt "ui_main.source"
@@ -2808,7 +2809,7 @@ msgstr "अनुवाद "
 #: ui_main.translation_saved
 msgctxt "ui_main.translation_saved"
 msgid "Translation has been saved"
-msgstr ""
+msgstr "अनुवाद सुरक्षित गरिएको छ"
 
 #: ui_main.trusted
 msgctxt "ui_main.trusted"
@@ -2980,7 +2981,7 @@ msgstr ""
 #: ui_main.upload_successful
 msgctxt "ui_main.upload_successful"
 msgid "Upload Successful"
-msgstr ""
+msgstr "उप्लोद  सिद्यो"
 
 #: ui_main.upload_video
 msgctxt "ui_main.upload_video"
@@ -3160,14 +3161,14 @@ msgstr ""
 #: ui_main.your_file
 msgctxt "ui_main.your_file"
 msgid "Your file"
-msgstr ""
+msgstr "तपाइको फाइल"
 
 #: ui_main.zoom_in
 msgctxt "ui_main.zoom_in"
 msgid "Zoom In"
-msgstr "आकार वर्धन"
+msgstr "ठुलो पार्नुहोस् "
 
 #: ui_main.zoom_out
 msgctxt "ui_main.zoom_out"
 msgid "Zoom Out"
-msgstr ""
+msgstr "सानो पार्नुहोस् "

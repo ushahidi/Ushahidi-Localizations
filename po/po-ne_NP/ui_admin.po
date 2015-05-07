@@ -1,13 +1,14 @@
 # 
 # Translators:
 # Laxman Maharjan <email@mlaxman.com.np>, 2014
+# (PK) Pradhyumna Kumar Shrestha <pradhyu.shrestha@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2014-12-26 07:20+0000\n"
-"Last-Translator: Laxman Maharjan <email@mlaxman.com.np>\n"
+"PO-Revision-Date: 2015-05-07 03:21+0000\n"
+"Last-Translator: (PK) Pradhyumna Kumar Shrestha <pradhyu.shrestha@gmail.com>\n"
 "Language-Team: Nepali (Nepal) (http://www.transifex.com/projects/p/ushahidi-v2/language/ne_NP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -173,7 +174,7 @@ msgstr ""
 #: ui_admin.assignments
 msgctxt "ui_admin.assignments"
 msgid "Assignments"
-msgstr ""
+msgstr "जिम्मेवारीहरु"
 
 #: ui_admin.assign_badge
 msgctxt "ui_admin.assign_badge"
@@ -293,12 +294,12 @@ msgstr ""
 #: ui_admin.count
 msgctxt "ui_admin.count"
 msgid "Count"
-msgstr ""
+msgstr "गणना"
 
 #: ui_admin.country_not_found
 msgctxt "ui_admin.country_not_found"
 msgid "Country Not Found"
-msgstr ""
+msgstr "देश फेला परेन"
 
 #: ui_admin.created_edited
 msgctxt "ui_admin.created_edited"
@@ -328,7 +329,7 @@ msgstr ""
 #: ui_admin.currently_inactive
 msgctxt "ui_admin.currently_inactive"
 msgid "Currently Inactive"
-msgstr ""
+msgstr "हाल निष्क्रिय"
 
 #: ui_admin.custom_forms_insufficient_permissions
 msgctxt "ui_admin.custom_forms_insufficient_permissions"
@@ -339,7 +340,7 @@ msgstr ""
 #: ui_admin.daily
 msgctxt "ui_admin.daily"
 msgid "Daily"
-msgstr ""
+msgstr "दैनिक"
 
 #: ui_admin.dashboard
 msgctxt "ui_admin.dashboard"
@@ -369,7 +370,7 @@ msgstr ""
 #: ui_admin.days_of_the_week
 msgctxt "ui_admin.days_of_the_week"
 msgid "Days of the week"
-msgstr ""
+msgstr "साताका  दिनहरु "
 
 #: ui_admin.db_out_of_sync
 msgctxt "ui_admin.db_out_of_sync"
@@ -379,7 +380,7 @@ msgstr ""
 #: ui_admin.deleted
 msgctxt "ui_admin.deleted"
 msgid "deleted"
-msgstr ""
+msgstr "मेटिएको"
 
 #: ui_admin.delete_action
 msgctxt "ui_admin.delete_action"
@@ -1319,7 +1320,7 @@ msgstr ""
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
 msgid "Please select an item"
-msgstr ""
+msgstr "एक आइटम चयन गर्नुहोस्"
 
 #: ui_admin.select_trigger_before_response
 msgctxt "ui_admin.select_trigger_before_response"
@@ -1349,17 +1350,17 @@ msgstr ""
 #: ui_admin.server_time
 msgctxt "ui_admin.server_time"
 msgid "Server Time"
-msgstr ""
+msgstr "सर्भरको समय"
 
 #: ui_admin.settings
 msgctxt "ui_admin.settings"
 msgid "Settings"
-msgstr ""
+msgstr "सेटिङ"
 
 #: ui_admin.showing_page
 msgctxt "ui_admin.showing_page"
 msgid "Showing page"
-msgstr ""
+msgstr "देखाइँदै पृष्ठ"
 
 #: ui_admin.showing_results
 msgctxt "ui_admin.showing_results"
@@ -1369,7 +1370,7 @@ msgstr ""
 #: ui_admin.shown
 msgctxt "ui_admin.shown"
 msgid "shown"
-msgstr ""
+msgstr "देखाइएको"
 
 #: ui_admin.special_category
 msgctxt "ui_admin.special_category"
@@ -1492,22 +1493,22 @@ msgstr ""
 #: ui_admin.unapproved
 msgctxt "ui_admin.unapproved"
 msgid "unapproved"
-msgstr ""
+msgstr "अनुमोदन नगरिएको"
 
 #: ui_admin.unknown
 msgctxt "ui_admin.unknown"
 msgid "Unknown"
-msgstr ""
+msgstr "अज्ञात"
 
 #: ui_admin.unknown_failure
 msgctxt "ui_admin.unknown_failure"
 msgid "Unknown Failure"
-msgstr ""
+msgstr "अज्ञात विफलता"
 
 #: ui_admin.unread
 msgctxt "ui_admin.unread"
 msgid "unread"
-msgstr ""
+msgstr "नपढेको"
 
 #: ui_admin.unsubscribe_message
 msgctxt "ui_admin.unsubscribe_message"
@@ -1634,22 +1635,22 @@ msgstr ""
 #: ui_admin.delete_all_confirm
 msgctxt "ui_admin.delete_all_confirm"
 msgid "Are you sure you want to delete all reports?"
-msgstr ""
+msgstr "तपाईं सबै रिपोर्ट मेटाउन चाहनुहुन्छ तपाईं पक्का हुनुहुन्छ ?"
 
 #: ui_admin.delete_all_no_reports
 msgctxt "ui_admin.delete_all_no_reports"
 msgid "There are no reports to be deleted."
-msgstr ""
+msgstr "मेटिने कुनै रिपोर्टहरू छन् "
 
 #: ui_admin.user_no_logins
 msgctxt "ui_admin.user_no_logins"
 msgid "Number of logins"
-msgstr ""
+msgstr "लगिन संख्या"
 
 #: ui_admin.user_last_login
 msgctxt "ui_admin.user_last_login"
 msgid "Last login"
-msgstr ""
+msgstr "पछिल्लो लगिन"
 
 #: ui_admin.user_confirmed_account
 msgctxt "ui_admin.user_confirmed_account"
