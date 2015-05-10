@@ -1,11 +1,13 @@
 # 
 # Translators:
+# Nirdosh Chapagain <nirdwesh@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2012-06-01 05:58+0000\n"
+"PO-Revision-Date: 2015-05-09 06:26+0000\n"
+"Last-Translator: Nirdosh Chapagain <nirdwesh@gmail.com>\n"
 "Language-Team: Nepali (Nepal) (http://www.transifex.com/projects/p/ushahidi-v2/language/ne_NP/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,24 +19,24 @@ msgstr ""
 #: alerts.alert_email.email
 msgctxt "alerts.alert_email.email"
 msgid "The Email field does not appear to contain a valid email address?"
-msgstr ""
+msgstr "इमेल छेत्र मा मान्य इमेल नभएको आवस्था"
 
 #: alerts.alert_email.email_check
 msgctxt "alerts.alert_email.email_check"
 msgid ""
 "That Email address has already been registered to receive alerts for that "
 "location."
-msgstr ""
+msgstr "यो इमेल पहिलेनै यो स्थानको लागि सतर्क संदेश पाउनको लागि प्रयोग भैसकेको छ "
 
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
 msgid "The Email field must be at least 4 and no more 64 characters long."
-msgstr ""
+msgstr "इमेल क्षेत्र मा कम्तिमा 4 र बढीमा 64 वर्ण मात्र हुन सक्छ "
 
 #: alerts.alert_email.required
 msgctxt "alerts.alert_email.required"
 msgid "The Email field is required if the checkbox is checked."
-msgstr ""
+msgstr "बक्स मा ठिक लागिएको छ भने इमेल क्षेत्र आनिबार्य छ "
 
 #: alerts.alert_country.single_country
 msgctxt "alerts.alert_country.single_country"
