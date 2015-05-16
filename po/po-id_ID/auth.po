@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2015-05-06 09:13+0000\n"
+"PO-Revision-Date: 2015-05-15 08:49+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -52,7 +52,7 @@ msgstr "Isian nama lengkap harus diisi."
 #: auth.name.standard_text
 msgctxt "auth.name.standard_text"
 msgid "The username field contains disallowed characters."
-msgstr "Isian nama pengguna mengandung karakter yang tidak diperbolehkan.."
+msgstr "Isian nama pengguna mengandung karakter yang tidak diperbolehkan."
 
 #: auth.current_password.length
 msgctxt "auth.current_password.length"
@@ -210,7 +210,7 @@ msgstr "Token untuk lupa kata sandi tidak benar."
 #: auth.token.required
 msgctxt "auth.token.required"
 msgid "Forgotten password token was required"
-msgstr "Token untuk kata sandi yang lupa diminta"
+msgstr "Token untuk lupa kata sandi diperlukan"
 
 #: auth.username.admin
 msgctxt "auth.username.admin"
