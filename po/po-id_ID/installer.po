@@ -1,13 +1,14 @@
 # 
 # Translators:
 # kakaprakasa <kaka.prakasa@gmail.com>, 2012
+# Vasanthi Hargyono <va.santhi@yahoo.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2014-04-30 05:58+0000\n"
-"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
+"PO-Revision-Date: 2015-05-20 04:45+0000\n"
+"Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +20,7 @@ msgstr ""
 #: installer.base_path
 msgctxt "installer.base_path"
 msgid "Base Path"
-msgstr "Lokasi Base"
+msgstr "Lokasi Basis"
 
 #: installer.database
 msgctxt "installer.database"
@@ -37,7 +38,7 @@ msgid ""
 "If you are running Ushahidi on your own computer, this will more than likely"
 " be \"localhost\". If you are running Ushahidi from a web server, you will "
 "get your host information from your web hosting provider."
-msgstr "Kalau anda menjalankan Ushahidi dari komputer anda sendiri, hampir pasti isian ini adalah \"localhost\". Jika anda menjalankan Ushahidi dari peladen (server) web, minta info tentang mesin peladen (server) anda dari penyedia layanan hosting anda."
+msgstr "Kalau anda menjalankan Ushahidi dari komputer anda sendiri, hampir pasti ini adalah \"localhost\". Jika anda menjalankan Ushahidi dari server web, anda akan mendapat info tentang mesin peladen (server) anda dari penyedia layanan hosting anda."
 
 #: installer.database_name
 msgctxt "installer.database_name"
@@ -56,7 +57,7 @@ msgid ""
 "href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" "
 "target=\"_blank\">this article</a> on the wiki that talks about databases in"
 " more detail."
-msgstr "Untuk keterangan lebih lanjut, silakan baca <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">artikel ini</a> di wiki yg membahas lebih rinci tentang Basis data"
+msgstr "Untuk keterangan lebih lanjut, silakan baca <a href=\"http://wiki.ushahidi.com/doku.php?id=a_brief_word_on_databases\" target=\"_blank\">artikel ini</a> di wiki yang membahas lebih rinci tentang basis data"
 
 #: installer.default_language
 msgctxt "installer.default_language"
@@ -127,19 +128,19 @@ msgstr "Kembali"
 #: installer.index.advanced
 msgctxt "installer.index.advanced"
 msgid "ADVANCED INSTALLATION"
-msgstr "Pemasangan lanjutan"
+msgstr "INSTALASI LANJUTAN"
 
 #: installer.index.advanced_installation_description
 msgctxt "installer.index.advanced_installation_description"
 msgid ""
 "Get all the basic settings completed through this 5-step process.  This "
 "includes server, map, site name and contact details."
-msgstr "Selesaikan semua konfigurasi dasar dengan proses 5 langkah ini. Ini termasuk peladen, pemetaan, nama situs dan rincian detil kontak."
+msgstr "Selesaikan semua konfigurasi dasar dengan proses 5 langkah ini. Ini termasuk server, pemetaan, nama situs dan rincian detil kontak."
 
 #: installer.index.basic_installation
 msgctxt "installer.index.basic_installation"
 msgid "BASIC INSTALLATION"
-msgstr "Pemasangan dasar"
+msgstr "INSTALASI DASAR"
 
 #: installer.index.basic_installation_description
 msgctxt "installer.index.basic_installation_description"
@@ -159,22 +160,22 @@ msgctxt "installer.index.welcome"
 msgid ""
 "Welcome to the Ushahidi server install process.  Choose which type of "
 "installation you would like to use below."
-msgstr "Selamat datang di proses pemasangan peladen (server) Ushahidi. Pilih tipe pemasangan sesuai kebutuhan anda :"
+msgstr "Selamat datang di proses instalasi server Ushahidi. Pilih tipe instalasi sesuai kebutuhan anda :"
 
 #: installer.installation_successful
 msgctxt "installer.installation_successful"
 msgid "Installation Successful"
-msgstr "Pemasangan sukses"
+msgstr "Instalasi sukses"
 
 #: installer.mail_server
 msgctxt "installer.mail_server"
 msgid "Mail Server"
-msgstr "Peladen Mail"
+msgstr "Mail Server"
 
 #: installer.mail_server_host
 msgctxt "installer.mail_server_host"
 msgid "Mail Server Host"
-msgstr "Induk peladen Mail"
+msgstr "Induk Mail Server"
 
 #: installer.mail_server_host_description
 msgctxt "installer.mail_server_host_description"
@@ -184,7 +185,7 @@ msgstr "Contoh: mail.situsanda.com, imap.gmail.com, pop.gmail.com"
 #: installer.mail_server_password
 msgctxt "installer.mail_server_password"
 msgid "Mail Server Password"
-msgstr "Kata sandi peladen mail"
+msgstr "Kata sandi mail server"
 
 #: installer.mail_server_password_description
 msgctxt "installer.mail_server_password_description"
@@ -194,17 +195,17 @@ msgstr "Kata sandi yang biasa anda gunakan untuk login ke layanan surel"
 #: installer.mail_server_port
 msgctxt "installer.mail_server_port"
 msgid "Mail Server Port"
-msgstr "Port peladen mail"
+msgstr "Port Mail Server"
 
 #: installer.mail_server_port_description
 msgctxt "installer.mail_server_port_description"
 msgid "Common Ports: 25, 110, 995 (Gmail POP3 SSL), 993 (Gmail IMAP SSL)"
-msgstr "Port umum : 25,110,995 (ssl pop3 gmail), 993 (ssl imap gmail)"
+msgstr "Port umum : 25,110,995 (Gmail ssl pop3), 993 (Gmail ssl imap)"
 
 #: installer.mail_server_type
 msgctxt "installer.mail_server_type"
 msgid "Mail Server Type"
-msgstr "Tipe peladen mail"
+msgstr "Tipe Mail Server"
 
 #: installer.mail_server_type_description
 msgctxt "installer.mail_server_type_description"
@@ -217,7 +218,7 @@ msgstr "Internet message access protocol (IMAP) atau Post Office Protocol (POP).
 #: installer.mail_server_username
 msgctxt "installer.mail_server_username"
 msgid "Mail Server Username"
-msgstr "Nama pengguna peladen mail"
+msgstr "Nama pengguna mail server"
 
 #: installer.mail_server_username_description
 msgctxt "installer.mail_server_username_description"
@@ -267,7 +268,7 @@ msgstr "Sebelumnya"
 #: installer.restart_apache
 msgctxt "installer.restart_apache"
 msgid "Please restart your Apache Server"
-msgstr "Mohon restart peladen Apache anda"
+msgstr "Mohon restart server Apache anda"
 
 #: installer.select_mail_server_ssl
 msgctxt "installer.select_mail_server_ssl"
@@ -280,22 +281,22 @@ msgid ""
 "Some mail servers give you the option of using <abbr title=\"Secure Sockets "
 "Layer\">SSL</abbr> when making a connection. Using SSL is recommended as it "
 "gives you an added level of security."
-msgstr "Beberapa peladen mail memberikan pilihan untuk menggunakan <abbr title=\"Secure Sockets Layer\">SSL</abbr> ketika melakukan koneksi. Menggunakan SSL sangat dianjurkan untuk meningkatkan level keamanan anda."
+msgstr "Beberapa mail server memberikan pilihan untuk menggunakan <abbr title=\"Secure Sockets Layer\">SSL</abbr> ketika melakukan koneksi. Menggunakan SSL sangat dianjurkan untuk meningkatkan level keamanan anda."
 
 #: installer.setup_sms
 msgctxt "installer.setup_sms"
 msgid "Set up your SMS server"
-msgstr "Atur peladen SMS anda"
+msgstr "Atur server SMS anda"
 
 #: installer.site_email
 msgctxt "installer.site_email"
 msgid "Site Email Address"
-msgstr "Alamat situs surel"
+msgstr "Alamat surel"
 
 #: installer.site_email_alerts
 msgctxt "installer.site_email_alerts"
 msgid "Site Alert Email Address"
-msgstr "alamat surel notifikasi situs"
+msgstr "Alamat surel notifikasi"
 
 #: installer.site_email_alerts_description
 msgctxt "installer.site_email_alerts_description"
