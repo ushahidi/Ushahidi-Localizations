@@ -2,13 +2,14 @@
 # Translators:
 # lbell <goingdriftless@hotmail.com>, 2012
 # Suwandi Ahmad <ahmad.suwandi@gmail.com>, 2013
+# Vasanthi Hargyono <va.santhi@yahoo.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2013-10-28 01:07+0000\n"
-"Last-Translator: Suwandi Ahmad <ahmad.suwandi@gmail.com>\n"
+"PO-Revision-Date: 2015-05-22 09:49+0000\n"
+"Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,7 +23,7 @@ msgctxt "ui_admin.access_denied_credentials"
 msgid ""
 "Access denied. Either your credentials are not valid or your request has "
 "been refused."
-msgstr "Akses ditolak."
+msgstr "Akses ditolak. Entah kredensial Anda tidak valid atau permintaan Anda telah ditolak."
 
 #: ui_admin.access_denied_others
 msgctxt "ui_admin.access_denied_others"
@@ -104,7 +105,7 @@ msgstr "Di manapun"
 #: ui_admin.api_banned
 msgctxt "ui_admin.api_banned"
 msgid "API Banned"
-msgstr "API Banned"
+msgstr "API Dilarang"
 
 #: ui_admin.api_logs
 msgctxt "ui_admin.api_logs"
@@ -772,7 +773,7 @@ msgstr "Siapa bisa Mengirimkan Jawaban"
 #: ui_admin.keyword
 msgctxt "ui_admin.keyword"
 msgid "Keyword"
-msgstr "Kata kucni"
+msgstr "Kata kunci"
 
 #: ui_admin.keywords
 msgctxt "ui_admin.keywords"
