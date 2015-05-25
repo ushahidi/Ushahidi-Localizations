@@ -2,13 +2,14 @@
 # Translators:
 # Suwandi Ahmad <ahmad.suwandi@gmail.com>, 2013
 # Suwandi Ahmad <ahmad.suwandi@gmail.com>, 2013
+# Vasanthi Hargyono <va.santhi@yahoo.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-14 06:11+0000\n"
-"PO-Revision-Date: 2014-04-30 06:11+0000\n"
-"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
+"PO-Revision-Date: 2015-05-25 04:58+0000\n"
+"Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,12 +26,12 @@ msgstr "Data yang dimasukkan tidak dalam format yang bisa diterima. Masukkan 0 u
 #: upgrade.upgrade_automatic
 msgctxt "upgrade.upgrade_automatic"
 msgid "Automatic Upgrade"
-msgstr "Perbaruan Otomatis"
+msgstr "Pembaruan Otomatis"
 
 #: upgrade.upgrade_available
 msgctxt "upgrade.upgrade_available"
 msgid "Available Updates"
-msgstr "Perbaruan (Upgrade) Tersedia"
+msgstr "Pembaruan (Upgrade) Tersedia"
 
 #: upgrade.upgrade_continue_btn_text
 msgctxt "upgrade.upgrade_continue_btn_text"
@@ -40,17 +41,17 @@ msgstr "Berlanjut"
 #: upgrade.upgrade_db_btn_text
 msgctxt "upgrade.upgrade_db_btn_text"
 msgid "Upgrade"
-msgstr "Perbaruan"
+msgstr "Pembaruan"
 
 #: upgrade.upgrade_db_text_1
 msgctxt "upgrade.upgrade_db_text_1"
 msgid "So, I'm going to upgrade your database from version"
-msgstr "Jadi, kami akan meningkatkan dari versi database"
+msgstr "Jadi, kami akan meningkatkan basis data anda dari versi"
 
 #: upgrade.upgrade_db_text_2
 msgctxt "upgrade.upgrade_db_text_2"
 msgid "to the newest database version"
-msgstr "ke database versi terbaru"
+msgstr "ke basis data versi terbaru"
 
 #: upgrade.upgrade_db_text_3
 msgctxt "upgrade.upgrade_db_text_3"
@@ -62,46 +63,46 @@ msgctxt "upgrade.upgrade_db_text_4"
 msgid ""
 "Oh, also if you want me to backup your database, just tick the check button "
 "below and I will do that for you in a breeze."
-msgstr "Oh ya, jika Anda ingin membackup database, beri tanda centang di bawah ini dan kami akan melakukannya untuk Anda."
+msgstr "Oh ya, jika Anda ingin membackup basis data, beri tanda centang di bawah ini dan kami akan melakukannya untuk Anda."
 
 #: upgrade.upgrade_db_text_5
 msgctxt "upgrade.upgrade_db_text_5"
 msgid ""
 "Backup database before upgrade? (<strong style=\"color:#FF0000;\">Highly "
 "recommended</strong>)"
-msgstr "Backup database sebelum perbaruan? (<strong style=\"color:#FF0000;\">Sangat direkomendasikan</strong>)"
+msgstr "Backup basis data sebelum pembaruan? (<strong style=\"color:#FF0000;\">Sangat direkomendasikan</strong>)"
 
 #: upgrade.upgrade_db_title
 msgctxt "upgrade.upgrade_db_title"
 msgid "Ushahidi database upgrade"
-msgstr "Perbarui database Ushahidi"
+msgstr "Pembaruan basis data Ushahidi"
 
 #: upgrade.upgrade_db_info
 msgctxt "upgrade.upgrade_db_info"
 msgid ""
 "Ushahidi has been updated! Before you continue, you need to update your "
 "database to the newest version (%s)."
-msgstr "Ushahidi sudah diperbarui! Sebelum melanjutkan, Anda perlu memperbarui database dalam versi terkini (%s)."
+msgstr "Ushahidi sudah diperbarui! Sebelum melanjutkan, Anda perlu memperbarui basis data ke dalam versi terkini (%s)."
 
 #: upgrade.upgrade_db_up_to_date
 msgctxt "upgrade.upgrade_db_up_to_date"
 msgid "Your database version is up to date."
-msgstr "Versi database Anda adalah versi terkini."
+msgstr "Versi basis data Anda adalah versi terkini."
 
 #: upgrade.upgrade_failed
 msgctxt "upgrade.upgrade_failed"
 msgid "Upgrade failed at some point"
-msgstr "Ada kegagalan dalam proses perbaruan "
+msgstr "Ada kegagalan dalam proses pembaruan "
 
 #: upgrade.upgrade_manual
 msgctxt "upgrade.upgrade_manual"
 msgid "Manual Upgrade"
-msgstr "Perbaruan Manual"
+msgstr "Pembaruan Manual"
 
 #: upgrade.upgrade_status
 msgctxt "upgrade.upgrade_status"
 msgid "Ushahidi upgrade status"
-msgstr "Status perbaruan Ushahidi"
+msgstr "Status pembaruan Ushahidi"
 
 #: upgrade.upgrade_text_1
 msgctxt "upgrade.upgrade_text_1"
@@ -147,7 +148,7 @@ msgid ""
 "<strong>Step 3:</strong> Look inside the <strong>sql</strong> folder. "
 "Manuall run the upgrade<xx>-<xx>.sql file starting from the current db "
 "version of your install through to the final sql upgrade file."
-msgstr "<strong>Langkah 3:</strong> Lihat folder <strong>sql</strong>. Jalankan secara manual perbaruan berkas <xx>-<xx>.sql file dari versi db saat ini  menjadi berkas sql versi terakhir."
+msgstr "<strong>Langkah 3:</strong> Lihat folder <strong>sql</strong>. Jalankan secara manual pembaruan berkas <xx>-<xx>.sql file dari versi db saat ini menjadi berkas sql versi terakhir."
 
 #: upgrade.upgrade_text_5
 msgctxt "upgrade.upgrade_text_5"
@@ -178,7 +179,7 @@ msgctxt "upgrade.upgrade_ftp_text"
 msgid ""
 "To continue with the easy upgrade, the following information is required for"
 " the FTP server that your website is hosted on."
-msgstr "Untuk melanjutkan perbaruan dengan mudah, informasi server FTP di hosting Anda berikut ini perlu dilengkapi."
+msgstr "Untuk melanjutkan pembaruan dengan mudah, informasi server FTP di hosting Anda berikut ini perlu dilengkapi."
 
 #: upgrade.upgrade_ftp_hostname
 msgctxt "upgrade.upgrade_ftp_hostname"
@@ -203,27 +204,27 @@ msgstr "Anda saat ini sudah menggunakan versi terakhir Ushahidi."
 #: upgrade.upgrade_status_info_2
 msgctxt "upgrade.upgrade_status_info_2"
 msgid "You do not need to upgrade."
-msgstr "Anda tidak memerlukan perbaruan versi."
+msgstr "Anda tidak memerlukan pembaruan versi."
 
 #: upgrade.upgrade_db_version
 msgctxt "upgrade.upgrade_db_version"
 msgid "Database version: %d"
-msgstr "Versi database: %d"
+msgstr "Versi basis data: %d"
 
 #: upgrade.upgrade_warning_software_version
 msgctxt "upgrade.upgrade_warning_software_version"
 msgid "Warning: Software version in version.php and database do not match."
-msgstr "Perhatian: Versi piranti lunak dalam version.php dan database tidak cocok."
+msgstr "Perhatian: Versi piranti lunak dalam version.php dan basis data tidak cocok."
 
 #: upgrade.upgrade_warning_db_version
 msgctxt "upgrade.upgrade_warning_db_version"
 msgid "Warning: Database version in version.php and database do not match."
-msgstr "Perhatian: Versi database dalam version.php dan database tidak cocok."
+msgstr "Perhatian: Versi basis data dalam version.php dan basis data tidak cocok."
 
 #: upgrade.upgrade_database
 msgctxt "upgrade.upgrade_database"
 msgid "Database:"
-msgstr "Database:"
+msgstr "Basis data:"
 
 #: upgrade.ushahidi_release_version
 msgctxt "upgrade.ushahidi_release_version"
@@ -278,17 +279,17 @@ msgstr "Duplikasi berkas gagal."
 #: upgrade.backup_success
 msgctxt "upgrade.backup_success"
 msgid "Database backup and upgrade successful."
-msgstr "Backup database dan pembaruan berhasil."
+msgstr "Backup basis data dan pembaruan berhasil."
 
 #: upgrade.backup_failed
 msgctxt "upgrade.backup_failed"
 msgid "Failed backing up database."
-msgstr "Backup database gagal."
+msgstr "Backup basis data gagal."
 
 #: upgrade.dbupgrade_success
 msgctxt "upgrade.dbupgrade_success"
 msgid "Database upgrade successful."
-msgstr "Perbaruan database berhasil."
+msgstr "Perbaruan basis data berhasil."
 
 #: upgrade.deleting_files
 msgctxt "upgrade.deleting_files"
