@@ -2,12 +2,13 @@
 # Translators:
 # Imron Fauzi <imronfauzi@gmail.com>, 2014
 # Suwandi Ahmad <ahmad.suwandi@gmail.com>, 2013-2014
+# Vasanthi Hargyono <va.santhi@yahoo.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2015-05-25 04:59+0000\n"
+"PO-Revision-Date: 2015-05-25 09:43+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -56,17 +57,17 @@ msgstr "Isian peringatan tidak akan ditampilkan apabila tidak diisi dengan benar
 #: settings.allow_alerts.required
 msgctxt "settings.allow_alerts.required"
 msgid "The allow alerts field is required."
-msgstr "Isian peringatan harus diisi."
+msgstr "Isian memperbolehkan peringatan harus diisi."
 
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr "Isian laporan yang diijinkan tidak akan ditampilkan apabila tidak diisi dengan benar."
+msgstr "Isian memperbolehkan laporan tidak akan ditampilkan apabila tidak diisi dengan benar."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
 msgid "The allow reports field is required."
-msgstr "Isian laporan yang diijinkan harus diisi."
+msgstr "Isian memperbolehkan laporan harus diisi."
 
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
