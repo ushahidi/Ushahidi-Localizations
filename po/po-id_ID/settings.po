@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-03-12 06:26+0000\n"
-"PO-Revision-Date: 2015-05-25 09:43+0000\n"
+"PO-Revision-Date: 2015-06-09 04:12+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -42,12 +42,12 @@ msgstr "Isian umpan harus diisi."
 msgctxt "settings.allow_feed_category.between"
 msgid ""
 "The include feed category field does not appear to contain a valid value."
-msgstr "Kolom isian kategori feed tidak benar."
+msgstr "Kolom isian kategori umpan tidak benar."
 
 #: settings.allow_feed_category.required
 msgctxt "settings.allow_feed_category.required"
 msgid "The include feed category field is required."
-msgstr "Kolom isian kategori feed harus diisi."
+msgstr "Kolom isian kategori umpan harus diisi."
 
 #: settings.allow_alerts.between
 msgctxt "settings.allow_alerts.between"
@@ -62,7 +62,7 @@ msgstr "Isian memperbolehkan peringatan harus diisi."
 #: settings.allow_reports.between
 msgctxt "settings.allow_reports.between"
 msgid "The allow reports field does not appear to contain a valid value."
-msgstr "Isian memperbolehkan laporan tidak akan ditampilkan apabila tidak diisi dengan benar."
+msgstr "Isian memperbolehkan laporan tidak diisi dengan benar."
 
 #: settings.allow_reports.required
 msgctxt "settings.allow_reports.required"
@@ -72,12 +72,12 @@ msgstr "Isian memperbolehkan laporan harus diisi."
 #: settings.allow_stat_sharing.between
 msgctxt "settings.allow_stat_sharing.between"
 msgid "The stat sharing field does not appear to contain a valid value."
-msgstr "Isian stat berbagi tidak akan ditampilkan apabila tidak diisi dengan benar."
+msgstr "Isian berbagi stat tidak akan ditampilkan apabila tidak diisi dengan benar."
 
 #: settings.allow_stat_sharing.required
 msgctxt "settings.allow_stat_sharing.required"
 msgid "The stat sharing field is required."
-msgstr "Isian status berbagi harus diisi."
+msgstr "Isian berbagi stat harus diisi."
 
 #: settings.api.default_record_limit
 msgctxt "settings.api.default_record_limit"
@@ -310,7 +310,7 @@ msgctxt "settings.facebook.description_2"
 msgid ""
 "These settings allow users to login via Facebook, this <strong>does "
 "not</strong> create a facebook application for your deployment"
-msgstr "Pengaturan ini memungkinkan pengguna untuk masuk melalui Facebook, tapi <strong>bukan</strong> mengembangkan aplikasi Facebook di situs Anda."
+msgstr "Pengaturan ini memungkinkan pengguna untuk masuk melalui Facebook, tapi <strong>bukan</strong> membuat aplikasi Facebook di situs Anda."
 
 #: settings.facebook.app_id
 msgctxt "settings.facebook.app_id"
@@ -327,7 +327,7 @@ msgctxt "settings.google_analytics.length"
 msgid ""
 "The Google Analytics field must contain a valid Web Property ID in the "
 "format UA-XXXXX-XX."
-msgstr "Kolom Google Analytics harus mengandung Web Property ID dalam format UA-XXXXX-XX."
+msgstr "Kolom Google Analytics harus mengandung Web Property ID yang benar dalam format UA-XXXXX-XX."
 
 #: settings.https.enable_https
 msgctxt "settings.https.enable_https"
@@ -339,14 +339,14 @@ msgctxt "settings.https.https_disabled"
 msgid ""
 "This option makes Ushahidi be accessed in unsecure mode; "
 "<strong>without</strong> \"https://\" in the URL prefix"
-msgstr "Opsi ini memungkinkan Ushahidi bisa diakses dalam moda tidak aman; <strong>tanpa</strong> \"https://\" dalam awalan tautan"
+msgstr "Opsi ini memungkinkan Ushahidi bisa diakses dalam moda tidak aman; <strong>tanpa</strong> \"https://\" dalam awalan URL"
 
 #: settings.https.https_enabled
 msgctxt "settings.https.https_enabled"
 msgid ""
 "This option makes Ushahidi be accessed in secure mode; with "
 "<strong>https</strong> in the URL prefix"
-msgstr "Opsi ini memungkinkan Ushahidi bisa diakses dalam moda aman; dengan awalan <strong>https</strong> di tautan"
+msgstr "Opsi ini memungkinkan Ushahidi bisa diakses dalam moda aman; dengan awalan <strong>https</strong> di URL"
 
 #: settings.https.title
 msgctxt "settings.https.title"
@@ -363,7 +363,7 @@ msgstr "Isian dalam kolom jumlah item per halaman (Halaman Depan) tidak benar."
 #: settings.items_per_page.required
 msgctxt "settings.items_per_page.required"
 msgid "The items per page (Frontend) field is required."
-msgstr "Isian dalam kolom jumlah item per halaman (Halaman Admin) tidak benar."
+msgstr "Isian dalam kolom jumlah item per halaman (Halaman Depan) tidak benar."
 
 #: settings.items_per_page_admin.between
 msgctxt "settings.items_per_page_admin.between"
@@ -579,7 +579,7 @@ msgid ""
 "target=\"_blank\">Akismet</a> from Automattic. <BR />You can get a free API "
 "key by registering for a <a href=\"http://en.wordpress.com/api-keys/\" "
 "target=\"_blank\">WordPress.com user account</a>"
-msgstr "Cegah komentar berupa spam dengan menggunakan <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> dari Automattic. <BR />Anda bias memperoleh kunci API secara gratis dengan mendaftarkan diri di <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com</a>"
+msgstr "Cegah komentar berupa spam dengan menggunakan <a href=\"http://akismet.com/\" target=\"_blank\">Akismet</a> dari Automattic. <BR />Anda bisa memperoleh kunci API secara gratis dengan mendaftarkan diri di <a href=\"http://en.wordpress.com/api-keys/\" target=\"_blank\">WordPress.com</a>"
 
 #: settings.site.laconica_configuration
 msgctxt "settings.site.laconica_configuration"
@@ -614,7 +614,7 @@ msgstr "Nama Situs"
 #: settings.site.private_deployment
 msgctxt "settings.site.private_deployment"
 msgid "Private Deployment"
-msgstr "Pengembangan untuk kalangan terbatas"
+msgstr "Situs untuk kalangan terbatas"
 
 #: settings.site.require_email_confirmation
 msgctxt "settings.site.require_email_confirmation"
@@ -659,7 +659,7 @@ msgstr "Tagar - Dipisahkan dengan koma"
 #: settings.site.feed_geolocation_user
 msgctxt "settings.site.feed_geolocation_user"
 msgid "Feeds geolocation - Geonames username"
-msgstr "Umpan geolocation - Geonames nama pengguna"
+msgstr "Umpan geolocation - nama pengguna Geonames"
 
 #: settings.site_email.email
 msgctxt "settings.site_email.email"
@@ -751,7 +751,7 @@ msgid ""
 "href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" "
 "target=\"_blank\">here</a></strong>. The URL and API Key below are required "
 "to set up the sync with FrontlineSMS."
-msgstr "Intruksi terperinci cara mengirim SMS melalui FrontlineSMS sudah tersedia <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">di sini</a></strong>. Tautan dan kunci API di bawah ini diminta untuk pengaturan dan sinkronisasi data dengan FrontlineSMS."
+msgstr "Intruksi terperinci cara mengirim SMS melalui FrontlineSMS sudah tersedia <strong><a href=\"https://wiki.ushahidi.com/pages/viewpage.action?pageId=5670692\" target=\"_blank\">di sini</a></strong>. URL dan kunci API di bawah ini diminta untuk pengaturan dan sinkronisasi data dengan FrontlineSMS."
 
 #: settings.sms.flsms_link
 msgctxt "settings.sms.flsms_link"
@@ -766,7 +766,7 @@ msgstr "Salin dan tempelkan ini dalam kolom \"Kunci API Ushahidi\""
 #: settings.sms.flsms_synchronize
 msgctxt "settings.sms.flsms_synchronize"
 msgid "Connecting FrontlineSMS to this Ushahidi deployment"
-msgstr "Menghubungkan antara FrontlineSMS dengan Ushahidi"
+msgstr "Menghubungkan antara FrontlineSMS dengan situs Ushahidi ini"
 
 #: settings.sms.flsms_text_1
 msgctxt "settings.sms.flsms_text_1"
@@ -833,7 +833,7 @@ msgctxt "settings.twitter.description"
 msgid ""
 "To get the information below, set up your deployment as a new Twitter "
 "application at"
-msgstr "Untuk memperoleh informasi di bawah ini, silahkan bikin dahulu sebuah aplikasi Twitter baru di"
+msgstr "Untuk memperoleh informasi di bawah ini, silahkan atur situs anda sebagai sebuah aplikasi Twitter baru terlebih dahulu di"
 
 #: settings.twitter.api_key
 msgctxt "settings.twitter.api_key"

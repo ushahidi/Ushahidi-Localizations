@@ -6,13 +6,14 @@
 # Imron Fauzi <imronfauzi@gmail.com>, 2014
 # Suwandi Ahmad <ahmad.suwandi@gmail.com>, 2013
 # Suwandi Ahmad <ahmad.suwandi@gmail.com>, 2013
+# Vasanthi Hargyono <va.santhi@yahoo.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2015-02-16 02:54+0000\n"
-"Last-Translator: Imron Fauzi <imronfauzi@gmail.com>\n"
+"PO-Revision-Date: 2015-06-09 06:07+0000\n"
+"Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -99,7 +100,7 @@ msgstr "Tambahkan Bahasa"
 #: ui_main.add_new
 msgctxt "ui_main.add_new"
 msgid "Add New"
-msgstr "Tambahan Baru"
+msgstr "Tambahkan Baru"
 
 #: ui_main.add_new_category
 msgctxt "ui_main.add_new_category"
@@ -119,7 +120,7 @@ msgstr "Administrasi"
 #: ui_main.alerts
 msgctxt "ui_main.alerts"
 msgid "Get Alerts"
-msgstr "Dapatkan Pemberitahuan"
+msgstr "Dapatkan Peringatan"
 
 #: ui_main.alerts_alert_me
 msgctxt "ui_main.alerts_alert_me"
@@ -129,7 +130,7 @@ msgstr "Beritahukan saya bila ada laporan yang masuk tentang:"
 #: ui_main.alerts_btn_send
 msgctxt "ui_main.alerts_btn_send"
 msgid "Save My Alert"
-msgstr "Rekam Pemberitahuan Saya"
+msgstr "Rekam Peringatan Saya"
 
 #: ui_main.alerts_email
 msgctxt "ui_main.alerts_email"
@@ -149,7 +150,7 @@ msgstr "masukkan nomor ponsel beserta kode negaranya"
 #: ui_main.alerts_get
 msgctxt "ui_main.alerts_get"
 msgid "Get Alerts"
-msgstr "Dapatkan Pemberitahuan"
+msgstr "Dapatkan Peringatan"
 
 #: ui_main.alert_has_been
 msgctxt "ui_main.alert_has_been"
@@ -178,7 +179,7 @@ msgstr "Jika Anda tidak dapat menemukan lokasi yang diinginkan, klik pada peta u
 #: ui_main.alerts_rss
 msgctxt "ui_main.alerts_rss"
 msgid "RSS Feeds (copy the URL below)"
-msgstr "Umpan RSS (salin alamat di bawah ini)"
+msgstr "Umpan RSS (salin URL di bawah ini)"
 
 #: ui_main.alerts_select_city
 msgctxt "ui_main.alerts_select_city"
@@ -193,7 +194,7 @@ msgstr "<strong>Langkah 1:</strong> Pilih kota atau lokasi Anda:"
 #: ui_main.alerts_step2_send_alerts
 msgctxt "ui_main.alerts_step2_send_alerts"
 msgid "<strong>Step 2:</strong> Send alerts to my:"
-msgstr "<strong>Langkah 2:</strong> Kirim pemberitahuan ke:"
+msgstr "<strong>Langkah 2:</strong> Kirim peringatan ke:"
 
 #: ui_main.alerts_step3_select_catgories
 msgctxt "ui_main.alerts_step3_select_catgories"
@@ -203,12 +204,12 @@ msgstr "<strong>Langkah 3 (Optional):</strong> Pilih Kategori"
 #: ui_main.alert_confirm_previous
 msgctxt "ui_main.alert_confirm_previous"
 msgid "Confirm A Previous Alert Request"
-msgstr "Konfirmasi Permintaan Pemberitahuan Anda Sebelumnya"
+msgstr "Konfirmasi Permintaan Peringatan Anda Sebelumnya"
 
 #: ui_main.alert_saved
 msgctxt "ui_main.alert_saved"
 msgid "Your Alert Has Been Saved!"
-msgstr "Pemberitahuan Anda Telah Disimpan!"
+msgstr "Peringatan Anda Telah Disimpan!"
 
 #: ui_main.all
 msgctxt "ui_main.all"
@@ -223,7 +224,7 @@ msgstr "Diijinkan"
 #: ui_main.allowed_tags
 msgctxt "ui_main.allowed_tags"
 msgid "Allowed HTML tags: \"%s\"."
-msgstr "Tags HTML: \"%s\" diperkenankan."
+msgstr "Tags HTML yang diperkenankan: \"%s\"."
 
 #: ui_main.allowed_iframes
 msgctxt "ui_main.allowed_iframes"
@@ -313,7 +314,7 @@ msgstr "Auto"
 #: ui_main.avg_reports_per_day
 msgctxt "ui_main.avg_reports_per_day"
 msgid "Avg Reports Per Day"
-msgstr "Rerata Laporan Perhari"
+msgstr "Rata-rata Laporan Perhari"
 
 #: ui_main.awaiting_approval
 msgctxt "ui_main.awaiting_approval"
@@ -323,12 +324,12 @@ msgstr "Menunggu Persetujuan"
 #: ui_main.awaiting_verification
 msgctxt "ui_main.awaiting_verification"
 msgid "Awaiting Verification"
-msgstr "Menunggu Pembuktian"
+msgstr "Menunggu Verifikasi"
 
 #: ui_main.badge
 msgctxt "ui_main.badge"
 msgid "Badge"
-msgstr "Lambang"
+msgstr "Lencana"
 
 #: ui_main.badges
 msgctxt "ui_main.badges"
@@ -338,22 +339,22 @@ msgstr "Lencana"
 #: ui_main.badge_image
 msgctxt "ui_main.badge_image"
 msgid "Badge Image"
-msgstr "Gambar Lambang"
+msgstr "Gambar Lencana"
 
 #: ui_main.badge_image_upload_your_own
 msgctxt "ui_main.badge_image_upload_your_own"
 msgid "Or you can upload your own badge image instead."
-msgstr "Atau Anda dapat mengunggah gambar lambang di sini."
+msgstr "Atau Anda dapat mengunggah gambar lencana di sini."
 
 #: ui_main.badge_pack
 msgctxt "ui_main.badge_pack"
 msgid "Badge Pack"
-msgstr "Kumpulan Lambang"
+msgstr "Kumpulan Lencana"
 
 #: ui_main.badge_select
 msgctxt "ui_main.badge_select"
 msgid "Select a Badge"
-msgstr "Pilih Lambang"
+msgstr "Pilih Lencana"
 
 #: ui_main.blog
 msgctxt "ui_main.blog"
@@ -453,7 +454,7 @@ msgstr "Tutup"
 #: ui_main.clusters
 msgctxt "ui_main.clusters"
 msgid "clusters"
-msgstr "bagian"
+msgstr "kelompok-kelompok"
 
 #: ui_main.color
 msgctxt "ui_main.color"
@@ -879,7 +880,7 @@ msgstr "Menyediakan Masukan"
 #: ui_main.feedback_reports
 msgctxt "ui_main.feedback_reports"
 msgid "Please give us feedback about your experience by sending an email to "
-msgstr "Tolong beri kami umpan balik tentang pengalaman Anda dengan mengirimkan email ke"
+msgstr "Tolong beri kami masukan tentang pengalaman Anda dengan mengirimkan email ke"
 
 #: ui_main.feeds
 msgctxt "ui_main.feeds"
@@ -904,7 +905,7 @@ msgstr "Nama Umpan"
 #: ui_main.feed_url
 msgctxt "ui_main.feed_url"
 msgid "Feed URL"
-msgstr "Alamat Umpan"
+msgstr "URL Umpan"
 
 #: ui_main.field_unused
 msgctxt "ui_main.field_unused"
