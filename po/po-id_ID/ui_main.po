@@ -12,7 +12,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2015-06-09 06:07+0000\n"
+"PO-Revision-Date: 2015-06-09 07:34+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -623,7 +623,7 @@ msgstr "Hari"
 #: ui_main.Daily
 msgctxt "ui_main.Daily"
 msgid "Daily"
-msgstr "Tiap hari"
+msgstr "Harian"
 
 #: ui_main.deactivate
 msgctxt "ui_main.deactivate"
@@ -633,7 +633,7 @@ msgstr "Menonaktifkan"
 #: ui_main.default_location_name
 msgctxt "ui_main.default_location_name"
 msgid "Nairobi, Kenya"
-msgstr "Jakarta, Indonesia"
+msgstr "Nairobi, Kenya"
 
 #: ui_main.delete
 msgctxt "ui_main.delete"
@@ -763,27 +763,27 @@ msgstr "Host Server Surel"
 #: ui_main.email_server_password
 msgctxt "ui_main.email_server_password"
 msgid "Mail Server Password"
-msgstr "Kata Sandi Server Mail"
+msgstr "Kata Sandi Server Surel"
 
 #: ui_main.email_server_port
 msgctxt "ui_main.email_server_port"
 msgid "Mail Server Port"
-msgstr "Port Server Mail"
+msgstr "Port Server Surel"
 
 #: ui_main.email_server_ssl_support
 msgctxt "ui_main.email_server_ssl_support"
 msgid "Mail Server SSL support"
-msgstr "Dukungan SSL Server Mail"
+msgstr "Dukungan SSL Server Surel"
 
 #: ui_main.email_server_type
 msgctxt "ui_main.email_server_type"
 msgid "Mail Server Type"
-msgstr "Jenis Server Mail"
+msgstr "Jenis Server Surel"
 
 #: ui_main.email_server_username
 msgctxt "ui_main.email_server_username"
 msgid "Mail Server Username"
-msgstr "Nama Pengguna Server Mail"
+msgstr "Nama Pengguna Server Surel"
 
 #: ui_main.email_settings_comment_0
 msgctxt "ui_main.email_settings_comment_0"
@@ -840,7 +840,7 @@ msgstr "ke"
 #: ui_main.error
 msgctxt "ui_main.error"
 msgid "Error!"
-msgstr "Galat!"
+msgstr "Error!"
 
 #: ui_main.example
 msgctxt "ui_main.example"
@@ -850,7 +850,7 @@ msgstr "Contoh"
 #: ui_main.example_country
 msgctxt "ui_main.example_country"
 msgid "Kenya"
-msgstr "Indonesia"
+msgstr "Kenya"
 
 #: ui_main.external_apps
 msgctxt "ui_main.external_apps"
@@ -1030,7 +1030,7 @@ msgstr "Label"
 #: ui_main.geometry_strokewidth
 msgctxt "ui_main.geometry_strokewidth"
 msgid "Stroke Width"
-msgstr "Lebar Stroke"
+msgstr "Lebar Coretan"
 
 #: ui_main.go
 msgctxt "ui_main.go"
@@ -1090,12 +1090,12 @@ msgstr "HTTPS"
 #: ui_main.id
 msgctxt "ui_main.id"
 msgid "ID"
-msgstr "Identitas"
+msgstr "ID"
 
 #: ui_main.identify_you
 msgctxt "ui_main.identify_you"
 msgid "Used to identify you on the site to other users."
-msgstr "Sudah digunakan untuk mengidentifikasi Anda pada situs ini oleh pengguna lain."
+msgstr "Digunakan untuk mengidentifikasi Anda pada situs ini oleh pengguna lain."
 
 #: ui_main.image
 msgctxt "ui_main.image"
@@ -1185,7 +1185,7 @@ msgstr "Termasuk Informasi Pribadi"
 #: ui_main.incoming_media
 msgctxt "ui_main.incoming_media"
 msgid "Incoming Media"
-msgstr "Incoming Media"
+msgstr "Media Masuk"
 
 #: ui_main.information_evaluation
 msgctxt "ui_main.information_evaluation"
@@ -1332,12 +1332,12 @@ msgstr "Tautan Lapisan"
 #: ui_main.leave_a_comment
 msgctxt "ui_main.leave_a_comment"
 msgid "Leave a Comment"
-msgstr "Tinggalkan Pesan"
+msgstr "Tinggalkan Komentar"
 
 #: ui_main.less_information
 msgctxt "ui_main.less_information"
 msgid "Less Information"
-msgstr "Kurang Informasi"
+msgstr "Lebih Sedikit Informasi"
 
 #: ui_main.level
 msgctxt "ui_main.level"
@@ -1387,7 +1387,7 @@ msgstr "Lokasi"
 #: ui_main.location_example
 msgctxt "ui_main.location_example"
 msgid "City, State and/or Country"
-msgstr "Kota, Negara"
+msgstr "Kota, Negara Bagian dan/atau Negara"
 
 #: ui_main.login
 msgctxt "ui_main.login"
@@ -1598,7 +1598,7 @@ msgctxt "ui_main.must_confirm_email_address"
 msgid ""
 "You must confirm your email address to access this deployment. If you lost "
 "your confirmation email, you can request a new one below."
-msgstr "Anda harus mengkonfirmasi alamat surel untuk mengakses pengembangan ini. Jika Anda kehilangan surel yang berisi konfirmasi, Anda bisa meminta lagi di bawah ini."
+msgstr "Anda harus mengkonfirmasi alamat surel untuk mengakses situs ini. Jika Anda kehilangan surel yang berisi konfirmasi, Anda bisa meminta lagi di bawah ini."
 
 #: ui_main.name
 msgctxt "ui_main.name"
@@ -1673,7 +1673,7 @@ msgstr "Tanpa"
 #: ui_main.notices
 msgctxt "ui_main.notices"
 msgid "Notices"
-msgstr "Catatan"
+msgstr "Pemberitahuan"
 
 #: ui_main.not_approved
 msgctxt "ui_main.not_approved"
@@ -1803,7 +1803,7 @@ msgstr "Judul Asli"
 #: ui_main.other_ushahidi_instances
 msgctxt "ui_main.other_ushahidi_instances"
 msgid "Other Deployments"
-msgstr "Pengembangan Lainnya"
+msgstr "Situs Lainnya"
 
 #: ui_main.outbox
 msgctxt "ui_main.outbox"
@@ -1986,7 +1986,7 @@ msgstr "Sebelumnya"
 #: ui_main.private
 msgctxt "ui_main.private"
 msgid "Private"
-msgstr "Akses Terbatas"
+msgstr "Pribadi"
 
 #: ui_main.profile_color
 msgctxt "ui_main.profile_color"
@@ -2021,7 +2021,7 @@ msgstr "Menerima"
 #: ui_main.receive_from
 msgctxt "ui_main.receive_from"
 msgid "Receive from"
-msgstr "diterima dari"
+msgstr "Diterima dari"
 
 #: ui_main.receive_notifications
 msgctxt "ui_main.receive_notifications"
@@ -2223,7 +2223,7 @@ msgctxt "ui_main.reports_submitted"
 msgid ""
 "Your Report has been submitted to our staff for review. We will get back to "
 "you shortly if necessary."
-msgstr "Laporan Anda sudah dikirimkan ke staf kami untuk diperiksa, Kami akan segera memgabari Anda."
+msgstr "Laporan Anda sudah dikirimkan ke staf kami untuk diperiksa, Kami akan segera mengabari Anda."
 
 #: ui_main.reports_submit_new
 msgctxt "ui_main.reports_submit_new"
@@ -2355,7 +2355,7 @@ msgstr "Anda telah memiliki sebuah akun yang dikelola CrowdMapID! Cobalah menggu
 #: ui_main.role
 msgctxt "ui_main.role"
 msgid "Role"
-msgstr "Aturan"
+msgstr "Peran"
 
 #: ui_main.rss
 msgctxt "ui_main.rss"
@@ -2530,7 +2530,7 @@ msgstr "Bagi"
 #: ui_main.shared_data
 msgctxt "ui_main.shared_data"
 msgid "Shared data"
-msgstr "Berbagi Data"
+msgstr "Data Bersama"
 
 #: ui_main.share_has_been
 msgctxt "ui_main.share_has_been"
@@ -2550,12 +2550,12 @@ msgstr "Peta Lebih Pendek"
 #: ui_main.show
 msgctxt "ui_main.show"
 msgid "Show"
-msgstr "Tayangkan"
+msgstr "Tampilkan"
 
 #: ui_main.show_all
 msgctxt "ui_main.show_all"
 msgid "Show all"
-msgstr "Tayangkan Semua "
+msgstr "Tampilkan Semua "
 
 #: ui_main.show_messages
 msgctxt "ui_main.show_messages"
@@ -2565,7 +2565,7 @@ msgstr "Tampilkan Pesan"
 #: ui_main.showing_reports_from
 msgctxt "ui_main.showing_reports_from"
 msgid "Showing Reports From <span class=\"time-period\">%1$s to %2$s</span>"
-msgstr "Menampilkan Laporan Dari <span class=\"time-period\">%1$s to %2$s</span>"
+msgstr "Menampilkan Laporan Dari <span class=\"time-period\">%1$s ke %2$s</span>"
 
 #: ui_main.site
 msgctxt "ui_main.site"
@@ -2610,7 +2610,7 @@ msgstr "Nama Sumber"
 #: ui_main.sort
 msgctxt "ui_main.sort"
 msgid "Sort"
-msgstr "Disortir"
+msgstr "Sortir"
 
 #: ui_main.sort_by
 msgctxt "ui_main.sort_by"
@@ -2620,7 +2620,7 @@ msgstr "Disortir oleh"
 #: ui_main.source_url
 msgctxt "ui_main.source_url"
 msgid "Source URL"
-msgstr "Tautan Sumber"
+msgstr "URL Sumber"
 
 #: ui_main.spam
 msgctxt "ui_main.spam"
@@ -2635,7 +2635,7 @@ msgstr "Dukungan SSL?"
 #: ui_main.start_point
 msgctxt "ui_main.start_point"
 msgid "From"
-msgstr "dari"
+msgstr "Dari"
 
 #: ui_main.step
 msgctxt "ui_main.step"
@@ -2680,17 +2680,17 @@ msgstr "Berhasil diimpor"
 #: ui_main.surname
 msgctxt "ui_main.surname"
 msgid "Surname"
-msgstr "Nama Asli"
+msgstr "Nama Belakang"
 
 #: ui_main.survey
 msgctxt "ui_main.survey"
 msgid "Survey"
-msgstr "Jajak Pendapat"
+msgstr "Survey"
 
 #: ui_main.system
 msgctxt "ui_main.system"
 msgid "System"
-msgstr "Sistim"
+msgstr "Sistem"
 
 #: ui_main.taller_map
 msgctxt "ui_main.taller_map"
@@ -2954,7 +2954,7 @@ msgctxt "ui_main.upload_reports_detail_4g"
 msgid ""
 "Date field values are in the following format: mm/dd/yyyy e.g 3rd October "
 "2012 = 10/03/2012"
-msgstr "Kolom tanggal harus dalam bentuk bb/dd/tttt, misalnya 3 Oktober 2013 = 10/03/2012"
+msgstr "Kolom tanggal harus dalam bentuk mm/dd/yyyy, misalnya 3 Oktober 2013 = 10/03/2012"
 
 #: ui_main.upload_reports_detail_5
 msgctxt "ui_main.upload_reports_detail_5"
@@ -2969,7 +2969,7 @@ msgid ""
 "/>\"1\",\"Suspected death in Nairobi\",\"2009-05-15 "
 "01:06:00\",\"Nairobi\",\"Three cases have been confirmed in C. del "
 "Uruguay\",\"DEATHS, CIVILIANS, \",YES,YES,\"-1.287\",\"36.821\""
-msgstr "#,JUDULKEJADIAN,TANGGAL KEAJDIAN,LOKASI,DESKRIPSI,KATEGORI,DISETUJUI,DIPERIKSA,LINTANG<BUJUR<br/>\"1\",\"Perkiraan korban tewas di Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Tiga kasus sudah dikonfirmasi\",\"Tewas, Warga Sipil, \",Ya,Ya,\"-1.287\",\"36.821\""
+msgstr "#,JUDULKEJADIAN,TANGGAL KEJADIAN,LOKASI,DESKRIPSI,KATEGORI,DISETUJUI,DIPERIKSA,LINTANG,BUJUR<br/>\"1\",\"Perkiraan korban tewas di Nairobi\",\"2009-05-15 01:06:00\",\"Nairobi\",\"Tiga kasus sudah dikonfirmasi\",\"Tewas, Warga Sipil, \",Ya,Ya,\"-1.287\",\"36.821\""
 
 #: ui_main.upload_reports_detail_7
 msgctxt "ui_main.upload_reports_detail_7"
@@ -3067,7 +3067,7 @@ msgstr "Lihat Semua"
 #: ui_main.view_all_feeds
 msgctxt "ui_main.view_all_feeds"
 msgid "View all feeds"
-msgstr "Lihat semua feeds"
+msgstr "Lihat semua umpan"
 
 #: ui_main.view_all_reports
 msgctxt "ui_main.view_all_reports"

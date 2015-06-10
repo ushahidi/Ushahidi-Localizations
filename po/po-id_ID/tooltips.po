@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2014-09-27 05:08+0000\n"
-"PO-Revision-Date: 2015-05-22 06:32+0000\n"
+"PO-Revision-Date: 2015-06-10 06:12+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgid ""
 "The feed can be all feeds or a specific feeds. If you would only like "
 "specific feeds to activate a trigger, you will want to select them here. "
 "Otherwise, you will want to leave this as \"all\""
-msgstr "Umpan ini bisa berupa seluruh atau umpan tertentu saja. Jika Anda menginginkan hanya umpan tertentu untuk mengaktifkan pemicu, Anda bisa memilihnya di sini. Namun jika Anda mengosongkan, maka seluruh umpan akan mengaktifkan pemicu."
+msgstr "Umpan ini bisa berisi seluruhnya atau umpan tertentu saja. Jika Anda menginginkan hanya umpan tertentu untuk mengaktifkan pemicu, Anda bisa memilihnya di sini. Namun jika Anda mengosongkan, maka seluruh umpan akan mengaktifkan pemicu."
 
 #: tooltips.actions.from
 msgctxt "tooltips.actions.from"
@@ -181,7 +181,7 @@ msgctxt "tooltips.change_picture"
 msgid ""
 "Profile pages on this site use Gravatar. By clicking on your image, you will"
 " be taken to the Gravatar website where you can change your profile picture."
-msgstr "Halaman profile di situs ini menggunakan Gravatar. Dengan mengklik Gravatar, Anda akan diarahkan ke situs Gravatar untuk mencari gambar yang sesuai dengan keinginan."
+msgstr "Halaman profile di situs ini menggunakan Gravatar. Dengan melakukan klik pada gambar, Anda akan diarahkan ke situs Gravatar untuk mencari gambar yang sesuai dengan keinginan."
 
 #: tooltips.default_value
 msgctxt "tooltips.default_value"
@@ -194,7 +194,7 @@ msgid ""
 "Separate each value with a comma, e.g. value1, value2. In case you want to "
 "set a default value, end your list of options with :: e.g If you want to "
 "make value3 the default, it will be value1, value2, value3::value3"
-msgstr "Pisahkan antar nilai dengan tanda koma. Jika Anda menginginkan pengaturan nilai standar, akhiri daftar pilihan dengan ::. Misalnya Anda ingin agar bilangan3 menjadi standar, maka yang harus ditulis adalah bilangan1, bilangan2, bilangan3::bilangan3"
+msgstr "Pisahkan antar nilai dengan tanda koma, misalnya bilangan1,bilangan2. Jika Anda menginginkan pengaturan nilai standar, akhiri daftar pilihan dengan ::. Misalnya Anda ingin agar bilangan3 menjadi standar, maka yang harus ditulis adalah bilangan1, bilangan2, bilangan3::bilangan3"
 
 #: tooltips.dropdown_choices
 msgctxt "tooltips.dropdown_choices"
@@ -222,7 +222,7 @@ msgid ""
 "You can select a color that will show up under your profile picture on your "
 "public profile. This color will also be the color dot that shows up on the "
 "map for your checkins."
-msgstr "Anda bisa memilih warna yang muncul di bawah gambar profil dalam halaman profil Anda. Warna ini juga akan menjadi warna pada setiap titik di mana Anda checkin."
+msgstr "Anda bisa memilih warna yang muncul di bawah gambar profil dalam halaman profil Anda. Warna ini juga akan menjadi warna pada setiap titik yang muncul di peta di mana Anda melakukan checkin."
 
 #: tooltips.profile_email
 msgctxt "tooltips.profile_email"
@@ -256,7 +256,7 @@ msgctxt "tooltips.profile_notify"
 msgid ""
 "Selecting YES lets you get alerts via email when new reports or comments are"
 " posted on your website."
-msgstr "Memilih YA memungkinkan Anda memperoleh penringatan melalui surel ketika ada laporan atau komentar diposting ke situs."
+msgstr "Memilih YA memungkinkan Anda memperoleh peringatan melalui surel ketika ada laporan atau komentar diposting ke situs."
 
 #: tooltips.profile_password
 msgctxt "tooltips.profile_password"
@@ -306,7 +306,7 @@ msgstr "Ijinkan pengguna untuk mendaftarkan peringatan melalui situs."
 #: tooltips.settings_allow_clustering
 msgctxt "tooltips.settings_allow_clustering"
 msgid "This allows bundling of similar reports into a single dot on the map"
-msgstr "Hal ini akan mengijinkan menjadikan beberapa laporan yang mirip dalam satu titik di peta."
+msgstr "Hal ini akan memperbolehkan agar beberapa laporan yang mirip digabungkan dalam satu titik di peta."
 
 #: tooltips.settings_allow_comments
 msgctxt "tooltips.settings_allow_comments"
@@ -355,7 +355,7 @@ msgstr "Banner ini akan muncul di bagian paling atas pada bagian depan situs And
 #: tooltips.settings_blocks_per_row
 msgctxt "tooltips.settings_blocks_per_row"
 msgid "Number of Block columns that will be displayed on each row."
-msgstr "Jumlah kotak kolom yang akan ditampilkan dalam setiap lajur."
+msgstr "Jumlah kotak kolom yang akan ditampilkan dalam setiap baris."
 
 #: tooltips.settings_cache_pages
 msgctxt "tooltips.settings_cache_pages"
@@ -364,7 +364,7 @@ msgid ""
 "response times. We recommend using caching on high traffic sites. **Remember"
 " that reports will be populated on the front end based on the schedule you "
 "set below (Cache Lifetime)."
-msgstr "Pilihan cache halaman. Ini akan menjadikan halaman ditampilkan lebih cepat. Kami sarankan Anda mengaktifkan cache untuk situs yang banyak diakses. **Ingat, bahwa setiap laporan akan dikumpulkan di bagian depan situs berdasarkan jadwal yang Anda atur di bawah ini (Kadaluarsa Cache)."
+msgstr "Pilihan cache halaman. Ini akan menjadikan halaman ditampilkan lebih cepat. Kami sarankan Anda mengaktifkan cache untuk situs yang banyak diakses. **Ingat, bahwa setiap laporan akan dikumpulkan di bagian depan situs berdasarkan jadwal yang Anda atur di bawah ini (Masa Berlaku Cache)."
 
 #: tooltips.settings_cache_pages_lifetime
 msgctxt "tooltips.settings_cache_pages_lifetime"
@@ -380,7 +380,7 @@ msgid ""
 "make sure your timezone setting is on UTC and your theme supports checkins. "
 "When you enable this, checkin-only themes will become enabled under your "
 "addons/themes settings page."
-msgstr "Pengaturan ini memungkinkan checkin pada sistem Anda. Ini adalah jenis laporan yang disederhanakan dan tidak dimoderasi sebelum ditampilkan dalam situs. Bila Anda mengaktifkan ini, pastikan pengaturan zona waktu standar UTC dan tema Anda mendukung checkin. Bila Anda mengaktifkan ini, checkin dalam tema akan diaktifkan di bawah addons/halaman pengaturan tema."
+msgstr "Pengaturan ini memungkinkan checkin pada situs Anda. Ini adalah jenis laporan yang disederhanakan dan tidak dimoderasi sebelum ditampilkan dalam situs. Bila Anda mengaktifkan ini, pastikan pengaturan zona waktu standar UTC dan tema Anda mendukung checkin. Bila Anda mengaktifkan ini, checkin dalam tema akan diaktifkan di bawah addons/halaman pengaturan tema."
 
 #: tooltips.settings_configure_map
 msgctxt "tooltips.settings_configure_map"
@@ -395,12 +395,12 @@ msgstr "Atur satu warna untuk semua kategori di situs ini."
 #: tooltips.settings_default_category_icons
 msgctxt "tooltips.settings_default_category_icons"
 msgid "Set one icon for all the categories on the site."
-msgstr "Satu satu ikon untuk seluruh kategori di situs ini."
+msgstr "Atur satu ikon untuk seluruh kategori di situs ini."
 
 #: tooltips.settings_default_location
 msgctxt "tooltips.settings_default_location"
 msgid "This is the country the site is being deployed."
-msgstr "Negara di mana situs ini dikembangkan."
+msgstr "Negara di mana situs ini disebarkan."
 
 #: tooltips.settings_display_contact
 msgctxt "tooltips.settings_display_contact"

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2012-12-09 06:11+0000\n"
-"PO-Revision-Date: 2015-05-15 07:21+0000\n"
+"PO-Revision-Date: 2015-06-10 02:32+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -29,7 +29,7 @@ msgctxt "alerts.alert_email.email_check"
 msgid ""
 "That Email address has already been registered to receive alerts for that "
 "location."
-msgstr "Alamat surel yang tercantum sudah terdaftar sebagai penerima berita untuk lokasi tersebut"
+msgstr "Alamat surel yang tercantum sudah terdaftar sebagai penerima peringatan untuk lokasi tersebut"
 
 #: alerts.alert_email.length
 msgctxt "alerts.alert_email.length"
@@ -46,7 +46,7 @@ msgctxt "alerts.alert_country.single_country"
 msgid ""
 "This deployment spans within one country only. Please make sure the alert "
 "location is within the country %s."
-msgstr "Cakupan penyebaran platform ini hanya dalam satu negara. Pastikan lokasi pemberitahuan berada dalam negara %s"
+msgstr "Cakupan penyebaran platform ini hanya dalam satu negara. Pastikan lokasi peringatan berada dalam negara %s"
 
 #: alerts.alert_lat.between
 msgctxt "alerts.alert_lat.between"
@@ -79,7 +79,7 @@ msgctxt "alerts.alert_mobile.mobile_check"
 msgid ""
 "That Mobile Phone Number has already been registered to receive alerts for "
 "that location."
-msgstr "Nomor telpon seluler yang dicantumkan sudah terdaftar untuk menerima berita dari lokasi itu."
+msgstr "Nomor telpon seluler yang dicantumkan sudah terdaftar untuk menerima peringatan dari lokasi itu."
 
 #: alerts.alert_mobile.numeric
 msgctxt "alerts.alert_mobile.numeric"
@@ -135,12 +135,12 @@ msgctxt "alerts.code_verified"
 msgid ""
 " Your code was verified correctly. You will now receive alerts about "
 "incidents as they happen."
-msgstr "Kode anda telah diverifikasi dengan benar. Anda akan menerima pesan begitu ada kejadian."
+msgstr "Kode anda telah diverifikasi dengan benar. Anda akan menerima peringatan begitu ada kejadian."
 
 #: alerts.confirm_request
 msgctxt "alerts.confirm_request"
 msgid "To confirm your alert request, please go to "
-msgstr "Untuk mengkonfirmasikan permintaan pesan anda, mohon lanjut ke"
+msgstr "Untuk mengkonfirmasikan permintaan peringatan anda, mohon lanjut ke"
 
 #: alerts.create_more_alerts
 msgctxt "alerts.create_more_alerts"
@@ -152,7 +152,7 @@ msgctxt "alerts.email_alert_request_created"
 msgid ""
 "Your Email Alert request has been created and verification message has been "
 "sent to "
-msgstr "Permintaan notifikasi surel anda telah dibuat dan pesan untuk memverifikasi ini telah dikirim ke"
+msgstr "Permintaan Peringatan melalui surel anda telah dibuat dan pesan untuk memverifikasi ini telah dikirim ke"
 
 #: alerts.email_code
 msgctxt "alerts.email_code"
@@ -162,12 +162,12 @@ msgstr "Silakan masukan kode konfirmasi surel yang anda terima di bawah ini :"
 #: alerts.email_error_head
 msgctxt "alerts.email_error_head"
 msgid "Your Email Alert Request Has NOT Been Saved!"
-msgstr "Permintaan notifikasi surel anda BELUM tersimpan !"
+msgstr "Permintaan Peringatan melalui surel anda BELUM tersimpan !"
 
 #: alerts.email_ok_head
 msgctxt "alerts.email_ok_head"
 msgid "Your Email Alert Request Has Been Saved!"
-msgstr "Permintaan notifikasi surel anda telah tersimpan!"
+msgstr "Permintaan Peringatan melalui surel anda telah tersimpan!"
 
 #: alerts.error
 msgctxt "alerts.error"
@@ -179,7 +179,7 @@ msgctxt "alerts.mobile_alert_request_created"
 msgid ""
 "Your Mobile Alert request has been created and verification message has been"
 " sent to "
-msgstr "Permintaan notifikasi mobile anda telah dibuat dan pesan untuk memverifikasi ini telah dikirim ke"
+msgstr "Permintaan Peringatan melalui ponsel anda telah dibuat dan pesan untuk memverifikasi ini telah dikirim ke"
 
 #: alerts.mobile_code
 msgctxt "alerts.mobile_code"
@@ -191,29 +191,29 @@ msgstr "Silakan masukan kode konfirmasi SMS yang anda terima di telpon seluler a
 #: alerts.mobile_error_head
 msgctxt "alerts.mobile_error_head"
 msgid "Your Mobile Alert Request Has NOT Been Saved!"
-msgstr "Permintaan notifikasi mobile anda BELUM tersimpan !"
+msgstr "Permintaan Peringatan melalui ponsel anda BELUM tersimpan !"
 
 #: alerts.mobile_ok_head
 msgctxt "alerts.mobile_ok_head"
 msgid "Your Mobile Alert Request Has Been Saved!"
-msgstr "Permintaan notifikasi mobile anda telah tersimpan !"
+msgstr "Permintaan Peringatan melalui ponsel anda telah tersimpan !"
 
 #: alerts.settings_error
 msgctxt "alerts.settings_error"
 msgid "This deployment is not set up to correctly process alerts"
-msgstr "Instalasi ini tidak terkonfigurasi untuk memroses notifikasi dengan benar"
+msgstr "Instalasi ini tidak terkonfigurasi untuk memroses peringatan dengan benar"
 
 #: alerts.unsubscribe
 msgctxt "alerts.unsubscribe"
 msgid ""
 "You have received this email because you subscribed to receive alerts. If "
 "you do not wish to receive future alerts go to "
-msgstr "Anda menerima surel ini karena anda minta untuk dinotifikasi. Jika anda mau menghentikan pengiriman surel ini silakan ke"
+msgstr "Anda menerima surel ini karena anda telah berlangganan untuk memperoleh peringatan. Jika anda mau menghentikan pengiriman peringatan ini silakan ke"
 
 #: alerts.unsubscribed
 msgctxt "alerts.unsubscribed"
 msgid "You will no longer receive alerts from "
-msgstr "Anda tidak lagi akan dikirimi notifikasi dari"
+msgstr "Anda tidak lagi akan dikirimi peringatan dari"
 
 #: alerts.unsubscribe_failed
 msgctxt "alerts.unsubscribe_failed"
@@ -225,10 +225,10 @@ msgstr "Kami gagal membatalkan permintaan penghentian berlangganan anda. Mohon p
 #: alerts.verification_email_subject
 msgctxt "alerts.verification_email_subject"
 msgid "alerts - verification"
-msgstr "pesan - verifikasi"
+msgstr "peringatan - verifikasi"
 
 #: alerts.verify_code
 msgctxt "alerts.verify_code"
 msgid ""
 "You will not receive alerts on this location until you confirm your request."
-msgstr "Anda tidak akan menerima pesan dari lokasi ini sebelum anda konfirmasikan permintaan anda."
+msgstr "Anda tidak akan menerima peringatan dari lokasi ini sebelum anda konfirmasikan permintaan anda."

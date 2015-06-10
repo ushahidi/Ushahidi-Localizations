@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Ushahidi v2.X\n"
 "Report-Msgid-Bugs-To: http://github.com/ushahidi/Ushahidi-Localizations/issues\n"
 "POT-Creation-Date: 2013-09-11 06:22+0000\n"
-"PO-Revision-Date: 2015-05-22 09:49+0000\n"
+"PO-Revision-Date: 2015-06-09 08:02+0000\n"
 "Last-Translator: Vasanthi Hargyono <va.santhi@yahoo.com>\n"
 "Language-Team: Indonesian (Indonesia) (http://www.transifex.com/projects/p/ushahidi-v2/language/id_ID/)\n"
 "MIME-Version: 1.0\n"
@@ -471,7 +471,7 @@ msgstr "Semua Kolektif"
 #: ui_admin.error_geocoding
 msgctxt "ui_admin.error_geocoding"
 msgid "Error in geocoding! HTTP error"
-msgstr "Galat dalam geocoding! Galat HTTP"
+msgstr "Error dalam geocoding! HTTP Error"
 
 #: ui_admin.error_imap
 msgctxt "ui_admin.error_imap"
@@ -486,12 +486,12 @@ msgstr "Kredensial Tidak Tepat"
 #: ui_admin.error_msg
 msgctxt "ui_admin.error_msg"
 msgid "Error"
-msgstr "Galat!"
+msgstr "Error!"
 
 #: ui_admin.error_post_incident
 msgctxt "ui_admin.error_post_incident"
 msgid "Error, unable to post incident"
-msgstr "Galat, tidak bisa melaporkan kejadian"
+msgstr "Error, tidak bisa melaporkan kejadian"
 
 #: ui_admin.every_six_hours
 msgctxt "ui_admin.every_six_hours"
@@ -521,7 +521,7 @@ msgstr "umpan"
 #: ui_admin.feedback
 msgctxt "ui_admin.feedback"
 msgid "Feedback"
-msgstr "Umpan balik"
+msgstr "Umpan Balik"
 
 #: ui_admin.feeds
 msgctxt "ui_admin.feeds"
@@ -661,7 +661,7 @@ msgstr "Dari"
 #: ui_admin.geonames_timeout
 msgctxt "ui_admin.geonames_timeout"
 msgid "Geonames Timeout Error"
-msgstr "Galat Waktu Habis untuk Penamaan Lokasi"
+msgstr "Error Waktu Habis untuk Penamaan Lokasi"
 
 #: ui_admin.get_help
 msgctxt "ui_admin.get_help"
@@ -943,7 +943,7 @@ msgstr "geser ke atas"
 #: ui_admin.multiple_hosted_instances
 msgctxt "ui_admin.multiple_hosted_instances"
 msgid "Multiple Hosted Instances"
-msgstr "Beberapa Contoh "
+msgstr "Beberapa Contoh Host"
 
 #: ui_admin.my_alerts
 msgctxt "ui_admin.my_alerts"
@@ -1086,7 +1086,7 @@ msgid ""
 "problem.</p><p><strong>Did you type the URL? </strong><br />You may have "
 "typed the address (URL) incorrectly. Check to make sure you have got the "
 "exact right spelling, capitalization, etc. </p>"
-msgstr "Maaf, halaman yang And a inginkan tidal ada di sini.<p><strong>Apakah Anda mengikuti tauten dari sebuah alamat di situs Anda?</strong><br /> Jika Anda menemukan halaman ini dari bagian lain dal am situs ini, moon <a href=\"%s\">hubungi kami</a> agar kami bias memperbaikinya.</p><p><strong>Atau, apakah Anda menemukan tautan dari situs lain? </strong><br />Tautan dari situs lain bias saga terjadi kesalahan ejaan. <a href=\"%s\">Beritahu kami</a> darimana Anda mengakses halaman ini, sehingga kami bisa mengirimkan situs tersebut ralat.</p><p><strong>Atau, apakah Anda mengetik sendiri alamat tautan ini?</strong><br />Tautan  (URL) mungkin salah. Periksa lagi ejaan dan tulisan yang tepat. </p>"
+msgstr "Maaf, halaman yang Anda inginkan tidak ada di sini.<p><strong>Apakah Anda mengikuti tautan dari sebuah alamat di situs Anda?</strong><br /> Jika Anda menemukan halaman ini dari bagian lain dalam situs ini, mohon <a href=\"%s\">hubungi kami</a> agar kami bisa memperbaikinya.</p><p><strong>Atau, apakah Anda menemukan tautan dari situs lain? </strong><br />Tautan dari situs lain bisa saja terjadi kesalahan ejaan. <a href=\"%s\">Beritahu kami</a> darimana Anda mengakses halaman ini, sehingga kami bisa mengirimkan ralat ke situs tersebut.</p><p><strong>Atau, apakah Anda mengetik sendiri alamat tautan ini?</strong><br />Tautan  (URL) mungkin salah. Periksa lagi ejaan dan tulisan yang tepat. </p>"
 
 #: ui_admin.page_not_found_message
 msgctxt "ui_admin.page_not_found_message"
@@ -1123,7 +1123,7 @@ msgctxt "ui_admin.password_reset_message_line_3"
 msgid ""
 "To change your password, please click on the link below (or copy and paste "
 "it into your browser)."
-msgstr "Untuk mengubah kata sandi, klik tautan di bawah ini (atau salin dan tempen di perambah Anda)."
+msgstr "Untuk mengubah kata sandi, klik tautan di bawah ini (atau salin dan tempel di browser Anda)."
 
 #: ui_admin.password_reset_message_line_4
 msgctxt "ui_admin.password_reset_message_line_4"
@@ -1155,7 +1155,7 @@ msgstr "PM"
 #: ui_admin.post_method_not_used
 msgctxt "ui_admin.post_method_not_used"
 msgid "Data was not sent by post method"
-msgstr "Data tidak bisa dikirim dengan cara pengiriman"
+msgstr "Data tidak bisa dikirim dengan cara pengiriman via pos"
 
 #: ui_admin.preview
 msgctxt "ui_admin.preview"
@@ -1205,7 +1205,7 @@ msgstr "membaca"
 #: ui_admin.relevance
 msgctxt "ui_admin.relevance"
 msgid "Relevance"
-msgstr "Kesesuaian"
+msgstr "Relevansi"
 
 #: ui_admin.report_title
 msgctxt "ui_admin.report_title"
@@ -1245,7 +1245,7 @@ msgstr "Diminta"
 #: ui_admin.reset
 msgctxt "ui_admin.reset"
 msgid "Reset"
-msgstr "Ubah"
+msgstr "Reset"
 
 #: ui_admin.response
 msgctxt "ui_admin.response"
@@ -1316,7 +1316,7 @@ msgstr "Pilih format berkas unduhan yang Anda inginkan:-"
 #: ui_admin.select_field_type
 msgctxt "ui_admin.select_field_type"
 msgid "--- Select A Field Type ---"
-msgstr "-- Pilih Satu Jenis Berkas --"
+msgstr "-- Pilih Satu Jenis Bidang --"
 
 #: ui_admin.select_item
 msgctxt "ui_admin.select_item"
@@ -1384,7 +1384,7 @@ msgid ""
 "This is a special category that will not show up on the report submission "
 "form for users submitting reports. This is used in conjunction with the "
 "\"Trusted Reporters\" feature."
-msgstr "Ini adalah kategori khusus yang tidak ditampilkan di formulir pelaporan. Ini hanya digunakan untuk fitur \"Palpor Terpercaya\"."
+msgstr "Ini adalah kategori khusus yang tidak ditampilkan di formulir pelaporan. Ini hanya digunakan untuk fitur \"Pelapor Terpercaya\"."
 
 #: ui_admin.specific_area
 msgctxt "ui_admin.specific_area"
@@ -1394,7 +1394,7 @@ msgstr "Wilayah Tertentu"
 #: ui_admin.state
 msgctxt "ui_admin.state"
 msgid "State"
-msgstr "Propinsi"
+msgstr "Negara Bagian"
 
 #: ui_admin.statistics
 msgctxt "ui_admin.statistics"
@@ -1454,7 +1454,7 @@ msgstr "Kelola Pengguna"
 #: ui_admin.timeout
 msgctxt "ui_admin.timeout"
 msgid "Timeout Error"
-msgstr "Galat Waktu Habis"
+msgstr "Error Waktu Habis"
 
 #: ui_admin.to
 msgctxt "ui_admin.to"
@@ -1621,7 +1621,7 @@ msgctxt "ui_admin.delete_all_instructions"
 msgid ""
 "Clicking the button below will delete ALL reports on the database. You "
 "should use this with caution as this operation cannot be undone."
-msgstr "Klik tombol di bawah ini akan menghapus SEMUA laporan dalam database. Anda harus melakukan dengan penuh perhitungan karena data tidak bisa dikembalikan lagi."
+msgstr "Klik tombol di bawah ini akan menghapus SEMUA laporan dalam database. Anda harus melakukan dengan hati-hati karena data tidak bisa dikembalikan lagi."
 
 #: ui_admin.delete_all_backup
 msgctxt "ui_admin.delete_all_backup"
