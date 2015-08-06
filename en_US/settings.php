@@ -211,7 +211,7 @@ $lang = array(
 		'flsms_synchronize' => 'Connecting FrontlineSMS to this Ushahidi deployment',
 		'flsms_text_1' => 'Enter phone number(s) connected to Frontline SMS in the field(s) below',
 		'flsms_text_2' => 'Enter the number without any + or dashes below',
-		'option_1' => 'Option 1: Use Frontline SMS',
+		'option_1' => 'Option 1: Use FrontlineSMS',
 		'option_2' => 'Option 2: Use a Global SMS Gateway',
 		'title' => 'SMS Setup Options',
 	) ,
